@@ -155,11 +155,31 @@ public abstract class Symbol implements EnumLike {
 	public static final Variable X = new Variable('X');
 
 	/**
-	 * Returns the {@code Symbol} with the given representation, or {@code null}
-	 * if no mana symbol matches.
+	 * Returns the {@code Symbol} with the given representation.
 	 */
 	public static Symbol parse(String input) {
-		return PARSE_LOOKUP.get(input);
+		return parseInner(stripBrackets(input));
+	}
+	
+	static Symbol parseInner(String input) {
+		Symbol symbol = PARSE_LOOKUP.get(input);
+		if (symbol == null) {
+			try {
+				return Colorless.of(Integer.parseInt(input));
+			} catch (NumberFormatException e) {
+				throw new IllegalArgumentException(
+						"invalid symbol: {" + input + '}');
+			}
+		}
+		return symbol;
+	}
+	
+	static String stripBrackets(String input) {
+		int length = input.length();
+		if (input.charAt(0) == '{' && input.charAt(length - 1) == '}') {
+			return input.substring(1, length - 1);
+		}
+		throw new IllegalArgumentException("invalid symbol: " + input);
 	}
 
 	/**
@@ -187,10 +207,15 @@ public abstract class Symbol implements EnumLike {
 		ImmutableList<Symbol> values = ConstantGetter.values(Symbol.class);
 		ImmutableMap.Builder<String, Symbol> builder = ImmutableMap.builder();
 		for (Symbol symbol : values) {
-			builder.put(symbol.toString(), symbol);
+			builder.put(innerPart(symbol), symbol);
 		}
 		PARSE_LOOKUP = builder.build();
 		VALUES = ImmutableSet.copyOf(values);
+	}
+	
+	private static String innerPart(Symbol symbol) {
+		int length = symbol.toString().length();
+		return symbol.toString().substring(1, length - 2);
 	}
 
 	private final ImmutableSet<Color> colors;
@@ -203,8 +228,8 @@ public abstract class Symbol implements EnumLike {
 		this.representation = representation;
 	}
 
-	Symbol(Color only, int converted, String representation) {
-		this(ImmutableSet.of(only), converted, representation);
+	Symbol(Color color, int converted, String representation) {
+		this(ImmutableSet.of(color), converted, representation);
 	}
 
 	Symbol(int converted, String representation) {
@@ -228,21 +253,13 @@ public abstract class Symbol implements EnumLike {
 	public abstract void accept(Visitor visitor);
 
 	public static abstract class Primitive extends Symbol {
-
-		private final String innerPart;
-
-		Primitive(Color only) {
-			super(only, 1, String.format("{%c}", only.code()));
-			innerPart = Character.toString(only.code());
+		
+		Primitive(Color color) {
+			super(color, 1, String.format("{%c}", color.code()));
 		}
 
 		Primitive(int amount) {
 			super(ImmutableSet.<Color> of(), amount, String.format("{%d}", amount));
-			innerPart = Integer.toString(amount);
-		}
-
-		private String innerPart() {
-			return innerPart;
 		}
 	}
 
@@ -272,7 +289,7 @@ public abstract class Symbol implements EnumLike {
 		private TwoPartSymbol(Primitive first, Primitive second) {
 			super(Sets.union(first.colors(), second.colors()).immutableCopy(),
 					Math.max(first.converted(), second.converted()),
-					String.format("{%s/%s}", first.innerPart(), second.innerPart()));
+					String.format("{%s/%s}", innerPart(first), innerPart(second)));
 			this.first = first;
 			this.second = second;
 		}
@@ -319,7 +336,7 @@ public abstract class Symbol implements EnumLike {
 	public static final class Phyrexian extends Symbol {
 
 		private Phyrexian(Color color) {
-			super(color, 1, String.format("{%c/P}", color));
+			super(color, 1, String.format("{%c/P}", color.code()));
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {

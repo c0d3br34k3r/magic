@@ -4,27 +4,25 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.EnumMap;
 import java.util.EnumSet;
 import java.util.List;
+import java.util.ListIterator;
 import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Objects;
 import java.util.Set;
 
+import magic.Symbol.Hybrid;
+import magic.Symbol.MonocoloredHybrid;
+import magic.Symbol.Phyrexian;
+import magic.Symbol.Primary;
 import magic.Symbol.Variable;
 
 import com.google.common.base.Optional;
-import com.google.common.base.Supplier;
 import com.google.common.collect.HashMultiset;
 import com.google.common.collect.ImmutableMultiset;
-import com.google.common.collect.ImmutableMultiset.Builder;
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;
-import com.google.common.collect.ListMultimap;
 import com.google.common.collect.MapMaker;
-import com.google.common.collect.Multimaps;
 import com.google.common.collect.Multiset;
 
 /**
@@ -74,6 +72,11 @@ public final class ManaCost {
 	 * mana cost is returned.
 	 */
 	public static ManaCost of(Collection<Symbol> symbols) {
+		Sorter sorter = new Sorter();
+		for (Symbol symbol : symbols) {
+			
+		}
+		
 		return new ManaCost(Optional.of(Colorless.of(0)), ImmutableMultiset.copyOf(symbols));
 	}
 
@@ -98,8 +101,7 @@ public final class ManaCost {
 	 *             the symbols are not formatted properly
 	 */
 	public static ManaCost parse(String input) {
-		Multiset<Symbol> symbols = HashMultiset.create();
-		int colorless = 0;
+		List<Symbol> symbols = new ArrayList<>();
 		int begin = 0;
 		do {
 			if (input.charAt(begin) != '{') {
@@ -111,31 +113,10 @@ public final class ManaCost {
 				throw new IllegalArgumentException(String.format(
 						"no closing '}' in \"%s\"", input));
 			}
-			String part = input.substring(begin, end + 1);
-			Symbol symbol = Symbol.parse(part);
-			if (symbol != null) {
-				symbols.add(symbol);
-			} else {
-				int parsed;
-				try {
-					parsed = Integer.parseInt(input.substring(begin + 1, end));
-				} catch (NumberFormatException e) {
-					throw new IllegalArgumentException(String.format(
-							"invalid symbol \"%s\" in \"%s\"", part, input));
-				}
-				if (colorless != 0) {
-					throw new IllegalArgumentException(String.format(
-							"multiple colorless symbols in \"%s\"", input));
-				}
-				if (parsed == 0) {
-					throw new IllegalArgumentException(String.format(
-							"{0} used with other symbols in \"%s\"", input));
-				}
-				colorless = parsed;
-			}
+			symbols.add(Symbol.parseInner(input.substring(begin + 1, end)));
 			begin = end + 1;
 		} while (begin < input.length());
-		return new ManaCost(colorless, orderSymbols(symbols));
+		return ManaCost.of(symbols);
 	}
 
 	private final Optional<Colorless> colorless;
@@ -369,6 +350,45 @@ public final class ManaCost {
 
 	private static int distance(Symbol start, Symbol end) {
 		return Math.abs(getColor(start).ordinal() - getColor(end).ordinal());
+	}
+	
+	private static class Sorter implements Symbol.Visitor {
+
+		private Optional<Colorless> colorless = Optional.absent();
+		private Multiset<Primary> primary = HashMultiset.create();
+		
+		@Override public void visit(Colorless symbol) {
+			if (colorless.isPresent()) {
+				throw new IllegalArgumentException();
+			}
+			colorless = Optional.of(symbol);
+		}
+
+		@Override public void visit(Primary symbol) {
+			primary.
+			
+		}
+
+		@Override public void visit(Hybrid symbol) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		@Override public void visit(MonocoloredHybrid symbol) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		@Override public void visit(Phyrexian symbol) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		@Override public void visit(Variable symbol) {
+			// TODO Auto-generated method stub
+			
+		}
+		
 	}
 
 }
