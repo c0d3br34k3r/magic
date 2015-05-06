@@ -2,9 +2,7 @@ package magic;
 
 import java.util.Set;
 
-import magic.Symbol.Primitive;
-
-public class Numeric extends Primitive {
+public class Numeric extends Symbol {
 
 	private static final Numeric[] CACHE = new Numeric[17];
 
@@ -28,7 +26,7 @@ public class Numeric extends Primitive {
 	private int value;
 
 	private Numeric(int value) {
-		super(value);
+		super(value, String.format("{%d}", value));
 		this.value = value;
 	}
 

@@ -193,7 +193,7 @@ public abstract class Symbol implements EnumLike {
 	 * Returns {@code false} if any of the symbols are not payable with the
 	 * given colors of mana.
 	 */
-	public static boolean payableWith(Collection<Symbol> symbols,
+	public static boolean payableWith(Collection<? extends Symbol> symbols,
 			Set<Color> mana) {
 		for (Symbol symbol : symbols) {
 			if (!symbol.payableWith(mana)) {
@@ -254,23 +254,27 @@ public abstract class Symbol implements EnumLike {
 
 	public abstract void accept(Visitor visitor);
 
-	public static abstract class Primitive extends Symbol {
-
-		Primitive(Color color) {
-			super(color, 1, String.format("{%c}", color.code()));
+	public static abstract class Repeatable extends Symbol {
+		
+		Repeatable(ImmutableSet<Color> colors, int converted, String representation) {
+			super(colors, converted, representation);
 		}
 
-		Primitive(int amount) {
-			super(ImmutableSet.<Color> of(), amount, String.format("{%d}", amount));
+		Repeatable(Color color, int converted, String representation) {
+			super(color, converted, representation);
+		}
+
+		Repeatable(int converted, String representation) {
+			super(converted, representation);
 		}
 	}
-
-	public static final class Primary extends Primitive {
+	
+	public static final class Primary extends Repeatable {
 
 		private final Color color;
 
 		private Primary(Color color) {
-			super(color);
+			super(color, 1, String.format("{%c}", color.code()));
 			this.color = color;
 		}
 
@@ -283,12 +287,12 @@ public abstract class Symbol implements EnumLike {
 		}
 	}
 
-	public static abstract class TwoPartSymbol extends Symbol {
+	public static abstract class TwoPartSymbol extends Repeatable {
 
-		private final Primitive first;
-		private final Primitive second;
+		private final Symbol first;
+		private final Symbol second;
 
-		private TwoPartSymbol(Primitive first, Primitive second) {
+		private TwoPartSymbol(Symbol first, Symbol second) {
 			super(Sets.union(first.colors(), second.colors()).immutableCopy(),
 					Math.max(first.converted(), second.converted()),
 					String.format("{%s/%s}", stripBrackets(first), stripBrackets(second)));
@@ -296,11 +300,11 @@ public abstract class Symbol implements EnumLike {
 			this.second = second;
 		}
 
-		public Primitive first() {
+		public Symbol first() {
 			return first;
 		}
 
-		public Primitive second() {
+		public Symbol second() {
 			return second;
 		}
 	}
@@ -335,7 +339,7 @@ public abstract class Symbol implements EnumLike {
 		}
 	}
 
-	public static final class Phyrexian extends Symbol {
+	public static final class Phyrexian extends Repeatable {
 
 		private Phyrexian(Color color) {
 			super(color, 1, String.format("{%c/P}", color.code()));
@@ -350,7 +354,7 @@ public abstract class Symbol implements EnumLike {
 		}
 	}
 
-	public static final class Variable extends Symbol {
+	public static final class Variable extends Repeatable {
 
 		private Variable(char letter) {
 			super(ImmutableSet.<Color> of(), 0, String.format("{%c}", letter));

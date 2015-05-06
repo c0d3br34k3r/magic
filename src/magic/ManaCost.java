@@ -6,7 +6,6 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.EnumSet;
 import java.util.List;
-import java.util.ListIterator;
 import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
@@ -15,6 +14,7 @@ import magic.Symbol.Hybrid;
 import magic.Symbol.MonocoloredHybrid;
 import magic.Symbol.Phyrexian;
 import magic.Symbol.Primary;
+import magic.Symbol.Repeatable;
 import magic.Symbol.Variable;
 
 import com.google.common.base.Optional;
@@ -76,8 +76,7 @@ public final class ManaCost {
 		for (Symbol symbol : symbols) {
 
 		}
-
-		return new ManaCost(Optional.of(Numeric.of(0)), ImmutableMultiset.copyOf(symbols));
+		return new ManaCost(Optional.of(Numeric.of(0)), ImmutableMultiset.<Repeatable> of());
 	}
 
 	/**
@@ -120,18 +119,18 @@ public final class ManaCost {
 	}
 
 	private final Optional<Numeric> colorless;
-	private final ImmutableMultiset<Symbol> symbols;
+	private final ImmutableMultiset<Repeatable> symbols;
 
 	// Cached values
 	private final int converted;
 	private final ImmutableSet<Color> colors;
 
-	private ManaCost(Optional<Numeric> colorless, ImmutableMultiset<Symbol> symbols) {
+	private ManaCost(Optional<Numeric> colorless, ImmutableMultiset<Repeatable> symbols) {
 		this.colorless = colorless;
 		this.symbols = symbols;
 		int converted = generic();
 		EnumSet<Color> colors = EnumSet.noneOf(Color.class);
-		for (Multiset.Entry<Symbol> entry : this.symbols.entrySet()) {
+		for (Multiset.Entry<Repeatable> entry : this.symbols.entrySet()) {
 			converted += entry.getElement().converted() * entry.getCount();
 			colors.addAll(entry.getElement().colors());
 		}
@@ -163,7 +162,7 @@ public final class ManaCost {
 	 */
 	public int countColor(Color color) {
 		int count = 0;
-		for (Multiset.Entry<Symbol> entry : nonNumeric().entrySet()) {
+		for (Multiset.Entry<Repeatable> entry : nonNumeric().entrySet()) {
 			if (entry.getElement().colors().contains(color)) {
 				count += entry.getCount();
 			}
@@ -197,7 +196,7 @@ public final class ManaCost {
 	 * A {@link Multiset} containing all symbols other than numeric colorless
 	 * mana symbols in the order they would appear on a Magic card.
 	 */
-	public ImmutableMultiset<Symbol> nonNumeric() {
+	public ImmutableMultiset<Repeatable> nonNumeric() {
 		return symbols;
 	}
 
