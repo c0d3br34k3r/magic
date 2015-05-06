@@ -378,7 +378,7 @@ public abstract class ManaCost {
 		}
 	}
 
-	private static Map<Multiset<Symbol>, ImmutableMultiset<Symbol>> precalculated =
+	public static Map<Multiset<Symbol>, ImmutableMultiset<Symbol>> precalculated =
 			new MapMaker().makeMap();
 
 	/*
@@ -414,6 +414,7 @@ public abstract class ManaCost {
 				}
 			}
 			result = builder.build();
+			precalculated.put(result, result);
 		}
 		return result;
 	}
