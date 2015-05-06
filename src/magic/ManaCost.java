@@ -74,10 +74,10 @@ public final class ManaCost {
 	public static ManaCost of(Collection<Symbol> symbols) {
 		Sorter sorter = new Sorter();
 		for (Symbol symbol : symbols) {
-			
+
 		}
-		
-		return new ManaCost(Optional.of(Colorless.of(0)), ImmutableMultiset.copyOf(symbols));
+
+		return new ManaCost(Optional.of(Numeric.of(0)), ImmutableMultiset.copyOf(symbols));
 	}
 
 	/**
@@ -119,17 +119,17 @@ public final class ManaCost {
 		return ManaCost.of(symbols);
 	}
 
-	private final Optional<Colorless> colorless;
+	private final Optional<Numeric> colorless;
 	private final ImmutableMultiset<Symbol> symbols;
 
 	// Cached values
 	private final int converted;
 	private final ImmutableSet<Color> colors;
 
-	private ManaCost(Optional<Colorless> colorless, ImmutableMultiset<Symbol> symbols) {
+	private ManaCost(Optional<Numeric> colorless, ImmutableMultiset<Symbol> symbols) {
 		this.colorless = colorless;
 		this.symbols = symbols;
-		int converted = colorlessValue();
+		int converted = generic();
 		EnumSet<Color> colors = EnumSet.noneOf(Color.class);
 		for (Multiset.Entry<Symbol> entry : this.symbols.entrySet()) {
 			converted += entry.getElement().converted() * entry.getCount();
@@ -178,16 +178,19 @@ public final class ManaCost {
 		return colors;
 	}
 
-	public Optional<Colorless> colorless() {
-		return colorless;
+	/**
+	 * The value of the numeric symbol in this mana cost, or 0 if no numeric
+	 * symbol is present.
+	 */
+	public int generic() {
+		return colorless.isPresent() ? colorless.get().value() : 0;
 	}
 
 	/**
-	 * The value of the colorless symbol in this mana cost, or 0 if no colorless
-	 * symbol is present.
+	 * 
 	 */
-	public int colorlessValue() {
-		return colorless.isPresent() ? colorless.get().value() : 0;
+	public Optional<Numeric> numeric() {
+		return colorless;
 	}
 
 	/**
@@ -205,10 +208,17 @@ public final class ManaCost {
 		return converted;
 	}
 
+	/**
+	 * Returns whether this mana cost is the empty mana cost.
+	 */
 	public boolean isEmpty() {
 		return symbols.isEmpty() && !colorless.isPresent();
 	}
 
+	/**
+	 * Returns whether this mana cost is the zero mana cost.
+	 * 
+	 */
 	public boolean isZero() {
 		return symbols.isEmpty()
 				&& colorless.isPresent() && colorless.get().value() == 0;
@@ -269,7 +279,7 @@ public final class ManaCost {
 			if (distinct < 2) {
 				return ImmutableMultiset.copyOf(symbols);
 			}
-			
+
 		}
 		return result;
 	}
@@ -351,13 +361,13 @@ public final class ManaCost {
 	private static int distance(Symbol start, Symbol end) {
 		return Math.abs(getColor(start).ordinal() - getColor(end).ordinal());
 	}
-	
+
 	private static class Sorter implements Symbol.Visitor {
 
-		private Optional<Colorless> colorless = Optional.absent();
+		private Optional<Numeric> colorless = Optional.absent();
 		private Multiset<Primary> primary = HashMultiset.create();
-		
-		@Override public void visit(Colorless symbol) {
+
+		@Override public void visit(Numeric symbol) {
 			if (colorless.isPresent()) {
 				throw new IllegalArgumentException();
 			}
@@ -365,30 +375,30 @@ public final class ManaCost {
 		}
 
 		@Override public void visit(Primary symbol) {
-			
+
 		}
 
 		@Override public void visit(Hybrid symbol) {
 			// TODO Auto-generated method stub
-			
+
 		}
 
 		@Override public void visit(MonocoloredHybrid symbol) {
 			// TODO Auto-generated method stub
-			
+
 		}
 
 		@Override public void visit(Phyrexian symbol) {
 			// TODO Auto-generated method stub
-			
+
 		}
 
 		@Override public void visit(Variable symbol) {
 			// TODO Auto-generated method stub
-			
+
 		}
 	}
-	
+
 	public static void main(String[] args) {
 		System.out.println(Symbol.parse("{U}").getClass());
 	}

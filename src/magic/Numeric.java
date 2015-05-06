@@ -4,17 +4,17 @@ import java.util.Set;
 
 import magic.Symbol.Primitive;
 
-public class Colorless extends Primitive {
+public class Numeric extends Primitive {
 
-	private static final Colorless[] CACHE = new Colorless[17];
+	private static final Numeric[] CACHE = new Numeric[17];
 
 	static {
 		for (int i = 0; i < CACHE.length; i++) {
-			CACHE[i] = new Colorless(i);
+			CACHE[i] = new Numeric(i);
 		}
 	}
 
-	public static Colorless of(int amount) {
+	public static Numeric of(int amount) {
 		if (amount < 0) {
 			throw new IllegalArgumentException("amount < 0");
 		}
@@ -22,12 +22,12 @@ public class Colorless extends Primitive {
 			return CACHE[amount];
 		}
 		// should cause warning
-		return new Colorless(amount);
+		return new Numeric(amount);
 	}
 
 	private int value;
 
-	private Colorless(int value) {
+	private Numeric(int value) {
 		super(value);
 		this.value = value;
 	}
@@ -44,9 +44,9 @@ public class Colorless extends Primitive {
 		visitor.visit(this);
 	}
 
-	static Colorless parseInner(String input) {
+	static Numeric parseInner(String input) {
 		try {
-			return Colorless.of(Integer.parseInt(input));
+			return Numeric.of(Integer.parseInt(input));
 		} catch (NumberFormatException e) {
 			return null;
 		}

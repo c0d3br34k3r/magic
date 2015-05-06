@@ -1,23 +1,23 @@
 package magic;
 
 import java.util.Collection;
+import java.util.List;
 import java.util.Set;
 
 import magic.misc.ConstantGetter;
 import magic.misc.ConstantGetter.EnumLike;
 
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Sets;
 
 /**
- * All mana symbols other than constant colorless symbols; in other words, all
- * symbols that may appear more than once in a mana cost. The reason constant
- * colorless symbols (such as <code>{1}</code> or <code>{7}</code>) are excluded
- * is that they are better represented as plain {@code int}s, to make them
- * easier to work with, and to reduce the complexity of this {@code enum}. See
+ * All mana symbol:s other than numeric symbols; in other words, all symbols that
+ * may appear more than once in a mana cost. The reason constant colorless
+ * symbols (such as <code>{1}</code>. or <code>{7}</code>.) are excluded is that
+ * they are better represented as plain {@code int}s, to make them easier to
+ * work with, and to reduce the complexity of this {@code enum}. See
  * {@link ManaCost} for further details on this conceptualization.
  * 
  * @see ManaCost
@@ -25,161 +25,165 @@ import com.google.common.collect.Sets;
 public abstract class Symbol implements EnumLike {
 
 	/**
-	 * The primary White mana symbol <code>{W}</code>
+	 * The primary White mana symbol: <code>{W}</code>.
 	 */
 	public static final Primary WHITE = new Primary(Color.WHITE);
 
 	/**
-	 * The primary Blue mana symbol <code>{U}</code>
+	 * The primary Blue mana symbol: <code>{U}</code>.
 	 */
 	public static final Primary BLUE = new Primary(Color.BLUE);
 
 	/**
-	 * The primary Black mana symbol <code>{B}</code>
+	 * The primary Black mana symbol: <code>{B}</code>.
 	 */
 	public static final Primary BLACK = new Primary(Color.BLACK);
 
 	/**
-	 * The primary Red mana symbol <code>{R}</code>
+	 * The primary Red mana symbol: <code>{R}</code>.
 	 */
 	public static final Primary RED = new Primary(Color.RED);
 
 	/**
-	 * The primary Green mana symbol {G}</code>
+	 * The primary Green mana symbol: {G}</code>.
 	 */
 	public static final Primary GREEN = new Primary(Color.GREEN);
 
 	/**
-	 * The hybrid White-Blue mana symbol <code>{W/U}</code>
+	 * The hybrid White-Blue mana symbol: <code>{W/U}</code>.
 	 */
 	public static final Hybrid HYBRID_WHITE_BLUE = new Hybrid(Symbol.WHITE, Symbol.BLUE);
 
 	/**
-	 * The hybrid Blue-Black mana symbol <code>{U/B}</code>
+	 * The hybrid Blue-Black mana symbol: <code>{U/B}</code>.
 	 */
 	public static final Hybrid HYBRID_BLUE_BLACK = new Hybrid(Symbol.BLUE, Symbol.BLACK);
 
 	/**
-	 * The hybrid Black-Red mana symbol <code>{B/R}</code>
+	 * The hybrid Black-Red mana symbol: <code>{B/R}</code>.
 	 */
 	public static final Hybrid HYBRID_BLACK_RED = new Hybrid(Symbol.BLACK, Symbol.RED);
 
 	/**
-	 * The hybrid Red-Green mana symbol <code>{R/G}</code>
+	 * The hybrid Red-Green mana symbol: <code>{R/G}</code>.
 	 */
 	public static final Hybrid HYBRID_RED_GREEN = new Hybrid(Symbol.RED, Symbol.GREEN);
 
 	/**
-	 * The hybrid Green-White mana symbol <code>{G/W}</code>
+	 * The hybrid Green-White mana symbol: <code>{G/W}</code>.
 	 */
 	public static final Hybrid HYBRID_GREEN_WHITE = new Hybrid(Symbol.GREEN, Symbol.WHITE);
 
 	/**
-	 * The hybrid White-Black mana symbol <code>{W/B}</code>
+	 * The hybrid White-Black mana symbol: <code>{W/B}</code>.
 	 */
 	public static final Hybrid HYBRID_WHITE_BLACK = new Hybrid(Symbol.WHITE, Symbol.BLACK);
 
 	/**
-	 * The hybrid Blue-Red mana symbol <code>{U/R}</code>
+	 * The hybrid Blue-Red mana symbol: <code>{U/R}</code>.
 	 */
 	public static final Hybrid HYBRID_BLUE_RED = new Hybrid(Symbol.BLUE, Symbol.RED);
 
 	/**
-	 * The hybrid Black-Green mana symbol <code>{B/G}</code>
+	 * The hybrid Black-Green mana symbol: <code>{B/G}</code>.
 	 */
 	public static final Hybrid HYBRID_BLACK_GREEN = new Hybrid(Symbol.BLACK, Symbol.GREEN);
 
 	/**
-	 * The hybrid Red-White mana symbol <code>{R/W}</code>
+	 * The hybrid Red-White mana symbol: <code>{R/W}</code>.
 	 */
 	public static final Hybrid HYBRID_RED_WHITE = new Hybrid(Symbol.RED, Symbol.WHITE);
 
 	/**
-	 * The hybrid Green-Blue mana symbol <code>{G/U}</code>
+	 * The hybrid Green-Blue mana symbol: <code>{G/U}</code>.
 	 */
 	public static final Hybrid HYBRID_GREEN_BLUE = new Hybrid(Symbol.GREEN, Symbol.BLUE);
 
 	/**
-	 * The monocolored hybrid White mana symbol <code>{2/W}</code>
+	 * The monocolored hybrid White mana symbol: <code>{2/W}</code>.
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_WHITE = new MonocoloredHybrid(Symbol.WHITE);
 
 	/**
-	 * The monocolored hybrid Blue mana symbol <code>{2/U}</code>
+	 * The monocolored hybrid Blue mana symbol: <code>{2/U}</code>.
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLUE = new MonocoloredHybrid(Symbol.BLUE);
 
 	/**
-	 * The monocolored hybrid Black mana symbol <code>{2/B}</code>
+	 * The monocolored hybrid Black mana symbol: <code>{2/B}</code>.
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLACK = new MonocoloredHybrid(Symbol.BLACK);
 
 	/**
-	 * The monocolored hybrid Red mana symbol <code>{2/R}</code>
+	 * The monocolored hybrid Red mana symbol: <code>{2/R}</code>.
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_RED = new MonocoloredHybrid(Symbol.RED);
 
 	/**
-	 * The monocolored hybrid Green mana symbol <code>{2/G}</code>
+	 * The monocolored hybrid Green mana symbol: <code>{2/G}</code>.
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_GREEN = new MonocoloredHybrid(Symbol.GREEN);
 
 	/**
-	 * The Phyrexian White mana symbol <code>{W/P}</code>
+	 * The Phyrexian White mana symbol: <code>{W/P}</code>.
 	 */
 	public static final Phyrexian PHYREXIAN_WHITE = new Phyrexian(Color.WHITE);
 
 	/**
-	 * The Phyrexian Blue mana symbol <code>{U/P}</code>
+	 * The Phyrexian Blue mana symbol: <code>{U/P}</code>.
 	 */
 	public static final Phyrexian PHYREXIAN_BLUE = new Phyrexian(Color.BLUE);
 
 	/**
-	 * The Phyrexian Black mana symbol <code>{B/P}</code>
+	 * The Phyrexian Black mana symbol: <code>{B/P}</code>.
 	 */
 	public static final Phyrexian PHYREXIAN_BLACK = new Phyrexian(Color.BLACK);
 
 	/**
-	 * The Phyrexian Red mana symbol <code>{R/P}</code>
+	 * The Phyrexian Red mana symbol: <code>{R/P}</code>.
 	 */
 	public static final Phyrexian PHYREXIAN_RED = new Phyrexian(Color.RED);
 
 	/**
-	 * The Phyrexian Green mana symbol <code>{G/P}</code>
+	 * The Phyrexian Green mana symbol: <code>{G/P}</code>.
 	 */
 	public static final Phyrexian PHYREXIAN_GREEN = new Phyrexian(Color.GREEN);
 
 	/**
-	 * The variable Colorless mana symbol <code>{X}</code>
+	 * The variable Colorless mana symbol: <code>{X}</code>.
 	 */
 	public static final Variable X = new Variable('X');
 
 	/**
 	 * Returns the {@code Symbol} with the given representation.
+	 * 
+	 * @throws IllegalArgumentException
+	 *             if the input does not correspond to a symbol.
 	 */
 	public static Symbol parse(String input) {
-		String inner = stripBrackets(input);
-		Symbol symbol = parseInner(inner);
+		return parseInner(stripBrackets(input));
+	}
+
+	static Symbol parseInner(String inner) {
+		Symbol symbol = PARSE_LOOKUP.get(inner);
 		if (symbol == null) {
-			symbol = Colorless.parseInner(inner);
+			symbol = Numeric.parseInner(inner);
 			if (symbol == null) {
-				throw new IllegalArgumentException(input);
+				throw new IllegalArgumentException(inner);
 			}
 		}
 		return symbol;
 	}
-	
-	static Symbol parseInner(String input) {
-		return PARSE_LOOKUP.get(input);
-	}
-	
+
 	static String stripBrackets(Symbol symbol) {
 		return stripBrackets(symbol.toString());
 	}
-	
+
 	static String stripBrackets(String input) {
 		int length = input.length();
-		if (length != 0 && input.charAt(0) == '{' && input.charAt(length - 1) == '}') {
+		if (length != 0
+				&& input.charAt(0) == '{'
+				&& input.charAt(length - 1) == '}') {
 			return input.substring(1, length - 1);
 		}
 		throw new IllegalArgumentException(input);
@@ -207,7 +211,7 @@ public abstract class Symbol implements EnumLike {
 	private static final ImmutableSet<Symbol> VALUES;
 
 	static {
-		ImmutableList<Symbol> values = ConstantGetter.values(Symbol.class);
+		List<Symbol> values = ConstantGetter.values(Symbol.class);
 		ImmutableMap.Builder<String, Symbol> builder = ImmutableMap.builder();
 		for (Symbol symbol : values) {
 			builder.put(stripBrackets(symbol), symbol);
@@ -247,11 +251,11 @@ public abstract class Symbol implements EnumLike {
 	}
 
 	public abstract boolean payableWith(Set<Color> mana);
-	
+
 	public abstract void accept(Visitor visitor);
 
 	public static abstract class Primitive extends Symbol {
-		
+
 		Primitive(Color color) {
 			super(color, 1, String.format("{%c}", color.code()));
 		}
@@ -310,7 +314,7 @@ public abstract class Symbol implements EnumLike {
 		@Override public boolean payableWith(Set<Color> mana) {
 			return first().payableWith(mana) || second().payableWith(mana);
 		}
-		
+
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
@@ -319,13 +323,13 @@ public abstract class Symbol implements EnumLike {
 	public static final class MonocoloredHybrid extends TwoPartSymbol {
 
 		private MonocoloredHybrid(Primary symbol) {
-			super(Colorless.of(2), symbol);
+			super(Numeric.of(2), symbol);
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
 			return true;
 		}
-		
+
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
@@ -340,7 +344,7 @@ public abstract class Symbol implements EnumLike {
 		@Override public boolean payableWith(Set<Color> mana) {
 			return true;
 		}
-		
+
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
@@ -355,15 +359,15 @@ public abstract class Symbol implements EnumLike {
 		@Override public boolean payableWith(Set<Color> mana) {
 			return true;
 		}
-		
+
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
 	}
 
 	public interface Visitor {
-		
-		void visit(Colorless colorless);
+
+		void visit(Numeric colorless);
 
 		void visit(Primary primary);
 
