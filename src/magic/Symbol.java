@@ -28,122 +28,122 @@ public abstract class Symbol implements EnumLike {
 	 * The primary White mana symbol <code>{W}</code>
 	 */
 	public static final Primary WHITE = new Primary(Color.WHITE);
-	
+
 	/**
 	 * The primary Blue mana symbol <code>{U}</code>
 	 */
 	public static final Primary BLUE = new Primary(Color.BLUE);
-	
+
 	/**
 	 * The primary Black mana symbol <code>{B}</code>
 	 */
 	public static final Primary BLACK = new Primary(Color.BLACK);
-	
+
 	/**
 	 * The primary Red mana symbol <code>{R}</code>
 	 */
 	public static final Primary RED = new Primary(Color.RED);
-	
+
 	/**
 	 * The primary Green mana symbol {G}</code>
 	 */
 	public static final Primary GREEN = new Primary(Color.GREEN);
-	
+
 	/**
 	 * The hybrid White-Blue mana symbol <code>{W/U}</code>
 	 */
 	public static final Hybrid HYBRID_WHITE_BLUE = new Hybrid(Symbol.WHITE, Symbol.BLUE);
-	
+
 	/**
 	 * The hybrid Blue-Black mana symbol <code>{U/B}</code>
 	 */
 	public static final Hybrid HYBRID_BLUE_BLACK = new Hybrid(Symbol.BLUE, Symbol.BLACK);
-	
+
 	/**
 	 * The hybrid Black-Red mana symbol <code>{B/R}</code>
 	 */
 	public static final Hybrid HYBRID_BLACK_RED = new Hybrid(Symbol.BLACK, Symbol.RED);
-	
+
 	/**
 	 * The hybrid Red-Green mana symbol <code>{R/G}</code>
 	 */
 	public static final Hybrid HYBRID_RED_GREEN = new Hybrid(Symbol.RED, Symbol.GREEN);
-	
+
 	/**
 	 * The hybrid Green-White mana symbol <code>{G/W}</code>
 	 */
 	public static final Hybrid HYBRID_GREEN_WHITE = new Hybrid(Symbol.GREEN, Symbol.WHITE);
-	
+
 	/**
 	 * The hybrid White-Black mana symbol <code>{W/B}</code>
 	 */
 	public static final Hybrid HYBRID_WHITE_BLACK = new Hybrid(Symbol.WHITE, Symbol.BLACK);
-	
+
 	/**
 	 * The hybrid Blue-Red mana symbol <code>{U/R}</code>
 	 */
 	public static final Hybrid HYBRID_BLUE_RED = new Hybrid(Symbol.BLUE, Symbol.RED);
-	
+
 	/**
 	 * The hybrid Black-Green mana symbol <code>{B/G}</code>
 	 */
 	public static final Hybrid HYBRID_BLACK_GREEN = new Hybrid(Symbol.BLACK, Symbol.GREEN);
-	
+
 	/**
 	 * The hybrid Red-White mana symbol <code>{R/W}</code>
 	 */
 	public static final Hybrid HYBRID_RED_WHITE = new Hybrid(Symbol.RED, Symbol.WHITE);
-	
+
 	/**
 	 * The hybrid Green-Blue mana symbol <code>{G/U}</code>
 	 */
 	public static final Hybrid HYBRID_GREEN_BLUE = new Hybrid(Symbol.GREEN, Symbol.BLUE);
-	
+
 	/**
 	 * The monocolored hybrid White mana symbol <code>{2/W}</code>
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_WHITE = new MonocoloredHybrid(Symbol.WHITE);
-	
+
 	/**
 	 * The monocolored hybrid Blue mana symbol <code>{2/U}</code>
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLUE = new MonocoloredHybrid(Symbol.BLUE);
-	
+
 	/**
 	 * The monocolored hybrid Black mana symbol <code>{2/B}</code>
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLACK = new MonocoloredHybrid(Symbol.BLACK);
-	
+
 	/**
 	 * The monocolored hybrid Red mana symbol <code>{2/R}</code>
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_RED = new MonocoloredHybrid(Symbol.RED);
-	
+
 	/**
 	 * The monocolored hybrid Green mana symbol <code>{2/G}</code>
 	 */
 	public static final MonocoloredHybrid MONOCOLORED_HYBRID_GREEN = new MonocoloredHybrid(Symbol.GREEN);
-	
+
 	/**
 	 * The Phyrexian White mana symbol <code>{W/P}</code>
 	 */
 	public static final Phyrexian PHYREXIAN_WHITE = new Phyrexian(Color.WHITE);
-	
+
 	/**
 	 * The Phyrexian Blue mana symbol <code>{U/P}</code>
 	 */
 	public static final Phyrexian PHYREXIAN_BLUE = new Phyrexian(Color.BLUE);
-	
+
 	/**
 	 * The Phyrexian Black mana symbol <code>{B/P}</code>
 	 */
 	public static final Phyrexian PHYREXIAN_BLACK = new Phyrexian(Color.BLACK);
-	
+
 	/**
 	 * The Phyrexian Red mana symbol <code>{R/P}</code>
 	 */
 	public static final Phyrexian PHYREXIAN_RED = new Phyrexian(Color.RED);
-	
+
 	/**
 	 * The Phyrexian Green mana symbol <code>{G/P}</code>
 	 */
@@ -175,7 +175,7 @@ public abstract class Symbol implements EnumLike {
 		}
 		return true;
 	}
-	
+
 	public static <T extends Symbol> Set<T> valuesOfType(Class<T> type) {
 		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
 	}
@@ -202,11 +202,11 @@ public abstract class Symbol implements EnumLike {
 		this.converted = converted;
 		this.representation = representation;
 	}
-	
+
 	Symbol(Color only, int converted, String representation) {
 		this(ImmutableSet.of(only), converted, representation);
 	}
-	
+
 	Symbol(int converted, String representation) {
 		this(ImmutableSet.<Color> of(), converted, representation);
 	}
@@ -225,6 +225,8 @@ public abstract class Symbol implements EnumLike {
 
 	public abstract boolean payableWith(Set<Color> mana);
 	
+	public abstract void accept(Visitor visitor);
+
 	public static abstract class Primitive extends Symbol {
 
 		private final String innerPart;
@@ -256,6 +258,10 @@ public abstract class Symbol implements EnumLike {
 		@Override public boolean payableWith(Set<Color> mana) {
 			return mana.contains(color);
 		}
+
+		@Override public void accept(Visitor visitor) {
+			visitor.visit(this);
+		}
 	}
 
 	public static abstract class TwoPartSymbol extends Symbol {
@@ -270,11 +276,11 @@ public abstract class Symbol implements EnumLike {
 			this.first = first;
 			this.second = second;
 		}
-		
+
 		public Primitive first() {
 			return first;
 		}
-		
+
 		public Primitive second() {
 			return second;
 		}
@@ -285,9 +291,13 @@ public abstract class Symbol implements EnumLike {
 		private Hybrid(Primary first, Primary second) {
 			super(first, second);
 		}
-		
+
 		@Override public boolean payableWith(Set<Color> mana) {
 			return first().payableWith(mana) || second().payableWith(mana);
+		}
+		
+		@Override public void accept(Visitor visitor) {
+			visitor.visit(this);
 		}
 	}
 
@@ -296,9 +306,13 @@ public abstract class Symbol implements EnumLike {
 		private MonocoloredHybrid(Primary symbol) {
 			super(Colorless.of(2), symbol);
 		}
-		
+
 		@Override public boolean payableWith(Set<Color> mana) {
 			return true;
+		}
+		
+		@Override public void accept(Visitor visitor) {
+			visitor.visit(this);
 		}
 	}
 
@@ -311,6 +325,10 @@ public abstract class Symbol implements EnumLike {
 		@Override public boolean payableWith(Set<Color> mana) {
 			return true;
 		}
+		
+		@Override public void accept(Visitor visitor) {
+			visitor.visit(this);
+		}
 	}
 
 	public static final class Variable extends Symbol {
@@ -322,6 +340,25 @@ public abstract class Symbol implements EnumLike {
 		@Override public boolean payableWith(Set<Color> mana) {
 			return true;
 		}
+		
+		@Override public void accept(Visitor visitor) {
+			visitor.visit(this);
+		}
 	}
-	
+
+	public interface Visitor {
+		
+		void visit(Colorless colorless);
+
+		void visit(Primary primary);
+
+		void visit(Hybrid hybrid);
+
+		void visit(MonocoloredHybrid monocoloredHybrid);
+
+		void visit(Phyrexian phyrexian);
+
+		void visit(Variable variable);
+	}
+
 }

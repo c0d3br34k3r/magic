@@ -19,13 +19,13 @@ import com.google.common.base.Supplier;
 import com.google.common.collect.HashMultiset;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableMultiset.Builder;
+import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;
 import com.google.common.collect.ListMultimap;
 import com.google.common.collect.MapMaker;
 import com.google.common.collect.Multimaps;
 import com.google.common.collect.Multiset;
-import com.google.common.collect.TreeMultiset;
 
 /**
  * An immutable object representing a mana cost. A {@code ManaCost} has two
@@ -66,40 +66,7 @@ import com.google.common.collect.TreeMultiset;
  * 
  * @see Symbol
  */
-public abstract class ManaCost {
-
-	/**
-	 * The empty mana cost. This mana cost is seen (or rather, is not seen at
-	 * all) on Lands and a few cards such as Ancestral Vision.
-	 * <p>
-	 * This special mana cost uses the default identity-based {@code equals} and
-	 * {@code hashCode} implementations. It is impossible to create a second
-	 * instance of {@code EMPTY}.
-	 * <p>
-	 * The {@link #toString()} value of the {@code ManaCost} is the empty
-	 * {@code String}, {@code ""}.
-	 */
-	public static final ManaCost EMPTY = new SpecialManaCost("");
-
-	/**
-	 * The mana cost represented by the zero colorless mana symbol
-	 * <code>{0}</code>. The zero mana symbol only appears when no other symbols
-	 * are present.
-	 * <p>
-	 * This special mana cost uses the default identity-based {@code equals} and
-	 * {@code hashCode} implementations. It is impossible to create a second
-	 * instance of {@code ZERO}.
-	 */
-	public static final ManaCost ZERO = new SpecialManaCost("{0}");
-
-	/**
-	 * Returns a new {@code ManaCost} with the given {@code Symbol}s and no
-	 * colorless mana. If the array of symbols is empty, the empty mana cost is
-	 * returned.
-	 */
-	public static ManaCost of(Symbol... symbols) {
-		return of(Arrays.asList(symbols));
-	}
+public final class ManaCost {
 
 	/**
 	 * Returns a new {@code ManaCost} with the given {@code Symbol}s and no
@@ -107,10 +74,7 @@ public abstract class ManaCost {
 	 * mana cost is returned.
 	 */
 	public static ManaCost of(Collection<Symbol> symbols) {
-		if (symbols.size() == 0) {
-			return EMPTY;
-		}
-		return of(0, symbols);
+		return new ManaCost(Optional.of(Colorless.of(0)), ImmutableMultiset.copyOf(symbols));
 	}
 
 	/**
@@ -118,22 +82,8 @@ public abstract class ManaCost {
 	 * and other mana symbols. If the array of symbols is empty and the amount
 	 * of colorless is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int colorless, Symbol... symbols) {
-		return of(colorless, Arrays.asList(symbols));
-	}
-
-	/**
-	 * Returns a new {@code ManaCost} with the given amount of colorless mana
-	 * and other mana symbols. If the {@link Collection} of symbols is empty and
-	 * the amount of colorless is zero, the zero mana cost is returned.
-	 */
-	public static ManaCost of(int colorless, Collection<Symbol> symbols) {
-		if (colorless == 0 && symbols.isEmpty()) {
-			return ZERO;
-		}
-		return new StandardManaCost(
-				colorless,
-				orderSymbols(HashMultiset.create(symbols)));
+	public static ManaCost of(Symbol... symbols) {
+		return of(Arrays.asList(symbols));
 	}
 
 	/**
@@ -148,13 +98,6 @@ public abstract class ManaCost {
 	 *             the symbols are not formatted properly
 	 */
 	public static ManaCost parse(String input) {
-		switch (input) {
-			case "":
-				return EMPTY;
-			case "{0}":
-				return ZERO;
-			default:
-		}
 		Multiset<Symbol> symbols = HashMultiset.create();
 		int colorless = 0;
 		int begin = 0;
@@ -192,35 +135,31 @@ public abstract class ManaCost {
 			}
 			begin = end + 1;
 		} while (begin < input.length());
-		return new StandardManaCost(colorless, orderSymbols(symbols));
+		return new ManaCost(colorless, orderSymbols(symbols));
 	}
 
-	private ManaCost() {}
+	private final Optional<Colorless> colorless;
+	private final ImmutableMultiset<Symbol> symbols;
 
-	/**
-	 * The combined colors of all {@link Symbol}s in this {@code ManaCost}.
-	 */
-	public abstract ImmutableSet<Color> colors();
+	// Cached values
+	private final int converted;
+	private final ImmutableSet<Color> colors;
 
-	/**
-	 * The value of the colorless symbol in this mana cost, or 0 if no colorless
-	 * symbol is present.
-	 */
-	public abstract int colorless();
-
-	/**
-	 * A {@link Multiset} containing all symbols other than constant colorless
-	 * mana symbols in the order they would appear on a Magic card.
-	 */
-	public abstract ImmutableMultiset<Symbol> symbols();
-
-	/**
-	 * The converted mana cost of this {@code ManaCost}.
-	 */
-	public abstract int converted();
+	private ManaCost(Optional<Colorless> colorless, ImmutableMultiset<Symbol> symbols) {
+		this.colorless = colorless;
+		this.symbols = symbols;
+		int converted = colorlessValue();
+		EnumSet<Color> colors = EnumSet.noneOf(Color.class);
+		for (Multiset.Entry<Symbol> entry : this.symbols.entrySet()) {
+			converted += entry.getElement().converted() * entry.getCount();
+			colors.addAll(entry.getElement().colors());
+		}
+		this.converted = converted;
+		this.colors = Color.INTERNER.intern(colors);
+	}
 
 	public <T extends Symbol> boolean containsAnyOf(Class<T> type) {
-		for (Symbol symbol : symbols().elementSet()) {
+		for (Symbol symbol : nonNumeric().elementSet()) {
 			if (type.isInstance(symbol)) {
 				return true;
 			}
@@ -234,7 +173,7 @@ public abstract class ManaCost {
 	 * unique
 	 */
 	public boolean payableWith(Set<Color> mana) {
-		return Symbol.payableWith(symbols().elementSet(), mana);
+		return Symbol.payableWith(nonNumeric().elementSet(), mana);
 	}
 
 	/**
@@ -243,7 +182,7 @@ public abstract class ManaCost {
 	 */
 	public int countColor(Color color) {
 		int count = 0;
-		for (Multiset.Entry<Symbol> entry : symbols().entrySet()) {
+		for (Multiset.Entry<Symbol> entry : nonNumeric().entrySet()) {
 			if (entry.getElement().colors().contains(color)) {
 				count += entry.getCount();
 			}
@@ -252,18 +191,62 @@ public abstract class ManaCost {
 	}
 
 	/**
-	 * Returns whether this mana cost is the empty mana cost.
+	 * The combined colors of all {@link Symbol}s in this {@code ManaCost}.
 	 */
-	public boolean isEmpty() {
-		return this == EMPTY;
+	public ImmutableSet<Color> colors() {
+		return colors;
+	}
+
+	public Optional<Colorless> colorless() {
+		return colorless;
 	}
 
 	/**
-	 * Returns whether this mana cost is the zero mana cost.
-	 * 
+	 * The value of the colorless symbol in this mana cost, or 0 if no colorless
+	 * symbol is present.
 	 */
+	public int colorlessValue() {
+		return colorless.isPresent() ? colorless.get().value() : 0;
+	}
+
+	/**
+	 * A {@link Multiset} containing all symbols other than numeric colorless
+	 * mana symbols in the order they would appear on a Magic card.
+	 */
+	public ImmutableMultiset<Symbol> nonNumeric() {
+		return symbols;
+	}
+
+	/**
+	 * The converted mana cost of this {@code ManaCost}.
+	 */
+	public int converted() {
+		return converted;
+	}
+
+	public boolean isNull() {
+		return symbols.isEmpty() && !colorless.isPresent();
+	}
+
 	public boolean isZero() {
-		return this == ZERO;
+		return symbols.isEmpty()
+				&& colorless.isPresent() && colorless.get().value() == 0;
+	}
+
+	@Override public int hashCode() {
+		return Objects.hash(colorless, symbols);
+	}
+
+	@Override public boolean equals(Object obj) {
+		if (this == obj) {
+			return true;
+		}
+		if (!(obj instanceof ManaCost)) {
+			return false;
+		}
+		ManaCost other = (ManaCost) obj;
+		return colorless == other.colorless
+				&& symbols.equals(other.symbols);
 	}
 
 	/**
@@ -272,111 +255,20 @@ public abstract class ManaCost {
 	 * {@link Symbol#toString()}) in the order that they would appear on an
 	 * actual card.
 	 */
-	@Override public abstract String toString();
-
-	private static class StandardManaCost extends ManaCost {
-
-		private final int colorless;
-		private final ImmutableMultiset<Symbol> symbols;
-
-		// Cached values
-		private final int converted;
-		private final ImmutableSet<Color> colors;
-
-		private StandardManaCost(int colorless,
-				ImmutableMultiset<Symbol> symbols) {
-			if (colorless < 0) {
-				throw new IllegalArgumentException(
-						"colorless cannot be negative: " + colorless);
+	@Override public String toString() {
+		StringBuilder builder = new StringBuilder();
+		if (colorless.isPresent()) {
+			builder.append(colorless);
+		}
+		StringBuilder variables = new StringBuilder();
+		for (Symbol symbol : symbols) {
+			if (symbol instanceof Variable) {
+				variables.append(symbol);
+			} else {
+				builder.append(symbol);
 			}
-			this.colorless = colorless;
-			this.symbols = symbols;
-			int converted = colorless;
-			EnumSet<Color> colors = EnumSet.noneOf(Color.class);
-			for (Multiset.Entry<Symbol> entry : this.symbols.entrySet()) {
-				converted += entry.getElement().converted() * entry.getCount();
-				colors.addAll(entry.getElement().colors());
-			}
-			this.converted = converted;
-			this.colors = Color.INTERNER.intern(colors);
 		}
-
-		@Override public ImmutableSet<Color> colors() {
-			return colors;
-		}
-
-		@Override public int colorless() {
-			return colorless;
-		}
-
-		@Override public ImmutableMultiset<Symbol> symbols() {
-			return symbols;
-		}
-
-		@Override public int converted() {
-			return converted;
-		}
-
-		@Override public int hashCode() {
-			return Objects.hash(colorless, symbols);
-		}
-
-		@Override public boolean equals(Object obj) {
-			if (this == obj) {
-				return true;
-			}
-			if (!(obj instanceof StandardManaCost)) {
-				return false;
-			}
-			StandardManaCost other = (StandardManaCost) obj;
-			return colorless == other.colorless
-					&& symbols.equals(other.symbols);
-		}
-
-		@Override public String toString() {
-			StringBuilder builder = new StringBuilder();
-			if (colorless != 0) {
-				builder.append('{').append(colorless).append('}');
-			}
-			StringBuilder variables = new StringBuilder();
-			for (Symbol symbol : symbols) {
-				if (symbol instanceof Variable) {
-					variables.append(symbol);
-				} else {
-					builder.append(symbol);
-				}
-			}
-			return variables.toString() + builder.toString();
-		}
-	}
-
-	private static class SpecialManaCost extends ManaCost {
-
-		private final String representation;
-
-		private SpecialManaCost(String representation) {
-			this.representation = representation;
-		}
-
-		@Override public ImmutableSet<Color> colors() {
-			return ImmutableSet.of();
-		}
-
-		@Override public int colorless() {
-			return 0;
-		}
-
-		@Override public ImmutableMultiset<Symbol> symbols() {
-			return ImmutableMultiset.of();
-		}
-
-		@Override public int converted() {
-			return 0;
-		}
-
-		@Override public String toString() {
-			return representation;
-		}
+		return variables.toString() + builder.toString();
 	}
 
 	private static Map<Multiset<Symbol>, ImmutableMultiset<Symbol>> precalculated =
@@ -396,25 +288,7 @@ public abstract class ManaCost {
 			if (distinct < 2) {
 				return ImmutableMultiset.copyOf(symbols);
 			}
-			Builder<Symbol> builder = ImmutableMultiset.builder();
-			ListMultimap<Group, Symbol> groups = Multimaps.newListMultimap(
-					new EnumMap<Symbol.Group, Collection<Symbol>>(Symbol.Group.class),
-					new Supplier<List<Symbol>>() {
-						@Override public List<Symbol> get() {
-							return new ArrayList<>();
-						}
-					});
-			for (Symbol symbol : symbols.elementSet()) {
-				groups.put(symbol.group(), symbol);
-			}
-			for (Entry<Group, List<Symbol>> entry : Multimaps.asMap(groups).entrySet()) {
-				List<Symbol> inGroup = entry.getValue();
-				order(inGroup);
-				for (Symbol symbol : inGroup) {
-					builder.addCopies(symbol, symbols.count(symbol));
-				}
-			}
-			result = builder.build();
+			
 		}
 		return result;
 	}
