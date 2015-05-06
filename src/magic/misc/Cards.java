@@ -14,7 +14,8 @@ import magic.Link.Layout;
 import magic.Printing;
 import magic.Rarity;
 import magic.Subtype;
-import magic.Symbol.Group;
+import magic.Symbol.Hybrid;
+import magic.Symbol.Primary;
 import magic.Type;
 
 import com.google.common.base.Predicate;
@@ -117,10 +118,10 @@ public final class Cards {
 				}
 				return Section.CLEAR;
 			default:
-				if (!c.manaCost().containsAnyOf(Group.HYBRID)) {
+				if (!c.manaCost().containsAnyOf(Hybrid.class)) {
 					return Section.GOLD;
 				}
-				return c.manaCost().containsAnyOf(Group.PRIMARY)
+				return c.manaCost().containsAnyOf(Primary.class)
 						? Section.GOLD_HYBRID
 						: Section.HYBRID;
 		}

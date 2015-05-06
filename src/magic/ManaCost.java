@@ -8,14 +8,15 @@ import java.util.EnumMap;
 import java.util.EnumSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Objects;
 import java.util.Map.Entry;
+import java.util.Objects;
 import java.util.Set;
 
-import magic.Symbol.Group;
+import magic.Symbol.Variable;
 
 import com.google.common.base.Optional;
 import com.google.common.base.Supplier;
+import com.google.common.collect.HashMultiset;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableMultiset.Builder;
 import com.google.common.collect.ImmutableSet;
@@ -132,7 +133,7 @@ public abstract class ManaCost {
 		}
 		return new StandardManaCost(
 				colorless,
-				orderSymbols(TreeMultiset.create(symbols)));
+				orderSymbols(HashMultiset.create(symbols)));
 	}
 
 	/**
@@ -154,7 +155,7 @@ public abstract class ManaCost {
 				return ZERO;
 			default:
 		}
-		Multiset<Symbol> symbols = TreeMultiset.create();
+		Multiset<Symbol> symbols = HashMultiset.create();
 		int colorless = 0;
 		int begin = 0;
 		do {
@@ -218,9 +219,9 @@ public abstract class ManaCost {
 	 */
 	public abstract int converted();
 
-	public boolean containsAnyOf(Symbol.Group group) {
+	public <T extends Symbol> boolean containsAnyOf(Class<T> type) {
 		for (Symbol symbol : symbols().elementSet()) {
-			if (symbol.group() == group) {
+			if (type.isInstance(symbol)) {
 				return true;
 			}
 		}
@@ -339,7 +340,7 @@ public abstract class ManaCost {
 			}
 			StringBuilder variables = new StringBuilder();
 			for (Symbol symbol : symbols) {
-				if (symbol.group() == Symbol.Group.VARIABLE) {
+				if (symbol instanceof Variable) {
 					variables.append(symbol);
 				} else {
 					builder.append(symbol);
