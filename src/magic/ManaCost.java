@@ -140,7 +140,7 @@ public final class ManaCost {
 	}
 
 	public <T extends Symbol> boolean containsAnyOf(Class<T> type) {
-		for (Symbol symbol : nonNumeric().elementSet()) {
+		for (Symbol symbol : symbols.elementSet()) {
 			if (type.isInstance(symbol)) {
 				return true;
 			}
@@ -205,7 +205,7 @@ public final class ManaCost {
 		return converted;
 	}
 
-	public boolean isNull() {
+	public boolean isEmpty() {
 		return symbols.isEmpty() && !colorless.isPresent();
 	}
 
@@ -365,7 +365,6 @@ public final class ManaCost {
 		}
 
 		@Override public void visit(Primary symbol) {
-			primary.
 			
 		}
 
@@ -388,7 +387,10 @@ public final class ManaCost {
 			// TODO Auto-generated method stub
 			
 		}
-		
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(Symbol.parse("{U}").getClass());
 	}
 
 }

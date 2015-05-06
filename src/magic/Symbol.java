@@ -158,28 +158,31 @@ public abstract class Symbol implements EnumLike {
 	 * Returns the {@code Symbol} with the given representation.
 	 */
 	public static Symbol parse(String input) {
-		return parseInner(stripBrackets(input));
-	}
-	
-	static Symbol parseInner(String input) {
-		Symbol symbol = PARSE_LOOKUP.get(input);
+		String inner = stripBrackets(input);
+		Symbol symbol = parseInner(inner);
 		if (symbol == null) {
-			try {
-				return Colorless.of(Integer.parseInt(input));
-			} catch (NumberFormatException e) {
-				throw new IllegalArgumentException(
-						"invalid symbol: {" + input + '}');
+			symbol = Colorless.parseInner(inner);
+			if (symbol == null) {
+				throw new IllegalArgumentException(input);
 			}
 		}
 		return symbol;
 	}
 	
+	static Symbol parseInner(String input) {
+		return PARSE_LOOKUP.get(input);
+	}
+	
+	static String stripBrackets(Symbol symbol) {
+		return stripBrackets(symbol.toString());
+	}
+	
 	static String stripBrackets(String input) {
 		int length = input.length();
-		if (input.charAt(0) == '{' && input.charAt(length - 1) == '}') {
+		if (length != 0 && input.charAt(0) == '{' && input.charAt(length - 1) == '}') {
 			return input.substring(1, length - 1);
 		}
-		throw new IllegalArgumentException("invalid symbol: " + input);
+		throw new IllegalArgumentException(input);
 	}
 
 	/**
@@ -207,15 +210,10 @@ public abstract class Symbol implements EnumLike {
 		ImmutableList<Symbol> values = ConstantGetter.values(Symbol.class);
 		ImmutableMap.Builder<String, Symbol> builder = ImmutableMap.builder();
 		for (Symbol symbol : values) {
-			builder.put(innerPart(symbol), symbol);
+			builder.put(stripBrackets(symbol), symbol);
 		}
 		PARSE_LOOKUP = builder.build();
 		VALUES = ImmutableSet.copyOf(values);
-	}
-	
-	private static String innerPart(Symbol symbol) {
-		int length = symbol.toString().length();
-		return symbol.toString().substring(1, length - 2);
 	}
 
 	private final ImmutableSet<Color> colors;
@@ -289,7 +287,7 @@ public abstract class Symbol implements EnumLike {
 		private TwoPartSymbol(Primitive first, Primitive second) {
 			super(Sets.union(first.colors(), second.colors()).immutableCopy(),
 					Math.max(first.converted(), second.converted()),
-					String.format("{%s/%s}", innerPart(first), innerPart(second)));
+					String.format("{%s/%s}", stripBrackets(first), stripBrackets(second)));
 			this.first = first;
 			this.second = second;
 		}
