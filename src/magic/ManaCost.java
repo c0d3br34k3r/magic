@@ -10,12 +10,11 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 
-import magic.Symbol.Hybrid;
-import magic.Symbol.MonocoloredHybrid;
-import magic.Symbol.Phyrexian;
-import magic.Symbol.Primary;
-import magic.Symbol.Repeatable;
-import magic.Symbol.Variable;
+import magic.Repeatable.Hybrid;
+import magic.Repeatable.MonocoloredHybrid;
+import magic.Repeatable.Phyrexian;
+import magic.Repeatable.Primary;
+import magic.Repeatable.Variable;
 
 import com.google.common.base.Optional;
 import com.google.common.collect.HashMultiset;
@@ -118,19 +117,19 @@ public final class ManaCost {
 		return ManaCost.of(symbols);
 	}
 
-	private final Optional<Numeric> colorless;
-	private final ImmutableMultiset<Repeatable> symbols;
+	private final Optional<Numeric> numeric;
+	private final ImmutableMultiset<Repeatable> repeatable;
 
 	// Cached values
 	private final int converted;
 	private final ImmutableSet<Color> colors;
 
 	private ManaCost(Optional<Numeric> colorless, ImmutableMultiset<Repeatable> symbols) {
-		this.colorless = colorless;
-		this.symbols = symbols;
+		this.numeric = colorless;
+		this.repeatable = symbols;
 		int converted = generic();
 		EnumSet<Color> colors = EnumSet.noneOf(Color.class);
-		for (Multiset.Entry<Repeatable> entry : this.symbols.entrySet()) {
+		for (Multiset.Entry<Repeatable> entry : this.repeatable.entrySet()) {
 			converted += entry.getElement().converted() * entry.getCount();
 			colors.addAll(entry.getElement().colors());
 		}
@@ -139,7 +138,7 @@ public final class ManaCost {
 	}
 
 	public <T extends Symbol> boolean containsAnyOf(Class<T> type) {
-		for (Symbol symbol : symbols.elementSet()) {
+		for (Symbol symbol : repeatable.elementSet()) {
 			if (type.isInstance(symbol)) {
 				return true;
 			}
@@ -182,14 +181,14 @@ public final class ManaCost {
 	 * symbol is present.
 	 */
 	public int generic() {
-		return colorless.isPresent() ? colorless.get().value() : 0;
+		return numeric.isPresent() ? numeric.get().value() : 0;
 	}
 
 	/**
 	 * 
 	 */
 	public Optional<Numeric> numeric() {
-		return colorless;
+		return numeric;
 	}
 
 	/**
@@ -197,7 +196,7 @@ public final class ManaCost {
 	 * mana symbols in the order they would appear on a Magic card.
 	 */
 	public ImmutableMultiset<Repeatable> nonNumeric() {
-		return symbols;
+		return repeatable;
 	}
 
 	/**
@@ -211,7 +210,7 @@ public final class ManaCost {
 	 * Returns whether this mana cost is the empty mana cost.
 	 */
 	public boolean isEmpty() {
-		return symbols.isEmpty() && !colorless.isPresent();
+		return repeatable.isEmpty() && !numeric.isPresent();
 	}
 
 	/**
@@ -219,12 +218,12 @@ public final class ManaCost {
 	 * 
 	 */
 	public boolean isZero() {
-		return symbols.isEmpty()
-				&& colorless.isPresent() && colorless.get().value() == 0;
+		return repeatable.isEmpty()
+				&& numeric.isPresent() && numeric.get().value() == 0;
 	}
 
 	@Override public int hashCode() {
-		return Objects.hash(colorless, symbols);
+		return Objects.hash(numeric, repeatable);
 	}
 
 	@Override public boolean equals(Object obj) {
@@ -235,8 +234,8 @@ public final class ManaCost {
 			return false;
 		}
 		ManaCost other = (ManaCost) obj;
-		return colorless == other.colorless
-				&& symbols.equals(other.symbols);
+		return numeric == other.numeric
+				&& repeatable.equals(other.repeatable);
 	}
 
 	/**
@@ -247,11 +246,11 @@ public final class ManaCost {
 	 */
 	@Override public String toString() {
 		StringBuilder builder = new StringBuilder();
-		if (colorless.isPresent()) {
-			builder.append(colorless);
+		if (numeric.isPresent()) {
+			builder.append(numeric);
 		}
 		StringBuilder variables = new StringBuilder();
-		for (Symbol symbol : symbols) {
+		for (Symbol symbol : repeatable) {
 			if (symbol instanceof Variable) {
 				variables.append(symbol);
 			} else {

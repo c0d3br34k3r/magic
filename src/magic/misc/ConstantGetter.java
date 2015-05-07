@@ -7,17 +7,15 @@ import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableList.Builder;
 
 public class ConstantGetter {
-
-	public interface EnumLike {}
 	
 	private static final int PUBLIC_STATIC_FINAL =
 			Modifier.PUBLIC | Modifier.STATIC | Modifier.FINAL;
 
-	public static <T extends EnumLike> ImmutableList<T> values(Class<T> clazz) {
+	public static <T> ImmutableList<T> values(Class<?> lookIn, Class<T> ofType) {
 		Builder<T> builder = ImmutableList.builder();
-		for (Field field : clazz.getFields()) {
+		for (Field field : lookIn.getFields()) {
 			if ((field.getModifiers() & PUBLIC_STATIC_FINAL) == PUBLIC_STATIC_FINAL
-					&& clazz.isAssignableFrom(field.getType())) {
+					&& ofType.isAssignableFrom(field.getType())) {
 				try {
 					@SuppressWarnings("unchecked")
 					T constant = (T) field.get(null);
@@ -29,6 +27,10 @@ public class ConstantGetter {
 			}
 		}
 		return builder.build();
+	}
+	
+	public static <T> ImmutableList<T> values(Class<T> clazz) {
+		return values(clazz, clazz);
 	}
 
 	private ConstantGetter() {}
