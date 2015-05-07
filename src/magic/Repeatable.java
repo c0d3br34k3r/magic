@@ -1,8 +1,13 @@
 package magic;
 
+import java.util.List;
 import java.util.Set;
 
+import magic.misc.ConstantGetter;
+
+import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Iterables;
 import com.google.common.collect.Sets;
 
 public abstract class Repeatable extends Symbol {
@@ -136,6 +141,8 @@ public abstract class Repeatable extends Symbol {
 	 * The variable Colorless mana symbol: <code>{X}</code>.
 	 */
 	public static final Variable X = new Variable('X');
+	
+	
 
 	Repeatable(ImmutableSet<Color> colors, int converted, String representation) {
 		super(colors, converted, representation);
@@ -240,5 +247,32 @@ public abstract class Repeatable extends Symbol {
 			visitor.visit(this);
 		}
 	}
+	
+	
+	
+	public static ImmutableSet<Repeatable> values() {
+		return VALUES;
+	}
+	
+	public static <T extends Repeatable> Set<T> valuesOfType(Class<T> type) {
+		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
+	}
 
+	static Repeatable parseInner(String inner) {
+		return PARSE_LOOKUP.get(inner);
+	}
+	
+	private static final ImmutableMap<String, Repeatable> PARSE_LOOKUP;
+	private static final ImmutableSet<Repeatable> VALUES;
+
+	static {
+		List<Repeatable> values = ConstantGetter.values(Repeatable.class);
+		ImmutableMap.Builder<String, Repeatable> builder = ImmutableMap.builder();
+		for (Repeatable symbol : values) {
+			builder.put(stripBrackets(symbol), symbol);
+		}
+		PARSE_LOOKUP = builder.build();
+		VALUES = ImmutableSet.copyOf(values);
+	}
+	
 }

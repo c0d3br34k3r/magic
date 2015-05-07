@@ -41,6 +41,17 @@ public class Numeric extends Symbol {
 	@Override public void accept(Visitor visitor) {
 		visitor.visit(this);
 	}
+	
+	@Override public int hashCode() {
+		return value;
+	}
+
+	@Override public boolean equals(Object obj) {
+		if (obj == this) {
+			return true;
+		}
+		return obj instanceof Numeric && ((Numeric) obj).value == this.value;
+	}
 
 	static Numeric parseInner(String input) {
 		try {

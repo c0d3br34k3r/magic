@@ -1,10 +1,12 @@
 package magic;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.Collections;
+import java.util.Deque;
 import java.util.EnumSet;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
@@ -20,8 +22,6 @@ import com.google.common.base.Optional;
 import com.google.common.collect.HashMultiset;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Iterables;
-import com.google.common.collect.MapMaker;
 import com.google.common.collect.Multiset;
 
 /**
@@ -65,62 +65,8 @@ import com.google.common.collect.Multiset;
  */
 public final class ManaCost {
 
-	/**
-	 * Returns a new {@code ManaCost} with the given {@code Symbol}s and no
-	 * colorless mana. If the {@link Collection} of symbols is empty, the empty
-	 * mana cost is returned.
-	 */
-	public static ManaCost of(Collection<Symbol> symbols) {
-		Sorter sorter = new Sorter();
-		for (Symbol symbol : symbols) {
-
-		}
-		return new ManaCost(Optional.of(Numeric.of(0)), ImmutableMultiset.<Repeatable> of());
-	}
-
-	/**
-	 * Returns a new {@code ManaCost} with the given amount of colorless mana
-	 * and other mana symbols. If the array of symbols is empty and the amount
-	 * of colorless is zero, the zero mana cost is returned.
-	 */
-	public static ManaCost of(Symbol... symbols) {
-		return of(Arrays.asList(symbols));
-	}
-
-	/**
-	 * Returns a new {@code ManaCost} as specified by the input {@link String}.
-	 * The input can contain any number of mana symbols in the format specified
-	 * by {@link Symbol#toString()}, with no separators. Symbols do not have to
-	 * be in the order in which they would appear on a card.
-	 * 
-	 * @throws IllegalArgumentException
-	 *             if input contains <code>{0}</code> in combination with other
-	 *             symbols, or if more than one colorless symbol is given, or if
-	 *             the symbols are not formatted properly
-	 */
-	public static ManaCost parse(String input) {
-		List<Symbol> symbols = new ArrayList<>();
-		int begin = 0;
-		do {
-			if (input.charAt(begin) != '{') {
-				throw new IllegalArgumentException(String.format(
-						"expected '{' at position %d in \"%s\"", begin, input));
-			}
-			int end = input.indexOf('}', begin + 1);
-			if (end == -1) {
-				throw new IllegalArgumentException(String.format(
-						"no closing '}' in \"%s\"", input));
-			}
-			symbols.add(Symbol.parseInner(input.substring(begin + 1, end)));
-			begin = end + 1;
-		} while (begin < input.length());
-		return ManaCost.of(symbols);
-	}
-
 	private final Optional<Numeric> numeric;
 	private final ImmutableMultiset<Repeatable> repeatable;
-
-	// Cached values
 	private final int converted;
 	private final ImmutableSet<Color> colors;
 
@@ -152,7 +98,7 @@ public final class ManaCost {
 	 * unique
 	 */
 	public boolean payableWith(Set<Color> mana) {
-		return Symbol.payableWith(nonNumeric().elementSet(), mana);
+		return Symbol.payableWith(repeatable.elementSet(), mana);
 	}
 
 	/**
@@ -161,7 +107,7 @@ public final class ManaCost {
 	 */
 	public int countColor(Color color) {
 		int count = 0;
-		for (Multiset.Entry<Repeatable> entry : nonNumeric().entrySet()) {
+		for (Multiset.Entry<Repeatable> entry : repeatable.entrySet()) {
 			if (entry.getElement().colors().contains(color)) {
 				count += entry.getCount();
 			}
@@ -195,9 +141,15 @@ public final class ManaCost {
 	 * A {@link Multiset} containing all symbols other than numeric colorless
 	 * mana symbols in the order they would appear on a Magic card.
 	 */
-	public ImmutableMultiset<Repeatable> nonNumeric() {
+	public ImmutableMultiset<Repeatable> repeatable() {
 		return repeatable;
 	}
+	
+	public Iterable<Symbol> symbols() {
+		containsAnyOf(type)
+		
+	}
+
 
 	/**
 	 * The converted mana cost of this {@code ManaCost}.
@@ -247,7 +199,7 @@ public final class ManaCost {
 	@Override public String toString() {
 		StringBuilder builder = new StringBuilder();
 		if (numeric.isPresent()) {
-			builder.append(numeric);
+			builder.append(numeric.get());
 		}
 		StringBuilder variables = new StringBuilder();
 		for (Symbol symbol : repeatable) {
@@ -259,121 +211,99 @@ public final class ManaCost {
 		}
 		return variables.toString() + builder.toString();
 	}
-
-	private static Map<Multiset<Symbol>, ImmutableMultiset<Symbol>> precalculated =
-			new MapMaker().makeMap();
-
-	/*
-	 * All the methods from here on out are weird and black-boxy, and I'm not
-	 * entirely happy with them. They work well, but they can probably be
-	 * improved.
-	 */
-
-	private static ImmutableMultiset<Symbol> orderSymbols(
-			Multiset<Symbol> symbols) {
-		ImmutableMultiset<Symbol> result = precalculated.get(symbols);
-		if (result == null) {
-			int distinct = symbols.elementSet().size();
-			if (distinct < 2) {
-				return ImmutableMultiset.copyOf(symbols);
-			}
-
-		}
-		return result;
+	
+	
+	
+	public static ManaCost of(Numeric numeric, Repeatable... unordered) {
+		return of(Optional.of(numeric), Arrays.asList(unordered));
 	}
 
-	/*
-	 * argument must be a sorted list
-	 */
-	private static void order(List<Symbol> symbols) {
-		int size = symbols.size();
-		switch (size) {
-			case 1:
-			case 5:
-				break;
-			case 2:
-
-				/*
-				 * If the two symbols have more than one symbol between them,
-				 * swap the order.
-				 */
-				if (distance(symbols.get(0), symbols.get(1)) > 2) {
-					Collections.swap(symbols, 0, 1);
-				}
-				break;
-			case 3:
-
-				/*
-				 * If the two symbols on the right are next to each other, and
-				 * the symbol on the left is separated by at most one space, no
-				 * rotation is needed. This includes: WUB.., W.BR., .UBR.,
-				 * .U.RG, and ..BRG, where '.' represents an absent symbol.
-				 * 
-				 * For the remaining five possibilities, check if it contains
-				 * the "blue" symbol. If it does, rotate forward by 1;
-				 * otherwise, backward by 1. WU..G, WU.R., and .UB.G are rotated
-				 * forward and become GWU, RWU, and GUB, respectively, while
-				 * W.B.G and W..RG are rotated backward and become BGW and RGW
-				 * respectively. It just happens to work out that way.
-				 */
-				if (!(distance(
-						symbols.get(1),
-						symbols.get(2)) == 1
-				&& distance(
-						symbols.get(0),
-						symbols.get(1)) <= 2)) {
-					Collections.rotate(symbols, containsBlue(symbols) ? 1 : -1);
-				}
-				break;
-			case 4:
-
-				/*
-				 * Find the one symbol missing, and rotate backward by that
-				 * symbol's distance from the first.
-				 */
-				EnumSet<Color> range = EnumSet.allOf(Color.class);
-				for (Symbol symbol : symbols) {
-					range.remove(getColor(symbol));
-				}
-				Collections.rotate(symbols,
-						-Iterables.getOnlyElement(range).ordinal());
-				break;
-			default:
-				throw new AssertionError();
-		}
+	public static ManaCost of(Repeatable... unordered) {
+		return of(Optional.<Numeric> absent(), Arrays.asList(unordered));
 	}
 
-	private static boolean containsBlue(Collection<Symbol> symbols) {
-		for (Symbol symbol : symbols) {
-			if (getColor(symbol) == Color.BLUE) {
-				return true;
+	private static Map<Multiset<Repeatable>, ImmutableMultiset<Repeatable>> precalculated = new HashMap<>();
+
+	public static ManaCost of(
+			Optional<Numeric> numeric,
+			Collection<Repeatable> unordered) {
+		if (numeric.isPresent() && numeric.get().converted() == 0 && !unordered.isEmpty()) {
+			throw new IllegalArgumentException("{0} used with " + unordered);
+		}
+		Multiset<Repeatable> grouped = toMultiset(unordered);
+		ImmutableMultiset<Repeatable> repeatables = precalculated.get(grouped);
+		if (repeatables == null) {
+			if (grouped.elementSet().size() <= 1) {
+				repeatables = ImmutableMultiset.copyOf(grouped);
+			} else {
+				Sorter sorter = new Sorter();
+				for (Repeatable symbol : grouped.elementSet()) {
+					symbol.accept(sorter);
+				}
+				repeatables = sorter.build(grouped);
 			}
 		}
-		return false;
+		precalculated.put(repeatables, repeatables);
+		return new ManaCost(numeric, repeatables);
 	}
 
-	private static Color getColor(Symbol symbol) {
-		return symbol.colors().asList().get(0);
+	private static Multiset<Repeatable> toMultiset(Collection<Repeatable> unordered) {
+		if (unordered instanceof Multiset) {
+			return (Multiset<Repeatable>) unordered;
+		}
+		return HashMultiset.create(unordered);
 	}
 
-	private static int distance(Symbol start, Symbol end) {
-		return Math.abs(getColor(start).ordinal() - getColor(end).ordinal());
+	/**
+	 * Returns a new {@code ManaCost} as specified by the input {@link String}.
+	 * The input can contain any number of mana symbols in the format specified
+	 * by {@link Repeatable#toString()}, with no separators. Symbols do not have
+	 * to be in the order in which they would appear on a card.
+	 * 
+	 * @throws IllegalArgumentException
+	 *             if input contains <code>{0}</code> in combination with other
+	 *             symbols, or if more than one colorless symbol is given, or if
+	 *             the symbols are not formatted properly
+	 */
+	public static ManaCost parse(String input) {
+		Optional<Numeric> numeric = Optional.absent();
+		List<Repeatable> repeatables = new ArrayList<>();
+		int begin = 0;
+		do {
+			if (input.charAt(begin) != '{') {
+				throw new IllegalArgumentException(input);
+			}
+			int end = input.indexOf('}', begin + 1);
+			if (end == -1) {
+				throw new IllegalArgumentException(input);
+			}
+			String inner = input.substring(begin + 1, end);
+			Repeatable symbol = Repeatable.parseInner(inner);
+			if (symbol == null) {
+				if (numeric.isPresent()) {
+					throw new IllegalArgumentException(input);
+				}
+				numeric = Optional.of(Numeric.parseInner(inner));
+			} else {
+				repeatables.add(symbol);
+			}
+			begin = end + 1;
+		} while (begin < input.length());
+		return ManaCost.of(numeric, repeatables);
 	}
 
 	private static class Sorter implements Symbol.Visitor {
 
-		private Optional<Numeric> colorless = Optional.absent();
-		private Multiset<Primary> primary = HashMultiset.create();
+		private List<Primary> primary = new ArrayList<>();
+		private List<MonocoloredHybrid> monocoloredHybrid = new ArrayList<>();
+		private List<Phyrexian> phyrexian = new ArrayList<>();
 
 		@Override public void visit(Numeric symbol) {
-			if (colorless.isPresent()) {
-				throw new IllegalArgumentException();
-			}
-			colorless = Optional.of(symbol);
+			throw new AssertionError();
 		}
 
 		@Override public void visit(Primary symbol) {
-
+			primary.add(symbol);
 		}
 
 		@Override public void visit(Hybrid symbol) {
@@ -394,6 +324,11 @@ public final class ManaCost {
 		@Override public void visit(Variable symbol) {
 			// TODO Auto-generated method stub
 
+		}
+		
+		public ImmutableMultiset<Repeatable> build(Multiset<Repeatable> grouped) {
+			// TODO Auto-generated method stub
+			return null;
 		}
 	}
 
