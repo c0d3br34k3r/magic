@@ -1,10 +1,8 @@
 package magic;
 
-import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.Deque;
 import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.List;
@@ -12,10 +10,6 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 
-import magic.Repeatable.Hybrid;
-import magic.Repeatable.MonocoloredHybrid;
-import magic.Repeatable.Phyrexian;
-import magic.Repeatable.Primary;
 import magic.Repeatable.Variable;
 
 import com.google.common.base.Optional;
@@ -144,12 +138,6 @@ public final class ManaCost {
 	public ImmutableMultiset<Repeatable> repeatable() {
 		return repeatable;
 	}
-	
-	public Iterable<Symbol> symbols() {
-		containsAnyOf(type)
-		
-	}
-
 
 	/**
 	 * The converted mana cost of this {@code ManaCost}.
@@ -236,15 +224,18 @@ public final class ManaCost {
 			if (grouped.elementSet().size() <= 1) {
 				repeatables = ImmutableMultiset.copyOf(grouped);
 			} else {
-				Sorter sorter = new Sorter();
-				for (Repeatable symbol : grouped.elementSet()) {
-					symbol.accept(sorter);
-				}
-				repeatables = sorter.build(grouped);
+				repeatables = sort(grouped);
 			}
 		}
 		precalculated.put(repeatables, repeatables);
 		return new ManaCost(numeric, repeatables);
+	}
+
+	/**
+	 * Placeholder method for actual sorting
+	 */
+	private static ImmutableMultiset<Repeatable> sort(Multiset<Repeatable> grouped) {
+		return ImmutableMultiset.copyOf(grouped);
 	}
 
 	private static Multiset<Repeatable> toMultiset(Collection<Repeatable> unordered) {
@@ -291,49 +282,5 @@ public final class ManaCost {
 		} while (begin < input.length());
 		return ManaCost.of(numeric, repeatables);
 	}
-
-	private static class Sorter implements Symbol.Visitor {
-
-		private List<Primary> primary = new ArrayList<>();
-		private List<MonocoloredHybrid> monocoloredHybrid = new ArrayList<>();
-		private List<Phyrexian> phyrexian = new ArrayList<>();
-
-		@Override public void visit(Numeric symbol) {
-			throw new AssertionError();
-		}
-
-		@Override public void visit(Primary symbol) {
-			primary.add(symbol);
-		}
-
-		@Override public void visit(Hybrid symbol) {
-			// TODO Auto-generated method stub
-
-		}
-
-		@Override public void visit(MonocoloredHybrid symbol) {
-			// TODO Auto-generated method stub
-
-		}
-
-		@Override public void visit(Phyrexian symbol) {
-			// TODO Auto-generated method stub
-
-		}
-
-		@Override public void visit(Variable symbol) {
-			// TODO Auto-generated method stub
-
-		}
-		
-		public ImmutableMultiset<Repeatable> build(Multiset<Repeatable> grouped) {
-			// TODO Auto-generated method stub
-			return null;
-		}
-	}
-
-	public static void main(String[] args) {
-		System.out.println(Symbol.parse("{U}").getClass());
-	}
-
+	
 }
