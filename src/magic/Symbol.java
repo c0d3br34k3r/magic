@@ -14,7 +14,7 @@ import com.google.common.collect.Multiset;
 import com.google.common.collect.Sets;
 
 /**
- * All mana symbol:s other than numeric symbols; in other words, all symbols
+ * All mana symbols other than numeric symbols; in other words, all symbols
  * that may appear more than once in a mana cost. The reason constant colorless
  * symbols (such as <code>{1}</code>. or <code>{7}</code>.) are excluded is that
  * they are better represented as plain {@code int}s, to make them easier to
@@ -23,7 +23,7 @@ import com.google.common.collect.Sets;
  * 
  * @see ManaCost
  */
-public abstract class Symbol extends Element {
+public abstract class Symbol extends ManaUnit {
 
 	/**
 	 * The primary White mana symbol: <code>{W}</code>.
@@ -149,13 +149,13 @@ public abstract class Symbol extends Element {
 	 * The Phyrexian Green mana symbol: <code>{G/P}</code>.
 	 */
 	public static final Phyrexian PHYREXIAN_GREEN = new Phyrexian(Color.GREEN);
-	
-	public static final Numeric COLORLESS = new Numeric();
 
 	/**
 	 * The variable Colorless mana symbol: <code>{X}</code>.
 	 */
 	public static final Variable X = new Variable('X');
+	
+	public static final Generic GENERIC = new Generic();
 
 	Symbol(ImmutableSet<Color> colors, int converted, String innerPart) {
 		super(colors, converted, innerPart);
@@ -175,14 +175,14 @@ public abstract class Symbol extends Element {
 
 	protected abstract String format(int count);
 
-	public static abstract class RepeatingSymbol extends Symbol {
+	public static abstract class RepeatableSymbol extends Symbol {
 
-		private RepeatingSymbol(ImmutableSet<Color> colors,
+		private RepeatableSymbol(ImmutableSet<Color> colors,
 				int converted, String innerPart) {
 			super(colors, converted, innerPart);
 		}
 
-		private RepeatingSymbol(Color color, int converted, String representation) {
+		private RepeatableSymbol(Color color, int converted, String representation) {
 			this(ImmutableSet.of(color), converted, representation);
 		}
 
@@ -191,12 +191,12 @@ public abstract class Symbol extends Element {
 		}
 	}
 
-	public static final class Primary extends RepeatingSymbol {
+	public static final class Primary extends RepeatableSymbol {
 
 		private final Color color;
 
 		private Primary(Color color) {
-			super(color, 1, String.format("{%c}", color.code()));
+			super(color, 1, Character.toString(color.code()));
 			this.color = color;
 		}
 
@@ -209,12 +209,12 @@ public abstract class Symbol extends Element {
 		}
 	}
 
-	private static abstract class TwoPart extends RepeatingSymbol {
+	private static abstract class TwoPart extends RepeatableSymbol {
 
-		private final Element first;
-		private final Element second;
+		private final ManaUnit first;
+		private final ManaUnit second;
 
-		private TwoPart(Element first, Element second) {
+		private TwoPart(ManaUnit first, ManaUnit second) {
 			super(Sets.union(first.colors(), second.colors()).immutableCopy(),
 					Math.max(first.converted(), second.converted()),
 					first.innerPart() + '/' + second.innerPart());
@@ -237,13 +237,11 @@ public abstract class Symbol extends Element {
 			visitor.visit(this);
 		}
 	}
-
-	private static final NumericGroup TWO = NumericGroup.of(2);
 	
 	public static final class MonocoloredHybrid extends TwoPart {
 
 		private MonocoloredHybrid(Primary symbol) {
-			super(TWO, symbol);
+			super(NumericGroup.TWO, symbol);
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
@@ -255,17 +253,17 @@ public abstract class Symbol extends Element {
 		}
 	}
 
-//	private static final Element PHYREXIAN = new Element(0, "P") {
+//	private static final ManaUnit PHYREXIAN = new ManaUnit(0, "P") {
 //
 //		@Override public boolean payableWith(Set<Color> mana) {
 //			return true;
 //		}
 //	};
 	
-	public static final class Phyrexian extends RepeatingSymbol {
+	public static final class Phyrexian extends RepeatableSymbol {
 
 		private Phyrexian(Color color) {
-			super(color, 1, String.format("{%c/P}", color.code()));
+			super(color, 1, color.code() + "/P");
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
@@ -277,10 +275,10 @@ public abstract class Symbol extends Element {
 		}
 	}
 
-	public static final class Variable extends RepeatingSymbol {
+	public static final class Variable extends RepeatableSymbol {
 
 		private Variable(char letter) {
-			super(ImmutableSet.<Color> of(), 0, String.format("{%c}", letter));
+			super(ImmutableSet.<Color> of(), 0, Character.toString(letter));
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
@@ -292,10 +290,10 @@ public abstract class Symbol extends Element {
 		}
 	}
 
-	public static final class Numeric extends Symbol {
+	public static final class Generic extends Symbol {
 
-		private Numeric() {
-			super(1, " ");
+		private Generic() {
+			super(1, "generic");
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
@@ -307,11 +305,11 @@ public abstract class Symbol extends Element {
 		}
 
 		@Override protected String format(int count) {
-			return String.format("{%d}", count);
+			return '{' + Integer.toString(count) + '}';
 		}
 	}
 
-	public static ImmutableSet<RepeatingSymbol> values() {
+	public static ImmutableSet<RepeatableSymbol> values() {
 		return VALUES;
 	}
 
@@ -319,13 +317,13 @@ public abstract class Symbol extends Element {
 		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
 	}
 
-	private static final ImmutableMap<String, RepeatingSymbol> PARSE_LOOKUP;
-	private static final ImmutableSet<RepeatingSymbol> VALUES;
+	private static final ImmutableMap<String, RepeatableSymbol> PARSE_LOOKUP;
+	private static final ImmutableSet<RepeatableSymbol> VALUES;
 
 	static {
-		List<RepeatingSymbol> values = ConstantGetter.values(Symbol.class, RepeatingSymbol.class);
-		ImmutableMap.Builder<String, RepeatingSymbol> builder = ImmutableMap.builder();
-		for (RepeatingSymbol symbol : values) {
+		List<RepeatableSymbol> values = ConstantGetter.values(Symbol.class, RepeatableSymbol.class);
+		ImmutableMap.Builder<String, RepeatableSymbol> builder = ImmutableMap.builder();
+		for (RepeatableSymbol symbol : values) {
 			builder.put(symbol.innerPart(), symbol);
 		}
 		PARSE_LOOKUP = builder.build();
@@ -334,7 +332,7 @@ public abstract class Symbol extends Element {
 
 	public interface Visitor {
 
-		void visit(Numeric colorless);
+		void visit(Generic generic);
 
 		void visit(Primary primary);
 
@@ -371,16 +369,26 @@ public abstract class Symbol extends Element {
 	 * @throws IllegalArgumentException
 	 *             if the input does not correspond to a symbol.
 	 */
-	public static RepeatingSymbol parse(String input) {
+	public static RepeatableSymbol parse(String input) {
 		String inner = stripBrackets(input);
-		RepeatingSymbol symbol = parseInner(inner);
+		RepeatableSymbol symbol = parseInner(inner);
 		if (symbol == null) {
 			throw new IllegalArgumentException(input);
 		}
 		return symbol;
 	}
 	
-	static RepeatingSymbol parseInner(String inner) {
+	static String stripBrackets(String input) {
+		int length = input.length();
+		if (length != 0
+				&& input.charAt(0) == '{'
+				&& input.charAt(length - 1) == '}') {
+			return input.substring(1, length - 1);
+		}
+		throw new IllegalArgumentException(input);
+	}
+	
+	static RepeatableSymbol parseInner(String inner) {
 		return PARSE_LOOKUP.get(inner);
 	}
 

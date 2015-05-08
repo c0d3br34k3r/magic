@@ -1,21 +1,28 @@
 package magic;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.EnumSet;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
-import magic.Symbol.Numeric;
-import magic.Symbol.RepeatingSymbol;
+import magic.Symbol.Generic;
+import magic.Symbol.Hybrid;
+import magic.Symbol.MonocoloredHybrid;
+import magic.Symbol.Phyrexian;
+import magic.Symbol.Primary;
+import magic.Symbol.RepeatableSymbol;
+import magic.Symbol.Variable;
+import magic.Symbol.Visitor;
 
 import com.google.common.base.Optional;
+import com.google.common.base.Supplier;
 import com.google.common.collect.HashMultiset;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Multimap;
+import com.google.common.collect.Multimaps;
 import com.google.common.collect.Multiset;
 
 /**
@@ -57,7 +64,7 @@ import com.google.common.collect.Multiset;
  * 
  * @see Symbol
  */
-public final class ManaCost {
+public class ManaCost {
 
 	private final ImmutableMultiset<Symbol> symbols;
 	private final int converted;
@@ -119,7 +126,7 @@ public final class ManaCost {
 	 * symbol is present.
 	 */
 	public int generic() {
-		return symbols.count(Symbol.COLORLESS);
+		return symbols.count(Symbol.GENERIC);
 	}
 
 	/**
@@ -137,6 +144,14 @@ public final class ManaCost {
 		return converted;
 	}
 
+	public boolean isEmpty() {
+		return this == EMPTY;
+	}
+
+	public boolean isZero() {
+		return this == ZERO;
+	}
+
 	@Override public int hashCode() {
 		return symbols.hashCode();
 	}
@@ -148,10 +163,10 @@ public final class ManaCost {
 		return obj instanceof ManaCost
 				&& ((ManaCost) obj).symbols.equals(this.symbols);
 	}
-	
+
 	/**
 	 * Returns the {@link String} representation of this mana cost: a series of
-	 * mana symbols, including constant colorless mana symbols (specified by
+	 * mana symbols, including numeric mana symbols (specified by
 	 * {@link Symbol#toString()}) in the order that they would appear on an
 	 * actual card.
 	 */
@@ -162,54 +177,43 @@ public final class ManaCost {
 		}
 		return builder.toString();
 	}
-	
-	
-	
-	public static ManaCost of(int numeric, RepeatingSymbol... unordered) {
-		return of(numeric, Arrays.asList(unordered));
+
+	public static final ManaCost ZERO = new SpecialManaCost("{0}");
+
+	public static final ManaCost EMPTY = new SpecialManaCost("");
+
+	public static ManaCost of(int numeric) {
+		if (numeric == 0) {
+			return ZERO;
+		}
+		return of(numeric, Collections.<RepeatableSymbol> emptySet());
 	}
 
-	public static ManaCost of(RepeatingSymbol... unordered) {
+	public static ManaCost of(RepeatableSymbol... unordered) {
+		if (unordered.length == 0) {
+			return EMPTY;
+		}
 		return of(0, unordered);
 	}
 
-	private static Map<Multiset<Symbol>, ImmutableMultiset<Symbol>> precalculated = new HashMap<>();
+	public static ManaCost of(int numeric, RepeatableSymbol... unordered) {
+		return of(numeric, Arrays.asList(unordered));
+	}
 
 	public static ManaCost of(
 			int numeric,
-			Collection<RepeatingSymbol> unordered) {
-		if (numeric.isPresent() && numeric.get().converted() == 0 && !unordered.isEmpty()) {
-			throw new IllegalArgumentException("{0} used with " + unordered);
-		}
-		Multiset<Symbol> grouped = toMultiset(unordered);
-		ImmutableMultiset<Symbol> Symbols = precalculated.get(grouped);
-		if (Symbols == null) {
-			if (grouped.elementSet().size() <= 1) {
-				Symbols = ImmutableMultiset.copyOf(grouped);
-			} else {
-				Sorter sorter = new Sorter();
-				for (Symbol symbol : grouped.elementSet()) {
-					symbol.accept(sorter);
-				}
-				Symbols = sorter.build(grouped);
-			}
-		}
-		precalculated.put(Symbols, Symbols);
-		return new ManaCost(numeric, Symbols);
-	}
-
-	private static Multiset<Symbol> toMultiset(Collection<Symbol> unordered) {
-		if (unordered instanceof Multiset) {
-			return (Multiset<Symbol>) unordered;
-		}
-		return HashMultiset.create(unordered);
+			Collection<RepeatableSymbol> unordered) {
+		HashMultiset<Symbol> symbols = HashMultiset.create();
+		symbols.setCount(Symbol.GENERIC, numeric);
+		symbols.addAll(unordered);
+		return new ManaCost(sort(symbols));
 	}
 
 	/**
 	 * Returns a new {@code ManaCost} as specified by the input {@link String}.
 	 * The input can contain any number of mana symbols in the format specified
-	 * by {@link Symbol#toString()}, with no separators. Symbols do not have
-	 * to be in the order in which they would appear on a card.
+	 * by {@link Symbol#toString()}, with no separators. Symbols do not have to
+	 * be in the order in which they would appear on a card.
 	 * 
 	 * @throws IllegalArgumentException
 	 *             if input contains <code>{0}</code> in combination with other
@@ -217,7 +221,14 @@ public final class ManaCost {
 	 *             the symbols are not formatted properly
 	 */
 	public static ManaCost parse(String input) {
-		List<Symbol> Symbols = new ArrayList<>();
+		switch (input) {
+			case "":
+				return EMPTY;
+			case "{0}":
+				return ZERO;
+			default:
+		}
+		Multiset<Symbol> symbols = HashMultiset.create();
 		int begin = 0;
 		do {
 			if (input.charAt(begin) != '{') {
@@ -230,20 +241,83 @@ public final class ManaCost {
 			String inner = input.substring(begin + 1, end);
 			Symbol symbol = Symbol.parseInner(inner);
 			if (symbol == null) {
-				if (numeric.isPresent()) {
+				if (symbols.contains(Symbol.GENERIC)) {
 					throw new IllegalArgumentException(input);
 				}
-				numeric = Optional.of(Numeric.parseInner(inner));
+				symbols.setCount(Symbol.GENERIC, Integer.parseInt(inner));
 			} else {
-				Symbols.add(symbol);
+				symbols.add(symbol);
 			}
 			begin = end + 1;
 		} while (begin < input.length());
-		return ManaCost.of(numeric, Symbols);
+		return new ManaCost(sort(symbols));
+	}
+
+	private static ImmutableMultiset<Symbol> sort(Multiset<Symbol> symbols) {
+		return ImmutableMultiset.copyOf(symbols);
+	}
+
+	private static class Sorter implements Visitor {
+
+		int generic = 0;
+		int variable = 0;
+		Multimap<Class<? extends Symbol>, Symbol> sorted = Multimaps.newMultimap(
+				new HashMap<Class<? extends Symbol>, Collection<Symbol>>(),
+				new Supplier<Collection<Symbol>>() {
+					@Override public Collection<Symbol> get() {
+						return HashMultiset.create(1);
+					}
+				});
+		
+		public void setGeneric(int value) {
+			if (generic != 0) {
+				throw new IllegalStateException();
+			}
+			generic = value;
+		}
+
+		@Override public void visit(Variable symbol) {
+			variable++;
+		}
+		
+		@Override public void visit(Generic symbol) {
+			generic++;
+		}
+
+		@Override public void visit(Hybrid symbol) {
+			sorted.put(Hybrid.class, symbol);
+		}
+
+		@Override public void visit(MonocoloredHybrid symbol) {
+			sorted.put(MonocoloredHybrid.class, symbol);
+		}
+
+		@Override public void visit(Phyrexian symbol) {
+			sorted.put(Phyrexian.class, symbol);
+		}
+		
+		@Override public void visit(Primary symbol) {
+			sorted.put(Primary.class, symbol);
+		}
+
+	}
+
+	private static class SpecialManaCost extends ManaCost {
+
+		private final String representation;
+
+		private SpecialManaCost(String representation) {
+			super(ImmutableMultiset.<Symbol> of());
+			this.representation = representation;
+		}
+
+		@Override public String toString() {
+			return representation;
+		}
 	}
 
 	public static void main(String[] args) {
-		System.out.println(Symbol.parse("{U}").getClass());
+		System.out.println(ManaCost.of(5, Symbol.PHYREXIAN_RED).symbols());
 	}
 
 }

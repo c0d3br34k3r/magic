@@ -1,5 +1,0 @@
-package magic;
-
-interface CostElement {
-
-}

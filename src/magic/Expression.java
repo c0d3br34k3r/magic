@@ -156,7 +156,6 @@ public abstract class Expression implements Comparable<Expression> {
 					? 1
 					: toString().compareTo(o.toString());
 		}
-
 	}
 
 }

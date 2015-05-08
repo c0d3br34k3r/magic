@@ -2,12 +2,12 @@ package magic;
 
 import java.util.Set;
 
-import magic.Symbol.Numeric;
+import magic.Symbol.Generic;
 
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Multiset;
 
-public class NumericGroup extends Element implements Multiset.Entry<Numeric> {
+public class NumericGroup extends ManaUnit implements Multiset.Entry<Generic> {
 
 	private final int value;
 	
@@ -20,8 +20,8 @@ public class NumericGroup extends Element implements Multiset.Entry<Numeric> {
 		this.value = value;
 	}
 	
-	@Override public Numeric getElement() {
-		return Symbol.COLORLESS;
+	@Override public Generic getElement() {
+		return Symbol.GENERIC;
 	}
 
 	@Override public int getCount() {
@@ -31,5 +31,19 @@ public class NumericGroup extends Element implements Multiset.Entry<Numeric> {
 	@Override public boolean payableWith(Set<Color> mana) {
 		return true;
 	}
+	
+	@Override public int hashCode() {
+		return value;
+	}
+
+	@Override public boolean equals(Object obj) {
+		if (obj == this) {
+			return true;
+		}
+		return obj instanceof NumericGroup
+				&& ((NumericGroup) obj).value == this.value;
+	}
+
+	static final NumericGroup TWO = NumericGroup.of(2);
 	
 }
