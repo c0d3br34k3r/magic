@@ -64,8 +64,8 @@ public final class ManaCost {
 	private final int converted;
 	private final ImmutableSet<Color> colors;
 
-	private ManaCost(Optional<Numeric> colorless, ImmutableMultiset<Repeatable> symbols) {
-		this.numeric = colorless;
+	private ManaCost(Optional<Numeric> numeric, ImmutableMultiset<Repeatable> symbols) {
+		this.numeric = numeric;
 		this.repeatable = symbols;
 		int converted = generic();
 		EnumSet<Color> colors = EnumSet.noneOf(Color.class);
@@ -132,8 +132,8 @@ public final class ManaCost {
 	}
 
 	/**
-	 * A {@link Multiset} containing all symbols other than numeric colorless
-	 * mana symbols in the order they would appear on a Magic card.
+	 * A {@link Multiset} containing all symbols other than numeric mana symbols
+	 * in the order they would appear on a Magic card.
 	 */
 	public ImmutableMultiset<Repeatable> repeatable() {
 		return repeatable;
@@ -199,9 +199,7 @@ public final class ManaCost {
 		}
 		return variables.toString() + builder.toString();
 	}
-	
-	
-	
+
 	public static ManaCost of(Numeric numeric, Repeatable... unordered) {
 		return of(Optional.of(numeric), Arrays.asList(unordered));
 	}
@@ -282,5 +280,5 @@ public final class ManaCost {
 		} while (begin < input.length());
 		return ManaCost.of(numeric, repeatables);
 	}
-	
+
 }
