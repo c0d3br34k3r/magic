@@ -11,11 +11,10 @@ import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Multiset;
-import com.google.common.collect.Sets;
 
 /**
- * All mana symbols other than numeric symbols; in other words, all symbols
- * that may appear more than once in a mana cost. The reason constant colorless
+ * All mana symbols other than numeric symbols; in other words, all symbols that
+ * may appear more than once in a mana cost. The reason constant colorless
  * symbols (such as <code>{1}</code>. or <code>{7}</code>.) are excluded is that
  * they are better represented as plain {@code int}s, to make them easier to
  * work with, and to reduce the complexity of this {@code enum}. See
@@ -23,7 +22,7 @@ import com.google.common.collect.Sets;
  * 
  * @see ManaCost
  */
-public abstract class Symbol extends ManaUnit {
+public abstract class Symbol {
 
 	/**
 	 * The primary White mana symbol: <code>{W}</code>.
@@ -53,77 +52,77 @@ public abstract class Symbol extends ManaUnit {
 	/**
 	 * The hybrid White-Blue mana symbol: <code>{W/U}</code>.
 	 */
-	public static final Hybrid HYBRID_WHITE_BLUE = new Hybrid(WHITE, BLUE);
+	public static final Hybrid HYBRID_WHITE_BLUE = new Hybrid(Color.WHITE, Color.BLUE);
 
 	/**
 	 * The hybrid Blue-Black mana symbol: <code>{U/B}</code>.
 	 */
-	public static final Hybrid HYBRID_BLUE_BLACK = new Hybrid(BLUE, BLACK);
+	public static final Hybrid HYBRID_BLUE_BLACK = new Hybrid(Color.BLUE, Color.BLACK);
 
 	/**
 	 * The hybrid Black-Red mana symbol: <code>{B/R}</code>.
 	 */
-	public static final Hybrid HYBRID_BLACK_RED = new Hybrid(BLACK, RED);
+	public static final Hybrid HYBRID_BLACK_RED = new Hybrid(Color.BLACK, Color.RED);
 
 	/**
 	 * The hybrid Red-Green mana symbol: <code>{R/G}</code>.
 	 */
-	public static final Hybrid HYBRID_RED_GREEN = new Hybrid(RED, GREEN);
+	public static final Hybrid HYBRID_RED_GREEN = new Hybrid(Color.RED, Color.GREEN);
 
 	/**
 	 * The hybrid Green-White mana symbol: <code>{G/W}</code>.
 	 */
-	public static final Hybrid HYBRID_GREEN_WHITE = new Hybrid(GREEN, WHITE);
+	public static final Hybrid HYBRID_GREEN_WHITE = new Hybrid(Color.GREEN, Color.WHITE);
 
 	/**
 	 * The hybrid White-Black mana symbol: <code>{W/B}</code>.
 	 */
-	public static final Hybrid HYBRID_WHITE_BLACK = new Hybrid(WHITE, BLACK);
+	public static final Hybrid HYBRID_WHITE_BLACK = new Hybrid(Color.WHITE, Color.BLACK);
 
 	/**
 	 * The hybrid Blue-Red mana symbol: <code>{U/R}</code>.
 	 */
-	public static final Hybrid HYBRID_BLUE_RED = new Hybrid(BLUE, RED);
+	public static final Hybrid HYBRID_BLUE_RED = new Hybrid(Color.BLUE, Color.RED);
 
 	/**
 	 * The hybrid Black-Green mana symbol: <code>{B/G}</code>.
 	 */
-	public static final Hybrid HYBRID_BLACK_GREEN = new Hybrid(BLACK, GREEN);
+	public static final Hybrid HYBRID_BLACK_GREEN = new Hybrid(Color.BLACK, Color.GREEN);
 
 	/**
 	 * The hybrid Red-White mana symbol: <code>{R/W}</code>.
 	 */
-	public static final Hybrid HYBRID_RED_WHITE = new Hybrid(RED, WHITE);
+	public static final Hybrid HYBRID_RED_WHITE = new Hybrid(Color.RED, Color.WHITE);
 
 	/**
 	 * The hybrid Green-Blue mana symbol: <code>{G/U}</code>.
 	 */
-	public static final Hybrid HYBRID_GREEN_BLUE = new Hybrid(GREEN, BLUE);
+	public static final Hybrid HYBRID_GREEN_BLUE = new Hybrid(Color.GREEN, Color.BLUE);
 
 	/**
 	 * The monocolored hybrid White mana symbol: <code>{2/W}</code>.
 	 */
-	public static final MonocoloredHybrid MONOCOLORED_HYBRID_WHITE = new MonocoloredHybrid(WHITE);
+	public static final MonocoloredHybrid MONOCOLORED_HYBRID_WHITE = new MonocoloredHybrid(Color.WHITE);
 
 	/**
 	 * The monocolored hybrid Blue mana symbol: <code>{2/U}</code>.
 	 */
-	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLUE = new MonocoloredHybrid(BLUE);
+	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLUE = new MonocoloredHybrid(Color.BLUE);
 
 	/**
 	 * The monocolored hybrid Black mana symbol: <code>{2/B}</code>.
 	 */
-	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLACK = new MonocoloredHybrid(BLACK);
+	public static final MonocoloredHybrid MONOCOLORED_HYBRID_BLACK = new MonocoloredHybrid(Color.BLACK);
 
 	/**
 	 * The monocolored hybrid Red mana symbol: <code>{2/R}</code>.
 	 */
-	public static final MonocoloredHybrid MONOCOLORED_HYBRID_RED = new MonocoloredHybrid(RED);
+	public static final MonocoloredHybrid MONOCOLORED_HYBRID_RED = new MonocoloredHybrid(Color.RED);
 
 	/**
 	 * The monocolored hybrid Green mana symbol: <code>{2/G}</code>.
 	 */
-	public static final MonocoloredHybrid MONOCOLORED_HYBRID_GREEN = new MonocoloredHybrid(GREEN);
+	public static final MonocoloredHybrid MONOCOLORED_HYBRID_GREEN = new MonocoloredHybrid(Color.GREEN);
 
 	/**
 	 * The Phyrexian White mana symbol: <code>{W/P}</code>.
@@ -154,35 +153,57 @@ public abstract class Symbol extends ManaUnit {
 	 * The variable Colorless mana symbol: <code>{X}</code>.
 	 */
 	public static final Variable X = new Variable('X');
-	
+
 	public static final Generic GENERIC = new Generic();
 
+	private final ImmutableSet<Color> colors;
+	private final int converted;
+	private final String innerPart;
+
 	Symbol(ImmutableSet<Color> colors, int converted, String innerPart) {
-		super(colors, converted, innerPart);
+		this.colors = colors;
+		this.converted = converted;
+		this.innerPart = innerPart;
 	}
 
 	Symbol(Color color, int converted, String innerPart) {
-		super(color, converted, innerPart);
-	}
-	
-	Symbol(int converted, String innerPart) {
-		super(converted, innerPart);
+		this(ImmutableSet.of(color), converted, innerPart);
 	}
 
-	@Override public abstract boolean payableWith(Set<Color> mana);
+	Symbol(int converted, String innerPart) {
+		this(ImmutableSet.<Color> of(), converted, innerPart);
+	}
+	
+	public abstract boolean payableWith(Set<Color> mana);
+
+	@Override public final String toString() {
+		return '{' + innerPart + '}';
+	}
+
+	public final int converted() {
+		return converted;
+	}
+
+	public final ImmutableSet<Color> colors() {
+		return colors;
+	}
+	
+	final String innerPart() {
+		return innerPart;
+	}
 
 	public abstract void accept(Visitor visitor);
 
 	protected abstract String format(int count);
 
-	public static abstract class RepeatableSymbol extends Symbol {
+	public static abstract class Repeatable extends Symbol {
 
-		private RepeatableSymbol(ImmutableSet<Color> colors,
+		private Repeatable(ImmutableSet<Color> colors,
 				int converted, String innerPart) {
 			super(colors, converted, innerPart);
 		}
 
-		private RepeatableSymbol(Color color, int converted, String representation) {
+		private Repeatable(Color color, int converted, String representation) {
 			this(ImmutableSet.of(color), converted, representation);
 		}
 
@@ -191,7 +212,21 @@ public abstract class Symbol extends ManaUnit {
 		}
 	}
 
-	public static final class Primary extends RepeatableSymbol {
+	public static abstract class Monocolored extends Repeatable {
+
+		private final Color color;
+
+		private Monocolored(Color color, int converted, String innerPart) {
+			super(color, converted, innerPart);
+			this.color = color;
+		}
+
+		public Color color() {
+			return color;
+		}
+	}
+
+	public static final class Primary extends Monocolored {
 
 		private final Color color;
 
@@ -209,39 +244,31 @@ public abstract class Symbol extends ManaUnit {
 		}
 	}
 
-	private static abstract class TwoPart extends RepeatableSymbol {
+	public static final class Hybrid extends Repeatable {
 
-		private final ManaUnit first;
-		private final ManaUnit second;
+		private final Color first;
+		private final Color second;
 
-		private TwoPart(ManaUnit first, ManaUnit second) {
-			super(Sets.union(first.colors(), second.colors()).immutableCopy(),
-					Math.max(first.converted(), second.converted()),
-					first.innerPart() + '/' + second.innerPart());
+		private Hybrid(Color first, Color second) {
+			super(ImmutableSet.of(first, second), 1,
+					new String(new char[] { first.code(), '/', second.code() }));
 			this.first = first;
 			this.second = second;
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
-			return first.payableWith(mana) || second.payableWith(mana);
-		}
-	}
-
-	public static final class Hybrid extends TwoPart {
-
-		private Hybrid(Primary first, Primary second) {
-			super(first, second);
+			return mana.contains(first) || mana.contains(second);
 		}
 
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
 	}
-	
-	public static final class MonocoloredHybrid extends TwoPart {
 
-		private MonocoloredHybrid(Primary symbol) {
-			super(NumericGroup.TWO, symbol);
+	public static final class MonocoloredHybrid extends Monocolored {
+
+		private MonocoloredHybrid(Color color) {
+			super(color, 2, "2/" + color.code());
 		}
 
 		@Override public boolean payableWith(Set<Color> mana) {
@@ -253,14 +280,7 @@ public abstract class Symbol extends ManaUnit {
 		}
 	}
 
-//	private static final ManaUnit PHYREXIAN = new ManaUnit(0, "P") {
-//
-//		@Override public boolean payableWith(Set<Color> mana) {
-//			return true;
-//		}
-//	};
-	
-	public static final class Phyrexian extends RepeatableSymbol {
+	public static final class Phyrexian extends Monocolored {
 
 		private Phyrexian(Color color) {
 			super(color, 1, color.code() + "/P");
@@ -275,7 +295,7 @@ public abstract class Symbol extends ManaUnit {
 		}
 	}
 
-	public static final class Variable extends RepeatableSymbol {
+	public static final class Variable extends Repeatable {
 
 		private Variable(char letter) {
 			super(ImmutableSet.<Color> of(), 0, Character.toString(letter));
@@ -309,7 +329,7 @@ public abstract class Symbol extends ManaUnit {
 		}
 	}
 
-	public static ImmutableSet<RepeatableSymbol> values() {
+	public static ImmutableSet<Repeatable> values() {
 		return VALUES;
 	}
 
@@ -317,13 +337,13 @@ public abstract class Symbol extends ManaUnit {
 		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
 	}
 
-	private static final ImmutableMap<String, RepeatableSymbol> PARSE_LOOKUP;
-	private static final ImmutableSet<RepeatableSymbol> VALUES;
+	private static final ImmutableMap<String, Repeatable> PARSE_LOOKUP;
+	private static final ImmutableSet<Repeatable> VALUES;
 
 	static {
-		List<RepeatableSymbol> values = ConstantGetter.values(Symbol.class, RepeatableSymbol.class);
-		ImmutableMap.Builder<String, RepeatableSymbol> builder = ImmutableMap.builder();
-		for (RepeatableSymbol symbol : values) {
+		List<Repeatable> values = ConstantGetter.values(Symbol.class, Repeatable.class);
+		ImmutableMap.Builder<String, Repeatable> builder = ImmutableMap.builder();
+		for (Repeatable symbol : values) {
 			builder.put(symbol.innerPart(), symbol);
 		}
 		PARSE_LOOKUP = builder.build();
@@ -369,15 +389,15 @@ public abstract class Symbol extends ManaUnit {
 	 * @throws IllegalArgumentException
 	 *             if the input does not correspond to a symbol.
 	 */
-	public static RepeatableSymbol parse(String input) {
+	public static Repeatable parse(String input) {
 		String inner = stripBrackets(input);
-		RepeatableSymbol symbol = parseInner(inner);
+		Repeatable symbol = parseInner(inner);
 		if (symbol == null) {
 			throw new IllegalArgumentException(input);
 		}
 		return symbol;
 	}
-	
+
 	static String stripBrackets(String input) {
 		int length = input.length();
 		if (length != 0
@@ -387,8 +407,8 @@ public abstract class Symbol extends ManaUnit {
 		}
 		throw new IllegalArgumentException(input);
 	}
-	
-	static RepeatableSymbol parseInner(String inner) {
+
+	static Repeatable parseInner(String inner) {
 		return PARSE_LOOKUP.get(inner);
 	}
 

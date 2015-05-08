@@ -5,25 +5,29 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.EnumSet;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import magic.Symbol.Generic;
 import magic.Symbol.Hybrid;
+import magic.Symbol.Monocolored;
 import magic.Symbol.MonocoloredHybrid;
 import magic.Symbol.Phyrexian;
 import magic.Symbol.Primary;
-import magic.Symbol.RepeatableSymbol;
+import magic.Symbol.Repeatable;
 import magic.Symbol.Variable;
 import magic.Symbol.Visitor;
 
 import com.google.common.base.Optional;
-import com.google.common.base.Supplier;
 import com.google.common.collect.HashMultiset;
+import com.google.common.collect.ImmutableList;
+import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableMap.Builder;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Multimap;
-import com.google.common.collect.Multimaps;
 import com.google.common.collect.Multiset;
+import com.google.common.collect.Multiset.Entry;
 
 /**
  * An immutable object representing a mana cost. A {@code ManaCost} has two
@@ -183,26 +187,26 @@ public class ManaCost {
 	public static final ManaCost EMPTY = new SpecialManaCost("");
 
 	public static ManaCost of(int numeric) {
-		if (numeric == 0) {
-			return ZERO;
-		}
-		return of(numeric, Collections.<RepeatableSymbol> emptySet());
+		return of(numeric, Collections.<Repeatable> emptySet());
 	}
 
-	public static ManaCost of(RepeatableSymbol... unordered) {
+	public static ManaCost of(Repeatable... unordered) {
 		if (unordered.length == 0) {
 			return EMPTY;
 		}
 		return of(0, unordered);
 	}
 
-	public static ManaCost of(int numeric, RepeatableSymbol... unordered) {
+	public static ManaCost of(int numeric, Repeatable... unordered) {
 		return of(numeric, Arrays.asList(unordered));
 	}
 
 	public static ManaCost of(
 			int numeric,
-			Collection<RepeatableSymbol> unordered) {
+			Collection<Repeatable> unordered) {
+		if (numeric == 0 && unordered.isEmpty()) {
+			return ZERO;
+		}
 		HashMultiset<Symbol> symbols = HashMultiset.create();
 		symbols.setCount(Symbol.GENERIC, numeric);
 		symbols.addAll(unordered);
@@ -228,7 +232,7 @@ public class ManaCost {
 				return ZERO;
 			default:
 		}
-		Multiset<Symbol> symbols = HashMultiset.create();
+		Sorter sorter = new Sorter();
 		int begin = 0;
 		do {
 			if (input.charAt(begin) != '{') {
@@ -241,16 +245,13 @@ public class ManaCost {
 			String inner = input.substring(begin + 1, end);
 			Symbol symbol = Symbol.parseInner(inner);
 			if (symbol == null) {
-				if (symbols.contains(Symbol.GENERIC)) {
-					throw new IllegalArgumentException(input);
-				}
-				symbols.setCount(Symbol.GENERIC, Integer.parseInt(inner));
+				sorter.setGeneric(Integer.parseInt(inner));
 			} else {
-				symbols.add(symbol);
+				symbol.accept(sorter);
 			}
 			begin = end + 1;
 		} while (begin < input.length());
-		return new ManaCost(sort(symbols));
+		return sorter.build();
 	}
 
 	private static ImmutableMultiset<Symbol> sort(Multiset<Symbol> symbols) {
@@ -259,17 +260,19 @@ public class ManaCost {
 
 	private static class Sorter implements Visitor {
 
-		int generic = 0;
-		int variable = 0;
-		Multimap<Class<? extends Symbol>, Symbol> sorted = Multimaps.newMultimap(
-				new HashMap<Class<? extends Symbol>, Collection<Symbol>>(),
-				new Supplier<Collection<Symbol>>() {
-					@Override public Collection<Symbol> get() {
-						return HashMultiset.create(1);
-					}
-				});
-		
-		public void setGeneric(int value) {
+		private int generic = 0;
+		private int variableCount = 0;
+
+		private int hybridCount = 0;
+		private Hybrid hybrid = null;
+
+		/*
+		 * No card mixes monocolored symbol types, so we can use an unordered
+		 * map.
+		 */
+		private Map<Class<? extends Monocolored>, Multiset<Monocolored>> monocolored = new HashMap<>();
+
+		void setGeneric(int value) {
 			if (generic != 0) {
 				throw new IllegalStateException();
 			}
@@ -277,29 +280,81 @@ public class ManaCost {
 		}
 
 		@Override public void visit(Variable symbol) {
-			variable++;
-		}
-		
-		@Override public void visit(Generic symbol) {
-			generic++;
+			variableCount++;
 		}
 
 		@Override public void visit(Hybrid symbol) {
-			sorted.put(Hybrid.class, symbol);
+			if (hybrid == null) {
+				hybrid = symbol;
+			} else if (symbol != hybrid) {
+				throw new IllegalStateException();
+			}
+			hybridCount++;
 		}
 
 		@Override public void visit(MonocoloredHybrid symbol) {
-			sorted.put(MonocoloredHybrid.class, symbol);
+			addMonocolored(MonocoloredHybrid.class, symbol);
 		}
 
 		@Override public void visit(Phyrexian symbol) {
-			sorted.put(Phyrexian.class, symbol);
-		}
-		
-		@Override public void visit(Primary symbol) {
-			sorted.put(Primary.class, symbol);
+			addMonocolored(Phyrexian.class, symbol);
 		}
 
+		@Override public void visit(Primary symbol) {
+			addMonocolored(Primary.class, symbol);
+		}
+
+		private void addMonocolored(Class<? extends Monocolored> type, Monocolored symbol) {
+			Multiset<Monocolored> group = monocolored.get(type);
+			if (group == null) {
+				group = HashMultiset.<Monocolored> create();
+				monocolored.put(type, group);
+			}
+			group.add(symbol);
+		}
+
+		@Override public void visit(Generic symbol) {
+			throw new AssertionError();
+		}
+
+		ManaCost build() {
+			ImmutableMultiset.Builder<Symbol> builder =
+					ImmutableMultiset.builder();
+			builder.addCopies(Symbol.X, variableCount);
+			builder.addCopies(Symbol.GENERIC, generic);
+			if (hybrid != null) {
+				builder.addCopies(hybrid, hybridCount);
+			}
+			for (Multiset<Monocolored> group : monocolored.values()) {
+				if (group.elementSet().size() == 1) {
+					Entry<Monocolored> entry = group.entrySet().iterator().next();
+					builder.addCopies(entry.getElement(), entry.getCount());
+				} else {
+				}
+			}
+			return new ManaCost(builder.build());
+		}
+	}
+
+	private static final Map<Set<Color>, List<Color>> ORDERING = getOrdering();
+
+	private static Map<Set<Color>, List<Color>> getOrdering() {
+		String[] codes = {
+				"WU", "UB", "BR", "RG", " GW",
+				"WB", "UR", "BG", "RW", "GU",
+				"WUB", "UBR", "BRG", "RGW", "GWU",
+				"WBR", "URG", "BGW", "RWU", "GUB",
+				"WUBR", "UBRG", "BRGW", "RGWU", "GWUB",
+				"WUBRG" };
+		Builder<Set<Color>, List<Color>> builder = ImmutableMap.builder();
+		for (String code : codes) {
+			Color[] order = new Color[code.length()];
+			for (int i = 0; i < code.length(); i++) {
+				order[i] = Color.forCode(code.charAt(i));
+			}
+			builder.put(ImmutableSet.copyOf(order), ImmutableList.copyOf(order));
+		}
+		return builder.build();
 	}
 
 	private static class SpecialManaCost extends ManaCost {
@@ -317,7 +372,7 @@ public class ManaCost {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(ManaCost.of(5, Symbol.PHYREXIAN_RED).symbols());
+		System.out.println(ManaCost.parse("{W}{U}{W}"));
 	}
 
 }
