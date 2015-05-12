@@ -3,9 +3,9 @@ package magic;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.EnumMap;
 import java.util.EnumSet;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
@@ -21,7 +21,6 @@ import magic.Symbol.Visitor;
 
 import com.google.common.base.Optional;
 import com.google.common.collect.HashMultiset;
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableMap.Builder;
 import com.google.common.collect.ImmutableMultiset;
@@ -330,29 +329,38 @@ public class ManaCost {
 					Entry<Monocolored> entry = group.entrySet().iterator().next();
 					builder.addCopies(entry.getElement(), entry.getCount());
 				} else {
+					Set<Monocolored> elements = group.elementSet();
+					Map<Color, Integer> map = ORDERING.get(elements);
+					Monocolored[] order = new Monocolored[elements.size()];
+					for (Monocolored symbol : elements) {
+						order[map.get(symbol.color())] = symbol;
+					}
+					for (Monocolored symbol : order) {
+						builder.addCopies(symbol, group.count(symbol));
+					}
 				}
 			}
 			return new ManaCost(builder.build());
 		}
 	}
 
-	private static final Map<Set<Color>, List<Color>> ORDERING = getOrdering();
+	private static final Map<Set<Color>, Map<Color, Integer>> ORDERING = getOrdering();
 
-	private static Map<Set<Color>, List<Color>> getOrdering() {
+	private static Map<Set<Color>, Map<Color, Integer>> getOrdering() {
 		String[] codes = {
-				"WU", "UB", "BR", "RG", " GW",
+				"WU", "UB", "BR", "RG", "GW",
 				"WB", "UR", "BG", "RW", "GU",
 				"WUB", "UBR", "BRG", "RGW", "GWU",
 				"WBR", "URG", "BGW", "RWU", "GUB",
 				"WUBR", "UBRG", "BRGW", "RGWU", "GWUB",
 				"WUBRG" };
-		Builder<Set<Color>, List<Color>> builder = ImmutableMap.builder();
+		Builder<Set<Color>, Map<Color, Integer>> builder = ImmutableMap.builder();
 		for (String code : codes) {
-			Color[] order = new Color[code.length()];
+			EnumMap<Color, Integer> map = new EnumMap<>(Color.class);
 			for (int i = 0; i < code.length(); i++) {
-				order[i] = Color.forCode(code.charAt(i));
+				map.put(Color.forCode(code.charAt(i)), i);
 			}
-			builder.put(ImmutableSet.copyOf(order), ImmutableList.copyOf(order));
+			builder.put(map.keySet(), map);
 		}
 		return builder.build();
 	}
