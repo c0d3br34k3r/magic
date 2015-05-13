@@ -173,7 +173,7 @@ public abstract class Symbol {
 	Symbol(int converted, String innerPart) {
 		this(ImmutableSet.<Color> of(), converted, innerPart);
 	}
-	
+
 	public abstract boolean payableWith(Set<Color> mana);
 
 	@Override public final String toString() {
@@ -187,7 +187,7 @@ public abstract class Symbol {
 	public final ImmutableSet<Color> colors() {
 		return colors;
 	}
-	
+
 	final String innerPart() {
 		return innerPart;
 	}
@@ -337,18 +337,9 @@ public abstract class Symbol {
 		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
 	}
 
-	private static final ImmutableMap<String, Repeatable> PARSE_LOOKUP;
-	private static final ImmutableSet<Repeatable> VALUES;
-
-	static {
-		List<Repeatable> values = ConstantGetter.values(Symbol.class, Repeatable.class);
-		ImmutableMap.Builder<String, Repeatable> builder = ImmutableMap.builder();
-		for (Repeatable symbol : values) {
-			builder.put(symbol.innerPart(), symbol);
-		}
-		PARSE_LOOKUP = builder.build();
-		VALUES = ImmutableSet.copyOf(values);
-	}
+	private static final ImmutableSet<Repeatable> VALUES =
+			ImmutableSet.copyOf(
+					ConstantGetter.values(Symbol.class, Repeatable.class));
 
 	public interface Visitor {
 
@@ -381,35 +372,6 @@ public abstract class Symbol {
 
 	public static String format(Multiset.Entry<Symbol> entry) {
 		return entry.getElement().format(entry.getCount());
-	}
-
-	/**
-	 * Returns the {@code Symbol} with the given representation.
-	 * 
-	 * @throws IllegalArgumentException
-	 *             if the input does not correspond to a symbol.
-	 */
-	public static Repeatable parse(String input) {
-		String inner = stripBrackets(input);
-		Repeatable symbol = parseInner(inner);
-		if (symbol == null) {
-			throw new IllegalArgumentException(input);
-		}
-		return symbol;
-	}
-
-	static String stripBrackets(String input) {
-		int length = input.length();
-		if (length != 0
-				&& input.charAt(0) == '{'
-				&& input.charAt(length - 1) == '}') {
-			return input.substring(1, length - 1);
-		}
-		throw new IllegalArgumentException(input);
-	}
-
-	static Repeatable parseInner(String inner) {
-		return PARSE_LOOKUP.get(inner);
 	}
 
 }
