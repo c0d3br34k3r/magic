@@ -13,7 +13,7 @@ public abstract class SymbolParser {
 
 	protected abstract void generic(int value);
 
-	public final void parseMulti(String input) {
+	public final void parseMultiple(String input) {
 		int begin = 0;
 		while (begin < input.length()) {
 			if (input.charAt(begin) != '{') {

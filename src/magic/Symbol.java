@@ -1,13 +1,16 @@
 package magic;
 
 import java.util.Collection;
-import java.util.List;
+import java.util.EnumMap;
+import java.util.EnumSet;
+import java.util.Map;
 import java.util.Set;
 
 import magic.misc.ConstantGetter;
 
 import com.google.common.base.Strings;
 import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableMap.Builder;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Multiset;
@@ -242,6 +245,10 @@ public abstract class Symbol {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
+
+		public static Primary forColor(Color color) {
+			return PRIMARY_COLOR_LOOKUP.get(color);
+		}
 	}
 
 	public static final class Hybrid extends Repeatable {
@@ -263,6 +270,10 @@ public abstract class Symbol {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
+
+		public static Hybrid forColors(Color color1, Color color2) {
+			return HYBRID_COLOR_LOOKUP.get(EnumSet.of(color1, color2));
+		}
 	}
 
 	public static final class MonocoloredHybrid extends Monocolored {
@@ -278,6 +289,10 @@ public abstract class Symbol {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
+
+		public static MonocoloredHybrid forColor(Color color) {
+			return MONOCOLORED_HYBRID_COLOR_LOOKUP.get(color);
+		}
 	}
 
 	public static final class Phyrexian extends Monocolored {
@@ -292,6 +307,10 @@ public abstract class Symbol {
 
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
+		}
+
+		public static Phyrexian forColor(Color color) {
+			return PHYREXIAN_COLOR_LOOKUP.get(color);
 		}
 	}
 
@@ -329,6 +348,10 @@ public abstract class Symbol {
 		}
 	}
 
+	private static final ImmutableSet<Repeatable> VALUES =
+			ImmutableSet.copyOf(
+					ConstantGetter.values(Symbol.class, Repeatable.class));
+	
 	public static ImmutableSet<Repeatable> values() {
 		return VALUES;
 	}
@@ -337,23 +360,19 @@ public abstract class Symbol {
 		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
 	}
 
-	private static final ImmutableSet<Repeatable> VALUES =
-			ImmutableSet.copyOf(
-					ConstantGetter.values(Symbol.class, Repeatable.class));
-
 	public interface Visitor {
 
-		void visit(Generic generic);
+		void visit(Generic symbol);
 
-		void visit(Primary primary);
+		void visit(Primary symbol);
 
-		void visit(Hybrid hybrid);
+		void visit(Hybrid symbol);
 
-		void visit(MonocoloredHybrid monocoloredHybrid);
+		void visit(MonocoloredHybrid symbol);
 
-		void visit(Phyrexian phyrexian);
+		void visit(Phyrexian symbol);
 
-		void visit(Variable variable);
+		void visit(Variable symbol);
 	}
 
 	/**
@@ -372,6 +391,48 @@ public abstract class Symbol {
 
 	public static String format(Multiset.Entry<Symbol> entry) {
 		return entry.getElement().format(entry.getCount());
+	}
+
+	private static final Map<Color, Primary> PRIMARY_COLOR_LOOKUP =
+			new EnumMap<>(Color.class);
+
+	private static final Map<Color, MonocoloredHybrid> MONOCOLORED_HYBRID_COLOR_LOOKUP =
+			new EnumMap<>(Color.class);
+
+	private static final Map<Color, Phyrexian> PHYREXIAN_COLOR_LOOKUP =
+			new EnumMap<>(Color.class);
+
+	private static final Map<Set<Color>, Hybrid> HYBRID_COLOR_LOOKUP;
+
+	static {
+		final Builder<Set<Color>, Hybrid> builder = ImmutableMap.builder();
+		Visitor visitor = new Visitor() {
+
+			@Override public void visit(Primary symbol) {
+				PRIMARY_COLOR_LOOKUP.put(symbol.color(), symbol);
+			}
+
+			@Override public void visit(Hybrid symbol) {
+				builder.put(symbol.colors(), symbol);
+			}
+
+			@Override public void visit(MonocoloredHybrid symbol) {
+				MONOCOLORED_HYBRID_COLOR_LOOKUP.put(symbol.color(), symbol);
+			}
+
+			@Override public void visit(Phyrexian symbol) {
+				PHYREXIAN_COLOR_LOOKUP.put(symbol.color(), symbol);
+			}
+
+			@Override public void visit(Generic ingore) {}
+			
+			@Override public void visit(Variable ignore) {}
+		};
+		
+		for (Symbol symbol : VALUES) {
+			symbol.accept(visitor);
+		}
+		HYBRID_COLOR_LOOKUP = builder.build();
 	}
 
 }
