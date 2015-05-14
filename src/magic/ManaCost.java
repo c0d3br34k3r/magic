@@ -25,9 +25,7 @@ import com.google.common.collect.HashMultiset;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Iterables;
 import com.google.common.collect.Multiset;
-import com.google.common.collect.Multiset.Entry;
 
 /**
  * An immutable object representing a mana cost. A {@code ManaCost} has two
@@ -130,7 +128,7 @@ public class ManaCost {
 	 * symbol is present.
 	 */
 	public int generic() {
-		return symbols.count(Symbol.GENERIC);
+		return symbols.count(Generic.GENERIC);
 	}
 
 	/**
@@ -208,7 +206,7 @@ public class ManaCost {
 			return ZERO;
 		}
 		HashMultiset<Symbol> symbols = HashMultiset.create();
-		symbols.setCount(Symbol.GENERIC, numeric);
+		symbols.setCount(Generic.GENERIC, numeric);
 		symbols.addAll(unordered);
 		return new ManaCost(sort(symbols));
 	}
@@ -299,8 +297,8 @@ public class ManaCost {
 		ManaCost build() {
 			ImmutableMultiset.Builder<Symbol> builder =
 					ImmutableMultiset.builder();
-			builder.addCopies(Symbol.X, variableCount);
-			builder.addCopies(Symbol.GENERIC, generic);
+			builder.addCopies(Variable.X, variableCount);
+			builder.addCopies(Generic.GENERIC, generic);
 			if (hybrid != null) {
 				builder.addCopies(hybrid, hybridCount);
 			}
@@ -351,7 +349,8 @@ public class ManaCost {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(ManaCost.parse("{B}{W}{U}"));
+		System.out.println(MonocoloredHybrid.BLACK.converted());
+//		System.out.println(ManaCost.parse("{B}{W}{U}"));
 	}
 
 }
