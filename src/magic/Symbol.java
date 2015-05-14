@@ -8,6 +8,7 @@ import java.util.Set;
 
 import magic.misc.ConstantGetter;
 
+import com.google.common.base.Converter;
 import com.google.common.base.Strings;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableMap.Builder;
@@ -245,10 +246,6 @@ public abstract class Symbol {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
-
-		public static Primary forColor(Color color) {
-			return PRIMARY_COLOR_LOOKUP.get(color);
-		}
 	}
 
 	public static final class Hybrid extends Repeatable {
@@ -270,10 +267,6 @@ public abstract class Symbol {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
-
-		public static Hybrid forColors(Color color1, Color color2) {
-			return HYBRID_COLOR_LOOKUP.get(EnumSet.of(color1, color2));
-		}
 	}
 
 	public static final class MonocoloredHybrid extends Monocolored {
@@ -289,10 +282,6 @@ public abstract class Symbol {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
-
-		public static MonocoloredHybrid forColor(Color color) {
-			return MONOCOLORED_HYBRID_COLOR_LOOKUP.get(color);
-		}
 	}
 
 	public static final class Phyrexian extends Monocolored {
@@ -307,10 +296,6 @@ public abstract class Symbol {
 
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
-		}
-
-		public static Phyrexian forColor(Color color) {
-			return PHYREXIAN_COLOR_LOOKUP.get(color);
 		}
 	}
 
@@ -392,47 +377,54 @@ public abstract class Symbol {
 	public static String format(Multiset.Entry<Symbol> entry) {
 		return entry.getElement().format(entry.getCount());
 	}
+	
+//	public static abstract class SymbolGroup<S extends Symbol, C> extends Converter<C, S> {
+//		
+//		public abstract Set<S> values();
+//		
+//	}
+	
+	private static class MonocoloredGroup<M extends Monocolored> extends Converter<Color, M> {
 
-	private static final Map<Color, Primary> PRIMARY_COLOR_LOOKUP =
-			new EnumMap<>(Color.class);
-
-	private static final Map<Color, MonocoloredHybrid> MONOCOLORED_HYBRID_COLOR_LOOKUP =
-			new EnumMap<>(Color.class);
-
-	private static final Map<Color, Phyrexian> PHYREXIAN_COLOR_LOOKUP =
-			new EnumMap<>(Color.class);
-
-	private static final Map<Set<Color>, Hybrid> HYBRID_COLOR_LOOKUP;
-
-	static {
-		final Builder<Set<Color>, Hybrid> builder = ImmutableMap.builder();
-		Visitor visitor = new Visitor() {
-
-			@Override public void visit(Primary symbol) {
-				PRIMARY_COLOR_LOOKUP.put(symbol.color(), symbol);
+		private final Map<Color, M> map;
+		
+		private MonocoloredGroup(Class<M> clazz) {
+			map = new EnumMap<>(Color.class);
+			for (M m : valuesOfType(clazz)) {
+				map.put(m.color(), m);
 			}
+		}
+		
+		@Override protected M doForward(Color a) {
+			return map.get(a);
+		}
 
-			@Override public void visit(Hybrid symbol) {
+		@Override protected Color doBackward(M b) {
+			return b.color();
+		}
+	}
+	
+	private static class HybridGroup extends Converter<Set<Color>, Hybrid> {
+
+		private final Map<Set<Color>, Hybrid> map;
+		
+		private HybridGroup() {
+			Builder<Set<Color>, Hybrid> builder = ImmutableMap.builder();
+			for (Hybrid symbol : valuesOfType(Hybrid.class)) {
 				builder.put(symbol.colors(), symbol);
 			}
-
-			@Override public void visit(MonocoloredHybrid symbol) {
-				MONOCOLORED_HYBRID_COLOR_LOOKUP.put(symbol.color(), symbol);
-			}
-
-			@Override public void visit(Phyrexian symbol) {
-				PHYREXIAN_COLOR_LOOKUP.put(symbol.color(), symbol);
-			}
-
-			@Override public void visit(Generic ingore) {}
-			
-			@Override public void visit(Variable ignore) {}
-		};
-		
-		for (Symbol symbol : VALUES) {
-			symbol.accept(visitor);
+			map = builder.build();
 		}
-		HYBRID_COLOR_LOOKUP = builder.build();
+
+		@Override protected Hybrid doForward(Set<Color> a) {
+			return map.get(a);
+		}
+
+		@Override protected Set<Color> doBackward(Hybrid b) {
+			return b.colors();
+		}
 	}
+	
+	public static final Converter<Color, Primary> PRIMARY = new MonocoloredGroup<>(Primary.class);
 
 }
