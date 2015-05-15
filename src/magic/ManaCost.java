@@ -9,15 +9,15 @@ import java.util.EnumSet;
 import java.util.Map;
 import java.util.Set;
 
-import magic.Symbol.Generic;
-import magic.Symbol.Hybrid;
 import magic.Symbol.Monocolored;
-import magic.Symbol.MonocoloredHybrid;
-import magic.Symbol.Phyrexian;
-import magic.Symbol.Primary;
 import magic.Symbol.Repeatable;
-import magic.Symbol.Variable;
-import magic.Symbol.Visitor;
+import magic.Symbols.Generic;
+import magic.Symbols.Hybrid;
+import magic.Symbols.MonocoloredHybrid;
+import magic.Symbols.Phyrexian;
+import magic.Symbols.Primary;
+import magic.Symbols.Variable;
+import magic.Symbols.Visitor;
 
 import com.google.common.base.Optional;
 import com.google.common.collect.EnumMultiset;
@@ -99,7 +99,7 @@ public class ManaCost {
 	 * unique
 	 */
 	public boolean payableWith(Set<Color> mana) {
-		return Symbol.payableWith(symbols.elementSet(), mana);
+		return Symbols.payableWith(symbols.elementSet(), mana);
 	}
 
 	/**
@@ -175,7 +175,7 @@ public class ManaCost {
 	@Override public String toString() {
 		StringBuilder builder = new StringBuilder();
 		for (Multiset.Entry<Symbol> entry : symbols.entrySet()) {
-			builder.append(Symbol.format(entry));
+			builder.append(Symbols.format(entry));
 		}
 		return builder.toString();
 	}
@@ -349,8 +349,9 @@ public class ManaCost {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(MonocoloredHybrid.BLACK.converted());
-//		System.out.println(ManaCost.parse("{B}{W}{U}"));
+		System.out.println(Symbols.values());
+		System.out.println(ManaCost.parse("{B}{W}{U}"));
+		System.out.println(Arrays.toString(Symbols.class.getDeclaredClasses()));
 	}
 
 }

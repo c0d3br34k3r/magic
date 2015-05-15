@@ -1,9 +1,6 @@
 package magic;
 
-import java.util.List;
-
 import magic.Symbol.Repeatable;
-import magic.misc.ConstantGetter;
 
 import com.google.common.collect.ImmutableMap;
 
@@ -66,9 +63,8 @@ public abstract class SymbolParser {
 	private static final ImmutableMap<String, Repeatable> PARSE_LOOKUP;
 
 	static {
-		List<Repeatable> values = ConstantGetter.values(Symbol.class, Repeatable.class);
 		ImmutableMap.Builder<String, Repeatable> builder = ImmutableMap.builder();
-		for (Repeatable symbol : values) {
+		for (Repeatable symbol : Symbols.values()) {
 			builder.put(symbol.innerPart(), symbol);
 		}
 		PARSE_LOOKUP = builder.build();

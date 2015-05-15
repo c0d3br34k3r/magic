@@ -14,8 +14,8 @@ import magic.Link.Layout;
 import magic.Printing;
 import magic.Rarity;
 import magic.Subtype;
-import magic.Symbol.Hybrid;
-import magic.Symbol.Primary;
+import magic.Symbols.Hybrid;
+import magic.Symbols.Primary;
 import magic.Type;
 
 import com.google.common.base.Predicate;
