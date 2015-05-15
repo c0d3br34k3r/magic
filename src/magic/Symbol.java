@@ -11,12 +11,12 @@ public abstract class Symbol{
 
 	private final ImmutableSet<Color> colors;
 	private final int converted;
-	private final String innerPart;
+	private final String represenatation;
 
 	Symbol(ImmutableSet<Color> colors, int converted, String innerPart) {
 		this.colors = colors;
 		this.converted = converted;
-		this.innerPart = innerPart;
+		this.represenatation = '{' + innerPart + '}';
 	}
 
 	Symbol(Color color, int converted, String innerPart) {
@@ -30,7 +30,7 @@ public abstract class Symbol{
 	public abstract boolean payableWith(Set<Color> mana);
 
 	@Override public final String toString() {
-		return '{' + innerPart + '}';
+		return represenatation;
 	}
 
 	public final int converted() {
@@ -42,7 +42,7 @@ public abstract class Symbol{
 	}
 
 	final String innerPart() {
-		return innerPart;
+		return represenatation.substring(1, represenatation.length() - 1);
 	}
 
 	public abstract void accept(Visitor visitor);
