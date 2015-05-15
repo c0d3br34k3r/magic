@@ -1,16 +1,21 @@
 package magic;
 
 import java.util.Collection;
+import java.util.EnumMap;
+import java.util.Iterator;
+import java.util.Map;
 import java.util.Set;
 
 import magic.Symbol.Monocolored;
 import magic.Symbol.Repeatable;
 import magic.misc.ConstantGetter;
 
+import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSet.Builder;
-import com.google.common.collect.Iterables;
+import com.google.common.collect.Maps;
 import com.google.common.collect.Multiset;
+import com.google.common.collect.UnmodifiableIterator;
 
 /**
  * All mana symbols other than numeric symbols; in other words, all symbols that
@@ -65,6 +70,13 @@ public abstract class Symbols {
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
 		}
+
+		private static final Map<Color, Primary> COLOR_MAP =
+				getColorMap(Primary.class);
+
+		public static Primary forColor(Color color) {
+			return COLOR_MAP.get(color);
+		}
 	}
 
 	public static final class Hybrid extends Repeatable {
@@ -118,7 +130,7 @@ public abstract class Symbols {
 		 * The hybrid Green-Blue mana symbol: <code>{G/U}</code>.
 		 */
 		public static final Hybrid GREEN_BLUE = new Hybrid(Color.GREEN, Color.BLUE);
-		
+
 		private final Color first;
 		private final Color second;
 
@@ -135,6 +147,35 @@ public abstract class Symbols {
 
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
+		}
+		
+		private static final Map<Color, Map<Color, Hybrid>> COLOR_MAP;
+		
+		public static Hybrid forColors(Color color1, Color color2) {
+			return COLOR_MAP.get(color1).get(color2);
+		}
+		
+		public static Hybrid forColors(Set<Color> colors) {
+			if (colors.size() != 2) {
+				throw new IllegalArgumentException("colors.size() != 2");
+			}
+			Iterator<Color> iterator = colors.iterator();
+			return forColors(iterator.next(), iterator.next());
+		}
+		
+		static {
+			Map<Color, Map<Color, Hybrid>> colorMap = new EnumMap<>(Color.class);
+			for (Color color : Color.values()) {
+				colorMap.put(color, new EnumMap<Color, Hybrid>(Color.class));
+			}
+			for (Hybrid symbol : ConstantGetter.values(Hybrid.class)) {
+				Iterator<Color> iterator = symbol.colors().iterator();
+				Color color1 = iterator.next();
+				Color color2 = iterator.next();
+				colorMap.get(color1).put(color2, symbol);
+				colorMap.get(color2).put(color1, symbol);
+			}
+			COLOR_MAP = colorMap;
 		}
 	}
 
@@ -165,7 +206,6 @@ public abstract class Symbols {
 		 */
 		public static final MonocoloredHybrid GREEN = new MonocoloredHybrid(Color.GREEN);
 
-		
 		private MonocoloredHybrid(Color color) {
 			super(color, 2, "2/" + color.code());
 		}
@@ -176,6 +216,13 @@ public abstract class Symbols {
 
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
+		}
+
+		private static final Map<Color, MonocoloredHybrid> COLOR_MAP =
+				getColorMap(MonocoloredHybrid.class);
+
+		public static Monocolored forColor(Color color) {
+			return COLOR_MAP.get(color);
 		}
 	}
 
@@ -205,7 +252,7 @@ public abstract class Symbols {
 		 * The Phyrexian Green mana symbol: <code>{G/P}</code>.
 		 */
 		public static final Phyrexian GREEN = new Phyrexian(Color.GREEN);
-		
+
 		private Phyrexian(Color color) {
 			super(color, 1, color.code() + "/P");
 		}
@@ -216,6 +263,13 @@ public abstract class Symbols {
 
 		@Override public void accept(Visitor visitor) {
 			visitor.visit(this);
+		}
+
+		private static final Map<Color, Phyrexian> COLOR_MAP =
+				getColorMap(Phyrexian.class);
+
+		public static Phyrexian forColor(Color color) {
+			return COLOR_MAP.get(color);
 		}
 	}
 
@@ -242,7 +296,7 @@ public abstract class Symbols {
 	public static final class Generic extends Symbol {
 
 		public static final Generic GENERIC = new Generic();
-		
+
 		private Generic() {
 			super(1, "generic");
 		}
@@ -261,13 +315,13 @@ public abstract class Symbols {
 	}
 
 	private static final ImmutableSet<Repeatable> VALUES;
-	
+
 	static {
 		Builder<Repeatable> builder = ImmutableSet.builder();
 		for (Class<?> clazz : Symbols.class.getDeclaredClasses()) {
 			if (Repeatable.class.isAssignableFrom(clazz)) {
 				@SuppressWarnings("unchecked")
-				Class<? extends Repeatable> repeatableSubclass = 
+				Class<? extends Repeatable> repeatableSubclass =
 						(Class<? extends Repeatable>) clazz;
 				builder.addAll(ConstantGetter.values(repeatableSubclass));
 			}
@@ -277,10 +331,6 @@ public abstract class Symbols {
 
 	public static ImmutableSet<Repeatable> values() {
 		return VALUES;
-	}
-
-	public static <T extends Symbol> Set<T> valuesOfType(Class<T> type) {
-		return ImmutableSet.copyOf(Iterables.filter(VALUES, type));
 	}
 
 	public interface Visitor {
@@ -314,6 +364,14 @@ public abstract class Symbols {
 
 	public static String format(Multiset.Entry<Symbol> entry) {
 		return entry.getElement().format(entry.getCount());
+	}
+
+	private static <M extends Monocolored> Map<Color, M> getColorMap(Class<M> clazz) {
+		EnumMap<Color, M> colorMap = new EnumMap<>(Color.class);
+		for (M m : ConstantGetter.values(clazz)) {
+			colorMap.put(m.color(), m);
+		}
+		return colorMap;
 	}
 
 }

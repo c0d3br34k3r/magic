@@ -3,13 +3,11 @@ package magic;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
-import java.util.EnumMap;
 import java.util.EnumSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import magic.Symbol.Monocolored;
 import magic.Symbol.Repeatable;
 import magic.Symbols.Generic;
 import magic.Symbols.Hybrid;
@@ -210,6 +208,10 @@ public class ManaCost {
 		symbols.addAll(unordered);
 		return new ManaCost(sort(symbols));
 	}
+	
+	public static ManaCost of(Multiset<Symbol> symbols) {
+		return new ManaCost(sort(symbols));
+	}
 
 	/**
 	 * Returns a new {@code ManaCost} as specified by the input {@link String}.
@@ -247,9 +249,7 @@ public class ManaCost {
 		private int hybridCount = 0;
 		private Hybrid hybrid = null;
 
-		private Multiset<Color> primary = EnumMultiset.create(Color.class);
-		private Multiset<Color> monocoloredHybrid = EnumMultiset.create(Color.class);
-		private Multiset<Color> phyrexian = EnumMultiset.create(Color.class);
+		private Multiset<Color> monocolored = EnumMultiset.create(Color.class);
 		
 		@Override protected void repeatable(Repeatable symbol) {
 			symbol.accept(this);
@@ -279,15 +279,15 @@ public class ManaCost {
 		}
 
 		@Override public void visit(MonocoloredHybrid symbol) {
-			monocoloredHybrid.add(symbol.color());
+			monocolored.add(symbol.color());
 		}
 
 		@Override public void visit(Phyrexian symbol) {
-			phyrexian.add(symbol.color());
+			monocolored.add(symbol.color());
 		}
 
 		@Override public void visit(Primary symbol) {
-			primary.add(symbol.color());
+			monocolored.add(symbol.color());
 		}
 
 		@Override public void visit(Generic symbol) {
@@ -307,7 +307,7 @@ public class ManaCost {
 		}
 	}
 
-	private static final Map<Set<Color>, Comparator<Monocolored>> ORDERING;
+	private static final Map<Set<Color>, List<Color>> ORDERING;
 
 	static {
 		String[] codes = {
@@ -317,20 +317,15 @@ public class ManaCost {
 				"WBR", "URG", "BGW", "RWU", "GUB",
 				"WUBR", "UBRG", "BRGW", "RGWU", "GWUB",
 				"WUBRG" };
-		ImmutableMap.Builder<Set<Color>, Comparator<Monocolored>> builder = ImmutableMap.builder();
+		ImmutableMap.Builder<Set<Color>, List<Color>> builder = ImmutableMap.builder();
 		for (String code : codes) {
-			final EnumMap<Color, Integer> map = new EnumMap<>(Color.class);
+			ImmutableSet.Builder<Color> inOrderBuilder = ImmutableSet.builder();
 			for (int i = 0; i < code.length(); i++) {
-				map.put(Color.forCode(code.charAt(i)), i);
+				inOrderBuilder.add(Color.forCode(code.charAt(i)));
 			}
-			builder.put(map.keySet(), new Comparator<Monocolored>() {
-
-				@Override public int compare(Monocolored o1, Monocolored o2) {
-					return Integer.compare(map.get(o1.color()), map.get(o2.color()));
-				}
-			});
+			ImmutableSet<Color> inOrder = inOrderBuilder.build();
+			builder.put(inOrder, inOrder.asList()); 
 		}
-		
 		ORDERING = builder.build();
 	}
 
@@ -349,9 +344,7 @@ public class ManaCost {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(Symbols.values());
-		System.out.println(ManaCost.parse("{B}{W}{U}"));
-		System.out.println(Arrays.toString(Symbols.class.getDeclaredClasses()));
+		System.out.println(ManaCost.of(2, Primary.BLUE, Primary.BLUE));
 	}
 
 }
