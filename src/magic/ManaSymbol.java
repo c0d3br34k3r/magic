@@ -3,6 +3,7 @@ package magic;
 import java.util.Collection;
 import java.util.Set;
 
+import magic.SymbolLogic.Generic;
 import magic.SymbolLogic.Hybrid;
 import magic.SymbolLogic.MonocoloredHybrid;
 import magic.SymbolLogic.Phyrexian;
@@ -22,28 +23,23 @@ import com.google.common.collect.ImmutableSet;
  * 
  * @see ManaCost
  */
-public enum Symbol {
+public enum ManaSymbol {
 
 	/**
-	 * The primary White mana symbol <code>{W}</code>
+	 * The variable mana symbol <code>{X}</code>
 	 */
-	WHITE(new Primary(Color.WHITE)),
+	X(new Variable('X')),
+	
 	/**
-	 * The primary Blue mana symbol <code>{U}</code>
+	 * This mana symbol does not really exist, but it is used to represent any 
+	 * colorless generic mana symbol.  For example, three appearances of this 
+	 * symbol in a {@link ManaCost} represents the symbol <code>{3}</code>.
+	 * <p>
+	 * The String representation of this object is <code>{1}</code>, but this is
+	 * primarily for debugging purposes, as this object has no real-world 
+	 * meaning.
 	 */
-	BLUE(new Primary(Color.BLUE)),
-	/**
-	 * The primary Black mana symbol <code>{B}</code>
-	 */
-	BLACK(new Primary(Color.BLACK)),
-	/**
-	 * The primary Red mana symbol <code>{R}</code>
-	 */
-	RED(new Primary(Color.RED)),
-	/**
-	 * The primary Green mana symbol {G}</code>
-	 */
-	GREEN(new Primary(Color.GREEN)),
+	GENERIC(new Generic()),
 
 	/**
 	 * The hybrid White-Blue mana symbol <code>{W/U}</code>
@@ -86,6 +82,27 @@ public enum Symbol {
 	 * The hybrid Green-Blue mana symbol <code>{G/U}</code>
 	 */
 	HYBRID_GREEN_BLUE(new Hybrid(Color.GREEN, Color.BLUE)),
+	
+	/**
+	 * The primary White mana symbol <code>{W}</code>
+	 */
+	WHITE(new Primary(Color.WHITE)),
+	/**
+	 * The primary Blue mana symbol <code>{U}</code>
+	 */
+	BLUE(new Primary(Color.BLUE)),
+	/**
+	 * The primary Black mana symbol <code>{B}</code>
+	 */
+	BLACK(new Primary(Color.BLACK)),
+	/**
+	 * The primary Red mana symbol <code>{R}</code>
+	 */
+	RED(new Primary(Color.RED)),
+	/**
+	 * The primary Green mana symbol {G}</code>
+	 */
+	GREEN(new Primary(Color.GREEN)),
 
 	/**
 	 * The monocolored hybrid White mana symbol <code>{2/W}</code>
@@ -127,24 +144,20 @@ public enum Symbol {
 	/**
 	 * The Phyrexian Green mana symbol <code>{G/P}</code>
 	 */
-	PHYREXIAN_GREEN(new Phyrexian(Color.GREEN)),
-
-	/**
-	 * The variable Colorless mana symbol <code>{X}</code>
-	 */
-	X(new Variable('X'));
+	PHYREXIAN_GREEN(new Phyrexian(Color.GREEN));
 
 	public enum Group {
 		VARIABLE,
+		GENERIC,
 		HYBRID,
+		PRIMARY,
 		MONOCOLORED_HYBRID,
-		PHYREXIAN,
-		PRIMARY;
+		PHYREXIAN;
 	}
 
 	private final SymbolLogic internal;
 
-	private Symbol(SymbolLogic internal) {
+	private ManaSymbol(SymbolLogic internal) {
 		this.internal = internal;
 	}
 
@@ -193,12 +206,22 @@ public enum Symbol {
 	@Override public String toString() {
 		return internal.toString();
 	}
+	
+	public String format(int occurences) {
+		return internal.format(occurences);
+	}
+	
+	public void formatTo(StringBuilder builder, int occurences) {
+		internal.formatTo(builder, occurences);
+	}
+
 
 	/**
 	 * Returns the {@code Symbol} with the given representation, or {@code null}
-	 * if no mana symbol matches.
+	 * if no mana symbol matches.  Does not return the Generic mana symbol for 
+	 * any input.
 	 */
-	public static Symbol parse(String input) {
+	public static ManaSymbol parse(String input) {
 		return SYMBOLS.get(input);
 	}
 
@@ -206,9 +229,9 @@ public enum Symbol {
 	 * Returns {@code false} if any of the symbols are not payable with the
 	 * given colors of mana.
 	 */
-	public static boolean payableWith(Collection<Symbol> symbols,
+	public static boolean payableWith(Collection<ManaSymbol> symbols,
 			Set<Color> mana) {
-		for (Symbol symbol : symbols) {
+		for (ManaSymbol symbol : symbols) {
 			if (!symbol.payableWith(mana)) {
 				return false;
 			}
@@ -216,12 +239,14 @@ public enum Symbol {
 		return true;
 	}
 
-	private static ImmutableMap<String, Symbol> SYMBOLS;
+	private static ImmutableMap<String, ManaSymbol> SYMBOLS;
 
 	static {
-		ImmutableMap.Builder<String, Symbol> builder = ImmutableMap.builder();
-		for (Symbol symbol : values()) {
-			builder.put(symbol.toString(), symbol);
+		ImmutableMap.Builder<String, ManaSymbol> builder = ImmutableMap.builder();
+		for (ManaSymbol symbol : values()) {
+			if (symbol != ManaSymbol.GENERIC) {
+				builder.put(symbol.toString(), symbol);
+			}
 		}
 		SYMBOLS = builder.build();
 	}

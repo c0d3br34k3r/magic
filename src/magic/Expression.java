@@ -1,5 +1,7 @@
 package magic;
 
+import javax.annotation.Nullable;
+
 /**
  * An immutable object that may represent a constant or variable value, used to
  * represent power and toughness. Expressions such as {@code 6} or {@code -1}
@@ -78,7 +80,7 @@ public abstract class Expression implements Comparable<Expression> {
 	 * represents.
 	 */
 	@Override public abstract int hashCode();
-	
+
 	private static class ConstantExpression extends Expression {
 
 		private final int value;
@@ -156,7 +158,34 @@ public abstract class Expression implements Comparable<Expression> {
 					? 1
 					: toString().compareTo(o.toString());
 		}
+	}
 
+	public static boolean gt(@Nullable Expression expression, int value) {
+		return nonnullAndConstant(expression) && expression.value() > value;
+	}
+
+	public static boolean lt(@Nullable Expression expression, int value) {
+		return nonnullAndConstant(expression) && expression.value() < value;
+	}
+
+	public static boolean eq(@Nullable Expression expression, int value) {
+		return nonnullAndConstant(expression) && expression.value() == value;
+	}
+
+	private static boolean nonnullAndConstant(@Nullable Expression expression) {
+		return expression != null && expression.isConstant();
+	}
+
+	public static boolean inRange(@Nullable Expression expression, int min, int max) {
+		if (!nonnullAndConstant(expression)) {
+			return false;
+		}
+		int value = expression.value();
+		return min >= value && value >= max;
+	}
+
+	public static boolean variable(@Nullable Expression expression) {
+		return expression != null && !expression.isConstant();
 	}
 
 }

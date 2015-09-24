@@ -16,7 +16,6 @@ public abstract class OptionalComparator {
 
 	private static class AbsentFirst<T extends Comparable<T>>
 	implements Comparator<Optional<T>> {
-
 		@Override public int compare(Optional<T> o1, Optional<T> o2) {
 			return compareEither(o1, o2, 1);
 		}
@@ -24,7 +23,6 @@ public abstract class OptionalComparator {
 
 	private static class AbsentLast<T extends Comparable<T>>
 	implements Comparator<Optional<T>> {
-
 		@Override public int compare(Optional<T> o1, Optional<T> o2) {
 			return compareEither(o1, o2, -1);
 		}

@@ -1,6 +1,5 @@
 package magic.misc;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -8,14 +7,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import magic.Card;
-import magic.Expansion;
-import magic.Printing;
 
 import com.google.common.collect.ImmutableListMultimap;
 import com.google.common.collect.ImmutableSet;
@@ -26,16 +20,20 @@ import com.google.common.collect.Multiset;
 import com.google.common.collect.Multiset.Entry;
 import com.google.common.collect.TreeMultiset;
 
+import magic.Card;
+import magic.Expansion;
+import magic.Printing;
+
 public abstract class Database {
 
 	public abstract Collection<? extends Card> cards();
-	
+
 	public abstract Collection<? extends Expansion> expansions();
-	
-	public abstract Card getCard(String name);
-	
-	public abstract Expansion getExpansion(String name);
-	
+
+	public abstract Card card(String name);
+
+	public abstract Expansion expansion(String nameOrCode);
+
 	public ImmutableSortedSet<Expansion> getBlock(String blockName) {
 		Builder<Expansion> builder = ImmutableSortedSet.naturalOrder();
 		for (Expansion expansion : expansions()) {
@@ -47,7 +45,7 @@ public abstract class Database {
 	}
 
 	public ListMultimap<Card, Printing> printingsIn(String expansionName) {
-		return printingsIn(getExpansion(expansionName));
+		return printingsIn(expansion(expansionName));
 	}
 
 	public ListMultimap<Card, Printing> printingsIn(Expansion expansion) {
@@ -57,23 +55,29 @@ public abstract class Database {
 		}
 		return builder.build();
 	}
-	
-	public Set<Expansion> getExpansions(String... codes) {
-		ImmutableSet.Builder<Expansion> builder = ImmutableSet.builder();
-		for (String code : codes) {
-			builder.add(getExpansion(code));
+
+	public ListMultimap<Card, Printing> printingsIn(Collection<Expansion> expansions) {
+		ImmutableListMultimap.Builder<Card, Printing> builder = ImmutableListMultimap.builder();
+		for (Card card : cards()) {
+			for (Expansion expansion : expansions) {
+				builder.putAll(card, card.printings().get(expansion));
+			}
 		}
 		return builder.build();
 	}
-	
-	public Set<Card> cardsIn(String... expansionCodes) {
-		List<Expansion> expansions = new ArrayList<>();
-		for (String code : expansionCodes) {
-			expansions.add(getExpansion(code));
+
+	public Set<Expansion> getExpansions(String... codes) {
+		ImmutableSet.Builder<Expansion> builder = ImmutableSet.builder();
+		for (String code : codes) {
+			builder.add(expansion(code));
 		}
-		return cardsIn(expansions);
+		return builder.build();
 	}
-	
+
+	public Set<Card> cardsIn(String... expansionCodes) {
+		return cardsIn(getExpansions(expansionCodes));
+	}
+
 	public Set<Card> cardsIn(Collection<Expansion> expansions) {
 		ImmutableSortedSet.Builder<Card> builder = ImmutableSortedSet.naturalOrder();
 		for (Expansion expansion : expansions) {
@@ -86,20 +90,14 @@ public abstract class Database {
 	public Collection<Card> readCards(Path path) throws IOException {
 		Collection<Card> cards = new ArrayList<>();
 		Collection<String> notFound = new ArrayList<>();
-		try (BufferedReader in = Files.newBufferedReader(path, StandardCharsets.UTF_8)) {
-			for (;;) {
-				String line = in.readLine();
-				if (line == null) {
-					break;
+		for (String line : Files.readAllLines(path, StandardCharsets.UTF_8)) {
+			line = line.trim();
+			if (!(line.isEmpty() || line.startsWith("#"))) {
+				Card card = card(line);
+				if (card == null) {
+					notFound.add(line);
 				}
-				line = line.trim();
-				if (!(line.isEmpty() || line.startsWith("#"))) {
-					Card card = getCard(line);
-					if (card == null) {
-						notFound.add(line);
-					}
-					cards.add(card);
-				}
+				cards.add(card);
 			}
 		}
 		if (notFound.isEmpty()) {
@@ -107,39 +105,33 @@ public abstract class Database {
 		}
 		throw new IllegalArgumentException("Cards not found: " + notFound);
 	}
-	
-	private static final Pattern DECK_LINE = Pattern.compile("(\\d{0,3})\\s+(.+)");
-	
+
+	private static final Pattern DECK_LINE = Pattern.compile("(\\d+)\\s+(.+)");
+
 	public Multiset<Card> readDeck(Path path) throws IOException {
 		return readDeck(path, TreeMultiset.<Card> create());
 	}
-	
+
 	public Multiset<Card> readDeck(Path path, Multiset<Card> deck) throws IOException {
 		Collection<String> notFound = new ArrayList<>();
-		try (BufferedReader in = Files.newBufferedReader(path, StandardCharsets.UTF_8)) {
-			for (;;) {
-				String line = in.readLine();
-				if (line == null) {
-					break;
+		for (String line : Files.readAllLines(path, StandardCharsets.UTF_8)) {
+			line = line.trim();
+			if (!(line.isEmpty() || line.startsWith("#"))) {
+				Matcher matcher = DECK_LINE.matcher(line);
+				String cardName;
+				int count;
+				if (matcher.matches()) {
+					count = Integer.parseInt(matcher.group(1));
+					cardName = matcher.group(2);
+				} else {
+					count = 1;
+					cardName = line;
 				}
-				line = line.trim();
-				if (!(line.isEmpty() || line.startsWith("#"))) {
-					Matcher matcher = DECK_LINE.matcher(line);
-					String cardName;
-					int count;
-					if (matcher.matches()) {
-						count = Integer.parseInt(matcher.group(1));
-						cardName = matcher.group(2);
-					} else {
-						count = 1;
-						cardName = line;
-					}
-					Card card = getCard(cardName);
-					if (card != null) {
-						deck.setCount(card, count);
-					} else {
-						notFound.add(cardName);
-					}
+				Card card = card(cardName);
+				if (card != null) {
+					deck.setCount(card, count);
+				} else {
+					notFound.add(cardName);
 				}
 			}
 		}
@@ -157,13 +149,13 @@ public abstract class Database {
 			}
 		}
 	}
-	
+
 	public static void writeDeck(Path path, Multiset<? extends Card> cards) throws IOException {
 		try (BufferedWriter out = Files.newBufferedWriter(path, StandardCharsets.UTF_8)) {
 			for (Entry<? extends Card> entry : cards.entrySet()) {
 				out.write(Integer.toString(entry.getCount()));
 				out.write(' ');
-				out.write(entry.getElement().toString());
+				out.write(entry.getElement().name());
 				out.newLine();
 			}
 		}

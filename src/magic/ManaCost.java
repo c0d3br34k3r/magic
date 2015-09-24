@@ -1,30 +1,15 @@
 package magic;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.Collections;
-import java.util.EnumMap;
 import java.util.EnumSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Objects;
-import java.util.Map.Entry;
 import java.util.Set;
 
-import magic.Symbol.Group;
-
 import com.google.common.base.Optional;
-import com.google.common.base.Supplier;
 import com.google.common.collect.ImmutableMultiset;
-import com.google.common.collect.ImmutableMultiset.Builder;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Iterables;
-import com.google.common.collect.ListMultimap;
-import com.google.common.collect.MapMaker;
-import com.google.common.collect.Multimaps;
+import com.google.common.collect.ImmutableSortedMultiset;
 import com.google.common.collect.Multiset;
-import com.google.common.collect.TreeMultiset;
 
 /**
  * An immutable object representing a mana cost. A {@code ManaCost} has two
@@ -55,15 +40,15 @@ import com.google.common.collect.TreeMultiset;
  * <code>{0}</code> and nothing at all, but I think it is a less useful
  * representation.
  * <p>
- * {@code ManaCost}s impose a special iteration order on the {@link Symbol}s
+ * {@code ManaCost}s impose a special iteration order on the {@link ManaSymbol}s
  * thanks to the guaranteed iteration order of {@link ImmutableMultiset}.
- * {@link Symbol}s are always in the exact order that they appear on the actual
- * Magic card. (WOTC has detailed their system for the order of symbols on
- * multicolored cards.) With the release of Khans of Tarkir, however, this is no
- * longer true. "Wedge" multicolored cards with a clan watermark use a new order
- * for the symbols, leading with that clan's dominant color.
+ * {@link ManaSymbol}s are always in the exact order that they appear on the
+ * actual Magic card. (WOTC has detailed their system for the order of symbols
+ * on multicolored cards.) With the release of Khans of Tarkir, however, this is
+ * no longer true. "Wedge" multicolored cards with a clan watermark use a new
+ * order for the symbols, leading with that clan's dominant color.
  * 
- * @see Symbol
+ * @see ManaSymbol
  */
 public abstract class ManaCost {
 
@@ -96,7 +81,7 @@ public abstract class ManaCost {
 	 * colorless mana. If the array of symbols is empty, the empty mana cost is
 	 * returned.
 	 */
-	public static ManaCost of(Symbol... symbols) {
+	public static ManaCost of(ManaSymbol... symbols) {
 		return of(Arrays.asList(symbols));
 	}
 
@@ -105,7 +90,7 @@ public abstract class ManaCost {
 	 * colorless mana. If the {@link Collection} of symbols is empty, the empty
 	 * mana cost is returned.
 	 */
-	public static ManaCost of(Collection<Symbol> symbols) {
+	public static ManaCost of(Collection<ManaSymbol> symbols) {
 		if (symbols.size() == 0) {
 			return EMPTY;
 		}
@@ -117,7 +102,7 @@ public abstract class ManaCost {
 	 * and other mana symbols. If the array of symbols is empty and the amount
 	 * of colorless is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int colorless, Symbol... symbols) {
+	public static ManaCost of(int colorless, ManaSymbol... symbols) {
 		return of(colorless, Arrays.asList(symbols));
 	}
 
@@ -126,20 +111,18 @@ public abstract class ManaCost {
 	 * and other mana symbols. If the {@link Collection} of symbols is empty and
 	 * the amount of colorless is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int colorless, Collection<Symbol> symbols) {
+	public static ManaCost of(int colorless, Collection<ManaSymbol> symbols) {
 		if (colorless == 0 && symbols.isEmpty()) {
 			return ZERO;
 		}
-		return new StandardManaCost(
-				colorless,
-				orderSymbols(TreeMultiset.create(symbols)));
+		return new StandardManaCost(colorless, symbols);
 	}
 
 	/**
 	 * Returns a new {@code ManaCost} as specified by the input {@link String}.
 	 * The input can contain any number of mana symbols in the format specified
-	 * by {@link Symbol#toString()}, with no separators. Symbols do not have to
-	 * be in the order in which they would appear on a card.
+	 * by {@link ManaSymbol#toString()}, with no separators. Symbols do not have
+	 * to be in the order in which they would appear on a card.
 	 * 
 	 * @throws IllegalArgumentException
 	 *             if input contains <code>{0}</code> in combination with other
@@ -154,50 +137,55 @@ public abstract class ManaCost {
 				return ZERO;
 			default:
 		}
-		Multiset<Symbol> symbols = TreeMultiset.create();
-		int colorless = 0;
+		ImmutableSortedMultiset.Builder<ManaSymbol> builder = ImmutableSortedMultiset.naturalOrder();
+		boolean colorlessSymbolEncountered = false;
 		int begin = 0;
 		do {
 			if (input.charAt(begin) != '{') {
-				throw new IllegalArgumentException(String.format(
-						"expected '{' at position %d in \"%s\"", begin, input));
+				throw parseException(
+						"expected '{' at position %d in \"%s\"", begin, input);
 			}
 			int end = input.indexOf('}', begin + 1);
 			if (end == -1) {
-				throw new IllegalArgumentException(String.format(
-						"no closing '}' in \"%s\"", input));
+				throw parseException(
+						"no closing '}' in \"%s\"", input);
 			}
 			String part = input.substring(begin, end + 1);
-			Symbol symbol = Symbol.parse(part);
+			ManaSymbol symbol = ManaSymbol.parse(part);
 			if (symbol != null) {
-				symbols.add(symbol);
+				builder.add(symbol);
 			} else {
 				int parsed;
 				try {
 					parsed = Integer.parseInt(input.substring(begin + 1, end));
 				} catch (NumberFormatException e) {
-					throw new IllegalArgumentException(String.format(
-							"invalid symbol \"%s\" in \"%s\"", part, input));
+					throw parseException(
+							"invalid symbol \"%s\" in \"%s\"", part, input);
 				}
-				if (colorless != 0) {
-					throw new IllegalArgumentException(String.format(
-							"multiple colorless symbols in \"%s\"", input));
+				if (colorlessSymbolEncountered) {
+					throw parseException(
+							"multiple colorless symbols in \"%s\"", input);
 				}
 				if (parsed == 0) {
-					throw new IllegalArgumentException(String.format(
-							"{0} used with other symbols in \"%s\"", input));
+					throw parseException(
+							"{0} used with other symbols in \"%s\"", input);
 				}
-				colorless = parsed;
+				colorlessSymbolEncountered = true;
+				builder.addCopies(ManaSymbol.GENERIC, parsed);
 			}
 			begin = end + 1;
 		} while (begin < input.length());
-		return new StandardManaCost(colorless, orderSymbols(symbols));
+		return new StandardManaCost(builder.build());
+	}
+	
+	private static IllegalArgumentException parseException(String format, Object... args) {
+		throw new IllegalArgumentException(String.format(format, args));
 	}
 
 	private ManaCost() {}
 
 	/**
-	 * The combined colors of all {@link Symbol}s in this {@code ManaCost}.
+	 * The combined colors of all {@link ManaSymbol}s in this {@code ManaCost}.
 	 */
 	public abstract ImmutableSet<Color> colors();
 
@@ -205,21 +193,21 @@ public abstract class ManaCost {
 	 * The value of the colorless symbol in this mana cost, or 0 if no colorless
 	 * symbol is present.
 	 */
-	public abstract int colorless();
+	public abstract int generic();
 
 	/**
 	 * A {@link Multiset} containing all symbols other than constant colorless
 	 * mana symbols in the order they would appear on a Magic card.
 	 */
-	public abstract ImmutableMultiset<Symbol> symbols();
+	public abstract ImmutableMultiset<ManaSymbol> symbols();
 
 	/**
 	 * The converted mana cost of this {@code ManaCost}.
 	 */
 	public abstract int converted();
 
-	public boolean containsAnyOf(Symbol.Group group) {
-		for (Symbol symbol : symbols().elementSet()) {
+	public boolean containsAnyOf(ManaSymbol.Group group) {
+		for (ManaSymbol symbol : symbols().elementSet()) {
 			if (symbol.group() == group) {
 				return true;
 			}
@@ -229,11 +217,11 @@ public abstract class ManaCost {
 
 	/**
 	 * Returns whether this mana cost is payable with a certain set of colors of
-	 * mana. Equivalent to calling {@link Symbol#payableWith(Set)} on each
+	 * mana. Equivalent to calling {@link ManaSymbol#payableWith(Set)} on each
 	 * unique
 	 */
 	public boolean payableWith(Set<Color> mana) {
-		return Symbol.payableWith(symbols().elementSet(), mana);
+		return ManaSymbol.payableWith(symbols().elementSet(), mana);
 	}
 
 	/**
@@ -242,7 +230,7 @@ public abstract class ManaCost {
 	 */
 	public int countColor(Color color) {
 		int count = 0;
-		for (Multiset.Entry<Symbol> entry : symbols().entrySet()) {
+		for (Multiset.Entry<ManaSymbol> entry : symbols().entrySet()) {
 			if (entry.getElement().colors().contains(color)) {
 				count += entry.getCount();
 			}
@@ -268,31 +256,36 @@ public abstract class ManaCost {
 	/**
 	 * Returns the {@link String} representation of this mana cost: a series of
 	 * mana symbols, including constant colorless mana symbols (specified by
-	 * {@link Symbol#toString()}) in the order that they would appear on an
+	 * {@link ManaSymbol#toString()}) in the order that they would appear on an
 	 * actual card.
 	 */
 	@Override public abstract String toString();
 
 	private static class StandardManaCost extends ManaCost {
 
-		private final int colorless;
-		private final ImmutableMultiset<Symbol> symbols;
+		private final ImmutableMultiset<ManaSymbol> symbols;
 
 		// Cached values
 		private final int converted;
 		private final ImmutableSet<Color> colors;
 
 		private StandardManaCost(int colorless,
-				ImmutableMultiset<Symbol> symbols) {
-			if (colorless < 0) {
-				throw new IllegalArgumentException(
-						"colorless cannot be negative: " + colorless);
-			}
-			this.colorless = colorless;
+				Collection<ManaSymbol> symbols) {
+			this(condense(colorless, symbols));
+		}
+
+		private static ImmutableMultiset<ManaSymbol> condense(int colorless, Collection<ManaSymbol> symbols) {
+			return ImmutableSortedMultiset.<ManaSymbol> naturalOrder()
+					.addCopies(ManaSymbol.GENERIC, colorless)
+					.addAll(symbols)
+					.build();
+		}
+
+		private StandardManaCost(ImmutableMultiset<ManaSymbol> symbols) {
 			this.symbols = symbols;
-			int converted = colorless;
+			int converted = 0;
 			EnumSet<Color> colors = EnumSet.noneOf(Color.class);
-			for (Multiset.Entry<Symbol> entry : this.symbols.entrySet()) {
+			for (Multiset.Entry<ManaSymbol> entry : this.symbols.entrySet()) {
 				converted += entry.getElement().converted() * entry.getCount();
 				colors.addAll(entry.getElement().colors());
 			}
@@ -304,11 +297,11 @@ public abstract class ManaCost {
 			return colors;
 		}
 
-		@Override public int colorless() {
-			return colorless;
+		@Override public int generic() {
+			return symbols.count(ManaSymbol.GENERIC);
 		}
 
-		@Override public ImmutableMultiset<Symbol> symbols() {
+		@Override public ImmutableMultiset<ManaSymbol> symbols() {
 			return symbols;
 		}
 
@@ -317,7 +310,7 @@ public abstract class ManaCost {
 		}
 
 		@Override public int hashCode() {
-			return Objects.hash(colorless, symbols);
+			return symbols.hashCode();
 		}
 
 		@Override public boolean equals(Object obj) {
@@ -328,24 +321,15 @@ public abstract class ManaCost {
 				return false;
 			}
 			StandardManaCost other = (StandardManaCost) obj;
-			return colorless == other.colorless
-					&& symbols.equals(other.symbols);
+			return symbols.equals(other.symbols);
 		}
 
 		@Override public String toString() {
 			StringBuilder builder = new StringBuilder();
-			if (colorless != 0) {
-				builder.append('{').append(colorless).append('}');
+			for (Multiset.Entry<ManaSymbol> entry : symbols.entrySet()) {
+				entry.getElement().formatTo(builder, entry.getCount());
 			}
-			StringBuilder variables = new StringBuilder();
-			for (Symbol symbol : symbols) {
-				if (symbol.group() == Symbol.Group.VARIABLE) {
-					variables.append(symbol);
-				} else {
-					builder.append(symbol);
-				}
-			}
-			return variables.toString() + builder.toString();
+			return builder.toString();
 		}
 	}
 
@@ -361,11 +345,11 @@ public abstract class ManaCost {
 			return ImmutableSet.of();
 		}
 
-		@Override public int colorless() {
+		@Override public int generic() {
 			return 0;
 		}
 
-		@Override public ImmutableMultiset<Symbol> symbols() {
+		@Override public ImmutableMultiset<ManaSymbol> symbols() {
 			return ImmutableMultiset.of();
 		}
 
@@ -376,125 +360,6 @@ public abstract class ManaCost {
 		@Override public String toString() {
 			return representation;
 		}
-	}
-
-	public static Map<Multiset<Symbol>, ImmutableMultiset<Symbol>> precalculated =
-			new MapMaker().makeMap();
-
-	/*
-	 * All the methods from here on out are weird and black-boxy, and I'm not
-	 * entirely happy with them. They work well, but they can probably be
-	 * improved.
-	 */
-
-	private static ImmutableMultiset<Symbol> orderSymbols(
-			Multiset<Symbol> symbols) {
-		ImmutableMultiset<Symbol> result = precalculated.get(symbols);
-		if (result == null) {
-			int distinct = symbols.elementSet().size();
-			if (distinct < 2) {
-				return ImmutableMultiset.copyOf(symbols);
-			}
-			Builder<Symbol> builder = ImmutableMultiset.builder();
-			ListMultimap<Group, Symbol> groups = Multimaps.newListMultimap(
-					new EnumMap<Symbol.Group, Collection<Symbol>>(Symbol.Group.class),
-					new Supplier<List<Symbol>>() {
-						@Override public List<Symbol> get() {
-							return new ArrayList<>();
-						}
-					});
-			for (Symbol symbol : symbols.elementSet()) {
-				groups.put(symbol.group(), symbol);
-			}
-			for (Entry<Group, List<Symbol>> entry : Multimaps.asMap(groups).entrySet()) {
-				List<Symbol> inGroup = entry.getValue();
-				order(inGroup);
-				for (Symbol symbol : inGroup) {
-					builder.addCopies(symbol, symbols.count(symbol));
-				}
-			}
-			result = builder.build();
-			precalculated.put(result, result);
-		}
-		return result;
-	}
-
-	/*
-	 * argument must be a sorted list
-	 */
-	private static void order(List<Symbol> symbols) {
-		int size = symbols.size();
-		switch (size) {
-			case 1:
-			case 5:
-				break;
-			case 2:
-
-				/*
-				 * If the two symbols have more than one symbol between them,
-				 * swap the order.
-				 */
-				if (distance(symbols.get(0), symbols.get(1)) > 2) {
-					Collections.swap(symbols, 0, 1);
-				}
-				break;
-			case 3:
-
-				/*
-				 * If the two symbols on the right are next to each other, and
-				 * the symbol on the left is separated by at most one space, no
-				 * rotation is needed. This includes: WUB.., W.BR., .UBR.,
-				 * .U.RG, and ..BRG, where '.' represents an absent symbol.
-				 * 
-				 * For the remaining five possibilities, check if it contains
-				 * the "blue" symbol. If it does, rotate forward by 1;
-				 * otherwise, backward by 1. WU..G, WU.R., and .UB.G are rotated
-				 * forward and become GWU, RWU, and GUB, respectively, while
-				 * W.B.G and W..RG are rotated backward and become BGW and RGW
-				 * respectively. It just happens to work out that way.
-				 */
-				if (!(distance(
-						symbols.get(1),
-						symbols.get(2)) == 1
-				&& distance(
-						symbols.get(0),
-						symbols.get(1)) <= 2)) {
-					Collections.rotate(symbols, containsBlue(symbols) ? 1 : -1);
-				}
-				break;
-			case 4:
-
-				/*
-				 * Find the one symbol missing, and rotate backward by that
-				 * symbol's distance from the first.
-				 */
-				EnumSet<Color> range = EnumSet.allOf(Color.class);
-				for (Symbol symbol : symbols) {
-					range.remove(getColor(symbol));
-				}
-				Collections.rotate(symbols,
-						-Iterables.getOnlyElement(range).ordinal());
-				break;
-			default:
-				throw new AssertionError();
-		}
-	}
-
-	private static boolean containsBlue(Collection<Symbol> symbols) {
-		for (Symbol symbol : symbols) {
-			if (getColor(symbol) == Color.BLUE) {
-				return true;
-			}
-		}
-		return false;
-	}
-
-	private static Color getColor(Symbol symbol) {
-		return symbol.colors().asList().get(0);
-	}
-
-	private static int distance(Symbol start, Symbol end) {
-		return Math.abs(getColor(start).ordinal() - getColor(end).ordinal());
 	}
 
 }

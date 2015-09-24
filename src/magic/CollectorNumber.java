@@ -4,7 +4,9 @@ import java.util.Objects;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.google.common.base.Preconditions;
+import javax.annotation.Nullable;
+
+import com.google.common.base.CharMatcher;
 import com.google.common.collect.ComparisonChain;
 
 /**
@@ -16,33 +18,15 @@ import com.google.common.collect.ComparisonChain;
 public final class CollectorNumber implements Comparable<CollectorNumber> {
 
 	private final int number;
-	private final Letter letter;
-	private final boolean starter;
-
-	public enum Letter {
-		NONE(""),
-		A("a"),
-		B("b");
-
-		private final String value;
-
-		private Letter(String value) {
-			this.value = value;
-		}
-
-		@Override public String toString() {
-			return value;
-		}
-
-		private static Letter valueOf(char c) {
-			return Letter.valueOf(
-					Character.toString(Character.toUpperCase(c)));
-		}
-	}
+	private final @Nullable Character prefix;
+	private final @Nullable Character letter;
 
 	private static final Pattern PATTERN =
-			Pattern.compile("(S?)(\\d+)([a-z]?)");
-	
+			Pattern.compile("([S\\*]?)(\\d+)([a-z]?)");
+
+	private static final CharMatcher PREFIX = CharMatcher.anyOf("S*");
+	private static final CharMatcher LETTER = CharMatcher.inRange('a', 'z');
+
 	/**
 	 * Parses the given input as a collector number. The input must be in the
 	 * form of an integer greater than or equal to 1 followed immediately by a
@@ -75,15 +59,14 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 		if (!matcher.matches()) {
 			throw new IllegalArgumentException(input);
 		}
-		String starter = matcher.group(1);
-		String number = matcher.group(2);
-		String letter = matcher.group(3);
 		return new CollectorNumber(
-				!starter.isEmpty(),
-				Integer.parseInt(number),
-				letter.isEmpty()
-						? Letter.NONE
-						: Letter.valueOf(letter.charAt(0)));
+				toCharacter(matcher.group(1)),
+				Integer.parseInt(matcher.group(2)),
+				toCharacter(matcher.group(3)));
+	}
+
+	private static @Nullable Character toCharacter(String s) {
+		return s.isEmpty() ? null : s.charAt(0);
 	}
 
 	/**
@@ -94,9 +77,26 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	 * @param letter
 	 *            the letter
 	 */
-	public static CollectorNumber of(int number, Letter letter) {
-		Preconditions.checkNotNull(letter);
-		return new CollectorNumber(false, number, letter);
+	public static CollectorNumber of(int number, char letter) {
+		if (!LETTER.matches(letter)) {
+			throw new IllegalArgumentException(String.valueOf(letter));
+		}
+		return new CollectorNumber(null, number, letter);
+	}
+
+	/**
+	 * Returns a new {@code CollectorNumber} with a letter.
+	 * 
+	 * @param number
+	 *            the number
+	 * @param prefix
+	 *            the prefix
+	 */
+	public static CollectorNumber of(char prefix, int number) {
+		if (!PREFIX.matches(prefix)) {
+			throw new IllegalArgumentException(String.valueOf(prefix));
+		}
+		return new CollectorNumber(prefix, number, null);
 	}
 
 	/**
@@ -109,25 +109,15 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 		return new CollectorNumber(number);
 	}
 
-	/**
-	 * Returns a new "Starter" {@code CollectorNumber} without a letter.
-	 * 
-	 * @param number
-	 *            the number
-	 */
-	public static CollectorNumber starter(int number) {
-		return new CollectorNumber(true, number, Letter.NONE);
-	}
-
 	private CollectorNumber(int number) {
-		this(false, number, Letter.NONE);
+		this(null, number, null);
 	}
 
-	private CollectorNumber(boolean starter, int number, Letter letter) {
+	private CollectorNumber(Character prefix, int number, Character letter) {
 		if (number < 1) {
-			throw new IllegalArgumentException("number < 1");
+			throw new IllegalArgumentException(String.valueOf(number));
 		}
-		this.starter = starter;
+		this.prefix = prefix;
 		this.number = number;
 		this.letter = letter;
 	}
@@ -143,7 +133,11 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	 * Returns the letter part of the {@code CollectorNumber}, or {@code null}
 	 * if there is no letter.
 	 */
-	public Letter letter() {
+	public @Nullable Character prefix() {
+		return prefix;
+	}
+
+	public @Nullable Character letter() {
 		return letter;
 	}
 
@@ -152,7 +146,7 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	 * with "S").
 	 */
 	public boolean starter() {
-		return starter;
+		return prefix.equals('S');
 	}
 
 	/**
@@ -160,15 +154,7 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	 * Magic card.
 	 */
 	@Override public String toString() {
-		StringBuilder builder = new StringBuilder();
-		if (starter) {
-			builder.append('S');
-		}
-		builder.append(number);
-		if (letter != Letter.NONE) {
-			builder.append(letter);
-		}
-		return builder.toString();
+		return new StringBuilder().append(prefix).append(number).append(letter).toString();
 	}
 
 	/**
@@ -177,14 +163,14 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	 */
 	@Override public int compareTo(CollectorNumber o) {
 		return ComparisonChain.start()
-				.compareFalseFirst(starter, o.starter)
 				.compare(number, o.number)
+				.compare(prefix, o.prefix)
 				.compare(letter, o.letter)
 				.result();
 	}
 
 	@Override public int hashCode() {
-		return Objects.hash(starter, number, letter);
+		return Objects.hash(prefix, number, letter);
 	}
 
 	@Override public boolean equals(Object obj) {
@@ -195,8 +181,8 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 			return false;
 		}
 		CollectorNumber other = (CollectorNumber) obj;
-		return starter == other.starter
+		return prefix.equals(other.prefix)
 				&& number == other.number
-				&& letter == other.letter;
+				&& letter.equals(other.letter);
 	}
 }

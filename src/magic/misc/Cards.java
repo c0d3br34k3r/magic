@@ -14,7 +14,7 @@ import magic.Link.Layout;
 import magic.Printing;
 import magic.Rarity;
 import magic.Subtype;
-import magic.Symbol.Group;
+import magic.ManaSymbol.Group;
 import magic.Type;
 
 import com.google.common.base.Predicate;
@@ -180,6 +180,26 @@ public final class Cards {
 			}
 		}
 		return false;
+	}
+
+	public static Rarity minRarity(Card card) {
+		return minOrMaxRarity(card, -1);
+	}
+	
+	public static Rarity maxRarity(Card card) {
+		return minOrMaxRarity(card, 1);
+	}
+	
+	private static Rarity minOrMaxRarity(Card card, final int sign) {
+		Iterator<? extends Printing> it = card.printings().values().iterator();
+		Rarity result = it.next().rarity();
+		while (it.hasNext()) {
+			Rarity next = it.next().rarity();
+			if (Integer.signum(next.compareTo(result)) == sign) {
+				result = next;
+			}
+		}
+		return result;
 	}
 
 }
