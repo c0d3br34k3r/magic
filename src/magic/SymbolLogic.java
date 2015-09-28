@@ -39,11 +39,11 @@ abstract class SymbolLogic {
 						.convert(getClass().getSimpleName()));
 	}
 
-	public int converted() {
+	int converted() {
 		return converted;
 	}
 
-	public ImmutableSet<Color> colors() {
+	ImmutableSet<Color> colors() {
 		return colors;
 	}
 
@@ -51,7 +51,7 @@ abstract class SymbolLogic {
 		return representation;
 	}
 
-	public abstract boolean payableWith(Set<Color> mana);
+	abstract boolean payableWith(Set<Color> mana);
 
 	String format(int occurences) {
 		return Strings.repeat(this.toString(), occurences);
@@ -65,11 +65,11 @@ abstract class SymbolLogic {
 
 	static class Generic extends SymbolLogic {
 
-		public Generic() {
+		Generic() {
 			super(1, "{1}");
 		}
 
-		@Override public boolean payableWith(Set<Color> mana) {
+		@Override boolean payableWith(Set<Color> mana) {
 			return true;
 		}
 
@@ -107,7 +107,7 @@ abstract class SymbolLogic {
 			super(color, 1, String.format("{%c}", color.code()));
 		}
 
-		@Override public boolean payableWith(Set<Color> mana) {
+		@Override boolean payableWith(Set<Color> mana) {
 			return mana.contains(color());
 		}
 	}
@@ -118,7 +118,7 @@ abstract class SymbolLogic {
 			super(first, second, 1, String.format("{%c/%c}", first.code(), second.code()));
 		}
 
-		@Override public boolean payableWith(Set<Color> mana) {
+		@Override boolean payableWith(Set<Color> mana) {
 			return !Collections.disjoint(mana, colors());
 		}
 	}
@@ -133,7 +133,7 @@ abstract class SymbolLogic {
 			super(only, converted, represntation);
 		}
 
-		@Override public boolean payableWith(Set<Color> mana) {
+		@Override boolean payableWith(Set<Color> mana) {
 			return true;
 		}
 	}
@@ -158,7 +158,7 @@ abstract class SymbolLogic {
 			super(0, String.format("{%c}", symbol));
 		}
 
-		@Override public boolean payableWith(Set<Color> mana) {
+		@Override boolean payableWith(Set<Color> mana) {
 			return true;
 		}
 	}

@@ -1,5 +1,7 @@
 package magic.misc;
 
+import com.google.common.base.Splitter;
+
 public class CaseInsensitive {
 	
 	public static boolean contains(String source, String target) {
@@ -25,9 +27,8 @@ public class CaseInsensitive {
 	}
 	
 	public static boolean containsTokens(String source, String terms) {
-		String[] tokens = terms.split(" ");
-		for (String token : tokens) {
-			if (!token.isEmpty() && !contains(source, token)) {
+		for (String token : Splitter.on(' ').omitEmptyStrings().split(terms)) {
+			if (!contains(source, token)) {
 				return false;
 			}
 		}

@@ -38,18 +38,30 @@ public interface Link {
 		 * Used for split cards. The split card halves are called "left" and
 		 * "right".
 		 */
-		SPLIT("Split", "left", "right"),
+		SPLIT("Split", "left", "right") {
+			@Override public String formatNames(String firstName, String secondName) {
+				return firstName + " & " + secondName;
+			}
+		},
 		
 		/**
-		 * Used for flip cards. The flip card halves are called "Top" and "bottom".
+		 * Used for flip cards. The flip card halves are called "top" and "bottom".
 		 */
-		FLIP("Flip", "top", "bottom"),
+		FLIP("Flip", "top", "bottom") {
+			@Override public String formatNames(String firstName, String secondName) {
+				return firstName;
+			}
+		},
 		
 		/**
 		 * Used for double-faced cards. The double-faced card halves are called
 		 * "front" and "back".
 		 */
-		DOUBLE_FACED("Double-faced", "front", "back");
+		DOUBLE_FACED("Double-faced", "front", "back") {
+			@Override public String formatNames(String firstName, String secondName) {
+				return firstName;
+			}
+		};
 
 		private final String name;
 		private final String firstHalfName;
@@ -84,6 +96,8 @@ public interface Link {
 		public String secondHalfName() {
 			return secondHalfName;
 		}
+
+		public abstract String formatNames(String firstName, String secondName);
 	}
 
 }

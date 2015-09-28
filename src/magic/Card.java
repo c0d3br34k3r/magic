@@ -1,136 +1,209 @@
 package magic;
 
 import java.io.IOException;
-import java.util.List;
 import java.util.Set;
 
 import javax.annotation.Nullable;
 
-import com.google.common.collect.ListMultimap;
+import com.google.common.base.Joiner;
+import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Sets;
 
-/**
- * An object containing all attributes of a card. {@code Card} objects contain
- * all printing-independent attributes, such as name and mana cost, and also
- * contain a {@code Map} of all printing information. Implementations of
- * {@code Card} should be immutable.
- * <p>
- * Because each instance of {@code Card} should be unique, it may be useful to
- * have {@code equals} and {@code hashCode} default to their identity-based
- * implementations in {@link Object}.
- */
-public interface Card extends Comparable<Card> {
+public class Card implements Comparable<Card> {
 
-	/**
-	 * This card's name. For example: {@code "Totally Lost"}.
-	 */
-	String name();
+	private final String name;
+	private final ManaCost manaCost;
+	private final ImmutableSet<Color> colorIndicator;
+	private final ImmutableSet<Supertype> supertypes;
+	private final ImmutableSet<Type> types;
+	private final ImmutableSet<String> subtypes;
+	private final String text;
+	@Nullable private final Expression power;
+	@Nullable private final Expression toughness;
+	@Nullable private final Integer loyalty;
+	private final ImmutableSet<Color> colors;
 
-	/**
-	 * This card's mana cost.
-	 */
-	ManaCost manaCost();
+	private Card(Builder builder) {
+		this.name = builder.name;
+		this.manaCost = builder.manaCost;
+		this.colorIndicator = builder.colorIndicator;
+		this.supertypes = builder.supertypes;
+		this.types = builder.types;
+		this.subtypes = builder.subtypes;
+		this.text = builder.text;
+		this.power = builder.power;
+		this.toughness = builder.toughness;
+		this.loyalty = builder.loyalty;
 
-	/**
-	 * A {@code Set} representing this card's color indicator. If this card has
-	 * no color indicator, an empty {@code Set} is returned. Color indicators on
-	 * Magic cards are never colorless.
-	 */
-	Set<Color> colorIndicator();
+		if (builder.isColorless) {
+			colors = ImmutableSet.of();
+		} else if (!colorIndicator.isEmpty()) {
+			colors = colorIndicator;
+		} else {
+			colors = manaCost.colors();
+		}
+	}
 
-	/**
-	 * This card's supertypes. For example:
-	 * {@code [Supertype.LEGENDARY, Supertype.SNOW]}.
-	 */
-	Set<Supertype> supertypes();
+	public String name() {
+		return name;
+	}
 
-	/**
-	 * This card's card types. For example:
-	 * {@code [Type.ARTIFACT, Type.CREATURE]}.
-	 */
-	Set<Type> types();
+	public ManaCost manaCost() {
+		return manaCost;
+	}
 
-	/**
-	 * This card's subtypes. For example: {@code ["Goblin", "Warrior"]}.
-	 */
-	Set<String> subtypes();
+	public Set<Color> colorIndicator() {
+		return colorIndicator;
+	}
 
-	/**
-	 * This card's text in ASCII characters as specified by its Oracle text. If
-	 * this card has no text, an empty {@code String} is returned.
-	 */
-	String text();
+	public Set<Supertype> supertypes() {
+		return supertypes;
+	}
 
-	/**
-	 * Returns this card's power if it's a Creature, or {@code null} otherwise.
-	 * <p>
-	 * {@code power() == null ^ toughness == null} is guaranteed to be false,
-	 * that is, either power and toughness are both null, or both are nonnull.
-	 */
-	@Nullable Expression power();
+	public Set<Type> types() {
+		return types;
+	}
 
-	/**
-	 * Returns this card's toughness if it's a Creature, or {@code null}
-	 * otherwise.
-	 * <p>
-	 * {@code power() == null ^ toughness == null} is guaranteed to be false,
-	 * that is, either power and toughness are both null, or both are nonnull.
-	 */
-	@Nullable Expression toughness();
+	public Set<String> subtypes() {
+		return subtypes;
+	}
 
-	/**
-	 * Returns this card's starting loyalty, or {@code null} if this card does
-	 * not have starting loyalty. If {@code types().contains(Type.PLANESWALKER)}
-	 * is false, this value is guaranteed to be {@code null}.
-	 */
-	@Nullable Integer loyalty();
+	public String text() {
+		return text;
+	}
 
-	/**
-	 * Two-part cards have additional properties, such as whether they are
-	 * split, flip, or double faced, what their other part is, and if they are
-	 * the first part. This information is contained within the {@link Link},
-	 * which is null on cards that don't represent half of a two-part card.
-	 */
-	@Nullable Link link();
+	public Expression power() {
+		return power;
+	}
 
-	/**
-	 * A set of this card's colors. For example:
-	 * {@code [Color.WHITE, Color.RED]}. If this card has a color indicator,
-	 * then the colors of the color indicator are returned. Otherwise, the color
-	 * of this card's mana cost is returned.
-	 */
-	Set<Color> colors();
+	public Expression toughness() {
+		return toughness;
+	}
 
-	/**
-	 * This card's color identity. Color identity is inferred from this card's
-	 * mana cost, color indicator, the symbols in this card's text, and the
-	 * linked card's color identity, if applicable.
-	 */
-	Set<Color> colorIdentity();
-	
-	/**
-	 * Returns a {@code Map} whose key set is the set of all {@code Expansion}s
-	 * in which this card has been printed, mapped to printing-specific
-	 * information.
-	 * <p>
-	 * This method returns a {@link ListMultimap} because cards can have
-	 * multiple appearances within the same set. Most often this happens with
-	 * Basic Lands, but some older cards, such as the Urza lands, also have
-	 * multiple printings within the same expansion. The {@link List} of
-	 * printings is in order of collector number, if the set uses collector
-	 * numbers; otherwise it is in the arbitrary order specified by WOTC.
-	 */
-	ListMultimap<Expansion, ? extends Printing> printings();
+	public Integer loyalty() {
+		return loyalty;
+	}
 
-	/**
-	 * Prints the card in a nice format the specified {@code Appendable}.
-	 * 
-	 */
-	void writeTo(Appendable out) throws IOException;
+	public Set<Color> colors() {
+		return colors;
+	}
 
-	/**
-	 * Calls {@link #writeTo(Appendable)} using {@code System.out}. Mostly for
-	 * testing.
-	 */
-	void print();
+	@Override
+	public int compareTo(Card other) {
+		return String.CASE_INSENSITIVE_ORDER.compare(name, other.name);
+	}
+
+	private static final Joiner SPACE_JOINER = Joiner.on(' ');
+
+	public void writeTo(Appendable out) throws IOException {
+		out.append(name());
+		if (!manaCost().isEmpty()) {
+			out.append(' ').append(manaCost().toString());
+		}
+		// if (link() != null) {
+		// out.append(" [").append(link().toString()).append(']');
+		// }
+		out.append('\n');
+		if (!colorIndicator().isEmpty()) {
+			out.append('(');
+			for (Color color : colorIndicator()) {
+				out.append(color.code());
+			}
+			out.append(") ");
+		}
+		if (!supertypes().isEmpty()) {
+			SPACE_JOINER.appendTo(out, supertypes()).append(' ');
+		}
+		SPACE_JOINER.appendTo(out, types());
+		if (!subtypes().isEmpty()) {
+			out.append(" - ");
+			SPACE_JOINER.appendTo(out, subtypes());
+		}
+		out.append('\n');
+		if (!text().isEmpty()) {
+			out.append(text()).append('\n');
+		}
+		if (power() != null) {
+			out.append(power().toString()).append('/')
+					.append(toughness().toString()).append('\n');
+		} else if (loyalty() != null) {
+			out.append(Integer.toString(loyalty())).append('\n');
+		}
+	}
+
+	@Override public String toString() {
+		return name;
+	}
+
+	public void print() {
+		try {
+			writeTo(System.out);
+		} catch (IOException impossible) {
+			throw new AssertionError(impossible);
+		}
+	}
+
+	public static class Builder {
+
+		private String name;
+		private ManaCost manaCost = ManaCost.EMPTY;
+		private ImmutableSet<Color> colorIndicator = ImmutableSet.of();
+		private ImmutableSet<Supertype> supertypes = ImmutableSet.of();
+		private ImmutableSet<Type> types;
+		private ImmutableSet<String> subtypes = ImmutableSet.of();
+		private String text = "";
+		@Nullable private Expression power = null;
+		@Nullable private Expression toughness = null;
+		@Nullable private Integer loyalty = null;
+		private boolean isColorless = false;
+
+		public void setName(String name) {
+			this.name = name;
+		}
+
+		public void setManaCost(ManaCost manaCost) {
+			this.manaCost = manaCost;
+		}
+
+		public void setColorIndicator(Set<Color> colorIndicator) {
+			this.colorIndicator = Sets.immutableEnumSet(colorIndicator);
+		}
+
+		public void setSupertypes(Set<Supertype> supertypes) {
+			this.supertypes = Sets.immutableEnumSet(supertypes);
+		}
+
+		public void setTypes(Set<Type> types) {
+			this.types = Sets.immutableEnumSet(types);
+		}
+
+		public void setSubtypes(Set<String> subtypes) {
+			this.subtypes = ImmutableSet.copyOf(subtypes);
+		}
+
+		public void setText(String text) {
+			this.text = text;
+		}
+
+		public void setPower(Expression power) {
+			this.power = power;
+		}
+
+		public void setToughness(Expression toughness) {
+			this.toughness = toughness;
+		}
+
+		public void setLoyalty(Integer loyalty) {
+			this.loyalty = loyalty;
+		}
+
+		public void setColorless() {
+			this.isColorless = true;
+		}
+
+		Card build() {
+			return new Card(this);
+		}
+	}
 
 }

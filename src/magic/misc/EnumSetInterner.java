@@ -15,7 +15,7 @@ import com.google.common.collect.Sets;
  */
 public class EnumSetInterner<E extends Enum<E>> implements SetInterner<E> {
 
-	private final Map<Set<E>, ImmutableSet<E>> data = new MapMaker().makeMap();
+	private Map<Set<E>, ImmutableSet<E>> data = new MapMaker().makeMap();
 
 	public EnumSetInterner() {}
 

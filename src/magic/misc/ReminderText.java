@@ -1,6 +1,6 @@
 package magic.misc;
 
-import java.util.Collection;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -42,7 +42,7 @@ public final class ReminderText {
 		};
 	}
 
-	private static final Collection<Function<String, String>> REPLACERS =
+	private static final List<Function<String, String>> REPLACERS =
 			ImmutableList.of(
 					// Last keyword reminder text
 					new Function<String, String>() {

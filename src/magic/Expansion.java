@@ -1,8 +1,8 @@
 package magic;
 
-import javax.annotation.Nullable;
-
 import org.joda.time.LocalDate;
+
+import com.google.common.collect.ListMultimap;
 
 /**
  * An object containing the attributes of expansion. It does not, however,
@@ -19,6 +19,8 @@ public interface Expansion extends Comparable<Expansion> {
 	 * The full name of the set. For example: {@code "Rise of the Eldrazi"}.
 	 */
 	String name();
+	
+	ListMultimap<WholeCard, Printing> cards();
 
 	/**
 	 * The three-letter code for the set. For example: {@code "ROE"}.
@@ -34,12 +36,6 @@ public interface Expansion extends Comparable<Expansion> {
 	 * The classification of this expansion's release.
 	 */
 	Release type();
-
-	/**
-	 * If this expansion is part of a block, returns the block's name, otherwise
-	 * returns {@code null}.
-	 */
-	@Nullable String blockName();
 
 	/**
 	 * The color of the border on cards printed in this expansion.

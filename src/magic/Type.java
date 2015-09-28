@@ -17,34 +17,42 @@ public enum Type {
 	 * The Tribal card type.
 	 */
 	TRIBAL("Tribal"),
+	
 	/**
 	 * The Instant card type.
 	 */
 	INSTANT("Instant"),
+	
 	/**
 	 * The Sorcery card type.
 	 */
 	SORCERY("Sorcery"),
+	
 	/**
 	 * The Enchantment card type.
 	 */
 	ENCHANTMENT("Enchantment"),
+	
 	/**
 	 * The Artifact card type.
 	 */
 	ARTIFACT("Artifact"),
+	
 	/**
 	 * The Land card type.
 	 */
 	LAND("Land"),
+	
 	/**
 	 * The Creature card type.
 	 */
 	CREATURE("Creature"),
+	
 	/**
 	 * The Planeswalker card type.
 	 */
 	PLANESWALKER("Planeswalker"),
+	
 	/**
 	 * The Conspiracy card type.
 	 */

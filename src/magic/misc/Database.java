@@ -11,18 +11,15 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.google.common.collect.ImmutableListMultimap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSortedSet;
-import com.google.common.collect.ImmutableSortedSet.Builder;
-import com.google.common.collect.ListMultimap;
+import com.google.common.collect.Iterables;
 import com.google.common.collect.Multiset;
 import com.google.common.collect.Multiset.Entry;
 import com.google.common.collect.TreeMultiset;
 
 import magic.Card;
 import magic.Expansion;
-import magic.Printing;
 
 public abstract class Database {
 
@@ -34,37 +31,7 @@ public abstract class Database {
 
 	public abstract Expansion expansion(String nameOrCode);
 
-	public ImmutableSortedSet<Expansion> getBlock(String blockName) {
-		Builder<Expansion> builder = ImmutableSortedSet.naturalOrder();
-		for (Expansion expansion : expansions()) {
-			if (blockName.equals(expansion.blockName())) {
-				builder.add(expansion);
-			}
-		}
-		return builder.build();
-	}
-
-	public ListMultimap<Card, Printing> printingsIn(String expansionName) {
-		return printingsIn(expansion(expansionName));
-	}
-
-	public ListMultimap<Card, Printing> printingsIn(Expansion expansion) {
-		ImmutableListMultimap.Builder<Card, Printing> builder = ImmutableListMultimap.builder();
-		for (Card card : cards()) {
-			builder.putAll(card, card.printings().get(expansion));
-		}
-		return builder.build();
-	}
-
-	public ListMultimap<Card, Printing> printingsIn(Collection<Expansion> expansions) {
-		ImmutableListMultimap.Builder<Card, Printing> builder = ImmutableListMultimap.builder();
-		for (Card card : cards()) {
-			for (Expansion expansion : expansions) {
-				builder.putAll(card, card.printings().get(expansion));
-			}
-		}
-		return builder.build();
-	}
+	public abstract Expansion block(String name);
 
 	public Set<Expansion> getExpansions(String... codes) {
 		ImmutableSet.Builder<Expansion> builder = ImmutableSet.builder();
@@ -81,7 +48,7 @@ public abstract class Database {
 	public Set<Card> cardsIn(Collection<Expansion> expansions) {
 		ImmutableSortedSet.Builder<Card> builder = ImmutableSortedSet.naturalOrder();
 		for (Expansion expansion : expansions) {
-			builder.addAll(printingsIn(expansion).keySet());
+			builder.addAll(Iterables.concat(expansion.cards().keySet()));
 		}
 		ImmutableSet<Card> result = builder.build();
 		return result;

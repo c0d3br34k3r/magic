@@ -7,22 +7,20 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-import magic.Card;
-import magic.Expansion;
-import magic.Link;
-import magic.Link.Layout;
-import magic.Printing;
-import magic.Rarity;
-import magic.Subtype;
-import magic.ManaSymbol.Group;
-import magic.Type;
-
 import com.google.common.base.Predicate;
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 import com.google.common.collect.Ordering;
 import com.google.common.collect.Sets;
+
+import magic.Card;
+import magic.Expansion;
+import magic.Link.Layout;
+import magic.ManaSymbol.Group;
+import magic.Printing;
+import magic.Subtype;
+import magic.Type;
 
 /**
  * Utility class for cards. Disclaimer: I have not put much thought into this
@@ -31,21 +29,6 @@ import com.google.common.collect.Sets;
 public final class Cards {
 
 	private Cards() {}
-
-	public static boolean isRepresentative(Card card) {
-		return card.link() == null || card.link().isFirstHalf();
-	}
-
-	public static Printing linkedPrinting(Printing printing) {
-		Link link = printing.card().link();
-		if (link == null) {
-			throw new IllegalArgumentException("not a linking card");
-		}
-		return link.get()
-				.printings()
-				.get(printing.expansion())
-				.get(printing.variationIndex());
-	}
 
 	private static final Set<Type> PERMANENT_TYPES = Sets.immutableEnumSet(
 			Type.ENCHANTMENT,
@@ -67,10 +50,6 @@ public final class Cards {
 	public static Multimap<Expansion, ? extends Printing> physicalPrintings(
 			Multimap<Expansion, ? extends Printing> printings) {
 		return Multimaps.filterKeys(printings, PHYSICAL);
-	}
-
-	public static Multimap<Expansion, ? extends Printing> physicalPrintings(Card card) {
-		return physicalPrintings(card.printings());
 	}
 
 	public static Predicate<Card> textContainsNotReminder(final String text) {
@@ -173,33 +152,33 @@ public final class Cards {
 		}
 	}
 
-	public static boolean isRarity(Card card, Rarity rarity) {
-		for (Printing printing : card.printings().values()) {
-			if (printing.rarity() == rarity) {
-				return true;
-			}
-		}
-		return false;
-	}
-
-	public static Rarity minRarity(Card card) {
-		return minOrMaxRarity(card, -1);
-	}
-	
-	public static Rarity maxRarity(Card card) {
-		return minOrMaxRarity(card, 1);
-	}
-	
-	private static Rarity minOrMaxRarity(Card card, final int sign) {
-		Iterator<? extends Printing> it = card.printings().values().iterator();
-		Rarity result = it.next().rarity();
-		while (it.hasNext()) {
-			Rarity next = it.next().rarity();
-			if (Integer.signum(next.compareTo(result)) == sign) {
-				result = next;
-			}
-		}
-		return result;
-	}
+//	public static boolean isRarity(Card card, Rarity rarity) {
+//		for (Printing printing : card.printings().values()) {
+//			if (printing.rarity() == rarity) {
+//				return true;
+//			}
+//		}
+//		return false;
+//	}
+//
+//	public static Rarity minRarity(Card card) {
+//		return minOrMaxRarity(card, -1);
+//	}
+//	
+//	public static Rarity maxRarity(Card card) {
+//		return minOrMaxRarity(card, 1);
+//	}
+//	
+//	private static Rarity minOrMaxRarity(Card card, final int sign) {
+//		Iterator<? extends Printing> it = card.printings().values().iterator();
+//		Rarity result = it.next().rarity();
+//		while (it.hasNext()) {
+//			Rarity next = it.next().rarity();
+//			if (Integer.signum(next.compareTo(result)) == sign) {
+//				result = next;
+//			}
+//		}
+//		return result;
+//	}
 
 }
