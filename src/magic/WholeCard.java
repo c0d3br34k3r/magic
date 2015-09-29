@@ -6,7 +6,7 @@ import java.util.Set;
 import com.google.common.collect.Iterators;
 
 import magic.Card.Builder;
-import magic.Link.Layout;
+import magic.Card.CardPair;
 
 public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card> {
 
@@ -18,13 +18,9 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 
 	public abstract String name();
 
-	public abstract Layout layout();
-	
-	public abstract Card getOnly();
+	public abstract Card card();
 
-	public abstract Card getFirst();
-	
-	public abstract Card getSecond();
+	public abstract CardPair cards();
 
 	@Override public int compareTo(WholeCard other) {
 		return String.CASE_INSENSITIVE_ORDER.compare(name(), other.name());
@@ -32,38 +28,28 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 
 	private static class CompositeCard extends WholeCard {
 
-		private final Card firstCard;
-		private final Card secondCard;
-		private final Layout layout;
+		private final CardPair cards;
 
 		CompositeCard(Layout layout, Builder first, Builder second) {
-			this.layout = layout;
-			this.firstCard = first.build();
-			this.secondCard = second.build();
+			first.setWhole(this);
+			second.setWhole(this);
+			this.cards = first.buildLinkedTo(layout, second);
 		}
 
 		@Override public String name() {
-			return layout.formatNames(firstCard.name(), secondCard.name());
+			return cards.names();
 		}
 
-		@Override public Layout layout() {
-			return layout;
-		}
-
-		@Override public Card getOnly() {
+		@Override public Card card() {
 			throw new IllegalStateException();
 		}
 
-		@Override public Card getFirst() {
-			return firstCard;
-		}
-
-		@Override public Card getSecond() {
-			return secondCard;
+		@Override public CardPair cards() {
+			return cards;
 		}
 
 		@Override public Iterator<Card> iterator() {
-			return Iterators.forArray(firstCard, secondCard);
+			return Iterators.forArray(cards.first(), cards.second());
 		}
 	}
 
@@ -72,6 +58,7 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 		private final Card card;
 
 		public StandaloneCard(Builder only) {
+			only.setWhole(this);
 			this.card = only.build();
 		}
 
@@ -79,20 +66,11 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 			return card.name();
 		}
 
-		@Override public Layout layout() {
-			// TODO Auto-generated method stub
-			return null;
-		}
-
-		@Override public Card getOnly() {
+		@Override public Card card() {
 			return card;
 		}
 
-		@Override public Card getFirst() {
-			throw new IllegalStateException();
-		}
-
-		@Override public Card getSecond() {
+		@Override public CardPair cards() {
 			throw new IllegalStateException();
 		}
 
@@ -105,7 +83,7 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 		return new StandaloneCard(only);
 	}
 
-	public static WholeCard create(Layout layout, 
+	public static WholeCard create(Layout layout,
 			Card.Builder first,
 			Card.Builder second) {
 		return new CompositeCard(layout, first, second);

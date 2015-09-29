@@ -11,6 +11,9 @@ import com.google.common.collect.Sets;
 
 public class Card implements Comparable<Card> {
 
+	private final WholeCard whole;
+	private final Link link;
+
 	private final String name;
 	private final ManaCost manaCost;
 	private final ImmutableSet<Color> colorIndicator;
@@ -24,6 +27,8 @@ public class Card implements Comparable<Card> {
 	private final ImmutableSet<Color> colors;
 
 	private Card(Builder builder) {
+		this.whole = builder.whole;
+
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
 		this.colorIndicator = builder.colorIndicator;
@@ -34,14 +39,9 @@ public class Card implements Comparable<Card> {
 		this.power = builder.power;
 		this.toughness = builder.toughness;
 		this.loyalty = builder.loyalty;
+		this.colors = builder.calculateColors();
 
-		if (builder.isColorless) {
-			colors = ImmutableSet.of();
-		} else if (!colorIndicator.isEmpty()) {
-			colors = colorIndicator;
-		} else {
-			colors = manaCost.colors();
-		}
+		this.link = builder.buildLink(this);
 	}
 
 	public String name() {
@@ -88,8 +88,15 @@ public class Card implements Comparable<Card> {
 		return colors;
 	}
 
-	@Override
-	public int compareTo(Card other) {
+	public WholeCard whole() {
+		return whole;
+	}
+
+	@Nullable public Link link() {
+		return link;
+	}
+
+	@Override public int compareTo(Card other) {
 		return String.CASE_INSENSITIVE_ORDER.compare(name, other.name);
 	}
 
@@ -143,7 +150,38 @@ public class Card implements Comparable<Card> {
 		}
 	}
 
+	public static final class CardPair {
+
+		private CardPair(Layout layout, Card firstCard, Card secondCard) {
+			this.layout = layout;
+			this.firstCard = firstCard;
+			this.secondCard = secondCard;
+		}
+
+		private final Card firstCard;
+		private final Card secondCard;
+		private final Layout layout;
+
+		public final Layout layout() {
+			return layout;
+		}
+
+		public Card first() {
+			return firstCard;
+		}
+
+		public Card second() {
+			return secondCard;
+		}
+
+		public String names() {
+			return layout.formatNames(firstCard.name, secondCard.name);
+		}
+	}
+
 	public static class Builder {
+
+		private WholeCard whole;
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
@@ -156,6 +194,10 @@ public class Card implements Comparable<Card> {
 		@Nullable private Expression toughness = null;
 		@Nullable private Integer loyalty = null;
 		private boolean isColorless = false;
+
+		private Builder linked;
+		private Card firstHalf;
+		private Card secondHalf;
 
 		public void setName(String name) {
 			this.name = name;
@@ -201,8 +243,41 @@ public class Card implements Comparable<Card> {
 			this.isColorless = true;
 		}
 
+		private ImmutableSet<Color> calculateColors() {
+			if (isColorless) {
+				return ImmutableSet.of();
+			} else if (!colorIndicator.isEmpty()) {
+				return colorIndicator;
+			} else {
+				return manaCost.colors();
+			}
+		}
+
+		void setWhole(WholeCard whole) {
+			this.whole = whole;
+		}
+
 		Card build() {
 			return new Card(this);
+		}
+
+		private Link buildLink(Card partiallyBuilt) {
+			if (linked != null) {
+				firstHalf = partiallyBuilt;
+				Card secondHalf = linked.build();
+				this.secondHalf = secondHalf;
+				return Link.create(secondHalf, true);
+			}
+			if (firstHalf != null) {
+				return Link.create(firstHalf, false);
+			}
+			return null;
+		}
+
+		CardPair buildLinkedTo(Layout layout, Builder linked) {
+			this.linked = linked;
+			Card built = build();
+			return new CardPair(layout, built, secondHalf);
 		}
 	}
 
