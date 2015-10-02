@@ -13,60 +13,76 @@ import com.google.common.collect.ListMultimap;
  * to have {@code equals} and {@code hashCode} default to their identity-based
  * implementations in {@link Object}.
  */
-public interface Expansion extends Comparable<Expansion> {
+public final class Expansion implements Comparable<Expansion> {
 
-	/**
-	 * The full name of the set. For example: {@code "Rise of the Eldrazi"}.
-	 */
-	String name();
+	private final String name;
+	private final ListMultimap<WholeCard, Printing> cards;
+	private final String code;
+	private final LocalDate releaseDate;
+	private final Release type;
+	private final BorderColor borderColor;
+	private final boolean hasCollectorNumbers;
+	private final boolean isPhysical;
+	private final boolean hasBooster;
 	
-	ListMultimap<WholeCard, Printing> cards();
+	private Expansion() {
+		
+	}
+	
+	public String name() {
+		return name;
+	}
+
+	public ListMultimap<WholeCard, Printing> cards() {
+		return cards;
+	}
+
+	public String code() {
+		return code;
+	}
+
+	public LocalDate releaseDate() {
+		return releaseDate;
+	}
+
+	public Release type() {
+		return type;
+	}
+
+	public BorderColor borderColor() {
+		return borderColor;
+	}
+
+	public boolean hasCollectorNumbers() {
+		return hasCollectorNumbers;
+	}
+
+	public boolean isPhysical() {
+		return isPhysical;
+	}
+
+	public boolean hasBooster() {
+		return hasBooster;
+	}
 
 	/**
-	 * The three-letter code for the set. For example: {@code "ROE"}.
+	 * Returns this expansion's name.
 	 */
-	String code();
+	@Override public String toString() {
+		return name();
+	}
 
 	/**
-	 * The release date for the set.
+	 * Provides a natural ordering for {@code Expansion}s based on their release
+	 * date.
 	 */
-	LocalDate releaseDate();
-
-	/**
-	 * The classification of this expansion's release.
-	 */
-	Release type();
-
-	/**
-	 * The color of the border on cards printed in this expansion.
-	 */
-	BorderColor borderColor();
-
-	/**
-	 * Whether {@code Printing}s in this {@code Expansion} support
-	 * {@link Printing#collectorNumber()}.
-	 */
-	boolean hasCollectorNumbers();
-
-	/**
-	 * Whether this expansion has physical printings (i.e., it wasn't just an
-	 * online expansion).
-	 */
-	boolean isPhysical();
-
-	/**
-	 * Whether this expansion has booster packs. The rarities of cards within
-	 * expanions without booster packs are, logically, less meaningful.
-	 */
-	boolean hasBooster();
-
-	// TODO: boolean isOnline();
-
-	/**
-	 * Expansions are compared by their release date; if those are the same,
-	 * then their names are compared alphabetically.
-	 */
-	@Override int compareTo(Expansion o);
+	@Override public int compareTo(Expansion o) {
+		int result = releaseDate().compareTo(o.releaseDate());
+		if (result == 0) {
+			result = name().compareTo(o.name());
+		}
+		return result;
+	}
 
 	/**
 	 * The two possible colors of a card's border.
@@ -250,7 +266,7 @@ public interface Expansion extends Comparable<Expansion> {
 		/**
 		 * Used for the Conspiracy release.
 		 */
-		CONSPIRACY("Conspiracy"), ;
+		CONSPIRACY("Conspiracy"),;
 
 		private final String name;
 
@@ -265,6 +281,18 @@ public interface Expansion extends Comparable<Expansion> {
 		@Override public String toString() {
 			return name;
 		}
+	}
+	
+	public static class Builder {
+		private String name;
+		private ListMultimap<WholeCard, Printing> cards;
+		private String code;
+		private LocalDate releaseDate;
+		private Release type;
+		private BorderColor borderColor;
+		private boolean hasCollectorNumbers;
+		private boolean isPhysical;
+		private boolean hasBooster;
 	}
 
 }

@@ -1,6 +1,8 @@
 package magic;
 
 import java.io.IOException;
+import java.util.Collections;
+import java.util.EnumSet;
 import java.util.Set;
 
 import javax.annotation.Nullable;
@@ -9,10 +11,13 @@ import com.google.common.base.Joiner;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;
 
-public class Card implements Comparable<Card> {
+import magic.WholeCard.CompositeCard;
+import magic.WholeCard.StandaloneCard;
+
+public final class Card implements Comparable<Card> {
 
 	private final WholeCard whole;
-	private final Link link;
+	private final @Nullable Link link;
 
 	private final String name;
 	private final ManaCost manaCost;
@@ -21,13 +26,14 @@ public class Card implements Comparable<Card> {
 	private final ImmutableSet<Type> types;
 	private final ImmutableSet<String> subtypes;
 	private final String text;
-	@Nullable private final Expression power;
-	@Nullable private final Expression toughness;
-	@Nullable private final Integer loyalty;
+	private final @Nullable Expression power;
+	private final @Nullable Expression toughness;
+	private final @Nullable Integer loyalty;
 	private final ImmutableSet<Color> colors;
 
 	private Card(Builder builder) {
 		this.whole = builder.whole;
+		this.link = builder.buildLink(this);
 
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
@@ -40,8 +46,6 @@ public class Card implements Comparable<Card> {
 		this.toughness = builder.toughness;
 		this.loyalty = builder.loyalty;
 		this.colors = builder.calculateColors();
-
-		this.link = builder.buildLink(this);
 	}
 
 	public String name() {
@@ -72,15 +76,15 @@ public class Card implements Comparable<Card> {
 		return text;
 	}
 
-	public Expression power() {
+	public @Nullable Expression power() {
 		return power;
 	}
 
-	public Expression toughness() {
+	public @Nullable Expression toughness() {
 		return toughness;
 	}
 
-	public Integer loyalty() {
+	public @Nullable Integer loyalty() {
 		return loyalty;
 	}
 
@@ -92,7 +96,7 @@ public class Card implements Comparable<Card> {
 		return whole;
 	}
 
-	@Nullable public Link link() {
+	public @Nullable Link link() {
 		return link;
 	}
 
@@ -107,9 +111,9 @@ public class Card implements Comparable<Card> {
 		if (!manaCost().isEmpty()) {
 			out.append(' ').append(manaCost().toString());
 		}
-		// if (link() != null) {
-		// out.append(" [").append(link().toString()).append(']');
-		// }
+		if (link() != null) {
+			out.append(' ').append(link().toString());
+		}
 		out.append('\n');
 		if (!colorIndicator().isEmpty()) {
 			out.append('(');
@@ -181,8 +185,6 @@ public class Card implements Comparable<Card> {
 
 	public static class Builder {
 
-		private WholeCard whole;
-
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
 		private ImmutableSet<Color> colorIndicator = ImmutableSet.of();
@@ -190,57 +192,78 @@ public class Card implements Comparable<Card> {
 		private ImmutableSet<Type> types;
 		private ImmutableSet<String> subtypes = ImmutableSet.of();
 		private String text = "";
-		@Nullable private Expression power = null;
-		@Nullable private Expression toughness = null;
-		@Nullable private Integer loyalty = null;
+		private @Nullable Expression power = null;
+		private @Nullable Expression toughness = null;
+		private @Nullable Integer loyalty = null;
+
+		private Set<Color> symbolColorsInText = Collections.emptySet();
 		private boolean isColorless = false;
 
-		private Builder linked;
-		private Card firstHalf;
-		private Card secondHalf;
+		private WholeCard whole;
+		private @Nullable Builder linked;
+		private @Nullable Card firstHalf;
+		private @Nullable Card secondHalf;
 
-		public void setName(String name) {
+		public Builder() {}
+
+		public Builder setName(String name) {
 			this.name = name;
+			return this;
 		}
 
-		public void setManaCost(ManaCost manaCost) {
+		public Builder setManaCost(ManaCost manaCost) {
 			this.manaCost = manaCost;
+			return this;
 		}
 
-		public void setColorIndicator(Set<Color> colorIndicator) {
+		public Builder setColorIndicator(Set<Color> colorIndicator) {
 			this.colorIndicator = Sets.immutableEnumSet(colorIndicator);
+			return this;
 		}
 
-		public void setSupertypes(Set<Supertype> supertypes) {
+		public Builder setSupertypes(Set<Supertype> supertypes) {
 			this.supertypes = Sets.immutableEnumSet(supertypes);
+			return this;
 		}
 
-		public void setTypes(Set<Type> types) {
+		public Builder setTypes(Set<Type> types) {
 			this.types = Sets.immutableEnumSet(types);
+			return this;
 		}
 
-		public void setSubtypes(Set<String> subtypes) {
+		public Builder setSubtypes(Set<String> subtypes) {
 			this.subtypes = ImmutableSet.copyOf(subtypes);
+			return this;
 		}
 
-		public void setText(String text) {
+		public Builder setText(String text) {
 			this.text = text;
+			return this;
 		}
 
-		public void setPower(Expression power) {
+		public Builder setPower(Expression power) {
 			this.power = power;
+			return this;
 		}
 
-		public void setToughness(Expression toughness) {
+		public Builder setToughness(Expression toughness) {
 			this.toughness = toughness;
+			return this;
 		}
 
-		public void setLoyalty(Integer loyalty) {
+		public Builder setLoyalty(Integer loyalty) {
 			this.loyalty = loyalty;
+			return this;
 		}
 
-		public void setColorless() {
+		public Builder setColorless() {
 			this.isColorless = true;
+			return this;
+		}
+
+		public Builder setSymbolColorsInText(Set<Color> symbolColorsInText) {
+			this.symbolColorsInText = symbolColorsInText;
+			return this;
 		}
 
 		private ImmutableSet<Color> calculateColors() {
@@ -257,28 +280,47 @@ public class Card implements Comparable<Card> {
 			this.whole = whole;
 		}
 
-		Card build() {
+		Card buildCard() {
 			return new Card(this);
 		}
 
 		private Link buildLink(Card partiallyBuilt) {
 			if (linked != null) {
 				firstHalf = partiallyBuilt;
-				Card secondHalf = linked.build();
+				Card secondHalf = linked.buildCard();
 				this.secondHalf = secondHalf;
-				return Link.create(secondHalf, true);
+				return new Link(secondHalf, true);
 			}
 			if (firstHalf != null) {
-				return Link.create(firstHalf, false);
+				return new Link(firstHalf, false);
 			}
 			return null;
 		}
 
 		CardPair buildLinkedTo(Layout layout, Builder linked) {
 			this.linked = linked;
-			Card built = build();
+			Card built = buildCard();
 			return new CardPair(layout, built, secondHalf);
 		}
+
+		Set<Color> calculateColorIdentity() {
+			EnumSet<Color> colorIdentity = EnumSet.copyOf(manaCost.colors());
+			colorIdentity.addAll(colorIndicator);
+			colorIdentity.addAll(symbolColorsInText);
+			return colorIdentity;
+		}
+
+		public WholeCard build() {
+			return new StandaloneCard(this);
+		}
+
+		public WholeCard buildWith(Layout layout, Builder other) {
+			return new CompositeCard(layout, this, other);
+		}
+	}
+
+	public static Builder builder() {
+		return new Builder();
 	}
 
 }

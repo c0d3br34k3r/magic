@@ -16,7 +16,7 @@ import com.google.common.collect.Sets;
 
 import magic.Card;
 import magic.Expansion;
-import magic.Link.Layout;
+import magic.Layout;
 import magic.ManaSymbol.Group;
 import magic.Printing;
 import magic.Subtype;
@@ -77,7 +77,7 @@ public final class Cards {
 
 	private static Section section(Card c) {
 		if (c.link() != null
-				&& c.link().layout() == Layout.SPLIT
+				&& c.whole().cards().layout() == Layout.SPLIT
 				&& !c.colors().equals(c.link().get().colors())) {
 			return Section.SPLIT;
 		}

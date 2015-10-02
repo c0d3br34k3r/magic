@@ -3,14 +3,20 @@ package magic;
 import java.util.Iterator;
 import java.util.Set;
 
+import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
+import com.google.common.collect.Sets;
 
 import magic.Card.Builder;
 import magic.Card.CardPair;
 
 public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card> {
 
-	private final Set<Color> colorIdentity = null;
+	private final ImmutableSet<Color> colorIdentity;
+
+	private WholeCard(Set<Color> colorIdentity) {
+		this.colorIdentity = Color.INTERNER.intern(colorIdentity);
+	}
 
 	public Set<Color> colorIdentity() {
 		return colorIdentity;
@@ -22,15 +28,47 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 
 	public abstract CardPair cards();
 
+	@Override public String toString() {
+		return name();
+	}
+
 	@Override public int compareTo(WholeCard other) {
 		return String.CASE_INSENSITIVE_ORDER.compare(name(), other.name());
 	}
 
-	private static class CompositeCard extends WholeCard {
+	static class StandaloneCard extends WholeCard {
+
+		private final Card card;
+
+		StandaloneCard(Builder only) {
+			super(only.calculateColorIdentity());
+			only.setWhole(this);
+			this.card = only.buildCard();
+		}
+
+		@Override public String name() {
+			return card.name();
+		}
+
+		@Override public Card card() {
+			return card;
+		}
+
+		@Override public CardPair cards() {
+			throw new IllegalStateException();
+		}
+
+		@Override public Iterator<Card> iterator() {
+			return Iterators.singletonIterator(card);
+		}
+	}
+
+	static class CompositeCard extends WholeCard {
 
 		private final CardPair cards;
 
 		CompositeCard(Layout layout, Builder first, Builder second) {
+			super(Sets.union(first.calculateColorIdentity(), second.calculateColorIdentity()));
 			first.setWhole(this);
 			second.setWhole(this);
 			this.cards = first.buildLinkedTo(layout, second);
@@ -51,42 +89,6 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 		@Override public Iterator<Card> iterator() {
 			return Iterators.forArray(cards.first(), cards.second());
 		}
-	}
-
-	private static class StandaloneCard extends WholeCard {
-
-		private final Card card;
-
-		public StandaloneCard(Builder only) {
-			only.setWhole(this);
-			this.card = only.build();
-		}
-
-		@Override public String name() {
-			return card.name();
-		}
-
-		@Override public Card card() {
-			return card;
-		}
-
-		@Override public CardPair cards() {
-			throw new IllegalStateException();
-		}
-
-		@Override public Iterator<Card> iterator() {
-			return Iterators.singletonIterator(card);
-		}
-	}
-
-	public static WholeCard create(Card.Builder only) {
-		return new StandaloneCard(only);
-	}
-
-	public static WholeCard create(Layout layout,
-			Card.Builder first,
-			Card.Builder second) {
-		return new CompositeCard(layout, first, second);
 	}
 
 }
