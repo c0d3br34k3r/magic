@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 import java.util.Set;
+import java.util.SortedSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -17,6 +18,7 @@ import magic.Card;
 import magic.Expansion;
 import magic.Printing;
 
+import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.ImmutableListMultimap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSortedSet;
@@ -29,13 +31,13 @@ import com.google.common.collect.TreeMultiset;
 public abstract class Database {
 
 	public abstract Collection<? extends Card> cards();
-	
+
 	public abstract Collection<? extends Expansion> expansions();
-	
+
 	public abstract Card getCard(String name);
-	
+
 	public abstract Expansion getExpansion(String name);
-	
+
 	public ImmutableSortedSet<Expansion> getBlock(String blockName) {
 		Builder<Expansion> builder = ImmutableSortedSet.naturalOrder();
 		for (Expansion expansion : expansions()) {
@@ -57,7 +59,7 @@ public abstract class Database {
 		}
 		return builder.build();
 	}
-	
+
 	public Set<Expansion> getExpansions(String... codes) {
 		ImmutableSet.Builder<Expansion> builder = ImmutableSet.builder();
 		for (String code : codes) {
@@ -65,7 +67,7 @@ public abstract class Database {
 		}
 		return builder.build();
 	}
-	
+
 	public Set<Card> cardsIn(String... expansionCodes) {
 		List<Expansion> expansions = new ArrayList<>();
 		for (String code : expansionCodes) {
@@ -73,7 +75,7 @@ public abstract class Database {
 		}
 		return cardsIn(expansions);
 	}
-	
+
 	public Set<Card> cardsIn(Collection<Expansion> expansions) {
 		ImmutableSortedSet.Builder<Card> builder = ImmutableSortedSet.naturalOrder();
 		for (Expansion expansion : expansions) {
@@ -107,13 +109,13 @@ public abstract class Database {
 		}
 		throw new IllegalArgumentException("Cards not found: " + notFound);
 	}
-	
+
 	private static final Pattern DECK_LINE = Pattern.compile("(\\d{0,3})\\s+(.+)");
-	
+
 	public Multiset<Card> readDeck(Path path) throws IOException {
 		return readDeck(path, TreeMultiset.<Card> create());
 	}
-	
+
 	public Multiset<Card> readDeck(Path path, Multiset<Card> deck) throws IOException {
 		Collection<String> notFound = new ArrayList<>();
 		try (BufferedReader in = Files.newBufferedReader(path, StandardCharsets.UTF_8)) {
@@ -157,7 +159,7 @@ public abstract class Database {
 			}
 		}
 	}
-	
+
 	public static void writeDeck(Path path, Multiset<? extends Card> cards) throws IOException {
 		try (BufferedWriter out = Files.newBufferedWriter(path, StandardCharsets.UTF_8)) {
 			for (Entry<? extends Card> entry : cards.entrySet()) {
@@ -167,6 +169,14 @@ public abstract class Database {
 				out.newLine();
 			}
 		}
+	}
+
+	public ListMultimap<Card, Printing> printingsIn(Collection<Expansion> expansions) {
+		ArrayListMultimap<Card, Printing> printings = ArrayListMultimap.create();
+		for (Expansion expansion : expansions) {
+			printings.putAll(printingsIn(expansion));
+		}
+		return printings;
 	}
 
 }
