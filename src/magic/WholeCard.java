@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.Set;
 
+import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
 
@@ -12,8 +13,8 @@ public abstract class WholeCard
 
 	private final ImmutableSet<Color> colorIdentity;
 
-	private WholeCard(Set<Color> colorIdentity) {
-		this.colorIdentity = Color.INTERNER.intern(colorIdentity);
+	private WholeCard(ImmutableSet<Color> colorIdentity) {
+		this.colorIdentity = Preconditions.checkNotNull(colorIdentity);
 	}
 
 	public Set<Color> colorIdentity() {
@@ -25,6 +26,8 @@ public abstract class WholeCard
 	public abstract Card card();
 
 	public abstract CardPair cards();
+	
+	public abstract boolean isStandalone();
 
 	@Override public String toString() {
 		return name();
@@ -94,7 +97,6 @@ public abstract class WholeCard
 					firstOrOnly,
 					second);
 		}
-
 	}
 
 	private static class StandaloneCard extends WholeCard {
@@ -126,13 +128,17 @@ public abstract class WholeCard
 		@Override public void writeTo(Appendable out) throws IOException {
 			card.writeTo(out);
 		}
+
+		@Override public boolean isStandalone() {
+			return true;
+		}
 	}
 
 	private static class CompositeCard extends WholeCard {
 
 		private final CardPair cards;
 
-		CompositeCard(Set<Color> colorIdentity, Layout layout,
+		CompositeCard(ImmutableSet<Color> colorIdentity, Layout layout,
 				Card.Builder first, Card.Builder second) {
 			super(colorIdentity);
 			first.setWhole(this);
@@ -163,6 +169,10 @@ public abstract class WholeCard
 					.append(" *")
 					.append(System.lineSeparator());
 			cards.second().writeTo(out);
+		}
+
+		@Override public boolean isStandalone() {
+			return false;
 		}
 	}
 

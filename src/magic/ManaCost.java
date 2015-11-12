@@ -137,7 +137,8 @@ public abstract class ManaCost {
 				return ZERO;
 			default:
 		}
-		ImmutableSortedMultiset.Builder<ManaSymbol> builder = ImmutableSortedMultiset.naturalOrder();
+		ImmutableSortedMultiset.Builder<ManaSymbol> builder =
+				ImmutableSortedMultiset.naturalOrder();
 		boolean colorlessSymbolEncountered = false;
 		int begin = 0;
 		do {
@@ -177,8 +178,9 @@ public abstract class ManaCost {
 		} while (begin < input.length());
 		return new StandardManaCost(builder.build());
 	}
-	
-	private static IllegalArgumentException parseException(String format, Object... args) {
+
+	private static IllegalArgumentException parseException(String format,
+			Object... args) {
 		throw new IllegalArgumentException(String.format(format, args));
 	}
 
@@ -274,7 +276,8 @@ public abstract class ManaCost {
 			this(condense(colorless, symbols));
 		}
 
-		private static ImmutableMultiset<ManaSymbol> condense(int colorless, Collection<ManaSymbol> symbols) {
+		private static ImmutableMultiset<ManaSymbol> condense(int colorless,
+				Collection<ManaSymbol> symbols) {
 			return ImmutableSortedMultiset.<ManaSymbol> naturalOrder()
 					.addCopies(ManaSymbol.GENERIC, colorless)
 					.addAll(symbols)
@@ -320,8 +323,7 @@ public abstract class ManaCost {
 			if (!(obj instanceof StandardManaCost)) {
 				return false;
 			}
-			StandardManaCost other = (StandardManaCost) obj;
-			return symbols.equals(other.symbols);
+			return symbols.equals(((StandardManaCost) obj).symbols);
 		}
 
 		@Override public String toString() {

@@ -7,17 +7,16 @@ import javax.annotation.Nullable;
 
 import com.google.common.base.Joiner;
 import com.google.common.base.MoreObjects;
+import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Sets;
 
 public final class Card implements Comparable<Card> {
 
 	private final WholeCard whole;
 	private final @Nullable Link link;
-
 	private final String name;
 	private final ManaCost manaCost;
-	private final ImmutableSet<Color> colorOverride;
+	private final @Nullable ImmutableSet<Color> colorOverride;
 	private final ImmutableSet<Supertype> supertypes;
 	private final ImmutableSet<Type> types;
 	private final ImmutableSet<String> subtypes;
@@ -29,7 +28,6 @@ public final class Card implements Comparable<Card> {
 	private Card(Builder builder) {
 		this.whole = builder.whole;
 		this.link = builder.buildLink(this);
-
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
 		this.colorOverride = builder.colorOverride;
@@ -59,19 +57,19 @@ public final class Card implements Comparable<Card> {
 				: colorOverride;
 	}
 
-	public @Nullable Set<Color> colorOverride() {
+	public @Nullable ImmutableSet<Color> colorOverride() {
 		return colorOverride;
 	}
 
-	public Set<Supertype> supertypes() {
+	public ImmutableSet<Supertype> supertypes() {
 		return supertypes;
 	}
 
-	public Set<Type> types() {
+	public ImmutableSet<Type> types() {
 		return types;
 	}
 
-	public Set<String> subtypes() {
+	public ImmutableSet<String> subtypes() {
 		return subtypes;
 	}
 
@@ -91,7 +89,7 @@ public final class Card implements Comparable<Card> {
 		return loyalty;
 	}
 
-	public Set<Color> colors() {
+	public ImmutableSet<Color> colors() {
 		return MoreObjects.firstNonNull(colorOverride, manaCost.colors());
 	}
 
@@ -177,52 +175,52 @@ public final class Card implements Comparable<Card> {
 		public Builder() {}
 
 		public Builder setName(String name) {
-			this.name = name;
+			this.name = Preconditions.checkNotNull(name);
 			return this;
 		}
 
 		public Builder setManaCost(ManaCost manaCost) {
-			this.manaCost = manaCost;
+			this.manaCost = Preconditions.checkNotNull(manaCost);
 			return this;
 		}
 
-		public Builder setColorOverride(Set<Color> colorOverride) {
-			this.colorOverride = Sets.immutableEnumSet(colorOverride);
+		public Builder setColorOverride(ImmutableSet<Color> colorOverride) {
+			this.colorOverride = Preconditions.checkNotNull(colorOverride);
 			return this;
 		}
 
-		public Builder setSupertypes(Set<Supertype> supertypes) {
-			this.supertypes = Sets.immutableEnumSet(supertypes);
+		public Builder setSupertypes(ImmutableSet<Supertype> supertypes) {
+			this.supertypes = Preconditions.checkNotNull(supertypes);
 			return this;
 		}
 
-		public Builder setTypes(Set<Type> types) {
-			this.types = Sets.immutableEnumSet(types);
+		public Builder setTypes(ImmutableSet<Type> types) {
+			this.types = Preconditions.checkNotNull(types);
 			return this;
 		}
 
-		public Builder setSubtypes(Set<String> subtypes) {
-			this.subtypes = ImmutableSet.copyOf(subtypes);
+		public Builder setSubtypes(ImmutableSet<String> subtypes) {
+			this.subtypes = Preconditions.checkNotNull(subtypes);
 			return this;
 		}
 
 		public Builder setText(String text) {
-			this.text = text;
+			this.text = Preconditions.checkNotNull(text);
 			return this;
 		}
 
 		public Builder setPower(Expression power) {
-			this.power = power;
+			this.power = Preconditions.checkNotNull(power);
 			return this;
 		}
 
 		public Builder setToughness(Expression toughness) {
-			this.toughness = toughness;
+			this.toughness = Preconditions.checkNotNull(toughness);
 			return this;
 		}
 
 		public Builder setLoyalty(Integer loyalty) {
-			this.loyalty = loyalty;
+			this.loyalty = Preconditions.checkNotNull(loyalty);
 			return this;
 		}
 

@@ -1,9 +1,8 @@
 package magic;
 
-
 /**
- * All rarities at which a Magic card may be printed. Each {@link Printing} specifies
- * one {@code Rarity}.
+ * All rarities at which a Magic card may be printed. Each {@link Printing}
+ * specifies one {@code Rarity}.
  * 
  * @see Printing
  */
