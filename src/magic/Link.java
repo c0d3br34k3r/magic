@@ -32,7 +32,7 @@ public final class Link {
 	}
 
 	@Override public String toString() {
-		return (isFirstHalf ? "->" : "<-") + ' ' + card;
+		return (isFirstHalf ? "first" : "second") + " half; other half is " + card.name();
 	}
 
 }

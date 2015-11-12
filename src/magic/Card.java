@@ -1,18 +1,14 @@
 package magic;
 
 import java.io.IOException;
-import java.util.Collections;
-import java.util.EnumSet;
 import java.util.Set;
 
 import javax.annotation.Nullable;
 
 import com.google.common.base.Joiner;
+import com.google.common.base.MoreObjects;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;
-
-import magic.WholeCard.CompositeCard;
-import magic.WholeCard.StandaloneCard;
 
 public final class Card implements Comparable<Card> {
 
@@ -21,7 +17,7 @@ public final class Card implements Comparable<Card> {
 
 	private final String name;
 	private final ManaCost manaCost;
-	private final ImmutableSet<Color> colorIndicator;
+	private final ImmutableSet<Color> colorOverride;
 	private final ImmutableSet<Supertype> supertypes;
 	private final ImmutableSet<Type> types;
 	private final ImmutableSet<String> subtypes;
@@ -29,7 +25,6 @@ public final class Card implements Comparable<Card> {
 	private final @Nullable Expression power;
 	private final @Nullable Expression toughness;
 	private final @Nullable Integer loyalty;
-	private final ImmutableSet<Color> colors;
 
 	private Card(Builder builder) {
 		this.whole = builder.whole;
@@ -37,7 +32,7 @@ public final class Card implements Comparable<Card> {
 
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
-		this.colorIndicator = builder.colorIndicator;
+		this.colorOverride = builder.colorOverride;
 		this.supertypes = builder.supertypes;
 		this.types = builder.types;
 		this.subtypes = builder.subtypes;
@@ -45,7 +40,6 @@ public final class Card implements Comparable<Card> {
 		this.power = builder.power;
 		this.toughness = builder.toughness;
 		this.loyalty = builder.loyalty;
-		this.colors = builder.calculateColors();
 	}
 
 	public String name() {
@@ -56,8 +50,17 @@ public final class Card implements Comparable<Card> {
 		return manaCost;
 	}
 
-	public Set<Color> colorIndicator() {
-		return colorIndicator;
+	public @Nullable Set<Color> colorIndicator() {
+		if (colorOverride == null) {
+			return null;
+		}
+		return colorOverride.isEmpty()
+				? null
+				: colorOverride;
+	}
+
+	public @Nullable Set<Color> colorOverride() {
+		return colorOverride;
 	}
 
 	public Set<Supertype> supertypes() {
@@ -89,7 +92,7 @@ public final class Card implements Comparable<Card> {
 	}
 
 	public Set<Color> colors() {
-		return colors;
+		return MoreObjects.firstNonNull(colorOverride, manaCost.colors());
 	}
 
 	public WholeCard whole() {
@@ -101,49 +104,47 @@ public final class Card implements Comparable<Card> {
 	}
 
 	@Override public int compareTo(Card other) {
-		return String.CASE_INSENSITIVE_ORDER.compare(name, other.name);
+		return name.compareToIgnoreCase(other.name);
+	}
+
+	@Override public String toString() {
+		return name;
 	}
 
 	private static final Joiner SPACE_JOINER = Joiner.on(' ');
 
 	public void writeTo(Appendable out) throws IOException {
+		String newline = System.lineSeparator();
 		out.append(name());
-		if (!manaCost().isEmpty()) {
-			out.append(' ').append(manaCost().toString());
+		if (!manaCost.isEmpty()) {
+			out.append(' ').append(manaCost.toString());
 		}
-		if (link() != null) {
-			out.append(' ').append(link().toString());
-		}
-		out.append('\n');
-		if (!colorIndicator().isEmpty()) {
+		out.append(newline);
+		if (colorOverride != null && !colorOverride.isEmpty()) {
 			out.append('(');
-			for (Color color : colorIndicator()) {
+			for (Color color : colorOverride) {
 				out.append(color.code());
 			}
 			out.append(") ");
 		}
-		if (!supertypes().isEmpty()) {
+		if (!supertypes.isEmpty()) {
 			SPACE_JOINER.appendTo(out, supertypes()).append(' ');
 		}
-		SPACE_JOINER.appendTo(out, types());
-		if (!subtypes().isEmpty()) {
+		SPACE_JOINER.appendTo(out, types);
+		if (!subtypes.isEmpty()) {
 			out.append(" - ");
 			SPACE_JOINER.appendTo(out, subtypes());
 		}
-		out.append('\n');
-		if (!text().isEmpty()) {
-			out.append(text()).append('\n');
+		out.append(newline);
+		if (!text.isEmpty()) {
+			out.append(text()).append(newline);
 		}
-		if (power() != null) {
+		if (power != null) {
 			out.append(power().toString()).append('/')
-					.append(toughness().toString()).append('\n');
-		} else if (loyalty() != null) {
-			out.append(Integer.toString(loyalty())).append('\n');
+					.append(toughness.toString()).append(newline);
+		} else if (loyalty != null) {
+			out.append(Integer.toString(loyalty())).append(newline);
 		}
-	}
-
-	@Override public String toString() {
-		return name;
 	}
 
 	public void print() {
@@ -154,40 +155,11 @@ public final class Card implements Comparable<Card> {
 		}
 	}
 
-	public static final class CardPair {
-
-		private CardPair(Layout layout, Card firstCard, Card secondCard) {
-			this.layout = layout;
-			this.firstCard = firstCard;
-			this.secondCard = secondCard;
-		}
-
-		private final Card firstCard;
-		private final Card secondCard;
-		private final Layout layout;
-
-		public final Layout layout() {
-			return layout;
-		}
-
-		public Card first() {
-			return firstCard;
-		}
-
-		public Card second() {
-			return secondCard;
-		}
-
-		public String names() {
-			return layout.formatNames(firstCard.name, secondCard.name);
-		}
-	}
-
 	public static class Builder {
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
-		private ImmutableSet<Color> colorIndicator = ImmutableSet.of();
+		private ImmutableSet<Color> colorOverride = ImmutableSet.of();
 		private ImmutableSet<Supertype> supertypes = ImmutableSet.of();
 		private ImmutableSet<Type> types;
 		private ImmutableSet<String> subtypes = ImmutableSet.of();
@@ -196,13 +168,11 @@ public final class Card implements Comparable<Card> {
 		private @Nullable Expression toughness = null;
 		private @Nullable Integer loyalty = null;
 
-		private Set<Color> symbolColorsInText = Collections.emptySet();
-		private boolean isColorless = false;
-
 		private WholeCard whole;
+		// only the first half will set this
 		private @Nullable Builder linked;
-		private @Nullable Card firstHalf;
-		private @Nullable Card secondHalf;
+		// each linked builder sets this field for the other
+		private @Nullable Card other;
 
 		public Builder() {}
 
@@ -216,8 +186,8 @@ public final class Card implements Comparable<Card> {
 			return this;
 		}
 
-		public Builder setColorIndicator(Set<Color> colorIndicator) {
-			this.colorIndicator = Sets.immutableEnumSet(colorIndicator);
+		public Builder setColorOverride(Set<Color> colorOverride) {
+			this.colorOverride = Sets.immutableEnumSet(colorOverride);
 			return this;
 		}
 
@@ -256,26 +226,6 @@ public final class Card implements Comparable<Card> {
 			return this;
 		}
 
-		public Builder setColorless() {
-			this.isColorless = true;
-			return this;
-		}
-
-		public Builder setSymbolColorsInText(Set<Color> symbolColorsInText) {
-			this.symbolColorsInText = symbolColorsInText;
-			return this;
-		}
-
-		private ImmutableSet<Color> calculateColors() {
-			if (isColorless) {
-				return ImmutableSet.of();
-			} else if (!colorIndicator.isEmpty()) {
-				return colorIndicator;
-			} else {
-				return manaCost.colors();
-			}
-		}
-
 		void setWhole(WholeCard whole) {
 			this.whole = whole;
 		}
@@ -284,38 +234,24 @@ public final class Card implements Comparable<Card> {
 			return new Card(this);
 		}
 
+		void setLinked(Builder linked) {
+			this.linked = linked;
+		}
+
+		Card getOther() {
+			return other;
+		}
+
 		private Link buildLink(Card partiallyBuilt) {
 			if (linked != null) {
-				firstHalf = partiallyBuilt;
-				Card secondHalf = linked.buildCard();
-				this.secondHalf = secondHalf;
-				return new Link(secondHalf, true);
+				linked.other = partiallyBuilt;
+				other = linked.buildCard();
+				return new Link(other, true);
 			}
-			if (firstHalf != null) {
-				return new Link(firstHalf, false);
+			if (other != null) {
+				return new Link(other, false);
 			}
 			return null;
-		}
-
-		CardPair buildLinkedTo(Layout layout, Builder linked) {
-			this.linked = linked;
-			Card built = buildCard();
-			return new CardPair(layout, built, secondHalf);
-		}
-
-		Set<Color> calculateColorIdentity() {
-			EnumSet<Color> colorIdentity = EnumSet.copyOf(manaCost.colors());
-			colorIdentity.addAll(colorIndicator);
-			colorIdentity.addAll(symbolColorsInText);
-			return colorIdentity;
-		}
-
-		public WholeCard build() {
-			return new StandaloneCard(this);
-		}
-
-		public WholeCard buildWith(Layout layout, Builder other) {
-			return new CompositeCard(layout, this, other);
 		}
 	}
 

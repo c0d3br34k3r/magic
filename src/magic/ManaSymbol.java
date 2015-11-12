@@ -186,7 +186,7 @@ public enum ManaSymbol {
 	 * <li>Primary symbols check to see if the set contains their color.</li>
 	 * <li>Hybrid symbols check to see if the set contains either of their
 	 * colors.</li>
-	 * <li>Monocolored hybrid, Phyrexian, and Variable symbols are always
+	 * <li>Generic, Monocolored Hybrid, Phyrexian, and Variable symbols are always
 	 * payable.</li>
 	 * </ul>
 	 */

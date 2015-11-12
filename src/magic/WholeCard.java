@@ -1,16 +1,14 @@
 package magic;
 
+import java.io.IOException;
 import java.util.Iterator;
 import java.util.Set;
 
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
-import com.google.common.collect.Sets;
 
-import magic.Card.Builder;
-import magic.Card.CardPair;
-
-public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card> {
+public abstract class WholeCard
+		implements Comparable<WholeCard>, Iterable<Card> {
 
 	private final ImmutableSet<Color> colorIdentity;
 
@@ -33,15 +31,78 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 	}
 
 	@Override public int compareTo(WholeCard other) {
-		return String.CASE_INSENSITIVE_ORDER.compare(name(), other.name());
+		return name().compareToIgnoreCase(other.name());
 	}
 
-	static class StandaloneCard extends WholeCard {
+	public abstract void writeTo(Appendable out) throws IOException;
+
+	public void print() {
+		try {
+			writeTo(System.out);
+		} catch (IOException impossible) {
+			throw new AssertionError(impossible);
+		}
+	}
+
+	public static Builder builder() {
+		return new Builder();
+	}
+	
+	public static class Builder {
+
+		private Builder() {}
+		
+		private Layout layout;
+		private Card.Builder firstOrOnly;
+		private Card.Builder second;
+		private ImmutableSet<Color> colorIdentity;
+
+		public Builder setLayout(Layout layout) {
+			this.layout = layout;
+			return this;
+		}
+
+		public Builder setOnly(Card.Builder only) {
+			this.firstOrOnly = only;
+			return this;
+		}
+
+		public Builder setFirst(Card.Builder first) {
+			this.firstOrOnly = first;
+			return this;
+		}
+
+		public Builder setSecond(Card.Builder second) {
+			this.second = second;
+			return this;
+		}
+
+		public Builder setColorIdentity(ImmutableSet<Color> colorIdentity) {
+			this.colorIdentity = colorIdentity;
+			return this;
+		}
+
+		public WholeCard build() {
+			if (layout == null) {
+				if (second != null) {
+					throw new IllegalStateException();
+				}
+				return new StandaloneCard(colorIdentity, firstOrOnly);
+			}
+			return new CompositeCard(colorIdentity,
+					layout,
+					firstOrOnly,
+					second);
+		}
+
+	}
+
+	private static class StandaloneCard extends WholeCard {
 
 		private final Card card;
 
-		StandaloneCard(Builder only) {
-			super(only.calculateColorIdentity());
+		StandaloneCard(ImmutableSet<Color> colorIdentity, Card.Builder only) {
+			super(colorIdentity);
 			only.setWhole(this);
 			this.card = only.buildCard();
 		}
@@ -61,17 +122,22 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 		@Override public Iterator<Card> iterator() {
 			return Iterators.singletonIterator(card);
 		}
+
+		@Override public void writeTo(Appendable out) throws IOException {
+			card.writeTo(out);
+		}
 	}
 
-	static class CompositeCard extends WholeCard {
+	private static class CompositeCard extends WholeCard {
 
 		private final CardPair cards;
 
-		CompositeCard(Layout layout, Builder first, Builder second) {
-			super(Sets.union(first.calculateColorIdentity(), second.calculateColorIdentity()));
+		CompositeCard(Set<Color> colorIdentity, Layout layout,
+				Card.Builder first, Card.Builder second) {
+			super(colorIdentity);
 			first.setWhole(this);
 			second.setWhole(this);
-			this.cards = first.buildLinkedTo(layout, second);
+			this.cards = new CardPair(layout, first, second);
 		}
 
 		@Override public String name() {
@@ -88,6 +154,15 @@ public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card>
 
 		@Override public Iterator<Card> iterator() {
 			return Iterators.forArray(cards.first(), cards.second());
+		}
+
+		@Override public void writeTo(Appendable out) throws IOException {
+			cards.first().writeTo(out);
+			out.append("* ")
+					.append(cards.layout().toString().toUpperCase())
+					.append(" *")
+					.append(System.lineSeparator());
+			cards.second().writeTo(out);
 		}
 	}
 
