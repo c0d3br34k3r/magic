@@ -16,52 +16,58 @@ public enum Type {
 	/**
 	 * The Tribal card type.
 	 */
-	TRIBAL("Tribal"),
+	TRIBAL("Tribal", false),
 	
 	/**
 	 * The Instant card type.
 	 */
-	INSTANT("Instant"),
+	INSTANT("Instant", false),
 	
 	/**
 	 * The Sorcery card type.
 	 */
-	SORCERY("Sorcery"),
+	SORCERY("Sorcery", false),
 	
 	/**
 	 * The Enchantment card type.
 	 */
-	ENCHANTMENT("Enchantment"),
+	ENCHANTMENT("Enchantment", true),
 	
 	/**
 	 * The Artifact card type.
 	 */
-	ARTIFACT("Artifact"),
+	ARTIFACT("Artifact", true),
 	
 	/**
 	 * The Land card type.
 	 */
-	LAND("Land"),
+	LAND("Land", true),
 	
 	/**
 	 * The Creature card type.
 	 */
-	CREATURE("Creature"),
+	CREATURE("Creature", true),
 	
 	/**
 	 * The Planeswalker card type.
 	 */
-	PLANESWALKER("Planeswalker"),
+	PLANESWALKER("Planeswalker", true),
 	
 	/**
 	 * The Conspiracy card type.
 	 */
-	CONSPIRACY("Conspiracy");
+	CONSPIRACY("Conspiracy", false);
 
 	private final String name;
+	private final boolean isPermanent;
 
-	private Type(String name) {
+	private Type(String name, boolean isPermanent) {
 		this.name = name;
+		this.isPermanent = isPermanent;
+	}
+	
+	public boolean isPermanent() {
+		return isPermanent;
 	}
 
 	/**

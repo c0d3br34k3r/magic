@@ -1,33 +1,25 @@
 package magic;
 
-import magic.Card.Builder;
+import magic.base.Pair;
 
-public final class CardPair {
+public final class CardPair extends Pair<Card> {
+	
+	private final Layout layout;
+	private final Card first;
+	private final Card second;
 
 	CardPair(Layout layout, 
-			Builder first,
-			Builder second) {
+			Card.Builder first,
+			Card.Builder second) {
 		first.setLinked(second);
-		Card firstBuilt = first.buildCard();
+		Card firstBuilt = first.build();
 		this.layout = layout;
 		this.first = firstBuilt;
 		this.second = first.getOther();
 	}
 
-	private final Layout layout;
-	private final Card first;
-	private final Card second;
-
 	public final Layout layout() {
 		return layout;
-	}
-
-	public Card first() {
-		return first;
-	}
-
-	public Card second() {
-		return second;
 	}
 
 	public String names() {

@@ -30,15 +30,13 @@ public final class Cards {
 
 	private Cards() {}
 
-	private static final Set<Type> PERMANENT_TYPES = Sets.immutableEnumSet(
-			Type.ENCHANTMENT,
-			Type.ARTIFACT,
-			Type.LAND,
-			Type.CREATURE,
-			Type.PLANESWALKER);
-
 	public static boolean isPermanent(Card card) {
-		return !Collections.disjoint(card.types(), PERMANENT_TYPES);
+		for (Type type : card.types()) {
+			if (type.isPermanent()) {
+				return true;
+			}
+		}
+		return false;
 	}
 
 	private static Predicate<Expansion> PHYSICAL = new Predicate<Expansion>() {

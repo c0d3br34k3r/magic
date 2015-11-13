@@ -1,87 +1,118 @@
 package magic;
 
 import java.io.IOException;
+import java.io.PrintStream;
 
 import javax.annotation.Nullable;
 
-import com.google.common.annotations.Beta;
+import magic.base.Link;
+import magic.base.Partial;
 
-/**
- * An object contain all printing-specific attributes of a card within an
- * expansion. Implementations of {@code Printing} should be immutable.
- * <p>
- * Because each instance of {@code Printing} should be unique, it may be useful
- * to have {@code equals} and {@code hashCode} default to their identity-based
- * implementations in {@link Object}.
- */
-public interface Printing extends Comparable<Printing> {
+public final class Printing extends Partial<Printing> {
 
-	/**
-	 * The {@link Card} that contains this printing.
-	 */
-	Card card();
+	private final Card card;
+	private final WholePrinting whole;
+	private final @Nullable Link<Printing> link;
+	private final String flavorText;
+	private final @Nullable CollectorNumber collectorNumber;
+	private final int variation;
+	private final String artist;
+	private final @Nullable String watermark;
 
-	/**
-	 * The expansion in which this card is printed.
-	 */
-	Expansion expansion();
+	private Printing(Builder builder) {
+		this.card = builder.card;
+		this.whole = builder.whole;
+		this.flavorText = builder.flavorText;
+		this.collectorNumber = builder.collectorNumber;
+		this.variation = builder.variation;
+		this.artist = builder.artist;
+		this.watermark = builder.watermark;
+	}
 
-	/**
-	 * The card's rarity.
-	 */
-	Rarity rarity();
+	public Card card() {
+		return card;
+	}
 
-	/**
-	 * The card's flavor text, using ASCII characters where possible.
-	 * <p>
-	 * The only time this wasn't possible was for Niv-Mizzet, the Firemind's
-	 * original printing!
-	 */
-	String flavorText();
+	@Override public WholePrinting whole() {
+		return whole;
+	}
 
-	/**
-	 * The card's artist.
-	 */
-	String artist();
+	public String flavorText() {
+		return flavorText;
+	}
 
-	/**
-	 * The card's collector number, which is null when not supported.
-	 */
-	@Nullable CollectorNumber collectorNumber();
+	public String artist() {
+		return artist;
+	}
 
-	/**
-	 * Returns the zero-based variation number of the card, representing its
-	 * ordinal position among other printings of the same card within an
-	 * expansion.
-	 */
-	int variationIndex();
+	public CollectorNumber collectorNumber() {
+		return collectorNumber;
+	}
 
-	/**
-	 * In Core Sets, this is set to true if the card is only available through
-	 * starter kits and not in booster packs.
-	 */
-	boolean starterOnly();
+	public int variationIndex() {
+		return variation;
+	}
 
-	/**
-	 * The card's watermark, or {@code null} if this card has no watermark.
-	 */
-	@Nullable String watermark();
+	public String watermark() {
+		return watermark;
+	}
 
-	/**
-	 * Whether the card is Timeshifted. Only applicable to Time Spiral-block
-	 * cards.
-	 */
-	boolean isTimeshifted();
+	@Override public Link<Printing> link() {
+		return link;
+	}
 
-	/**
-	 * Prints the card in a nice format the specified {@code Appendable}.
-	 * 
-	 */
-	void writeTo(Appendable out) throws IOException;
+	public void writeTo(PrintStream out) throws IOException {
 
-	/**
-	 * Calls {@link #writeTo(Appendable)} using {@code System.out}.
-	 */
-	@Beta void print();
+	}
+
+	public static final class Builder {
+
+		private Card card;
+		private String flavorText = "";
+		private CollectorNumber collectorNumber = null;
+		private int variation;
+		private String artist;
+		private String watermark = null;
+
+		private WholePrinting whole;
+		// only the first half will set this
+		private @Nullable Builder linked;
+		// each linked builder sets this field for the other
+		private @Nullable Printing other;
+
+		public Builder setCard(Card card) {
+			this.card = card;
+			return this;
+		}
+
+		public Builder setFlavorText(String flavorText) {
+			this.flavorText = flavorText;
+			return this;
+		}
+
+		public Builder setCollectorNumber(CollectorNumber collectorNumber) {
+			this.collectorNumber = collectorNumber;
+			return this;
+		}
+
+		public Builder setVariation(int variation) {
+			this.variation = variation;
+			return this;
+		}
+
+		public Builder setArtist(String artist) {
+			this.artist = artist;
+			return this;
+		}
+
+		public Builder setWatermark(String watermark) {
+			this.watermark = watermark;
+			return this;
+		}
+
+		void setWhole(WholePrinting whole) {
+			this.whole = whole;
+		}
+	}
 
 }

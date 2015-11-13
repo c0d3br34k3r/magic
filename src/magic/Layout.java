@@ -10,7 +10,7 @@ public enum Layout {
 		@Override public String formatNames(String firstName,
 				String secondName,
 				String splitCardSeparator) {
-			return firstName + ' ' + splitCardSeparator + ' ' + secondName;
+			return firstName + splitCardSeparator + secondName;
 		}
 	},
 
@@ -74,6 +74,6 @@ public enum Layout {
 	public abstract String formatNames(String firstName, String secondName, String splitCardSeparator);
 
 	public String formatNames(String firstName, String secondName) {
-		return formatNames(firstName, secondName, "&");
+		return formatNames(firstName, secondName, " & ");
 	}
 }

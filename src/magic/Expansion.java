@@ -1,7 +1,10 @@
 package magic;
 
+import java.util.List;
+
 import org.joda.time.LocalDate;
 
+import com.google.common.collect.ImmutableListMultimap;
 import com.google.common.collect.ListMultimap;
 
 /**
@@ -16,7 +19,7 @@ import com.google.common.collect.ListMultimap;
 public final class Expansion implements Comparable<Expansion> {
 
 	private final String name;
-	private final ListMultimap<WholeCard, Printing> cards;
+	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
 	private final String code;
 	private final LocalDate releaseDate;
 	private final Release type;
@@ -33,8 +36,12 @@ public final class Expansion implements Comparable<Expansion> {
 		return name;
 	}
 
-	public ListMultimap<WholeCard, Printing> cards() {
-		return cards;
+	public ImmutableListMultimap<WholeCard, WholePrinting> printings() {
+		return printings;
+	}
+	
+	public List<WholePrinting> printingsOf(WholeCard wholeCard) {
+		return printings.get(wholeCard);
 	}
 
 	public String code() {
@@ -79,7 +86,7 @@ public final class Expansion implements Comparable<Expansion> {
 	@Override public int compareTo(Expansion o) {
 		int result = releaseDate().compareTo(o.releaseDate());
 		if (result == 0) {
-			result = name().compareTo(o.name());
+			result = name().compareToIgnoreCase(o.name());
 		}
 		return result;
 	}
@@ -285,7 +292,7 @@ public final class Expansion implements Comparable<Expansion> {
 	
 	public static class Builder {
 		private String name;
-		private ListMultimap<WholeCard, Printing> cards;
+		private ListMultimap<WholeCard, WholePrinting> cards;
 		private String code;
 		private LocalDate releaseDate;
 		private Release type;

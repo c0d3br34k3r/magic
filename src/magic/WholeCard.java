@@ -2,13 +2,14 @@ package magic;
 
 import java.io.IOException;
 import java.util.Iterator;
-import java.util.Set;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
 
-public abstract class WholeCard
+import magic.base.Whole;
+
+public abstract class WholeCard extends Whole<Card>
 		implements Comparable<WholeCard>, Iterable<Card> {
 
 	private final ImmutableSet<Color> colorIdentity;
@@ -17,16 +18,13 @@ public abstract class WholeCard
 		this.colorIdentity = Preconditions.checkNotNull(colorIdentity);
 	}
 
-	public Set<Color> colorIdentity() {
+	public ImmutableSet<Color> colorIdentity() {
 		return colorIdentity;
 	}
 
 	public abstract String name();
-
-	public abstract Card card();
-
-	public abstract CardPair cards();
 	
+	@Override
 	public abstract boolean isStandalone();
 
 	@Override public String toString() {
@@ -106,18 +104,18 @@ public abstract class WholeCard
 		StandaloneCard(ImmutableSet<Color> colorIdentity, Card.Builder only) {
 			super(colorIdentity);
 			only.setWhole(this);
-			this.card = only.buildCard();
+			this.card = only.build();
 		}
 
 		@Override public String name() {
 			return card.name();
 		}
 
-		@Override public Card card() {
+		@Override public Card only() {
 			return card;
 		}
 
-		@Override public CardPair cards() {
+		@Override public CardPair pair() {
 			throw new IllegalStateException();
 		}
 
@@ -150,11 +148,11 @@ public abstract class WholeCard
 			return cards.names();
 		}
 
-		@Override public Card card() {
+		@Override public Card only() {
 			throw new IllegalStateException();
 		}
 
-		@Override public CardPair cards() {
+		@Override public CardPair pair() {
 			return cards;
 		}
 

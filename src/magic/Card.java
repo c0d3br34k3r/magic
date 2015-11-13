@@ -10,10 +10,13 @@ import com.google.common.base.MoreObjects;
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 
-public final class Card implements Comparable<Card> {
+import magic.base.Link;
+import magic.base.Partial;
+
+public final class Card extends Partial<Card> implements Comparable<Card> {
 
 	private final WholeCard whole;
-	private final @Nullable Link link;
+	private final @Nullable Link<Card> link;
 	private final String name;
 	private final ManaCost manaCost;
 	private final @Nullable ImmutableSet<Color> colorOverride;
@@ -93,11 +96,11 @@ public final class Card implements Comparable<Card> {
 		return MoreObjects.firstNonNull(colorOverride, manaCost.colors());
 	}
 
-	public WholeCard whole() {
+	@Override public WholeCard whole() {
 		return whole;
 	}
 
-	public @Nullable Link link() {
+	@Override public @Nullable Link<Card> link() {
 		return link;
 	}
 
@@ -228,7 +231,7 @@ public final class Card implements Comparable<Card> {
 			this.whole = whole;
 		}
 
-		Card buildCard() {
+		Card build() {
 			return new Card(this);
 		}
 
@@ -240,14 +243,14 @@ public final class Card implements Comparable<Card> {
 			return other;
 		}
 
-		private Link buildLink(Card partiallyBuilt) {
+		private Link<Card> buildLink(Card partiallyBuilt) {
 			if (linked != null) {
 				linked.other = partiallyBuilt;
-				other = linked.buildCard();
-				return new Link(other, true);
+				other = linked.build();
+				return new Link<Card>(other, true);
 			}
 			if (other != null) {
-				return new Link(other, false);
+				return new Link<Card>(other, false);
 			}
 			return null;
 		}
