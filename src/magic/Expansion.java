@@ -1,6 +1,7 @@
 package magic;
 
 import java.util.List;
+import java.util.Objects;
 
 import org.joda.time.LocalDate;
 
@@ -144,27 +145,27 @@ public final class Expansion implements Comparable<Expansion> {
 
 		public Builder setPrintings(
 				ImmutableListMultimap<WholeCard, WholePrinting> cards) {
-			this.printings = cards;
+			this.printings = Objects.requireNonNull(cards);
 			return this;
 		}
 
 		public Builder setCode(String code) {
-			this.code = code;
+			this.code = Objects.requireNonNull(code);
 			return this;
 		}
 
 		public Builder setReleaseDate(LocalDate releaseDate) {
-			this.releaseDate = releaseDate;
+			this.releaseDate = Objects.requireNonNull(releaseDate);
 			return this;
 		}
 
 		public Builder setType(ReleaseType type) {
-			this.type = type;
+			this.type = Objects.requireNonNull(type);
 			return this;
 		}
 
 		public Builder setBorderColor(BorderColor borderColor) {
-			this.borderColor = borderColor;
+			this.borderColor = Objects.requireNonNull(borderColor);
 			return this;
 		}
 

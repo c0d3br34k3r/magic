@@ -2,6 +2,7 @@ package magic;
 
 import java.io.IOException;
 import java.util.Iterator;
+import java.util.Objects;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
@@ -135,12 +136,12 @@ public abstract class WholeCard extends Whole<Card>
 		private Builder() {}
 
 		public Builder setColorIdentity(ImmutableSet<Color> colorIdentity) {
-			this.colorIdentity = colorIdentity;
+			this.colorIdentity = Objects.requireNonNull(colorIdentity);
 			return this;
 		}
 
 		public Builder setLayout(Layout layout) {
-			this.layout = layout;
+			this.layout = Objects.requireNonNull(layout);
 			return this;
 		}
 
@@ -150,8 +151,7 @@ public abstract class WholeCard extends Whole<Card>
 		}
 
 		public Builder setFirst(Card.Builder first) {
-			this.firstOrOnly = first;
-			return this;
+			return setOnly(first);
 		}
 
 		public Builder setSecond(Card.Builder second) {

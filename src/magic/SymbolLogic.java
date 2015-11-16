@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.Set;
 
 import com.google.common.base.CaseFormat;
+import com.google.common.base.Converter;
 import com.google.common.base.Strings;
 import com.google.common.collect.ImmutableSet;
 
@@ -26,17 +27,21 @@ abstract class SymbolLogic {
 		this(ImmutableSet.of(only), converted, representation);
 	}
 
-	private SymbolLogic(Color first, Color second, int converted, String representation) {
+	private SymbolLogic(Color first, Color second, int converted,
+			String representation) {
 		this(ImmutableSet.of(first, second), converted, representation);
 	}
 
-	private SymbolLogic(ImmutableSet<Color> colors, int converted, String representation) {
+	private SymbolLogic(ImmutableSet<Color> colors,
+			int converted,
+			String representation) {
 		this.colors = colors;
 		this.converted = converted;
 		this.representation = representation;
-		this.group = ManaSymbol.Group.valueOf(
-				CaseFormat.UPPER_CAMEL.converterTo(CaseFormat.UPPER_UNDERSCORE)
-						.convert(getClass().getSimpleName()));
+		Converter<String, String> converter =
+				CaseFormat.UPPER_CAMEL.converterTo(CaseFormat.UPPER_UNDERSCORE);
+		this.group = ManaSymbol.Group
+				.valueOf(converter.convert(getClass().getSimpleName()));
 	}
 
 	int converted() {
@@ -61,6 +66,10 @@ abstract class SymbolLogic {
 		for (int i = 0; i < occurences; i++) {
 			builder.append(this.toString());
 		}
+	}
+
+	ManaSymbol.Group group() {
+		return group;
 	}
 
 	static class Generic extends SymbolLogic {
@@ -115,7 +124,8 @@ abstract class SymbolLogic {
 	static final class Hybrid extends SymbolLogic {
 
 		Hybrid(Color first, Color second) {
-			super(first, second, 1, String.format("{%c/%c}", first.code(), second.code()));
+			super(first, second, 1,
+					String.format("{%c/%c}", first.code(), second.code()));
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
@@ -161,10 +171,6 @@ abstract class SymbolLogic {
 		@Override boolean payableWith(Set<Color> mana) {
 			return true;
 		}
-	}
-
-	ManaSymbol.Group group() {
-		return group;
 	}
 
 }

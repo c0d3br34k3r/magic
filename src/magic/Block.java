@@ -1,5 +1,7 @@
 package magic;
 
+import java.util.Objects;
+
 import org.joda.time.LocalDate;
 
 import com.google.common.collect.ImmutableList;
@@ -13,9 +15,9 @@ public final class Block implements Comparable<Block> {
 	public Block(String name, 
 			LocalDate date,
 			ImmutableList<Expansion> expansions) {
-		this.name = name;
-		this.date = date;
-		this.expansions = expansions;
+		this.name = Objects.requireNonNull(name);
+		this.date = Objects.requireNonNull(date);
+		this.expansions = Objects.requireNonNull(expansions);
 	}
 
 	public String name() {

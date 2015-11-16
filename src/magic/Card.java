@@ -1,13 +1,13 @@
 package magic;
 
 import java.io.IOException;
+import java.util.Objects;
 import java.util.Set;
 
 import javax.annotation.Nullable;
 
 import com.google.common.base.Joiner;
 import com.google.common.base.MoreObjects;
-import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 
 public final class Card extends Partial<Card>implements Comparable<Card> {
@@ -153,7 +153,7 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 			throw new AssertionError(impossible);
 		}
 	}
-	
+
 	public static Builder builder() {
 		return new Builder();
 	}
@@ -174,52 +174,52 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 		public Builder() {}
 
 		public Builder setName(String name) {
-			this.name = Preconditions.checkNotNull(name);
+			this.name = Objects.requireNonNull(name);
 			return this;
 		}
 
 		public Builder setManaCost(ManaCost manaCost) {
-			this.manaCost = Preconditions.checkNotNull(manaCost);
+			this.manaCost = Objects.requireNonNull(manaCost);
 			return this;
 		}
 
 		public Builder setColorOverride(ImmutableSet<Color> colorOverride) {
-			this.colorOverride = Preconditions.checkNotNull(colorOverride);
+			this.colorOverride = colorOverride;
 			return this;
 		}
 
 		public Builder setSupertypes(ImmutableSet<Supertype> supertypes) {
-			this.supertypes = Preconditions.checkNotNull(supertypes);
+			this.supertypes = Objects.requireNonNull(supertypes);
 			return this;
 		}
 
 		public Builder setTypes(ImmutableSet<Type> types) {
-			this.types = Preconditions.checkNotNull(types);
+			this.types = Objects.requireNonNull(types);
 			return this;
 		}
 
 		public Builder setSubtypes(ImmutableSet<String> subtypes) {
-			this.subtypes = Preconditions.checkNotNull(subtypes);
+			this.subtypes = Objects.requireNonNull(subtypes);
 			return this;
 		}
 
 		public Builder setText(String text) {
-			this.text = Preconditions.checkNotNull(text);
+			this.text = Objects.requireNonNull(text);
 			return this;
 		}
 
 		public Builder setPower(Expression power) {
-			this.power = Preconditions.checkNotNull(power);
+			this.power = power;
 			return this;
 		}
 
 		public Builder setToughness(Expression toughness) {
-			this.toughness = Preconditions.checkNotNull(toughness);
+			this.toughness = toughness;
 			return this;
 		}
 
 		public Builder setLoyalty(Integer loyalty) {
-			this.loyalty = Preconditions.checkNotNull(loyalty);
+			this.loyalty = loyalty;
 			return this;
 		}
 

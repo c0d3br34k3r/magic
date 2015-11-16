@@ -5,7 +5,7 @@ public class Link<P extends Partial<P>> {
 	private final P linked;
 	private final boolean isFirstHalf;
 
-	public Link(P linked, boolean isFirstHalf) {
+	Link(P linked, boolean isFirstHalf) {
 		this.linked = linked;
 		this.isFirstHalf = isFirstHalf;
 	}

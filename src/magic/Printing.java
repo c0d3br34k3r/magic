@@ -1,6 +1,7 @@
 package magic;
 
 import java.io.IOException;
+import java.util.Objects;
 
 import javax.annotation.Nullable;
 
@@ -122,12 +123,12 @@ public final class Printing extends Partial<Printing> {
 		private Builder() {}
 
 		public Builder setCard(Card card) {
-			this.card = card;
+			this.card = Objects.requireNonNull(card);
 			return this;
 		}
 
 		public Builder setFlavorText(String flavorText) {
-			this.flavorText = flavorText;
+			this.flavorText = Objects.requireNonNull(flavorText);
 			return this;
 		}
 
@@ -142,7 +143,7 @@ public final class Printing extends Partial<Printing> {
 		}
 
 		public Builder setArtist(String artist) {
-			this.artist = artist;
+			this.artist = Objects.requireNonNull(artist);
 			return this;
 		}
 

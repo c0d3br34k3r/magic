@@ -3,6 +3,7 @@ package magic;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.util.Iterator;
+import java.util.Objects;
 
 import com.google.common.collect.Iterators;
 
@@ -138,17 +139,17 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		public Builder setRarity(Rarity rarity) {
-			this.rarity = rarity;
+			this.rarity = Objects.requireNonNull(rarity);
 			return this;
 		}
 
 		public Builder setExpansion(Expansion expansion) {
-			this.expansion = expansion;
+			this.expansion = Objects.requireNonNull(expansion);
 			return this;
 		}
 
 		public Builder setCard(WholeCard card) {
-			this.card = card;
+			this.card = Objects.requireNonNull(card);
 			return this;
 		}
 		
@@ -158,8 +159,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		public Builder setFirst(Printing.Builder first) {
-			this.firstOrOnly = first;
-			return this;
+			return setOnly(first);
 		}
 
 		public Builder setSecond(Printing.Builder second) {
