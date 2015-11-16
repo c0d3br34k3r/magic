@@ -13,4 +13,12 @@ public class PrintingPair extends Pair<Printing> {
 		return cards;
 	}
 	
+	public String names() {
+		return cards.layout().formatNames(first().card().name(), second().card().name());
+	}
+
+	@Override public String toString() {
+		return names();
+	}
+	
 }

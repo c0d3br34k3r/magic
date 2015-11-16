@@ -16,4 +16,9 @@ public final class CardPair extends Pair<Card> {
 	public String names() {
 		return layout.formatNames(first().name(), second().name());
 	}
+
+	@Override public String toString() {
+		return names();
+	}
+
 }

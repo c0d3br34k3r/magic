@@ -48,7 +48,7 @@ public abstract class Database {
 	public Set<Card> cardsIn(Collection<Expansion> expansions) {
 		ImmutableSortedSet.Builder<Card> builder = ImmutableSortedSet.naturalOrder();
 		for (Expansion expansion : expansions) {
-			builder.addAll(Iterables.concat(expansion.cards().keySet()));
+			builder.addAll(Iterables.concat(expansion.printings().keySet()));
 		}
 		ImmutableSet<Card> result = builder.build();
 		return result;

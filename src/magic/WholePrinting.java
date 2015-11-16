@@ -48,7 +48,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 
 	public abstract void writeTo(PrintStream out) throws IOException;
 	
-	public Builder builder() {
+	public static Builder builder() {
 		return new Builder();
 	}
 
@@ -172,8 +172,12 @@ public abstract class WholePrinting extends Whole<Printing> {
 				if (second != null) {
 					throw new IllegalStateException();
 				}
+				firstOrOnly.setCard(card.only());
 				return new StandalonePrinting(this, firstOrOnly);
 			}
+			CardPair pair = card.pair();
+			firstOrOnly.setCard(pair.first());
+			second.setCard(pair.second());
 			return new CompositePrinting(this, firstOrOnly, second);
 		}
 	}

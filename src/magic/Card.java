@@ -28,7 +28,7 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 	private Card(Builder builder) {
 		this.whole = builder.getWhole();
 		this.link = builder.buildLink(this);
-		
+
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
 		this.colorOverride = builder.colorOverride;
@@ -114,7 +114,7 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 
 	public void writeTo(Appendable out) throws IOException {
 		String newline = System.lineSeparator();
-		out.append(name());
+		out.append(name);
 		if (!manaCost.isEmpty()) {
 			out.append(' ').append(manaCost.toString());
 		}
@@ -127,22 +127,22 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 			out.append(") ");
 		}
 		if (!supertypes.isEmpty()) {
-			SPACE_JOINER.appendTo(out, supertypes()).append(' ');
+			SPACE_JOINER.appendTo(out, supertypes).append(' ');
 		}
 		SPACE_JOINER.appendTo(out, types);
 		if (!subtypes.isEmpty()) {
 			out.append(" - ");
-			SPACE_JOINER.appendTo(out, subtypes());
+			SPACE_JOINER.appendTo(out, subtypes);
 		}
 		out.append(newline);
 		if (!text.isEmpty()) {
-			out.append(text()).append(newline);
+			out.append(text).append(newline);
 		}
 		if (power != null) {
-			out.append(power().toString()).append('/')
+			out.append(power.toString()).append('/')
 					.append(toughness.toString()).append(newline);
 		} else if (loyalty != null) {
-			out.append(Integer.toString(loyalty())).append(newline);
+			out.append(Integer.toString(loyalty)).append(newline);
 		}
 	}
 
@@ -152,6 +152,10 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 		} catch (IOException impossible) {
 			throw new AssertionError(impossible);
 		}
+	}
+	
+	public static Builder builder() {
+		return new Builder();
 	}
 
 	public static class Builder extends magic.PartialBuilder<Card, WholeCard> {
@@ -219,13 +223,9 @@ public final class Card extends Partial<Card>implements Comparable<Card> {
 			return this;
 		}
 
-		@Override public Card build() {
+		@Override Card build() {
 			return new Card(this);
 		}
-	}
-
-	public static Builder builder() {
-		return new Builder();
 	}
 
 }

@@ -5,7 +5,6 @@ import java.util.List;
 import org.joda.time.LocalDate;
 
 import com.google.common.collect.ImmutableListMultimap;
-import com.google.common.collect.ListMultimap;
 
 /**
  * An object containing the attributes of expansion. It does not, however,
@@ -19,19 +18,27 @@ import com.google.common.collect.ListMultimap;
 public final class Expansion implements Comparable<Expansion> {
 
 	private final String name;
-	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
 	private final String code;
+	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
 	private final LocalDate releaseDate;
-	private final Release type;
+	private final ReleaseType type;
 	private final BorderColor borderColor;
 	private final boolean hasCollectorNumbers;
 	private final boolean isPhysical;
 	private final boolean hasBooster;
-	
-	private Expansion() {
-		
+
+	private Expansion(Builder builder) {
+		this.name = builder.name;
+		this.code = builder.code;
+		this.printings = builder.printings;
+		this.releaseDate = builder.releaseDate;
+		this.type = builder.type;
+		this.borderColor = builder.borderColor;
+		this.hasCollectorNumbers = builder.hasCollectorNumbers;
+		this.isPhysical = builder.isPhysical;
+		this.hasBooster = builder.hasBooster;
 	}
-	
+
 	public String name() {
 		return name;
 	}
@@ -39,7 +46,7 @@ public final class Expansion implements Comparable<Expansion> {
 	public ImmutableListMultimap<WholeCard, WholePrinting> printings() {
 		return printings;
 	}
-	
+
 	public List<WholePrinting> printingsOf(WholeCard wholeCard) {
 		return printings.get(wholeCard);
 	}
@@ -52,7 +59,7 @@ public final class Expansion implements Comparable<Expansion> {
 		return releaseDate;
 	}
 
-	public Release type() {
+	public ReleaseType type() {
 		return type;
 	}
 
@@ -91,215 +98,91 @@ public final class Expansion implements Comparable<Expansion> {
 		return result;
 	}
 
-	/**
-	 * The two possible colors of a card's border.
-	 */
+	public static Builder builder() {
+		return new Builder();
+	}
+
 	public enum BorderColor {
-		BLACK("Black"),
-		WHITE("White");
-
-		private final String name;
-
-		private BorderColor(String name) {
-			this.name = name;
-		}
-
-		@Override public String toString() {
-			return name;
-		}
+		BLACK,
+		WHITE;
 	}
 
-	/**
-	 * All types of releases.
-	 */
-	public enum Release {
+	public enum ReleaseType {
 
-		/**
-		 * Used for Core Set releases.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Limited Alpha Edition</li>
-		 * <li>Ninth Edition</li>
-		 * <li>Magic 2012</li>
-		 * </ul>
-		 */
-		CORE_SET("Core Set"),
-
-		/**
-		 * Used for non-core set releases that contribute to the standard
-		 * environment. Expansions from Ice Age forward are always part of a
-		 * block.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>The Dark</li>
-		 * <li>Urza's Saga</li>
-		 * <li>Zendikar</li>
-		 * </ul>
-		 */
-		EXPANSION("Expansion"),
-
-		/**
-		 * Used for booster expansions of reprints.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Chronicles</li>
-		 * <li>Modern Masters</li>
-		 * </ul>
-		 */
-		REPRINT("Reprint"),
-
-		/**
-		 * Used to denote the "expansion" containing the six cards that were
-		 * originally printed for promotions.
-		 * <p>
-		 * These cards are:
-		 * <ul>
-		 * <li>Arena</li>
-		 * <li>Giant Badger</li>
-		 * <li>Mana Crypt</li>
-		 * <li>Nalathni Dragon</li>
-		 * <li>Sewers of Estark</li>
-		 * <li>Windseeker Centaur</li>
-		 * </ul>
-		 */
-		PROMOTIONAL("Promotional"),
-
-		/**
-		 * Used for releases of starter-level cards.
-		 * 
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Portal</li>
-		 * <li>Portal Three Kingdoms</li>
-		 * <li>Starter 2000</li>
-		 * </ul>
-		 */
-		STARTER("Starter"),
-
-		/**
-		 * Used for releases of special preconstructed decks.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Battle Royale Box Set</li>
-		 * <li>Deckmasters</li>
-		 * <li>Modern Event Deck 2014</li>
-		 * </ul>
-		 */
-		BOX("Box"),
-
-		/**
-		 * Used for Duel Decks releases.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Duel Decks: Elves vs. Goblins</li>
-		 * <li>Duel Decks: Phyrexia vs. the Coalition</li>
-		 * <li>Duel Decks: Sorin vs. Tibalt</li>
-		 * </ul>
-		 * 
-		 */
-		DUEL_DECKS("Duel Decks"),
-
-		/**
-		 * Used for Masters Edition releases. Masters Edition expansions are
-		 * online only.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Masters Edition</li>
-		 * <li>Masters Edition II</li>
-		 * <li>Vintage Masters</li>
-		 * </ul>
-		 */
-		MASTERS_EDITION("Masters Edition"),
-
-		/**
-		 * Used for From the Vault releases.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>From the Vault: Dragons</li>
-		 * <li>From the Vault: Legends</li>
-		 * <li>From the Vault: Twenty</li>
-		 * </ul>
-		 */
-		FROM_THE_VAULT("From the Vault"),
-
-		/**
-		 * Used for the (discontinued) Premium Deck Series releases.
-		 * <p>
-		 * Examples (the only ones):
-		 * <ul>
-		 * <li>Premium Deck Series: Slivers</li>
-		 * <li>Premium Deck Series: Fire and Lightning</li>
-		 * <li>Premium Deck Series: Graveborn</li>
-		 * </ul>
-		 */
-		PREMIUM_DECK_SERIES("Premium Deck Series"),
-
-		/**
-		 * Used for Planechase releases.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Planechase</li>
-		 * <li>Planechase 2012 Edition</li>
-		 * </ul>
-		 */
-		PLANECHASE("Planechase"),
-
-		/**
-		 * Used for the Archenemy release.
-		 */
-		ARCHENEMY("Archenemy"),
-
-		/**
-		 * Used for releases of Commander products.
-		 * <p>
-		 * Examples:
-		 * <ul>
-		 * <li>Magic: The Gathering-Commander</li>
-		 * <li>Commander's Arsenal</li>
-		 * <li>Commander 2013 Edition</li>
-		 * </ul>
-		 */
-		COMMANDER("Commander"),
-
-		/**
-		 * Used for the Conspiracy release.
-		 */
-		CONSPIRACY("Conspiracy"),;
-
-		private final String name;
-
-		private Release(String name) {
-			this.name = name;
-
-		}
-
-		/**
-		 * Returns a title-case representation of this release type.
-		 */
-		@Override public String toString() {
-			return name;
-		}
+		CORE_SET,
+		EXPANSION,
+		PROMOTIONAL,
+		DUEL_DECKS,
+		PORTAL,
+		STARTER,
+		MASTERS_EDITION,
+		FROM_THE_VAULT,
+		PREMIUM_DECK_SERIES,
+		COMMANDER,
+		PLANECHASE,
+		OTHER;
 	}
-	
+
 	public static class Builder {
+
 		private String name;
-		private ListMultimap<WholeCard, WholePrinting> cards;
+		private ImmutableListMultimap<WholeCard, WholePrinting> printings;
 		private String code;
 		private LocalDate releaseDate;
-		private Release type;
+		private ReleaseType type;
 		private BorderColor borderColor;
 		private boolean hasCollectorNumbers;
 		private boolean isPhysical;
 		private boolean hasBooster;
+
+		private Builder() {}
+		
+		public Builder setName(String name) {
+			this.name = name;
+			return this;
+		}
+
+		public Builder setPrintings(
+				ImmutableListMultimap<WholeCard, WholePrinting> cards) {
+			this.printings = cards;
+			return this;
+		}
+
+		public Builder setCode(String code) {
+			this.code = code;
+			return this;
+		}
+
+		public Builder setReleaseDate(LocalDate releaseDate) {
+			this.releaseDate = releaseDate;
+			return this;
+		}
+
+		public Builder setType(ReleaseType type) {
+			this.type = type;
+			return this;
+		}
+
+		public Builder setBorderColor(BorderColor borderColor) {
+			this.borderColor = borderColor;
+			return this;
+		}
+
+		public Builder setHasCollectorNumbers(boolean hasCollectorNumbers) {
+			this.hasCollectorNumbers = hasCollectorNumbers;
+			return this;
+		}
+
+		public Builder setPhysical(boolean isPhysical) {
+			this.isPhysical = isPhysical;
+			return this;
+		}
+
+		public Builder setHasBooster(boolean hasBooster) {
+			this.hasBooster = hasBooster;
+			return this;
+		}
+
 	}
 
 }

@@ -10,7 +10,7 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
 	// each linked builder sets this field for the other
 	private @Nullable P other;
 
-	public abstract P build();
+	abstract P build();
 
 	void setWhole(W whole) {
 		this.whole = whole;

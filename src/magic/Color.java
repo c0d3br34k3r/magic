@@ -1,6 +1,7 @@
 package magic;
 
 import java.util.EnumSet;
+import java.util.Iterator;
 import java.util.Set;
 
 import magic.misc.EnumSetInterner;
@@ -92,11 +93,12 @@ public enum Color {
 	 * Returns a String of the color codes in this set of colors.
 	 */
 	public static String toString(Set<Color> colors) {
-		StringBuilder builder = new StringBuilder();
-		for (Color color : colors) {
-			builder.append(color.code);
+		char[] buf = new char[colors.size()];
+		Iterator<Color> it = colors.iterator();
+		for (int i = 0; i < buf.length; i++) {
+			buf[i] = it.next().code;
 		}
-		return builder.toString();
+		return new String(buf);
 	}
 
 	public static Color forCode(char letter) {

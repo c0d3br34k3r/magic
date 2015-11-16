@@ -1,10 +1,8 @@
 package magic.misc;
 
 import java.util.Collection;
-import java.util.Collections;
 import java.util.Iterator;
 import java.util.Map.Entry;
-import java.util.Set;
 import java.util.regex.Pattern;
 
 import com.google.common.base.Predicate;
@@ -12,7 +10,6 @@ import com.google.common.collect.Iterables;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 import com.google.common.collect.Ordering;
-import com.google.common.collect.Sets;
 
 import magic.Card;
 import magic.Expansion;
@@ -75,7 +72,7 @@ public final class Cards {
 
 	private static Section section(Card c) {
 		if (c.link() != null
-				&& c.whole().cards().layout() == Layout.SPLIT
+				&& c.whole().pair().layout() == Layout.SPLIT
 				&& !c.colors().equals(c.link().get().colors())) {
 			return Section.SPLIT;
 		}
@@ -139,7 +136,7 @@ public final class Cards {
 		for (;;) {
 			Entry<Expansion, ? extends Collection<? extends Printing>> entry = it.next();
 			builder.append(entry.getKey().code()).append(':')
-					.append(entry.getValue().iterator().next().rarity().code());
+					.append(entry.getValue().iterator().next().whole().rarity().code());
 			if (entry.getValue().size() > 1) {
 				builder.append('(').append(entry.getValue().size()).append(')');
 			}

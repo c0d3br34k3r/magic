@@ -1,9 +1,10 @@
 package magic;
 
 import java.io.IOException;
-import java.io.PrintStream;
 
 import javax.annotation.Nullable;
+
+import com.google.common.base.Joiner;
 
 public final class Printing extends Partial<Printing> {
 
@@ -18,10 +19,10 @@ public final class Printing extends Partial<Printing> {
 
 	private Printing(Builder builder) {
 		this.card = builder.card;
-		
+
 		this.link = builder.buildLink(this);
 		this.whole = builder.getWhole();
-		
+
 		this.flavorText = builder.flavorText;
 		this.collectorNumber = builder.collectorNumber;
 		this.variation = builder.variation;
@@ -61,11 +62,55 @@ public final class Printing extends Partial<Printing> {
 		return link;
 	}
 
-	public void writeTo(PrintStream out) throws IOException {
+	private static final Joiner SPACE_JOINER = Joiner.on(' ');
 
+	public void writeTo(Appendable out) throws IOException {
+		String newline = System.lineSeparator();
+		out.append(card.name());
+		if (!card.manaCost().isEmpty()) {
+			out.append(' ').append(card.manaCost().toString());
+		}
+		out.append(newline);
+		if (card.colorOverride() != null && !card.colorOverride().isEmpty()) {
+			out.append('(');
+			for (Color color : card.colorOverride()) {
+				out.append(color.code());
+			}
+			out.append(") ");
+		}
+		if (!card.supertypes().isEmpty()) {
+			SPACE_JOINER.appendTo(out, card.supertypes()).append(' ');
+		}
+		SPACE_JOINER.appendTo(out, card.types());
+		if (!card.subtypes().isEmpty()) {
+			out.append(" - ");
+			SPACE_JOINER.appendTo(out, card.subtypes());
+		}
+		out.append(whole.expansion().code()).append(':')
+				.append(whole.rarity().code());
+		out.append(newline);
+		if (!card.text().isEmpty()) {
+			out.append(card.text()).append(newline);
+		}
+		if (!flavorText.isEmpty()) {
+			out.append('/').append(flavorText).append('/').append(newline);
+		}
+		if (card.power() != null) {
+			out.append(card.power().toString()).append('/')
+					.append(card.toughness().toString()).append(newline);
+		} else if (card.loyalty() != null) {
+			out.append(Integer.toString(card.loyalty())).append(newline);
+		}
+		out.append(newline);
+		out.append("Illus. ").append(artist);
 	}
 
-	public static final class Builder extends magic.PartialBuilder<Printing, WholePrinting> {
+	public static Builder builder() {
+		return new Builder();
+	}
+
+	public static final class Builder
+			extends magic.PartialBuilder<Printing, WholePrinting> {
 
 		private Card card;
 		private String flavorText = "";
@@ -73,6 +118,8 @@ public final class Printing extends Partial<Printing> {
 		private int variation;
 		private String artist;
 		private String watermark = null;
+
+		private Builder() {}
 
 		public Builder setCard(Card card) {
 			this.card = card;
@@ -104,7 +151,7 @@ public final class Printing extends Partial<Printing> {
 			return this;
 		}
 
-		@Override public Printing build() {
+		@Override Printing build() {
 			return new Printing(this);
 		}
 	}

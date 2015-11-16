@@ -18,11 +18,10 @@ public class Json {
 				.value(Color.toString(whole.colorIdentity()));
 		if (whole.isStandalone()) {
 			writer.name("only");
-			write(whole.card(), writer);
+			write(whole.only(), writer);
 		} else {
-			CardPair cards = whole.cards();
-			writer.name("layout")
-					.value(cards.layout().name());
+			CardPair cards = whole.pair();
+			writer.name("layout").value(cards.layout().name());
 			writer.name("first");
 			write(cards.first(), writer);
 			writer.name("second");
@@ -38,9 +37,9 @@ public class Json {
 			writer.name("manaCost").value(card.manaCost().toString());
 		}
 		if (card.colorOverride() != null) {
-			
+
 		}
-		
+
 		writer.endObject();
 	}
 
