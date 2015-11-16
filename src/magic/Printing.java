@@ -5,9 +5,6 @@ import java.io.PrintStream;
 
 import javax.annotation.Nullable;
 
-import magic.base.Link;
-import magic.base.Partial;
-
 public final class Printing extends Partial<Printing> {
 
 	private final Card card;
@@ -21,7 +18,10 @@ public final class Printing extends Partial<Printing> {
 
 	private Printing(Builder builder) {
 		this.card = builder.card;
-		this.whole = builder.whole;
+		
+		this.link = builder.buildLink(this);
+		this.whole = builder.getWhole();
+		
 		this.flavorText = builder.flavorText;
 		this.collectorNumber = builder.collectorNumber;
 		this.variation = builder.variation;
@@ -65,7 +65,7 @@ public final class Printing extends Partial<Printing> {
 
 	}
 
-	public static final class Builder {
+	public static final class Builder extends magic.PartialBuilder<Printing, WholePrinting> {
 
 		private Card card;
 		private String flavorText = "";
@@ -73,12 +73,6 @@ public final class Printing extends Partial<Printing> {
 		private int variation;
 		private String artist;
 		private String watermark = null;
-
-		private WholePrinting whole;
-		// only the first half will set this
-		private @Nullable Builder linked;
-		// each linked builder sets this field for the other
-		private @Nullable Printing other;
 
 		public Builder setCard(Card card) {
 			this.card = card;
@@ -110,8 +104,8 @@ public final class Printing extends Partial<Printing> {
 			return this;
 		}
 
-		void setWhole(WholePrinting whole) {
-			this.whole = whole;
+		@Override public Printing build() {
+			return new Printing(this);
 		}
 	}
 

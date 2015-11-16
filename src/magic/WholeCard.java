@@ -7,15 +7,13 @@ import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
 
-import magic.base.Whole;
-
 public abstract class WholeCard extends Whole<Card>
-		implements Comparable<WholeCard>, Iterable<Card> {
+		implements Comparable<WholeCard> {
 
 	private final ImmutableSet<Color> colorIdentity;
 
-	private WholeCard(ImmutableSet<Color> colorIdentity) {
-		this.colorIdentity = Preconditions.checkNotNull(colorIdentity);
+	private WholeCard(Builder builder) {
+		this.colorIdentity = Preconditions.checkNotNull(builder.colorIdentity);
 	}
 
 	public ImmutableSet<Color> colorIdentity() {
@@ -23,9 +21,10 @@ public abstract class WholeCard extends Whole<Card>
 	}
 
 	public abstract String name();
-	
-	@Override
-	public abstract boolean isStandalone();
+
+	@Override public abstract CardPair pair();
+
+	@Override public abstract boolean isStandalone();
 
 	@Override public String toString() {
 		return name();
@@ -48,61 +47,13 @@ public abstract class WholeCard extends Whole<Card>
 	public static Builder builder() {
 		return new Builder();
 	}
-	
-	public static class Builder {
-
-		private Builder() {}
-		
-		private Layout layout;
-		private Card.Builder firstOrOnly;
-		private Card.Builder second;
-		private ImmutableSet<Color> colorIdentity;
-
-		public Builder setLayout(Layout layout) {
-			this.layout = layout;
-			return this;
-		}
-
-		public Builder setOnly(Card.Builder only) {
-			this.firstOrOnly = only;
-			return this;
-		}
-
-		public Builder setFirst(Card.Builder first) {
-			this.firstOrOnly = first;
-			return this;
-		}
-
-		public Builder setSecond(Card.Builder second) {
-			this.second = second;
-			return this;
-		}
-
-		public Builder setColorIdentity(ImmutableSet<Color> colorIdentity) {
-			this.colorIdentity = colorIdentity;
-			return this;
-		}
-
-		public WholeCard build() {
-			if (layout == null) {
-				if (second != null) {
-					throw new IllegalStateException();
-				}
-				return new StandaloneCard(colorIdentity, firstOrOnly);
-			}
-			return new CompositeCard(colorIdentity,
-					layout,
-					firstOrOnly,
-					second);
-		}
-	}
 
 	private static class StandaloneCard extends WholeCard {
 
 		private final Card card;
 
-		StandaloneCard(ImmutableSet<Color> colorIdentity, Card.Builder only) {
-			super(colorIdentity);
+		StandaloneCard(Builder builder, Card.Builder only) {
+			super(builder);
 			only.setWhole(this);
 			this.card = only.build();
 		}
@@ -136,12 +87,12 @@ public abstract class WholeCard extends Whole<Card>
 
 		private final CardPair cards;
 
-		CompositeCard(ImmutableSet<Color> colorIdentity, Layout layout,
-				Card.Builder first, Card.Builder second) {
-			super(colorIdentity);
-			first.setWhole(this);
-			second.setWhole(this);
-			this.cards = new CardPair(layout, first, second);
+		CompositeCard(Builder builder, Card.Builder first,
+				Card.Builder second) {
+			super(builder);
+			PartialBuilder.link(first, second, this);
+			this.cards = new CardPair(builder.layout, first.build(),
+					first.getOther());
 		}
 
 		@Override public String name() {
@@ -171,6 +122,51 @@ public abstract class WholeCard extends Whole<Card>
 
 		@Override public boolean isStandalone() {
 			return false;
+		}
+	}
+
+	public static class Builder {
+
+		private Layout layout;
+		private Card.Builder firstOrOnly;
+		private Card.Builder second;
+		private ImmutableSet<Color> colorIdentity;
+
+		private Builder() {}
+
+		public Builder setColorIdentity(ImmutableSet<Color> colorIdentity) {
+			this.colorIdentity = colorIdentity;
+			return this;
+		}
+
+		public Builder setLayout(Layout layout) {
+			this.layout = layout;
+			return this;
+		}
+
+		public Builder setOnly(Card.Builder only) {
+			this.firstOrOnly = only;
+			return this;
+		}
+
+		public Builder setFirst(Card.Builder first) {
+			this.firstOrOnly = first;
+			return this;
+		}
+
+		public Builder setSecond(Card.Builder second) {
+			this.second = second;
+			return this;
+		}
+
+		public WholeCard build() {
+			if (layout == null) {
+				if (second != null) {
+					throw new IllegalStateException();
+				}
+				return new StandaloneCard(this, firstOrOnly);
+			}
+			return new CompositeCard(this, firstOrOnly, second);
 		}
 	}
 

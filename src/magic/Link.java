@@ -1,16 +1,16 @@
-package magic.base;
+package magic;
 
-public class Link<T> {
+public class Link<P extends Partial<P>> {
 
-	private final T linked;
+	private final P linked;
 	private final boolean isFirstHalf;
 
-	public Link(T linked, boolean isFirstHalf) {
+	public Link(P linked, boolean isFirstHalf) {
 		this.linked = linked;
 		this.isFirstHalf = isFirstHalf;
 	}
 
-	public T get() {
+	public P get() {
 		return linked;
 	}
 

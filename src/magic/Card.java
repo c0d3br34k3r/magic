@@ -10,10 +10,7 @@ import com.google.common.base.MoreObjects;
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 
-import magic.base.Link;
-import magic.base.Partial;
-
-public final class Card extends Partial<Card> implements Comparable<Card> {
+public final class Card extends Partial<Card>implements Comparable<Card> {
 
 	private final WholeCard whole;
 	private final @Nullable Link<Card> link;
@@ -29,8 +26,9 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 	private final @Nullable Integer loyalty;
 
 	private Card(Builder builder) {
-		this.whole = builder.whole;
+		this.whole = builder.getWhole();
 		this.link = builder.buildLink(this);
+		
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
 		this.colorOverride = builder.colorOverride;
@@ -156,7 +154,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		}
 	}
 
-	public static class Builder {
+	public static class Builder extends magic.PartialBuilder<Card, WholeCard> {
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
@@ -168,12 +166,6 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		private @Nullable Expression power = null;
 		private @Nullable Expression toughness = null;
 		private @Nullable Integer loyalty = null;
-
-		private WholeCard whole;
-		// only the first half will set this
-		private @Nullable Builder linked;
-		// each linked builder sets this field for the other
-		private @Nullable Card other;
 
 		public Builder() {}
 
@@ -227,32 +219,8 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 			return this;
 		}
 
-		void setWhole(WholeCard whole) {
-			this.whole = whole;
-		}
-
-		Card build() {
+		@Override public Card build() {
 			return new Card(this);
-		}
-
-		void setLinked(Builder linked) {
-			this.linked = linked;
-		}
-
-		Card getOther() {
-			return other;
-		}
-
-		private Link<Card> buildLink(Card partiallyBuilt) {
-			if (linked != null) {
-				linked.other = partiallyBuilt;
-				other = linked.build();
-				return new Link<Card>(other, true);
-			}
-			if (other != null) {
-				return new Link<Card>(other, false);
-			}
-			return null;
 		}
 	}
 
