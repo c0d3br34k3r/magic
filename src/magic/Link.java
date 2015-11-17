@@ -17,6 +17,10 @@ public class Link<P extends Partial<P>> {
 	public boolean isFirstHalf() {
 		return isFirstHalf;
 	}
+	
+	public int firstOrSecond() {
+		return isFirstHalf ? 0 : 1;
+	}
 
 	@Override public String toString() {
 		return (isFirstHalf ? "first" : "second") + " half; other half is "

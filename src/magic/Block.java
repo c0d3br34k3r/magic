@@ -12,11 +12,9 @@ public final class Block implements Comparable<Block> {
 	private final LocalDate date;
 	private final ImmutableList<Expansion> expansions;
 
-	public Block(String name, 
-			LocalDate date,
-			ImmutableList<Expansion> expansions) {
+	public Block(String name, ImmutableList<Expansion> expansions) {
 		this.name = Objects.requireNonNull(name);
-		this.date = Objects.requireNonNull(date);
+		this.date = expansions.get(0).releaseDate();
 		this.expansions = Objects.requireNonNull(expansions);
 	}
 

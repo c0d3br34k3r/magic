@@ -109,7 +109,7 @@ public abstract class WholeCard extends Whole<Card>
 		}
 
 		@Override public Iterator<Card> iterator() {
-			return Iterators.forArray(cards.first(), cards.second());
+			return cards.iterator();
 		}
 
 		@Override public void writeTo(Appendable out) throws IOException {
