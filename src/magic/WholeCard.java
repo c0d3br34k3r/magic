@@ -159,6 +159,16 @@ public abstract class WholeCard extends Whole<Card>
 			return this;
 		}
 
+		public void addPart(Card.Builder part) {
+			if (firstOrOnly == null) {
+				firstOrOnly = part;
+			} else if (second == null) {
+				second = part;
+			} else {
+				throw new IllegalStateException();
+			}
+		}
+
 		public WholeCard build() {
 			if (layout == null) {
 				if (second != null) {
@@ -168,6 +178,7 @@ public abstract class WholeCard extends Whole<Card>
 			}
 			return new CompositeCard(this, firstOrOnly, second);
 		}
+
 	}
 
 }

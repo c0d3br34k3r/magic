@@ -10,7 +10,7 @@ import com.google.common.base.Joiner;
 import com.google.common.base.MoreObjects;
 import com.google.common.collect.ImmutableSet;
 
-public final class Card extends Partial<Card>implements Comparable<Card> {
+public final class Card extends Partial<Card> implements Comparable<Card> {
 
 	private final WholeCard whole;
 	private final @Nullable Link<Card> link;
