@@ -143,9 +143,8 @@ public abstract class WholePrinting extends Whole<Printing> {
 			return this;
 		}
 
-		public Builder setExpansion(Expansion expansion) {
-			this.expansion = Objects.requireNonNull(expansion);
-			return this;
+		void setExpansion(Expansion expansion) {
+			this.expansion = expansion;
 		}
 
 		public Builder setCard(WholeCard card) {
@@ -167,7 +166,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 			return this;
 		}
 
-		public WholePrinting build() {
+		WholePrinting build() {
 			if (card.isStandalone()) {
 				if (second != null) {
 					throw new IllegalStateException();

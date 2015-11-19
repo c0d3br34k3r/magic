@@ -31,13 +31,22 @@ public final class Expansion implements Comparable<Expansion> {
 	private Expansion(Builder builder) {
 		this.name = builder.name;
 		this.code = builder.code;
-		this.printings = builder.printings;
+
 		this.releaseDate = builder.releaseDate;
 		this.type = builder.type;
 		this.borderColor = builder.borderColor;
 		this.hasCollectorNumbers = builder.hasCollectorNumbers;
 		this.isPhysical = builder.isPhysical;
 		this.hasBooster = builder.hasBooster;
+
+		ImmutableListMultimap.Builder<WholeCard, WholePrinting> printingsBuilder =
+				ImmutableListMultimap.builder();
+		for (WholePrinting.Builder printing : builder.printings) {
+			printing.setExpansion(this);
+			WholePrinting wholePrinting = printing.build();
+			printingsBuilder.put(wholePrinting.card(), wholePrinting);
+		}
+		this.printings = printingsBuilder.build();
 	}
 
 	public String name() {
@@ -127,7 +136,7 @@ public final class Expansion implements Comparable<Expansion> {
 	public static class Builder {
 
 		private String name;
-		private ImmutableListMultimap<WholeCard, WholePrinting> printings;
+		private Iterable<WholePrinting.Builder> printings;
 		private String code;
 		private LocalDate releaseDate;
 		private ReleaseType type;
@@ -137,15 +146,14 @@ public final class Expansion implements Comparable<Expansion> {
 		private boolean hasBooster;
 
 		private Builder() {}
-		
+
 		public Builder setName(String name) {
 			this.name = name;
 			return this;
 		}
 
-		public Builder setPrintings(
-				ImmutableListMultimap<WholeCard, WholePrinting> cards) {
-			this.printings = Objects.requireNonNull(cards);
+		public Builder setPrintings(Iterable<WholePrinting.Builder> list) {
+			this.printings = Objects.requireNonNull(list);
 			return this;
 		}
 
