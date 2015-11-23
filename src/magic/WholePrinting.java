@@ -23,23 +23,23 @@ public abstract class WholePrinting extends Whole<Printing> {
 
 	@Override public abstract PrintingPair pair();
 
-	public WholeCard card() {
+	public final WholeCard card() {
 		return card;
 	}
 
-	public Expansion expansion() {
+	public final Expansion expansion() {
 		return expansion;
 	}
 
-	public Rarity rarity() {
+	public final Rarity rarity() {
 		return rarity;
 	}
 
-	public boolean isTimeshifted() {
+	public final boolean isTimeshifted() {
 		return isTimeshifted;
 	}
 
-	public void print() {
+	public final void print() {
 		try {
 			writeTo(System.out);
 		} catch (IOException impossible) {
@@ -48,7 +48,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 	}
 
 	public abstract void writeTo(PrintStream out) throws IOException;
-	
+
 	public static Builder builder() {
 		return new Builder();
 	}
@@ -81,6 +81,12 @@ public abstract class WholePrinting extends Whole<Printing> {
 		@Override public Iterator<Printing> iterator() {
 			return Iterators.singletonIterator(printing);
 		}
+
+		@Override public String toString() {
+			
+			return card().toString();
+		}
+
 	}
 
 	private static final class CompositePrinting extends WholePrinting {
@@ -132,7 +138,12 @@ public abstract class WholePrinting extends Whole<Printing> {
 		private Printing.Builder second;
 
 		private Builder() {}
-		
+
+		public Builder setCard(WholeCard card) {
+			this.card = Objects.requireNonNull(card);
+			return this;
+		}
+
 		public Builder setTimeshifted(boolean isTimeshifted) {
 			this.isTimeshifted = isTimeshifted;
 			return this;
@@ -147,13 +158,8 @@ public abstract class WholePrinting extends Whole<Printing> {
 			this.expansion = expansion;
 		}
 
-		public Builder setCard(WholeCard card) {
-			this.card = Objects.requireNonNull(card);
-			return this;
-		}
-		
 		public Builder setOnly(Printing.Builder only) {
-			this.firstOrOnly = only;
+			this.firstOrOnly = Objects.requireNonNull(only);
 			return this;
 		}
 
@@ -162,11 +168,12 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		public Builder setSecond(Printing.Builder second) {
-			this.second = second;
+			this.second = Objects.requireNonNull(second);
 			return this;
 		}
 
 		WholePrinting build() {
+			Objects.requireNonNull(card);
 			if (card.isStandalone()) {
 				if (second != null) {
 					throw new IllegalStateException();

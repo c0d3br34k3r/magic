@@ -63,6 +63,16 @@ public final class Printing extends Partial<Printing> {
 		return link;
 	}
 
+	@Override public String toString() {
+		StringBuilder builder = new StringBuilder(card.name());
+		if (collectorNumber != null) {
+			builder.append('#').append(collectorNumber.toString());
+		} else {
+			
+		}
+		return builder.toString();
+	}
+
 	private static final Joiner SPACE_JOINER = Joiner.on(' ');
 
 	public void writeTo(Appendable out) throws IOException {

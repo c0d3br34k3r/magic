@@ -170,11 +170,16 @@ public abstract class WholeCard extends Whole<Card>
 		}
 
 		public WholeCard build() {
+			Objects.requireNonNull(firstOrOnly);
 			if (layout == null) {
 				if (second != null) {
 					throw new IllegalStateException();
 				}
 				return new StandaloneCard(this, firstOrOnly);
+			}
+			Objects.requireNonNull(second);
+			if (firstOrOnly == second) {
+				throw new IllegalStateException();
 			}
 			return new CompositeCard(this, firstOrOnly, second);
 		}

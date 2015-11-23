@@ -191,6 +191,10 @@ public final class Expansion implements Comparable<Expansion> {
 			this.hasBooster = hasBooster;
 			return this;
 		}
+		
+		public Expansion build() {
+			return new Expansion(this);
+		}
 
 	}
 
