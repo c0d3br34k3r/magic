@@ -3,15 +3,16 @@ package magic;
 import java.util.Collection;
 import java.util.Set;
 
+import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableSet;
+
+import magic.SymbolLogic.Colorless;
 import magic.SymbolLogic.Generic;
 import magic.SymbolLogic.Hybrid;
 import magic.SymbolLogic.MonocoloredHybrid;
 import magic.SymbolLogic.Phyrexian;
 import magic.SymbolLogic.Primary;
 import magic.SymbolLogic.Variable;
-
-import com.google.common.collect.ImmutableMap;
-import com.google.common.collect.ImmutableSet;
 
 /**
  * All mana symbols other than constant colorless symbols; in other words, all
@@ -40,6 +41,8 @@ public enum ManaSymbol {
 	 * meaning.
 	 */
 	GENERIC(new Generic()),
+	
+	COLORLESS(new Colorless()),
 
 	/**
 	 * The hybrid White-Blue mana symbol <code>{W/U}</code>
@@ -146,15 +149,6 @@ public enum ManaSymbol {
 	 */
 	PHYREXIAN_GREEN(new Phyrexian(Color.GREEN));
 
-	public enum Group {
-		VARIABLE,
-		GENERIC,
-		HYBRID,
-		PRIMARY,
-		MONOCOLORED_HYBRID,
-		PHYREXIAN;
-	}
-
 	private final SymbolLogic internal;
 
 	private ManaSymbol(SymbolLogic internal) {
@@ -192,10 +186,6 @@ public enum ManaSymbol {
 	 */
 	public boolean payableWith(Set<Color> mana) {
 		return internal.payableWith(mana);
-	}
-
-	public Group group() {
-		return internal.group();
 	}
 
 	/**

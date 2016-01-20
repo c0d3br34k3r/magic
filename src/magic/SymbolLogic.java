@@ -3,8 +3,6 @@ package magic;
 import java.util.Collections;
 import java.util.Set;
 
-import com.google.common.base.CaseFormat;
-import com.google.common.base.Converter;
 import com.google.common.base.Strings;
 import com.google.common.collect.ImmutableSet;
 
@@ -17,7 +15,6 @@ abstract class SymbolLogic {
 	private final ImmutableSet<Color> colors;
 	private final int converted;
 	private final String representation;
-	private final ManaSymbol.Group group;
 
 	private SymbolLogic(int converted, String representation) {
 		this(ImmutableSet.<Color> of(), converted, representation);
@@ -38,10 +35,6 @@ abstract class SymbolLogic {
 		this.colors = colors;
 		this.converted = converted;
 		this.representation = representation;
-		Converter<String, String> converter =
-				CaseFormat.UPPER_CAMEL.converterTo(CaseFormat.UPPER_UNDERSCORE);
-		this.group = ManaSymbol.Group
-				.valueOf(converter.convert(getClass().getSimpleName()));
 	}
 
 	int converted() {
@@ -68,10 +61,6 @@ abstract class SymbolLogic {
 		}
 	}
 
-	ManaSymbol.Group group() {
-		return group;
-	}
-
 	static class Generic extends SymbolLogic {
 
 		Generic() {
@@ -92,6 +81,17 @@ abstract class SymbolLogic {
 			builder.append('{')
 					.append(occurences)
 					.append('}');
+		}
+	}
+
+	static class Colorless extends SymbolLogic {
+
+		Colorless() {
+			super(1, "{C}");
+		}
+
+		@Override boolean payableWith(Set<Color> mana) {
+			return true;
 		}
 	}
 
