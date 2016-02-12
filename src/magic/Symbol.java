@@ -3,14 +3,15 @@ package magic;
 import java.util.Collection;
 import java.util.Set;
 
+import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableSet;
+
+import magic.SymbolLogic.Colorless;
 import magic.SymbolLogic.Hybrid;
 import magic.SymbolLogic.MonocoloredHybrid;
 import magic.SymbolLogic.Phyrexian;
 import magic.SymbolLogic.Primary;
 import magic.SymbolLogic.Variable;
-
-import com.google.common.collect.ImmutableMap;
-import com.google.common.collect.ImmutableSet;
 
 /**
  * All mana symbols other than constant colorless symbols; in other words, all
@@ -132,10 +133,13 @@ public enum Symbol {
 	/**
 	 * The variable Colorless mana symbol <code>{X}</code>
 	 */
-	X(new Variable('X'));
+	X(new Variable('X')),
+	
+	COLORLESS(new Colorless());
 
 	public enum Group {
 		VARIABLE,
+		COLORLESS,
 		HYBRID,
 		MONOCOLORED_HYBRID,
 		PHYREXIAN,

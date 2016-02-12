@@ -132,6 +132,17 @@ abstract class SymbolLogic {
 			return true;
 		}
 	}
+	
+	static final class Colorless extends SymbolLogic {
+
+		Colorless() {
+			super(ImmutableSet.<Color> of(), 0, "{C}");
+		}
+
+		@Override public boolean payableWith(Set<Color> mana) {
+			return true;
+		}
+	}
 
 	Symbol.Group group() {
 		return group;
