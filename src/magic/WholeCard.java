@@ -25,7 +25,7 @@ public abstract class WholeCard extends Whole<Card>
 
 	@Override public abstract CardPair pair();
 
-	@Override public abstract boolean isStandalone();
+	@Override public abstract boolean hasOnePart();
 
 	@Override public String toString() {
 		return name();
@@ -79,7 +79,7 @@ public abstract class WholeCard extends Whole<Card>
 			card.writeTo(out);
 		}
 
-		@Override public boolean isStandalone() {
+		@Override public boolean hasOnePart() {
 			return true;
 		}
 	}
@@ -88,12 +88,10 @@ public abstract class WholeCard extends Whole<Card>
 
 		private final CardPair cards;
 
-		CompositeCard(Builder builder, Card.Builder first,
-				Card.Builder second) {
+		CompositeCard(Builder builder) {
 			super(builder);
-			PartialBuilder.link(first, second, this);
-			this.cards = new CardPair(builder.layout, first.build(),
-					first.getOther());
+			builder.pair.setWhole(this);
+			this.cards = builder.pair.build();
 		}
 
 		@Override public String name() {
@@ -106,6 +104,10 @@ public abstract class WholeCard extends Whole<Card>
 
 		@Override public CardPair pair() {
 			return cards;
+		}
+
+		@Override public boolean hasOnePart() {
+			return false;
 		}
 
 		@Override public Iterator<Card> iterator() {
@@ -121,16 +123,13 @@ public abstract class WholeCard extends Whole<Card>
 			cards.second().writeTo(out);
 		}
 
-		@Override public boolean isStandalone() {
-			return false;
-		}
 	}
 
 	public static class Builder {
 
-		private Layout layout;
-		private Card.Builder firstOrOnly;
-		private Card.Builder second;
+		private Card.Builder only;
+		private CardPair.Builder pair;
+		
 		private ImmutableSet<Color> colorIdentity;
 
 		private Builder() {}
@@ -140,48 +139,24 @@ public abstract class WholeCard extends Whole<Card>
 			return this;
 		}
 
-		public Builder setLayout(Layout layout) {
-			this.layout = Objects.requireNonNull(layout);
-			return this;
-		}
-
 		public Builder setOnly(Card.Builder only) {
-			this.firstOrOnly = only;
+			this.only = only;
 			return this;
 		}
 
-		public Builder setFirst(Card.Builder first) {
-			return setOnly(first);
-		}
-
-		public Builder setSecond(Card.Builder second) {
-			this.second = second;
+		public Builder setPair(CardPair.Builder pair) {
+			this.pair = pair;
 			return this;
-		}
-
-		public void addPart(Card.Builder part) {
-			if (firstOrOnly == null) {
-				firstOrOnly = part;
-			} else if (second == null) {
-				second = part;
-			} else {
-				throw new IllegalStateException();
-			}
 		}
 
 		public WholeCard build() {
-			Objects.requireNonNull(firstOrOnly);
-			if (layout == null) {
-				if (second != null) {
-					throw new IllegalStateException();
-				}
-				return new StandaloneCard(this, firstOrOnly);
+			if (!(only == null ^ pair == null)) {
+				throw new IllegalArgumentException();
 			}
-			Objects.requireNonNull(second);
-			if (firstOrOnly == second) {
-				throw new IllegalStateException();
+			if (only != null) {
+				return new StandaloneCard(this, only);
 			}
-			return new CompositeCard(this, firstOrOnly, second);
+			return new CompositeCard(this);
 		}
 
 	}

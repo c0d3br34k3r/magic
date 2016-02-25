@@ -121,7 +121,7 @@ public final class Printing extends Partial<Printing> {
 	}
 
 	public static final class Builder
-			extends magic.PartialBuilder<Printing, WholePrinting> {
+			extends PartialBuilder<Printing, WholePrinting> {
 
 		private Card card;
 		private String flavorText = "";

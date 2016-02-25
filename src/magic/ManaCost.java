@@ -5,48 +5,13 @@ import java.util.Collection;
 import java.util.EnumSet;
 import java.util.Set;
 
-import com.google.common.base.Optional;
 import com.google.common.collect.ImmutableMultiset;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSortedMultiset;
 import com.google.common.collect.Multiset;
 
 /**
- * An immutable object representing a mana cost. A {@code ManaCost} has two
- * parts: an {@code int} representing the amount of colorless mana, and a
- * {@link Multiset} containing all other mana symbols.
- * <p>
- * This design choice was made to avoid having 16 separate colorless mana
- * symbols. This has the effect of making it hard to differentiate the zero mana
- * cost from the empty or null mana cost internally, as both have a colorless
- * value of {@code 0} and an empty collection of symbols. However, in every
- * other mana cost, the zero colorless mana symbol <code>{0}</code> is never
- * seen (i.e, a card that costs one white mana and no colorless mana simply
- * costs <code>{W}</code>, not <code>{0}{W}</code>). This implementation treats
- * <code>{0}</code> not as a symbol within a mana cost, but as a special marker
- * mana cost.
- * <p>
- * These two special cases are constants within the class, but they can also be
- * obtained naturally through the static factory methods.
- * <p>
- * While it may seem strange at first, [screw it, switching to first-person] I
- * believe that this is the most natural way to represent mana costs, and I put
- * quite a bit of thought into it. I don't think of my handling of the two
- * special mana costs as a workaround for my implementation, but rather I see
- * the way we normally think about colorless mana as a misrepresentation of how
- * it really is. I think the only other viable way to do this is to have an
- * {@link Optional} of {@link Integer}, representing the colorless mana as more
- * of a symbol rather than a value. This would differentiate between
- * <code>{0}</code> and nothing at all, but I think it is a less useful
- * representation.
- * <p>
- * {@code ManaCost}s impose a special iteration order on the {@link ManaSymbol}s
- * thanks to the guaranteed iteration order of {@link ImmutableMultiset}.
- * {@link ManaSymbol}s are always in the exact order that they appear on the
- * actual Magic card. (WOTC has detailed their system for the order of symbols
- * on multicolored cards.) With the release of Khans of Tarkir, however, this is
- * no longer true. "Wedge" multicolored cards with a clan watermark use a new
- * order for the symbols, leading with that clan's dominant color.
+ * An immutable object representing a mana cost.
  * 
  * @see ManaSymbol
  */
@@ -87,7 +52,7 @@ public abstract class ManaCost {
 
 	/**
 	 * Returns a new {@code ManaCost} with the given {@code Symbol}s and no
-	 * colorless mana. If the {@link Collection} of symbols is empty, the empty
+	 * generic mana. If the {@link Collection} of symbols is empty, the empty
 	 * mana cost is returned.
 	 */
 	public static ManaCost of(Collection<ManaSymbol> symbols) {
@@ -98,24 +63,24 @@ public abstract class ManaCost {
 	}
 
 	/**
-	 * Returns a new {@code ManaCost} with the given amount of colorless mana
+	 * Returns a new {@code ManaCost} with the given amount of generic mana
 	 * and other mana symbols. If the array of symbols is empty and the amount
-	 * of colorless is zero, the zero mana cost is returned.
+	 * of generic is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int colorless, ManaSymbol... symbols) {
-		return of(colorless, Arrays.asList(symbols));
+	public static ManaCost of(int generic, ManaSymbol... symbols) {
+		return of(generic, Arrays.asList(symbols));
 	}
 
 	/**
-	 * Returns a new {@code ManaCost} with the given amount of colorless mana
+	 * Returns a new {@code ManaCost} with the given amount of generic mana
 	 * and other mana symbols. If the {@link Collection} of symbols is empty and
-	 * the amount of colorless is zero, the zero mana cost is returned.
+	 * the amount of generic is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int colorless, Collection<ManaSymbol> symbols) {
-		if (colorless == 0 && symbols.isEmpty()) {
+	public static ManaCost of(int generic, Collection<ManaSymbol> symbols) {
+		if (generic == 0 && symbols.isEmpty()) {
 			return ZERO;
 		}
-		return new StandardManaCost(colorless, symbols);
+		return new StandardManaCost(generic, symbols);
 	}
 
 	/**
@@ -126,7 +91,7 @@ public abstract class ManaCost {
 	 * 
 	 * @throws IllegalArgumentException
 	 *             if input contains <code>{0}</code> in combination with other
-	 *             symbols, or if more than one colorless symbol is given, or if
+	 *             symbols, or if more than one generic symbol is given, or if
 	 *             the symbols are not formatted properly
 	 */
 	public static ManaCost parse(String input) {
@@ -139,7 +104,7 @@ public abstract class ManaCost {
 		}
 		ImmutableSortedMultiset.Builder<ManaSymbol> builder =
 				ImmutableSortedMultiset.naturalOrder();
-		boolean colorlessSymbolEncountered = false;
+		boolean genericSymbolEncountered = false;
 		int begin = 0;
 		do {
 			if (input.charAt(begin) != '{') {
@@ -163,15 +128,15 @@ public abstract class ManaCost {
 					throw parseException(
 							"invalid symbol \"%s\" in \"%s\"", part, input);
 				}
-				if (colorlessSymbolEncountered) {
+				if (genericSymbolEncountered) {
 					throw parseException(
-							"multiple colorless symbols in \"%s\"", input);
+							"multiple generic symbols in \"%s\"", input);
 				}
 				if (parsed == 0) {
 					throw parseException(
 							"{0} used with other symbols in \"%s\"", input);
 				}
-				colorlessSymbolEncountered = true;
+				genericSymbolEncountered = true;
 				builder.addCopies(ManaSymbol.GENERIC, parsed);
 			}
 			begin = end + 1;
@@ -192,14 +157,15 @@ public abstract class ManaCost {
 	public abstract ImmutableSet<Color> colors();
 
 	/**
-	 * The value of the colorless symbol in this mana cost, or 0 if no colorless
+	 * The value of the generic symbol in this mana cost, or 0 if no generic
 	 * symbol is present.
 	 */
-	public abstract int generic();
+	public int generic() {
+		return symbols().count(ManaSymbol.GENERIC);
+	}
 
 	/**
-	 * A {@link Multiset} containing all symbols other than constant colorless
-	 * mana symbols in the order they would appear on a Magic card.
+	 * A {@link Multiset} containing all mana symbols in this mana cost.
 	 */
 	public abstract ImmutableMultiset<ManaSymbol> symbols();
 
@@ -207,15 +173,6 @@ public abstract class ManaCost {
 	 * The converted mana cost of this {@code ManaCost}.
 	 */
 	public abstract int converted();
-
-	public boolean containsAnyOf(ManaSymbol.Group group) {
-		for (ManaSymbol symbol : symbols().elementSet()) {
-			if (symbol.group() == group) {
-				return true;
-			}
-		}
-		return false;
-	}
 
 	/**
 	 * Returns whether this mana cost is payable with a certain set of colors of
@@ -257,7 +214,7 @@ public abstract class ManaCost {
 
 	/**
 	 * Returns the {@link String} representation of this mana cost: a series of
-	 * mana symbols, including constant colorless mana symbols (specified by
+	 * mana symbols, including constant generic mana symbols (specified by
 	 * {@link ManaSymbol#toString()}) in the order that they would appear on an
 	 * actual card.
 	 */
@@ -271,15 +228,15 @@ public abstract class ManaCost {
 		private final int converted;
 		private final ImmutableSet<Color> colors;
 
-		private StandardManaCost(int colorless,
+		private StandardManaCost(int generic,
 				Collection<ManaSymbol> symbols) {
-			this(condense(colorless, symbols));
+			this(condense(generic, symbols));
 		}
 
-		private static ImmutableMultiset<ManaSymbol> condense(int colorless,
+		private static ImmutableMultiset<ManaSymbol> condense(int generic,
 				Collection<ManaSymbol> symbols) {
 			return ImmutableSortedMultiset.<ManaSymbol> naturalOrder()
-					.addCopies(ManaSymbol.GENERIC, colorless)
+					.addCopies(ManaSymbol.GENERIC, generic)
 					.addAll(symbols)
 					.build();
 		}
@@ -298,10 +255,6 @@ public abstract class ManaCost {
 
 		@Override public ImmutableSet<Color> colors() {
 			return colors;
-		}
-
-		@Override public int generic() {
-			return symbols.count(ManaSymbol.GENERIC);
 		}
 
 		@Override public ImmutableMultiset<ManaSymbol> symbols() {

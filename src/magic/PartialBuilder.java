@@ -16,7 +16,7 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
 		this.whole = whole;
 	}
 
-	void setLinked(PartialBuilder<P, W> linked) {
+	void prepareLink(PartialBuilder<P, W> linked) {
 		this.linked = linked;
 	}
 
@@ -40,12 +40,5 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
 		return null;
 	}
 
-	static <T extends Partial<T>, W extends Whole<T>> void link(
-			PartialBuilder<T, W> first,
-			PartialBuilder<T, W> second,
-			W whole) {
-		first.setWhole(whole);
-		second.setWhole(whole);
-		first.setLinked(second);
-	}
+
 }

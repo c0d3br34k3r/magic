@@ -42,6 +42,9 @@ public enum ManaSymbol {
 	 */
 	GENERIC(new Generic()),
 	
+	/**
+	 * The colorless mana symbol <code>{C}</code>
+	 */
 	COLORLESS(new Colorless()),
 
 	/**

@@ -118,7 +118,6 @@ public final class Expansion implements Comparable<Expansion> {
 	}
 
 	public enum ReleaseType {
-
 		CORE_SET,
 		EXPANSION,
 		PROMOTIONAL,

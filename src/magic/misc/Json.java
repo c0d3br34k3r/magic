@@ -16,7 +16,7 @@ public class Json {
 		writer.beginObject();
 		writer.name("colorIdentity")
 				.value(Color.toString(whole.colorIdentity()));
-		if (whole.isStandalone()) {
+		if (whole.hasOnePart()) {
 			writer.name("only");
 			write(whole.only(), writer);
 		} else {

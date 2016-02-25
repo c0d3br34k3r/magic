@@ -1,8 +1,11 @@
 package magic.misc;
 
 import java.util.Collection;
+import java.util.Collections;
+import java.util.EnumSet;
 import java.util.Iterator;
 import java.util.Map.Entry;
+import java.util.Set;
 import java.util.regex.Pattern;
 
 import com.google.common.base.Predicate;
@@ -10,11 +13,12 @@ import com.google.common.collect.Iterables;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 import com.google.common.collect.Ordering;
+import com.google.common.collect.Sets;
 
 import magic.Card;
 import magic.Expansion;
 import magic.Layout;
-import magic.ManaSymbol.Group;
+import magic.ManaSymbol;
 import magic.Printing;
 import magic.Subtype;
 import magic.Type;
@@ -36,7 +40,7 @@ public final class Cards {
 		return false;
 	}
 
-	private static Predicate<Expansion> PHYSICAL = new Predicate<Expansion>() {
+	private static final Predicate<Expansion> PHYSICAL = new Predicate<Expansion>() {
 		@Override public boolean apply(Expansion input) {
 			return input.isPhysical();
 		}
@@ -70,6 +74,12 @@ public final class Cards {
 		BASIC_LAND;
 	}
 
+	private static final Set<ManaSymbol> HYBRID = Sets.immutableEnumSet(EnumSet
+			.range(ManaSymbol.HYBRID_WHITE_BLUE, ManaSymbol.HYBRID_GREEN_BLUE));
+	
+	private static final Set<ManaSymbol> PRIMARY = Sets.immutableEnumSet(EnumSet
+			.range(ManaSymbol.WHITE, ManaSymbol.GREEN));
+
 	private static Section section(Card c) {
 		if (c.link() != null
 				&& c.whole().pair().layout() == Layout.SPLIT
@@ -91,10 +101,10 @@ public final class Cards {
 				}
 				return Section.CLEAR;
 			default:
-				if (!c.manaCost().containsAnyOf(Group.HYBRID)) {
+				if (Collections.disjoint(c.manaCost().symbols(), HYBRID)) {
 					return Section.GOLD;
 				}
-				return c.manaCost().containsAnyOf(Group.PRIMARY)
+				return Collections.disjoint(c.manaCost().symbols(), PRIMARY)
 						? Section.GOLD_HYBRID
 						: Section.HYBRID;
 		}
@@ -134,9 +144,11 @@ public final class Cards {
 		Iterator<? extends Entry<Expansion, ? extends Collection<? extends Printing>>> it =
 				printings.asMap().entrySet().iterator();
 		for (;;) {
-			Entry<Expansion, ? extends Collection<? extends Printing>> entry = it.next();
+			Entry<Expansion, ? extends Collection<? extends Printing>> entry =
+					it.next();
 			builder.append(entry.getKey().code()).append(':')
-					.append(entry.getValue().iterator().next().whole().rarity().code());
+					.append(entry.getValue().iterator().next().whole().rarity()
+							.code());
 			if (entry.getValue().size() > 1) {
 				builder.append('(').append(entry.getValue().size()).append(')');
 			}
@@ -146,34 +158,5 @@ public final class Cards {
 			builder.append(", ");
 		}
 	}
-
-//	public static boolean isRarity(Card card, Rarity rarity) {
-//		for (Printing printing : card.printings().values()) {
-//			if (printing.rarity() == rarity) {
-//				return true;
-//			}
-//		}
-//		return false;
-//	}
-//
-//	public static Rarity minRarity(Card card) {
-//		return minOrMaxRarity(card, -1);
-//	}
-//	
-//	public static Rarity maxRarity(Card card) {
-//		return minOrMaxRarity(card, 1);
-//	}
-//	
-//	private static Rarity minOrMaxRarity(Card card, final int sign) {
-//		Iterator<? extends Printing> it = card.printings().values().iterator();
-//		Rarity result = it.next().rarity();
-//		while (it.hasNext()) {
-//			Rarity next = it.next().rarity();
-//			if (Integer.signum(next.compareTo(result)) == sign) {
-//				result = next;
-//			}
-//		}
-//		return result;
-//	}
 
 }

@@ -62,7 +62,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 			this.printing = only.build();
 		}
 
-		@Override public boolean isStandalone() {
+		@Override public boolean hasOnePart() {
 			return true;
 		}
 
@@ -83,7 +83,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		@Override public String toString() {
-			
+
 			return card().toString();
 		}
 
@@ -93,16 +93,12 @@ public abstract class WholePrinting extends Whole<Printing> {
 
 		private final PrintingPair printings;
 
-		private CompositePrinting(Builder builder,
-				Printing.Builder first,
-				Printing.Builder second) {
+		private CompositePrinting(Builder builder) {
 			super(builder);
-			PartialBuilder.link(first, second, this);
-			this.printings = new PrintingPair(builder.card.pair(),
-					first.build(), first.getOther());
+			this.printings = builder.pair.build();
 		}
 
-		@Override public boolean isStandalone() {
+		@Override public boolean hasOnePart() {
 			return false;
 		}
 
@@ -134,8 +130,8 @@ public abstract class WholePrinting extends Whole<Printing> {
 		private Rarity rarity;
 		private Expansion expansion;
 		private WholeCard card;
-		private Printing.Builder firstOrOnly;
-		private Printing.Builder second;
+		private Printing.Builder only;
+		private PrintingPair.Builder pair;
 
 		private Builder() {}
 
@@ -159,32 +155,23 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		public Builder setOnly(Printing.Builder only) {
-			this.firstOrOnly = Objects.requireNonNull(only);
+			this.only = Objects.requireNonNull(only);
 			return this;
 		}
 
-		public Builder setFirst(Printing.Builder first) {
-			return setOnly(first);
-		}
-
-		public Builder setSecond(Printing.Builder second) {
-			this.second = Objects.requireNonNull(second);
+		public Builder setPair(PrintingPair.Builder pair) {
+			this.pair = Objects.requireNonNull(pair);
 			return this;
 		}
 
-		WholePrinting build() {
-			Objects.requireNonNull(card);
-			if (card.isStandalone()) {
-				if (second != null) {
-					throw new IllegalStateException();
-				}
-				firstOrOnly.setCard(card.only());
-				return new StandalonePrinting(this, firstOrOnly);
+		public WholePrinting build() {
+			if (!(only == null ^ pair == null)) {
+				throw new IllegalArgumentException();
 			}
-			CardPair pair = card.pair();
-			firstOrOnly.setCard(pair.first());
-			second.setCard(pair.second());
-			return new CompositePrinting(this, firstOrOnly, second);
+			if (only != null) {
+				return new StandalonePrinting(this, only);
+			}
+			return new CompositePrinting(this);
 		}
 	}
 

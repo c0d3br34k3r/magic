@@ -2,7 +2,7 @@ package magic;
 
 abstract class Whole<P extends Partial<P>> implements Iterable<P> {
 
-	public abstract boolean isStandalone();
+	public abstract boolean hasOnePart();
 	
 	public abstract P only();
 	
