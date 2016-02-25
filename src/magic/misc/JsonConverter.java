@@ -91,7 +91,7 @@ public class JsonConverter {
 			out.name(POWER).value(card.power().toString());
 		}
 		if (card.toughness() != null) {
-			out.name(TOUGHNESS).value(card.loyalty().toString());
+			out.name(TOUGHNESS).value(card.toughness().toString());
 		}
 		out.endObject();
 	}
