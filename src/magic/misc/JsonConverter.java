@@ -29,6 +29,7 @@ import magic.Card;
 import magic.CardPair;
 import magic.Color;
 import magic.Expression;
+import magic.Layout;
 import magic.ManaCost;
 import magic.Supertype;
 import magic.Type;
@@ -40,8 +41,10 @@ public class JsonConverter {
 	public static void writeCard(JsonWriter out, WholeCard wholeCard)
 			throws IOException {
 		out.beginObject();
-		out.name(COLOR_IDENTITY);
-		writeEnums(out, wholeCard.colorIdentity());
+		if (!wholeCard.colorIdentity().isEmpty()) {
+			out.name(COLOR_IDENTITY);
+			writeEnums(out, wholeCard.colorIdentity());
+		}
 		if (wholeCard.hasOnePart()) {
 			out.name(ONLY);
 			writePartial(out, wholeCard.only());
@@ -56,7 +59,6 @@ public class JsonConverter {
 			out.endArray();
 			out.endObject();
 		}
-		out.endArray();
 		out.endObject();
 	}
 
@@ -69,13 +71,19 @@ public class JsonConverter {
 			out.name(COLOR_OVERRIDE);
 			writeEnums(out, card.colorOverride());
 		}
-		out.name(SUPERTYPES);
-		writeEnums(out, card.supertypes());
+		if (!card.supertypes().isEmpty()) {
+			out.name(SUPERTYPES);
+			writeEnums(out, card.supertypes());
+		}
 		out.name(TYPES);
 		writeEnums(out, card.types());
-		out.name(SUBTYPES);
-		writeStrings(out, card.subtypes());
-		out.name(TEXT).value(card.text());
+		if (!card.subtypes().isEmpty()) {
+			out.name(SUBTYPES);
+			writeStrings(out, card.subtypes());
+		}
+		if (!card.text().isEmpty()) {
+			out.name(TEXT).value(card.text());
+		}
 		if (card.loyalty() != null) {
 			out.name(LOYALTY).value(card.loyalty());
 		}
@@ -106,7 +114,7 @@ public class JsonConverter {
 		out.endArray();
 	}
 
-	public static void readCard(JsonReader in) throws IOException {
+	public static WholeCard readCard(JsonReader in) throws IOException {
 		Builder builder = WholeCard.builder();
 		in.beginObject();
 		while (in.hasNext()) {
@@ -126,6 +134,7 @@ public class JsonConverter {
 			}
 		}
 		in.endObject();
+		return builder.build();
 	}
 
 	private static Card.Builder readPartial(JsonReader in)
@@ -173,9 +182,27 @@ public class JsonConverter {
 		return builder;
 	}
 
-	private static magic.CardPair.Builder readPair(JsonReader in) {
-		// TODO Auto-generated method stub
-		return null;
+	private static CardPair.Builder readPair(JsonReader in) throws IOException {
+		CardPair.Builder builder = CardPair.builder();
+		in.beginObject();
+		while (in.hasNext()) {
+			String key = in.nextName();
+			switch (key) {
+				case LAYOUT:
+					builder.setLayout(Layout.valueOf(in.nextString()));
+					break;
+				case PARTS:
+					in.beginArray();
+					builder.setFirst(readPartial(in));
+					builder.setSecond(readPartial(in));
+					in.endArray();
+					break;
+				default:
+					throw new IllegalArgumentException(key);
+			}
+		}
+		in.endObject();
+		return builder;
 	}
 
 	private static <E extends Enum<E>> ImmutableSet<E> readEnums(JsonReader in,

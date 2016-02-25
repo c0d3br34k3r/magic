@@ -162,7 +162,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
-		private ImmutableSet<Color> colorOverride = ImmutableSet.of();
+		private ImmutableSet<Color> colorOverride = null;
 		private ImmutableSet<Supertype> supertypes = ImmutableSet.of();
 		private ImmutableSet<Type> types;
 		private ImmutableSet<String> subtypes = ImmutableSet.of();
