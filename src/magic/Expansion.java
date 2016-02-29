@@ -5,7 +5,9 @@ import java.util.Objects;
 
 import org.joda.time.LocalDate;
 
+import com.google.common.base.Function;
 import com.google.common.collect.ImmutableListMultimap;
+import com.google.common.collect.Lists;
 
 /**
  * An object containing the attributes of expansion. It does not, however,
@@ -57,9 +59,41 @@ public final class Expansion implements Comparable<Expansion> {
 		return printings;
 	}
 
-	public List<WholePrinting> printingsOf(WholeCard wholeCard) {
-		return printings.get(wholeCard);
+	public List<Printing> printingsOf(Card card) {
+		return Lists.transform(printings.get(card.whole()), transform(card));
 	}
+
+	private static Function<? super WholePrinting, ? extends Printing> transform(
+			Card card) {
+		if (card.link() == null) {
+			return TRANSFORM_ONLY;
+		}
+		if (card.link().isFirstHalf()) {
+			return TRANSFORM_FIRST;
+		}
+		return TRANSFORM_SECOND;
+	}
+
+	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_ONLY =
+			new Function<WholePrinting, Printing>() {
+				@Override public Printing apply(WholePrinting input) {
+					return input.only();
+				}
+			};
+
+	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_FIRST =
+			new Function<WholePrinting, Printing>() {
+				@Override public Printing apply(WholePrinting input) {
+					return input.pair().first();
+				}
+			};
+
+	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_SECOND =
+			new Function<WholePrinting, Printing>() {
+				@Override public Printing apply(WholePrinting input) {
+					return input.pair().second();
+				}
+			};
 
 	public String code() {
 		return code;
@@ -190,7 +224,7 @@ public final class Expansion implements Comparable<Expansion> {
 			this.hasBooster = hasBooster;
 			return this;
 		}
-		
+
 		public Expansion build() {
 			return new Expansion(this);
 		}

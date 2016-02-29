@@ -40,5 +40,4 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
 		return null;
 	}
 
-
 }

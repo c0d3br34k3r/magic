@@ -48,12 +48,9 @@ public final class CardPair extends Pair<Card> {
 			return this;
 		}
 
-		void setWhole(WholeCard whole) {
+		CardPair build(WholeCard whole) {
 			first.setWhole(whole);
 			second.setWhole(whole);
-		}
-
-		CardPair build() {
 			first.prepareLink(second);
 			return new CardPair(this);
 		}

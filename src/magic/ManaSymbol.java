@@ -232,7 +232,7 @@ public enum ManaSymbol {
 		return true;
 	}
 
-	private static ImmutableMap<String, ManaSymbol> SYMBOLS;
+	private static final ImmutableMap<String, ManaSymbol> SYMBOLS;
 
 	static {
 		ImmutableMap.Builder<String, ManaSymbol> builder = ImmutableMap.builder();

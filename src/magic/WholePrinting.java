@@ -57,9 +57,10 @@ public abstract class WholePrinting extends Whole<Printing> {
 
 		private final Printing printing;
 
-		private StandalonePrinting(Builder builder, Printing.Builder only) {
+		private StandalonePrinting(Builder builder) {
 			super(builder);
-			this.printing = only.build();
+			builder.only.setWhole(this);
+			this.printing = builder.only.build();
 		}
 
 		@Override public boolean hasOnePart() {
@@ -95,7 +96,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 
 		private CompositePrinting(Builder builder) {
 			super(builder);
-			this.printings = builder.pair.build();
+			this.printings = builder.pair.build(this);
 		}
 
 		@Override public boolean hasOnePart() {
@@ -120,7 +121,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		@Override public Iterator<Printing> iterator() {
-			return Iterators.forArray(printings.first(), printings.second());
+			return printings.iterator();
 		}
 	}
 
@@ -169,7 +170,7 @@ public abstract class WholePrinting extends Whole<Printing> {
 				throw new IllegalArgumentException();
 			}
 			if (only != null) {
-				return new StandalonePrinting(this, only);
+				return new StandalonePrinting(this);
 			}
 			return new CompositePrinting(this);
 		}

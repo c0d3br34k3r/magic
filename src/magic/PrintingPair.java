@@ -28,9 +28,9 @@ public class PrintingPair extends Pair<Printing> {
 
 	public static class Builder {
 
+		private CardPair cardPair;
 		private Printing.Builder first;
 		private Printing.Builder second;
-		private CardPair cardPair;
 
 		private Builder() {}
 
@@ -49,12 +49,9 @@ public class PrintingPair extends Pair<Printing> {
 			return this;
 		}
 
-		void setWhole(WholePrinting whole) {
+		PrintingPair build(WholePrinting whole) {
 			first.setWhole(whole);
 			second.setWhole(whole);
-		}
-
-		PrintingPair build() {
 			first.prepareLink(second);
 			return new PrintingPair(this);
 		}

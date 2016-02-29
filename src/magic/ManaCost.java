@@ -63,24 +63,28 @@ public abstract class ManaCost {
 	}
 
 	/**
-	 * Returns a new {@code ManaCost} with the given amount of generic mana
-	 * and other mana symbols. If the array of symbols is empty and the amount
-	 * of generic is zero, the zero mana cost is returned.
+	 * Returns a new {@code ManaCost} with the given amount of generic mana and
+	 * other mana symbols. If the array of symbols is empty and the amount of
+	 * generic is zero, the zero mana cost is returned.
 	 */
 	public static ManaCost of(int generic, ManaSymbol... symbols) {
 		return of(generic, Arrays.asList(symbols));
 	}
 
 	/**
-	 * Returns a new {@code ManaCost} with the given amount of generic mana
-	 * and other mana symbols. If the {@link Collection} of symbols is empty and
-	 * the amount of generic is zero, the zero mana cost is returned.
+	 * Returns a new {@code ManaCost} with the given amount of generic mana and
+	 * other mana symbols. If the {@link Collection} of symbols is empty and the
+	 * amount of generic is zero, the zero mana cost is returned.
 	 */
 	public static ManaCost of(int generic, Collection<ManaSymbol> symbols) {
 		if (generic == 0 && symbols.isEmpty()) {
 			return ZERO;
 		}
-		return new StandardManaCost(generic, symbols);
+		return new StandardManaCost(
+				ImmutableSortedMultiset.<ManaSymbol> naturalOrder()
+						.addCopies(ManaSymbol.GENERIC, generic)
+						.addAll(symbols)
+						.build());
 	}
 
 	/**
@@ -227,19 +231,6 @@ public abstract class ManaCost {
 		// Cached values
 		private final int converted;
 		private final ImmutableSet<Color> colors;
-
-		private StandardManaCost(int generic,
-				Collection<ManaSymbol> symbols) {
-			this(condense(generic, symbols));
-		}
-
-		private static ImmutableMultiset<ManaSymbol> condense(int generic,
-				Collection<ManaSymbol> symbols) {
-			return ImmutableSortedMultiset.<ManaSymbol> naturalOrder()
-					.addCopies(ManaSymbol.GENERIC, generic)
-					.addAll(symbols)
-					.build();
-		}
 
 		private StandardManaCost(ImmutableMultiset<ManaSymbol> symbols) {
 			this.symbols = symbols;

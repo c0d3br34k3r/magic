@@ -113,7 +113,7 @@ public final class Cards {
 	private static final Ordering<String> BASIC_TYPES = Ordering
 			.explicit(Subtype.BASIC_LAND_TYPES.keySet().asList());
 
-	public static Ordering<Card> REGULAR_ORDERING = new Ordering<Card>() {
+	public static final Ordering<Card> REGULAR_ORDERING = new Ordering<Card>() {
 		@Override public int compare(Card c1, Card c2) {
 			Section section = section(c1);
 			int sectionCmp = section.compareTo(section(c2));

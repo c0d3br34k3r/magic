@@ -18,8 +18,8 @@ public enum Layout {
 	 * Used for flip cards. The flip card halves are called "top" and "bottom".
 	 */
 	FLIP("Flip", "top", "bottom") {
-		@Override public String formatNames(String firstName, 
-				String secondName, 
+		@Override public String formatNames(String firstName,
+				String secondName,
 				String splitCardSeparator) {
 			return firstName;
 		}
@@ -30,8 +30,8 @@ public enum Layout {
 	 * "front" and "back".
 	 */
 	DOUBLE_FACED("Double-faced", "front", "back") {
-		@Override public String formatNames(String firstName, 
-				String secondName, 
+		@Override public String formatNames(String firstName,
+				String secondName,
 				String splitCardSeparator) {
 			return firstName;
 		}
@@ -71,9 +71,10 @@ public enum Layout {
 		return secondHalfName;
 	}
 
-	public abstract String formatNames(String firstName, String secondName, String splitCardSeparator);
+	public abstract String formatNames(String firstName, String secondName,
+			String splitCardSeparator);
 
 	public String formatNames(String firstName, String secondName) {
-		return formatNames(firstName, secondName, " & ");
+		return formatNames(firstName, secondName, " // ");
 	}
 }

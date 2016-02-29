@@ -1,21 +1,5 @@
 package magic.misc;
 
-import static magic.misc.JsonKeys.COLOR_IDENTITY;
-import static magic.misc.JsonKeys.COLOR_OVERRIDE;
-import static magic.misc.JsonKeys.LAYOUT;
-import static magic.misc.JsonKeys.LOYALTY;
-import static magic.misc.JsonKeys.MANA_COST;
-import static magic.misc.JsonKeys.NAME;
-import static magic.misc.JsonKeys.ONLY;
-import static magic.misc.JsonKeys.PAIR;
-import static magic.misc.JsonKeys.PARTS;
-import static magic.misc.JsonKeys.POWER;
-import static magic.misc.JsonKeys.SUBTYPES;
-import static magic.misc.JsonKeys.SUPERTYPES;
-import static magic.misc.JsonKeys.TEXT;
-import static magic.misc.JsonKeys.TOUGHNESS;
-import static magic.misc.JsonKeys.TYPES;
-
 import java.io.IOException;
 import java.util.EnumSet;
 import java.util.Set;
@@ -38,6 +22,22 @@ import magic.WholeCard.Builder;
 
 public class JsonConverter {
 
+	private static final String NAME = "name";
+	private static final String MANA_COST = "manaCost";
+	private static final String COLOR_OVERRIDE = "colorOverride";
+	private static final String SUPERTYPES = "supertypes";
+	private static final String TYPES = "types";
+	private static final String SUBTYPES = "subtypes";
+	private static final String TEXT = "text";
+	private static final String POWER = "power";
+	private static final String TOUGHNESS = "toughness";
+	private static final String LOYALTY = "loyalty";
+	private static final String COLOR_IDENTITY = "colorIdentity";
+	private static final String ONLY = "only";
+	private static final String PAIR = "pair";
+	private static final String LAYOUT = "layout"; 
+	private static final String PARTS = "parts";
+	
 	public static void writeCard(JsonWriter out, WholeCard wholeCard)
 			throws IOException {
 		out.beginObject();
@@ -66,7 +66,9 @@ public class JsonConverter {
 			throws IOException {
 		out.beginObject();
 		out.name(NAME).value(card.name());
-		out.name(MANA_COST).value(card.manaCost().toString());
+		if (!card.manaCost().isEmpty()) {
+			out.name(MANA_COST).value(card.manaCost().toString());
+		}
 		if (card.colorOverride() != null) {
 			out.name(COLOR_OVERRIDE);
 			writeEnums(out, card.colorOverride());

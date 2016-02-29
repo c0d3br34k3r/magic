@@ -53,10 +53,10 @@ public abstract class WholeCard extends Whole<Card>
 
 		private final Card card;
 
-		StandaloneCard(Builder builder, Card.Builder only) {
+		StandaloneCard(Builder builder) {
 			super(builder);
-			only.setWhole(this);
-			this.card = only.build();
+			builder.only.setWhole(this);
+			this.card = builder.only.build();
 		}
 
 		@Override public String name() {
@@ -90,8 +90,7 @@ public abstract class WholeCard extends Whole<Card>
 
 		CompositeCard(Builder builder) {
 			super(builder);
-			builder.pair.setWhole(this);
-			this.cards = builder.pair.build();
+			this.cards = builder.pair.build(this);
 		}
 
 		@Override public String name() {
@@ -129,7 +128,6 @@ public abstract class WholeCard extends Whole<Card>
 
 		private Card.Builder only;
 		private CardPair.Builder pair;
-		
 		private ImmutableSet<Color> colorIdentity;
 
 		private Builder() {}
@@ -154,7 +152,7 @@ public abstract class WholeCard extends Whole<Card>
 				throw new IllegalArgumentException();
 			}
 			if (only != null) {
-				return new StandaloneCard(this, only);
+				return new StandaloneCard(this);
 			}
 			return new CompositeCard(this);
 		}
