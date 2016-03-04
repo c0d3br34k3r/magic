@@ -128,7 +128,7 @@ public abstract class WholeCard extends Whole<Card>
 
 		private Card.Builder only;
 		private CardPair.Builder pair;
-		private ImmutableSet<Color> colorIdentity;
+		private ImmutableSet<Color> colorIdentity = ImmutableSet.of();
 
 		private Builder() {}
 
