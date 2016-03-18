@@ -26,8 +26,10 @@ public class CaseInsensitive {
 		return -1;
 	}
 	
+	private static final Splitter TOKENS = Splitter.on(' ').omitEmptyStrings();
+	
 	public static boolean containsTokens(String source, String terms) {
-		for (String token : Splitter.on(' ').omitEmptyStrings().split(terms)) {
+		for (String token : TOKENS.split(terms)) {
 			if (!contains(source, token)) {
 				return false;
 			}
