@@ -158,7 +158,7 @@ abstract class SymbolLogic {
 	static final class Phyrexian extends ColorOptional {
 
 		Phyrexian(Color color) {
-			super(color, 2, String.format("{%c/P}", color.code()));
+			super(color, 1, String.format("{%c/P}", color.code()));
 		}
 	}
 
