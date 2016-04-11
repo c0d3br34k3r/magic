@@ -1,0 +1,5 @@
+Ranger en-Vec {1}{W}{G}
+Creature — Human Soldier Archer
+First strike
+{G}: Regenerate Ranger en-Vec.
+2/2

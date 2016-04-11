@@ -1,0 +1,5 @@
+Manor Skeleton {1}{B}
+Creature — Skeleton
+Haste
+{1}{B}: Regenerate Manor Skeleton.
+1/1

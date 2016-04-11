@@ -1,0 +1,6 @@
+Selesnya Charm {W}{G}
+Instant
+Choose one —
+• Target creature gets +2/+2 and gains trample until end of turn.
+• Exile target creature with power 5 or greater.
+• Put a 2/2 white Knight creature token with vigilance onto the battlefield.

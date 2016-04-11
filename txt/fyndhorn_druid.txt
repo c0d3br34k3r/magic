@@ -1,0 +1,4 @@
+Fyndhorn Druid {2}{G}
+Creature — Elf Druid
+When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.
+2/2

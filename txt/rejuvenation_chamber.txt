@@ -1,0 +1,4 @@
+Rejuvenation Chamber {3}
+Artifact
+Fading 2 (This artifact enters the battlefield with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+{T}: You gain 2 life.

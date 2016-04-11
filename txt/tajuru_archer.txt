@@ -1,0 +1,4 @@
+Tajuru Archer {2}{G}
+Creature — Elf Archer Ally
+Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.
+1/2

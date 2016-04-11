@@ -1,0 +1,4 @@
+Striped Bears {3}{G}
+Creature — Bear
+When Striped Bears enters the battlefield, draw a card.
+2/2

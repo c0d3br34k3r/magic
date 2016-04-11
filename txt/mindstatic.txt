@@ -1,0 +1,3 @@
+Mindstatic {3}{U}
+Instant
+Counter target spell unless its controller pays {6}.

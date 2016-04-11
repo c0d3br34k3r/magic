@@ -1,0 +1,3 @@
+Mirrorweave {2}{W/U}{W/U}
+Instant
+Each other creature becomes a copy of target nonlegendary creature until end of turn.

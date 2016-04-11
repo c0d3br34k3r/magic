@@ -1,0 +1,3 @@
+Minions' Murmurs {2}{B}{B}
+Sorcery
+You draw X cards and you lose X life, where X is the number of creatures you control.

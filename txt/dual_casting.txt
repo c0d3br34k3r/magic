@@ -1,0 +1,4 @@
+Dual Casting {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy."

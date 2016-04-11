@@ -1,0 +1,4 @@
+Bazaar Krovod {4}{W}
+Creature — Beast
+Whenever Bazaar Krovod attacks, another target attacking creature gets +0/+2 until end of turn. Untap that creature.
+2/5

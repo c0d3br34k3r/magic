@@ -1,0 +1,3 @@
+The Abyss {3}{B}
+World Enchantment
+At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.

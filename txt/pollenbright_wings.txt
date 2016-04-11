@@ -1,0 +1,5 @@
+Pollenbright Wings {4}{W}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.

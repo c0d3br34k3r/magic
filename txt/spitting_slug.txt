@@ -1,0 +1,4 @@
+Spitting Slug {1}{G}{G}
+Creature — Slug
+Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.
+2/4

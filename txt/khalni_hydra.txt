@@ -1,0 +1,5 @@
+Khalni Hydra {G}{G}{G}{G}{G}{G}{G}{G}
+Creature — Hydra
+Khalni Hydra costs {G} less to cast for each green creature you control.
+Trample
+8/8

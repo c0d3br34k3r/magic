@@ -1,0 +1,4 @@
+Thran Golem {5}
+Artifact Creature — Golem
+As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.
+3/3

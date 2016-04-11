@@ -1,0 +1,5 @@
+Murder of Crows {3}{U}{U}
+Creature — Bird
+Flying
+Whenever another creature dies, you may draw a card. If you do, discard a card.
+4/4

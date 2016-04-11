@@ -1,0 +1,4 @@
+Nature's Kiss {1}{G}
+Enchantment — Aura
+Enchant creature
+{1}, Exile the top card of your graveyard: Enchanted creature gets +1/+1 until end of turn.

@@ -1,0 +1,3 @@
+Nine-Ringed Bo {3}
+Artifact
+{T}: Nine-Ringed Bo deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead.

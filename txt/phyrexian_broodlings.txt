@@ -1,0 +1,4 @@
+Phyrexian Broodlings {1}{B}{B}
+Creature — Minion
+{1}, Sacrifice a creature: Put a +1/+1 counter on Phyrexian Broodlings.
+2/2

@@ -1,0 +1,5 @@
+Slash Panther {4}{R/P}
+Artifact Creature — Cat
+({R/P} can be paid with either {R} or 2 life.)
+Haste
+4/2

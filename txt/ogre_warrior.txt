@@ -1,0 +1,3 @@
+Ogre Warrior {3}{R}
+Creature — Ogre Warrior
+3/3

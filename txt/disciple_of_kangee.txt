@@ -1,0 +1,4 @@
+Disciple of Kangee {2}{W}
+Creature — Human Wizard
+{U}, {T}: Target creature gains flying and becomes blue until end of turn.
+2/2

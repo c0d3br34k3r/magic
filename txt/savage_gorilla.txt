@@ -1,0 +1,4 @@
+Savage Gorilla {4}{G}
+Creature — Ape
+{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.
+3/3

@@ -1,0 +1,10 @@
+Cunning Bandit {1}{R}{R}
+Creature — Human Warrior
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Cunning Bandit.
+At the beginning of the end step, if there are two or more ki counters on Cunning Bandit, you may flip it.
+2/2
+* FLIP *
+Azamuki, Treachery Incarnate {1}{R}{R}
+Legendary Creature — Spirit
+Remove a ki counter from Azamuki, Treachery Incarnate: Gain control of target creature until end of turn.
+5/2

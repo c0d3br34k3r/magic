@@ -1,0 +1,4 @@
+Legions of Lim-Dûl {1}{B}{B}
+Creature — Zombie
+Snow swampwalk (This creature can't be blocked as long as defending player controls a snow Swamp.)
+2/3

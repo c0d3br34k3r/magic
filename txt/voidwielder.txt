@@ -1,0 +1,4 @@
+Voidwielder {4}{U}
+Creature — Human Wizard
+When Voidwielder enters the battlefield, you may return target creature to its owner's hand.
+1/4

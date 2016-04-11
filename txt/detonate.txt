@@ -1,0 +1,3 @@
+Detonate {X}{R}
+Sorcery
+Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.

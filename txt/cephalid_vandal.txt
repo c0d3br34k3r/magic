@@ -1,0 +1,4 @@
+Cephalid Vandal {1}{U}
+Creature — Cephalid Rogue
+At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.
+1/1

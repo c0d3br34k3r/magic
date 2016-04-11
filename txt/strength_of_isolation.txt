@@ -1,0 +1,5 @@
+Strength of Isolation {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2 and has protection from black.
+Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

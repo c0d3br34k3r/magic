@@ -1,0 +1,3 @@
+Tremor {R}
+Sorcery
+Tremor deals 1 damage to each creature without flying.

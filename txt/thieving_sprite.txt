@@ -1,0 +1,5 @@
+Thieving Sprite {2}{B}
+Creature — Faerie Rogue
+Flying
+When Thieving Sprite enters the battlefield, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.
+1/1

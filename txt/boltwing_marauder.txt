@@ -1,0 +1,5 @@
+Boltwing Marauder {3}{B}{R}
+Creature — Dragon
+Flying
+Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.
+5/4

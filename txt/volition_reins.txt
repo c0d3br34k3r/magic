@@ -1,0 +1,5 @@
+Volition Reins {3}{U}{U}{U}
+Enchantment — Aura
+Enchant permanent
+When Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it.
+You control enchanted permanent.

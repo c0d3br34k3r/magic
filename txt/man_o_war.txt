@@ -1,0 +1,4 @@
+Man-o'-War {2}{U}
+Creature — Jellyfish
+When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+2/2

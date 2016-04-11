@@ -1,0 +1,3 @@
+Goblin War Cry {2}{R}
+Sorcery
+Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.

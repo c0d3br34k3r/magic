@@ -1,0 +1,5 @@
+Shoreline Ranger {5}{U}
+Creature — Bird Soldier
+Flying
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, and put it into your hand. Then shuffle your library.)
+3/4

@@ -1,0 +1,4 @@
+Carnivorous Plant {3}{G}
+Creature — Plant Wall
+Defender
+4/5

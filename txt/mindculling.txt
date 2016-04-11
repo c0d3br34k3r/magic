@@ -1,0 +1,3 @@
+Mindculling {5}{U}
+Sorcery
+You draw two cards and target opponent discards two cards.

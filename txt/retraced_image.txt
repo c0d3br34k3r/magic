@@ -1,0 +1,3 @@
+Retraced Image {U}
+Sorcery
+Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.

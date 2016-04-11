@@ -1,0 +1,4 @@
+Mythic Proportions {4}{G}{G}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +8/+8 and has trample.

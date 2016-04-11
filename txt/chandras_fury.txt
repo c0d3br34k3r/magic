@@ -1,0 +1,3 @@
+Chandra's Fury {4}{R}
+Instant
+Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls.

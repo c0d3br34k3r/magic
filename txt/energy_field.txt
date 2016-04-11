@@ -1,0 +1,4 @@
+Energy Field {1}{U}
+Enchantment
+Prevent all damage that would be dealt to you by sources you don't control.
+When a card is put into your graveyard from anywhere, sacrifice Energy Field.

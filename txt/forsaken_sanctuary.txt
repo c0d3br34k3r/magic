@@ -1,0 +1,4 @@
+Forsaken Sanctuary
+Land
+Forsaken Sanctuary enters the battlefield tapped.
+{T}: Add {W} or {B} to your mana pool.

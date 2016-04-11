@@ -1,0 +1,4 @@
+Amphin Pathmage {3}{U}
+Creature — Salamander Wizard
+{2}{U}: Target creature can't be blocked this turn.
+3/2

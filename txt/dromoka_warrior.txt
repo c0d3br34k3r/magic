@@ -1,0 +1,3 @@
+Dromoka Warrior {1}{W}
+Creature — Human Warrior
+3/1

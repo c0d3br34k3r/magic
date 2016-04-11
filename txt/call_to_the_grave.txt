@@ -1,0 +1,4 @@
+Call to the Grave {4}{B}
+Enchantment
+At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature.
+At the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.

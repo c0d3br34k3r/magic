@@ -1,0 +1,3 @@
+Sins of the Past {4}{B}{B}
+Sorcery
+Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead. Exile Sins of the Past.

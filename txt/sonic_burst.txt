@@ -1,0 +1,4 @@
+Sonic Burst {1}{R}
+Instant
+As an additional cost to cast Sonic Burst, discard a card at random.
+Sonic Burst deals 4 damage to target creature or player.

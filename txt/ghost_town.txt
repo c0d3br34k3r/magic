@@ -1,0 +1,4 @@
+Ghost Town
+Land
+{T}: Add {C} to your mana pool.
+{0}: Return Ghost Town to its owner's hand. Activate this ability only if it's not your turn.

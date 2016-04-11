@@ -1,0 +1,5 @@
+Scourgemark {1}{B}
+Enchantment — Aura
+Enchant creature
+When Scourgemark enters the battlefield, draw a card.
+Enchanted creature gets +1/+0.

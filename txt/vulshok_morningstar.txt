@@ -1,0 +1,4 @@
+Vulshok Morningstar {2}
+Artifact — Equipment
+Equipped creature gets +2/+2.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

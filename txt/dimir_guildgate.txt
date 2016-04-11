@@ -1,0 +1,4 @@
+Dimir Guildgate
+Land — Gate
+Dimir Guildgate enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.

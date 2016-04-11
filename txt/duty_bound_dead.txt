@@ -1,0 +1,5 @@
+Duty-Bound Dead {B}
+Creature — Skeleton
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{3}{B}: Regenerate Duty-Bound Dead. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+0/2

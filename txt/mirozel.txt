@@ -1,0 +1,5 @@
+Mirozel {3}{U}
+Creature — Illusion
+Flying
+When Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand.
+2/3

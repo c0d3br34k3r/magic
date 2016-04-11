@@ -1,0 +1,4 @@
+Dream Prowler {2}{U}{U}
+Creature — Illusion
+Dream Prowler can't be blocked as long as it's attacking alone.
+1/5

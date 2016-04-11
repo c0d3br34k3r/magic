@@ -1,0 +1,7 @@
+Silumgar's Command {3}{U}{B}
+Instant
+Choose two —
+• Counter target noncreature spell.
+• Return target permanent to its owner's hand.
+• Target creature gets -3/-3 until end of turn.
+• Destroy target planeswalker.

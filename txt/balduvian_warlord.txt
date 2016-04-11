@@ -1,0 +1,4 @@
+Balduvian Warlord {3}{R}
+Creature — Human Barbarian
+{T}: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate this ability only during the declare blockers step.
+3/2

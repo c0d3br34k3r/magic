@@ -1,0 +1,4 @@
+Nin, the Pain Artist {U}{R}
+Legendary Creature — Vedalken Wizard
+{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.
+1/1

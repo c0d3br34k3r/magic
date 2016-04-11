@@ -1,0 +1,5 @@
+Teller of Tales {3}{U}{U}
+Creature — Spirit
+Flying
+Whenever you cast a Spirit or Arcane spell, you may tap or untap target creature.
+3/3

@@ -1,0 +1,4 @@
+No-Dachi {2}
+Artifact — Equipment
+Equipped creature gets +2/+0 and has first strike.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)

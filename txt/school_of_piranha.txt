@@ -1,0 +1,4 @@
+School of Piranha {1}{U}
+Creature — Fish
+At the beginning of your upkeep, sacrifice School of Piranha unless you pay {1}{U}.
+3/3

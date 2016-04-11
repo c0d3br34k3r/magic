@@ -1,0 +1,5 @@
+Mistmoon Griffin {3}{W}
+Creature — Griffin
+Flying
+When Mistmoon Griffin dies, exile Mistmoon Griffin, then return the top creature card of your graveyard to the battlefield.
+2/2

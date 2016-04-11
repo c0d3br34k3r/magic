@@ -1,0 +1,4 @@
+Diregraf Ghoul {B}
+Creature — Zombie
+Diregraf Ghoul enters the battlefield tapped.
+2/2

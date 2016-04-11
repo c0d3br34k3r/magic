@@ -1,0 +1,4 @@
+Benalish Missionary {W}
+Creature — Human Cleric
+{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.
+1/1

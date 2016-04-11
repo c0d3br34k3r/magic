@@ -1,0 +1,4 @@
+Leonin Den-Guard {1}{W}
+Creature — Cat Soldier
+As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance.
+1/3

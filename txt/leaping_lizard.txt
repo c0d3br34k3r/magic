@@ -1,0 +1,4 @@
+Leaping Lizard {1}{G}{G}
+Creature — Lizard
+{1}{G}: Leaping Lizard gets -0/-1 and gains flying until end of turn.
+2/3

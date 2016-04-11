@@ -1,0 +1,3 @@
+Mortal Combat {2}{B}{B}
+Enchantment
+At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.

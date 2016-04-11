@@ -1,0 +1,3 @@
+Psychic Barrier {U}{U}
+Instant
+Counter target creature spell. Its controller loses 1 life.

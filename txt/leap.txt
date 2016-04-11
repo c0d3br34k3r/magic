@@ -1,0 +1,4 @@
+Leap {U}
+Instant
+Target creature gains flying until end of turn.
+Draw a card.

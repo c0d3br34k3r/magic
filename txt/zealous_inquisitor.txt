@@ -1,0 +1,4 @@
+Zealous Inquisitor {2}{W}
+Creature — Human Cleric
+{1}{W}: The next 1 damage that would be dealt to Zealous Inquisitor this turn is dealt to target creature instead.
+2/2

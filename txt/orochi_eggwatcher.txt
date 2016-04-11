@@ -1,0 +1,9 @@
+Orochi Eggwatcher {2}{G}
+Creature — Snake Shaman
+{2}{G}, {T}: Put a 1/1 green Snake creature token onto the battlefield. If you control ten or more creatures, flip Orochi Eggwatcher.
+1/1
+* FLIP *
+Shidako, Broodmistress {2}{G}
+Legendary Creature — Snake Shaman
+{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.
+3/3

@@ -1,0 +1,3 @@
+Fungal Sprouting {3}{G}
+Sorcery
+Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the greatest power among creatures you control.

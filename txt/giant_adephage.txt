@@ -1,0 +1,5 @@
+Giant Adephage {5}{G}{G}
+Creature — Insect
+Trample
+Whenever Giant Adephage deals combat damage to a player, put a token onto the battlefield that's a copy of Giant Adephage.
+7/7

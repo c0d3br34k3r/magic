@@ -1,0 +1,4 @@
+Storm Shaman {2}{R}
+Creature — Human Cleric Shaman
+{R}: Storm Shaman gets +1/+0 until end of turn.
+0/4

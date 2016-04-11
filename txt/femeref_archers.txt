@@ -1,0 +1,4 @@
+Femeref Archers {2}{G}
+Creature — Human Archer
+{T}: Femeref Archers deals 4 damage to target attacking creature with flying.
+2/2

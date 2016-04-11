@@ -1,0 +1,4 @@
+Shatterskull Recruit {3}{R}{R}
+Creature — Giant Warrior Ally
+Menace (This creature can't be blocked except by two or more creatures.)
+4/4

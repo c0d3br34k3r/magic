@@ -1,0 +1,5 @@
+Femeref Knight {2}{W}
+Creature — Human Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{W}: Femeref Knight gains vigilance until end of turn.
+2/2

@@ -1,0 +1,5 @@
+Sanctum Gargoyle {3}{W}
+Artifact Creature — Gargoyle
+Flying
+When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+2/3

@@ -1,0 +1,4 @@
+Kher Keep
+Legendary Land
+{T}: Add {C} to your mana pool.
+{1}{R}, {T}: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep onto the battlefield.

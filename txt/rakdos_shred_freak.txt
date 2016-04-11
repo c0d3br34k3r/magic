@@ -1,0 +1,4 @@
+Rakdos Shred-Freak {B/R}{B/R}
+Creature — Human Berserker
+Haste
+2/1

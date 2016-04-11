@@ -1,0 +1,4 @@
+Cast into Darkness {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-0 and can't block.

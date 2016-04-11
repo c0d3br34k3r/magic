@@ -1,0 +1,5 @@
+Pygmy Troll {1}{G}
+Creature — Troll
+Whenever Pygmy Troll becomes blocked by a creature, Pygmy Troll gets +1/+1 until end of turn.
+{G}: Regenerate Pygmy Troll.
+1/1

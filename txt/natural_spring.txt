@@ -1,0 +1,3 @@
+Natural Spring {3}{G}{G}
+Sorcery
+Target player gains 8 life.

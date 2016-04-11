@@ -1,0 +1,5 @@
+Thalakos Deceiver {3}{U}
+Creature — Thalakos Wizard
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Thalakos Deceiver attacks and isn't blocked, you may sacrifice it. If you do, gain control of target creature. (This effect lasts indefinitely.)
+1/1

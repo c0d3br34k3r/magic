@@ -1,0 +1,5 @@
+Fists of Ironwood {1}{G}
+Enchantment — Aura
+Enchant creature
+When Fists of Ironwood enters the battlefield, put two 1/1 green Saproling creature tokens onto the battlefield.
+Enchanted creature has trample.

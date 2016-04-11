@@ -1,0 +1,4 @@
+Flametongue Kavu {3}{R}
+Creature — Kavu
+When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+4/2

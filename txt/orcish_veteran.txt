@@ -1,0 +1,5 @@
+Orcish Veteran {2}{R}
+Creature — Orc
+Orcish Veteran can't block white creatures with power 2 or greater.
+{R}: Orcish Veteran gains first strike until end of turn.
+2/2

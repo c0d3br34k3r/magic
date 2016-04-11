@@ -1,0 +1,5 @@
+Frontline Sage {2}{U}
+Creature — Human Wizard
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{U}, {T}: Draw a card, then discard a card.
+0/1

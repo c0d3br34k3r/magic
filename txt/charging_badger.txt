@@ -1,0 +1,4 @@
+Charging Badger {G}
+Creature — Badger
+Trample
+1/1

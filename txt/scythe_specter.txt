@@ -1,0 +1,5 @@
+Scythe Specter {4}{B}{B}
+Creature — Specter
+Flying
+Whenever Scythe Specter deals combat damage to a player, each opponent discards a card. Each player who discarded a card with the highest converted mana cost among cards discarded this way loses life equal to that converted mana cost.
+4/4

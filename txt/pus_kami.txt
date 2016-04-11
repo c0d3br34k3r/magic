@@ -1,0 +1,5 @@
+Pus Kami {5}{B}{B}
+Creature — Spirit
+{B}, Sacrifice Pus Kami: Destroy target nonblack creature.
+Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)
+3/3

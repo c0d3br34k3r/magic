@@ -1,0 +1,5 @@
+Obstinate Baloth {2}{G}{G}
+Creature — Beast
+When Obstinate Baloth enters the battlefield, you gain 4 life.
+If a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard.
+4/4

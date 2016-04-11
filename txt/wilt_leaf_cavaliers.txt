@@ -1,0 +1,4 @@
+Wilt-Leaf Cavaliers {G/W}{G/W}{G/W}
+Creature — Elf Knight
+Vigilance
+3/4

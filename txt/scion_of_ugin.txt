@@ -1,0 +1,4 @@
+Scion of Ugin {6}
+Creature — Dragon Spirit
+Flying
+4/4

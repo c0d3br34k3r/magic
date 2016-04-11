@@ -1,0 +1,5 @@
+Cloud Sprite {U}
+Creature — Faerie
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Cloud Sprite can block only creatures with flying.
+1/1

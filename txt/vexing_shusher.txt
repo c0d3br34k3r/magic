@@ -1,0 +1,5 @@
+Vexing Shusher {R/G}{R/G}
+Creature — Goblin Shaman
+Vexing Shusher can't be countered.
+{R/G}: Target spell can't be countered by spells or abilities.
+2/2

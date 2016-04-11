@@ -1,0 +1,4 @@
+Conflagrate {X}{X}{R}
+Sorcery
+Conflagrate deals X damage divided as you choose among any number of target creatures and/or players.
+Flashback—{R}{R}, Discard X cards. (You may cast this card from your graveyard for its flashback cost. Then exile it.)

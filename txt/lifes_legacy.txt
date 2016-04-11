@@ -1,0 +1,4 @@
+Life's Legacy {1}{G}
+Sorcery
+As an additional cost to cast Life's Legacy, sacrifice a creature.
+Draw cards equal to the sacrificed creature's power.

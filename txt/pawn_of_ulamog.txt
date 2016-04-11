@@ -1,0 +1,4 @@
+Pawn of Ulamog {1}{B}{B}
+Creature — Vampire Shaman
+Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+2/2

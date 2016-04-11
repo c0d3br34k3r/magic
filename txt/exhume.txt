@@ -1,0 +1,3 @@
+Exhume {1}{B}
+Sorcery
+Each player puts a creature card from his or her graveyard onto the battlefield.

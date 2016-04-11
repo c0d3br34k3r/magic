@@ -1,0 +1,5 @@
+Wild Cantor {R/G}
+Creature — Human Druid
+({R/G} can be paid with either {R} or {G}.)
+Sacrifice Wild Cantor: Add one mana of any color to your mana pool.
+1/1

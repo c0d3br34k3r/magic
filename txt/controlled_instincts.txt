@@ -1,0 +1,4 @@
+Controlled Instincts {U}
+Enchantment — Aura
+Enchant red or green creature
+Enchanted creature doesn't untap during its controller's untap step.

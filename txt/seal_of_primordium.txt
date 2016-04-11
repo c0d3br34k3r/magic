@@ -1,0 +1,3 @@
+Seal of Primordium {1}{G}
+Enchantment
+Sacrifice Seal of Primordium: Destroy target artifact or enchantment.

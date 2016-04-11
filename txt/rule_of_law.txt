@@ -1,0 +1,3 @@
+Rule of Law {2}{W}
+Enchantment
+Each player can't cast more than one spell each turn.

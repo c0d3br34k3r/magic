@@ -1,0 +1,4 @@
+Composite Golem {6}
+Artifact Creature — Golem
+Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.
+4/4

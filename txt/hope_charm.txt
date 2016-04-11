@@ -1,0 +1,6 @@
+Hope Charm {W}
+Instant
+Choose one —
+• Target creature gains first strike until end of turn.
+• Target player gains 2 life.
+• Destroy target Aura.

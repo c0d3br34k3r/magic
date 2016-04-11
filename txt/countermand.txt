@@ -1,0 +1,3 @@
+Countermand {2}{U}{U}
+Instant
+Counter target spell. Its controller puts the top four cards of his or her library into his or her graveyard.

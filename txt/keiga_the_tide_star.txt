@@ -1,0 +1,5 @@
+Keiga, the Tide Star {5}{U}
+Legendary Creature — Dragon Spirit
+Flying
+When Keiga, the Tide Star dies, gain control of target creature.
+5/5

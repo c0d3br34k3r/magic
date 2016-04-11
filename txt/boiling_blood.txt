@@ -1,0 +1,4 @@
+Boiling Blood {2}{R}
+Instant
+Target creature attacks this turn if able.
+Draw a card.

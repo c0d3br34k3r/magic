@@ -1,0 +1,4 @@
+Pianna, Nomad Captain {1}{W}{W}
+Legendary Creature — Human Nomad
+Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn.
+2/2

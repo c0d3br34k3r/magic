@@ -1,0 +1,5 @@
+Salt Flats
+Land
+Salt Flats enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{T}: Add {W} or {B} to your mana pool. Salt Flats deals 1 damage to you.

@@ -1,0 +1,4 @@
+Akroan Hoplite {W}{R}
+Creature — Human Soldier
+Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.
+1/2

@@ -1,0 +1,3 @@
+Ancestral Recall {U}
+Instant
+Target player draws three cards.

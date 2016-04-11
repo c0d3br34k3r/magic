@@ -1,0 +1,4 @@
+Runed Servitor {2}
+Artifact Creature — Construct
+When Runed Servitor dies, each player draws a card.
+2/2

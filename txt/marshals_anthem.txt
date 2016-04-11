@@ -1,0 +1,5 @@
+Marshal's Anthem {2}{W}{W}
+Enchantment
+Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+Creatures you control get +1/+1.
+When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.

@@ -1,0 +1,3 @@
+Moonlace {U}
+Instant
+Target spell or permanent becomes colorless.

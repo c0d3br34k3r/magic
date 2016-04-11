@@ -1,0 +1,3 @@
+Gaea's Cradle
+Legendary Land
+{T}: Add {G} to your mana pool for each creature you control.

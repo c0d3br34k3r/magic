@@ -1,0 +1,4 @@
+Moment's Peace {1}{G}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

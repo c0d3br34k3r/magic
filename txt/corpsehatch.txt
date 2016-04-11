@@ -1,0 +1,3 @@
+Corpsehatch {3}{B}{B}
+Sorcery
+Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."

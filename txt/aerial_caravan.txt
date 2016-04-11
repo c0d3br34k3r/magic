@@ -1,0 +1,5 @@
+Aerial Caravan {4}{U}{U}
+Creature — Human Soldier
+Flying
+{1}{U}{U}: Exile the top card of your library. Until end of turn, you may play that card. (Reveal the card as you exile it.)
+4/3

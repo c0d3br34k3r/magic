@@ -1,0 +1,4 @@
+Eiganjo Castle
+Legendary Land
+{T}: Add {W} to your mana pool.
+{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn.

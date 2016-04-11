@@ -1,0 +1,5 @@
+Melee {4}{R}
+Instant
+Cast Melee only during your turn and only during combat before blockers are declared.
+You choose which creatures block this combat and how those creatures block.
+Whenever a creature attacks and isn't blocked this combat, untap it and remove it from combat.

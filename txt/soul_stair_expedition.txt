@@ -1,0 +1,4 @@
+Soul Stair Expedition {B}
+Enchantment
+Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.
+Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.

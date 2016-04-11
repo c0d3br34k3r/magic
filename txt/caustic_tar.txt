@@ -1,0 +1,4 @@
+Caustic Tar {4}{B}{B}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Target player loses 3 life."

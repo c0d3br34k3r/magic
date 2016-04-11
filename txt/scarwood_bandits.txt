@@ -1,0 +1,5 @@
+Scarwood Bandits {2}{G}{G}
+Creature — Human Rogue
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+{2}{G}, {T}: Unless an opponent pays {2}, gain control of target artifact for as long as Scarwood Bandits remains on the battlefield.
+2/2

@@ -1,0 +1,3 @@
+Jade Statue {4}
+Artifact
+{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.

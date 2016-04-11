@@ -1,0 +1,3 @@
+Goblin Trenches {1}{W}{R}
+Enchantment
+{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.

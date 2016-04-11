@@ -1,0 +1,6 @@
+Wall of Resistance {1}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Flying
+At the beginning of each end step, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.
+0/3

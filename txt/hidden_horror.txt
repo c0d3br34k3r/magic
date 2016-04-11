@@ -1,0 +1,4 @@
+Hidden Horror {1}{B}{B}
+Creature — Horror
+When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+4/4

@@ -1,0 +1,4 @@
+Firehoof Cavalry {W}
+Creature — Human Berserker
+{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.
+1/1

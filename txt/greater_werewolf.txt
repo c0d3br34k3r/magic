@@ -1,0 +1,4 @@
+Greater Werewolf {4}{B}
+Creature — Werewolf
+At end of combat, put a -0/-2 counter on each creature blocking or blocked by Greater Werewolf.
+2/4

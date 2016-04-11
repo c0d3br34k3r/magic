@@ -1,0 +1,4 @@
+Dispense Justice {2}{W}
+Instant
+Target player sacrifices an attacking creature.
+Metalcraft — That player sacrifices two attacking creatures instead if you control three or more artifacts.

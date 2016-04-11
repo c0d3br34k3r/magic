@@ -1,0 +1,5 @@
+Brood Monitor {4}{G}{G}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+When Brood Monitor enters the battlefield, put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."
+3/3

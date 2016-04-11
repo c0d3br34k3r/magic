@@ -1,0 +1,4 @@
+Mana Prism {3}
+Artifact
+{T}: Add {C} to your mana pool.
+{1}, {T}: Add one mana of any color to your mana pool.

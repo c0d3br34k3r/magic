@@ -1,0 +1,5 @@
+Sage of Fables {2}{U}
+Creature — Merfolk Wizard
+Each other Wizard creature you control enters the battlefield with an additional +1/+1 counter on it.
+{2}, Remove a +1/+1 counter from a creature you control: Draw a card.
+2/2

@@ -1,0 +1,4 @@
+Sentinel Sliver {1}{W}
+Creature — Sliver
+Sliver creatures you control have vigilance. (Attacking doesn't cause them to tap.)
+2/2

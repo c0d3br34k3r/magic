@@ -1,0 +1,5 @@
+Anurid Swarmsnapper {2}{G}
+Creature — Frog Beast
+Reach (This creature can block creatures with flying.)
+{1}{G}: Anurid Swarmsnapper can block an additional creature this turn.
+1/4

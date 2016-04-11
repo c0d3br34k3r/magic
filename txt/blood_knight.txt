@@ -1,0 +1,4 @@
+Blood Knight {R}{R}
+Creature — Human Knight
+First strike, protection from white
+2/2

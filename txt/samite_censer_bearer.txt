@@ -1,0 +1,4 @@
+Samite Censer-Bearer {W}
+Creature — Human Rebel Cleric
+{W}, Sacrifice Samite Censer-Bearer: Prevent the next 1 damage that would be dealt to each creature you control this turn.
+1/1

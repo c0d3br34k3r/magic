@@ -1,0 +1,4 @@
+Vessel of Endless Rest {3}
+Artifact
+When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library.
+{T}: Add one mana of any color to your mana pool.

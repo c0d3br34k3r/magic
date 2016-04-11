@@ -1,0 +1,3 @@
+Strip Bare {W}
+Instant
+Destroy all Auras and Equipment attached to target creature.

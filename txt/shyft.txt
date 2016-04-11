@@ -1,0 +1,4 @@
+Shyft {4}{U}
+Creature — Shapeshifter
+At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)
+4/2

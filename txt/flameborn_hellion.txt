@@ -1,0 +1,5 @@
+Flameborn Hellion {5}{R}
+Creature — Hellion
+Haste
+Flameborn Hellion attacks each turn if able.
+5/4

@@ -1,0 +1,4 @@
+Curse of Chains {1}{W/U}
+Enchantment — Aura
+Enchant creature
+At the beginning of each upkeep, tap enchanted creature.

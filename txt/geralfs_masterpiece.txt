@@ -1,0 +1,6 @@
+Geralf's Masterpiece {3}{U}{U}
+Creature — Zombie Horror
+Flying
+Geralf's Masterpiece gets -1/-1 for each card in your hand.
+{3}{U}, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.
+7/7

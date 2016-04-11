@@ -1,0 +1,4 @@
+Bond Beetle {G}
+Creature — Insect
+When Bond Beetle enters the battlefield, put a +1/+1 counter on target creature.
+0/1

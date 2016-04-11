@@ -1,0 +1,5 @@
+Stoic Angel {1}{W}{U}{G}
+Creature — Angel
+Flying, vigilance
+Players can't untap more than one creature during their untap steps.
+3/4

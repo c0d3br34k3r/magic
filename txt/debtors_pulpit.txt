@@ -1,0 +1,4 @@
+Debtor's Pulpit {4}{W}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Tap target creature."

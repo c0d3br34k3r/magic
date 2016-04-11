@@ -1,0 +1,4 @@
+Ydwen Efreet {R}{R}{R}
+Creature — Efreet
+Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat and it can't block this turn. Creatures it was blocking that had become blocked by only Ydwen Efreet this combat become unblocked.
+3/6

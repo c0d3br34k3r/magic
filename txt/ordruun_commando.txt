@@ -1,0 +1,4 @@
+Ordruun Commando {3}{R}
+Creature — Minotaur Soldier
+{W}: Prevent the next 1 damage that would be dealt to Ordruun Commando this turn.
+4/1

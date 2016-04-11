@@ -1,0 +1,4 @@
+Mossdog {G}
+Creature — Plant Hound
+Whenever Mossdog becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on Mossdog.
+1/1

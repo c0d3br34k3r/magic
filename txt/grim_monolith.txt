@@ -1,0 +1,5 @@
+Grim Monolith {2}
+Artifact
+Grim Monolith doesn't untap during your untap step.
+{T}: Add {C}{C}{C} to your mana pool.
+{4}: Untap Grim Monolith.

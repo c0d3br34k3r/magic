@@ -1,0 +1,5 @@
+Mounted Archers {3}{W}
+Creature — Human Soldier Archer
+Reach (This creature can block creatures with flying.)
+{W}: Mounted Archers can block an additional creature this turn.
+2/3

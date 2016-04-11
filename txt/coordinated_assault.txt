@@ -1,0 +1,3 @@
+Coordinated Assault {R}
+Instant
+Up to two target creatures each get +1/+0 and gain first strike until end of turn.

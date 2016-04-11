@@ -1,0 +1,4 @@
+Vodalian Merchant {1}{U}
+Creature — Merfolk
+When Vodalian Merchant enters the battlefield, draw a card, then discard a card.
+1/2

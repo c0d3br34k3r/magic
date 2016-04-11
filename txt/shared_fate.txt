@@ -1,0 +1,4 @@
+Shared Fate {4}{U}
+Enchantment
+If a player would draw a card, that player exiles the top card of one of his or her opponents' libraries face down instead.
+Each player may look at and play cards he or she exiled with Shared Fate.

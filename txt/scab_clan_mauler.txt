@@ -1,0 +1,5 @@
+Scab-Clan Mauler {R}{G}
+Creature — Human Berserker
+Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Trample
+1/1

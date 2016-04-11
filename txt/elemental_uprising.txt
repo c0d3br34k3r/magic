@@ -1,0 +1,3 @@
+Elemental Uprising {1}{G}
+Instant
+Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.

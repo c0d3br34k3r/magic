@@ -1,0 +1,4 @@
+Kodama of the South Tree {2}{G}{G}
+Legendary Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, each other creature you control gets +1/+1 and gains trample until end of turn.
+4/4

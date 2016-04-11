@@ -1,0 +1,3 @@
+Valiant Guard {W}
+Creature — Human Soldier
+0/3

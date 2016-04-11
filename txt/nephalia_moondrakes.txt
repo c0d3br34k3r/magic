@@ -1,0 +1,6 @@
+Nephalia Moondrakes {5}{U}{U}
+Creature — Drake
+Flying
+When Nephalia Moondrakes enters the battlefield, target creature gains flying until end of turn.
+{4}{U}{U}, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.
+5/5

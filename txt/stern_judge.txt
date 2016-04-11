@@ -1,0 +1,4 @@
+Stern Judge {2}{W}
+Creature — Human Cleric
+{T}: Each player loses 1 life for each Swamp he or she controls.
+2/2

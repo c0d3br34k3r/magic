@@ -1,0 +1,6 @@
+Hull Breach {R}{G}
+Sorcery
+Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target artifact and target enchantment.

@@ -1,0 +1,4 @@
+Beetleform Mage {1}{U}{G}
+Creature — Human Insect Wizard
+{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+2/2

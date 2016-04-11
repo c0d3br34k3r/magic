@@ -1,0 +1,4 @@
+Blinding Powder {1}
+Artifact — Equipment
+Equipped creature has "Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn."
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

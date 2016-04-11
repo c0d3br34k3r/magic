@@ -1,0 +1,4 @@
+Goblin Striker {1}{R}
+Creature — Goblin Berserker
+First strike, haste
+1/1

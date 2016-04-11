@@ -1,0 +1,5 @@
+Spectral Lynx {1}{W}
+Creature — Cat Spirit
+Protection from green
+{B}: Regenerate Spectral Lynx.
+2/1

@@ -1,0 +1,3 @@
+Dispersing Orb {3}{U}{U}
+Enchantment
+{3}{U}, Sacrifice a permanent: Return target permanent to its owner's hand.

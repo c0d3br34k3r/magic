@@ -1,0 +1,4 @@
+Rapid Decay {1}{B}
+Instant
+Exile up to three target cards from a single graveyard.
+Cycling {2} ({2}, Discard this card: Draw a card.)

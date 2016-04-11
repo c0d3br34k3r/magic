@@ -1,0 +1,4 @@
+Barrow Ghoul {1}{B}
+Creature — Zombie
+At the beginning of your upkeep, sacrifice Barrow Ghoul unless you exile the top creature card of your graveyard.
+4/4

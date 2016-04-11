@@ -1,0 +1,5 @@
+Araba Mothrider {1}{W}
+Creature — Human Samurai
+Flying
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+1/1

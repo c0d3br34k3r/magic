@@ -1,0 +1,5 @@
+Rhox Bodyguard {3}{W}{G}
+Creature — Rhino Monk Soldier
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+When Rhox Bodyguard enters the battlefield, you gain 3 life.
+2/3

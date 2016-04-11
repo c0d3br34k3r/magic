@@ -1,0 +1,4 @@
+Maggot Carrier {B}
+Creature — Zombie
+When Maggot Carrier enters the battlefield, each player loses 1 life.
+1/1

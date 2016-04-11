@@ -1,0 +1,5 @@
+Heart Warden {1}{G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool.
+{2}, Sacrifice Heart Warden: Draw a card.
+1/1

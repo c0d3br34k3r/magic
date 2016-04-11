@@ -1,0 +1,3 @@
+Gaze of Adamaro {2}{R}{R}
+Instant — Arcane
+Gaze of Adamaro deals damage to target player equal to the number of cards in that player's hand.

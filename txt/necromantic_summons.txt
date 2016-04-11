@@ -1,0 +1,4 @@
+Necromantic Summons {4}{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, that creature enters the battlefield with two additional +1/+1 counters on it.

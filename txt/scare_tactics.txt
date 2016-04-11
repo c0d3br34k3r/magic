@@ -1,0 +1,3 @@
+Scare Tactics {B}
+Instant
+Creatures you control get +1/+0 until end of turn.

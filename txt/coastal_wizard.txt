@@ -1,0 +1,4 @@
+Coastal Wizard {2}{U}{U}
+Creature — Human Wizard
+{T}: Return Coastal Wizard and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+1/1

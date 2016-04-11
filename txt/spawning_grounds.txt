@@ -1,0 +1,4 @@
+Spawning Grounds {6}{G}{G}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto the battlefield."

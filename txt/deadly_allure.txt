@@ -1,0 +1,4 @@
+Deadly Allure {B}
+Sorcery
+Target creature gains deathtouch until end of turn and must be blocked this turn if able.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

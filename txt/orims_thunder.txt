@@ -1,0 +1,4 @@
+Orim's Thunder {2}{W}
+Instant
+Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Destroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.

@@ -1,0 +1,5 @@
+Indulgent Aristocrat {B}
+Creature — Vampire
+Lifelink
+{2}, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control.
+1/1

@@ -1,0 +1,6 @@
+Woolly Razorback {2}{W}{W}
+Creature — Boar Beast
+Woolly Razorback enters the battlefield with three ice counters on it.
+As long as Woolly Razorback has an ice counter on it, prevent all combat damage it would deal and it has defender.
+Whenever Woolly Razorback blocks, remove an ice counter from it.
+7/7

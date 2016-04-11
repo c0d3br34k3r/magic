@@ -1,0 +1,3 @@
+Screaming Fury {2}{R}
+Sorcery
+Target creature gets +5/+0 and gains haste until end of turn.

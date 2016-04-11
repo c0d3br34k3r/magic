@@ -1,0 +1,5 @@
+Thraben Doomsayer {1}{W}{W}
+Creature — Human Cleric
+{T}: Put a 1/1 white Human creature token onto the battlefield.
+Fateful hour — As long as you have 5 or less life, other creatures you control get +2/+2.
+2/2

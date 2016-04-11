@@ -1,0 +1,6 @@
+Fiery Confluence {2}{R}{R}
+Sorcery
+Choose three. You may choose the same mode more than once.
+• Fiery Confluence deals 1 damage to each creature.
+• Fiery Confluence deals 2 damage to each opponent.
+• Destroy target artifact.

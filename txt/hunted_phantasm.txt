@@ -1,0 +1,5 @@
+Hunted Phantasm {1}{U}{U}
+Creature — Spirit
+Hunted Phantasm can't be blocked.
+When Hunted Phantasm enters the battlefield, target opponent puts five 1/1 red Goblin creature tokens onto the battlefield.
+4/6

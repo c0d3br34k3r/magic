@@ -1,0 +1,5 @@
+Silhana Ledgewalker {1}{G}
+Creature — Elf Rogue
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Silhana Ledgewalker can't be blocked except by creatures with flying.
+1/1

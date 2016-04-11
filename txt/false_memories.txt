@@ -1,0 +1,3 @@
+False Memories {1}{U}
+Instant
+Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.

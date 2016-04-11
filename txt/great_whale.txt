@@ -1,0 +1,4 @@
+Great Whale {5}{U}{U}
+Creature — Whale
+When Great Whale enters the battlefield, untap up to seven lands.
+5/5

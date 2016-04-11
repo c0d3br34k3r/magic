@@ -1,0 +1,4 @@
+Blighted Fen
+Land
+{T}: Add {C} to your mana pool.
+{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.

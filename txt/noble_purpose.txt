@@ -1,0 +1,3 @@
+Noble Purpose {3}{W}{W}
+Enchantment
+Whenever a creature you control deals combat damage, you gain that much life.

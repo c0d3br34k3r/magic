@@ -1,0 +1,4 @@
+Dogged Hunter {2}{W}
+Creature — Human Nomad
+{T}: Destroy target creature token.
+1/1

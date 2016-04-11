@@ -1,0 +1,4 @@
+Savaen Elves {G}
+Creature — Elf
+{G}{G}, {T}: Destroy target Aura attached to a land.
+1/1

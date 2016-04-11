@@ -1,0 +1,5 @@
+Gorilla War Cry {1}{R}
+Instant
+Cast Gorilla War Cry only during combat before blockers are declared.
+All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
+Draw a card at the beginning of the next turn's upkeep.

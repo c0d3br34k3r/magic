@@ -1,0 +1,4 @@
+Patagia Golem {4}
+Artifact Creature — Golem
+{3}: Patagia Golem gains flying until end of turn.
+2/3

@@ -1,0 +1,4 @@
+Cabal Trainee {B}
+Creature — Human Minion
+Sacrifice Cabal Trainee: Target creature gets -2/-0 until end of turn.
+1/1

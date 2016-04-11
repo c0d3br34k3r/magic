@@ -1,0 +1,5 @@
+Phyrexian Obliterator {B}{B}{B}{B}
+Creature — Horror
+Trample
+Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.
+5/5

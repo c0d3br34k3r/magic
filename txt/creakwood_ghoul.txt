@@ -1,0 +1,4 @@
+Creakwood Ghoul {4}{B}
+Creature — Plant Zombie
+{B/G}{B/G}: Exile target card from a graveyard. You gain 1 life.
+3/3

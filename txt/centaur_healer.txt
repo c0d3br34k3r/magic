@@ -1,0 +1,4 @@
+Centaur Healer {1}{W}{G}
+Creature — Centaur Cleric
+When Centaur Healer enters the battlefield, you gain 3 life.
+3/3

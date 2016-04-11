@@ -1,0 +1,5 @@
+Kjeldoran Dead {B}
+Creature — Skeleton
+When Kjeldoran Dead enters the battlefield, sacrifice a creature.
+{B}: Regenerate Kjeldoran Dead.
+3/1

@@ -1,0 +1,4 @@
+Canopy Vista
+Land — Forest Plains
+({T}: Add {G} or {W} to your mana pool.)
+Canopy Vista enters the battlefield tapped unless you control two or more basic lands.

@@ -1,0 +1,5 @@
+Fallen Askari {1}{B}
+Creature — Human Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Fallen Askari can't block.
+2/2

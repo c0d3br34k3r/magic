@@ -1,0 +1,3 @@
+Insight {2}{U}
+Enchantment
+Whenever an opponent casts a green spell, you draw a card.

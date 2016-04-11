@@ -1,0 +1,5 @@
+Bronze Horse {7}
+Artifact Creature — Horse
+Trample
+As long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.
+4/4

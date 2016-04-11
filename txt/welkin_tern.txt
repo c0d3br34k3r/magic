@@ -1,0 +1,5 @@
+Welkin Tern {1}{U}
+Creature — Bird
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Welkin Tern can block only creatures with flying.
+2/1

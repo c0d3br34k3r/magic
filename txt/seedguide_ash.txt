@@ -1,0 +1,4 @@
+Seedguide Ash {4}{G}
+Creature — Treefolk Druid
+When Seedguide Ash dies, you may search your library for up to three Forest cards and put them onto the battlefield tapped. If you do, shuffle your library.
+4/4

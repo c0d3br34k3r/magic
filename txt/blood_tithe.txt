@@ -1,0 +1,3 @@
+Blood Tithe {3}{B}
+Sorcery
+Each opponent loses 3 life. You gain life equal to the life lost this way.

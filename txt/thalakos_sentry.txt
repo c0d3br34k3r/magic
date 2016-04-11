@@ -1,0 +1,4 @@
+Thalakos Sentry {1}{U}
+Creature — Thalakos Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+1/2

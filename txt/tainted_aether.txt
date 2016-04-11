@@ -1,0 +1,3 @@
+Tainted Æther {2}{B}{B}
+Enchantment
+Whenever a creature enters the battlefield, its controller sacrifices a creature or land.

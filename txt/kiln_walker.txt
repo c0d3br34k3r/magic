@@ -1,0 +1,4 @@
+Kiln Walker {3}
+Artifact Creature — Construct
+Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.
+0/3

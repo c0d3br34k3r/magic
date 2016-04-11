@@ -1,0 +1,5 @@
+Calciform Pools
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Put a storage counter on Calciform Pools.
+{1}, Remove X storage counters from Calciform Pools: Add X mana in any combination of {W} and/or {U} to your mana pool.

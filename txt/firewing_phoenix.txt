@@ -1,0 +1,5 @@
+Firewing Phoenix {3}{R}
+Creature — Phoenix
+Flying
+{1}{R}{R}{R}: Return Firewing Phoenix from your graveyard to your hand.
+4/2

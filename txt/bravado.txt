@@ -1,0 +1,4 @@
+Bravado {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each other creature you control.

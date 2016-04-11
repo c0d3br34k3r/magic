@@ -1,0 +1,5 @@
+Freed from the Real {2}{U}
+Enchantment — Aura
+Enchant creature
+{U}: Tap enchanted creature.
+{U}: Untap enchanted creature.

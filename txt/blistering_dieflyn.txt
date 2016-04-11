@@ -1,0 +1,5 @@
+Blistering Dieflyn {3}{R}
+Creature — Imp
+Flying
+{B/R}: Blistering Dieflyn gets +1/+0 until end of turn.
+0/1

@@ -1,0 +1,4 @@
+Nested Ghoul {3}{B}{B}
+Creature — Zombie Warrior
+Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.
+4/2

@@ -1,0 +1,4 @@
+Giant Warthog {5}{G}
+Creature — Boar Beast
+Trample
+5/5

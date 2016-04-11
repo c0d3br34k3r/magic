@@ -1,0 +1,3 @@
+Death Match {3}{B}
+Enchantment
+Whenever a creature enters the battlefield, that creature's controller may have target creature of his or her choice get -3/-3 until end of turn.

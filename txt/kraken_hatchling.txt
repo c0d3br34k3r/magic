@@ -1,0 +1,3 @@
+Kraken Hatchling {U}
+Creature — Kraken
+0/4

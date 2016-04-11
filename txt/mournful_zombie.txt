@@ -1,0 +1,4 @@
+Mournful Zombie {2}{B}
+Creature — Zombie
+{W}, {T}: Target player gains 1 life.
+2/1

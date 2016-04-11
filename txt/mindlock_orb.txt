@@ -1,0 +1,3 @@
+Mindlock Orb {3}{U}
+Artifact
+Players can't search libraries.

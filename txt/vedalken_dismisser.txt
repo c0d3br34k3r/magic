@@ -1,0 +1,4 @@
+Vedalken Dismisser {5}{U}
+Creature — Vedalken Wizard
+When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library.
+2/2

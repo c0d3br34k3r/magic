@@ -1,0 +1,4 @@
+Bubbling Beebles {4}{U}
+Creature — Beeble
+Bubbling Beebles can't be blocked as long as defending player controls an enchantment.
+3/3

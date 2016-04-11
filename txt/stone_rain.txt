@@ -1,0 +1,3 @@
+Stone Rain {2}{R}
+Sorcery
+Destroy target land.

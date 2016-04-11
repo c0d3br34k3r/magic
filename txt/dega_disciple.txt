@@ -1,0 +1,5 @@
+Dega Disciple {W}
+Creature — Human Wizard
+{B}, {T}: Target creature gets -2/-0 until end of turn.
+{R}, {T}: Target creature gets +2/+0 until end of turn.
+1/1

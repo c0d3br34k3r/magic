@@ -1,0 +1,3 @@
+Turn the Tables {3}{W}{W}
+Instant
+All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.

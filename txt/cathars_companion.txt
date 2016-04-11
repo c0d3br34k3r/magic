@@ -1,0 +1,4 @@
+Cathar's Companion {2}{W}
+Creature — Hound
+Whenever you cast a noncreature spell, Cathar's Companion gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+3/1

@@ -1,0 +1,4 @@
+Tomorrow, Azami's Familiar {5}{U}
+Legendary Creature — Spirit
+If you would draw a card, look at the top three cards of your library instead. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+1/5

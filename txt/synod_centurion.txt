@@ -1,0 +1,4 @@
+Synod Centurion {4}
+Artifact Creature — Construct
+When you control no other artifacts, sacrifice Synod Centurion.
+4/4

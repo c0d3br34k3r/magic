@@ -1,0 +1,4 @@
+Bear's Companion {2}{U}{R}{G}
+Creature — Human Warrior
+When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.
+2/2

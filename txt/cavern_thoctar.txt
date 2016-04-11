@@ -1,0 +1,4 @@
+Cavern Thoctar {5}{G}
+Creature — Beast
+{1}{R}: Cavern Thoctar gets +1/+0 until end of turn.
+5/5

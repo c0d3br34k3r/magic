@@ -1,0 +1,5 @@
+Covetous Dragon {4}{R}
+Creature — Dragon
+Flying
+When you control no artifacts, sacrifice Covetous Dragon.
+6/5

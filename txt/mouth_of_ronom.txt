@@ -1,0 +1,4 @@
+Mouth of Ronom
+Snow Land
+{T}: Add {C} to your mana pool.
+{4}{S}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. ({S} can be paid with one mana from a snow permanent.)

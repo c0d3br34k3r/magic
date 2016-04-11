@@ -1,0 +1,4 @@
+Death Speakers {W}
+Creature — Human Cleric
+Protection from black
+1/1

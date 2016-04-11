@@ -1,0 +1,4 @@
+Gaea's Avenger {1}{G}{G}
+Creature — Treefolk
+Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.
+1+*/1+*

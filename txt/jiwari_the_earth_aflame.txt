@@ -1,0 +1,5 @@
+Jiwari, the Earth Aflame {3}{R}{R}
+Legendary Creature — Spirit
+{X}{R}, {T}: Jiwari, the Earth Aflame deals X damage to target creature without flying.
+Channel — {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature without flying.
+3/3

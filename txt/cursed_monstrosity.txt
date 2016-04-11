@@ -1,0 +1,5 @@
+Cursed Monstrosity {4}{B}
+Creature — Horror
+Flying
+Whenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.
+4/3

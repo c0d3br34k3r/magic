@@ -1,0 +1,5 @@
+Wall of Vipers {2}{B}
+Creature — Snake Wall
+Defender (This creature can't attack.)
+{3}: Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability.
+2/4

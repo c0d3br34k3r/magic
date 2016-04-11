@@ -1,0 +1,4 @@
+Cave-In {3}{R}{R}
+Sorcery
+You may exile a red card from your hand rather than pay Cave-In's mana cost.
+Cave-In deals 2 damage to each creature and each player.

@@ -1,0 +1,5 @@
+Manic Scribe {1}{U}
+Creature — Human Wizard
+When Manic Scribe enters the battlefield, each opponent puts the top three cards of his or her library into his or her graveyard.
+Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, that player puts the top three cards of his or her library into his or her graveyard.
+0/3

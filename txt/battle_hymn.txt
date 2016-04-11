@@ -1,0 +1,3 @@
+Battle Hymn {1}{R}
+Instant
+Add {R} to your mana pool for each creature you control.

@@ -1,0 +1,4 @@
+Loch Korrigan {3}{B}
+Creature — Spirit
+{U/B}: Loch Korrigan gets +1/+1 until end of turn.
+1/1

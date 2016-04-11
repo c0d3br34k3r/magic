@@ -1,0 +1,4 @@
+Enemy of the Guildpact {4}{B}
+Creature — Spirit
+Protection from multicolored
+4/2

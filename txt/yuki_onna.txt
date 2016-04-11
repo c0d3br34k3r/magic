@@ -1,0 +1,5 @@
+Yuki-Onna {3}{R}
+Creature — Spirit
+When Yuki-Onna enters the battlefield, destroy target artifact.
+Whenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner's hand.
+3/1

@@ -1,0 +1,3 @@
+Argivian Restoration {2}{U}{U}
+Sorcery
+Return target artifact card from your graveyard to the battlefield.

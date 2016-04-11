@@ -1,0 +1,4 @@
+Righteous Avengers {4}{W}
+Creature — Human Soldier
+Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)
+3/1

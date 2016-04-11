@@ -1,0 +1,3 @@
+Prowess of the Fair {1}{B}
+Tribal Enchantment — Elf
+Whenever another nontoken Elf is put into your graveyard from the battlefield, you may put a 1/1 green Elf Warrior creature token onto the battlefield.

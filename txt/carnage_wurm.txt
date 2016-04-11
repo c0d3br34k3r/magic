@@ -1,0 +1,5 @@
+Carnage Wurm {6}{G}
+Creature — Wurm
+Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+6/6

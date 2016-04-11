@@ -1,0 +1,3 @@
+Chariot of the Sun {3}
+Artifact
+{2}, {T}: Until end of turn, target creature you control gains flying and has base toughness 1.

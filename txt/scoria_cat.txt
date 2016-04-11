@@ -1,0 +1,4 @@
+Scoria Cat {3}{R}{R}
+Creature — Cat
+Scoria Cat gets +3/+3 as long as you control no untapped lands.
+3/3

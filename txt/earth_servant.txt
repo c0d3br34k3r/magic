@@ -1,0 +1,4 @@
+Earth Servant {5}{R}
+Creature — Elemental
+Earth Servant gets +0/+1 for each Mountain you control.
+4/4

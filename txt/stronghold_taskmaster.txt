@@ -1,0 +1,4 @@
+Stronghold Taskmaster {2}{B}{B}
+Creature — Giant Minion
+Other black creatures get -1/-1.
+4/3

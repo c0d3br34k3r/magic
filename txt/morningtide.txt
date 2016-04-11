@@ -1,0 +1,3 @@
+Morningtide {1}{W}
+Sorcery
+Exile all cards from all graveyards.

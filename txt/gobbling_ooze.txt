@@ -1,0 +1,4 @@
+Gobbling Ooze {4}{G}
+Creature — Ooze
+{G}, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze.
+3/3

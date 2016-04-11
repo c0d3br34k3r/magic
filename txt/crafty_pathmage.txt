@@ -1,0 +1,4 @@
+Crafty Pathmage {2}{U}
+Creature — Human Wizard
+{T}: Target creature with power 2 or less can't be blocked this turn.
+1/1

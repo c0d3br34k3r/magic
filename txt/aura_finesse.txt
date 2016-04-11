@@ -1,0 +1,4 @@
+Aura Finesse {U}
+Instant
+Attach target Aura you control to target creature.
+Draw a card.

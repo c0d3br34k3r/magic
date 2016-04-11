@@ -1,0 +1,3 @@
+Turn Aside {U}
+Instant
+Counter target spell that targets a permanent you control.

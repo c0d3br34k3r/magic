@@ -1,0 +1,3 @@
+Turn to Frog {1}{U}
+Instant
+Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.

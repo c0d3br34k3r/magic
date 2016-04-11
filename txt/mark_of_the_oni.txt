@@ -1,0 +1,5 @@
+Mark of the Oni {2}{B}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+At the beginning of the end step, if you control no Demons, sacrifice Mark of the Oni.

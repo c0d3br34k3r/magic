@@ -1,0 +1,5 @@
+Lake of the Dead
+Land
+If Lake of the Dead would enter the battlefield, sacrifice a Swamp instead. If you do, put Lake of the Dead onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice a Swamp: Add {B}{B}{B}{B} to your mana pool.

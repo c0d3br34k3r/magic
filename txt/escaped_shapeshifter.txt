@@ -1,0 +1,4 @@
+Escaped Shapeshifter {3}{U}{U}
+Creature — Shapeshifter
+As long as an opponent controls a creature with flying not named Escaped Shapeshifter, Escaped Shapeshifter has flying. The same is true for first strike, trample, and protection from any color.
+3/4

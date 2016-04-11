@@ -1,0 +1,6 @@
+Vendilion Clique {1}{U}{U}
+Legendary Creature — Faerie Wizard
+Flash
+Flying
+When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.
+3/1

@@ -1,0 +1,4 @@
+Regal Force {4}{G}{G}{G}
+Creature — Elemental
+When Regal Force enters the battlefield, draw a card for each green creature you control.
+5/5

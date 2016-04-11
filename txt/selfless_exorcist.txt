@@ -1,0 +1,4 @@
+Selfless Exorcist {3}{W}{W}
+Creature — Human Cleric
+{T}: Exile target creature card from a graveyard. That card deals damage equal to its power to Selfless Exorcist.
+3/4

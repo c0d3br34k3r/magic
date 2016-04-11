@@ -1,0 +1,4 @@
+Dying Wail {1}{B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, target player discards two cards.

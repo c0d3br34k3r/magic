@@ -1,0 +1,5 @@
+Ichor Slick {2}{B}
+Sorcery
+Target creature gets -3/-3 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+Madness {3}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

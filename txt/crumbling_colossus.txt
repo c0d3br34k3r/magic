@@ -1,0 +1,5 @@
+Crumbling Colossus {5}
+Artifact Creature — Golem
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+When Crumbling Colossus attacks, sacrifice it at end of combat.
+7/4

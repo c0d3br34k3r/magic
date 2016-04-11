@@ -1,0 +1,5 @@
+Kavu Mauler {4}{G}{G}
+Creature — Kavu
+Trample
+Whenever Kavu Mauler attacks, it gets +1/+1 until end of turn for each other attacking Kavu.
+4/4

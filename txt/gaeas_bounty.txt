@@ -1,0 +1,3 @@
+Gaea's Bounty {2}{G}
+Sorcery
+Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library.

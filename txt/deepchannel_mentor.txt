@@ -1,0 +1,4 @@
+Deepchannel Mentor {5}{U}
+Creature — Merfolk Rogue
+Blue creatures you control can't be blocked.
+2/2

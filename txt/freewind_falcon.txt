@@ -1,0 +1,4 @@
+Freewind Falcon {1}{W}
+Creature — Bird
+Flying, protection from red
+1/1

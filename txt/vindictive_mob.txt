@@ -1,0 +1,5 @@
+Vindictive Mob {4}{B}{B}
+Creature — Human Berserker
+When Vindictive Mob enters the battlefield, sacrifice a creature.
+Vindictive Mob can't be blocked by Saprolings.
+5/5

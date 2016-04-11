@@ -1,0 +1,3 @@
+Savage Twister {X}{R}{G}
+Sorcery
+Savage Twister deals X damage to each creature.

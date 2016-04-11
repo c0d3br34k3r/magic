@@ -1,0 +1,4 @@
+Moldgraf Scavenger {1}{G}
+Creature — Fungus
+Delirium — Moldgraf Scavenger gets +3/+0 as long as there are four or more card types among cards in your graveyard.
+0/4

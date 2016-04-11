@@ -1,0 +1,3 @@
+Endure {3}{W}{W}
+Instant
+Prevent all damage that would be dealt to you and permanents you control this turn.

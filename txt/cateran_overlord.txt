@@ -1,0 +1,5 @@
+Cateran Overlord {4}{B}{B}{B}
+Creature — Horror Mercenary
+Sacrifice a creature: Regenerate Cateran Overlord.
+{6}, {T}: Search your library for a Mercenary permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.
+7/5

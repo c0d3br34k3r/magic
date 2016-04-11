@@ -1,0 +1,4 @@
+Ghost Tactician {4}{W}
+Creature — Spirit Spellshaper
+{W}, {T}, Discard a card: Creatures you control get +1/+0 until end of turn.
+2/5

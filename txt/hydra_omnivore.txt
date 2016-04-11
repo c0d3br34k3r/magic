@@ -1,0 +1,4 @@
+Hydra Omnivore {4}{G}{G}
+Creature — Hydra
+Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.
+8/8

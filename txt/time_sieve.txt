@@ -1,0 +1,3 @@
+Time Sieve {U}{B}
+Artifact
+{T}, Sacrifice five artifacts: Take an extra turn after this one.

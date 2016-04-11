@@ -1,0 +1,5 @@
+Frog Tongue {G}
+Enchantment — Aura
+Enchant creature
+When Frog Tongue enters the battlefield, draw a card.
+Enchanted creature has reach. (It can block creatures with flying.)

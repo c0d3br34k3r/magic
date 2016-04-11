@@ -1,0 +1,3 @@
+March of the Machines {3}{U}
+Enchantment
+Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)

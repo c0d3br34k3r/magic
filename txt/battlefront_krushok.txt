@@ -1,0 +1,5 @@
+Battlefront Krushok {4}{G}
+Creature — Beast
+Battlefront Krushok can't be blocked by more than one creature.
+Each creature you control with a +1/+1 counter on it can't be blocked by more than one creature.
+3/4

@@ -1,0 +1,3 @@
+Deflection {3}{U}
+Instant
+Change the target of target spell with a single target.

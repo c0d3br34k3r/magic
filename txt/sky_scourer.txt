@@ -1,0 +1,6 @@
+Sky Scourer {1}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Flying
+Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.
+1/2

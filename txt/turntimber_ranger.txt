@@ -1,0 +1,4 @@
+Turntimber Ranger {3}{G}{G}
+Creature — Elf Scout Ally
+Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.
+2/2

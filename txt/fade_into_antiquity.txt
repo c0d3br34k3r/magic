@@ -1,0 +1,3 @@
+Fade into Antiquity {2}{G}
+Sorcery
+Exile target artifact or enchantment.

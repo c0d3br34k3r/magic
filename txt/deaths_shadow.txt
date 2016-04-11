@@ -1,0 +1,4 @@
+Death's Shadow {B}
+Creature — Avatar
+Death's Shadow gets -X/-X, where X is your life total.
+13/13

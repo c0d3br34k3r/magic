@@ -1,0 +1,4 @@
+Delusions of Mediocrity {3}{U}
+Enchantment
+When Delusions of Mediocrity enters the battlefield, you gain 10 life.
+When Delusions of Mediocrity leaves the battlefield, you lose 10 life.

@@ -1,0 +1,4 @@
+Bog Witch {2}{B}
+Creature — Human Spellshaper
+{B}, {T}, Discard a card: Add {B}{B}{B} to your mana pool.
+1/1

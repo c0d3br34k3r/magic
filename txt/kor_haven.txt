@@ -1,0 +1,4 @@
+Kor Haven
+Legendary Land
+{T}: Add {C} to your mana pool.
+{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.

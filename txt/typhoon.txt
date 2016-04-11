@@ -1,0 +1,3 @@
+Typhoon {2}{G}
+Sorcery
+Typhoon deals damage to each opponent equal to the number of Islands that player controls.

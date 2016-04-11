@@ -1,0 +1,4 @@
+Infectious Horror {3}{B}
+Creature — Zombie Horror
+Whenever Infectious Horror attacks, each opponent loses 2 life.
+2/2

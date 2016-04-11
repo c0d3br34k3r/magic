@@ -1,0 +1,3 @@
+Pulse of the Fields {1}{W}{W}
+Instant
+You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.

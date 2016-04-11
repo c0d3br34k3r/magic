@@ -1,0 +1,4 @@
+Brooding Saurian {2}{G}{G}
+Creature — Lizard
+At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.
+4/4

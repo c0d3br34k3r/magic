@@ -1,0 +1,5 @@
+Fire Sprites {1}{G}
+Creature — Faerie
+Flying
+{G}, {T}: Add {R} to your mana pool.
+1/1

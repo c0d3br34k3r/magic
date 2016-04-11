@@ -1,0 +1,4 @@
+Markov Patrician {2}{B}
+Creature — Vampire
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+3/1

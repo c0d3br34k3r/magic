@@ -1,0 +1,4 @@
+Tormenting Voice {1}{R}
+Sorcery
+As an additional cost to cast Tormenting Voice, discard a card.
+Draw two cards.

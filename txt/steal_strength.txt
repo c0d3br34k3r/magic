@@ -1,0 +1,3 @@
+Steal Strength {1}{B}
+Instant
+Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.

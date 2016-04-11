@@ -1,0 +1,4 @@
+Territorial Roc {1}{W}
+Creature — Bird
+Flying
+1/3

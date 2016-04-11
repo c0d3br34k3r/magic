@@ -1,0 +1,4 @@
+Emrakul's Hatcher {4}{R}
+Creature — Eldrazi Drone
+When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."
+3/3

@@ -1,0 +1,5 @@
+Glarecaster {4}{W}{W}
+Creature — Bird Cleric
+Flying
+{5}{W}: The next time damage would be dealt to Glarecaster and/or you this turn, that damage is dealt to target creature or player instead.
+3/3

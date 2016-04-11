@@ -1,0 +1,3 @@
+Rain of Gore {B}{R}
+Enchantment
+If a spell or ability would cause its controller to gain life, that player loses that much life instead.

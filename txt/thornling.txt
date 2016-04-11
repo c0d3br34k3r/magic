@@ -1,0 +1,8 @@
+Thornling {3}{G}{G}
+Creature — Elemental Shapeshifter
+{G}: Thornling gains haste until end of turn.
+{G}: Thornling gains trample until end of turn.
+{G}: Thornling gains indestructible until end of turn.
+{1}: Thornling gets +1/-1 until end of turn.
+{1}: Thornling gets -1/+1 until end of turn.
+4/4

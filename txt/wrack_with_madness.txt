@@ -1,0 +1,3 @@
+Wrack with Madness {3}{R}
+Sorcery
+Target creature deals damage to itself equal to its power.

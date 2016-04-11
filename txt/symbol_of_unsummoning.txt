@@ -1,0 +1,4 @@
+Symbol of Unsummoning {2}{U}
+Sorcery
+Return target creature to its owner's hand.
+Draw a card.

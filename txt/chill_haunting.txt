@@ -1,0 +1,4 @@
+Chill Haunting {1}{B}
+Instant
+As an additional cost to cast Chill Haunting, exile X creature cards from your graveyard.
+Target creature gets -X/-X until end of turn.

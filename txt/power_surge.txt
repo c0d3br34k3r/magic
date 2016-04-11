@@ -1,0 +1,3 @@
+Power Surge {R}{R}
+Enchantment
+At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.

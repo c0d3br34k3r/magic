@@ -1,0 +1,5 @@
+Maze Rusher {5}{R}
+Creature — Elemental
+Haste
+Multicolored creatures you control have haste.
+6/3

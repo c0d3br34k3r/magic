@@ -1,0 +1,3 @@
+Safewright Quest {G/W}
+Sorcery
+Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.

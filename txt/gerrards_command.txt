@@ -1,0 +1,3 @@
+Gerrard's Command {W}{G}
+Instant
+Untap target creature. It gets +3/+3 until end of turn.

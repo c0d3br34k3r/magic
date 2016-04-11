@@ -1,0 +1,4 @@
+Huang Zhong, Shu General {2}{W}{W}
+Legendary Creature — Human Soldier
+Huang Zhong, Shu General can't be blocked by more than one creature.
+2/3

@@ -1,0 +1,3 @@
+Ogre Resister {2}{R}{R}
+Creature — Ogre
+4/3

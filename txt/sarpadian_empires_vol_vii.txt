@@ -1,0 +1,4 @@
+Sarpadian Empires, Vol. VII {3}
+Artifact
+As Sarpadian Empires, Vol. VII enters the battlefield, choose white Citizen, blue Camarid, black Thrull, red Goblin, or green Saproling.
+{3}, {T}: Put a 1/1 creature token of the chosen color and type onto the battlefield.

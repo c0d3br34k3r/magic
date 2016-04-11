@@ -1,0 +1,5 @@
+Frostwind Invoker {4}{U}
+Creature — Merfolk Wizard
+Flying
+{8}: Creatures you control gain flying until end of turn.
+3/3

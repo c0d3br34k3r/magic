@@ -1,0 +1,5 @@
+Stitchwing Skaab {3}{U}
+Creature — Zombie Horror
+Flying
+{1}{U}, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped.
+3/1

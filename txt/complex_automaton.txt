@@ -1,0 +1,4 @@
+Complex Automaton {4}
+Artifact Creature — Golem
+At the beginning of your upkeep, if you control seven or more permanents, return Complex Automaton to its owner's hand.
+4/4

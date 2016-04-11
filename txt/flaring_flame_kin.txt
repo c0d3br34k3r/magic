@@ -1,0 +1,4 @@
+Flaring Flame-Kin {2}{R}
+Creature — Elemental Warrior
+As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has "{R}: Flaring Flame-Kin gets +1/+0 until end of turn."
+2/2

@@ -1,0 +1,4 @@
+Pang Tong, "Young Phoenix" {1}{W}{W}
+Legendary Creature — Human Advisor
+{T}: Target creature gets +0/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+1/2

@@ -1,0 +1,5 @@
+Teroh's Vanguard {3}{W}
+Creature — Human Nomad
+Flash
+Threshold — As long as seven or more cards are in your graveyard, Teroh's Vanguard has "When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn."
+2/3

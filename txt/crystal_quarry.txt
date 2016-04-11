@@ -1,0 +1,4 @@
+Crystal Quarry
+Land
+{T}: Add {C} to your mana pool.
+{5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.

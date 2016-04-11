@@ -1,0 +1,4 @@
+Yavimaya Wurm {4}{G}{G}
+Creature — Wurm
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+6/4

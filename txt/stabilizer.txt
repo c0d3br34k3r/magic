@@ -1,0 +1,3 @@
+Stabilizer {2}
+Artifact
+Players can't cycle cards.

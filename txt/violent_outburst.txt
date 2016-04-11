@@ -1,0 +1,4 @@
+Violent Outburst {1}{R}{G}
+Instant
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Creatures you control get +1/+0 until end of turn.

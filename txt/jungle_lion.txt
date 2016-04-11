@@ -1,0 +1,4 @@
+Jungle Lion {G}
+Creature — Cat
+Jungle Lion can't block.
+2/1

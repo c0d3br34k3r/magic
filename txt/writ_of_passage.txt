@@ -1,0 +1,5 @@
+Writ of Passage {U}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature attacks, if its power is 2 or less, it can't be blocked this turn.
+Forecast — {1}{U}, Reveal Writ of Passage from your hand: Target creature with power 2 or less can't be blocked this turn. (Activate this ability only during your upkeep and only once each turn.)

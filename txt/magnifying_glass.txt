@@ -1,0 +1,4 @@
+Magnifying Glass {3}
+Artifact
+{T}: Add {C} to your mana pool.
+{4}, {T}: Investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

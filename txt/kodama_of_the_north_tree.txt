@@ -1,0 +1,5 @@
+Kodama of the North Tree {2}{G}{G}{G}
+Legendary Creature — Spirit
+Trample
+Shroud (This creature can't be the target of spells or abilities.)
+6/4

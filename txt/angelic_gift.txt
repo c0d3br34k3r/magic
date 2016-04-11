@@ -1,0 +1,5 @@
+Angelic Gift {1}{W}
+Enchantment — Aura
+Enchant creature
+When Angelic Gift enters the battlefield, draw a card.
+Enchanted creature has flying.

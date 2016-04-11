@@ -1,0 +1,3 @@
+Militia's Pride {1}{W}
+Tribal Enchantment — Kithkin
+Whenever a nontoken creature you control attacks, you may pay {W}. If you do, put a 1/1 white Kithkin Soldier creature token onto the battlefield tapped and attacking.

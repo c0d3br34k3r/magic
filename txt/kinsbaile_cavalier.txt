@@ -1,0 +1,4 @@
+Kinsbaile Cavalier {3}{W}
+Creature — Kithkin Knight
+Knight creatures you control have double strike.
+2/2

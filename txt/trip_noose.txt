@@ -1,0 +1,3 @@
+Trip Noose {2}
+Artifact
+{2}, {T}: Tap target creature.

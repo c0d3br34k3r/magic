@@ -1,0 +1,3 @@
+Apocalypse {2}{R}{R}{R}
+Sorcery
+Exile all permanents. You discard your hand.

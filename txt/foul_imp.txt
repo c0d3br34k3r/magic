@@ -1,0 +1,5 @@
+Foul Imp {B}{B}
+Creature — Imp
+Flying
+When Foul Imp enters the battlefield, you lose 2 life.
+2/2

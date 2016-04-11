@@ -1,0 +1,5 @@
+Matsu-Tribe Decoy {2}{G}
+Creature — Snake Warrior
+{2}{G}: Target creature blocks Matsu-Tribe Decoy this turn if able.
+Whenever Matsu-Tribe Decoy deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
+1/3

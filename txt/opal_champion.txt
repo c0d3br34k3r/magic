@@ -1,0 +1,3 @@
+Opal Champion {2}{W}
+Enchantment
+When an opponent casts a creature spell, if Opal Champion is an enchantment, Opal Champion becomes a 3/3 Knight creature with first strike.

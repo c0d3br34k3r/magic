@@ -1,0 +1,5 @@
+Ancient Spring
+Land
+Ancient Spring enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice Ancient Spring: Add {W}{B} to your mana pool.

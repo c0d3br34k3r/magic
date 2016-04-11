@@ -1,0 +1,5 @@
+Anax and Cymede {1}{W}{R}
+Legendary Creature — Human Soldier
+First strike, vigilance
+Heroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.
+3/2

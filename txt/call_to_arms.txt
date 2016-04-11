@@ -1,0 +1,5 @@
+Call to Arms {1}{W}
+Enchantment
+As Call to Arms enters the battlefield, choose a color and an opponent.
+White creatures get +1/+1 as long as the chosen color is the most common color among nontoken permanents the chosen player controls but isn't tied for most common.
+When the chosen color isn't the most common color among nontoken permanents the chosen player controls or is tied for most common, sacrifice Call to Arms.

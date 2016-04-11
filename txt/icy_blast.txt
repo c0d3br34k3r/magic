@@ -1,0 +1,4 @@
+Icy Blast {X}{U}
+Instant
+Tap X target creatures.
+Ferocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.

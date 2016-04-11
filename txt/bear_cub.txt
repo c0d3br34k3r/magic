@@ -1,0 +1,3 @@
+Bear Cub {1}{G}
+Creature — Bear
+2/2

@@ -1,0 +1,5 @@
+Aven Fogbringer {3}{U}
+Creature — Bird Wizard
+Flying
+When Aven Fogbringer enters the battlefield, return target land to its owner's hand.
+2/1

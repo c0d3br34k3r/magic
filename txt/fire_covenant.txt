@@ -1,0 +1,4 @@
+Fire Covenant {1}{B}{R}
+Instant
+As an additional cost to cast Fire Covenant, pay X life.
+Fire Covenant deals X damage divided as you choose among any number of target creatures.

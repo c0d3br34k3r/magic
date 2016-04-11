@@ -1,0 +1,3 @@
+Eladamri's Call {W}{G}
+Instant
+Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.

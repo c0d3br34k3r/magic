@@ -1,0 +1,4 @@
+Wirewood Channeler {3}{G}
+Creature — Elf Druid
+{T}: Add X mana of any one color to your mana pool, where X is the number of Elves on the battlefield.
+2/2

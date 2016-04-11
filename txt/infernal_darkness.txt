@@ -1,0 +1,4 @@
+Infernal Darkness {2}{B}{B}
+Enchantment
+Cumulative upkeep—Pay {B} and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+If a land is tapped for mana, it produces {B} instead of any other type.

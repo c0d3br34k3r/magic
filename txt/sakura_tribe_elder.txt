@@ -1,0 +1,4 @@
+Sakura-Tribe Elder {1}{G}
+Creature — Snake Shaman
+Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+1/1

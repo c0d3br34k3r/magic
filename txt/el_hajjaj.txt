@@ -1,0 +1,4 @@
+El-Hajjâj {1}{B}{B}
+Creature — Human Wizard
+Whenever El-Hajjâj deals damage, you gain that much life.
+1/1

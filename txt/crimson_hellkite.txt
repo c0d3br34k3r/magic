@@ -1,0 +1,5 @@
+Crimson Hellkite {6}{R}{R}{R}
+Creature — Dragon
+Flying
+{X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana on X.
+6/6

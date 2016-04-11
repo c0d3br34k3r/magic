@@ -1,0 +1,3 @@
+Heaven's Gate {W}
+Instant
+Any number of target creatures become white until end of turn.

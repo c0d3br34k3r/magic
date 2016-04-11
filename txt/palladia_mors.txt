@@ -1,0 +1,5 @@
+Palladia-Mors {2}{W}{W}{R}{R}{G}{G}
+Legendary Creature — Elder Dragon
+Flying, trample
+At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
+7/7

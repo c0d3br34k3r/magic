@@ -1,0 +1,3 @@
+Old Ghastbark {3}{G/W}{G/W}
+Creature — Treefolk Warrior
+3/6

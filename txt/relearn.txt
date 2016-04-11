@@ -1,0 +1,3 @@
+Relearn {1}{U}{U}
+Sorcery
+Return target instant or sorcery card from your graveyard to your hand.

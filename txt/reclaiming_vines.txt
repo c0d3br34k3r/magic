@@ -1,0 +1,3 @@
+Reclaiming Vines {2}{G}{G}
+Sorcery
+Destroy target artifact, enchantment, or land.

@@ -1,0 +1,4 @@
+Kiora's Follower {U}{G}
+Creature — Merfolk
+{T}: Untap another target permanent.
+2/2

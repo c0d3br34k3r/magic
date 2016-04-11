@@ -1,0 +1,3 @@
+Tectonic Rift {3}{R}
+Sorcery
+Destroy target land. Creatures without flying can't block this turn.

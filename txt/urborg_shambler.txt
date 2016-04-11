@@ -1,0 +1,4 @@
+Urborg Shambler {2}{B}{B}
+Creature — Horror
+Other black creatures get -1/-1.
+4/3

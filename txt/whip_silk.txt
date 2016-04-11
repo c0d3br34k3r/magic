@@ -1,0 +1,5 @@
+Whip Silk {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has reach. (It can block creatures with flying.)
+{G}: Return Whip Silk to its owner's hand.

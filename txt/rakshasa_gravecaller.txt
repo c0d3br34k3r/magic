@@ -1,0 +1,5 @@
+Rakshasa Gravecaller {4}{B}
+Creature — Cat Demon
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield.
+3/6

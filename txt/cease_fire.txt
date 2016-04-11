@@ -1,0 +1,4 @@
+Cease-Fire {2}{W}
+Instant
+Target player can't cast creature spells this turn.
+Draw a card.

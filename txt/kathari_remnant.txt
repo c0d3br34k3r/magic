@@ -1,0 +1,6 @@
+Kathari Remnant {2}{U}{B}
+Creature — Bird Skeleton
+Flying
+{B}: Regenerate Kathari Remnant.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+0/1

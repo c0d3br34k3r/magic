@@ -1,0 +1,4 @@
+Ridgetop Raptor {3}{R}
+Creature — Lizard Beast
+Double strike (This creature deals both first-strike and regular combat damage.)
+2/1

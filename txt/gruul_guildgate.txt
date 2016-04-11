@@ -1,0 +1,4 @@
+Gruul Guildgate
+Land — Gate
+Gruul Guildgate enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.

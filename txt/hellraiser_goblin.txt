@@ -1,0 +1,4 @@
+Hellraiser Goblin {2}{R}
+Creature — Goblin Berserker
+Creatures you control have haste and attack each combat if able.
+2/2

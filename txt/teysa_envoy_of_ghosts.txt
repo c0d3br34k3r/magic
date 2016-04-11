@@ -1,0 +1,5 @@
+Teysa, Envoy of Ghosts {5}{W}{B}
+Legendary Creature — Human Advisor
+Vigilance, protection from creatures
+Whenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.
+4/4

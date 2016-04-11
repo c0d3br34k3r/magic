@@ -1,0 +1,4 @@
+Cephalid Retainer {2}{U}{U}
+Creature — Cephalid
+{U}{U}: Tap target creature without flying.
+2/3

@@ -1,0 +1,5 @@
+Reckless One {3}{R}
+Creature — Goblin Avatar
+Haste
+Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.
+*/*

@@ -1,0 +1,5 @@
+Pious Kitsune {2}{W}
+Creature — Fox Cleric
+At the beginning of your upkeep, put a devotion counter on Pious Kitsune. Then if a creature named Eight-and-a-Half-Tails is on the battlefield, you gain 1 life for each devotion counter on Pious Kitsune.
+{T}, Remove a devotion counter from Pious Kitsune: You gain 1 life.
+1/2

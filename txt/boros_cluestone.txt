@@ -1,0 +1,4 @@
+Boros Cluestone {3}
+Artifact
+{T}: Add {R} or {W} to your mana pool.
+{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.

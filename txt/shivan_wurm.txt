@@ -1,0 +1,5 @@
+Shivan Wurm {3}{R}{G}
+Creature — Wurm
+Trample
+When Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.
+7/7

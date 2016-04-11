@@ -1,0 +1,5 @@
+Viscerid Drone {1}{U}
+Creature — Homarid Drone
+{T}, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated.
+{T}, Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated.
+1/2

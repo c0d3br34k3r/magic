@@ -1,0 +1,4 @@
+Plaguebearer {1}{B}
+Creature — Zombie
+{X}{X}{B}: Destroy target nonblack creature with converted mana cost X.
+1/1

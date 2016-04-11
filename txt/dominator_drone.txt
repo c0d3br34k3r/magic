@@ -1,0 +1,6 @@
+Dominator Drone {2}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.
+3/2

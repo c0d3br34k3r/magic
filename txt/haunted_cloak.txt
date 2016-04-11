@@ -1,0 +1,4 @@
+Haunted Cloak {3}
+Artifact — Equipment
+Equipped creature has vigilance, trample, and haste.
+Equip {1}

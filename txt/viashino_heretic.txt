@@ -1,0 +1,4 @@
+Viashino Heretic {2}{R}
+Creature — Viashino
+{1}{R}, {T}: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost.
+1/3

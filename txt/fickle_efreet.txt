@@ -1,0 +1,4 @@
+Fickle Efreet {3}{R}
+Creature — Efreet
+Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.
+5/2

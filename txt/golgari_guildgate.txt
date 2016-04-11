@@ -1,0 +1,4 @@
+Golgari Guildgate
+Land — Gate
+Golgari Guildgate enters the battlefield tapped.
+{T}: Add {B} or {G} to your mana pool.

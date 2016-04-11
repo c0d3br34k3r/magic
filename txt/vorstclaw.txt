@@ -1,0 +1,3 @@
+Vorstclaw {4}{G}{G}
+Creature — Elemental Horror
+7/7

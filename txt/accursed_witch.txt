@@ -1,0 +1,11 @@
+Accursed Witch {3}{B}
+Creature — Human Shaman
+Spells your opponents cast that target Accursed Witch cost {1} less to cast.
+When Accursed Witch dies, return it to the battlefield transformed under your control attached to target opponent.
+4/2
+* DOUBLE-FACED *
+Infectious Curse
+Enchantment — Aura Curse
+Enchant player
+Spells you cast that target enchanted player cost {1} less to cast.
+At the beginning of enchanted player's upkeep, that player loses 1 life and you gain 1 life.

@@ -1,0 +1,4 @@
+Leaden Myr {2}
+Artifact Creature — Myr
+{T}: Add {B} to your mana pool.
+1/1

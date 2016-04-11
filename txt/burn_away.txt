@@ -1,0 +1,3 @@
+Burn Away {4}{R}
+Instant
+Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.

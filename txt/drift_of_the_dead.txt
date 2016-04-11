@@ -1,0 +1,5 @@
+Drift of the Dead {3}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+Drift of the Dead's power and toughness are each equal to the number of snow lands you control.
+*/*

@@ -1,0 +1,4 @@
+Valeron Outlander {W}{G}
+Creature — Human Scout
+Protection from black
+2/2

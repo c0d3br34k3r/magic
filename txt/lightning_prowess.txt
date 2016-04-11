@@ -1,0 +1,4 @@
+Lightning Prowess {2}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has haste and "{T}: This creature deals 1 damage to target creature or player."

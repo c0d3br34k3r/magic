@@ -1,0 +1,4 @@
+Muzzio, Visionary Architect {1}{U}{U}
+Legendary Creature — Human Artificer
+{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
+1/3

@@ -1,0 +1,6 @@
+Thistledown Liege {1}{W/U}{W/U}{W/U}
+Creature — Kithkin Knight
+Flash
+Other white creatures you control get +1/+1.
+Other blue creatures you control get +1/+1.
+1/3

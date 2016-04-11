@@ -1,0 +1,4 @@
+Imps' Taunt {1}{B}
+Instant
+Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature attacks this turn if able.

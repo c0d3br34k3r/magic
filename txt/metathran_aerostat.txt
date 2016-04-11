@@ -1,0 +1,5 @@
+Metathran Aerostat {2}{U}{U}
+Creature — Metathran
+Flying
+{X}{U}: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.
+2/2

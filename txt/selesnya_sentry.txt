@@ -1,0 +1,4 @@
+Selesnya Sentry {2}{W}
+Creature — Elephant Soldier
+{5}{G}: Regenerate Selesnya Sentry.
+3/2

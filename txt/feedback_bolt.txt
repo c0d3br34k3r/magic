@@ -1,0 +1,3 @@
+Feedback Bolt {4}{R}
+Instant
+Feedback Bolt deals damage to target player equal to the number of artifacts you control.

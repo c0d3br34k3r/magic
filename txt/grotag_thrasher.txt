@@ -1,0 +1,4 @@
+Grotag Thrasher {4}{R}
+Creature — Lizard
+Whenever Grotag Thrasher attacks, target creature can't block this turn.
+3/3

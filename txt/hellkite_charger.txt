@@ -1,0 +1,5 @@
+Hellkite Charger {4}{R}{R}
+Creature — Dragon
+Flying, haste
+Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+5/5

@@ -1,0 +1,4 @@
+Meletis Charlatan {2}{U}
+Creature — Human Wizard
+{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
+2/3

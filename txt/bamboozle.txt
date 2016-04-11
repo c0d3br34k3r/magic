@@ -1,0 +1,3 @@
+Bamboozle {2}{U}
+Sorcery
+Target player reveals the top four cards of his or her library. You choose two of those cards and put them into his or her graveyard. Put the rest on top of his or her library in any order.

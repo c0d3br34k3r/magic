@@ -1,0 +1,5 @@
+Jace's Phantasm {U}
+Creature — Illusion
+Flying
+Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in his or her graveyard.
+1/1

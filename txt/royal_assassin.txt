@@ -1,0 +1,4 @@
+Royal Assassin {1}{B}{B}
+Creature — Human Assassin
+{T}: Destroy target tapped creature.
+1/1

@@ -1,0 +1,3 @@
+Languish {2}{B}{B}
+Sorcery
+All creatures get -4/-4 until end of turn.

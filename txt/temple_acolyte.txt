@@ -1,0 +1,4 @@
+Temple Acolyte {1}{W}
+Creature — Human Cleric
+When Temple Acolyte enters the battlefield, you gain 3 life.
+1/3

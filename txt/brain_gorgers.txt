@@ -1,0 +1,5 @@
+Brain Gorgers {3}{B}
+Creature — Zombie
+When you cast Brain Gorgers, any player may sacrifice a creature. If a player does, counter Brain Gorgers.
+Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+4/2

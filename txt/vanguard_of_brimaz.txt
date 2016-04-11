@@ -1,0 +1,5 @@
+Vanguard of Brimaz {W}{W}
+Creature — Cat Soldier
+Vigilance
+Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield.
+2/2

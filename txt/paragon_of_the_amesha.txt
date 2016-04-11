@@ -1,0 +1,5 @@
+Paragon of the Amesha {2}{W}
+Creature — Human Knight
+First strike
+{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.
+2/2

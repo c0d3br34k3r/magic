@@ -1,0 +1,4 @@
+Champion of the Parish {W}
+Creature — Human Soldier
+Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.
+1/1

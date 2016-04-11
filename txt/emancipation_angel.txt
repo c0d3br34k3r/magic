@@ -1,0 +1,5 @@
+Emancipation Angel {1}{W}{W}
+Creature — Angel
+Flying
+When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.
+3/3

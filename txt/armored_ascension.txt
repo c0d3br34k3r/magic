@@ -1,0 +1,4 @@
+Armored Ascension {3}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each Plains you control and has flying.

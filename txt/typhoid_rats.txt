@@ -1,0 +1,4 @@
+Typhoid Rats {B}
+Creature — Rat
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+1/1

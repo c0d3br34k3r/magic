@@ -1,0 +1,5 @@
+Disciple of Grace {1}{W}
+Creature — Human Cleric
+Protection from black
+Cycling {2} ({2}, Discard this card: Draw a card.)
+1/2

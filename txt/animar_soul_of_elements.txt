@@ -1,0 +1,6 @@
+Animar, Soul of Elements {U}{R}{G}
+Legendary Creature — Elemental
+Protection from white and from black
+Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements.
+Creature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.
+1/1

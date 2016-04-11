@@ -1,0 +1,4 @@
+Dakmor Lancer {4}{B}{B}
+Creature — Human Knight
+When Dakmor Lancer enters the battlefield, destroy target nonblack creature.
+3/3

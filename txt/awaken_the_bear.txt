@@ -1,0 +1,3 @@
+Awaken the Bear {2}{G}
+Instant
+Target creature gets +3/+3 and gains trample until end of turn.

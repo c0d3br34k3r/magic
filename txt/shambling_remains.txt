@@ -1,0 +1,5 @@
+Shambling Remains {1}{B}{R}
+Creature — Zombie Horror
+Shambling Remains can't block.
+Unearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+4/3

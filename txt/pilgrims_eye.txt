@@ -1,0 +1,5 @@
+Pilgrim's Eye {3}
+Artifact Creature — Thopter
+Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+1/1

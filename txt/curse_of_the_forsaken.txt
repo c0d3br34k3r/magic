@@ -1,0 +1,4 @@
+Curse of the Forsaken {2}{W}
+Enchantment — Aura Curse
+Enchant player
+Whenever a creature attacks enchanted player, its controller gains 1 life.

@@ -1,0 +1,5 @@
+Mogg War Marshal {1}{R}
+Creature — Goblin Warrior
+Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+1/1

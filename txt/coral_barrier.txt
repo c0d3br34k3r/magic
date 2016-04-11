@@ -1,0 +1,5 @@
+Coral Barrier {2}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+When Coral Barrier enters the battlefield, put a 1/1 blue Squid creature token with islandwalk onto the battlefield. (It can't be blocked as long as defending player controls an Island.)
+1/3

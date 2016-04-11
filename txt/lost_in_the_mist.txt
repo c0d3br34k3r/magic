@@ -1,0 +1,3 @@
+Lost in the Mist {3}{U}{U}
+Instant
+Counter target spell. Return target permanent to its owner's hand.

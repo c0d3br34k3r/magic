@@ -1,0 +1,3 @@
+Deep Water {U}{U}
+Enchantment
+{U}: Until end of turn, if you tap a land you control for mana, it produces {U} instead of any other type.

@@ -1,0 +1,4 @@
+Assault Griffin {3}{W}
+Creature — Griffin
+Flying
+3/2

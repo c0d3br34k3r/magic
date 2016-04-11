@@ -1,0 +1,4 @@
+Arachnoid {6}
+Artifact Creature — Spider
+Reach (This creature can block creatures with flying.)
+2/6

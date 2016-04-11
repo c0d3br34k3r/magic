@@ -1,0 +1,4 @@
+Anurid Murkdiver {4}{B}{B}
+Creature — Zombie Frog Beast
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+4/3

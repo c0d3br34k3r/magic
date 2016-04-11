@@ -1,0 +1,4 @@
+Cathartic Adept {U}
+Creature — Human Wizard
+{T}: Target player puts the top card of his or her library into his or her graveyard.
+1/1

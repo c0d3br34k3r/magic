@@ -1,0 +1,4 @@
+Dwarven Recruiter {2}{R}
+Creature — Dwarf
+When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+2/2

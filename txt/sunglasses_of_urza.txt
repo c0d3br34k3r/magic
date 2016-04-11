@@ -1,0 +1,3 @@
+Sunglasses of Urza {3}
+Artifact
+You may spend white mana as though it were red mana.

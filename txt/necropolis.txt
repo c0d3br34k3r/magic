@@ -1,0 +1,5 @@
+Necropolis {5}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+Exile a creature card from your graveyard: Put X +0/+1 counters on Necropolis, where X is the exiled card's converted mana cost.
+0/1

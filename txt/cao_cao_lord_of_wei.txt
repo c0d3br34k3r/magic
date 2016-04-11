@@ -1,0 +1,4 @@
+Cao Cao, Lord of Wei {3}{B}{B}
+Legendary Creature — Human Soldier
+{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.
+3/3

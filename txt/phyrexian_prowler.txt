@@ -1,0 +1,5 @@
+Phyrexian Prowler {3}{B}
+Creature — Zombie Mercenary
+Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Phyrexian Prowler: Phyrexian Prowler gets +1/+1 until end of turn.
+3/3

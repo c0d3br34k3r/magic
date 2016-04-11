@@ -1,0 +1,5 @@
+Forsaken City
+Land
+Forsaken City doesn't untap during your untap step.
+At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.
+{T}: Add one mana of any color to your mana pool.

@@ -1,0 +1,4 @@
+Conquer {3}{R}{R}
+Enchantment — Aura
+Enchant land
+You control enchanted land.

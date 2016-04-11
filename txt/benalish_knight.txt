@@ -1,0 +1,5 @@
+Benalish Knight {2}{W}
+Creature — Human Knight
+Flash (You may cast this spell any time you could cast an instant.)
+First strike (This creature deals combat damage before creatures without first strike.)
+2/2

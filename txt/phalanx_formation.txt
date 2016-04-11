@@ -1,0 +1,4 @@
+Phalanx Formation {2}{W}
+Instant
+Strive — Phalanx Formation costs {1}{W} more to cast for each target beyond the first.
+Any number of target creatures each gain double strike until end of turn. (They deal both first-strike and regular combat damage.)

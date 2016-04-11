@@ -1,0 +1,4 @@
+Augur of Bolas {1}{U}
+Creature — Merfolk Wizard
+When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+1/3

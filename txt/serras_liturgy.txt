@@ -1,0 +1,4 @@
+Serra's Liturgy {2}{W}{W}
+Enchantment
+At the beginning of your upkeep, you may put a verse counter on Serra's Liturgy.
+{W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy.

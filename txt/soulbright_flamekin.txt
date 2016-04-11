@@ -1,0 +1,4 @@
+Soulbright Flamekin {1}{R}
+Creature — Elemental Shaman
+{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.
+2/1

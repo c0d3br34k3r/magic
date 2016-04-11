@@ -1,0 +1,4 @@
+Psychotic Fury {1}{R}
+Instant
+Target multicolored creature gains double strike until end of turn.
+Draw a card.

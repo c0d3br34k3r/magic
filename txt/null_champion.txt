@@ -1,0 +1,9 @@
+Null Champion {1}{B}
+Creature — Zombie Warrior
+Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+4/2
+LEVEL 4+
+7/3
+{B}: Regenerate Null Champion.
+1/1

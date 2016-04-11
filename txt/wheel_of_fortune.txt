@@ -1,0 +1,3 @@
+Wheel of Fortune {2}{R}
+Sorcery
+Each player discards his or her hand, then draws seven cards.

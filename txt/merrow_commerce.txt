@@ -1,0 +1,3 @@
+Merrow Commerce {1}{U}
+Tribal Enchantment — Merfolk
+At the beginning of your end step, untap all Merfolk you control.

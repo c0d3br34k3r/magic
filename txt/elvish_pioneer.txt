@@ -1,0 +1,4 @@
+Elvish Pioneer {G}
+Creature — Elf Druid
+When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.
+1/1

@@ -1,0 +1,3 @@
+Volcanic Geyser {X}{R}{R}
+Instant
+Volcanic Geyser deals X damage to target creature or player.

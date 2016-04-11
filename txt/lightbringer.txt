@@ -1,0 +1,4 @@
+Lightbringer {2}{W}
+Creature — Kor Rebel
+{T}, Sacrifice Lightbringer: Exile target black creature.
+2/2

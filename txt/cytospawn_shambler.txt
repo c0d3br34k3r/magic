@@ -1,0 +1,5 @@
+Cytospawn Shambler {6}{G}
+Creature — Elemental Mutant
+Graft 6 (This creature enters the battlefield with six +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{G}: Target creature with a +1/+1 counter on it gains trample until end of turn.
+0/0

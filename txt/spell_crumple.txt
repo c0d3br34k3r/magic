@@ -1,0 +1,3 @@
+Spell Crumple {1}{U}{U}
+Instant
+Counter target spell. If that spell is countered this way, put it on the bottom of its owner's library instead of into that player's graveyard. Put Spell Crumple on the bottom of its owner's library.

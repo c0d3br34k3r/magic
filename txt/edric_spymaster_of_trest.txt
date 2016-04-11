@@ -1,0 +1,4 @@
+Edric, Spymaster of Trest {1}{U}{G}
+Legendary Creature — Elf Rogue
+Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+2/2

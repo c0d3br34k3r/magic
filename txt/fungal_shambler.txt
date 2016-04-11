@@ -1,0 +1,5 @@
+Fungal Shambler {4}{U}{B}{G}
+Creature — Fungus Beast
+Trample
+Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.
+6/4

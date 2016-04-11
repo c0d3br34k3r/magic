@@ -1,0 +1,4 @@
+Kite Shield {0}
+Artifact — Equipment
+Equipped creature gets +0/+3.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)

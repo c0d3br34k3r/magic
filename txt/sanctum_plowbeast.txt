@@ -1,0 +1,5 @@
+Sanctum Plowbeast {4}{W}{U}
+Artifact Creature — Beast
+Defender
+Plainscycling {2}, islandcycling {2} ({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)
+3/6

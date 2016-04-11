@@ -1,0 +1,4 @@
+Mystic Monastery
+Land
+Mystic Monastery enters the battlefield tapped.
+{T}: Add {U}, {R}, or {W} to your mana pool.

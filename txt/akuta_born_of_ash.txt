@@ -1,0 +1,5 @@
+Akuta, Born of Ash {2}{B}{B}
+Legendary Creature — Spirit
+Haste
+At the beginning of your upkeep, if you have more cards in hand than each opponent, you may sacrifice a Swamp. If you do, return Akuta, Born of Ash from your graveyard to the battlefield.
+3/2

@@ -1,0 +1,6 @@
+He Who Hungers {4}{B}
+Legendary Creature — Spirit
+Flying
+{1}, Sacrifice a Spirit: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+3/2

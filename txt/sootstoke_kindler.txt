@@ -1,0 +1,5 @@
+Sootstoke Kindler {1}{B/R}
+Creature — Elemental Shaman
+Haste
+{T}: Target black or red creature gains haste until end of turn.
+1/1

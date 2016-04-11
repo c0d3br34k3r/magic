@@ -1,0 +1,3 @@
+Disempower {1}{W}
+Instant
+Put target artifact or enchantment on top of its owner's library.

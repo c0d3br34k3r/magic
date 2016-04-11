@@ -1,0 +1,3 @@
+Terror {1}{B}
+Instant
+Destroy target nonartifact, nonblack creature. It can't be regenerated.

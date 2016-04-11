@@ -1,0 +1,4 @@
+Scholar of Athreos {2}{W}
+Creature — Human Cleric
+{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way.
+1/4

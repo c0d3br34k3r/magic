@@ -1,0 +1,4 @@
+Sudden Strength {3}{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Draw a card.

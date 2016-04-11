@@ -1,0 +1,5 @@
+Shivan Wumpus {3}{R}
+Creature — Beast
+Trample
+When Shivan Wumpus enters the battlefield, any player may sacrifice a land. If a player does, put Shivan Wumpus on top of its owner's library.
+6/6

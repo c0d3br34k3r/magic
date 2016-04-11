@@ -1,0 +1,4 @@
+Divine Reckoning {2}{W}{W}
+Sorcery
+Each player chooses a creature he or she controls. Destroy the rest.
+Flashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

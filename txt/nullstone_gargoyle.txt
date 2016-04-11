@@ -1,0 +1,5 @@
+Nullstone Gargoyle {9}
+Artifact Creature — Gargoyle
+Flying
+Whenever the first noncreature spell of a turn is cast, counter that spell.
+4/5

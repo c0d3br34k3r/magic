@@ -1,0 +1,4 @@
+Scalebane's Elite {3}{W}{G}
+Creature — Human Soldier
+Protection from black
+4/4

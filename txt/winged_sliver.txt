@@ -1,0 +1,4 @@
+Winged Sliver {1}{U}
+Creature — Sliver
+All Sliver creatures have flying.
+1/1

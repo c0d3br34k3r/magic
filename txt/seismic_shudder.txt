@@ -1,0 +1,3 @@
+Seismic Shudder {1}{R}
+Instant
+Seismic Shudder deals 1 damage to each creature without flying.

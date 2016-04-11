@@ -1,0 +1,4 @@
+Transluminant {1}{G}
+Creature — Dryad Shaman
+{W}, Sacrifice Transluminant: Put a 1/1 white Spirit creature token with flying onto the battlefield at the beginning of the next end step.
+2/2

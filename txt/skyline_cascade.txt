@@ -1,0 +1,5 @@
+Skyline Cascade
+Land
+Skyline Cascade enters the battlefield tapped.
+When Skyline Cascade enters the battlefield, target creature an opponent controls doesn't untap during its controller's next untap step.
+{T}: Add {U} to your mana pool.

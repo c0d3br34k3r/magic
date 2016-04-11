@@ -1,0 +1,4 @@
+Ragnar {W}{U}{G}
+Legendary Creature — Human Cleric
+{G}{W}{U}, {T}: Regenerate target creature.
+2/2

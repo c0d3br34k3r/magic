@@ -1,0 +1,4 @@
+Otherworld Atlas {4}
+Artifact
+{T}: Put a charge counter on Otherworld Atlas.
+{T}: Each player draws a card for each charge counter on Otherworld Atlas.

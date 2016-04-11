@@ -1,0 +1,4 @@
+Ojutai Monument {3}
+Artifact
+{T}: Add {W} or {U} to your mana pool.
+{4}{W}{U}: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn.

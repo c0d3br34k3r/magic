@@ -1,0 +1,4 @@
+Elvish Archers {1}{G}
+Creature — Elf Archer
+First strike
+2/1

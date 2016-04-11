@@ -1,0 +1,4 @@
+Battle Cry {2}{W}
+Instant
+Untap all white creatures you control.
+Whenever a creature blocks this turn, it gets +0/+1 until end of turn.

@@ -1,0 +1,4 @@
+Spotted Griffin {3}{W}
+Creature — Griffin
+Flying
+2/3

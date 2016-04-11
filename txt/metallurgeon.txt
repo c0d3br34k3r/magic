@@ -1,0 +1,4 @@
+Metallurgeon {1}{W}
+Artifact Creature — Human Artificer
+{W}, {T}: Regenerate target artifact.
+1/2

@@ -1,0 +1,5 @@
+Skulking Ghost {1}{B}
+Creature — Spirit
+Flying
+When Skulking Ghost becomes the target of a spell or ability, sacrifice it.
+2/1

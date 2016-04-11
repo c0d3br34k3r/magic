@@ -1,0 +1,5 @@
+Darkslick Drake {2}{U}{U}
+Creature — Drake
+Flying
+When Darkslick Drake dies, draw a card.
+2/4

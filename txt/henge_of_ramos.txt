@@ -1,0 +1,4 @@
+Henge of Ramos
+Land
+{T}: Add {C} to your mana pool.
+{2}, {T}: Add one mana of any color to your mana pool.

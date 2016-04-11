@@ -1,0 +1,4 @@
+Spire Tracer {G}
+Creature — Elf Scout
+Spire Tracer can't be blocked except by creatures with flying or reach.
+1/1

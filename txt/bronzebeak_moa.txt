@@ -1,0 +1,4 @@
+Bronzebeak Moa {2}{W}{G}
+Creature — Bird
+Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.
+2/2

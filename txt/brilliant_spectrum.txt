@@ -1,0 +1,3 @@
+Brilliant Spectrum {3}{U}
+Sorcery
+Converge — Draw X cards, where X is the number of colors of mana spent to cast Brilliant Spectrum. Then discard two cards.

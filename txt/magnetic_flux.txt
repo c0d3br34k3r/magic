@@ -1,0 +1,3 @@
+Magnetic Flux {2}{U}
+Instant
+Artifact creatures you control gain flying until end of turn.

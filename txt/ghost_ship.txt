@@ -1,0 +1,5 @@
+Ghost Ship {2}{U}{U}
+Creature — Spirit
+Flying
+{U}{U}{U}: Regenerate Ghost Ship.
+2/4

@@ -1,0 +1,4 @@
+Benalish Veteran {2}{W}
+Creature — Human Soldier
+Whenever Benalish Veteran attacks, it gets +1/+1 until end of turn.
+2/2

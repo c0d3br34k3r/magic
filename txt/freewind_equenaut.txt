@@ -1,0 +1,5 @@
+Freewind Equenaut {2}{W}
+Creature — Human Archer
+Flying
+As long as Freewind Equenaut is enchanted, it has "{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature."
+2/2

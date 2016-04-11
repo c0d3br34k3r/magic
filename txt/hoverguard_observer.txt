@@ -1,0 +1,5 @@
+Hoverguard Observer {2}{U}{U}
+Creature — Drone
+Flying
+Hoverguard Observer can block only creatures with flying.
+3/3

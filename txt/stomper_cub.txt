@@ -1,0 +1,4 @@
+Stomper Cub {3}{G}{G}
+Creature — Beast
+Trample
+5/3

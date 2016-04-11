@@ -1,0 +1,4 @@
+Flash of Defiance {1}{R}
+Sorcery
+Green creatures and white creatures can't block this turn.
+Flashback—{1}{R}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)

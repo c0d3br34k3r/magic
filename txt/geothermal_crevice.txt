@@ -1,0 +1,5 @@
+Geothermal Crevice
+Land
+Geothermal Crevice enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+{T}, Sacrifice Geothermal Crevice: Add {B}{G} to your mana pool.

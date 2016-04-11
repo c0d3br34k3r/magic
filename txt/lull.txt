@@ -1,0 +1,4 @@
+Lull {1}{G}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)

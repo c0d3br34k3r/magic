@@ -1,0 +1,4 @@
+Hell's Caretaker {3}{B}
+Creature — Horror
+{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+1/1

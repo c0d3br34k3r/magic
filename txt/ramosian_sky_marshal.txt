@@ -1,0 +1,5 @@
+Ramosian Sky Marshal {3}{W}{W}
+Creature — Human Rebel
+Flying
+{7}, {T}: Search your library for a Rebel permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.
+3/3

@@ -1,0 +1,4 @@
+Rag Dealer {B}
+Creature — Human Rogue
+{2}{B}, {T}: Exile up to three target cards from a single graveyard.
+1/1

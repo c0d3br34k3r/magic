@@ -1,0 +1,6 @@
+Wail of the Nim {2}{B}
+Instant
+Choose one —
+• Regenerate each creature you control.
+• Wail of the Nim deals 1 damage to each creature and each player.
+Entwine {B} (Choose both if you pay the entwine cost.)

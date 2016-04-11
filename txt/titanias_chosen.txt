@@ -1,0 +1,4 @@
+Titania's Chosen {2}{G}
+Creature — Elf Archer
+Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen.
+1/1

@@ -1,0 +1,5 @@
+Leech Bonder {2}{U}
+Creature — Merfolk Soldier
+Leech Bonder enters the battlefield with two -1/-1 counters on it.
+{U}, {Q}: Move a counter from target creature onto a second target creature. ({Q} is the untap symbol.)
+3/3

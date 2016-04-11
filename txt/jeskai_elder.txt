@@ -1,0 +1,5 @@
+Jeskai Elder {1}{U}
+Creature — Human Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.
+1/2

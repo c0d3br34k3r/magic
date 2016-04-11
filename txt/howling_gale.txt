@@ -1,0 +1,4 @@
+Howling Gale {1}{G}
+Instant
+Howling Gale deals 1 damage to each creature with flying and each player.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

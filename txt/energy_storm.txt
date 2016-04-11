@@ -1,0 +1,5 @@
+Energy Storm {1}{W}
+Enchantment
+Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Prevent all damage that would be dealt by instant and sorcery spells.
+Creatures with flying don't untap during their controllers' untap steps.

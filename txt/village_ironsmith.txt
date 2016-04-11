@@ -1,0 +1,11 @@
+Village Ironsmith {1}{R}
+Creature — Human Werewolf
+First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.
+1/1
+* DOUBLE-FACED *
+Ironfang
+(R) Creature — Werewolf
+First strike
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.
+3/1

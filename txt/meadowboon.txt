@@ -1,0 +1,5 @@
+Meadowboon {2}{W}{W}
+Creature — Elemental
+When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.
+Evoke {3}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+3/3

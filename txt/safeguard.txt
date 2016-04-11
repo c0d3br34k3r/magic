@@ -1,0 +1,3 @@
+Safeguard {3}{W}{W}
+Enchantment
+{2}{W}: Prevent all combat damage that would be dealt by target creature this turn.

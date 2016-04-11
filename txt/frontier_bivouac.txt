@@ -1,0 +1,4 @@
+Frontier Bivouac
+Land
+Frontier Bivouac enters the battlefield tapped.
+{T}: Add {G}, {U}, or {R} to your mana pool.

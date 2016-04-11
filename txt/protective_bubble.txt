@@ -1,0 +1,4 @@
+Protective Bubble {3}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)

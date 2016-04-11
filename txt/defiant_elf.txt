@@ -1,0 +1,4 @@
+Defiant Elf {G}
+Creature — Elf
+Trample
+1/1

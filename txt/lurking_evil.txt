@@ -1,0 +1,3 @@
+Lurking Evil {B}{B}{B}
+Enchantment
+Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying.

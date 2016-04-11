@@ -1,0 +1,4 @@
+Coiling Oracle {U}{G}
+Creature — Snake Elf Druid
+When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+1/1

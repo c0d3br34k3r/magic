@@ -1,0 +1,5 @@
+Darksteel Colossus {11}
+Artifact Creature — Golem
+Trample, indestructible
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.
+11/11

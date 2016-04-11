@@ -1,0 +1,5 @@
+Weatherseed Treefolk {2}{G}{G}{G}
+Creature — Treefolk
+Trample
+When Weatherseed Treefolk dies, return it to its owner's hand.
+5/3

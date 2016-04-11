@@ -1,0 +1,3 @@
+Meteor Shower {X}{X}{R}
+Sorcery
+Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.

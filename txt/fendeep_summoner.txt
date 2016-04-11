@@ -1,0 +1,4 @@
+Fendeep Summoner {4}{B}
+Creature — Treefolk Shaman
+{T}: Up to two target Swamps each become 3/5 Treefolk Warrior creatures in addition to their other types until end of turn.
+3/5

@@ -1,0 +1,5 @@
+Dromar, the Banisher {3}{W}{U}{B}
+Legendary Creature — Dragon
+Flying
+Whenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color, then return all creatures of that color to their owners' hands.
+6/6

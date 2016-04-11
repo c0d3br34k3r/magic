@@ -1,0 +1,4 @@
+Cho-Manno, Revolutionary {2}{W}{W}
+Legendary Creature — Human Rebel
+Prevent all damage that would be dealt to Cho-Manno, Revolutionary.
+2/2

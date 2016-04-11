@@ -1,0 +1,5 @@
+Power Taint {1}{U}
+Enchantment — Aura
+Enchant enchantment
+At the beginning of the upkeep of enchanted enchantment's controller, that player loses 2 life unless he or she pays {2}.
+Cycling {2} ({2}, Discard this card: Draw a card.)

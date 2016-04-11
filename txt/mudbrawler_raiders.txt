@@ -1,0 +1,4 @@
+Mudbrawler Raiders {2}{R/G}{R/G}
+Creature — Goblin Warrior
+Mudbrawler Raiders can't be blocked by blue creatures.
+3/3

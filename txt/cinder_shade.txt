@@ -1,0 +1,5 @@
+Cinder Shade {1}{B}{R}
+Creature — Shade
+{B}: Cinder Shade gets +1/+1 until end of turn.
+{R}, Sacrifice Cinder Shade: Cinder Shade deals damage equal to its power to target creature.
+1/1

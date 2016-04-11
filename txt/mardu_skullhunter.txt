@@ -1,0 +1,5 @@
+Mardu Skullhunter {1}{B}
+Creature — Human Warrior
+Mardu Skullhunter enters the battlefield tapped.
+Raid — When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.
+2/1

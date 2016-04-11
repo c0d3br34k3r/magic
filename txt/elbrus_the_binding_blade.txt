@@ -1,0 +1,11 @@
+Elbrus, the Binding Blade {7}
+Legendary Artifact — Equipment
+Equipped creature gets +1/+0.
+When equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.
+Equip {1}
+* DOUBLE-FACED *
+Withengar Unbound
+(B) Legendary Creature — Demon
+Flying, intimidate, trample (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.
+13/13

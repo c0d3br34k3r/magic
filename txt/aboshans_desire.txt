@@ -1,0 +1,5 @@
+Aboshan's Desire {U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Threshold — Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)

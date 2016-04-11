@@ -1,0 +1,4 @@
+Æther Spellbomb {1}
+Artifact
+{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.
+{1}, Sacrifice Æther Spellbomb: Draw a card.

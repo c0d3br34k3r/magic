@@ -1,0 +1,5 @@
+Plague Boiler {3}
+Artifact
+At the beginning of your upkeep, put a plague counter on Plague Boiler.
+{1}{B}{G}: Put a plague counter on Plague Boiler or remove a plague counter from it.
+When Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.

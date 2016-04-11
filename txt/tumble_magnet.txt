@@ -1,0 +1,4 @@
+Tumble Magnet {3}
+Artifact
+Tumble Magnet enters the battlefield with three charge counters on it.
+{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.

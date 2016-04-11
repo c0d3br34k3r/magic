@@ -1,0 +1,5 @@
+Tyrant's Familiar {5}{R}{R}
+Creature — Dragon
+Flying, haste
+Lieutenant — As long as you control your commander, Tyrant's Familiar gets +2/+2 and has "Whenever Tyrant's Familiar attacks, it deals 7 damage to target creature defending player controls."
+5/5

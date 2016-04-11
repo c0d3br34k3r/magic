@@ -1,0 +1,4 @@
+Racecourse Fury {R}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Target creature gains haste until end of turn."

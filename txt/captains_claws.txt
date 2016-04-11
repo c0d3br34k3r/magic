@@ -1,0 +1,5 @@
+Captain's Claws {2}
+Artifact — Equipment
+Equipped creature gets +1/+0.
+Whenever equipped creature attacks, put a 1/1 white Kor Ally creature token onto the battlefield tapped and attacking.
+Equip {1}

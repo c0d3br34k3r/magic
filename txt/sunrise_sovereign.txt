@@ -1,0 +1,4 @@
+Sunrise Sovereign {5}{R}
+Creature — Giant Warrior
+Other Giant creatures you control get +2/+2 and have trample.
+5/5

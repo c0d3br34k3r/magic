@@ -1,0 +1,4 @@
+Errantry {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+0 and can only attack alone.

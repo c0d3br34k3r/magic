@@ -1,0 +1,4 @@
+Dakmor Sorceress {5}{B}
+Creature — Human Wizard
+Dakmor Sorceress's power is equal to the number of Swamps you control.
+*/4

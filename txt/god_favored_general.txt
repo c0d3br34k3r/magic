@@ -1,0 +1,4 @@
+God-Favored General {1}{W}
+Creature — Human Soldier
+Inspired — Whenever God-Favored General becomes untapped, you may pay {2}{W}. If you do, put two 1/1 white Soldier enchantment creature tokens onto the battlefield.
+1/1

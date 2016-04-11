@@ -1,0 +1,3 @@
+Primal Surge {8}{G}{G}
+Sorcery
+Exile the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you do, repeat this process.

@@ -1,0 +1,5 @@
+Porcelain Legionnaire {2}{W/P}
+Artifact Creature — Soldier
+({W/P} can be paid with either {W} or 2 life.)
+First strike
+3/1

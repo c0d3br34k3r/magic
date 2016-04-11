@@ -1,0 +1,4 @@
+Skull of Ramos {3}
+Artifact
+{T}: Add {B} to your mana pool.
+Sacrifice Skull of Ramos: Add {B} to your mana pool.

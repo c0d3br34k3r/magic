@@ -1,0 +1,4 @@
+Chitinous Cloak {3}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
+Equip {3}

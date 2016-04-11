@@ -1,0 +1,4 @@
+Curse of Predation {2}{G}
+Enchantment — Aura Curse
+Enchant player
+Whenever a creature attacks enchanted player, put a +1/+1 counter on it.

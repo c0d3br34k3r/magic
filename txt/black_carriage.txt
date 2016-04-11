@@ -1,0 +1,6 @@
+Black Carriage {3}{B}{B}
+Creature — Horse
+Trample
+Black Carriage doesn't untap during your untap step.
+Sacrifice a creature: Untap Black Carriage. Activate this ability only during your upkeep.
+4/4

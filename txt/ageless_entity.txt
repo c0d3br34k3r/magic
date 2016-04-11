@@ -1,0 +1,4 @@
+Ageless Entity {3}{G}{G}
+Creature — Elemental
+Whenever you gain life, put that many +1/+1 counters on Ageless Entity.
+4/4

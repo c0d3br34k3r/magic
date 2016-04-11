@@ -1,0 +1,6 @@
+Bogardan Hellkite {6}{R}{R}
+Creature — Dragon
+Flash
+Flying
+When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.
+5/5

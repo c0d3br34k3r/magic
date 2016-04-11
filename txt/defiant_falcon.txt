@@ -1,0 +1,5 @@
+Defiant Falcon {1}{W}
+Creature — Rebel Bird
+Flying
+{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+1/1

@@ -1,0 +1,5 @@
+Voidmage Prodigy {U}{U}
+Creature — Human Wizard
+{U}{U}, Sacrifice a Wizard: Counter target spell.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+2/1

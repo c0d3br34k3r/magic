@@ -1,0 +1,6 @@
+Junk Golem {4}
+Artifact Creature — Golem
+Junk Golem enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.
+{1}, Discard a card: Put a +1/+1 counter on Junk Golem.
+0/0

@@ -1,0 +1,4 @@
+Megantic Sliver {5}{G}
+Creature — Sliver
+Sliver creatures you control get +3/+3.
+3/3

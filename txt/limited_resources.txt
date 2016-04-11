@@ -1,0 +1,4 @@
+Limited Resources {W}
+Enchantment
+When Limited Resources enters the battlefield, each player chooses five lands he or she controls and sacrifices the rest.
+Players can't play lands as long as ten or more lands are on the battlefield.

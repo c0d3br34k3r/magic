@@ -1,0 +1,4 @@
+Spectral Shield {1}{W}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +0/+2 and can't be the target of spells.

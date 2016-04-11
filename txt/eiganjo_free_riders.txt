@@ -1,0 +1,5 @@
+Eiganjo Free-Riders {3}{W}
+Creature — Human Soldier
+Flying
+At the beginning of your upkeep, return a white creature you control to its owner's hand.
+3/4

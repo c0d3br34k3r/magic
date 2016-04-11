@@ -1,0 +1,4 @@
+Lurking Nightstalker {B}{B}
+Creature — Nightstalker
+Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.
+1/1

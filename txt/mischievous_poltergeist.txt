@@ -1,0 +1,5 @@
+Mischievous Poltergeist {2}{B}
+Creature — Spirit
+Flying
+Pay 1 life: Regenerate Mischievous Poltergeist.
+1/1

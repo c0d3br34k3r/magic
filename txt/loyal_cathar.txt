@@ -1,0 +1,10 @@
+Loyal Cathar {W}{W}
+Creature — Human Soldier
+Vigilance
+When Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.
+2/2
+* DOUBLE-FACED *
+Unhallowed Cathar
+(B) Creature — Zombie Soldier
+Unhallowed Cathar can't block.
+2/1

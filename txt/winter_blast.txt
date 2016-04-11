@@ -1,0 +1,3 @@
+Winter Blast {X}{G}
+Sorcery
+Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.

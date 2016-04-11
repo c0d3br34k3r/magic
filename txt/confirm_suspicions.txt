@@ -1,0 +1,4 @@
+Confirm Suspicions {3}{U}{U}
+Instant
+Counter target spell.
+Investigate three times. (To investigate, put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

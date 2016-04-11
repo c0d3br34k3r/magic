@@ -1,0 +1,4 @@
+Belligerent Sliver {2}{R}
+Creature — Sliver
+Sliver creatures you control have menace. (They can't be blocked except by two or more creatures.)
+2/2

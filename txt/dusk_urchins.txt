@@ -1,0 +1,5 @@
+Dusk Urchins {2}{B}
+Creature — Ouphe
+Whenever Dusk Urchins attacks or blocks, put a -1/-1 counter on it.
+When Dusk Urchins dies, draw a card for each -1/-1 counter on it.
+4/3

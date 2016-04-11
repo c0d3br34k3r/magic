@@ -1,0 +1,5 @@
+Stab Wound {2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-2.
+At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.

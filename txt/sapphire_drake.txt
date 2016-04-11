@@ -1,0 +1,5 @@
+Sapphire Drake {5}{U}
+Creature — Drake
+Flying
+Each creature you control with a +1/+1 counter on it has flying.
+4/4

@@ -1,0 +1,4 @@
+Crumble to Dust {3}{R}
+Sorcery
+Devoid (This card has no color.)
+Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles his or her library.

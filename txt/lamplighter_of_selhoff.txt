@@ -1,0 +1,4 @@
+Lamplighter of Selhoff {4}{U}
+Creature — Zombie Horror
+When Lamplighter of Selhoff enters the battlefield, if you control another Zombie, you may draw a card. If you do, discard a card.
+3/5

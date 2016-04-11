@@ -1,0 +1,3 @@
+Noble Stand {4}{W}
+Enchantment
+Whenever a creature you control blocks, you gain 2 life.

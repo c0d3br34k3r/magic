@@ -1,0 +1,4 @@
+Sabertooth Nishoba {4}{W}{G}
+Creature — Cat Beast Warrior
+Trample, protection from blue and from red
+5/5

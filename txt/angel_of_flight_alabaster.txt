@@ -1,0 +1,5 @@
+Angel of Flight Alabaster {4}{W}
+Creature — Angel
+Flying
+At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.
+4/4

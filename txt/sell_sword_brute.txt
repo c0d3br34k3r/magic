@@ -1,0 +1,4 @@
+Sell-Sword Brute {1}{R}
+Creature — Human Mercenary
+When Sell-Sword Brute dies, it deals 2 damage to you.
+2/2

@@ -1,0 +1,5 @@
+Minamo Scrollkeeper {1}{U}
+Creature — Human Wizard
+Defender
+Your maximum hand size is increased by one.
+2/3

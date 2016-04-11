@@ -1,0 +1,4 @@
+Slobad, Goblin Tinkerer {1}{R}
+Legendary Creature — Goblin Artificer
+Sacrifice an artifact: Target artifact gains indestructible until end of turn. (Effects that say "destroy" don't destroy it. A creature with indestructible can't be destroyed by damage.)
+1/2

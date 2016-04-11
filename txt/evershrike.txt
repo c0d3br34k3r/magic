@@ -1,0 +1,6 @@
+Evershrike {3}{W/B}{W/B}
+Creature — Elemental Spirit
+Flying
+Evershrike gets +2/+2 for each Aura attached to it.
+{X}{W/B}{W/B}: Return Evershrike from your graveyard to the battlefield. You may put an Aura card with converted mana cost X or less from your hand onto the battlefield attached to it. If you don't, exile Evershrike.
+2/2

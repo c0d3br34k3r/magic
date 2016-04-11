@@ -1,0 +1,4 @@
+Fangren Firstborn {1}{G}{G}{G}
+Creature — Beast
+Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.
+4/2

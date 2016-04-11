@@ -1,0 +1,5 @@
+Deathless Behemoth {6}
+Creature — Eldrazi
+Vigilance
+Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.
+6/6

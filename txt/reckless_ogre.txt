@@ -1,0 +1,4 @@
+Reckless Ogre {3}{R}
+Creature — Ogre
+Whenever Reckless Ogre attacks alone, it gets +3/+0 until end of turn.
+3/2

@@ -1,0 +1,3 @@
+Temple Bell {3}
+Artifact
+{T}: Each player draws a card.

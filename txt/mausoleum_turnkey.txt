@@ -1,0 +1,4 @@
+Mausoleum Turnkey {3}{B}
+Creature — Ogre Rogue
+When Mausoleum Turnkey enters the battlefield, return target creature card of an opponent's choice from your graveyard to your hand.
+3/2

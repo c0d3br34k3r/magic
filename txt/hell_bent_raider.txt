@@ -1,0 +1,5 @@
+Hell-Bent Raider {1}{R}{R}
+Creature — Human Barbarian
+First strike, haste
+Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.
+2/2

@@ -1,0 +1,5 @@
+Aboshan, Cephalid Emperor {4}{U}{U}
+Legendary Creature — Cephalid
+Tap an untapped Cephalid you control: Tap target permanent.
+{U}{U}{U}: Tap all creatures without flying.
+3/3

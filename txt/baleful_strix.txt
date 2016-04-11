@@ -1,0 +1,5 @@
+Baleful Strix {U}{B}
+Artifact Creature — Bird
+Flying, deathtouch
+When Baleful Strix enters the battlefield, draw a card.
+1/1

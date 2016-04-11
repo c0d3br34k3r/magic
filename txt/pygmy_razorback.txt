@@ -1,0 +1,4 @@
+Pygmy Razorback {1}{G}
+Creature — Boar
+Trample
+2/1

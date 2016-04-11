@@ -1,0 +1,4 @@
+Tracker's Instincts {1}{G}
+Sorcery
+Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

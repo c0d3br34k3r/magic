@@ -1,0 +1,3 @@
+Caustic Rain {2}{B}{B}
+Sorcery
+Exile target land.

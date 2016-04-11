@@ -1,0 +1,5 @@
+Ambush Krotiq {5}{G}
+Creature — Insect
+Trample
+When Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.
+5/5

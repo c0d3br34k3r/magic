@@ -1,0 +1,5 @@
+Chameleon Spirit {3}{U}
+Creature — Illusion Spirit
+As Chameleon Spirit enters the battlefield, choose a color.
+Chameleon Spirit's power and toughness are each equal to the number of permanents of the chosen color your opponents control.
+*/*

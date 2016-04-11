@@ -1,0 +1,4 @@
+Hostile Realm {2}{R}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Target creature can't block this turn."

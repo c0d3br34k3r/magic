@@ -1,0 +1,3 @@
+Desecration Plague {3}{G}
+Sorcery
+Destroy target enchantment or land.

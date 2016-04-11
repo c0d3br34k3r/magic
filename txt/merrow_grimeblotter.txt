@@ -1,0 +1,4 @@
+Merrow Grimeblotter {3}{U/B}
+Creature — Merfolk Wizard
+{1}{U/B}, {Q}: Target creature gets -2/-0 until end of turn. ({Q} is the untap symbol.)
+2/2

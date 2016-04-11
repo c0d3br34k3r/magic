@@ -1,0 +1,4 @@
+Flowering Lumberknot {3}{G}
+Creature — Treefolk
+Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.
+5/5

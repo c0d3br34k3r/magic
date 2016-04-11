@@ -1,0 +1,3 @@
+Batwing Brume {1}{W/B}
+Instant
+Prevent all combat damage that would be dealt this turn if {W} was spent to cast Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if {B} was spent to cast Batwing Brume. (Do both if {W}{B} was spent.)

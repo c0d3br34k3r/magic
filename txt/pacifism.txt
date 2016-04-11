@@ -1,0 +1,4 @@
+Pacifism {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block.

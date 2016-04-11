@@ -1,0 +1,4 @@
+Manaweft Sliver {1}{G}
+Creature — Sliver
+Sliver creatures you control have "{T}: Add one mana of any color to your mana pool."
+1/1

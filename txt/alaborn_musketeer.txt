@@ -1,0 +1,4 @@
+Alaborn Musketeer {1}{W}
+Creature — Human Soldier
+Reach (This creature can block creatures with flying.)
+2/1

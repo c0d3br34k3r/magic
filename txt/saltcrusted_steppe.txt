@@ -1,0 +1,5 @@
+Saltcrusted Steppe
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Put a storage counter on Saltcrusted Steppe.
+{1}, Remove X storage counters from Saltcrusted Steppe: Add X mana in any combination of {G} and/or {W} to your mana pool.

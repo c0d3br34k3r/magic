@@ -1,0 +1,4 @@
+Heavy Fog {1}{G}
+Instant
+Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.
+Prevent all damage that would be dealt to you this turn by attacking creatures.

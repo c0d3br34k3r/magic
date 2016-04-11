@@ -1,0 +1,4 @@
+Thelon's Chant {1}{G}{G}
+Enchantment
+At the beginning of your upkeep, sacrifice Thelon's Chant unless you pay {G}.
+Whenever a player puts a Swamp onto the battlefield, Thelon's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.

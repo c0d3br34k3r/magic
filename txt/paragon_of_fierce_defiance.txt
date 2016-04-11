@@ -1,0 +1,5 @@
+Paragon of Fierce Defiance {3}{R}
+Creature — Human Warrior
+Other red creatures you control get +1/+1.
+{R}, {T}: Another target red creature you control gains haste until end of turn. (It can attack and {T} this turn.)
+2/2

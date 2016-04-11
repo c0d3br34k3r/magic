@@ -1,0 +1,4 @@
+Rats of Rath {1}{B}
+Creature — Rat
+{B}: Destroy target artifact, creature, or land you control.
+2/1

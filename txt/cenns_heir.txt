@@ -1,0 +1,4 @@
+Cenn's Heir {1}{W}
+Creature — Kithkin Soldier
+Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.
+1/1

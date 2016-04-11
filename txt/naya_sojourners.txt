@@ -1,0 +1,5 @@
+Naya Sojourners {2}{W}{R}{G}
+Creature — Elf Shaman
+When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+5/3

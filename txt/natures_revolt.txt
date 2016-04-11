@@ -1,0 +1,3 @@
+Nature's Revolt {3}{G}{G}
+Enchantment
+All lands are 2/2 creatures that are still lands.

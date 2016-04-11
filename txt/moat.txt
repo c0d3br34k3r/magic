@@ -1,0 +1,3 @@
+Moat {2}{W}{W}
+Enchantment
+Creatures without flying can't attack.

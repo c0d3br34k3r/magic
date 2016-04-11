@@ -1,0 +1,6 @@
+Ulamog, the Ceaseless Hunger {10}
+Legendary Creature — Eldrazi
+When you cast Ulamog, the Ceaseless Hunger, exile two target permanents.
+Indestructible
+Whenever Ulamog attacks, defending player exiles the top twenty cards of his or her library.
+10/10

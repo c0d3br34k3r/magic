@@ -1,0 +1,5 @@
+Wall of Fire {1}{R}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+{R}: Wall of Fire gets +1/+0 until end of turn.
+0/5

@@ -1,0 +1,6 @@
+Pride of the Clouds {W}{U}
+Creature — Elemental Cat
+Flying
+Pride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.
+Forecast — {2}{W}{U}, Reveal Pride of the Clouds from your hand: Put a 1/1 white and blue Bird creature token with flying onto the battlefield. (Activate this ability only during your upkeep and only once each turn.)
+1/1

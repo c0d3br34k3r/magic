@@ -1,0 +1,5 @@
+Runewing {3}{U}
+Creature — Bird
+Flying
+When Runewing dies, draw a card.
+2/2

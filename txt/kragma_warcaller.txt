@@ -1,0 +1,5 @@
+Kragma Warcaller {3}{B}{R}
+Creature — Minotaur Warrior
+Minotaur creatures you control have haste.
+Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
+2/3

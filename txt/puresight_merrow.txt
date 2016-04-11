@@ -1,0 +1,4 @@
+Puresight Merrow {W/U}{W/U}
+Creature — Merfolk Wizard
+{W/U}, {Q}: Look at the top card of your library. You may exile that card. ({Q} is the untap symbol.)
+2/2

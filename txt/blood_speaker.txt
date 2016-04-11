@@ -1,0 +1,5 @@
+Blood Speaker {3}{B}
+Creature — Ogre Shaman
+At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library.
+Whenever a Demon enters the battlefield under your control, return Blood Speaker from your graveyard to your hand.
+3/2

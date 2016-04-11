@@ -1,0 +1,4 @@
+Serra Sphinx {3}{U}{U}
+Creature — Sphinx
+Flying, vigilance
+4/4

@@ -1,0 +1,4 @@
+Xenograft {4}{U}
+Enchantment
+As Xenograft enters the battlefield, choose a creature type.
+Each creature you control is the chosen type in addition to its other types.

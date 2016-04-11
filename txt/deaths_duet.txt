@@ -1,0 +1,3 @@
+Death's Duet {2}{B}
+Sorcery
+Return two target creature cards from your graveyard to your hand.

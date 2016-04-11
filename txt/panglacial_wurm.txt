@@ -1,0 +1,5 @@
+Panglacial Wurm {5}{G}{G}
+Creature — Wurm
+Trample
+While you're searching your library, you may cast Panglacial Wurm from your library.
+9/5

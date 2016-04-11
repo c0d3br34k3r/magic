@@ -1,0 +1,3 @@
+Tidal Surge {1}{U}
+Sorcery
+Tap up to three target creatures without flying.

@@ -1,0 +1,6 @@
+Sutured Ghoul {4}{B}{B}{B}
+Creature — Zombie
+Trample
+As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.
+Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.
+*/*

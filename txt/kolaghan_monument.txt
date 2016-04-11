@@ -1,0 +1,4 @@
+Kolaghan Monument {3}
+Artifact
+{T}: Add {B} or {R} to your mana pool.
+{4}{B}{R}: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn.

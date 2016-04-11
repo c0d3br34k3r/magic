@@ -1,0 +1,4 @@
+Pincher Beetles {2}{G}
+Creature — Insect
+Shroud (This creature can't be the target of spells or abilities.)
+3/1

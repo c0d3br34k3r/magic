@@ -1,0 +1,5 @@
+Sky Swallower {3}{U}{U}
+Creature — Leviathan
+Flying
+When Sky Swallower enters the battlefield, target opponent gains control of all other permanents you control.
+8/8

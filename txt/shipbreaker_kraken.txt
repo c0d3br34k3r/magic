@@ -1,0 +1,5 @@
+Shipbreaker Kraken {4}{U}{U}
+Creature — Kraken
+{6}{U}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.
+6/6

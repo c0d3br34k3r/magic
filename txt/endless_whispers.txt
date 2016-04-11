@@ -1,0 +1,3 @@
+Endless Whispers {2}{B}{B}
+Enchantment
+Each creature has "When this creature dies, choose target opponent. That player puts this card from its owner's graveyard onto the battlefield under his or her control at the beginning of the next end step."

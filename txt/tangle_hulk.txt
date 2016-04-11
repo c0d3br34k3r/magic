@@ -1,0 +1,4 @@
+Tangle Hulk {5}
+Artifact Creature — Beast
+{2}{G}: Regenerate Tangle Hulk.
+5/3

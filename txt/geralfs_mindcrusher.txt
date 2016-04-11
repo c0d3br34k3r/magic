@@ -1,0 +1,5 @@
+Geralf's Mindcrusher {4}{U}{U}
+Creature — Zombie Horror
+When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+5/5

@@ -1,0 +1,3 @@
+Tawnos's Wand {4}
+Artifact
+{2}, {T}: Target creature with power 2 or less can't be blocked this turn.

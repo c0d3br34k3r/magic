@@ -1,0 +1,6 @@
+Pouncing Kavu {1}{R}
+Creature — Kavu
+Kicker {2}{R} (You may pay an additional {2}{R} as you cast this spell.)
+First strike
+If Pouncing Kavu was kicked, it enters the battlefield with two +1/+1 counters on it and with haste.
+1/1

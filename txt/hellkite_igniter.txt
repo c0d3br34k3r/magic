@@ -1,0 +1,5 @@
+Hellkite Igniter {5}{R}{R}
+Creature — Dragon
+Flying, haste
+{1}{R}: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+5/5

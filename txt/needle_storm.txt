@@ -1,0 +1,3 @@
+Needle Storm {2}{G}
+Sorcery
+Needle Storm deals 4 damage to each creature with flying.

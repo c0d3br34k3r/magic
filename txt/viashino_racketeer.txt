@@ -1,0 +1,4 @@
+Viashino Racketeer {2}{R}
+Creature — Viashino Rogue
+When Viashino Racketeer enters the battlefield, you may discard a card. If you do, draw a card.
+2/1

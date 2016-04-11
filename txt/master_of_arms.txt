@@ -1,0 +1,5 @@
+Master of Arms {2}{W}
+Creature — Human Soldier
+First strike
+{1}{W}: Tap target creature blocking Master of Arms.
+2/2

@@ -1,0 +1,4 @@
+Charging Bandits {4}{B}
+Creature — Human Rogue
+Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.
+3/3

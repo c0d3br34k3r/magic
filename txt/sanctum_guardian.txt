@@ -1,0 +1,4 @@
+Sanctum Guardian {1}{W}{W}
+Creature — Human Cleric
+Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+1/4

@@ -1,0 +1,3 @@
+Thassa's Ire {U}
+Enchantment
+{3}{U}: You may tap or untap target creature.

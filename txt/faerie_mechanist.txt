@@ -1,0 +1,5 @@
+Faerie Mechanist {3}{U}
+Artifact Creature — Faerie Artificer
+Flying
+When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+2/2

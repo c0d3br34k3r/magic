@@ -1,0 +1,4 @@
+Angel's Trumpet {3}
+Artifact
+All creatures have vigilance.
+At the beginning of each player's end step, tap all untapped creatures that player controls that didn't attack this turn. Angel's Trumpet deals damage to the player equal to the number of creatures tapped this way.

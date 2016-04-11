@@ -1,0 +1,4 @@
+Serra Inquisitors {4}{W}
+Creature — Human Cleric
+Whenever Serra Inquisitors blocks or becomes blocked by one or more black creatures, Serra Inquisitors gets +2/+0 until end of turn.
+3/3

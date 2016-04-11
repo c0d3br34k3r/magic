@@ -1,0 +1,4 @@
+Ironhoof Ox {3}{G}{G}
+Creature — Ox
+Ironhoof Ox can't be blocked by more than one creature.
+4/4

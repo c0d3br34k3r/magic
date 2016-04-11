@@ -1,0 +1,4 @@
+Drownyard Explorers {3}{U}
+Creature — Human Wizard
+When Drownyard Explorers enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+2/4

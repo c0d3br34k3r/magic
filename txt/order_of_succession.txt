@@ -1,0 +1,3 @@
+Order of Succession {3}{U}
+Sorcery
+Choose left or right. Starting with you and proceeding in the chosen direction, each player chooses a creature controlled by the next player in that direction. Each player gains control of the creature he or she chose.

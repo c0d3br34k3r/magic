@@ -1,0 +1,5 @@
+Chimney Imp {4}{B}
+Creature — Imp
+Flying
+When Chimney Imp dies, target opponent puts a card from his or her hand on top of his or her library.
+1/2

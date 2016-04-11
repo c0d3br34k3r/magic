@@ -1,0 +1,6 @@
+Wretched Confluence {3}{B}{B}
+Instant
+Choose three. You may choose the same mode more than once.
+• Target player draws a card and loses 1 life.
+• Target creature gets -2/-2 until end of turn.
+• Return target creature card from your graveyard to your hand.

@@ -1,0 +1,4 @@
+Hoof Skulkin {3}
+Artifact Creature — Scarecrow
+{3}: Target green creature gets +1/+1 until end of turn.
+2/2

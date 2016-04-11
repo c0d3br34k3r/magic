@@ -1,0 +1,5 @@
+Reaper of Flight Moonsilver {3}{W}{W}
+Creature — Angel
+Flying
+Delirium — Sacrifice another creature: Reaper of Flight Moonsilver gets +2/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+3/3

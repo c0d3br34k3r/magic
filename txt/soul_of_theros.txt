@@ -1,0 +1,6 @@
+Soul of Theros {4}{W}{W}
+Creature — Avatar
+Vigilance
+{4}{W}{W}: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
+{4}{W}{W}, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
+6/6

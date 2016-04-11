@@ -1,0 +1,4 @@
+Stonehorn Dignitary {3}{W}
+Creature — Rhino Soldier
+When Stonehorn Dignitary enters the battlefield, target opponent skips his or her next combat phase.
+1/4

@@ -1,0 +1,5 @@
+Ring of Thune {2}
+Artifact — Equipment
+Equipped creature has vigilance. (Attacking doesn't cause it to tap.)
+At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's white.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

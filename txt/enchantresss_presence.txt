@@ -1,0 +1,3 @@
+Enchantress's Presence {2}{G}
+Enchantment
+Whenever you cast an enchantment spell, draw a card.

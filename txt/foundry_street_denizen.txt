@@ -1,0 +1,4 @@
+Foundry Street Denizen {R}
+Creature — Goblin Warrior
+Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Riptide Director {2}{U}{U}
+Creature — Human Wizard
+{2}{U}{U}, {T}: Draw a card for each Wizard you control.
+2/3

@@ -1,0 +1,4 @@
+Demonspine Whip {B}{R}
+Artifact — Equipment
+{X}: Equipped creature gets +X/+0 until end of turn.
+Equip {1}

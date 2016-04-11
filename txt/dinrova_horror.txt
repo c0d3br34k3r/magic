@@ -1,0 +1,4 @@
+Dinrova Horror {4}{U}{B}
+Creature — Horror
+When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card.
+4/4

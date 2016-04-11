@@ -1,0 +1,4 @@
+Relic Bane {1}{B}{B}
+Enchantment — Aura
+Enchant artifact
+Enchanted artifact has "At the beginning of your upkeep, you lose 2 life."

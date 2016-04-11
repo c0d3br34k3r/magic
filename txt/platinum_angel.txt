@@ -1,0 +1,5 @@
+Platinum Angel {7}
+Artifact Creature — Angel
+Flying
+You can't lose the game and your opponents can't win the game.
+4/4

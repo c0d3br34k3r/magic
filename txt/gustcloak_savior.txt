@@ -1,0 +1,5 @@
+Gustcloak Savior {4}{W}
+Creature — Bird Soldier
+Flying
+Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.
+3/4

@@ -1,0 +1,4 @@
+Favored Hoplite {W}
+Creature — Human Soldier
+Heroic — Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.
+1/2

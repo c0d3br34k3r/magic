@@ -1,0 +1,4 @@
+Zodiac Monkey {1}{G}
+Creature — Ape
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+2/1

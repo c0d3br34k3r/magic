@@ -1,0 +1,7 @@
+Thassa, God of the Sea {2}{U}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+At the beginning of your upkeep, scry 1.
+{1}{U}: Target creature you control can't be blocked this turn.
+5/5

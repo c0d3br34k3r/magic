@@ -1,0 +1,5 @@
+Rushwood Grove
+Land
+Rushwood Grove enters the battlefield tapped.
+{T}: Put a storage counter on Rushwood Grove.
+{T}, Remove any number of storage counters from Rushwood Grove: Add {G} to your mana pool for each storage counter removed this way.

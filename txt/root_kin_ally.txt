@@ -1,0 +1,5 @@
+Root-Kin Ally {4}{G}{G}
+Creature — Elemental Warrior
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Tap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end of turn.
+3/3

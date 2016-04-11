@@ -1,0 +1,3 @@
+Furious Assault {2}{R}
+Enchantment
+Whenever you cast a creature spell, Furious Assault deals 1 damage to target player.

@@ -1,0 +1,3 @@
+Essence Vortex {1}{U}{B}
+Instant
+Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated.

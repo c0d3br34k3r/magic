@@ -1,0 +1,3 @@
+Boulderfall {6}{R}{R}
+Instant
+Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.

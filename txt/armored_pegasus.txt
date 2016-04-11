@@ -1,0 +1,4 @@
+Armored Pegasus {1}{W}
+Creature — Pegasus
+Flying
+1/2

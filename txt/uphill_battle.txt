@@ -1,0 +1,3 @@
+Uphill Battle {2}{R}
+Enchantment
+Creatures played by your opponents enter the battlefield tapped.

@@ -1,0 +1,4 @@
+Wildheart Invoker {2}{G}{G}
+Creature — Elf Shaman
+{8}: Target creature gets +5/+5 and gains trample until end of turn.
+4/3

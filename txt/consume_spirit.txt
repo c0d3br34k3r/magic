@@ -1,0 +1,4 @@
+Consume Spirit {X}{1}{B}
+Sorcery
+Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.

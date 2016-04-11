@@ -1,0 +1,4 @@
+Weatherseed Elf {G}
+Creature — Elf
+{T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)
+1/1

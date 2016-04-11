@@ -1,0 +1,3 @@
+Fire Tempest {5}{R}{R}
+Sorcery
+Fire Tempest deals 6 damage to each creature and each player.

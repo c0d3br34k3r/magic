@@ -1,0 +1,5 @@
+Erebos's Titan {1}{B}{B}{B}
+Creature — Giant
+As long as your opponents control no creatures, Erebos's Titan has indestructible. (Damage and effects that say "destroy" don't destroy it.)
+Whenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return Erebos's Titan from your graveyard to your hand.
+5/5

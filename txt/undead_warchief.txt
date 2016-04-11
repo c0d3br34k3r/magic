@@ -1,0 +1,5 @@
+Undead Warchief {2}{B}{B}
+Creature — Zombie
+Zombie spells you cast cost {1} less to cast.
+Zombie creatures you control get +2/+1.
+1/1

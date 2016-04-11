@@ -1,0 +1,5 @@
+Safehold Duo {3}{G/W}
+Creature — Elf Warrior Shaman
+Whenever you cast a green spell, Safehold Duo gets +1/+1 until end of turn.
+Whenever you cast a white spell, Safehold Duo gains vigilance until end of turn.
+2/4

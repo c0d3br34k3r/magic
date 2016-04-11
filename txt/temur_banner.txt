@@ -1,0 +1,4 @@
+Temur Banner {3}
+Artifact
+{T}: Add {G}, {U}, or {R} to your mana pool.
+{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card.

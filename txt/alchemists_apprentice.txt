@@ -1,0 +1,4 @@
+Alchemist's Apprentice {1}{U}
+Creature — Human Wizard
+Sacrifice Alchemist's Apprentice: Draw a card.
+1/1

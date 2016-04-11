@@ -1,0 +1,3 @@
+Cut the Tethers {2}{U}{U}
+Sorcery
+For each Spirit, return it to its owner's hand unless that player pays {3}.

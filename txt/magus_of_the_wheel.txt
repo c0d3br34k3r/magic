@@ -1,0 +1,4 @@
+Magus of the Wheel {2}{R}
+Creature — Human Wizard
+{1}{R}, {T}, Sacrifice Magus of the Wheel: Each player discards his or her hand, then draws seven cards.
+3/3

@@ -1,0 +1,5 @@
+Mortuary Mire
+Land
+Mortuary Mire enters the battlefield tapped.
+When Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library.
+{T}: Add {B} to your mana pool.

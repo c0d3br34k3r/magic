@@ -1,0 +1,3 @@
+Barbtooth Wurm {5}{G}
+Creature — Wurm
+6/4

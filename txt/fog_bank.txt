@@ -1,0 +1,5 @@
+Fog Bank {1}{U}
+Creature — Wall
+Defender, flying
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+0/2

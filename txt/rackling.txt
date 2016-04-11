@@ -1,0 +1,4 @@
+Rackling {4}
+Artifact Creature — Construct
+At the beginning of each opponent's upkeep, Rackling deals X damage to that player, where X is 3 minus the number of cards in his or her hand.
+2/2

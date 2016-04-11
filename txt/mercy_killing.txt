@@ -1,0 +1,3 @@
+Mercy Killing {2}{G/W}
+Instant
+Target creature's controller sacrifices it, then puts X 1/1 green and white Elf Warrior creature tokens onto the battlefield, where X is that creature's power.

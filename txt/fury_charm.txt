@@ -1,0 +1,6 @@
+Fury Charm {1}{R}
+Instant
+Choose one —
+• Destroy target artifact.
+• Target creature gets +1/+1 and gains trample until end of turn.
+• Remove two time counters from target permanent or suspended card.

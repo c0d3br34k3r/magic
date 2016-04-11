@@ -1,0 +1,4 @@
+Kithkin Mourncaller {2}{G}
+Creature — Kithkin Scout
+Whenever an attacking Kithkin or Elf is put into your graveyard from the battlefield, you may draw a card.
+2/2

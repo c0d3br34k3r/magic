@@ -1,0 +1,4 @@
+Samite Alchemist {3}{W}
+Creature — Human Cleric
+{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.
+0/2

@@ -1,0 +1,3 @@
+Upheaval {4}{U}{U}
+Sorcery
+Return all permanents to their owners' hands.

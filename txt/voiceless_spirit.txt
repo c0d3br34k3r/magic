@@ -1,0 +1,4 @@
+Voiceless Spirit {2}{W}
+Creature — Spirit
+Flying, first strike
+2/1

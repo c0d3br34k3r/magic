@@ -1,0 +1,3 @@
+Fallow Earth {2}{G}
+Sorcery
+Put target land on top of its owner's library.

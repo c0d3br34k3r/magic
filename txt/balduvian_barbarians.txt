@@ -1,0 +1,3 @@
+Balduvian Barbarians {1}{R}{R}
+Creature — Human Barbarian
+3/2

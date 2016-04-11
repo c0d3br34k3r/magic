@@ -1,0 +1,5 @@
+Slaughter Drone {1}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{C}: Slaughter Drone gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)
+2/2

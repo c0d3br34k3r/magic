@@ -1,0 +1,5 @@
+Hand of Cruelty {B}{B}
+Creature — Human Samurai
+Protection from white
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+2/2

@@ -1,0 +1,5 @@
+Sibilant Spirit {5}{U}
+Creature — Spirit
+Flying
+Whenever Sibilant Spirit attacks, defending player may draw a card.
+5/6

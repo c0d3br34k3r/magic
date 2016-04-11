@@ -1,0 +1,6 @@
+Soul of Zendikar {4}{G}{G}
+Creature — Avatar
+Reach
+{3}{G}{G}: Put a 3/3 green Beast creature token onto the battlefield.
+{3}{G}{G}, Exile Soul of Zendikar from your graveyard: Put a 3/3 green Beast creature token onto the battlefield.
+6/6

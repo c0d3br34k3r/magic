@@ -1,0 +1,4 @@
+Ulamog's Despoiler {6}
+Creature — Eldrazi Processor
+As Ulamog's Despoiler enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, Ulamog's Despoiler enters the battlefield with four +1/+1 counters on it.
+5/5

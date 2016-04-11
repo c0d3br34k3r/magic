@@ -1,0 +1,3 @@
+Vicious Shadows {6}{R}
+Enchantment
+Whenever a creature dies, you may have Vicious Shadows deal damage to target player equal to the number of cards in that player's hand.

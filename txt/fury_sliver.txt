@@ -1,0 +1,4 @@
+Fury Sliver {5}{R}
+Creature — Sliver
+All Sliver creatures have double strike.
+3/3

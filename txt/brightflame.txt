@@ -1,0 +1,3 @@
+Brightflame {X}{W}{W}{R}{R}
+Sorcery
+Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.

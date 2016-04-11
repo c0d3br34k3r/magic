@@ -1,0 +1,5 @@
+Knight of the Reliquary {1}{W}{G}
+Creature — Human Knight
+Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
+{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+2/2

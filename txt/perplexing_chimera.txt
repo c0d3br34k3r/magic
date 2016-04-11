@@ -1,0 +1,4 @@
+Perplexing Chimera {4}{U}
+Enchantment Creature — Chimera
+Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)
+3/3

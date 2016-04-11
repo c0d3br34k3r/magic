@@ -1,0 +1,4 @@
+Glintwing Invoker {4}{U}
+Creature — Human Wizard Mutant
+{7}{U}: Glintwing Invoker gets +3/+3 and gains flying until end of turn.
+3/3

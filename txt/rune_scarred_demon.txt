@@ -1,0 +1,5 @@
+Rune-Scarred Demon {5}{B}{B}
+Creature — Demon
+Flying
+When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library.
+6/6

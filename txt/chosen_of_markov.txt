@@ -1,0 +1,8 @@
+Chosen of Markov {2}{B}
+Creature — Human
+{T}, Tap an untapped Vampire you control: Transform Chosen of Markov.
+2/2
+* DOUBLE-FACED *
+Markov's Servant
+(B) Creature — Vampire
+4/4

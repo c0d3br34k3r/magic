@@ -1,0 +1,5 @@
+Weirding Wood {2}{G}
+Enchantment — Aura
+Enchant land
+When Weirding Wood enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+Enchanted land has "{T}: Add two mana of any one color to your mana pool."

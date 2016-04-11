@@ -1,0 +1,4 @@
+Pangosaur {2}{G}{G}
+Creature — Lizard
+Whenever a player plays a land, return Pangosaur to its owner's hand.
+6/6

@@ -1,0 +1,5 @@
+Inferno Titan {4}{R}{R}
+Creature — Giant
+{R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+6/6

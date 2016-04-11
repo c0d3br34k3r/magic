@@ -1,0 +1,5 @@
+Armadillo Cloak {1}{W}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature deals damage, you gain that much life.

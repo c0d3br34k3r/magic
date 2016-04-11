@@ -1,0 +1,4 @@
+Durkwood Tracker {4}{G}
+Creature — Giant
+{1}{G}, {T}: If Durkwood Tracker is on the battlefield, it deals damage equal to its power to target attacking creature. That creature deals damage equal to its power to Durkwood Tracker.
+4/3

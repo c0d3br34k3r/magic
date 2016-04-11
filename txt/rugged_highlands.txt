@@ -1,0 +1,5 @@
+Rugged Highlands
+Land
+Rugged Highlands enters the battlefield tapped.
+When Rugged Highlands enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.

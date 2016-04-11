@@ -1,0 +1,4 @@
+Emblem of the Warmind {1}{R}
+Enchantment — Aura
+Enchant creature you control
+Creatures you control have haste.

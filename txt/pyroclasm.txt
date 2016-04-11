@@ -1,0 +1,3 @@
+Pyroclasm {1}{R}
+Sorcery
+Pyroclasm deals 2 damage to each creature.

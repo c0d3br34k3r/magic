@@ -1,0 +1,3 @@
+Cathars' Crusade {3}{W}{W}
+Enchantment
+Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.

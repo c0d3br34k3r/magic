@@ -1,0 +1,4 @@
+Cobbled Wings {2}
+Artifact — Equipment
+Equipped creature has flying.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

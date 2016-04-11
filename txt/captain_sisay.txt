@@ -1,0 +1,4 @@
+Captain Sisay {2}{W}{G}
+Legendary Creature — Human Soldier
+{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.
+2/2

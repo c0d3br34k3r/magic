@@ -1,0 +1,3 @@
+Exile {2}{W}
+Instant
+Exile target nonwhite attacking creature. You gain life equal to its toughness.

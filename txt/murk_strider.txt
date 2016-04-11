@@ -1,0 +1,5 @@
+Murk Strider {3}{U}
+Creature — Eldrazi Processor
+Devoid (This card has no color.)
+When Murk Strider enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.
+3/2

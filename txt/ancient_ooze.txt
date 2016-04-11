@@ -1,0 +1,4 @@
+Ancient Ooze {5}{G}{G}
+Creature — Ooze
+Ancient Ooze's power and toughness are each equal to the total converted mana cost of other creatures you control.
+*/*

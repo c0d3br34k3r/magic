@@ -1,0 +1,5 @@
+Crashing Centaur {4}{G}{G}
+Creature — Centaur
+{G}, Discard a card: Crashing Centaur gains trample until end of turn.
+Threshold — As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)
+3/4

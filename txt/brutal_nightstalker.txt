@@ -1,0 +1,4 @@
+Brutal Nightstalker {3}{B}{B}
+Creature — Nightstalker
+When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.
+3/2

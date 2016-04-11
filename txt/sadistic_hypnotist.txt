@@ -1,0 +1,4 @@
+Sadistic Hypnotist {3}{B}{B}
+Creature — Human Minion
+Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+2/2

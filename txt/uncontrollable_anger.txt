@@ -1,0 +1,5 @@
+Uncontrollable Anger {2}{R}{R}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.

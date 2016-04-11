@@ -1,0 +1,10 @@
+Hanweir Militia Captain {1}{W}
+Creature — Human Soldier
+At the beginning of your upkeep, if you control four or more creatures, transform Hanweir Militia Captain.
+2/2
+* DOUBLE-FACED *
+Westvale Cult Leader
+Creature — Human Cleric
+Westvale Cult Leader's power and toughness are each equal to the number of creatures you control.
+At the beginning of your end step, put a 1/1 white and black Human Cleric creature token onto the battlefield.
+*/*

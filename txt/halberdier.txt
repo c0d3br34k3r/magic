@@ -1,0 +1,4 @@
+Halberdier {3}{R}
+Creature — Human Barbarian
+First strike
+3/1

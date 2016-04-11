@@ -1,0 +1,4 @@
+Gloryscale Viashino {1}{W}{R}{G}
+Creature — Viashino Soldier
+Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.
+3/3

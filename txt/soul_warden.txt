@@ -1,0 +1,4 @@
+Soul Warden {W}
+Creature — Human Cleric
+Whenever another creature enters the battlefield, you gain 1 life.
+1/1

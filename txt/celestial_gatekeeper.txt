@@ -1,0 +1,5 @@
+Celestial Gatekeeper {3}{W}{W}
+Creature — Bird Cleric
+Flying
+When Celestial Gatekeeper dies, exile it, then return up to two target Bird and/or Cleric permanent cards from your graveyard to the battlefield.
+2/2

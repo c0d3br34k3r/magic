@@ -1,0 +1,4 @@
+Flamekin Bladewhirl {R}
+Creature — Elemental Warrior
+As an additional cost to cast Flamekin Bladewhirl, reveal an Elemental card from your hand or pay {3}.
+2/1

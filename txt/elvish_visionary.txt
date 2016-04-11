@@ -1,0 +1,4 @@
+Elvish Visionary {1}{G}
+Creature — Elf Shaman
+When Elvish Visionary enters the battlefield, draw a card.
+1/1

@@ -1,0 +1,4 @@
+Bad River
+Land
+Bad River enters the battlefield tapped.
+{T}, Sacrifice Bad River: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.

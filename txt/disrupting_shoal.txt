@@ -1,0 +1,4 @@
+Disrupting Shoal {X}{U}{U}
+Instant — Arcane
+You may exile a blue card with converted mana cost X from your hand rather than pay Disrupting Shoal's mana cost.
+Counter target spell if its converted mana cost is X.

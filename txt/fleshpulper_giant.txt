@@ -1,0 +1,4 @@
+Fleshpulper Giant {5}{R}{R}
+Creature — Giant
+When Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less.
+4/4

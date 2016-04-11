@@ -1,0 +1,3 @@
+Swelter {3}{R}
+Sorcery
+Swelter deals 2 damage to each of two target creatures.

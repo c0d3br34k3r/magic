@@ -1,0 +1,4 @@
+Spiked Baloth {3}{G}
+Creature — Beast
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+4/2

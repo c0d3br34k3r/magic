@@ -1,0 +1,5 @@
+Desert Nomads {2}{R}
+Creature — Human Nomad
+Desertwalk
+Prevent all damage that would be dealt to Desert Nomads by Deserts.
+2/2

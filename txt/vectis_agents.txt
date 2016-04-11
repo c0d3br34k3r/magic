@@ -1,0 +1,4 @@
+Vectis Agents {3}{U}{B}
+Artifact Creature — Human Rogue
+{U}{B}: Vectis Agents gets -2/-0 until end of turn and can't be blocked this turn.
+4/3

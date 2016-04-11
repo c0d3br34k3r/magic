@@ -1,0 +1,4 @@
+Order of the Sacred Torch {1}{W}{W}
+Creature — Human Knight
+{T}, Pay 1 life: Counter target black spell.
+2/2

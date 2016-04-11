@@ -1,0 +1,5 @@
+Fleeting Aven {1}{U}{U}
+Creature — Bird Wizard
+Flying
+Whenever a player cycles a card, return Fleeting Aven to its owner's hand.
+2/2

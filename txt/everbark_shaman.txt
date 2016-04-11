@@ -1,0 +1,4 @@
+Everbark Shaman {4}{G}
+Creature — Treefolk Shaman
+{T}, Exile a Treefolk card from your graveyard: Search your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.
+3/5

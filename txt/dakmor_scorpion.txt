@@ -1,0 +1,3 @@
+Dakmor Scorpion {1}{B}
+Creature — Scorpion
+2/1

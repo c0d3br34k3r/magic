@@ -1,0 +1,4 @@
+Touch of Death {2}{B}
+Sorcery
+Touch of Death deals 1 damage to target player. You gain 1 life.
+Draw a card at the beginning of the next turn's upkeep.

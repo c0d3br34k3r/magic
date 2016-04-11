@@ -1,0 +1,4 @@
+Fighting Drake {2}{U}{U}
+Creature — Drake
+Flying
+2/4

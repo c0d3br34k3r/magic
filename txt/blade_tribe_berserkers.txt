@@ -1,0 +1,4 @@
+Blade-Tribe Berserkers {3}{R}
+Creature — Human Berserker
+Metalcraft — When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.
+3/3

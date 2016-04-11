@@ -1,0 +1,6 @@
+Hellkite Overlord {4}{B}{R}{R}{G}
+Creature — Dragon
+Flying, trample, haste
+{R}: Hellkite Overlord gets +1/+0 until end of turn.
+{B}{G}: Regenerate Hellkite Overlord.
+8/8

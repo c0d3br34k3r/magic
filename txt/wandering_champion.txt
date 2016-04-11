@@ -1,0 +1,4 @@
+Wandering Champion {1}{W}
+Creature — Human Monk
+Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card.
+3/1

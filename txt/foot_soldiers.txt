@@ -1,0 +1,3 @@
+Foot Soldiers {3}{W}
+Creature — Human Soldier
+2/4

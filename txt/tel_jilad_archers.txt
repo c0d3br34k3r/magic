@@ -1,0 +1,4 @@
+Tel-Jilad Archers {4}{G}
+Creature — Elf Archer
+Protection from artifacts; reach (This creature can block creatures with flying.)
+2/4

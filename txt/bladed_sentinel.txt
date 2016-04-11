@@ -1,0 +1,4 @@
+Bladed Sentinel {4}
+Artifact Creature — Construct
+{W}: Bladed Sentinel gains vigilance until end of turn.
+2/4

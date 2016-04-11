@@ -1,0 +1,3 @@
+Natural Affinity {2}{G}
+Instant
+All lands become 2/2 creatures until end of turn. They're still lands.

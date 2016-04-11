@@ -1,0 +1,4 @@
+Lumbering Satyr {2}{G}{G}
+Creature — Satyr Beast
+All creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+5/4

@@ -1,0 +1,4 @@
+Goblin Outlander {B}{R}
+Creature — Goblin Scout
+Protection from white
+2/2

@@ -1,0 +1,4 @@
+Charging Paladin {2}{W}
+Creature — Human Knight
+Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.
+2/2

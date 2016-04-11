@@ -1,0 +1,3 @@
+Shahrazad {W}{W}
+Sorcery
+Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.

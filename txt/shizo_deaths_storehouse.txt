@@ -1,0 +1,4 @@
+Shizo, Death's Storehouse
+Legendary Land
+{T}: Add {B} to your mana pool.
+{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)

@@ -1,0 +1,6 @@
+Whirlpool Drake {3}{U}
+Creature — Drake
+Flying
+When Whirlpool Drake enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.
+When Whirlpool Drake dies, shuffle the cards from your hand into your library, then draw that many cards.
+2/2

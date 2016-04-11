@@ -1,0 +1,4 @@
+Talon of Pain {4}
+Artifact
+Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.
+{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.

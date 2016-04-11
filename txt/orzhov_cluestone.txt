@@ -1,0 +1,4 @@
+Orzhov Cluestone {3}
+Artifact
+{T}: Add {W} or {B} to your mana pool.
+{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.

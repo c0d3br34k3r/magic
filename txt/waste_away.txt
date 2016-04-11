@@ -1,0 +1,4 @@
+Waste Away {4}{B}
+Instant
+As an additional cost to cast Waste Away, discard a card.
+Target creature gets -5/-5 until end of turn.

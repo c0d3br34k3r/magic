@@ -1,0 +1,3 @@
+Cultural Exchange {4}{U}{U}
+Sorcery
+Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)

@@ -1,0 +1,3 @@
+Repay in Kind {5}{B}{B}
+Sorcery
+Each player's life total becomes the lowest life total among all players.

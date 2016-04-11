@@ -1,0 +1,6 @@
+Sleeping Potion {1}{U}
+Enchantment — Aura
+Enchant creature
+When Sleeping Potion enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.

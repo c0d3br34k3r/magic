@@ -1,0 +1,4 @@
+Cyclops of Eternal Fury {4}{R}{R}
+Enchantment Creature — Cyclops
+Creatures you control have haste.
+5/3

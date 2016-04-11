@@ -1,0 +1,5 @@
+Krosan Verge
+Land
+Krosan Verge enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.

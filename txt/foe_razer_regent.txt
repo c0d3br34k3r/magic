@@ -1,0 +1,6 @@
+Foe-Razer Regent {5}{G}{G}
+Creature — Dragon
+Flying
+When Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.
+Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.
+4/5

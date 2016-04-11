@@ -1,0 +1,5 @@
+Skarrgan Skybreaker {4}{R}{R}{G}
+Creature — Giant Shaman
+Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.
+3/3

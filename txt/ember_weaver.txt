@@ -1,0 +1,5 @@
+Ember Weaver {2}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.
+2/3

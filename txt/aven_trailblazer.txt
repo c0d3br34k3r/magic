@@ -1,0 +1,5 @@
+Aven Trailblazer {2}{W}
+Creature — Bird Soldier
+Flying
+Domain — Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.
+2/*

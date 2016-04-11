@@ -1,0 +1,3 @@
+Eaten by Spiders {2}{G}
+Instant
+Destroy target creature with flying and all Equipment attached to that creature.

@@ -1,0 +1,10 @@
+Hinterland Logger {1}{G}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Logger.
+2/1
+* DOUBLE-FACED *
+Timber Shredder
+Creature — Werewolf
+Trample
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Timber Shredder.
+4/2

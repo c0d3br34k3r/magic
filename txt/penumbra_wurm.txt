@@ -1,0 +1,5 @@
+Penumbra Wurm {5}{G}{G}
+Creature — Wurm
+Trample
+When Penumbra Wurm dies, put a 6/6 black Wurm creature token with trample onto the battlefield.
+6/6

@@ -1,0 +1,7 @@
+Pardic Dragon {4}{R}{R}
+Creature — Dragon
+Flying
+{R}: Pardic Dragon gets +1/+0 until end of turn.
+Suspend 2—{R}{R}
+Whenever an opponent casts a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.
+4/4

@@ -1,0 +1,4 @@
+Lavafume Invoker {2}{R}
+Creature — Goblin Shaman
+{8}: Creatures you control get +3/+0 until end of turn.
+2/2

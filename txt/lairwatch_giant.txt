@@ -1,0 +1,5 @@
+Lairwatch Giant {5}{W}
+Creature — Giant Warrior
+Lairwatch Giant can block an additional creature each combat.
+Whenever Lairwatch Giant blocks two or more creatures, it gains first strike until end of turn.
+5/3

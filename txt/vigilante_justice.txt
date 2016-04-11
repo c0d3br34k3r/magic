@@ -1,0 +1,3 @@
+Vigilante Justice {3}{R}
+Enchantment
+Whenever a Human enters the battlefield under your control, Vigilante Justice deals 1 damage to target creature or player.

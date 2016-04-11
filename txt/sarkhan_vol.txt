@@ -1,0 +1,6 @@
+Sarkhan Vol {2}{R}{G}
+Planeswalker — Sarkhan
++1: Creatures you control get +1/+1 and gain haste until end of turn.
+−2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+−6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.
+4

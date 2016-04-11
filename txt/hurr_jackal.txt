@@ -1,0 +1,4 @@
+Hurr Jackal {R}
+Creature — Hound
+{T}: Target creature can't be regenerated this turn.
+1/1

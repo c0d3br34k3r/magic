@@ -1,0 +1,5 @@
+Necropotence {B}{B}{B}
+Enchantment
+Skip your draw step.
+Whenever you discard a card, exile that card from your graveyard.
+Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.

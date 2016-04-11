@@ -1,0 +1,4 @@
+Dismiss {2}{U}{U}
+Instant
+Counter target spell.
+Draw a card.

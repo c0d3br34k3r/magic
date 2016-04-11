@@ -1,0 +1,5 @@
+Guardian of Tazeem {3}{U}{U}
+Creature — Sphinx
+Flying
+Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls. If that land is an Island, that creature doesn't untap during its controller's next untap step.
+4/5

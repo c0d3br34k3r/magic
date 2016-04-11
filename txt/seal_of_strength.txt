@@ -1,0 +1,3 @@
+Seal of Strength {G}
+Enchantment
+Sacrifice Seal of Strength: Target creature gets +3/+3 until end of turn.

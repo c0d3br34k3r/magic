@@ -1,0 +1,4 @@
+Crush of Tentacles {4}{U}{U}
+Sorcery
+Surge {3}{U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Return all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, put an 8/8 blue Octopus creature token onto the battlefield.

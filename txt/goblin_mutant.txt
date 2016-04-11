@@ -1,0 +1,6 @@
+Goblin Mutant {2}{R}{R}
+Creature — Goblin Mutant
+Trample
+Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.
+Goblin Mutant can't block creatures with power 3 or greater.
+5/3

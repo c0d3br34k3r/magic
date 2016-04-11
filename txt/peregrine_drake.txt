@@ -1,0 +1,5 @@
+Peregrine Drake {4}{U}
+Creature — Drake
+Flying
+When Peregrine Drake enters the battlefield, untap up to five lands.
+2/3

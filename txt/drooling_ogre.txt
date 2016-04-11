@@ -1,0 +1,4 @@
+Drooling Ogre {1}{R}
+Creature — Ogre
+Whenever a player casts an artifact spell, that player gains control of Drooling Ogre. (This effect lasts indefinitely.)
+3/3

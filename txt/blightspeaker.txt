@@ -1,0 +1,5 @@
+Blightspeaker {1}{B}
+Creature — Human Rebel Cleric
+{T}: Target player loses 1 life.
+{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+1/1

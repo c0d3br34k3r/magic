@@ -1,0 +1,4 @@
+Sorcerous Sight {U}
+Sorcery
+Look at target opponent's hand.
+Draw a card.

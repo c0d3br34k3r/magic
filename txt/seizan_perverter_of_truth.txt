@@ -1,0 +1,4 @@
+Seizan, Perverter of Truth {3}{B}{B}
+Legendary Creature — Demon Spirit
+At the beginning of each player's upkeep, that player loses 2 life and draws two cards.
+6/5

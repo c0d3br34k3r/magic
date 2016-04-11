@@ -1,0 +1,4 @@
+Gravitational Shift {3}{U}{U}
+Enchantment
+Creatures with flying get +2/+0.
+Creatures without flying get -2/-0.

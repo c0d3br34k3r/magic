@@ -1,0 +1,5 @@
+Form of the Dragon {4}{R}{R}{R}
+Enchantment
+At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.
+At the beginning of each end step, your life total becomes 5.
+Creatures without flying can't attack you.

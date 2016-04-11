@@ -1,0 +1,8 @@
+Fire {1}{R}
+Instant
+Fire deals 2 damage divided as you choose among one or two target creatures and/or players.
+* SPLIT *
+Ice {1}{U}
+Instant
+Tap target permanent.
+Draw a card.

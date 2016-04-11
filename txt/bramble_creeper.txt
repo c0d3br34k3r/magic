@@ -1,0 +1,4 @@
+Bramble Creeper {4}{G}
+Creature — Elemental
+Whenever Bramble Creeper attacks, it gets +5/+0 until end of turn.
+0/3

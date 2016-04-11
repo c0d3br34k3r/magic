@@ -1,0 +1,4 @@
+Soltari Emissary {1}{W}
+Creature — Soltari Soldier
+{W}: Soltari Emissary gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+2/1

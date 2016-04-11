@@ -1,0 +1,4 @@
+Mantis Rider {W}{U}{R}
+Creature — Human Monk
+Flying, vigilance, haste
+3/3

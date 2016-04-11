@@ -1,0 +1,3 @@
+Holistic Wisdom {1}{G}{G}
+Enchantment
+{2}, Exile a card from your hand: Return target card from your graveyard to your hand if it shares a card type with the card exiled this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)

@@ -1,0 +1,5 @@
+Gelid Shackles {W}
+Snow Enchantment — Aura
+Enchant creature
+Enchanted creature can't block, and its activated abilities can't be activated.
+{S}: Enchanted creature gains defender until end of turn. ({S} can be paid with one mana from a snow permanent.)

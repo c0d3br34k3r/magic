@@ -1,0 +1,4 @@
+Horned Troll {2}{G}
+Creature — Troll
+{G}: Regenerate Horned Troll.
+2/2

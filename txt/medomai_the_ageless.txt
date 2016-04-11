@@ -1,0 +1,6 @@
+Medomai the Ageless {4}{W}{U}
+Legendary Creature — Sphinx
+Flying
+Whenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.
+Medomai the Ageless can't attack during extra turns.
+4/4

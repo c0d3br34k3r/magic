@@ -1,0 +1,4 @@
+Persuasion {3}{U}{U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+You control enchanted creature.

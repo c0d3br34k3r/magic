@@ -1,0 +1,3 @@
+Nightcreep {B}{B}
+Instant
+Until end of turn, all creatures become black and all lands become Swamps.

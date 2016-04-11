@@ -1,0 +1,4 @@
+Thresher Beast {3}{G}{G}
+Creature — Beast
+Whenever Thresher Beast becomes blocked, defending player sacrifices a land.
+4/4

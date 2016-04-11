@@ -1,0 +1,4 @@
+Trained Cheetah {2}{G}
+Creature — Cat
+Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.
+2/2

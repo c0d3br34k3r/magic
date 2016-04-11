@@ -1,0 +1,5 @@
+Vampire Interloper {1}{B}
+Creature — Vampire Scout
+Flying
+Vampire Interloper can't block.
+2/1

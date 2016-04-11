@@ -1,0 +1,4 @@
+Goblin Recruiter {1}{R}
+Creature — Goblin
+When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+1/1

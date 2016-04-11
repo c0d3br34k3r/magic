@@ -1,0 +1,5 @@
+Garza's Assassin {B}{B}{B}
+Creature — Human Assassin
+Sacrifice Garza's Assassin: Destroy target nonblack creature.
+Recover—Pay half your life, rounded up. (When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)
+2/2

@@ -1,0 +1,3 @@
+Candles of Leng {2}
+Artifact
+{4}, {T}: Reveal the top card of your library. If it has the same name as a card in your graveyard, put it into your graveyard. Otherwise, draw a card.

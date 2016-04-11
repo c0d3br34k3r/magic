@@ -1,0 +1,6 @@
+Tormentor Exarch {3}{R}
+Creature — Cleric
+When Tormentor Exarch enters the battlefield, choose one —
+• Target creature gets +2/+0 until end of turn.
+• Target creature gets -0/-2 until end of turn.
+2/2

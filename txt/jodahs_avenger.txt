@@ -1,0 +1,4 @@
+Jodah's Avenger {5}{U}
+Creature — Shapeshifter
+{0}: Until end of turn, Jodah's Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. (A creature with shadow can block or be blocked by only creatures with shadow.)
+4/4

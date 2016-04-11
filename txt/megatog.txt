@@ -1,0 +1,4 @@
+Megatog {4}{R}{R}
+Creature — Atog
+Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.
+3/4

@@ -1,0 +1,3 @@
+Lay Bare {2}{U}{U}
+Instant
+Counter target spell. Look at its controller's hand.

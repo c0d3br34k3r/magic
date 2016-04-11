@@ -1,0 +1,3 @@
+Welding Jar {0}
+Artifact
+Sacrifice Welding Jar: Regenerate target artifact.

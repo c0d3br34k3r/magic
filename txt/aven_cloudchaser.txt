@@ -1,0 +1,5 @@
+Aven Cloudchaser {3}{W}
+Creature — Bird Soldier
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Cloudchaser enters the battlefield, destroy target enchantment.
+2/2

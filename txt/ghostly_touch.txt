@@ -1,0 +1,4 @@
+Ghostly Touch {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "Whenever this creature attacks, you may tap or untap target permanent."

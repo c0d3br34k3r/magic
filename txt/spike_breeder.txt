@@ -1,0 +1,6 @@
+Spike Breeder {3}{G}
+Creature — Spike
+Spike Breeder enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.
+{2}, Remove a +1/+1 counter from Spike Breeder: Put a 1/1 green Spike creature token onto the battlefield.
+0/0

@@ -1,0 +1,5 @@
+Titania, Protector of Argoth {3}{G}{G}
+Legendary Creature — Elemental
+When Titania, Protector of Argoth enters the battlefield, return target land card from your graveyard to the battlefield.
+Whenever a land you control is put into a graveyard from the battlefield, put a 5/3 green Elemental creature token onto the battlefield.
+5/3

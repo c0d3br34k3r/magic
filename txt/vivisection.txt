@@ -1,0 +1,4 @@
+Vivisection {3}{U}
+Sorcery
+As an additional cost to cast Vivisection, sacrifice a creature.
+Draw three cards.

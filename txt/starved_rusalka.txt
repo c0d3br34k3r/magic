@@ -1,0 +1,4 @@
+Starved Rusalka {G}
+Creature — Spirit
+{G}, Sacrifice a creature: You gain 1 life.
+1/1

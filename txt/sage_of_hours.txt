@@ -1,0 +1,5 @@
+Sage of Hours {1}{U}
+Creature — Human Wizard
+Heroic — Whenever you cast a spell that targets Sage of Hours, put a +1/+1 counter on it.
+Remove all +1/+1 counters from Sage of Hours: For each five counters removed this way, take an extra turn after this one.
+1/1

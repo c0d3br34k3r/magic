@@ -1,0 +1,4 @@
+Whirlpool Rider {1}{U}
+Creature — Merfolk
+When Whirlpool Rider enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.
+1/1

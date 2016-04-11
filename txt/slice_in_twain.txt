@@ -1,0 +1,4 @@
+Slice in Twain {2}{G}{G}
+Instant
+Destroy target artifact or enchantment.
+Draw a card.

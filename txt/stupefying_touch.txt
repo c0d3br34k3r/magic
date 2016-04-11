@@ -1,0 +1,5 @@
+Stupefying Touch {1}{U}
+Enchantment — Aura
+Enchant creature
+When Stupefying Touch enters the battlefield, draw a card.
+Enchanted creature's activated abilities can't be activated.

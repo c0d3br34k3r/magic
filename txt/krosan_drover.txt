@@ -1,0 +1,4 @@
+Krosan Drover {3}{G}
+Creature — Elf
+Creature spells you cast with converted mana cost 6 or greater cost {2} less to cast.
+2/2

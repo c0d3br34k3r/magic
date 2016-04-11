@@ -1,0 +1,5 @@
+Library of Lat-Nam {4}{U}
+Sorcery
+An opponent chooses one —
+• You draw three cards at the beginning of the next turn's upkeep.
+• You search your library for a card, put that card into your hand, then shuffle your library.

@@ -1,0 +1,4 @@
+Angelfire Crusader {3}{W}
+Creature — Human Soldier Knight
+{R}: Angelfire Crusader gets +1/+0 until end of turn.
+2/3

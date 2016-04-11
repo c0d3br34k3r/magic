@@ -1,0 +1,3 @@
+Ghostly Visit {2}{B}
+Sorcery
+Destroy target nonblack creature.

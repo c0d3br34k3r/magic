@@ -1,0 +1,5 @@
+Naya Battlemage {2}{G}
+Creature — Human Shaman
+{R}, {T}: Target creature gets +2/+0 until end of turn.
+{W}, {T}: Tap target creature.
+2/2

@@ -1,0 +1,4 @@
+Skyclaw Thrash {3}{U}{R}
+Artifact Creature — Viashino Warrior
+Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.
+4/4

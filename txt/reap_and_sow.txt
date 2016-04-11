@@ -1,0 +1,6 @@
+Reap and Sow {3}{G}
+Sorcery
+Choose one —
+• Destroy target land.
+• Search your library for a land card, put that card onto the battlefield, then shuffle your library.
+Entwine {1}{G} (Choose both if you pay the entwine cost.)

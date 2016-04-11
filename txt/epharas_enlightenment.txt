@@ -1,0 +1,6 @@
+Ephara's Enlightenment {1}{W}{U}
+Enchantment — Aura
+Enchant creature
+When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature.
+Enchanted creature has flying.
+Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand.

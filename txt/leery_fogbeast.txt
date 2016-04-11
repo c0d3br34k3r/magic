@@ -1,0 +1,4 @@
+Leery Fogbeast {2}{G}
+Creature — Beast
+Whenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.
+4/2

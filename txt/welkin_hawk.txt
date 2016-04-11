@@ -1,0 +1,5 @@
+Welkin Hawk {1}{W}
+Creature — Bird
+Flying
+When Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.
+1/1

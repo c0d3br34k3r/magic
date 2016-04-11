@@ -1,0 +1,4 @@
+Boreal Druid {G}
+Snow Creature — Elf Druid
+{T}: Add {C} to your mana pool.
+1/1

@@ -1,0 +1,4 @@
+Dark Withering {4}{B}{B}
+Instant
+Destroy target nonblack creature.
+Madness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

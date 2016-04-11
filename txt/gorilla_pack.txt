@@ -1,0 +1,5 @@
+Gorilla Pack {2}{G}
+Creature — Ape
+Gorilla Pack can't attack unless defending player controls a Forest.
+When you control no Forests, sacrifice Gorilla Pack.
+3/3

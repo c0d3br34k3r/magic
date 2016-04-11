@@ -1,0 +1,4 @@
+Brand {R}
+Instant
+Gain control of all permanents you own. (This effect lasts indefinitely.)
+Cycling {2} ({2}, Discard this card: Draw a card.)

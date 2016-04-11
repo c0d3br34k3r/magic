@@ -1,0 +1,4 @@
+Scarblade Elite {B}{B}
+Creature — Elf Assassin
+{T}, Exile an Assassin card from your graveyard: Destroy target creature.
+2/2

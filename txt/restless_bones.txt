@@ -1,0 +1,5 @@
+Restless Bones {2}{B}
+Creature — Skeleton
+{3}{B}, {T}: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)
+{1}{B}: Regenerate Restless Bones.
+1/1

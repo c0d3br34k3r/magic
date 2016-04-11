@@ -1,0 +1,5 @@
+Thermopod {4}{R}
+Snow Creature — Slug
+{S}: Thermopod gains haste until end of turn. ({S} can be paid with one mana from a snow permanent.)
+Sacrifice a creature: Add {R} to your mana pool.
+4/3

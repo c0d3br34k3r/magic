@@ -1,0 +1,5 @@
+Pharika's Disciple {3}{G}
+Creature — Centaur Warrior
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+2/3

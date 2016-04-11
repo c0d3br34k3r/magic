@@ -1,0 +1,3 @@
+Damping Engine {4}
+Artifact
+A player who controls more permanents than each other player can't play lands or cast artifact, creature, or enchantment spells. That player may sacrifice a permanent for that player to ignore this effect until end of turn.

@@ -1,0 +1,4 @@
+Sage of Epityr {U}
+Creature — Human Wizard
+When Sage of Epityr enters the battlefield, look at the top four cards of your library, then put them back in any order.
+1/1

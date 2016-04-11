@@ -1,0 +1,4 @@
+Constricting Sliver {5}{W}
+Creature — Sliver
+Sliver creatures you control have "When this creature enters the battlefield, you may exile target creature an opponent controls until this creature leaves the battlefield."
+3/3

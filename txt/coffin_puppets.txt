@@ -1,0 +1,4 @@
+Coffin Puppets {3}{B}{B}
+Creature — Zombie
+Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control a Swamp.
+3/3

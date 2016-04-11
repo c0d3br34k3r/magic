@@ -1,0 +1,6 @@
+Draco {16}
+Artifact Creature — Dragon
+Domain — Draco costs {2} less to cast for each basic land type among lands you control.
+Flying
+Domain — At the beginning of your upkeep, sacrifice Draco unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.
+9/9

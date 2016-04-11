@@ -1,0 +1,5 @@
+Brawn {3}{G}
+Creature — Incarnation
+Trample
+As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.
+3/3

@@ -1,0 +1,4 @@
+Serpentine Kavu {4}{G}
+Creature — Kavu
+{R}: Serpentine Kavu gains haste until end of turn.
+4/4

@@ -1,0 +1,4 @@
+Predator, Flagship {5}
+Legendary Artifact
+{2}: Target creature gains flying until end of turn.
+{5}, {T}: Destroy target creature with flying.

@@ -1,0 +1,4 @@
+Wurmskin Forger {5}{G}{G}
+Creature — Elf Warrior
+When Wurmskin Forger enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures.
+2/2

@@ -1,0 +1,5 @@
+Mob Rule {4}{R}{R}
+Sorcery
+Choose one —
+• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.
+• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.

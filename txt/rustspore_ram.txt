@@ -1,0 +1,4 @@
+Rustspore Ram {4}
+Artifact Creature — Sheep
+When Rustspore Ram enters the battlefield, destroy target Equipment.
+1/3

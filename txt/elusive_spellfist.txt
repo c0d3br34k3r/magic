@@ -1,0 +1,4 @@
+Elusive Spellfist {1}{U}
+Creature — Human Monk
+Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can't be blocked this turn.
+1/3

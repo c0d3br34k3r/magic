@@ -1,0 +1,4 @@
+Ajani's Sunstriker {W}{W}
+Creature — Cat Cleric
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+2/2

@@ -1,0 +1,6 @@
+Colossus of Akros {8}
+Artifact Creature — Golem
+Defender, indestructible
+{10}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)
+As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.
+10/10

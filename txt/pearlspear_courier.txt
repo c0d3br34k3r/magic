@@ -1,0 +1,5 @@
+Pearlspear Courier {2}{W}
+Creature — Human Soldier
+You may choose not to untap Pearlspear Courier during your untap step.
+{2}{W}, {T}: Target Soldier creature gets +2/+2 and has vigilance for as long as Pearlspear Courier remains tapped.
+2/1

@@ -1,0 +1,4 @@
+Stubborn Denial {U}
+Instant
+Counter target noncreature spell unless its controller pays {1}.
+Ferocious — If you control a creature with power 4 or greater, counter that spell instead.

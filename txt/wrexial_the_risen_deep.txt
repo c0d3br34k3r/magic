@@ -1,0 +1,5 @@
+Wrexial, the Risen Deep {3}{U}{U}{B}
+Legendary Creature — Kraken
+Islandwalk, swampwalk (This creature can't be blocked as long as defending player controls an Island or a Swamp.)
+Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.
+5/8

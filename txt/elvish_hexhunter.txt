@@ -1,0 +1,4 @@
+Elvish Hexhunter {G/W}
+Creature — Elf Shaman
+{G/W}, {T}, Sacrifice Elvish Hexhunter: Destroy target enchantment.
+1/1

@@ -1,0 +1,4 @@
+Gavony Ironwright {2}{W}
+Creature — Human Soldier
+Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4.
+1/4

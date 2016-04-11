@@ -1,0 +1,5 @@
+Tree of Redemption {3}{G}
+Creature — Plant
+Defender
+{T}: Exchange your life total with Tree of Redemption's toughness.
+0/13

@@ -1,0 +1,3 @@
+Frost Ogre {3}{R}{R}
+Creature — Ogre Warrior
+5/3

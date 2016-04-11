@@ -1,0 +1,5 @@
+Sphinx Ambassador {5}{U}{U}
+Creature — Sphinx
+Flying
+Whenever Sphinx Ambassador deals combat damage to a player, search that player's library for a card, then that player names a card. If you searched for a creature card that isn't the named card, you may put it onto the battlefield under your control. Then that player shuffles his or her library.
+5/5

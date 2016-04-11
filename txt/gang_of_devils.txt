@@ -1,0 +1,4 @@
+Gang of Devils {5}{R}
+Creature — Devil
+When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+3/3

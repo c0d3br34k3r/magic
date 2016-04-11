@@ -1,0 +1,5 @@
+Thought Eater {1}{U}
+Creature — Beast
+Flying
+Your maximum hand size is reduced by three.
+2/2

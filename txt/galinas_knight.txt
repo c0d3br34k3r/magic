@@ -1,0 +1,4 @@
+Galina's Knight {W}{U}
+Creature — Merfolk Knight
+Protection from red
+2/2

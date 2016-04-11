@@ -1,0 +1,4 @@
+Marshmist Titan {6}{B}
+Creature — Giant
+Marshmist Titan costs {X} less to cast, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+4/5

@@ -1,0 +1,5 @@
+Maze Glider {5}{U}
+Creature — Elemental
+Flying
+Multicolored creatures you control have flying.
+3/5

@@ -1,0 +1,3 @@
+Perilous Vault {4}
+Artifact
+{5}, {T}, Exile Perilous Vault: Exile all nonland permanents.

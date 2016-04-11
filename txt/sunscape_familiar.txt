@@ -1,0 +1,5 @@
+Sunscape Familiar {1}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Green spells and blue spells you cast cost {1} less to cast.
+0/3

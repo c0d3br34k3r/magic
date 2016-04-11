@@ -1,0 +1,4 @@
+Aphetto Grifter {2}{U}
+Creature — Human Wizard
+Tap two untapped Wizards you control: Tap target permanent.
+1/1

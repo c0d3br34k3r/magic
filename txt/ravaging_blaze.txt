@@ -1,0 +1,4 @@
+Ravaging Blaze {X}{R}{R}
+Instant
+Ravaging Blaze deals X damage to target creature. 
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Ravaging Blaze also deals X damage to that creature's controller.

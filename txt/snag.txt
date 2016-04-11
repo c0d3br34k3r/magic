@@ -1,0 +1,4 @@
+Snag {3}{G}
+Instant
+You may discard a Forest card rather than pay Snag's mana cost.
+Prevent all combat damage that would be dealt by unblocked creatures this turn.

@@ -1,0 +1,4 @@
+Swirl the Mists {2}{U}{U}
+Enchantment
+As Swirl the Mists enters the battlefield, choose a color word.
+All instances of color words in the text of spells and permanents are changed to the chosen color word.

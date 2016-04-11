@@ -1,0 +1,4 @@
+Skirk Shaman {1}{R}{R}
+Creature — Goblin Shaman
+Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.
+2/2

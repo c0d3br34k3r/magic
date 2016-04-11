@@ -1,0 +1,4 @@
+Excruciator {6}{R}{R}
+Creature — Avatar
+Damage that would be dealt by Excruciator can't be prevented.
+7/7

@@ -1,0 +1,5 @@
+Faerie Impostor {U}
+Creature — Faerie Rogue
+Flying
+When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.
+2/1

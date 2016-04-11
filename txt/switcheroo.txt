@@ -1,0 +1,3 @@
+Switcheroo {4}{U}
+Sorcery
+Exchange control of two target creatures.

@@ -1,0 +1,3 @@
+Excommunicate {2}{W}
+Sorcery
+Put target creature on top of its owner's library.

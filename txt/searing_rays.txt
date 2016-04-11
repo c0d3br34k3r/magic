@@ -1,0 +1,3 @@
+Searing Rays {2}{R}
+Sorcery
+Choose a color. Searing Rays deals damage to each player equal to the number of creatures of that color that player controls.

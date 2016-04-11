@@ -1,0 +1,6 @@
+Celestial Archon {3}{W}{W}
+Enchantment Creature — Archon
+Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Flying, first strike
+Enchanted creature gets +4/+4 and has flying and first strike.
+4/4

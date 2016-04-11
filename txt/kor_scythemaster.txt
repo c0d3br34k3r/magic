@@ -1,0 +1,4 @@
+Kor Scythemaster {2}{W}
+Creature — Kor Soldier Ally
+Kor Scythemaster has first strike as long as it's attacking.
+3/1

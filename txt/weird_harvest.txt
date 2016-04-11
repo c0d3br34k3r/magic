@@ -1,0 +1,3 @@
+Weird Harvest {X}{G}{G}
+Sorcery
+Each player may search his or her library for up to X creature cards, reveal those cards, and put them into his or her hand. Then each player who searched his or her library this way shuffles it.

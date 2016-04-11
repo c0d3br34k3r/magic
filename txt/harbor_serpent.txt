@@ -1,0 +1,5 @@
+Harbor Serpent {4}{U}{U}
+Creature — Serpent
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Harbor Serpent can't attack unless there are five or more Islands on the battlefield.
+5/5

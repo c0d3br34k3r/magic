@@ -1,0 +1,5 @@
+Cliffrunner Behemoth {3}{G}
+Creature — Rhino Beast
+Cliffrunner Behemoth has haste as long as you control a red permanent.
+Cliffrunner Behemoth has lifelink as long as you control a white permanent.
+5/3

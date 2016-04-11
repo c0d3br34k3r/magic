@@ -1,0 +1,6 @@
+Archangel of Thune {3}{W}{W}
+Creature — Angel
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, put a +1/+1 counter on each creature you control.
+3/4

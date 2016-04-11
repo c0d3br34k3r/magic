@@ -1,0 +1,5 @@
+Battle-Mad Ronin {1}{R}
+Creature — Human Samurai
+Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+Battle-Mad Ronin attacks each turn if able.
+1/1

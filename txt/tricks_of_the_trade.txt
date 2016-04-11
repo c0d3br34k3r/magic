@@ -1,0 +1,4 @@
+Tricks of the Trade {3}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0 and can't be blocked.

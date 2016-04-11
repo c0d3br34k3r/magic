@@ -1,0 +1,5 @@
+Foul Spirit {2}{B}
+Creature — Spirit
+Flying
+When Foul Spirit enters the battlefield, sacrifice a land.
+3/2

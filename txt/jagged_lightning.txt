@@ -1,0 +1,3 @@
+Jagged Lightning {3}{R}{R}
+Sorcery
+Jagged Lightning deals 3 damage to each of two target creatures.

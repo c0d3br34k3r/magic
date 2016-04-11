@@ -1,0 +1,5 @@
+Obzedat, Ghost Council {1}{W}{W}{B}{B}
+Legendary Creature — Spirit Advisor
+When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.
+At the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.
+5/5

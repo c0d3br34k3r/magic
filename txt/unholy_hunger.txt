@@ -1,0 +1,4 @@
+Unholy Hunger {3}{B}{B}
+Instant
+Destroy target creature.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you gain 2 life.

@@ -1,0 +1,5 @@
+Stalwart Shield-Bearers {1}{W}
+Creature — Human Soldier
+Defender
+Other creatures you control with defender get +0/+2.
+0/3

@@ -1,0 +1,4 @@
+Ajani's Presence {W}
+Instant
+Strive — Ajani's Presence costs {2}{W} more to cast for each target beyond the first.
+Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)

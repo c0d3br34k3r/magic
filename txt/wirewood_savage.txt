@@ -1,0 +1,4 @@
+Wirewood Savage {2}{G}
+Creature — Elf
+Whenever a Beast enters the battlefield, you may draw a card.
+2/2

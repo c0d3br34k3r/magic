@@ -1,0 +1,3 @@
+An-Havva Inn {1}{G}{G}
+Sorcery
+You gain X plus 1 life, where X is the number of green creatures on the battlefield.

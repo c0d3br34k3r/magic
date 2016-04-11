@@ -1,0 +1,4 @@
+Greenside Watcher {1}{G}
+Creature — Elf Druid
+{T}: Untap target Gate.
+2/1

@@ -1,0 +1,4 @@
+Mindslicer {2}{B}{B}
+Creature — Horror
+When Mindslicer dies, each player discards his or her hand.
+4/3

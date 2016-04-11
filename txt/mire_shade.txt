@@ -1,0 +1,4 @@
+Mire Shade {1}{B}
+Creature — Shade
+{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.
+1/1

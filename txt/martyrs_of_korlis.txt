@@ -1,0 +1,4 @@
+Martyrs of Korlis {3}{W}{W}
+Creature — Human
+As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.
+1/6

@@ -1,0 +1,4 @@
+Hideous Laughter {2}{B}{B}
+Instant — Arcane
+All creatures get -2/-2 until end of turn.
+Splice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)

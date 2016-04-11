@@ -1,0 +1,5 @@
+Daraja Griffin {3}{W}
+Creature — Griffin
+Flying
+Sacrifice Daraja Griffin: Destroy target black creature.
+2/2

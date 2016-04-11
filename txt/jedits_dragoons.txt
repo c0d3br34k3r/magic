@@ -1,0 +1,5 @@
+Jedit's Dragoons {5}{W}
+Creature — Cat Soldier
+Vigilance
+When Jedit's Dragoons enters the battlefield, you gain 4 life.
+2/5

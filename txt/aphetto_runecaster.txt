@@ -1,0 +1,4 @@
+Aphetto Runecaster {3}{U}
+Creature — Human Wizard
+Whenever a permanent is turned face up, you may draw a card.
+2/3

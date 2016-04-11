@@ -1,0 +1,4 @@
+Horizon Canopy
+Land
+{T}, Pay 1 life: Add {G} or {W} to your mana pool.
+{1}, {T}, Sacrifice Horizon Canopy: Draw a card.

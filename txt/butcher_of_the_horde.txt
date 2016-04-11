@@ -1,0 +1,5 @@
+Butcher of the Horde {1}{W}{B}{R}
+Creature — Demon
+Flying
+Sacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn.
+5/4

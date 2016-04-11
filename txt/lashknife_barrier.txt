@@ -1,0 +1,4 @@
+Lashknife Barrier {2}{W}
+Enchantment
+When Lashknife Barrier enters the battlefield, draw a card.
+If a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.

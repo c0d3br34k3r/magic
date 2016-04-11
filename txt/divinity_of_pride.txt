@@ -1,0 +1,5 @@
+Divinity of Pride {W/B}{W/B}{W/B}{W/B}{W/B}
+Creature — Spirit Avatar
+Flying, lifelink
+Divinity of Pride gets +4/+4 as long as you have 25 or more life.
+4/4

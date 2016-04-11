@@ -1,0 +1,3 @@
+Artifact Blast {R}
+Instant
+Counter target artifact spell.

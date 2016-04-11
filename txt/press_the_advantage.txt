@@ -1,0 +1,3 @@
+Press the Advantage {2}{G}{G}
+Instant
+Up to two target creatures each get +2/+2 and gain trample until end of turn.

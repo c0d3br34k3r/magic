@@ -1,0 +1,4 @@
+Earthlink {3}{B}{R}{G}
+Enchantment
+At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.
+Whenever a creature dies, that creature's controller sacrifices a land.

@@ -1,0 +1,5 @@
+Crowd Favorites {6}{W}
+Creature — Human Soldier
+{3}{W}: Tap target creature.
+{3}{W}: Crowd Favorites gets +0/+5 until end of turn.
+4/4

@@ -1,0 +1,6 @@
+Void Grafter {1}{U}{G}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Flash (You may cast this spell any time you could cast an instant.)
+When Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.
+2/4

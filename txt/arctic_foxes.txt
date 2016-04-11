@@ -1,0 +1,4 @@
+Arctic Foxes {1}{W}
+Creature — Fox
+Arctic Foxes can't be blocked by creatures with power 2 or greater as long as defending player controls a snow land.
+1/1

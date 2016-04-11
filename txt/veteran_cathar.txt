@@ -1,0 +1,4 @@
+Veteran Cathar {1}{G}
+Creature — Human Soldier
+{3}{W}: Target Human gains double strike until end of turn.
+2/2

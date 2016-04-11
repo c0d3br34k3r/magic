@@ -1,0 +1,3 @@
+Lightmine Field {2}{W}{W}
+Enchantment
+Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.

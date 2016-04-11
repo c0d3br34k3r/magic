@@ -1,0 +1,5 @@
+Demon of Death's Gate {6}{B}{B}{B}
+Creature — Demon
+You may pay 6 life and sacrifice three black creatures rather than pay Demon of Death's Gate's mana cost.
+Flying, trample
+9/9

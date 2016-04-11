@@ -1,0 +1,4 @@
+Contaminated Bond {1}{B}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature attacks or blocks, its controller loses 3 life.

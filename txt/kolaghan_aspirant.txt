@@ -1,0 +1,4 @@
+Kolaghan Aspirant {1}{R}
+Creature — Human Warrior
+Whenever Kolaghan Aspirant becomes blocked by a creature, Kolaghan Aspirant deals 1 damage to that creature.
+2/1

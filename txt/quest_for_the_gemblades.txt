@@ -1,0 +1,4 @@
+Quest for the Gemblades {1}{G}
+Enchantment
+Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.
+Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.

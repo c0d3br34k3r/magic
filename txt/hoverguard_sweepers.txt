@@ -1,0 +1,5 @@
+Hoverguard Sweepers {6}{U}{U}
+Creature — Drone
+Flying
+When Hoverguard Sweepers enters the battlefield, you may return up to two target creatures to their owners' hands.
+5/6

@@ -1,0 +1,5 @@
+Paragon of Gathering Mists {3}{U}
+Creature — Human Wizard
+Other blue creatures you control get +1/+1.
+{U}, {T}: Another target blue creature you control gains flying until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Ray of Revelation {1}{W}
+Instant
+Destroy target enchantment.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

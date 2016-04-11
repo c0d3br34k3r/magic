@@ -1,0 +1,4 @@
+Nightsoil Kami {4}{G}{G}
+Creature — Spirit
+Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)
+6/4

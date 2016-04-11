@@ -1,0 +1,4 @@
+Galvanic Key {2}
+Artifact
+Flash
+{3}, {T}: Untap target artifact.

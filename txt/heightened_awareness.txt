@@ -1,0 +1,4 @@
+Heightened Awareness {3}{U}{U}
+Enchantment
+As Heightened Awareness enters the battlefield, discard your hand.
+At the beginning of your draw step, draw an additional card.

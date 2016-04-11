@@ -1,0 +1,4 @@
+Turf Wound {2}{R}
+Instant
+Target player can't play land cards this turn.
+Draw a card.

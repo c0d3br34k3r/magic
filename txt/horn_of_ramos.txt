@@ -1,0 +1,4 @@
+Horn of Ramos {3}
+Artifact
+{T}: Add {G} to your mana pool.
+Sacrifice Horn of Ramos: Add {G} to your mana pool.

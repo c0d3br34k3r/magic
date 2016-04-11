@@ -1,0 +1,4 @@
+Notorious Assassin {3}{B}
+Creature — Human Spellshaper Assassin
+{2}{B}, {T}, Discard a card: Destroy target nonblack creature. It can't be regenerated.
+2/2

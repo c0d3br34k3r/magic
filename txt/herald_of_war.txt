@@ -1,0 +1,6 @@
+Herald of War {3}{W}{W}
+Creature — Angel
+Flying
+Whenever Herald of War attacks, put a +1/+1 counter on it.
+Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.
+3/3

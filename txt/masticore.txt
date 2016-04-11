@@ -1,0 +1,6 @@
+Masticore {4}
+Artifact Creature — Masticore
+At the beginning of your upkeep, sacrifice Masticore unless you discard a card.
+{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.
+4/4

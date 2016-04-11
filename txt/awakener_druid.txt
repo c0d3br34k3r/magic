@@ -1,0 +1,4 @@
+Awakener Druid {2}{G}
+Creature — Human Druid
+When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid remains on the battlefield. It's still a land.
+1/1

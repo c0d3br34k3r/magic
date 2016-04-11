@@ -1,0 +1,3 @@
+Searing Wind {8}{R}
+Instant
+Searing Wind deals 10 damage to target creature or player.

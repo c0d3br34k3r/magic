@@ -1,0 +1,4 @@
+Willow Dryad {G}
+Creature — Dryad
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+1/1

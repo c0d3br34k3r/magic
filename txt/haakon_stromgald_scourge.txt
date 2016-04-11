@@ -1,0 +1,6 @@
+Haakon, Stromgald Scourge {1}{B}{B}
+Legendary Creature — Zombie Knight
+You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else.
+As long as Haakon is on the battlefield, you may play Knight cards from your graveyard.
+When Haakon dies, you lose 2 life.
+3/3

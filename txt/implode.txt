@@ -1,0 +1,4 @@
+Implode {4}{R}
+Sorcery
+Destroy target land.
+Draw a card.

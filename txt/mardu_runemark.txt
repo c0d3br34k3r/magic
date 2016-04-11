@@ -1,0 +1,5 @@
+Mardu Runemark {2}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Enchanted creature has first strike as long as you control a white or black permanent.

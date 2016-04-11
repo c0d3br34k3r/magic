@@ -1,0 +1,4 @@
+Ancestor's Prophet {4}{W}
+Creature — Human Cleric
+Tap five untapped Clerics you control: You gain 10 life.
+1/5

@@ -1,0 +1,6 @@
+Ertai's Familiar {1}{U}
+Creature — Illusion
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.
+{U}: Until your next upkeep, Ertai's Familiar can't phase out.
+2/2

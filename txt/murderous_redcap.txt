@@ -1,0 +1,5 @@
+Murderous Redcap {2}{B/R}{B/R}
+Creature — Goblin Assassin
+When Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)
+2/2

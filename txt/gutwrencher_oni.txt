@@ -1,0 +1,5 @@
+Gutwrencher Oni {3}{B}{B}
+Creature — Demon Spirit
+Trample
+At the beginning of your upkeep, discard a card if you don't control an Ogre.
+5/4

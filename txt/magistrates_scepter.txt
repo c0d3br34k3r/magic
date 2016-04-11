@@ -1,0 +1,4 @@
+Magistrate's Scepter {3}
+Artifact
+{4}, {T}: Put a charge counter on Magistrate's Scepter.
+{T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.

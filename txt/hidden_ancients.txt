@@ -1,0 +1,3 @@
+Hidden Ancients {1}{G}
+Enchantment
+When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.

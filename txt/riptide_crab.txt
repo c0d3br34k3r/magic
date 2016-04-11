@@ -1,0 +1,5 @@
+Riptide Crab {1}{W}{U}
+Creature — Crab
+Vigilance
+When Riptide Crab dies, draw a card.
+1/3

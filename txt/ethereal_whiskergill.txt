@@ -1,0 +1,5 @@
+Ethereal Whiskergill {3}{U}
+Creature — Elemental
+Flying
+Ethereal Whiskergill can't attack unless defending player controls an Island.
+4/3

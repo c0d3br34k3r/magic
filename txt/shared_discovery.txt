@@ -1,0 +1,4 @@
+Shared Discovery {U}
+Sorcery
+As an additional cost to cast Shared Discovery, tap four untapped creatures you control.
+Draw three cards.

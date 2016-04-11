@@ -1,0 +1,3 @@
+Fatigue {1}{U}
+Sorcery
+Target player skips his or her next draw step.

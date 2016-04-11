@@ -1,0 +1,4 @@
+Jund Hackblade {B/G}{R}
+Creature — Goblin Berserker
+As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.
+2/1

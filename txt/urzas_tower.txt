@@ -1,0 +1,3 @@
+Urza's Tower
+Land — Urza’s Tower
+{T}: Add {C} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} to your mana pool instead.

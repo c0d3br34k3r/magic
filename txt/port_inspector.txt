@@ -1,0 +1,4 @@
+Port Inspector {1}{U}
+Creature — Human
+Whenever Port Inspector becomes blocked, you may look at defending player's hand.
+1/2

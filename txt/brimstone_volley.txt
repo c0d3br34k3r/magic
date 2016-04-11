@@ -1,0 +1,4 @@
+Brimstone Volley {2}{R}
+Instant
+Brimstone Volley deals 3 damage to target creature or player.
+Morbid — Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.

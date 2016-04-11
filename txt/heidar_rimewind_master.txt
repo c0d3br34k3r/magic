@@ -1,0 +1,4 @@
+Heidar, Rimewind Master {4}{U}
+Legendary Creature — Human Wizard
+{2}, {T}: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents.
+3/3

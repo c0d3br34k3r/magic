@@ -1,0 +1,5 @@
+Knightly Valor {4}{W}
+Enchantment — Aura
+Enchant creature
+When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. (Attacking doesn't cause it to tap.)
+Enchanted creature gets +2/+2 and has vigilance.

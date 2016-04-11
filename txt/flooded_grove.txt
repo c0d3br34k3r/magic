@@ -1,0 +1,4 @@
+Flooded Grove
+Land
+{T}: Add {C} to your mana pool.
+{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.

@@ -1,0 +1,3 @@
+Divert {U}
+Instant
+Change the target of target spell with a single target unless that spell's controller pays {2}.

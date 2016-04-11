@@ -1,0 +1,5 @@
+Grip of the Roil {2}{U}
+Instant
+Surge {1}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Tap target creature. It doesn't untap during its controller's next untap step.
+Draw a card.

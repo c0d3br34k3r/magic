@@ -1,0 +1,5 @@
+Voldaren Duelist {3}{R}
+Creature — Vampire Warrior
+Haste
+When Voldaren Duelist enters the battlefield, target creature can't block this turn.
+3/2

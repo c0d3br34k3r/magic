@@ -1,0 +1,4 @@
+Break of Day {1}{W}
+Instant
+Creatures you control get +1/+1 until end of turn.
+Fateful hour — If you have 5 or less life, those creatures gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)

@@ -1,0 +1,4 @@
+Tar Pit Warrior {2}{B}
+Creature — Cyclops Warrior
+When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.
+3/4

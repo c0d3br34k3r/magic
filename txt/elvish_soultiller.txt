@@ -1,0 +1,4 @@
+Elvish Soultiller {3}{G}{G}
+Creature — Elf Mutant
+When Elvish Soultiller dies, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.
+5/4

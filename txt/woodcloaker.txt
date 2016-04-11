@@ -1,0 +1,5 @@
+Woodcloaker {5}{G}
+Creature — Elf
+Morph {2}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Woodcloaker is turned face up, target creature gains trample until end of turn.
+3/3

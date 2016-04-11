@@ -1,0 +1,4 @@
+Wandering Wolf {1}{G}
+Creature — Wolf
+Creatures with power less than Wandering Wolf's power can't block it.
+2/1

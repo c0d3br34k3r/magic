@@ -1,0 +1,4 @@
+Druid Lyrist {G}
+Creature — Human Druid
+{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment.
+1/1

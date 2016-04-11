@@ -1,0 +1,5 @@
+Void Attendant {2}{G}
+Creature — Eldrazi Processor
+Devoid (This card has no color.)
+{1}{G}, Put a card an opponent owns from exile into that player's graveyard: Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+2/3

@@ -1,0 +1,5 @@
+Experiment Kraj {2}{U}{U}{G}{G}
+Legendary Creature — Ooze Mutant
+Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.
+{T}: Put a +1/+1 counter on target creature.
+4/6

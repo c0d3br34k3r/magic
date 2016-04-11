@@ -1,0 +1,4 @@
+Keeper of Tresserhorn {5}{B}
+Creature — Avatar
+Whenever Keeper of Tresserhorn attacks and isn't blocked, it assigns no combat damage this turn and defending player loses 2 life.
+6/6

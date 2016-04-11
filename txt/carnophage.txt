@@ -1,0 +1,4 @@
+Carnophage {B}
+Creature — Zombie
+At the beginning of your upkeep, tap Carnophage unless you pay 1 life.
+2/2

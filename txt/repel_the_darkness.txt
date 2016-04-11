@@ -1,0 +1,4 @@
+Repel the Darkness {2}{W}
+Instant
+Tap up to two target creatures.
+Draw a card.

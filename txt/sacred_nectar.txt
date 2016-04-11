@@ -1,0 +1,3 @@
+Sacred Nectar {1}{W}
+Sorcery
+You gain 4 life.

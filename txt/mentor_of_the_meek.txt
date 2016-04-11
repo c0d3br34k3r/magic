@@ -1,0 +1,4 @@
+Mentor of the Meek {2}{W}
+Creature — Human Soldier
+Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.
+2/2

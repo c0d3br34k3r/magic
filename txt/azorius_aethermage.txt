@@ -1,0 +1,4 @@
+Azorius Æthermage {1}{W}{U}
+Creature — Human Wizard
+Whenever a permanent is returned to your hand, you may pay {1}. If you do, draw a card.
+1/1

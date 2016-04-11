@@ -1,0 +1,4 @@
+Giant Slug {1}{B}
+Creature — Slug
+{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn. (It can't be blocked as long as defending player controls a land of that type.)
+1/1

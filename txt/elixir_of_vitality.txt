@@ -1,0 +1,5 @@
+Elixir of Vitality {4}
+Artifact
+Elixir of Vitality enters the battlefield tapped.
+{T}, Sacrifice Elixir of Vitality: You gain 4 life.
+{8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.

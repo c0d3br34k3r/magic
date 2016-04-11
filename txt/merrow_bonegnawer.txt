@@ -1,0 +1,5 @@
+Merrow Bonegnawer {B}
+Creature — Merfolk Rogue
+{T}: Target player exiles a card from his or her graveyard.
+Whenever you cast a black spell, you may untap Merrow Bonegnawer.
+1/1

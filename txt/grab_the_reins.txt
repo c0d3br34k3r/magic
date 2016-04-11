@@ -1,0 +1,6 @@
+Grab the Reins {3}{R}
+Instant
+Choose one —
+• Until end of turn, you gain control of target creature and it gains haste.
+• Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to target creature or player.
+Entwine {2}{R} (Choose both if you pay the entwine cost.)

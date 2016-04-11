@@ -1,0 +1,6 @@
+Lobber Crew {2}{R}
+Creature — Goblin Warrior
+Defender
+{T}: Lobber Crew deals 1 damage to each opponent.
+Whenever you cast a multicolored spell, untap Lobber Crew.
+0/4

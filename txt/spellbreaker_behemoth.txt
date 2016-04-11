@@ -1,0 +1,5 @@
+Spellbreaker Behemoth {1}{R}{G}{G}
+Creature — Beast
+Spellbreaker Behemoth can't be countered.
+Creature spells you control with power 5 or greater can't be countered.
+5/5

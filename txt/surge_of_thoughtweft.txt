@@ -1,0 +1,3 @@
+Surge of Thoughtweft {1}{W}
+Tribal Instant — Kithkin
+Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card.

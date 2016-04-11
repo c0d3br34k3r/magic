@@ -1,0 +1,4 @@
+Kongming's Contraptions {3}{W}
+Creature — Human Soldier
+{T}: Kongming's Contraptions deals 2 damage to target attacking creature. Activate this ability only during the declare attackers step and only if you've been attacked this step.
+2/4

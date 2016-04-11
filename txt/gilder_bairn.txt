@@ -1,0 +1,4 @@
+Gilder Bairn {1}{G/U}{G/U}
+Creature — Ouphe
+{2}{G/U}, {Q}: For each counter on target permanent, put another of those counters on that permanent. ({Q} is the untap symbol.)
+1/3

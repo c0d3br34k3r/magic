@@ -1,0 +1,4 @@
+Goblin Mountaineer {R}
+Creature — Goblin Scout
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+1/1

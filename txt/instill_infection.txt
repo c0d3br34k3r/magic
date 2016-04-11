@@ -1,0 +1,4 @@
+Instill Infection {3}{B}
+Instant
+Put a -1/-1 counter on target creature.
+Draw a card.

@@ -1,0 +1,3 @@
+Vessel of Ephemera {1}{W}
+Enchantment
+{2}{W}, Sacrifice Vessel of Ephemera: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.

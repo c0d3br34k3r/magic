@@ -1,0 +1,6 @@
+Adaptive Automaton {3}
+Artifact Creature — Construct
+As Adaptive Automaton enters the battlefield, choose a creature type.
+Adaptive Automaton is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.
+2/2

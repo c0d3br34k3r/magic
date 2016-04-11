@@ -1,0 +1,3 @@
+Karma {2}{W}{W}
+Enchantment
+At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.

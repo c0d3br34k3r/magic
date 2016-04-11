@@ -1,0 +1,5 @@
+Aura Thief {3}{U}
+Creature — Illusion
+Flying
+When Aura Thief dies, you gain control of all enchantments. (You don't get to move Auras.)
+2/2

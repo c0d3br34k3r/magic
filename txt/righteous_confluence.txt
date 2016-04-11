@@ -1,0 +1,6 @@
+Righteous Confluence {3}{W}{W}
+Sorcery
+Choose three. You may choose the same mode more than once.
+• Put a 2/2 white Knight creature token with vigilance onto the battlefield.
+• Exile target enchantment.
+• You gain 5 life.

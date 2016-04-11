@@ -1,0 +1,9 @@
+Lighthouse Chronologist {1}{U}
+Creature — Human Wizard
+Level up {U} ({U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 4-6
+2/4
+LEVEL 7+
+3/5
+At the beginning of each end step, if it's not your turn, take an extra turn after this one.
+1/3

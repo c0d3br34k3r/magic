@@ -1,0 +1,4 @@
+Surgespanner {2}{U}{U}
+Creature — Merfolk Wizard
+Whenever Surgespanner becomes tapped, you may pay {1}{U}. If you do, return target permanent to its owner's hand.
+2/2

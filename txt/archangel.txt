@@ -1,0 +1,4 @@
+Archangel {5}{W}{W}
+Creature — Angel
+Flying, vigilance
+5/5

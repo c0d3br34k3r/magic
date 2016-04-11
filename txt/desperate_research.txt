@@ -1,0 +1,3 @@
+Desperate Research {1}{B}
+Sorcery
+Name a card other than a basic land card. Then reveal the top seven cards of your library and put all of them with that name into your hand. Exile the rest.

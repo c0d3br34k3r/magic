@@ -1,0 +1,4 @@
+Sewn-Eye Drake {2}{U/R}{B}
+Creature — Zombie Drake
+Flying, haste
+3/1

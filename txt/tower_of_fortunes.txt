@@ -1,0 +1,3 @@
+Tower of Fortunes {4}
+Artifact
+{8}, {T}: Draw four cards.

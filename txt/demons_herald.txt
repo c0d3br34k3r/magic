@@ -1,0 +1,4 @@
+Demon's Herald {B}
+Creature — Human Wizard
+{2}{B}, {T}, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it onto the battlefield. Then shuffle your library.
+1/1

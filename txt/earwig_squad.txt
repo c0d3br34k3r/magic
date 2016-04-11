@@ -1,0 +1,5 @@
+Earwig Squad {3}{B}{B}
+Creature — Goblin Rogue
+Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.
+5/3

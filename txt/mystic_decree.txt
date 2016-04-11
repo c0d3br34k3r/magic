@@ -1,0 +1,3 @@
+Mystic Decree {2}{U}{U}
+World Enchantment
+All creatures lose flying and islandwalk.

@@ -1,0 +1,4 @@
+Suppression Bonds {3}{W}
+Enchantment — Aura
+Enchant nonland permanent
+Enchanted permanent can't attack or block, and its activated abilities can't be activated.

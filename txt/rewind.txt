@@ -1,0 +1,3 @@
+Rewind {2}{U}{U}
+Instant
+Counter target spell. Untap up to four lands.

@@ -1,0 +1,12 @@
+Chandra, Fire of Kaladesh {1}{R}{R}
+Legendary Creature — Human Shaman
+Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.
+{T}: Chandra, Fire of Kaladesh deals 1 damage to target player. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.
+2/2
+* DOUBLE-FACED *
+Chandra, Roaring Flame
+(R) Planeswalker — Chandra
++1: Chandra, Roaring Flame deals 2 damage to target player.
+−2: Chandra, Roaring Flame deals 2 damage to target creature.
+−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."
+4

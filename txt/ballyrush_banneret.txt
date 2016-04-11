@@ -1,0 +1,4 @@
+Ballyrush Banneret {1}{W}
+Creature — Kithkin Soldier
+Kithkin spells and Soldier spells you cast cost {1} less to cast.
+2/1

@@ -1,0 +1,5 @@
+Reaper from the Abyss {3}{B}{B}{B}
+Creature — Demon
+Flying
+Morbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.
+6/6

@@ -1,0 +1,3 @@
+Thoughtlace {U}
+Instant
+Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)

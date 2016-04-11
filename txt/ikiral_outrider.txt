@@ -1,0 +1,10 @@
+Ikiral Outrider {1}{W}
+Creature — Human Soldier
+Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+2/6
+Vigilance
+LEVEL 4+
+3/10
+Vigilance
+1/2

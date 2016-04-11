@@ -1,0 +1,5 @@
+Lightwielder Paladin {3}{W}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+Whenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.
+4/4

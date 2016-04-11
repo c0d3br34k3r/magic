@@ -1,0 +1,3 @@
+Æther Sting {3}{R}
+Enchantment
+Whenever an opponent casts a creature spell, Æther Sting deals 1 damage to that player.

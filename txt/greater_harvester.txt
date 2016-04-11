@@ -1,0 +1,5 @@
+Greater Harvester {2}{B}{B}{B}
+Creature — Horror
+At the beginning of your upkeep, sacrifice a permanent.
+Whenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.
+5/6

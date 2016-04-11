@@ -1,0 +1,4 @@
+Barkshell Blessing {G/W}
+Instant
+Target creature gets +2/+2 until end of turn.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)

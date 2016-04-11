@@ -1,0 +1,3 @@
+Tropical Storm {X}{G}
+Sorcery
+Tropical Storm deals X damage to each creature with flying and 1 additional damage to each blue creature.

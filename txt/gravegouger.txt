@@ -1,0 +1,5 @@
+Gravegouger {2}{B}
+Creature — Nightmare Horror
+When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard.
+When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.
+2/2

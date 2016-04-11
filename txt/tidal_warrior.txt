@@ -1,0 +1,4 @@
+Tidal Warrior {U}
+Creature — Merfolk Warrior
+{T}: Target land becomes an Island until end of turn.
+1/1

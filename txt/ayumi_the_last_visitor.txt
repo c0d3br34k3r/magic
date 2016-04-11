@@ -1,0 +1,4 @@
+Ayumi, the Last Visitor {3}{G}{G}
+Legendary Creature — Spirit
+Legendary landwalk (This creature can't be blocked as long as defending player controls a legendary land.)
+7/3

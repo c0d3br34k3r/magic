@@ -1,0 +1,6 @@
+Sorin Markov {3}{B}{B}{B}
+Planeswalker — Sorin
++2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.
+−3: Target opponent's life total becomes 10.
+−7: You control target player during that player's next turn.
+4

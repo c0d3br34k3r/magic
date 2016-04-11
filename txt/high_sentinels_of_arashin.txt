@@ -1,0 +1,6 @@
+High Sentinels of Arashin {3}{W}
+Creature — Bird Soldier
+Flying
+High Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.
+{3}{W}: Put a +1/+1 counter on target creature.
+3/4

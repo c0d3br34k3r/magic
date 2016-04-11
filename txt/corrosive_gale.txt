@@ -1,0 +1,4 @@
+Corrosive Gale {X}{G/P}
+Sorcery
+({G/P} can be paid with either {G} or 2 life.)
+Corrosive Gale deals X damage to each creature with flying.

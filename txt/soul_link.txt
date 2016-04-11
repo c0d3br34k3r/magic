@@ -1,0 +1,5 @@
+Soul Link {1}{W}{B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature deals damage, you gain that much life.
+Whenever enchanted creature is dealt damage, you gain that much life.

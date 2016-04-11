@@ -1,0 +1,3 @@
+Rebuke {2}{W}
+Instant
+Destroy target attacking creature.

@@ -1,0 +1,5 @@
+Tireless Tracker {2}{G}
+Creature — Human Scout
+Whenever a land enters the battlefield under your control, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.
+3/2

@@ -1,0 +1,5 @@
+Belbe's Percher {2}{B}
+Creature — Bird
+Flying
+Belbe's Percher can block only creatures with flying.
+2/2

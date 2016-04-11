@@ -1,0 +1,5 @@
+Wall of Roots {1}{G}
+Creature — Plant Wall
+Defender
+Put a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.
+0/5

@@ -1,0 +1,5 @@
+Bog Serpent {5}{B}
+Creature — Serpent
+Bog Serpent can't attack unless defending player controls a Swamp.
+When you control no Swamps, sacrifice Bog Serpent.
+5/5

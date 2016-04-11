@@ -1,0 +1,5 @@
+Xathrid Gorgon {5}{B}
+Creature — Gorgon
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)
+3/6

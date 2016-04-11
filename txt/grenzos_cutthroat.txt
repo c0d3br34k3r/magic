@@ -1,0 +1,5 @@
+Grenzo's Cutthroat {1}{R}
+Creature — Goblin Rogue
+First strike
+Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+1/1

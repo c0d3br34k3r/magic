@@ -1,0 +1,4 @@
+Volcanic Strength {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)

@@ -1,0 +1,5 @@
+Nightshade Peddler {1}{G}
+Creature — Human Druid
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.
+1/1

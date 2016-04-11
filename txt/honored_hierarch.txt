@@ -1,0 +1,5 @@
+Honored Hierarch {G}
+Creature — Human Druid
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+As long as Honored Hierarch is renowned, it has vigilance and "{T}: Add one mana of any color to your mana pool."
+1/1

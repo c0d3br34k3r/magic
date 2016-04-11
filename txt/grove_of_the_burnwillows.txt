@@ -1,0 +1,4 @@
+Grove of the Burnwillows
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Each opponent gains 1 life.

@@ -1,0 +1,5 @@
+Paragon of New Dawns {3}{W}
+Creature — Human Soldier
+Other white creatures you control get +1/+1.
+{W}, {T}: Another target white creature you control gains vigilance until end of turn. (Attacking doesn't cause it to tap.)
+2/2

@@ -1,0 +1,5 @@
+Jungle Troll {1}{R}{G}
+Creature — Troll
+{R}: Regenerate Jungle Troll.
+{G}: Regenerate Jungle Troll.
+2/1

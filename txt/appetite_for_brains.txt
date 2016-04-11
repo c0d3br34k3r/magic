@@ -1,0 +1,3 @@
+Appetite for Brains {B}
+Sorcery
+Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card.

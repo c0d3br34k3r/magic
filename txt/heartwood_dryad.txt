@@ -1,0 +1,4 @@
+Heartwood Dryad {1}{G}
+Creature — Dryad
+Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.
+2/1

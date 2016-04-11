@@ -1,0 +1,6 @@
+Restoration Angel {3}{W}
+Creature — Angel
+Flash
+Flying
+When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.
+3/4

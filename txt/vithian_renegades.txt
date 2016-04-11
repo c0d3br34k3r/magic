@@ -1,0 +1,4 @@
+Vithian Renegades {1}{R}{G}
+Creature — Human Shaman
+When Vithian Renegades enters the battlefield, destroy target artifact.
+3/2

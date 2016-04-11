@@ -1,0 +1,5 @@
+Sigarda, Host of Herons {2}{W}{W}{G}
+Legendary Creature — Angel
+Flying, hexproof
+Spells and abilities your opponents control can't cause you to sacrifice permanents.
+5/5

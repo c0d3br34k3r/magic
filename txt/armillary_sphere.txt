@@ -1,0 +1,3 @@
+Armillary Sphere {2}
+Artifact
+{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.

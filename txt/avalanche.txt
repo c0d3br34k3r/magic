@@ -1,0 +1,3 @@
+Avalanche {X}{2}{R}{R}
+Sorcery
+Destroy X target snow lands.

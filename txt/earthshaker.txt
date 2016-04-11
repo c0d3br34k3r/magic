@@ -1,0 +1,4 @@
+Earthshaker {4}{R}{R}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.
+4/5

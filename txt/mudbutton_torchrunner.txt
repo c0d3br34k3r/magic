@@ -1,0 +1,4 @@
+Mudbutton Torchrunner {2}{R}
+Creature — Goblin Warrior
+When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+1/1

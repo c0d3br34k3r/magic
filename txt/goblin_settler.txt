@@ -1,0 +1,4 @@
+Goblin Settler {3}{R}
+Creature — Goblin
+When Goblin Settler enters the battlefield, destroy target land.
+1/1

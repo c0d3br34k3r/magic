@@ -1,0 +1,4 @@
+Yavimaya Enchantress {2}{G}
+Creature — Human Druid
+Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.
+2/2

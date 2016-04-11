@@ -1,0 +1,7 @@
+Scion of Oona {2}{U}
+Creature — Faerie Soldier
+Flash
+Flying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud. (They can't be the targets of spells or abilities.)
+1/1

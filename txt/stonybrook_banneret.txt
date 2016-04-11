@@ -1,0 +1,5 @@
+Stonybrook Banneret {1}{U}
+Creature — Merfolk Wizard
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Merfolk spells and Wizard spells you cast cost {1} less to cast.
+1/1

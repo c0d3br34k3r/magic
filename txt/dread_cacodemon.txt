@@ -1,0 +1,4 @@
+Dread Cacodemon {7}{B}{B}{B}
+Creature — Demon
+When Dread Cacodemon enters the battlefield, if you cast it from your hand, destroy all creatures your opponents control, then tap all other creatures you control.
+8/8

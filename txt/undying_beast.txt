@@ -1,0 +1,4 @@
+Undying Beast {3}{B}
+Creature — Beast
+When Undying Beast dies, put it on top of its owner's library.
+3/2

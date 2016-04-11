@@ -1,0 +1,4 @@
+Instigator {1}{B}
+Creature — Human Spellshaper
+{1}{B}{B}, {T}, Discard a card: Creatures target player controls attack this turn if able.
+1/1

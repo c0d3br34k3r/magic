@@ -1,0 +1,4 @@
+Bonesplitter {1}
+Artifact — Equipment
+Equipped creature gets +2/+0.
+Equip {1}

@@ -1,0 +1,3 @@
+Return of the Nightstalkers {5}{B}{B}
+Sorcery
+Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.

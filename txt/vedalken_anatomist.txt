@@ -1,0 +1,4 @@
+Vedalken Anatomist {2}{U}
+Creature — Vedalken Wizard
+{2}{U}, {T}: Put a -1/-1 counter on target creature. You may tap or untap that creature.
+1/2

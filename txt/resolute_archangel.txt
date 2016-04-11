@@ -1,0 +1,5 @@
+Resolute Archangel {5}{W}{W}
+Creature — Angel
+Flying
+When Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total.
+4/4

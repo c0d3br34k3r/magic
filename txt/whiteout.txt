@@ -1,0 +1,4 @@
+Whiteout {1}{G}
+Instant
+All creatures lose flying until end of turn.
+Sacrifice a snow land: Return Whiteout from your graveyard to your hand.

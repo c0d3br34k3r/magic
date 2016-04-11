@@ -1,0 +1,4 @@
+Scoria Wurm {4}{R}
+Creature — Wurm
+At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.
+7/7

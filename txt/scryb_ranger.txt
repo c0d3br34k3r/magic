@@ -1,0 +1,6 @@
+Scryb Ranger {1}{G}
+Creature — Faerie
+Flash (You may cast this spell any time you could cast an instant.)
+Flying, protection from blue
+Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+1/1

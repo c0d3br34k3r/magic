@@ -1,0 +1,4 @@
+Enatu Golem {6}
+Artifact Creature — Golem
+When Enatu Golem dies, you gain 4 life.
+3/5

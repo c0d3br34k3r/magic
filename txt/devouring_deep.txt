@@ -1,0 +1,4 @@
+Devouring Deep {2}{U}
+Creature — Fish
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+1/2

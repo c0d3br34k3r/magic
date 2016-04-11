@@ -1,0 +1,4 @@
+Descendant of Kiyomaro {1}{W}{W}
+Creature — Human Soldier
+As long as you have more cards in hand than each opponent, Descendant of Kiyomaro gets +1/+2 and has "Whenever this creature deals combat damage, you gain 3 life."
+2/3

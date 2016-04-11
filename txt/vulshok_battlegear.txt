@@ -1,0 +1,4 @@
+Vulshok Battlegear {3}
+Artifact — Equipment
+Equipped creature gets +3/+3.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)

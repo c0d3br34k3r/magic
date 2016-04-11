@@ -1,0 +1,4 @@
+Rending Volley {R}
+Instant
+Rending Volley can't be countered by spells or abilities.
+Rending Volley deals 4 damage to target white or blue creature.

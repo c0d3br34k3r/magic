@@ -1,0 +1,4 @@
+Cursed Rack {4}
+Artifact
+As Cursed Rack enters the battlefield, choose an opponent.
+The chosen player's maximum hand size is four.

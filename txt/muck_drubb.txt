@@ -1,0 +1,6 @@
+Muck Drubb {3}{B}{B}
+Creature — Beast
+Flash (You may cast this spell any time you could cast an instant.)
+When Muck Drubb enters the battlefield, change the target of target spell that targets only a single creature to Muck Drubb.
+Madness {2}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+3/3

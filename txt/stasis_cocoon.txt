@@ -1,0 +1,4 @@
+Stasis Cocoon {1}{W}
+Enchantment — Aura
+Enchant artifact
+Enchanted artifact can't attack or block, and its activated abilities can't be activated.

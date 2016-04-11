@@ -1,0 +1,5 @@
+Ravenous Skirge {2}{B}
+Creature — Imp
+Flying
+Whenever Ravenous Skirge attacks, it gets +2/+0 until end of turn.
+1/1

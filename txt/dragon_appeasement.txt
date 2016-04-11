@@ -1,0 +1,4 @@
+Dragon Appeasement {3}{B}{R}{G}
+Enchantment
+Skip your draw step.
+Whenever you sacrifice a creature, you may draw a card.

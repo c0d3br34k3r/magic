@@ -1,0 +1,3 @@
+Flourishing Defenses {4}{G}
+Enchantment
+Whenever a -1/-1 counter is placed on a creature, you may put a 1/1 green Elf Warrior creature token onto the battlefield.

@@ -1,0 +1,4 @@
+Valley Rannet {4}{R}{G}
+Creature — Beast
+Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+6/3

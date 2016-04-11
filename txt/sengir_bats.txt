@@ -1,0 +1,5 @@
+Sengir Bats {1}{B}{B}
+Creature — Bat
+Flying
+Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 counter on Sengir Bats.
+1/2

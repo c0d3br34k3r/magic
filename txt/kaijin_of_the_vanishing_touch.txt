@@ -1,0 +1,5 @@
+Kaijin of the Vanishing Touch {1}{U}
+Creature — Spirit
+Defender (This creature can't attack.)
+Whenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)
+0/3

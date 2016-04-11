@@ -1,0 +1,4 @@
+Firemantle Mage {2}{R}
+Creature — Human Shaman Ally
+Rally — Whenever Firemantle Mage or another Ally enters the battlefield under your control, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)
+2/2

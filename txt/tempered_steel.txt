@@ -1,0 +1,3 @@
+Tempered Steel {1}{W}{W}
+Enchantment
+Artifact creatures you control get +2/+2.

@@ -1,0 +1,7 @@
+Skithiryx, the Blight Dragon {3}{B}{B}
+Legendary Creature — Dragon Skeleton
+Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{B}: Skithiryx, the Blight Dragon gains haste until end of turn.
+{B}{B}: Regenerate Skithiryx.
+4/4

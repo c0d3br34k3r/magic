@@ -1,0 +1,4 @@
+Pledge of Loyalty {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from the colors of permanents you control. This effect doesn't remove Pledge of Loyalty.

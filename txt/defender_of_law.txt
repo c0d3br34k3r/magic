@@ -1,0 +1,5 @@
+Defender of Law {2}{W}
+Creature — Human Knight
+Flash
+Protection from red
+2/1

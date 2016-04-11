@@ -1,0 +1,4 @@
+Avalanche Tusker {2}{U}{R}{G}
+Creature — Elephant Warrior
+Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.
+6/4

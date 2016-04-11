@@ -1,0 +1,5 @@
+Stinkdrinker Bandit {3}{B}
+Creature — Goblin Rogue
+Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+Whenever a Rogue you control attacks and isn't blocked, it gets +2/+1 until end of turn.
+2/1

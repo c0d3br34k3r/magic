@@ -1,0 +1,3 @@
+Solidarity {3}{W}
+Instant
+Creatures you control get +0/+5 until end of turn.

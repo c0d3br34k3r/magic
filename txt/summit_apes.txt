@@ -1,0 +1,4 @@
+Summit Apes {3}{G}
+Creature — Ape
+As long as you control a Mountain, Summit Apes has menace. (It can't be blocked except by two or more creatures.)
+5/2

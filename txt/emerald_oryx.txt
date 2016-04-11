@@ -1,0 +1,4 @@
+Emerald Oryx {3}{G}
+Creature — Antelope
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+2/3

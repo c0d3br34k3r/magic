@@ -1,0 +1,3 @@
+Unnatural Selection {1}{U}
+Enchantment
+{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.

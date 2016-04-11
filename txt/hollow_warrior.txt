@@ -1,0 +1,4 @@
+Hollow Warrior {4}
+Artifact Creature — Golem Warrior
+Hollow Warrior can't attack or block unless you tap an untapped creature you control not declared as an attacking or blocking creature this combat. (This cost is paid as attackers or blockers are declared.)
+4/4

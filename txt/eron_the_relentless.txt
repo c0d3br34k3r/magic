@@ -1,0 +1,5 @@
+Eron the Relentless {3}{R}{R}
+Legendary Creature — Human Rogue
+Haste
+{R}{R}{R}: Regenerate Eron the Relentless.
+5/2

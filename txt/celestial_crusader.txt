@@ -1,0 +1,7 @@
+Celestial Crusader {2}{W}{W}
+Creature — Spirit
+Flash (You may cast this spell any time you could cast an instant.)
+Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Flying
+Other white creatures get +1/+1.
+2/2

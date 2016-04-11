@@ -1,0 +1,4 @@
+Dictate of Kruphix {1}{U}{U}
+Enchantment
+Flash
+At the beginning of each player's draw step, that player draws an additional card.

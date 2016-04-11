@@ -1,0 +1,4 @@
+Goldmeadow Harrier {W}
+Creature — Kithkin Soldier
+{W}, {T}: Tap target creature.
+1/1

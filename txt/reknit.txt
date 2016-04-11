@@ -1,0 +1,3 @@
+Reknit {1}{G/W}
+Instant
+Regenerate target permanent.

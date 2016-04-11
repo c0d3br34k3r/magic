@@ -1,0 +1,3 @@
+Shadowstorm {R}
+Sorcery
+Shadowstorm deals 2 damage to each creature with shadow.

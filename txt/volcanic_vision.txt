@@ -1,0 +1,3 @@
+Volcanic Vision {5}{R}{R}
+Sorcery
+Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision.

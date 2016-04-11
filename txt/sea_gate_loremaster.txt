@@ -1,0 +1,4 @@
+Sea Gate Loremaster {4}{U}
+Creature — Merfolk Wizard Ally
+{T}: Draw a card for each Ally you control.
+1/3

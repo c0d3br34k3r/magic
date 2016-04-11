@@ -1,0 +1,4 @@
+Skygames {1}{U}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery."

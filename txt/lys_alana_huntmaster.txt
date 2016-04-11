@@ -1,0 +1,4 @@
+Lys Alana Huntmaster {2}{G}{G}
+Creature — Elf Warrior
+Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
+3/3

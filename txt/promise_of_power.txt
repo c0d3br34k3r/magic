@@ -1,0 +1,6 @@
+Promise of Power {2}{B}{B}{B}
+Sorcery
+Choose one —
+• You draw five cards and you lose 5 life.
+• Put an X/X black Demon creature token with flying onto the battlefield, where X is the number of cards in your hand.
+Entwine {4} (Choose both if you pay the entwine cost.)

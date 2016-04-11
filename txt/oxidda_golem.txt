@@ -1,0 +1,5 @@
+Oxidda Golem {6}
+Artifact Creature — Golem
+Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)
+Haste
+3/2

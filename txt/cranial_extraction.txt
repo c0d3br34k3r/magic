@@ -1,0 +1,3 @@
+Cranial Extraction {3}{B}
+Sorcery — Arcane
+Name a nonland card. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.

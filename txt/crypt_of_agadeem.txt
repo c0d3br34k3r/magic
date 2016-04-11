@@ -1,0 +1,5 @@
+Crypt of Agadeem
+Land
+Crypt of Agadeem enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.

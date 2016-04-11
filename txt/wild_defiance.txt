@@ -1,0 +1,3 @@
+Wild Defiance {2}{G}
+Enchantment
+Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn.

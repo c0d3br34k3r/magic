@@ -1,0 +1,6 @@
+Maelstrom Djinn {7}{U}
+Creature — Djinn
+Flying
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Maelstrom Djinn is turned face up, put two time counters on it and it gains vanishing. (At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+5/6

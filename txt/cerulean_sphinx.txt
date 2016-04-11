@@ -1,0 +1,5 @@
+Cerulean Sphinx {4}{U}{U}
+Creature — Sphinx
+Flying
+{U}: Cerulean Sphinx's owner shuffles it into his or her library.
+5/5

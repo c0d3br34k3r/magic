@@ -1,0 +1,4 @@
+Reckless Abandon {R}
+Sorcery
+As an additional cost to cast Reckless Abandon, sacrifice a creature.
+Reckless Abandon deals 4 damage to target creature or player.

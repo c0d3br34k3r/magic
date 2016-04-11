@@ -1,0 +1,3 @@
+Throne of Bone {1}
+Artifact
+Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.

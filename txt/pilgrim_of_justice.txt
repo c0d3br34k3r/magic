@@ -1,0 +1,5 @@
+Pilgrim of Justice {2}{W}
+Creature — Human Cleric
+Protection from red
+{W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.
+1/3

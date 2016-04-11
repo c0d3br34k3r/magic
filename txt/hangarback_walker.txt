@@ -1,0 +1,6 @@
+Hangarback Walker {X}{X}
+Artifact Creature — Construct
+Hangarback Walker enters the battlefield with X +1/+1 counters on it.
+When Hangarback Walker dies, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield for each +1/+1 counter on Hangarback Walker.
+{1}, {T}: Put a +1/+1 counter on Hangarback Walker.
+0/0

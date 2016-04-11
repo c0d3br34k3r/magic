@@ -1,0 +1,4 @@
+Viashino Bey {2}{R}{R}
+Creature — Viashino
+If Viashino Bey attacks, all creatures you control attack if able.
+4/3

@@ -1,0 +1,4 @@
+Sangrophage {B}{B}
+Creature — Zombie
+At the beginning of your upkeep, tap Sangrophage unless you pay 2 life.
+3/3

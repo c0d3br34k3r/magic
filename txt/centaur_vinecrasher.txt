@@ -1,0 +1,6 @@
+Centaur Vinecrasher {3}{G}
+Creature — Plant Centaur
+Trample
+Centaur Vinecrasher enters the battlefield with a number of +1/+1 counters on it equal to the number of land cards in all graveyards.
+Whenever a land card is put into a graveyard from anywhere, you may pay {G}{G}. If you do, return Centaur Vinecrasher from your graveyard to your hand.
+1/1

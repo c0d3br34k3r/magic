@@ -1,0 +1,4 @@
+Goblin Chirurgeon {R}
+Creature — Goblin Shaman
+Sacrifice a Goblin: Regenerate target creature.
+0/2

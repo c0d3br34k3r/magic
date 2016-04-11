@@ -1,0 +1,3 @@
+Stream of Life {X}{G}
+Sorcery
+Target player gains X life.

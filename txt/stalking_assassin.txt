@@ -1,0 +1,5 @@
+Stalking Assassin {1}{U}{B}
+Creature — Human Assassin
+{3}{U}, {T}: Tap target creature.
+{3}{B}, {T}: Destroy target tapped creature.
+1/1

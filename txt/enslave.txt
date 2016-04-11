@@ -1,0 +1,5 @@
+Enslave {4}{B}{B}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.

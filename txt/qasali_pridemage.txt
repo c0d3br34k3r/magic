@@ -1,0 +1,5 @@
+Qasali Pridemage {W}{G}
+Creature — Cat Wizard
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+2/2

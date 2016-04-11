@@ -1,0 +1,5 @@
+Timberland Ruins
+Land
+Timberland Ruins enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}, Sacrifice Timberland Ruins: Add one mana of any color to your mana pool.

@@ -1,0 +1,5 @@
+Cinder Pyromancer {2}{R}
+Creature — Elemental Shaman
+{T}: Cinder Pyromancer deals 1 damage to target player.
+Whenever you cast a red spell, you may untap Cinder Pyromancer.
+0/1

@@ -1,0 +1,4 @@
+Brimstone Dragon {6}{R}{R}
+Creature — Dragon
+Flying, haste
+6/6

@@ -1,0 +1,4 @@
+Norwood Warrior {2}{G}
+Creature — Elf Warrior
+Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.
+2/2

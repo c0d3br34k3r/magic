@@ -1,0 +1,8 @@
+Bound {3}{B}{G}
+Instant
+Sacrifice a creature. Return up to X cards from your graveyard to your hand, where X is the number of colors that creature was. Exile this card.
+* SPLIT *
+Determined {U}{G}
+Instant
+Other spells you control can't be countered by spells or abilities this turn.
+Draw a card.

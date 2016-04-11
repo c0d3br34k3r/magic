@@ -1,0 +1,3 @@
+Righteous Charge {1}{W}{W}
+Sorcery
+Creatures you control get +2/+2 until end of turn.

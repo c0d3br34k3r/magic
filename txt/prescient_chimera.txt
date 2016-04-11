@@ -1,0 +1,5 @@
+Prescient Chimera {3}{U}{U}
+Creature — Chimera
+Flying
+Whenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+3/4

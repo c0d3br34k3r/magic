@@ -1,0 +1,3 @@
+Thoughtbind {2}{U}
+Instant
+Counter target spell with converted mana cost 4 or less.

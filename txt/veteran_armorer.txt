@@ -1,0 +1,4 @@
+Veteran Armorer {1}{W}
+Creature — Human Soldier
+Other creatures you control get +0/+1.
+2/2

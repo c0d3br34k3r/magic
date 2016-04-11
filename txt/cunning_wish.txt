@@ -1,0 +1,3 @@
+Cunning Wish {2}{U}
+Instant
+You may choose an instant card you own from outside the game, reveal that card, and put it into your hand. Exile Cunning Wish.

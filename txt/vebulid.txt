@@ -1,0 +1,6 @@
+Vebulid {B}
+Creature — Horror
+Vebulid enters the battlefield with a +1/+1 counter on it.
+At the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.
+When Vebulid attacks or blocks, destroy it at end of combat.
+0/0

@@ -1,0 +1,10 @@
+Pious Evangel {2}{W}
+Creature — Human Cleric
+Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life.
+{2}, {T}, Sacrifice another permanent: Transform Pious Evangel.
+2/2
+* DOUBLE-FACED *
+Wayward Disciple
+Creature — Human Cleric
+Whenever Wayward Disciple or another creature you control dies, target opponent loses 1 life and you gain 1 life.
+2/4

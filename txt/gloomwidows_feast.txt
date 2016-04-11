@@ -1,0 +1,3 @@
+Gloomwidow's Feast {3}{G}
+Instant
+Destroy target creature with flying. If that creature was blue or black, put a 1/2 green Spider creature token with reach onto the battlefield. (It can block creatures with flying.)

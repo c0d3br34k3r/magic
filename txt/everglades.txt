@@ -1,0 +1,5 @@
+Everglades
+Land
+Everglades enters the battlefield tapped.
+When Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.
+{T}: Add {C}{B} to your mana pool.

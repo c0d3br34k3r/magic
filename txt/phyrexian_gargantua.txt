@@ -1,0 +1,4 @@
+Phyrexian Gargantua {4}{B}{B}
+Creature — Horror
+When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.
+4/4

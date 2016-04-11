@@ -1,0 +1,4 @@
+Hammerhead Shark {1}{U}
+Creature — Fish
+Hammerhead Shark can't attack unless defending player controls an Island.
+2/3

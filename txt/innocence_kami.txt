@@ -1,0 +1,5 @@
+Innocence Kami {3}{W}{W}
+Creature — Spirit
+{W}, {T}: Tap target creature.
+Whenever you cast a Spirit or Arcane spell, untap Innocence Kami.
+2/3

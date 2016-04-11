@@ -1,0 +1,6 @@
+Hythonia the Cruel {4}{B}{B}
+Legendary Creature — Gorgon
+Deathtouch
+{6}{B}{B}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.
+4/6

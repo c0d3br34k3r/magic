@@ -1,0 +1,4 @@
+Swarm of Rats {1}{B}
+Creature — Rat
+Swarm of Rats's power is equal to the number of Rats you control.
+*/1

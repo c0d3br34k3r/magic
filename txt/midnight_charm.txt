@@ -1,0 +1,6 @@
+Midnight Charm {B}
+Instant
+Choose one —
+• Midnight Charm deals 1 damage to target creature and you gain 1 life.
+• Target creature gains first strike until end of turn.
+• Tap target creature.

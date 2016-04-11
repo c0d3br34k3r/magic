@@ -1,0 +1,4 @@
+Bloodrite Invoker {2}{B}
+Creature — Vampire Shaman
+{8}: Target player loses 3 life and you gain 3 life.
+3/1

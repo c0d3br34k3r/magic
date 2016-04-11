@@ -1,0 +1,5 @@
+Sunblade Elf {G}
+Creature — Elf Warrior
+Sunblade Elf gets +1/+1 as long as you control a Plains.
+{4}{W}: Creatures you control get +1/+1 until end of turn.
+1/1

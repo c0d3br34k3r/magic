@@ -1,0 +1,4 @@
+Burning-Tree Emissary {R/G}{R/G}
+Creature — Human Shaman
+When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana pool.
+2/2

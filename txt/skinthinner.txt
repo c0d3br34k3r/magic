@@ -1,0 +1,5 @@
+Skinthinner {1}{B}
+Creature — Zombie
+Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Skinthinner is turned face up, destroy target nonblack creature. It can't be regenerated.
+2/1

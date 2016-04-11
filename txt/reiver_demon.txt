@@ -1,0 +1,5 @@
+Reiver Demon {4}{B}{B}{B}{B}
+Creature — Demon
+Flying
+When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.
+6/6

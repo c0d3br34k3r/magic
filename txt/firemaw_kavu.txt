@@ -1,0 +1,6 @@
+Firemaw Kavu {5}{R}
+Creature — Kavu
+Echo {5}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Firemaw Kavu enters the battlefield, it deals 2 damage to target creature.
+When Firemaw Kavu leaves the battlefield, it deals 4 damage to target creature.
+4/2

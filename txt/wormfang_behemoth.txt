@@ -1,0 +1,5 @@
+Wormfang Behemoth {3}{U}{U}
+Creature — Nightmare Fish Beast
+When Wormfang Behemoth enters the battlefield, exile all cards from your hand.
+When Wormfang Behemoth leaves the battlefield, return the exiled cards to their owner's hand.
+5/5

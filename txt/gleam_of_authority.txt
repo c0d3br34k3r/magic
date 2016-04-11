@@ -1,0 +1,5 @@
+Gleam of Authority {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each +1/+1 counter on other creatures you control.
+Enchanted creature has vigilance and "{W}, {T}: Bolster 1." (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)

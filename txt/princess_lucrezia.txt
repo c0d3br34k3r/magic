@@ -1,0 +1,4 @@
+Princess Lucrezia {3}{U}{U}{B}
+Legendary Creature — Human Wizard
+{T}: Add {U} to your mana pool.
+5/4

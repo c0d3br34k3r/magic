@@ -1,0 +1,4 @@
+Gorger Wurm {3}{R}{G}
+Creature — Wurm
+Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+5/5

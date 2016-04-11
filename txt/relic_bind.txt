@@ -1,0 +1,6 @@
+Relic Bind {2}{U}
+Enchantment — Aura
+Enchant artifact an opponent controls
+Whenever enchanted artifact becomes tapped, choose one —
+• Relic Bind deals 1 damage to target player.
+• Target player gains 1 life.

@@ -1,0 +1,5 @@
+Skyshroud Condor {1}{U}
+Creature — Bird
+Flying
+Cast Skyshroud Condor only if you've cast another spell this turn.
+2/2

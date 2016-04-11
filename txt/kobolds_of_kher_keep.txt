@@ -1,0 +1,3 @@
+Kobolds of Kher Keep {0}
+(R) Creature — Kobold
+0/1

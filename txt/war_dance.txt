@@ -1,0 +1,4 @@
+War Dance {G}
+Enchantment
+At the beginning of your upkeep, you may put a verse counter on War Dance.
+Sacrifice War Dance: Target creature gets +X/+X until end of turn, where X is the number of verse counters on War Dance.

@@ -1,0 +1,5 @@
+Crown of Suspicion {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/-1.
+Sacrifice Crown of Suspicion: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.

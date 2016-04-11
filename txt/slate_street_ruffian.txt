@@ -1,0 +1,4 @@
+Slate Street Ruffian {2}{B}
+Creature — Human Warrior
+Whenever Slate Street Ruffian becomes blocked, defending player discards a card.
+2/2

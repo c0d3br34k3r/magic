@@ -1,0 +1,12 @@
+Kruin Outlaw {1}{R}{R}
+Creature — Human Rogue Werewolf
+First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.
+2/2
+* DOUBLE-FACED *
+Terror of Kruin Pass
+(R) Creature — Werewolf
+Double strike
+Werewolves you control have menace. (They can't be blocked except by two or more creatures.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.
+3/3

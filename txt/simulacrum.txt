@@ -1,0 +1,3 @@
+Simulacrum {1}{B}
+Instant
+You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.

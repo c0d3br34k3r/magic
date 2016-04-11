@@ -1,0 +1,3 @@
+Malachite Talisman {2}
+Artifact
+Whenever a player casts a green spell, you may pay {3}. If you do, untap target permanent.

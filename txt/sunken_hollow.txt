@@ -1,0 +1,4 @@
+Sunken Hollow
+Land — Island Swamp
+({T}: Add {U} or {B} to your mana pool.)
+Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.

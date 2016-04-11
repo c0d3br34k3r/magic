@@ -1,0 +1,4 @@
+Dawnstrider {1}{G}
+Creature — Dryad Spellshaper
+{G}, {T}, Discard a card: Prevent all combat damage that would be dealt this turn.
+1/1

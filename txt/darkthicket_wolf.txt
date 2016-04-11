@@ -1,0 +1,4 @@
+Darkthicket Wolf {1}{G}
+Creature — Wolf
+{2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.
+2/2

@@ -1,0 +1,4 @@
+Rofellos, Llanowar Emissary {G}{G}
+Legendary Creature — Elf Druid
+{T}: Add {G} to your mana pool for each Forest you control.
+2/1

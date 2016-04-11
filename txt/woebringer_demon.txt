@@ -1,0 +1,5 @@
+Woebringer Demon {3}{B}{B}
+Creature — Demon
+Flying
+At the beginning of each player's upkeep, that player sacrifices a creature. If the player can't, sacrifice Woebringer Demon.
+4/4

@@ -1,0 +1,4 @@
+Yavimaya Ancients {3}{G}{G}
+Creature — Treefolk
+{G}: Yavimaya Ancients gets +1/-2 until end of turn.
+2/7

@@ -1,0 +1,5 @@
+Windrider Eel {3}{U}
+Creature — Fish
+Flying
+Landfall — Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Fetid Horror {3}{B}
+Creature — Shade Horror
+{B}: Fetid Horror gets +1/+1 until end of turn.
+1/2

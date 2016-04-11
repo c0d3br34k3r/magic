@@ -1,0 +1,4 @@
+Wild Wurm {3}{R}
+Creature — Wurm
+When Wild Wurm enters the battlefield, flip a coin. If you lose the flip, return Wild Wurm to its owner's hand.
+5/4

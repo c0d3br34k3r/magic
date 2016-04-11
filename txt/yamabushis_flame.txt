@@ -1,0 +1,3 @@
+Yamabushi's Flame {2}{R}
+Instant
+Yamabushi's Flame deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.

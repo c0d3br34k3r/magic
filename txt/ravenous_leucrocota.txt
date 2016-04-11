@@ -1,0 +1,5 @@
+Ravenous Leucrocota {3}{G}
+Creature — Beast
+Vigilance
+{6}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+2/4

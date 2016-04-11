@@ -1,0 +1,5 @@
+Sawback Manticore {3}{R}{G}
+Creature — Manticore
+{4}: Sawback Manticore gains flying until end of turn.
+{1}: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.
+2/4

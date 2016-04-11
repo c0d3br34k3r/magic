@@ -1,0 +1,3 @@
+Crosswinds {1}{G}
+Enchantment
+Creatures with flying get -2/-0.

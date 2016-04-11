@@ -1,0 +1,7 @@
+Vile Aggregate {2}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Vile Aggregate's power is equal to the number of colorless creatures you control.
+Trample
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+*/5

@@ -1,0 +1,5 @@
+Spellgorger Barbarian {3}{R}
+Creature — Human Nightmare Barbarian
+When Spellgorger Barbarian enters the battlefield, discard a card at random.
+When Spellgorger Barbarian leaves the battlefield, draw a card.
+3/1

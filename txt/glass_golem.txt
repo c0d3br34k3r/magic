@@ -1,0 +1,3 @@
+Glass Golem {5}
+Artifact Creature — Golem
+6/2

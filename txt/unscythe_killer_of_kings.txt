@@ -1,0 +1,5 @@
+Unscythe, Killer of Kings {U}{B}{B}{R}
+Legendary Artifact — Equipment
+Equipped creature gets +3/+3 and has first strike.
+Whenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.
+Equip {2}

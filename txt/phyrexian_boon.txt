@@ -1,0 +1,4 @@
+Phyrexian Boon {2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.

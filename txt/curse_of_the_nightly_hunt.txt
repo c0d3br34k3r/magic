@@ -1,0 +1,4 @@
+Curse of the Nightly Hunt {2}{R}
+Enchantment — Aura Curse
+Enchant player
+Creatures enchanted player controls attack each turn if able.

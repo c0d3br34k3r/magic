@@ -1,0 +1,6 @@
+Jarad, Golgari Lich Lord {B}{B}{G}{G}
+Legendary Creature — Zombie Elf
+Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.
+{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.
+Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.
+2/2

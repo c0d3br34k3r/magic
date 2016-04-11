@@ -1,0 +1,4 @@
+Auramancer's Guise {2}{U}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 for each Aura attached to it and has vigilance.

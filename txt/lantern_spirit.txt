@@ -1,0 +1,5 @@
+Lantern Spirit {2}{U}
+Creature — Spirit
+Flying
+{U}: Return Lantern Spirit to its owner's hand.
+2/1

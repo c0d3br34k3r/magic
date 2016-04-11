@@ -1,0 +1,3 @@
+Ghostform {1}{U}
+Sorcery
+Up to two target creatures can't be blocked this turn.

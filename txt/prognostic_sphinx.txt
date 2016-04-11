@@ -1,0 +1,6 @@
+Prognostic Sphinx {3}{U}{U}
+Creature — Sphinx
+Flying
+Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.
+Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+3/5

@@ -1,0 +1,3 @@
+Jovial Evil {2}{B}
+Sorcery
+Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.

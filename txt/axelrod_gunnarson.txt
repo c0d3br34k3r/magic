@@ -1,0 +1,5 @@
+Axelrod Gunnarson {4}{B}{B}{R}{R}
+Legendary Creature — Giant
+Trample
+Whenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.
+5/5

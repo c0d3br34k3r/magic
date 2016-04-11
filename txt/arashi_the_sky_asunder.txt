@@ -1,0 +1,5 @@
+Arashi, the Sky Asunder {3}{G}{G}
+Legendary Creature — Spirit
+{X}{G}, {T}: Arashi, the Sky Asunder deals X damage to target creature with flying.
+Channel — {X}{G}{G}, Discard Arashi: Arashi deals X damage to each creature with flying.
+5/5

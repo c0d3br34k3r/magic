@@ -1,0 +1,5 @@
+Centaur Veteran {5}{G}
+Creature — Centaur
+Trample
+{G}, Discard a card: Regenerate Centaur Veteran.
+3/3

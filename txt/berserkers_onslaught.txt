@@ -1,0 +1,3 @@
+Berserkers' Onslaught {3}{R}{R}
+Enchantment
+Attacking creatures you control have double strike.

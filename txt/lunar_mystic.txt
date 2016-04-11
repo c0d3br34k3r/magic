@@ -1,0 +1,4 @@
+Lunar Mystic {2}{U}{U}
+Creature — Human Wizard
+Whenever you cast an instant spell, you may pay {1}. If you do, draw a card.
+2/2

@@ -1,0 +1,7 @@
+Merciless Eviction {4}{W}{B}
+Sorcery
+Choose one —
+• Exile all artifacts.
+• Exile all creatures.
+• Exile all enchantments.
+• Exile all planeswalkers.

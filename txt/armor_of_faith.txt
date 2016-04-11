@@ -1,0 +1,5 @@
+Armor of Faith {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+{W}: Enchanted creature gets +0/+1 until end of turn.

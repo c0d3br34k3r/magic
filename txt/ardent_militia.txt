@@ -1,0 +1,4 @@
+Ardent Militia {4}{W}
+Creature — Human Soldier
+Vigilance
+2/5

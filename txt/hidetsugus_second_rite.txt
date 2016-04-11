@@ -1,0 +1,3 @@
+Hidetsugu's Second Rite {3}{R}
+Instant
+If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.

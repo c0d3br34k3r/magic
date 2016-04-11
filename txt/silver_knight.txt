@@ -1,0 +1,4 @@
+Silver Knight {W}{W}
+Creature — Human Knight
+First strike, protection from red
+2/2

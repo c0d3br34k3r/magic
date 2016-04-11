@@ -1,0 +1,4 @@
+Treetop Defense {1}{G}
+Instant
+Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.
+Creatures you control gain reach until end of turn. (They can block creatures with flying.)

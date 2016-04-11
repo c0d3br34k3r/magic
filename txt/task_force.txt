@@ -1,0 +1,4 @@
+Task Force {2}{W}
+Creature — Human Rebel
+Whenever Task Force becomes the target of a spell or ability, it gets +0/+3 until end of turn.
+1/3

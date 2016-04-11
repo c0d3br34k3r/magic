@@ -1,0 +1,6 @@
+Derevi, Empyrial Tactician {W}{U}{G}
+Legendary Creature — Bird Wizard
+Flying
+Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.
+{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.
+2/3

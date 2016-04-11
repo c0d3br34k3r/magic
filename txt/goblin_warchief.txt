@@ -1,0 +1,5 @@
+Goblin Warchief {1}{R}{R}
+Creature — Goblin Warrior
+Goblin spells you cast cost {1} less to cast.
+Goblin creatures you control have haste.
+2/2

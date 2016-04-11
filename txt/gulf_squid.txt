@@ -1,0 +1,4 @@
+Gulf Squid {3}{U}
+Creature — Squid Beast
+When Gulf Squid enters the battlefield, tap all lands target player controls.
+2/2

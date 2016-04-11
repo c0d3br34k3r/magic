@@ -1,0 +1,3 @@
+Shrieking Affliction {B}
+Enchantment
+At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, he or she loses 3 life.

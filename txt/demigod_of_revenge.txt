@@ -1,0 +1,5 @@
+Demigod of Revenge {B/R}{B/R}{B/R}{B/R}{B/R}
+Creature — Spirit Avatar
+Flying, haste
+When you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.
+5/4

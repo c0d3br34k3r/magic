@@ -1,0 +1,4 @@
+Lantern Kami {W}
+Creature — Spirit
+Flying
+1/1

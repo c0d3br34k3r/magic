@@ -1,0 +1,4 @@
+Terra Ravager {2}{R}{R}
+Creature — Elemental Beast
+Whenever Terra Ravager attacks, it gets +X/+0 until end of turn, where X is the number of lands defending player controls.
+0/4

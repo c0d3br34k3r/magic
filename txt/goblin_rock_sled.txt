@@ -1,0 +1,6 @@
+Goblin Rock Sled {1}{R}
+Creature — Goblin
+Trample
+Goblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.
+Goblin Rock Sled can't attack unless defending player controls a Mountain.
+3/1

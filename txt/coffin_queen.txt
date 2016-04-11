@@ -1,0 +1,5 @@
+Coffin Queen {2}{B}
+Creature — Zombie Wizard
+You may choose not to untap Coffin Queen during your untap step.
+{2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.
+1/1

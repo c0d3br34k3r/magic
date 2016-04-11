@@ -1,0 +1,4 @@
+Grave Robbers {1}{B}{B}
+Creature — Human Rogue
+{B}, {T}: Exile target artifact card from a graveyard. You gain 2 life.
+1/1

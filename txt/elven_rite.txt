@@ -1,0 +1,3 @@
+Elven Rite {1}{G}
+Sorcery
+Distribute two +1/+1 counters among one or two target creatures.

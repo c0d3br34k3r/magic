@@ -1,0 +1,5 @@
+Sensor Splicer {4}{W}
+Creature — Artificer
+When Sensor Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem creatures you control have vigilance.
+1/1

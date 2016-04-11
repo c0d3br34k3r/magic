@@ -1,0 +1,5 @@
+Nefarious Lich {B}{B}{B}{B}
+Enchantment
+If damage would be dealt to you, exile that many cards from your graveyard instead. If you can't, you lose the game.
+If you would gain life, draw that many cards instead.
+When Nefarious Lich leaves the battlefield, you lose the game.

@@ -1,0 +1,4 @@
+Mesa Enchantress {1}{W}{W}
+Creature — Human Druid
+Whenever you cast an enchantment spell, you may draw a card.
+0/2

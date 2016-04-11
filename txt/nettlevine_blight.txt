@@ -1,0 +1,4 @@
+Nettlevine Blight {4}{B}{B}
+Enchantment — Aura
+Enchant creature or land
+Enchanted permanent has "At the beginning of your end step, sacrifice this permanent and attach Nettlevine Blight to a creature or land you control."

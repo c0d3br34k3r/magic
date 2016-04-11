@@ -1,0 +1,6 @@
+Questing Phelddagrif {1}{W}{U}{G}
+Creature — Phelddagrif
+{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.
+{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.
+{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+4/4

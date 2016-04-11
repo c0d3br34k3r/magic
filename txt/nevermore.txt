@@ -1,0 +1,4 @@
+Nevermore {1}{W}{W}
+Enchantment
+As Nevermore enters the battlefield, name a nonland card.
+The named card can't be cast.

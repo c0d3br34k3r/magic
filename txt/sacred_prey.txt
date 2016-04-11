@@ -1,0 +1,4 @@
+Sacred Prey {G}
+Creature — Horse
+Whenever Sacred Prey becomes blocked, you gain 1 life.
+1/1

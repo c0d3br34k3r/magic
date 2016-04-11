@@ -1,0 +1,3 @@
+Essence Filter {1}{G}{G}
+Sorcery
+Destroy all enchantments or all nonwhite enchantments.

@@ -1,0 +1,4 @@
+Gruul Ragebeast {5}{R}{G}
+Creature — Beast
+Whenever Gruul Ragebeast or another creature enters the battlefield under your control, that creature fights target creature an opponent controls.
+6/6

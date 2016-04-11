@@ -1,0 +1,6 @@
+Goblin Dirigible {6}
+Artifact Creature — Construct
+Flying
+Goblin Dirigible doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {4}. If you do, untap Goblin Dirigible.
+4/4

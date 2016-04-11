@@ -1,0 +1,4 @@
+Kumano's Pupils {4}{R}
+Creature — Human Shaman
+If a creature dealt damage by Kumano's Pupils this turn would die, exile it instead.
+3/3

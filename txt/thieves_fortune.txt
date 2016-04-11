@@ -1,0 +1,4 @@
+Thieves' Fortune {2}{U}
+Tribal Instant — Rogue
+Prowl {U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.

@@ -1,0 +1,5 @@
+Cinderhaze Wretch {4}{B}
+Creature — Elemental Shaman
+{T}: Target player discards a card. Activate this ability only during your turn.
+Put a -1/-1 counter on Cinderhaze Wretch: Untap Cinderhaze Wretch.
+3/2

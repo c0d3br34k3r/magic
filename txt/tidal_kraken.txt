@@ -1,0 +1,4 @@
+Tidal Kraken {5}{U}{U}{U}
+Creature — Kraken
+Tidal Kraken can't be blocked.
+6/6

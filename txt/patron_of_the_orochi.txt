@@ -1,0 +1,5 @@
+Patron of the Orochi {6}{G}{G}
+Legendary Creature — Spirit
+Snake offering (You may cast this card any time you could cast an instant by sacrificing a Snake and paying the difference in mana costs between this and the sacrificed Snake. Mana cost includes color.)
+{T}: Untap all Forests and all green creatures. Activate this ability only once each turn.
+7/7

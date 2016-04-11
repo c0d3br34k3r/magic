@@ -1,0 +1,3 @@
+Divine Retribution {1}{W}
+Instant
+Divine Retribution deals damage to target attacking creature equal to the number of attacking creatures.

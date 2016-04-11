@@ -1,0 +1,3 @@
+Wicker Witch {3}
+Artifact Creature — Scarecrow
+3/1

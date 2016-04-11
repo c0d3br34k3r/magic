@@ -1,0 +1,4 @@
+Turbulent Dreams {U}{U}
+Sorcery
+As an additional cost to cast Turbulent Dreams, discard X cards.
+Return X target nonland permanents to their owners' hands.

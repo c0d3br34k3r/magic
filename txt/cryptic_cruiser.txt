@@ -1,0 +1,5 @@
+Cryptic Cruiser {3}{U}
+Creature — Eldrazi Processor
+Devoid (This card has no color.)
+{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.
+3/3

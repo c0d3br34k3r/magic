@@ -1,0 +1,4 @@
+Beetleback Chief {2}{R}{R}
+Creature — Goblin Warrior
+When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.
+2/2

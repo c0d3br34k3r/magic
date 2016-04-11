@@ -1,0 +1,4 @@
+Silburlind Snapper {5}{U}
+Creature — Turtle
+Silburlind Snapper can't attack unless you've cast a noncreature spell this turn.
+6/6

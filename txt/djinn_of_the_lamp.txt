@@ -1,0 +1,4 @@
+Djinn of the Lamp {5}{U}{U}
+Creature — Djinn
+Flying
+5/6

@@ -1,0 +1,5 @@
+Skyshroud Vampire {3}{B}{B}
+Creature — Vampire
+Flying
+Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.
+3/3

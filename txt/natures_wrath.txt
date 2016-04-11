@@ -1,0 +1,5 @@
+Nature's Wrath {4}{G}{G}
+Enchantment
+At the beginning of your upkeep, sacrifice Nature's Wrath unless you pay {G}.
+Whenever a player puts an Island or blue permanent onto the battlefield, he or she sacrifices an Island or blue permanent.
+Whenever a player puts a Swamp or black permanent onto the battlefield, he or she sacrifices a Swamp or black permanent.

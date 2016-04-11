@@ -1,0 +1,4 @@
+Dehydration {3}{U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature doesn't untap during its controller's untap step.

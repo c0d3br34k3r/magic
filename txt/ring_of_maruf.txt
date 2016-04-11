@@ -1,0 +1,3 @@
+Ring of Ma'rûf {5}
+Artifact
+{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.

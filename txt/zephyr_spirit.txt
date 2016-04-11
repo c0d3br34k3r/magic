@@ -1,0 +1,4 @@
+Zephyr Spirit {5}{U}
+Creature — Spirit
+When Zephyr Spirit blocks, return it to its owner's hand.
+0/6

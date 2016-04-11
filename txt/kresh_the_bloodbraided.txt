@@ -1,0 +1,4 @@
+Kresh the Bloodbraided {2}{B}{R}{G}
+Legendary Creature — Human Warrior
+Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+3/3

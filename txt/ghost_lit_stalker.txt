@@ -1,0 +1,5 @@
+Ghost-Lit Stalker {B}
+Creature — Spirit
+{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+Channel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.
+1/1

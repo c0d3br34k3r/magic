@@ -1,0 +1,4 @@
+Pygmy Allosaurus {2}{G}
+Creature — Lizard
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+2/2

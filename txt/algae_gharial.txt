@@ -1,0 +1,5 @@
+Algae Gharial {3}{G}
+Creature — Crocodile
+Shroud (This creature can't be the target of spells or abilities.)
+Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial.
+1/1

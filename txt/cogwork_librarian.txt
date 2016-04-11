@@ -1,0 +1,5 @@
+Cogwork Librarian {4}
+Artifact Creature — Construct
+Draft Cogwork Librarian face up.
+As you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.
+3/3

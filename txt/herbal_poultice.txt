@@ -1,0 +1,3 @@
+Herbal Poultice {0}
+Artifact
+{3}, Sacrifice Herbal Poultice: Regenerate target creature.

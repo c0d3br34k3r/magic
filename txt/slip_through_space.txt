@@ -1,0 +1,5 @@
+Slip Through Space {U}
+Sorcery
+Devoid (This card has no color.)
+Target creature can't be blocked this turn.
+Draw a card.

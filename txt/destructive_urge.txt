@@ -1,0 +1,4 @@
+Destructive Urge {1}{R}{R}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature deals combat damage to a player, that player sacrifices a land.

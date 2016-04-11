@@ -1,0 +1,3 @@
+Vedalken Orrery {4}
+Artifact
+You may cast nonland cards as though they had flash.

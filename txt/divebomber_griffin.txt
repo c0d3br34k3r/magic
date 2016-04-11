@@ -1,0 +1,5 @@
+Divebomber Griffin {3}{W}{W}
+Creature — Griffin
+Flying
+{T}, Sacrifice Divebomber Griffin: Divebomber Griffin deals 3 damage to target attacking or blocking creature.
+3/2

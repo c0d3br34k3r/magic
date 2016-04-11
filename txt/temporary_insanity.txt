@@ -1,0 +1,3 @@
+Temporary Insanity {3}{R}
+Instant
+Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.

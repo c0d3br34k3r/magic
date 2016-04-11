@@ -1,0 +1,4 @@
+Warped Researcher {4}{U}
+Creature — Human Wizard Mutant
+Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. (It can't be the target of spells or abilities.)
+3/4

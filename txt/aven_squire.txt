@@ -1,0 +1,5 @@
+Aven Squire {1}{W}
+Creature — Bird Soldier
+Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+1/1

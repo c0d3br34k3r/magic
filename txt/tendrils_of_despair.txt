@@ -1,0 +1,4 @@
+Tendrils of Despair {B}
+Sorcery
+As an additional cost to cast Tendrils of Despair, sacrifice a creature.
+Target opponent discards two cards.

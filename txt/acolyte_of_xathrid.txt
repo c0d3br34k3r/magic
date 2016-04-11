@@ -1,0 +1,4 @@
+Acolyte of Xathrid {B}
+Creature — Human Cleric
+{1}{B}, {T}: Target player loses 1 life.
+0/1

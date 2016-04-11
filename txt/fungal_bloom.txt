@@ -1,0 +1,3 @@
+Fungal Bloom {G}{G}
+Enchantment
+{G}{G}: Put a spore counter on target Fungus.

@@ -1,0 +1,5 @@
+Pestilence Demon {5}{B}{B}{B}
+Creature — Demon
+Flying
+{B}: Pestilence Demon deals 1 damage to each creature and each player.
+7/6

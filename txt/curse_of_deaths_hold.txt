@@ -1,0 +1,4 @@
+Curse of Death's Hold {3}{B}{B}
+Enchantment — Aura Curse
+Enchant player
+Creatures enchanted player controls get -1/-1.

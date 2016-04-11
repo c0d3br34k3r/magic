@@ -1,0 +1,4 @@
+Valakut Fireboar {4}{R}
+Creature — Elemental Boar
+Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.
+1/7

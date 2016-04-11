@@ -1,0 +1,10 @@
+Kabira Vindicator {3}{W}
+Creature — Human Knight
+Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-4
+3/6
+Other creatures you control get +1/+1.
+LEVEL 5+
+4/8
+Other creatures you control get +2/+2.
+2/4

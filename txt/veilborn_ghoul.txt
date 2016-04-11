@@ -1,0 +1,5 @@
+Veilborn Ghoul {4}{B}
+Creature — Zombie
+Veilborn Ghoul can't block.
+Whenever a Swamp enters the battlefield under your control, you may return Veilborn Ghoul from your graveyard to your hand.
+4/1

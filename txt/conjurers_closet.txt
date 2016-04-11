@@ -1,0 +1,3 @@
+Conjurer's Closet {5}
+Artifact
+At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.

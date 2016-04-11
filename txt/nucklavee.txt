@@ -1,0 +1,5 @@
+Nucklavee {4}{U/R}{U/R}
+Creature — Beast
+When Nucklavee enters the battlefield, you may return target red sorcery card from your graveyard to your hand.
+When Nucklavee enters the battlefield, you may return target blue instant card from your graveyard to your hand.
+4/4

@@ -1,0 +1,4 @@
+False Demise {2}{U}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.

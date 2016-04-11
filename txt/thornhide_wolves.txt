@@ -1,0 +1,3 @@
+Thornhide Wolves {4}{G}
+Creature — Wolf
+4/5

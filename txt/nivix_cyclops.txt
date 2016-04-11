@@ -1,0 +1,5 @@
+Nivix Cyclops {1}{U}{R}
+Creature — Cyclops
+Defender
+Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
+1/4

@@ -1,0 +1,3 @@
+Marsh Gas {B}
+Instant
+All creatures get -2/-0 until end of turn.

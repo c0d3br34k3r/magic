@@ -1,0 +1,4 @@
+Silkenfist Fighter {1}{W}
+Creature — Kor Soldier
+Whenever Silkenfist Fighter becomes blocked, untap it.
+1/3

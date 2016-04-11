@@ -1,0 +1,4 @@
+Tracker {2}{G}
+Creature — Human
+{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.
+2/2

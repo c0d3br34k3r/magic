@@ -1,0 +1,4 @@
+Riptide Laboratory
+Land
+{T}: Add {C} to your mana pool.
+{1}{U}, {T}: Return target Wizard you control to its owner's hand.

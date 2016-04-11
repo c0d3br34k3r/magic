@@ -1,0 +1,3 @@
+Fluctuator {2}
+Artifact
+Cycling abilities you activate cost you up to {2} less to activate.

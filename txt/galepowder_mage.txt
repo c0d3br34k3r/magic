@@ -1,0 +1,5 @@
+Galepowder Mage {3}{W}
+Creature — Kithkin Wizard
+Flying
+Whenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+3/3

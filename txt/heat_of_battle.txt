@@ -1,0 +1,3 @@
+Heat of Battle {1}{R}
+Enchantment
+Whenever a creature blocks, Heat of Battle deals 1 damage to that creature's controller.

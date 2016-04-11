@@ -1,0 +1,4 @@
+Wildwood Geist {4}{G}
+Creature — Spirit
+Wildwood Geist gets +2/+2 as long as it's your turn.
+3/3

@@ -1,0 +1,4 @@
+Voice of Grace {3}{W}
+Creature — Angel
+Flying, protection from black
+2/2

@@ -1,0 +1,4 @@
+Mardu Blazebringer {2}{R}
+Creature — Ogre Warrior
+When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.
+4/4

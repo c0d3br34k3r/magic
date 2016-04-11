@@ -1,0 +1,4 @@
+Torrent of Lava {X}{R}{R}
+Sorcery
+Torrent of Lava deals X damage to each creature without flying.
+As long as Torrent of Lava is on the stack, each creature has "{T}: Prevent the next 1 damage that would be dealt to this creature by Torrent of Lava this turn."

@@ -1,0 +1,4 @@
+Disharmony {2}{R}
+Instant
+Cast Disharmony only during combat before blockers are declared.
+Untap target attacking creature and remove it from combat. Gain control of that creature until end of turn.

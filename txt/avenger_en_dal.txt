@@ -1,0 +1,4 @@
+Avenger en-Dal {1}{W}
+Creature — Human Spellshaper
+{2}{W}, {T}, Discard a card: Exile target attacking creature. Its controller gains life equal to its toughness.
+1/1

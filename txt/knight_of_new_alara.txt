@@ -1,0 +1,4 @@
+Knight of New Alara {2}{W}{G}
+Creature — Human Knight
+Each other multicolored creature you control gets +1/+1 for each of its colors.
+2/2

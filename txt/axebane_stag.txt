@@ -1,0 +1,3 @@
+Axebane Stag {6}{G}
+Creature — Elk
+6/7

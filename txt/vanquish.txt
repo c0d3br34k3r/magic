@@ -1,0 +1,3 @@
+Vanquish {2}{W}
+Instant
+Destroy target blocking creature.

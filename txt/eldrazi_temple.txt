@@ -1,0 +1,4 @@
+Eldrazi Temple
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {C}{C} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.

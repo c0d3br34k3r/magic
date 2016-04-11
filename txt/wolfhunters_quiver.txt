@@ -1,0 +1,4 @@
+Wolfhunter's Quiver {1}
+Artifact — Equipment
+Equipped creature has "{T}: This creature deals 1 damage to target creature or player" and "{T}: This creature deals 3 damage to target Werewolf creature."
+Equip {5}

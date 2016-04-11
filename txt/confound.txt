@@ -1,0 +1,4 @@
+Confound {1}{U}
+Instant
+Counter target spell that targets one or more creatures.
+Draw a card.

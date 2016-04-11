@@ -1,0 +1,5 @@
+Archon of Justice {3}{W}{W}
+Creature — Archon
+Flying
+When Archon of Justice dies, exile target permanent.
+4/4

@@ -1,0 +1,4 @@
+Imposing Visage {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has menace. (It can't be blocked except by two or more creatures.)

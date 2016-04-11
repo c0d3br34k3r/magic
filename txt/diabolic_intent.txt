@@ -1,0 +1,4 @@
+Diabolic Intent {1}{B}
+Sorcery
+As an additional cost to cast Diabolic Intent, sacrifice a creature.
+Search your library for a card and put that card into your hand. Then shuffle your library.

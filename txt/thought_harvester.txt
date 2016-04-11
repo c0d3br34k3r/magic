@@ -1,0 +1,6 @@
+Thought Harvester {3}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Flying
+Whenever you cast a colorless spell, target opponent exiles the top card of his or her library.
+2/4

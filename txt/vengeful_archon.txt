@@ -1,0 +1,5 @@
+Vengeful Archon {4}{W}{W}{W}
+Creature — Archon
+Flying
+{X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.
+7/7

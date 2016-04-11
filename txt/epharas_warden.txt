@@ -1,0 +1,4 @@
+Ephara's Warden {3}{W}
+Creature — Human Cleric
+{T}: Tap target creature with power 3 or less.
+1/2

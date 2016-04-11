@@ -1,0 +1,4 @@
+Hammer Mage {1}{R}
+Creature — Human Spellshaper
+{X}{R}, {T}, Discard a card: Destroy all artifacts with converted mana cost X or less.
+1/1

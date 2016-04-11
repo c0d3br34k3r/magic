@@ -1,0 +1,4 @@
+Heroes Remembered {6}{W}{W}{W}
+Sorcery
+You gain 20 life.
+Suspend 10—{W} (Rather than cast this card from your hand, you may pay {W} and exile it with ten time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)

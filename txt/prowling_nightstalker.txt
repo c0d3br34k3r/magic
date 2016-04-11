@@ -1,0 +1,4 @@
+Prowling Nightstalker {3}{B}
+Creature — Nightstalker
+Prowling Nightstalker can't be blocked except by black creatures.
+2/2

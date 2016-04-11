@@ -1,0 +1,4 @@
+Seasoned Marshal {2}{W}{W}
+Creature — Human Soldier
+Whenever Seasoned Marshal attacks, you may tap target creature.
+2/2

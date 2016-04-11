@@ -1,0 +1,3 @@
+Slime Molding {X}{G}
+Sorcery
+Put an X/X green Ooze creature token onto the battlefield.

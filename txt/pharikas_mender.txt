@@ -1,0 +1,4 @@
+Pharika's Mender {3}{B}{G}
+Creature — Gorgon
+When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.
+4/3

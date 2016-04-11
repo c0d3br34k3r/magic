@@ -1,0 +1,5 @@
+Pillar of War {3}
+Artifact Creature — Golem
+Defender
+As long as Pillar of War is enchanted, it can attack as though it didn't have defender.
+3/3

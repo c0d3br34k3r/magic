@@ -1,0 +1,4 @@
+Violent Eruption {1}{R}{R}{R}
+Instant
+Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players.
+Madness {1}{R}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

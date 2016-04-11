@@ -1,0 +1,4 @@
+Rusted Slasher {4}
+Artifact Creature — Horror
+Sacrifice an artifact: Regenerate Rusted Slasher.
+4/1

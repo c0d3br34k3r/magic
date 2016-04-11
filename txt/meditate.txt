@@ -1,0 +1,3 @@
+Meditate {2}{U}
+Instant
+Draw four cards. You skip your next turn.

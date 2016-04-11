@@ -1,0 +1,5 @@
+Breaching Hippocamp {3}{U}
+Creature — Horse Fish
+Flash (You may cast this spell any time you could cast an instant.)
+When Breaching Hippocamp enters the battlefield, untap another target creature you control.
+3/2

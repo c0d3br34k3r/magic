@@ -1,0 +1,5 @@
+Hero of Iroas {1}{W}
+Creature — Human Soldier
+Aura spells you cast cost {1} less to cast.
+Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas.
+2/2

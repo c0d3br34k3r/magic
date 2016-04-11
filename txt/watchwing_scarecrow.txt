@@ -1,0 +1,5 @@
+Watchwing Scarecrow {4}
+Artifact Creature — Scarecrow
+Watchwing Scarecrow has vigilance as long as you control a white creature.
+Watchwing Scarecrow has flying as long as you control a blue creature.
+2/4

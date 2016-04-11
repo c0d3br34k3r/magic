@@ -1,0 +1,3 @@
+Beacon of Creation {3}{G}
+Sorcery
+Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.

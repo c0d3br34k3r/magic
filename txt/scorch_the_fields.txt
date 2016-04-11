@@ -1,0 +1,3 @@
+Scorch the Fields {4}{R}
+Sorcery
+Destroy target land. Scorch the Fields deals 1 damage to each Human creature.

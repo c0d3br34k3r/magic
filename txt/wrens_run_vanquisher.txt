@@ -1,0 +1,5 @@
+Wren's Run Vanquisher {1}{G}
+Creature — Elf Warrior
+As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+3/3

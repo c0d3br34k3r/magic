@@ -1,0 +1,4 @@
+Quagmire Druid {2}{B}
+Creature — Zombie Druid
+{G}, {T}, Sacrifice a creature: Destroy target enchantment.
+2/2

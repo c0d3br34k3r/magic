@@ -1,0 +1,7 @@
+Entropic Specter {3}{B}{B}
+Creature — Specter Spirit
+Flying
+As Entropic Specter enters the battlefield, choose an opponent.
+Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand.
+Whenever Entropic Specter deals damage to a player, that player discards a card.
+*/*

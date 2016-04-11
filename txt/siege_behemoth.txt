@@ -1,0 +1,5 @@
+Siege Behemoth {5}{G}{G}
+Creature — Beast
+Hexproof
+As long as Siege Behemoth is attacking, for each creature you control, you may have that creature assign its combat damage as though it weren't blocked.
+7/4

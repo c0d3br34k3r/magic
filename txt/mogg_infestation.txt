@@ -1,0 +1,3 @@
+Mogg Infestation {3}{R}{R}
+Sorcery
+Destroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.

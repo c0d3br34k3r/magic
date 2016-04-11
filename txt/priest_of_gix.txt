@@ -1,0 +1,4 @@
+Priest of Gix {2}{B}
+Creature — Human Cleric Minion
+When Priest of Gix enters the battlefield, add {B}{B}{B} to your mana pool.
+2/1

@@ -1,0 +1,5 @@
+Wooden Stake {2}
+Artifact — Equipment
+Equipped creature gets +1/+0.
+Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

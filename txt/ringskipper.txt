@@ -1,0 +1,5 @@
+Ringskipper {1}{U}
+Creature — Faerie Wizard
+Flying
+When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+1/1

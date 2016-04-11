@@ -1,0 +1,4 @@
+Nostalgic Dreams {G}{G}
+Sorcery
+As an additional cost to cast Nostalgic Dreams, discard X cards.
+Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams.

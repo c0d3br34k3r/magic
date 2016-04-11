@@ -1,0 +1,4 @@
+Cinder Crawler {1}{R}
+Creature — Salamander
+{R}: Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked.
+1/2

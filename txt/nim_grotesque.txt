@@ -1,0 +1,4 @@
+Nim Grotesque {6}{B}
+Creature — Zombie
+Nim Grotesque gets +1/+0 for each artifact you control.
+3/6

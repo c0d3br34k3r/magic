@@ -1,0 +1,4 @@
+Locust Miser {2}{B}{B}
+Creature — Rat Shaman
+Each opponent's maximum hand size is reduced by two.
+2/2

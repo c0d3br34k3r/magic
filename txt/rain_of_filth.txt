@@ -1,0 +1,3 @@
+Rain of Filth {B}
+Instant
+Until end of turn, lands you control gain "Sacrifice this land: Add {B} to your mana pool."

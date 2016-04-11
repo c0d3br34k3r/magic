@@ -1,0 +1,4 @@
+Anurid Brushhopper {1}{W}{G}
+Creature — Frog Beast
+Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.
+3/4

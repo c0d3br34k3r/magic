@@ -1,0 +1,4 @@
+Loaming Shaman {2}{G}
+Creature — Centaur Shaman
+When Loaming Shaman enters the battlefield, target player shuffles any number of target cards from his or her graveyard into his or her library.
+3/2

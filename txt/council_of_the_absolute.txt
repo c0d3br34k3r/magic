@@ -1,0 +1,6 @@
+Council of the Absolute {2}{W}{U}
+Creature — Human Advisor
+As Council of the Absolute enters the battlefield, name a card other than a creature or land card.
+Your opponents can't cast cards with the chosen name.
+Spells with the chosen name you cast cost {2} less to cast.
+2/4

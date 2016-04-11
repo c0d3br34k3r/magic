@@ -1,0 +1,4 @@
+Quagmire Lamprey {2}{B}
+Creature — Fish
+Whenever Quagmire Lamprey becomes blocked by a creature, put a -1/-1 counter on that creature.
+1/1

@@ -1,0 +1,5 @@
+Drogskol Reaver {5}{W}{U}
+Creature — Spirit
+Flying, double strike, lifelink
+Whenever you gain life, draw a card.
+3/5

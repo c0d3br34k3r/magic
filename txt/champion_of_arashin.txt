@@ -1,0 +1,4 @@
+Champion of Arashin {3}{W}
+Creature — Hound Warrior
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+3/2

@@ -1,0 +1,5 @@
+Blood Cultist {1}{B}{R}
+Creature — Human Wizard
+{T}: Blood Cultist deals 1 damage to target creature.
+Whenever a creature dealt damage by Blood Cultist this turn dies, put a +1/+1 counter on Blood Cultist.
+1/1

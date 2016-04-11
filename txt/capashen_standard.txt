@@ -1,0 +1,5 @@
+Capashen Standard {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+{2}, Sacrifice Capashen Standard: Draw a card.

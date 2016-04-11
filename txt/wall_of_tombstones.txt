@@ -1,0 +1,5 @@
+Wall of Tombstones {1}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+At the beginning of your upkeep, change Wall of Tombstones's base toughness to 1 plus the number of creature cards in your graveyard. (This effect lasts indefinitely.)
+0/1

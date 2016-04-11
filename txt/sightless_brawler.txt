@@ -1,0 +1,6 @@
+Sightless Brawler {1}{W}
+Enchantment Creature — Human Warrior
+Bestow {4}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Sightless Brawler can't attack alone.
+Enchanted creature gets +3/+2 and can't attack alone.
+3/2

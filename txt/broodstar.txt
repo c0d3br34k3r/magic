@@ -1,0 +1,6 @@
+Broodstar {8}{U}{U}
+Creature — Beast
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+Broodstar's power and toughness are each equal to the number of artifacts you control.
+*/*

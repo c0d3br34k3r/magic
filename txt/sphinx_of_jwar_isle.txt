@@ -1,0 +1,6 @@
+Sphinx of Jwar Isle {4}{U}{U}
+Creature — Sphinx
+Flying
+Shroud (This creature can't be the target of spells or abilities.)
+You may look at the top card of your library. (You may do this at any time.)
+5/5

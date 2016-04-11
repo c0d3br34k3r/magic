@@ -1,0 +1,3 @@
+General's Regalia {3}
+Artifact
+{3}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature you control instead.

@@ -1,0 +1,4 @@
+Inkfathom Infiltrator {U/B}{U/B}
+Creature — Merfolk Rogue
+Inkfathom Infiltrator can't block and can't be blocked.
+2/1

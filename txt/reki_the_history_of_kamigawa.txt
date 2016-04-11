@@ -1,0 +1,4 @@
+Reki, the History of Kamigawa {2}{G}
+Legendary Creature — Human Shaman
+Whenever you cast a legendary spell, draw a card.
+1/2

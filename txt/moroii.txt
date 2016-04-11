@@ -1,0 +1,5 @@
+Moroii {2}{U}{B}
+Creature — Vampire
+Flying
+At the beginning of your upkeep, you lose 1 life.
+4/4

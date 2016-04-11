@@ -1,0 +1,6 @@
+Jeskai Charm {W}{U}{R}
+Instant
+Choose one —
+• Put target creature on top of its owner's library.
+• Jeskai Charm deals 4 damage to target opponent.
+• Creatures you control get +1/+1 and gain lifelink until end of turn.

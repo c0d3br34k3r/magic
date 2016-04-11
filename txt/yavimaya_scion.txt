@@ -1,0 +1,4 @@
+Yavimaya Scion {4}{G}
+Creature — Treefolk
+Protection from artifacts
+4/4

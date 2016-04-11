@@ -1,0 +1,7 @@
+Blizzard Specter {2}{U}{B}
+Snow Creature — Specter
+Flying
+Whenever Blizzard Specter deals combat damage to a player, choose one —
+• That player returns a permanent he or she controls to its owner's hand.
+• That player discards a card.
+2/3

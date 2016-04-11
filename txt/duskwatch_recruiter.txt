@@ -1,0 +1,11 @@
+Duskwatch Recruiter {1}{G}
+Creature — Human Warrior Werewolf
+{2}{G}: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+At the beginning of each upkeep, if no spells were cast last turn, transform Duskwatch Recruiter.
+2/2
+* DOUBLE-FACED *
+Krallenhorde Howler
+Creature — Werewolf
+Creature spells you cast cost {1} less to cast.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Howler.
+3/3

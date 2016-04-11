@@ -1,0 +1,5 @@
+Uktabi Wildcats {4}{G}
+Creature — Cat
+Uktabi Wildcats's power and toughness are each equal to the number of Forests you control.
+{G}, Sacrifice a Forest: Regenerate Uktabi Wildcats.
+*/*

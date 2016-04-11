@@ -1,0 +1,3 @@
+Emerald Medallion {2}
+Artifact
+Green spells you cast cost {1} less to cast.

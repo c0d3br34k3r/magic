@@ -1,0 +1,5 @@
+Angelic Destiny {2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.
+When enchanted creature dies, return Angelic Destiny to its owner's hand.

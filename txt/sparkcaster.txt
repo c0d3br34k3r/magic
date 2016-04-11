@@ -1,0 +1,5 @@
+Sparkcaster {2}{R}{G}
+Creature — Kavu
+When Sparkcaster enters the battlefield, return a red or green creature you control to its owner's hand.
+When Sparkcaster enters the battlefield, it deals 1 damage to target player.
+5/3

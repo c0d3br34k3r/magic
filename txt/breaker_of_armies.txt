@@ -1,0 +1,4 @@
+Breaker of Armies {8}
+Creature — Eldrazi
+All creatures able to block Breaker of Armies do so.
+10/8

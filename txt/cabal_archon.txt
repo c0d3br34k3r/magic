@@ -1,0 +1,4 @@
+Cabal Archon {2}{B}
+Creature — Human Cleric
+{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.
+2/2

@@ -1,0 +1,4 @@
+Battering Sliver {5}{R}
+Creature — Sliver
+All Sliver creatures have trample.
+4/4

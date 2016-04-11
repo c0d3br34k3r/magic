@@ -1,0 +1,6 @@
+Merchant Ship {U}
+Creature — Human
+Merchant Ship can't attack unless defending player controls an Island.
+Whenever Merchant Ship attacks and isn't blocked, you gain 2 life.
+When you control no Islands, sacrifice Merchant Ship.
+0/2

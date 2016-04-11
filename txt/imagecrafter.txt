@@ -1,0 +1,4 @@
+Imagecrafter {U}
+Creature — Human Wizard
+{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.
+1/1

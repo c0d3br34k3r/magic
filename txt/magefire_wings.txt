@@ -1,0 +1,4 @@
+Magefire Wings {U}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0 and has flying.

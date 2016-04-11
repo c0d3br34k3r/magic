@@ -1,0 +1,4 @@
+Angel of Light {4}{W}
+Creature — Angel
+Flying, vigilance
+3/3

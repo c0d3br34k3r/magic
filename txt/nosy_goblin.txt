@@ -1,0 +1,4 @@
+Nosy Goblin {2}{R}
+Creature — Goblin
+{T}, Sacrifice Nosy Goblin: Destroy target face-down creature.
+2/1

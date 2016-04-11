@@ -1,0 +1,3 @@
+Sulfurous Blast {2}{R}{R}
+Instant
+Sulfurous Blast deals 2 damage to each creature and each player. If you cast this spell during your main phase, Sulfurous Blast deals 3 damage to each creature and each player instead.

@@ -1,0 +1,4 @@
+Sickle Ripper {1}{B}
+Creature — Elemental Warrior
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+2/1

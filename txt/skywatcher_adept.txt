@@ -1,0 +1,10 @@
+Skywatcher Adept {U}
+Creature — Merfolk Wizard
+Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+2/2
+Flying
+LEVEL 3+
+4/2
+Flying
+1/1

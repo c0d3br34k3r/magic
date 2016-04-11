@@ -1,0 +1,3 @@
+Veiled Crocodile {2}{U}
+Enchantment
+When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature.

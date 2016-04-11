@@ -1,0 +1,5 @@
+Nectar Faerie {1}{B}
+Creature — Faerie Wizard
+Flying
+{B}, {T}: Target Faerie or Elf gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+1/1

@@ -1,0 +1,5 @@
+Ebon Stronghold
+Land
+Ebon Stronghold enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.

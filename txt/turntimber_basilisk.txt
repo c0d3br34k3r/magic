@@ -1,0 +1,5 @@
+Turntimber Basilisk {1}{G}{G}
+Creature — Basilisk
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Landfall — Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.
+2/1

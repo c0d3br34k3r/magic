@@ -1,0 +1,4 @@
+Maalfeld Twins {5}{B}
+Creature — Zombie
+When Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.
+4/4

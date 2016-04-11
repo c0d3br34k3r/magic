@@ -1,0 +1,4 @@
+Fall of the Titans {X}{X}{R}
+Instant
+Surge {X}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Fall of the Titans deals X damage to each of up to two target creatures and/or players.

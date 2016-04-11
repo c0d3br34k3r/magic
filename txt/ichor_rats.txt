@@ -1,0 +1,5 @@
+Ichor Rats {1}{B}{B}
+Creature — Rat
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Ichor Rats enters the battlefield, each player gets a poison counter.
+2/1

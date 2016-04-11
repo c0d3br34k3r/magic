@@ -1,0 +1,5 @@
+Blind Zealot {1}{B}{B}
+Creature — Human Cleric
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.
+2/2

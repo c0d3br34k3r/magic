@@ -1,0 +1,4 @@
+Fallow Wurm {2}{G}
+Creature — Wurm
+When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.
+4/4

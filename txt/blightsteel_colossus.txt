@@ -1,0 +1,5 @@
+Blightsteel Colossus {12}
+Artifact Creature — Golem
+Trample, infect, indestructible
+If Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.
+11/11

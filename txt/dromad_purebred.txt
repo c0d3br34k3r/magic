@@ -1,0 +1,4 @@
+Dromad Purebred {4}{W}
+Creature — Camel Beast
+Whenever Dromad Purebred is dealt damage, you gain 1 life.
+1/5

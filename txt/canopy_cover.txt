@@ -1,0 +1,5 @@
+Canopy Cover {1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked except by creatures with flying or reach.
+Enchanted creature can't be the target of spells or abilities your opponents control.

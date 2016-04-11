@@ -1,0 +1,3 @@
+Blossoming Wreath {G}
+Instant
+You gain life equal to the number of creature cards in your graveyard.

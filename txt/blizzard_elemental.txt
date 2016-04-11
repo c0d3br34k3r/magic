@@ -1,0 +1,5 @@
+Blizzard Elemental {5}{U}{U}
+Creature — Elemental
+Flying
+{3}{U}: Untap Blizzard Elemental.
+5/5

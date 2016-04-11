@@ -1,0 +1,3 @@
+Dream Salvage {U/B}
+Instant
+Draw cards equal to the number of cards target opponent discarded this turn.

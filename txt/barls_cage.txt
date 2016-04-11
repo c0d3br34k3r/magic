@@ -1,0 +1,3 @@
+Barl's Cage {4}
+Artifact
+{3}: Target creature doesn't untap during its controller's next untap step.

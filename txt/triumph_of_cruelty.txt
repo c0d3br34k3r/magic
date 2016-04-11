@@ -1,0 +1,3 @@
+Triumph of Cruelty {2}{B}
+Enchantment
+At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.

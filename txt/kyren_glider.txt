@@ -1,0 +1,5 @@
+Kyren Glider {1}{R}
+Creature — Goblin
+Flying
+Kyren Glider can't block.
+1/1

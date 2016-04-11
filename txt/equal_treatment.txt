@@ -1,0 +1,4 @@
+Equal Treatment {1}{W}
+Instant
+If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.
+Draw a card.

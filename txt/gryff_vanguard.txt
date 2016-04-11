@@ -1,0 +1,5 @@
+Gryff Vanguard {4}{U}
+Creature — Human Knight
+Flying
+When Gryff Vanguard enters the battlefield, draw a card.
+3/2

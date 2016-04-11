@@ -1,0 +1,5 @@
+Soldevi Excavations
+Land
+If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {C}{U} to your mana pool.
+{1}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)

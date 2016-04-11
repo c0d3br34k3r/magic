@@ -1,0 +1,5 @@
+Savra, Queen of the Golgari {2}{B}{G}
+Legendary Creature — Elf Shaman
+Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature.
+Whenever you sacrifice a green creature, you may gain 2 life.
+2/2

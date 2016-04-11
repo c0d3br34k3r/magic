@@ -1,0 +1,4 @@
+Arbalest Elite {2}{W}{W}
+Creature — Human Archer
+{2}{W}, {T}: Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.
+2/3

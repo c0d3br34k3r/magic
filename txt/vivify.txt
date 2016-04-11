@@ -1,0 +1,4 @@
+Vivify {2}{G}
+Instant
+Target land becomes a 3/3 creature until end of turn. It's still a land.
+Draw a card.

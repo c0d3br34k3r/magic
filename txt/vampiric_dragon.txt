@@ -1,0 +1,6 @@
+Vampiric Dragon {6}{B}{R}
+Creature — Vampire Dragon
+Flying
+Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.
+{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+5/5

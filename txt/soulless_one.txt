@@ -1,0 +1,4 @@
+Soulless One {3}{B}
+Creature — Zombie Avatar
+Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.
+*/*

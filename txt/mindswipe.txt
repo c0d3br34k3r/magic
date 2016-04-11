@@ -1,0 +1,3 @@
+Mindswipe {X}{U}{R}
+Instant
+Counter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.

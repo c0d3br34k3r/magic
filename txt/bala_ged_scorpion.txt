@@ -1,0 +1,4 @@
+Bala Ged Scorpion {3}{B}
+Creature — Scorpion
+When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.
+2/3

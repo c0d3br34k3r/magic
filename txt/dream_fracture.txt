@@ -1,0 +1,4 @@
+Dream Fracture {1}{U}{U}
+Instant
+Counter target spell. Its controller draws a card.
+Draw a card.

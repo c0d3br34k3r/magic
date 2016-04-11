@@ -1,0 +1,4 @@
+Wizard Mentor {2}{U}
+Creature — Human Wizard
+{T}: Return Wizard Mentor and target creature you control to their owner's hand.
+2/2

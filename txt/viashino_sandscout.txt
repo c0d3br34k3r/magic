@@ -1,0 +1,5 @@
+Viashino Sandscout {1}{R}
+Creature — Viashino Scout
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, return Viashino Sandscout to its owner's hand. (Return it only if it's on the battlefield.)
+2/1

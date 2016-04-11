@@ -1,0 +1,4 @@
+Argivian Blacksmith {1}{W}{W}
+Creature — Human Artificer
+{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.
+2/2

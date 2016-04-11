@@ -1,0 +1,3 @@
+Bane Alley Blackguard {1}{B}
+Creature — Human Rogue
+1/3

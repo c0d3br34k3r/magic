@@ -1,0 +1,4 @@
+Seismic Mage {3}{R}
+Creature — Human Spellshaper
+{2}{R}, {T}, Discard a card: Destroy target land.
+1/1

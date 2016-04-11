@@ -1,0 +1,4 @@
+Argothian Swine {3}{G}
+Creature — Boar
+Trample
+3/3

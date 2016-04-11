@@ -1,0 +1,5 @@
+Scythe Tiger {G}
+Creature — Cat
+Shroud (This creature can't be the target of spells or abilities.)
+When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.
+3/2

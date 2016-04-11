@@ -1,0 +1,5 @@
+Pale Rider of Trostad {1}{B}
+Creature — Spirit
+Skulk (This creature can't be blocked by creatures with greater power.)
+When Pale Rider of Trostad enters the battlefield, discard a card.
+3/3

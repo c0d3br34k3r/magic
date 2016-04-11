@@ -1,0 +1,5 @@
+Workhorse {6}
+Artifact Creature — Horse
+Workhorse enters the battlefield with four +1/+1 counters on it.
+Remove a +1/+1 counter from Workhorse: Add {C} to your mana pool.
+0/0

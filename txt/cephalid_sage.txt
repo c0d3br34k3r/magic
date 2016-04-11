@@ -1,0 +1,4 @@
+Cephalid Sage {3}{U}
+Creature — Cephalid
+Threshold — As long as seven or more cards are in your graveyard, Cephalid Sage has "When Cephalid Sage enters the battlefield, draw three cards, then discard two cards."
+2/3

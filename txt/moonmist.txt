@@ -1,0 +1,3 @@
+Moonmist {1}{G}
+Instant
+Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.)

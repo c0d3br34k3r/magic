@@ -1,0 +1,4 @@
+Teeka's Dragon {9}
+Artifact Creature — Dragon
+Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)
+5/5

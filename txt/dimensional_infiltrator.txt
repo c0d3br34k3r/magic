@@ -1,0 +1,7 @@
+Dimensional Infiltrator {1}{U}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Flash
+Flying
+{1}{C}: Target opponent exiles the top card of his or her library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. ({C} represents colorless mana.)
+2/1

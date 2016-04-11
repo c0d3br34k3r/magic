@@ -1,0 +1,3 @@
+Crackling Perimeter {1}{R}
+Enchantment
+Tap an untapped Gate you control: Crackling Perimeter deals 1 damage to each opponent.

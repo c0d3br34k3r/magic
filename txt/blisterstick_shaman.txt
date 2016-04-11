@@ -1,0 +1,4 @@
+Blisterstick Shaman {2}{R}
+Creature — Goblin Shaman
+When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.
+2/1

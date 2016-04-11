@@ -1,0 +1,4 @@
+Ruinous Path {1}{B}{B}
+Sorcery
+Destroy target creature or planeswalker.
+Awaken 4—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)

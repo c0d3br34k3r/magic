@@ -1,0 +1,5 @@
+Ghostfire Blade {1}
+Artifact — Equipment
+Equipped creature gets +2/+2.
+Equip {3}
+Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.

@@ -1,0 +1,4 @@
+Gustcloak Sentinel {2}{W}{W}
+Creature — Human Soldier
+Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.
+3/3

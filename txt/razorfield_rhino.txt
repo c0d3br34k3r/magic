@@ -1,0 +1,4 @@
+Razorfield Rhino {6}
+Artifact Creature — Rhino
+Metalcraft — Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.
+4/4

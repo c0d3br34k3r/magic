@@ -1,0 +1,4 @@
+Fledgling Imp {2}{B}
+Creature — Imp
+{B}, Discard a card: Fledgling Imp gains flying until end of turn.
+2/2

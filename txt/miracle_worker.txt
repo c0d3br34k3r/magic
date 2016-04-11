@@ -1,0 +1,4 @@
+Miracle Worker {W}
+Creature — Human Cleric
+{T}: Destroy target Aura attached to a creature you control.
+1/1

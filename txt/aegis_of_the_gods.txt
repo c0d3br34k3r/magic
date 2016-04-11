@@ -1,0 +1,4 @@
+Aegis of the Gods {1}{W}
+Enchantment Creature — Human Soldier
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+2/1

@@ -1,0 +1,4 @@
+Vampire's Bite {B}
+Instant
+Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)

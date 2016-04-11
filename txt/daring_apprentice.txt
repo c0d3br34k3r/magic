@@ -1,0 +1,4 @@
+Daring Apprentice {1}{U}{U}
+Creature — Human Wizard
+{T}, Sacrifice Daring Apprentice: Counter target spell.
+1/1

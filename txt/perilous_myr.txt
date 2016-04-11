@@ -1,0 +1,4 @@
+Perilous Myr {2}
+Artifact Creature — Myr
+When Perilous Myr dies, it deals 2 damage to target creature or player.
+1/1

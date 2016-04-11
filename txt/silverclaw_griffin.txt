@@ -1,0 +1,4 @@
+Silverclaw Griffin {3}{W}{W}
+Creature — Griffin
+Flying, first strike
+3/2

@@ -1,0 +1,4 @@
+Heritage Druid {G}
+Creature — Elf Druid
+Tap three untapped Elves you control: Add {G}{G}{G} to your mana pool.
+1/1

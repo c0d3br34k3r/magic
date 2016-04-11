@@ -1,0 +1,5 @@
+Seton's Scout {1}{G}
+Creature — Centaur Druid Scout Archer
+Reach (This creature can block creatures with flying.)
+Threshold — Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.
+2/1

@@ -1,0 +1,4 @@
+Encrust {1}{U}{U}
+Enchantment — Aura
+Enchant artifact or creature
+Enchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.

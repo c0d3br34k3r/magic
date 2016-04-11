@@ -1,0 +1,3 @@
+Strafe {R}
+Sorcery
+Strafe deals 3 damage to target nonred creature.

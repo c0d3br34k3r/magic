@@ -1,0 +1,6 @@
+Geralf's Messenger {B}{B}{B}
+Creature — Zombie
+Geralf's Messenger enters the battlefield tapped.
+When Geralf's Messenger enters the battlefield, target opponent loses 2 life.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+3/2

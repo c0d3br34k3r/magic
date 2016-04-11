@@ -1,0 +1,5 @@
+Witchstalker {1}{G}{G}
+Creature — Wolf
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever an opponent casts a blue or black spell during your turn, put a +1/+1 counter on Witchstalker.
+3/3

@@ -1,0 +1,5 @@
+Streambed Aquitects {1}{U}{U}
+Creature — Merfolk Scout
+{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+{T}: Target land becomes an Island until end of turn.
+2/3

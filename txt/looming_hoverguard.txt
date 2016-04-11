@@ -1,0 +1,5 @@
+Looming Hoverguard {4}{U}{U}
+Creature — Drone
+Flying
+When Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library.
+3/3

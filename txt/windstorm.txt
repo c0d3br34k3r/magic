@@ -1,0 +1,3 @@
+Windstorm {X}{G}
+Instant
+Windstorm deals X damage to each creature with flying.

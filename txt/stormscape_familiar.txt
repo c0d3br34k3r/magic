@@ -1,0 +1,5 @@
+Stormscape Familiar {1}{U}
+Creature — Bird
+Flying
+White spells and black spells you cast cost {1} less to cast.
+1/1

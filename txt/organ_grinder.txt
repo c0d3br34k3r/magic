@@ -1,0 +1,4 @@
+Organ Grinder {2}{B}
+Creature — Zombie
+{T}, Exile three cards from your graveyard: Target player loses 3 life.
+3/1

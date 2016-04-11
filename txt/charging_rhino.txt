@@ -1,0 +1,4 @@
+Charging Rhino {3}{G}{G}
+Creature — Rhino
+Charging Rhino can't be blocked by more than one creature.
+4/4

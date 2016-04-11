@@ -1,0 +1,4 @@
+Lu Meng, Wu General {3}{U}{U}
+Legendary Creature — Human Soldier
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+4/4

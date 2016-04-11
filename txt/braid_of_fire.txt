@@ -1,0 +1,3 @@
+Braid of Fire {1}{R}
+Enchantment
+Cumulative upkeep—Add {R} to your mana pool. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)

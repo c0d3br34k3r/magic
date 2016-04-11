@@ -1,0 +1,5 @@
+Duskmantle Seer {2}{U}{B}
+Creature — Vampire Wizard
+Flying
+At the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.
+4/4

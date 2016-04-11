@@ -1,0 +1,3 @@
+Bullwhip {4}
+Artifact
+{2}, {T}: Bullwhip deals 1 damage to target creature. That creature attacks this turn if able.

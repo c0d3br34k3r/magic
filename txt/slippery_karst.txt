@@ -1,0 +1,5 @@
+Slippery Karst
+Land
+Slippery Karst enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)

@@ -1,0 +1,4 @@
+Defy Gravity {U}
+Instant
+Target creature gains flying until end of turn.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

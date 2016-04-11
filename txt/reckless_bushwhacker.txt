@@ -1,0 +1,6 @@
+Reckless Bushwhacker {2}{R}
+Creature — Goblin Warrior Ally
+Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Haste
+When Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.
+2/1

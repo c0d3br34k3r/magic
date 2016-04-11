@@ -1,0 +1,5 @@
+Gilt-Leaf Archdruid {3}{G}{G}
+Creature — Elf Druid
+Whenever you cast a Druid spell, you may draw a card.
+Tap seven untapped Druids you control: Gain control of all lands target player controls.
+3/3

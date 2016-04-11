@@ -1,0 +1,4 @@
+Logic Knot {X}{U}{U}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Counter target spell unless its controller pays {X}.

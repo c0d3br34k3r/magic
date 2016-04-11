@@ -1,0 +1,5 @@
+Tajic, Blade of the Legion {2}{W}{R}
+Legendary Creature — Human Soldier
+Indestructible
+Battalion — Whenever Tajic, Blade of the Legion and at least two other creatures attack, Tajic gets +5/+5 until end of turn.
+2/2

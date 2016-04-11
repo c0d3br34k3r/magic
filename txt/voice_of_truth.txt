@@ -1,0 +1,4 @@
+Voice of Truth {3}{W}
+Creature — Angel
+Flying, protection from white
+2/2

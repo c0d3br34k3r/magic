@@ -1,0 +1,5 @@
+Gruul Turf
+Land
+Gruul Turf enters the battlefield tapped.
+When Gruul Turf enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{G} to your mana pool.

@@ -1,0 +1,4 @@
+Gruesome Discovery {2}{B}{B}
+Sorcery
+Target player discards two cards.
+Morbid — If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards.

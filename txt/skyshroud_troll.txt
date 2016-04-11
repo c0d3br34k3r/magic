@@ -1,0 +1,4 @@
+Skyshroud Troll {2}{G}{G}
+Creature — Troll Giant
+{1}{G}: Regenerate Skyshroud Troll.
+3/3

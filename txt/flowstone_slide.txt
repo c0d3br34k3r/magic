@@ -1,0 +1,3 @@
+Flowstone Slide {X}{2}{R}{R}
+Sorcery
+All creatures get +X/-X until end of turn.

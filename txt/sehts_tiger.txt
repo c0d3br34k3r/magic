@@ -1,0 +1,5 @@
+Seht's Tiger {2}{W}{W}
+Creature — Cat
+Flash (You may cast this spell any time you could cast an instant.)
+When Seht's Tiger enters the battlefield, you gain protection from the color of your choice until end of turn. (You can't be targeted, dealt damage, or enchanted by anything of the chosen color.)
+3/3

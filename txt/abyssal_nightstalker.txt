@@ -1,0 +1,4 @@
+Abyssal Nightstalker {3}{B}
+Creature — Nightstalker
+Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.
+2/2

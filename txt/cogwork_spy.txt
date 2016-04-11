@@ -1,0 +1,5 @@
+Cogwork Spy {3}
+Artifact Creature — Bird Construct
+Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.
+Flying
+2/1

@@ -1,0 +1,3 @@
+Illness in the Ranks {B}
+Enchantment
+Creature tokens get -1/-1.

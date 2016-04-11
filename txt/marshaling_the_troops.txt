@@ -1,0 +1,3 @@
+Marshaling the Troops {1}{G}
+Sorcery
+Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.

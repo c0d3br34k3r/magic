@@ -1,0 +1,5 @@
+Dark Privilege {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice a creature: Regenerate enchanted creature.

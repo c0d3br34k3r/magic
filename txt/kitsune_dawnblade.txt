@@ -1,0 +1,5 @@
+Kitsune Dawnblade {4}{W}
+Creature — Fox Samurai
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+When Kitsune Dawnblade enters the battlefield, you may tap target creature.
+2/3

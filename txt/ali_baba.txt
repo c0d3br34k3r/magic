@@ -1,0 +1,4 @@
+Ali Baba {R}
+Creature — Human Rogue
+{R}: Tap target Wall.
+1/1

@@ -1,0 +1,6 @@
+Wispmare {2}{W}
+Creature — Elemental
+Flying
+When Wispmare enters the battlefield, destroy target enchantment.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+1/3

@@ -1,0 +1,6 @@
+Sunstrike Legionnaire {1}{W}
+Creature — Human Soldier
+Sunstrike Legionnaire doesn't untap during your untap step.
+Whenever another creature enters the battlefield, untap Sunstrike Legionnaire.
+{T}: Tap target creature with converted mana cost 3 or less.
+1/2

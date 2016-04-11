@@ -1,0 +1,3 @@
+Predator's Strike {1}{G}
+Instant
+Target creature gets +3/+3 and gains trample until end of turn.

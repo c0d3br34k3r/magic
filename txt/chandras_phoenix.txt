@@ -1,0 +1,6 @@
+Chandra's Phoenix {1}{R}{R}
+Creature — Phoenix
+Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.
+2/2

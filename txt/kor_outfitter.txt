@@ -1,0 +1,4 @@
+Kor Outfitter {W}{W}
+Creature — Kor Soldier
+When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+2/2

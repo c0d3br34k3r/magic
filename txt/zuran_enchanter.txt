@@ -1,0 +1,4 @@
+Zuran Enchanter {1}{U}
+Creature — Human Wizard
+{2}{B}, {T}: Target player discards a card. Activate this ability only during your turn.
+1/1

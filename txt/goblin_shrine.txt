@@ -1,0 +1,5 @@
+Goblin Shrine {1}{R}{R}
+Enchantment — Aura
+Enchant land
+As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.
+When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.

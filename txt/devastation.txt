@@ -1,0 +1,3 @@
+Devastation {5}{R}{R}
+Sorcery
+Destroy all creatures and lands.

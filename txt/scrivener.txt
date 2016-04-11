@@ -1,0 +1,4 @@
+Scrivener {4}{U}
+Creature — Human Wizard
+When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.
+2/2

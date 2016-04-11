@@ -1,0 +1,5 @@
+Looming Spires
+Land
+Looming Spires enters the battlefield tapped.
+When Looming Spires enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.
+{T}: Add {R} to your mana pool.

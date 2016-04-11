@@ -1,0 +1,6 @@
+Tidewater Minion {3}{U}{U}
+Creature — Elemental Minion
+Defender (This creature can't attack.)
+{4}: Tidewater Minion loses defender until end of turn.
+{T}: Untap target permanent.
+4/4

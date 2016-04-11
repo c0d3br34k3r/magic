@@ -1,0 +1,4 @@
+Myr Adapter {3}
+Artifact Creature — Myr
+Myr Adapter gets +1/+1 for each Equipment attached to it.
+1/1

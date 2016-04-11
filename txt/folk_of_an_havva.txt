@@ -1,0 +1,4 @@
+Folk of An-Havva {G}
+Creature — Human
+Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.
+1/1

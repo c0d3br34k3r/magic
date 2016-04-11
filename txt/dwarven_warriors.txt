@@ -1,0 +1,4 @@
+Dwarven Warriors {2}{R}
+Creature — Dwarf Warrior
+{T}: Target creature with power 2 or less can't be blocked this turn.
+1/1

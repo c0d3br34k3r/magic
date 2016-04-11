@@ -1,0 +1,3 @@
+Sizzle {2}{R}
+Sorcery
+Sizzle deals 3 damage to each opponent.

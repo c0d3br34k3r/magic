@@ -1,0 +1,5 @@
+Stampeding Wildebeests {2}{G}{G}
+Creature — Antelope Beast
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+At the beginning of your upkeep, return a green creature you control to its owner's hand.
+5/4

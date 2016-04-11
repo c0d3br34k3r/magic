@@ -1,0 +1,5 @@
+Mobile Fort {4}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
+0/6

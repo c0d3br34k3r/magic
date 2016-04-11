@@ -1,0 +1,4 @@
+Bosk Banneret {1}{G}
+Creature — Treefolk Shaman
+Treefolk spells and Shaman spells you cast cost {1} less to cast.
+1/3

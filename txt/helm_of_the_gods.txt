@@ -1,0 +1,4 @@
+Helm of the Gods {1}
+Artifact — Equipment
+Equipped creature gets +1/+1 for each enchantment you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

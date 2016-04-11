@@ -1,0 +1,4 @@
+Orcish Lumberjack {R}
+Creature — Orc
+{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+1/1

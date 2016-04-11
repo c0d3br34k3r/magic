@@ -1,0 +1,5 @@
+Skullsnatcher {1}{B}
+Creature — Rat Ninja
+Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.
+2/1

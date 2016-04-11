@@ -1,0 +1,5 @@
+Reborn Hero {2}{W}
+Creature — Human Soldier
+Vigilance
+Threshold — As long as seven or more cards are in your graveyard, Reborn Hero has "When Reborn Hero dies, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control."
+2/2

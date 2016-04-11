@@ -1,0 +1,4 @@
+Myr Sire {2}
+Artifact Creature — Myr
+When Myr Sire dies, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+1/1

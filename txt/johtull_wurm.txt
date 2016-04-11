@@ -1,0 +1,4 @@
+Johtull Wurm {5}{G}
+Creature — Wurm
+Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
+6/6

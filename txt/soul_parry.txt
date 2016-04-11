@@ -1,0 +1,3 @@
+Soul Parry {1}{W}
+Instant
+Prevent all damage one or two target creatures would deal this turn.

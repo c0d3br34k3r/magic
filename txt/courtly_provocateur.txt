@@ -1,0 +1,5 @@
+Courtly Provocateur {2}{U}
+Creature — Human Wizard
+{T}: Target creature attacks this turn if able.
+{T}: Target creature blocks this turn if able.
+1/1

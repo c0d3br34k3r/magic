@@ -1,0 +1,4 @@
+Kor Hookmaster {2}{W}
+Creature — Kor Soldier
+When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+2/2

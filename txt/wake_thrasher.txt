@@ -1,0 +1,4 @@
+Wake Thrasher {2}{U}
+Creature — Merfolk Soldier
+Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 until end of turn.
+1/1

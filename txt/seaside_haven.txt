@@ -1,0 +1,4 @@
+Seaside Haven
+Land
+{T}: Add {C} to your mana pool.
+{W}{U}, {T}, Sacrifice a Bird: Draw a card.

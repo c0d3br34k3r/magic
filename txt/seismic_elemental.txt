@@ -1,0 +1,4 @@
+Seismic Elemental {3}{R}{R}
+Creature — Elemental
+When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.
+4/4

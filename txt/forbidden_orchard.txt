@@ -1,0 +1,4 @@
+Forbidden Orchard
+Land
+{T}: Add one mana of any color to your mana pool.
+Whenever you tap Forbidden Orchard for mana, target opponent puts a 1/1 colorless Spirit creature token onto the battlefield.

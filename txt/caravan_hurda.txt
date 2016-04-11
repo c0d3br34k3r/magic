@@ -1,0 +1,4 @@
+Caravan Hurda {4}{W}
+Creature — Giant
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/5

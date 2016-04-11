@@ -1,0 +1,4 @@
+Hunted Ghoul {B}
+Creature — Zombie
+Hunted Ghoul can't block Humans.
+1/2

@@ -1,0 +1,3 @@
+Fell the Mighty {4}{W}
+Sorcery
+Destroy all creatures with power greater than target creature's power.

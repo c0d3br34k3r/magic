@@ -1,0 +1,4 @@
+Blood Pet {B}
+Creature — Thrull
+Sacrifice Blood Pet: Add {B} to your mana pool.
+1/1

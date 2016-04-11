@@ -1,0 +1,3 @@
+Bösium Strip {3}
+Artifact
+{3}, {T}: Until end of turn, if the top card of your graveyard is an instant or sorcery card, you may cast that card. If a card cast this way would be put into a graveyard this turn, exile it instead.

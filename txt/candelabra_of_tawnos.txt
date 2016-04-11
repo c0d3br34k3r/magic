@@ -1,0 +1,3 @@
+Candelabra of Tawnos {1}
+Artifact
+{X}, {T}: Untap X target lands.

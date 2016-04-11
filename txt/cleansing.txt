@@ -1,0 +1,3 @@
+Cleansing {W}{W}{W}
+Sorcery
+For each land, destroy that land unless any player pays 1 life.

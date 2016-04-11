@@ -1,0 +1,4 @@
+Hidden Strings {1}{U}
+Sorcery
+You may tap or untap target permanent, then you may tap or untap another target permanent.
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)

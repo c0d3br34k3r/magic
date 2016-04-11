@@ -1,0 +1,4 @@
+Rhox Meditant {3}{W}
+Creature — Rhino Monk
+When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.
+2/4

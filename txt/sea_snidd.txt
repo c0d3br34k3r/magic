@@ -1,0 +1,4 @@
+Sea Snidd {4}{U}
+Creature — Beast
+{T}: Target land becomes the basic land type of your choice until end of turn.
+3/3

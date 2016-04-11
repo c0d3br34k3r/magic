@@ -1,0 +1,5 @@
+Goblins of the Flarg {R}
+Creature — Goblin Warrior
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+When you control a Dwarf, sacrifice Goblins of the Flarg.
+1/1

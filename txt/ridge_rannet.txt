@@ -1,0 +1,4 @@
+Ridge Rannet {5}{R}{R}
+Creature — Beast
+Cycling {2} ({2}, Discard this card: Draw a card.)
+6/4

@@ -1,0 +1,5 @@
+Tandem Lookout {2}{U}
+Creature — Human Scout
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Tandem Lookout is paired with another creature, each of those creatures has "Whenever this creature deals damage to an opponent, draw a card."
+2/1

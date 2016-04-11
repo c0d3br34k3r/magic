@@ -1,0 +1,4 @@
+Children of Korlis {W}
+Creature — Human Rebel Cleric
+Sacrifice Children of Korlis: You gain life equal to the life you've lost this turn. (Damage causes loss of life.)
+1/1

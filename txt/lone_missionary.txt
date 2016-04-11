@@ -1,0 +1,4 @@
+Lone Missionary {1}{W}
+Creature — Kor Monk
+When Lone Missionary enters the battlefield, you gain 4 life.
+2/1

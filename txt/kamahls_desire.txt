@@ -1,0 +1,5 @@
+Kamahl's Desire {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has first strike.
+Threshold — Enchanted creature gets +3/+0 as long as seven or more cards are in your graveyard.

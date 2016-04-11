@@ -1,0 +1,3 @@
+Wrench Mind {B}{B}
+Sorcery
+Target player discards two cards unless he or she discards an artifact card.

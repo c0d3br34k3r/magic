@@ -1,0 +1,3 @@
+Second Harvest {2}{G}{G}
+Instant
+For each token you control, put a token onto the battlefield that's a copy of that permanent.

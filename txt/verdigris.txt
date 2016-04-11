@@ -1,0 +1,3 @@
+Verdigris {2}{G}
+Instant
+Destroy target artifact.

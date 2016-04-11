@@ -1,0 +1,6 @@
+Avatar of Fury {6}{R}{R}
+Creature — Avatar
+If an opponent controls seven or more lands, Avatar of Fury costs {6} less to cast.
+Flying
+{R}: Avatar of Fury gets +1/+0 until end of turn.
+6/6

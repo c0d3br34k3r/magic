@@ -1,0 +1,4 @@
+Deathcult Rogue {1}{U/B}{U/B}
+Creature — Human Rogue
+Deathcult Rogue can't be blocked except by Rogues.
+2/2

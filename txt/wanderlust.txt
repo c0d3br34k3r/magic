@@ -1,0 +1,4 @@
+Wanderlust {2}{G}
+Enchantment — Aura
+Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.

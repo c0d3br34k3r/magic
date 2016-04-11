@@ -1,0 +1,4 @@
+Anarchist {4}{R}
+Creature — Human Wizard
+When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.
+2/2

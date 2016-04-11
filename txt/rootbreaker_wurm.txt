@@ -1,0 +1,4 @@
+Rootbreaker Wurm {5}{G}{G}
+Creature — Wurm
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+6/6

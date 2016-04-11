@@ -1,0 +1,4 @@
+Kami of the Crescent Moon {U}{U}
+Legendary Creature — Spirit
+At the beginning of each player's draw step, that player draws an additional card.
+1/3

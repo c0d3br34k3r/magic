@@ -1,0 +1,6 @@
+Wilt-Leaf Liege {1}{G/W}{G/W}{G/W}
+Creature — Elf Knight
+Other green creatures you control get +1/+1.
+Other white creatures you control get +1/+1.
+If a spell or ability an opponent controls causes you to discard Wilt-Leaf Liege, put it onto the battlefield instead of putting it into your graveyard.
+4/4

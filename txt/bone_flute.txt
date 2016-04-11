@@ -1,0 +1,3 @@
+Bone Flute {3}
+Artifact
+{2}, {T}: All creatures get -1/-0 until end of turn.

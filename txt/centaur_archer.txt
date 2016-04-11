@@ -1,0 +1,4 @@
+Centaur Archer {1}{R}{G}
+Creature — Centaur Archer
+{T}: Centaur Archer deals 1 damage to target creature with flying.
+3/2

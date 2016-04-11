@@ -1,0 +1,4 @@
+Kessig Wolf Run
+Land
+{T}: Add {C} to your mana pool.
+{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.

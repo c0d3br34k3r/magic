@@ -1,0 +1,5 @@
+Grave Scrabbler {3}{B}
+Creature — Zombie
+Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+When Grave Scrabbler enters the battlefield, if its madness cost was paid, you may return target creature card from a graveyard to its owner's hand.
+2/2

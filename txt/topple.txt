@@ -1,0 +1,3 @@
+Topple {2}{W}
+Sorcery
+Exile target creature with the greatest power among creatures on the battlefield. (If two or more creatures are tied for greatest power, target any one of them.)

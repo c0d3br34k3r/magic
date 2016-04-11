@@ -1,0 +1,6 @@
+Floating Shield {2}{W}
+Enchantment — Aura
+Enchant creature
+As Floating Shield enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.
+Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.

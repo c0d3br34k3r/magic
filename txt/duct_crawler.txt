@@ -1,0 +1,4 @@
+Duct Crawler {R}
+Creature — Insect
+{1}{R}: Target creature can't block Duct Crawler this turn.
+1/1

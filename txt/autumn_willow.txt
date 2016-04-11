@@ -1,0 +1,5 @@
+Autumn Willow {4}{G}{G}
+Legendary Creature — Avatar
+Shroud (This creature can't be the target of spells or abilities.)
+{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud.
+4/4

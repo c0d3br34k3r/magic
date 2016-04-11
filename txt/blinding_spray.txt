@@ -1,0 +1,4 @@
+Blinding Spray {4}{U}
+Instant
+Creatures your opponents control get -4/-0 until end of turn.
+Draw a card.

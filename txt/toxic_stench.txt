@@ -1,0 +1,4 @@
+Toxic Stench {1}{B}
+Instant
+Target nonblack creature gets -1/-1 until end of turn.
+Threshold — If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.

@@ -1,0 +1,3 @@
+Plasm Capture {U}{U}{G}{G}
+Instant
+Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.

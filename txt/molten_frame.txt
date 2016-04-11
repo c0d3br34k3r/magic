@@ -1,0 +1,4 @@
+Molten Frame {1}{R}
+Instant
+Destroy target artifact creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)

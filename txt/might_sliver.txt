@@ -1,0 +1,4 @@
+Might Sliver {4}{G}
+Creature — Sliver
+All Sliver creatures get +2/+2.
+2/2

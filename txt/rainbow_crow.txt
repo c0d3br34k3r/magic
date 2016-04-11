@@ -1,0 +1,5 @@
+Rainbow Crow {3}{U}
+Creature — Bird
+Flying
+{1}: Rainbow Crow becomes the color of your choice until end of turn.
+2/2

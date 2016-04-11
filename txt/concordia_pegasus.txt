@@ -1,0 +1,4 @@
+Concordia Pegasus {1}{W}
+Creature — Pegasus
+Flying
+1/3

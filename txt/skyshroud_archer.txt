@@ -1,0 +1,4 @@
+Skyshroud Archer {G}
+Creature — Elf Archer
+{T}: Target creature with flying gets -1/-1 until end of turn.
+1/1

@@ -1,0 +1,5 @@
+Deathrender {4}
+Artifact — Equipment
+Equipped creature gets +2/+2.
+Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.
+Equip {2}

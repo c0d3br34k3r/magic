@@ -1,0 +1,4 @@
+Blanchwood Armor {2}{G}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +1/+1 for each Forest you control.

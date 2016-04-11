@@ -1,0 +1,5 @@
+Bramblesnap {1}{G}
+Creature — Elemental
+Trample
+Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.
+1/1

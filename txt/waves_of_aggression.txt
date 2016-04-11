@@ -1,0 +1,4 @@
+Waves of Aggression {3}{R/W}{R/W}
+Sorcery
+Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)

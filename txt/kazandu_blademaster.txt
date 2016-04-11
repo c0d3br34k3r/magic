@@ -1,0 +1,5 @@
+Kazandu Blademaster {W}{W}
+Creature — Human Soldier Ally
+First strike, vigilance
+Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.
+1/1

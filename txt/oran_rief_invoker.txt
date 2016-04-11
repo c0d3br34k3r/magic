@@ -1,0 +1,4 @@
+Oran-Rief Invoker {1}{G}
+Creature — Human Shaman
+{8}: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn.
+2/2

@@ -1,0 +1,3 @@
+Swift Justice {W}
+Instant
+Until end of turn, target creature gets +1/+0 and gains first strike and lifelink.

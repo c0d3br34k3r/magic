@@ -1,0 +1,4 @@
+Goblin Brigand {1}{R}
+Creature — Goblin Warrior
+Goblin Brigand attacks each turn if able.
+2/2

@@ -1,0 +1,4 @@
+Zombie Cannibal {B}
+Creature — Zombie
+Whenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard.
+1/1

@@ -1,0 +1,5 @@
+Centaur Safeguard {2}{G/W}
+Creature — Centaur Warrior
+({G/W} can be paid with either {G} or {W}.)
+When Centaur Safeguard dies, you may gain 3 life.
+3/1

@@ -1,0 +1,5 @@
+Wind Zendikon {U}
+Enchantment — Aura
+Enchant land
+Enchanted land is a 2/2 blue Elemental creature with flying. It's still a land.
+When enchanted land dies, return that card to its owner's hand.

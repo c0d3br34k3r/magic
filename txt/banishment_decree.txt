@@ -1,0 +1,3 @@
+Banishment Decree {3}{W}{W}
+Instant
+Put target artifact, creature, or enchantment on top of its owner's library.

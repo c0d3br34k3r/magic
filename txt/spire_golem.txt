@@ -1,0 +1,5 @@
+Spire Golem {6}
+Artifact Creature — Golem
+Affinity for Islands (This spell costs {1} less to cast for each Island you control.)
+Flying
+2/4

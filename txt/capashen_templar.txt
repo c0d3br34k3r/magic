@@ -1,0 +1,4 @@
+Capashen Templar {2}{W}
+Creature — Human Knight
+{W}: Capashen Templar gets +0/+1 until end of turn.
+2/2

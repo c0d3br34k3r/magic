@@ -1,0 +1,3 @@
+Iron Lance {2}
+Artifact
+{3}, {T}: Target creature gains first strike until end of turn.

@@ -1,0 +1,4 @@
+Skyshroud Ranger {G}
+Creature — Elf
+{T}: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery.
+1/1

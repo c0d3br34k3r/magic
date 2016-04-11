@@ -1,0 +1,4 @@
+Relic Putrescence {2}{B}
+Enchantment — Aura
+Enchant artifact
+Whenever enchanted artifact becomes tapped, its controller gets a poison counter.

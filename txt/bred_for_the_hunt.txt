@@ -1,0 +1,3 @@
+Bred for the Hunt {1}{U}{G}
+Enchantment
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.

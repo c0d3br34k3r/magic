@@ -1,0 +1,9 @@
+Halimar Wavewatch {1}{U}
+Creature — Merfolk Soldier
+Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+0/6
+LEVEL 5+
+6/6
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+0/3

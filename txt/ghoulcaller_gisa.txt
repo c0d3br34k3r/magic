@@ -1,0 +1,4 @@
+Ghoulcaller Gisa {3}{B}{B}
+Legendary Creature — Human Wizard
+{B}, {T}, Sacrifice another creature: Put X 2/2 black Zombie creature tokens onto the battlefield, where X is the sacrificed creature's power.
+3/4

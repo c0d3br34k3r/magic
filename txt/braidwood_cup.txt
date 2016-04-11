@@ -1,0 +1,3 @@
+Braidwood Cup {3}
+Artifact
+{T}: You gain 1 life.

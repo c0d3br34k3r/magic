@@ -1,0 +1,5 @@
+Dragon Mage {5}{R}{R}
+Creature — Dragon Wizard
+Flying
+Whenever Dragon Mage deals combat damage to a player, each player discards his or her hand, then draws seven cards.
+5/5

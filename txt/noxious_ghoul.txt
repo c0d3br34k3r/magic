@@ -1,0 +1,4 @@
+Noxious Ghoul {3}{B}{B}
+Creature — Zombie
+Whenever Noxious Ghoul or another Zombie enters the battlefield, all non-Zombie creatures get -1/-1 until end of turn.
+3/3

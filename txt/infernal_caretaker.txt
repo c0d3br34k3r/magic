@@ -1,0 +1,5 @@
+Infernal Caretaker {3}{B}
+Creature — Human Cleric
+Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.
+2/2

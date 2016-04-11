@@ -1,0 +1,4 @@
+Sea's Claim {U}
+Enchantment — Aura
+Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
+Enchanted land is an Island.

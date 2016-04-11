@@ -1,0 +1,4 @@
+Blind Seer {2}{U}{U}
+Legendary Creature — Human Wizard
+{1}{U}: Target spell or permanent becomes the color of your choice until end of turn.
+3/3

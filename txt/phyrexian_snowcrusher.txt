@@ -1,0 +1,5 @@
+Phyrexian Snowcrusher {6}
+Snow Artifact Creature — Juggernaut
+Phyrexian Snowcrusher attacks each turn if able.
+{1}{S}: Phyrexian Snowcrusher gets +1/+0 until end of turn. ({S} can be paid with one mana from a snow permanent.)
+6/5

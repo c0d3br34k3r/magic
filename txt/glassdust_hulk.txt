@@ -1,0 +1,5 @@
+Glassdust Hulk {3}{W}{U}
+Artifact Creature — Golem
+Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn.
+Cycling {W/U} ({W/U}, Discard this card: Draw a card.)
+3/4

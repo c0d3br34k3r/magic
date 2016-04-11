@@ -1,0 +1,6 @@
+Spellstutter Sprite {1}{U}
+Creature — Faerie Wizard
+Flash
+Flying
+When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.
+1/1

@@ -1,0 +1,5 @@
+Gitaxian Probe {U/P}
+Sorcery
+({U/P} can be paid with either {U} or 2 life.)
+Look at target player's hand.
+Draw a card.

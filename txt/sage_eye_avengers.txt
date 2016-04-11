@@ -1,0 +1,5 @@
+Sage-Eye Avengers {4}{U}{U}
+Creature — Djinn Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power.
+4/5

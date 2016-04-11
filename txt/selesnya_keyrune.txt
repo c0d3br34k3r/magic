@@ -1,0 +1,4 @@
+Selesnya Keyrune {3}
+Artifact
+{T}: Add {G} or {W} to your mana pool.
+{G}{W}: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn.

@@ -1,0 +1,3 @@
+Ugin's Insight {3}{U}{U}
+Sorcery
+Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.

@@ -1,0 +1,5 @@
+Krond the Dawn-Clad {W}{W}{W}{G}{G}{G}
+Legendary Creature — Archon
+Flying, vigilance
+Whenever Krond the Dawn-Clad attacks, if it's enchanted, exile target permanent.
+6/6

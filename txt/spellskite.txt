@@ -1,0 +1,4 @@
+Spellskite {2}
+Artifact Creature — Horror
+{U/P}: Change a target of target spell or ability to Spellskite. ({U/P} can be paid with either {U} or 2 life.)
+0/4

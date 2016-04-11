@@ -1,0 +1,5 @@
+Plague Spitter {2}{B}
+Creature — Horror
+At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player.
+When Plague Spitter dies, Plague Spitter deals 1 damage to each creature and each player.
+2/2

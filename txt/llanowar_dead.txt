@@ -1,0 +1,4 @@
+Llanowar Dead {B}{G}
+Creature — Zombie Elf
+{T}: Add {B} to your mana pool.
+2/2

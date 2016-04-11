@@ -1,0 +1,4 @@
+Kazuul, Tyrant of the Cliffs {3}{R}{R}
+Legendary Creature — Ogre Warrior
+Whenever a creature an opponent controls attacks, if you're the defending player, put a 3/3 red Ogre creature token onto the battlefield unless that creature's controller pays {3}.
+5/4

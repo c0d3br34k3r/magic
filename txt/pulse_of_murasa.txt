@@ -1,0 +1,3 @@
+Pulse of Murasa {2}{G}
+Instant
+Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.

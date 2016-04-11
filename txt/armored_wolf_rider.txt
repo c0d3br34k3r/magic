@@ -1,0 +1,3 @@
+Armored Wolf-Rider {3}{W}{G}
+Creature — Elf Knight
+4/6

@@ -1,0 +1,5 @@
+Battle Rampart {2}{R}
+Creature — Wall
+Defender
+{T}: Target creature gains haste until end of turn.
+1/3

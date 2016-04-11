@@ -1,0 +1,5 @@
+Megatherium {2}{G}
+Creature — Beast
+Trample
+When Megatherium enters the battlefield, sacrifice it unless you pay {1} for each card in your hand.
+4/4

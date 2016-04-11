@@ -1,0 +1,4 @@
+Zhur-Taa Swine {3}{R}{G}
+Creature — Boar
+Bloodrush — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
+5/4

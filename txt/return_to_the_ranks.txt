@@ -1,0 +1,4 @@
+Return to the Ranks {X}{W}{W}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Return X target creature cards with converted mana cost 2 or less from your graveyard to the battlefield.

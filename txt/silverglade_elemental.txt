@@ -1,0 +1,4 @@
+Silverglade Elemental {4}{G}
+Creature — Elemental
+When Silverglade Elemental enters the battlefield, you may search your library for a Forest card and put that card onto the battlefield. If you do, shuffle your library.
+4/4

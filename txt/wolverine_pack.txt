@@ -1,0 +1,4 @@
+Wolverine Pack {2}{G}{G}
+Creature — Wolverine
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+2/4

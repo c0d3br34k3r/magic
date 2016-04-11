@@ -1,0 +1,4 @@
+Banewasp Affliction {1}{B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, that creature's controller loses life equal to its toughness.

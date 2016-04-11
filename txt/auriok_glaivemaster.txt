@@ -1,0 +1,4 @@
+Auriok Glaivemaster {W}
+Creature — Human Soldier
+As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.
+1/1

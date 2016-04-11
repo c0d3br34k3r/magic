@@ -1,0 +1,5 @@
+Barren Moor
+Land
+Barren Moor enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)

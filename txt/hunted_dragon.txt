@@ -1,0 +1,5 @@
+Hunted Dragon {3}{R}{R}
+Creature — Dragon
+Flying, haste
+When Hunted Dragon enters the battlefield, target opponent puts three 2/2 white Knight creature tokens with first strike onto the battlefield.
+6/6

@@ -1,0 +1,3 @@
+Fire at Will {R/W}{R/W}{R/W}
+Instant
+Fire at Will deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.

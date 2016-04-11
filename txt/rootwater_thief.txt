@@ -1,0 +1,5 @@
+Rootwater Thief {1}{U}
+Creature — Merfolk Rogue
+{U}: Rootwater Thief gains flying until end of turn.
+Whenever Rootwater Thief deals combat damage to a player, you may pay {2}. If you do, search that player's library for a card and exile it, then the player shuffles his or her library.
+1/2

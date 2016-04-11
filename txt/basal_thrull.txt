@@ -1,0 +1,4 @@
+Basal Thrull {B}{B}
+Creature — Thrull
+{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+1/2

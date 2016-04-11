@@ -1,0 +1,4 @@
+Valakut Predator {2}{R}
+Creature — Elemental
+Landfall — Whenever a land enters the battlefield under your control, Valakut Predator gets +2/+2 until end of turn.
+2/2

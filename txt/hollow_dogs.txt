@@ -1,0 +1,4 @@
+Hollow Dogs {4}{B}
+Creature — Zombie Hound
+Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
+3/3

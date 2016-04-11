@@ -1,0 +1,5 @@
+Sliver Overlord {W}{U}{B}{R}{G}
+Legendary Creature — Sliver Mutant
+{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.
+{3}: Gain control of target Sliver. (This effect lasts indefinitely.)
+7/7

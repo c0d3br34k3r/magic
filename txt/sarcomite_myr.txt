@@ -1,0 +1,5 @@
+Sarcomite Myr {2}{U}
+Artifact Creature — Myr
+{2}: Sarcomite Myr gains flying until end of turn.
+{2}, Sacrifice Sarcomite Myr: Draw a card.
+2/1

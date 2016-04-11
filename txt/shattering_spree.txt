@@ -1,0 +1,4 @@
+Shattering Spree {R}
+Sorcery
+Replicate {R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Destroy target artifact.

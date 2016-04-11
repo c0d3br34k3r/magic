@@ -1,0 +1,4 @@
+Chronosavant {5}{W}
+Creature — Giant
+{1}{W}: Return Chronosavant from your graveyard to the battlefield tapped. You skip your next turn.
+5/5

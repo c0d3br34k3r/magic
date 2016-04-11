@@ -1,0 +1,4 @@
+Steelshaper Apprentice {2}{W}{W}
+Creature — Human Soldier
+{W}, {T}, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.
+1/3

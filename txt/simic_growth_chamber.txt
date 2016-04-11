@@ -1,0 +1,5 @@
+Simic Growth Chamber
+Land
+Simic Growth Chamber enters the battlefield tapped.
+When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{U} to your mana pool.

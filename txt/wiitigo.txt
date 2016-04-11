@@ -1,0 +1,5 @@
+Wiitigo {3}{G}{G}{G}
+Creature — Yeti
+Wiitigo enters the battlefield with six +1/+1 counters on it.
+At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.
+0/0

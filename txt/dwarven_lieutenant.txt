@@ -1,0 +1,4 @@
+Dwarven Lieutenant {R}{R}
+Creature — Dwarf Soldier
+{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.
+1/2

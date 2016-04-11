@@ -1,0 +1,4 @@
+Lys Alana Scarblade {2}{B}
+Creature — Elf Assassin
+{T}, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.
+1/1

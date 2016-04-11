@@ -1,0 +1,4 @@
+Fugitive Druid {3}{G}
+Creature — Human Druid
+Whenever Fugitive Druid becomes the target of an Aura spell, you draw a card.
+3/2

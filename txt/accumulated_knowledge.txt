@@ -1,0 +1,3 @@
+Accumulated Knowledge {1}{U}
+Instant
+Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.

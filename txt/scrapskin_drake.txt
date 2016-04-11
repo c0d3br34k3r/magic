@@ -1,0 +1,5 @@
+Scrapskin Drake {2}{U}
+Creature — Zombie Drake
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Scrapskin Drake can block only creatures with flying.
+2/3

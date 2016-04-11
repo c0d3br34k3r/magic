@@ -1,0 +1,4 @@
+Nomad Stadium
+Land
+{T}: Add {W} to your mana pool. Nomad Stadium deals 1 damage to you.
+Threshold — {W}, {T}, Sacrifice Nomad Stadium: You gain 4 life. Activate this ability only if seven or more cards are in your graveyard.

@@ -1,0 +1,4 @@
+Reliquary Monk {2}{W}
+Creature — Human Monk Cleric
+When Reliquary Monk dies, destroy target artifact or enchantment.
+2/2

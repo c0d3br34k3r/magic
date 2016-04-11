@@ -1,0 +1,4 @@
+Graveborn Muse {2}{B}{B}
+Creature — Zombie Spirit
+At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.
+3/3

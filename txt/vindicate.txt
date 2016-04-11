@@ -1,0 +1,3 @@
+Vindicate {1}{W}{B}
+Sorcery
+Destroy target permanent.

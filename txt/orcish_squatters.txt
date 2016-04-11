@@ -1,0 +1,4 @@
+Orcish Squatters {4}{R}
+Creature — Orc
+Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.
+2/3

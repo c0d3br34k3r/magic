@@ -1,0 +1,5 @@
+Quicksilver Wall {2}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+{4}: Return Quicksilver Wall to its owner's hand. Any player may activate this ability.
+1/6

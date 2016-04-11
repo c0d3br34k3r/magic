@@ -1,0 +1,4 @@
+Leyline of Lightning {2}{R}{R}
+Enchantment
+If Leyline of Lightning is in your opening hand, you may begin the game with it on the battlefield.
+Whenever you cast a spell, you may pay {1}. If you do, Leyline of Lightning deals 1 damage to target player.

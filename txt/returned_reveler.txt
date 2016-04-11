@@ -1,0 +1,4 @@
+Returned Reveler {1}{B}
+Creature — Zombie Satyr
+When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard.
+1/3

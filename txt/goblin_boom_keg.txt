@@ -1,0 +1,4 @@
+Goblin Boom Keg {4}
+Artifact
+At the beginning of your upkeep, sacrifice Goblin Boom Keg.
+When Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.

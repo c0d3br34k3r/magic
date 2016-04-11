@@ -1,0 +1,4 @@
+Elsewhere Flask {2}
+Artifact
+When Elsewhere Flask enters the battlefield, draw a card.
+Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn.

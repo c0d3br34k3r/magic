@@ -1,0 +1,5 @@
+Cultivator Drone {2}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{T}: Add {C} to your mana pool. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains {C}. ({C} represents colorless mana.)
+2/3

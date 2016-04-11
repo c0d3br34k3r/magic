@@ -1,0 +1,4 @@
+Loxodon Partisan {4}{W}
+Creature — Elephant Soldier
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+3/4

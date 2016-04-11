@@ -1,0 +1,6 @@
+Hushwing Gryff {2}{W}
+Creature — Hippogriff
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Creatures entering the battlefield don't cause abilities to trigger.
+2/1

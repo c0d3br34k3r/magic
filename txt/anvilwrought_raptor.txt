@@ -1,0 +1,4 @@
+Anvilwrought Raptor {4}
+Artifact Creature — Bird
+Flying, first strike
+2/1

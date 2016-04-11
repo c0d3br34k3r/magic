@@ -1,0 +1,3 @@
+Rack and Ruin {2}{R}
+Instant
+Destroy two target artifacts.

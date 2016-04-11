@@ -1,0 +1,6 @@
+Ursine Fylgja {4}{W}
+Creature — Spirit Bear
+Ursine Fylgja enters the battlefield with four healing counters on it.
+Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.
+{2}{W}: Put a healing counter on Ursine Fylgja.
+3/3

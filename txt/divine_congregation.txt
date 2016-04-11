@@ -1,0 +1,4 @@
+Divine Congregation {3}{W}
+Sorcery
+You gain 2 life for each creature target player controls.
+Suspend 5—{1}{W} (Rather than cast this card from your hand, you may pay {1}{W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)

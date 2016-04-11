@@ -1,0 +1,4 @@
+Opal Lake Gatekeepers {3}{U}
+Creature — Vedalken Soldier
+When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.
+2/4

@@ -1,0 +1,4 @@
+Pyxis of Pandemonium {1}
+Artifact
+{T}: Each player exiles the top card of his or her library face down.
+{7}, {T}, Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.

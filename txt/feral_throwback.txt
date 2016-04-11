@@ -1,0 +1,5 @@
+Feral Throwback {4}{G}{G}
+Creature — Beast
+Amplify 2 (As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)
+Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+3/3

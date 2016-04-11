@@ -1,0 +1,4 @@
+Laccolith Grunt {2}{R}
+Creature — Beast
+Whenever Laccolith Grunt becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Grunt assigns no combat damage this turn.
+2/2

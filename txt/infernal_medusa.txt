@@ -1,0 +1,5 @@
+Infernal Medusa {3}{B}{B}
+Creature — Gorgon
+Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.
+Whenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+2/4

@@ -1,0 +1,5 @@
+Screeching Silcaw {1}{U}
+Creature — Bird
+Flying
+Metalcraft — Whenever Screeching Silcaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.
+1/2

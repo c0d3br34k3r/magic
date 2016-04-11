@@ -1,0 +1,4 @@
+Squee, Goblin Nabob {2}{R}
+Legendary Creature — Goblin
+At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+1/1

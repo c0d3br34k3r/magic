@@ -1,0 +1,5 @@
+Wall of Light {2}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Protection from black
+1/5

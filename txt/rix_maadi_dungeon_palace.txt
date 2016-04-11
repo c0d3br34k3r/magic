@@ -1,0 +1,4 @@
+Rix Maadi, Dungeon Palace
+Land
+{T}: Add {C} to your mana pool.
+{1}{B}{R}, {T}: Each player discards a card. Activate this ability only any time you could cast a sorcery.

@@ -1,0 +1,4 @@
+Alabaster Leech {W}
+Creature — Leech
+White spells you cast cost {W} more to cast.
+1/3

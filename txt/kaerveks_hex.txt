@@ -1,0 +1,3 @@
+Kaervek's Hex {3}{B}
+Sorcery
+Kaervek's Hex deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.

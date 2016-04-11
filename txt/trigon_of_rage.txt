@@ -1,0 +1,5 @@
+Trigon of Rage {2}
+Artifact
+Trigon of Rage enters the battlefield with three charge counters on it.
+{R}{R}, {T}: Put a charge counter on Trigon of Rage.
+{2}, {T}, Remove a charge counter from Trigon of Rage: Target creature gets +3/+0 until end of turn.

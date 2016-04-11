@@ -1,0 +1,5 @@
+Xathrid Demon {3}{B}{B}{B}
+Creature — Demon
+Flying, trample
+At the beginning of your upkeep, sacrifice a creature other than Xathrid Demon, then each opponent loses life equal to the sacrificed creature's power. If you can't sacrifice a creature, tap Xathrid Demon and you lose 7 life.
+7/7

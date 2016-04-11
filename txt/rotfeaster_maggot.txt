@@ -1,0 +1,4 @@
+Rotfeaster Maggot {4}{B}
+Creature — Insect
+When Rotfeaster Maggot enters the battlefield, exile target creature card from a graveyard. You gain life equal to that card's toughness.
+3/5

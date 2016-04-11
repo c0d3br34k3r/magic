@@ -1,0 +1,4 @@
+Blue Ward {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.

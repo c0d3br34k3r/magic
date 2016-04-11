@@ -1,0 +1,3 @@
+Talrand's Invocation {2}{U}{U}
+Sorcery
+Put two 2/2 blue Drake creature tokens with flying onto the battlefield.

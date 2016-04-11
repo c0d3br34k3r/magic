@@ -1,0 +1,5 @@
+Puresteel Paladin {W}{W}
+Creature — Human Knight
+Whenever an Equipment enters the battlefield under your control, you may draw a card.
+Metalcraft — Equipment you control have equip {0} as long as you control three or more artifacts.
+2/2

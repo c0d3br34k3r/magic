@@ -1,0 +1,3 @@
+Overwhelming Instinct {2}{G}
+Enchantment
+Whenever you attack with three or more creatures, draw a card.

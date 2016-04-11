@@ -1,0 +1,3 @@
+Flames of the Blood Hand {2}{R}
+Instant
+Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.

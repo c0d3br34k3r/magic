@@ -1,0 +1,3 @@
+Sealed Fate {X}{U}{B}
+Sorcery
+Look at the top X cards of target opponent's library. Exile one of those cards and put the rest back on top of that player's library in any order.

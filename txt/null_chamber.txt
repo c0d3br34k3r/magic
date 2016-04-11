@@ -1,0 +1,4 @@
+Null Chamber {3}{W}
+World Enchantment
+As Null Chamber enters the battlefield, you and an opponent each name a card other than a basic land card.
+The named cards can't be played.

@@ -1,0 +1,3 @@
+Collective Blessing {3}{W}{G}{G}
+Enchantment
+Creatures you control get +3/+3.

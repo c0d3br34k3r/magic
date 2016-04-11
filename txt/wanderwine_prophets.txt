@@ -1,0 +1,5 @@
+Wanderwine Prophets {4}{U}{U}
+Creature — Merfolk Wizard
+Champion a Merfolk (When this enters the battlefield, sacrifice it unless you exile another Merfolk you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever Wanderwine Prophets deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one.
+4/4

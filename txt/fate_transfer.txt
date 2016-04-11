@@ -1,0 +1,3 @@
+Fate Transfer {1}{U/B}
+Instant
+Move all counters from target creature onto another target creature.

@@ -1,0 +1,4 @@
+Krosan Groundshaker {4}{G}{G}{G}
+Creature — Beast
+{G}: Target Beast creature gains trample until end of turn.
+6/6

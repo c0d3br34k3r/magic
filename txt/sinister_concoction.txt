@@ -1,0 +1,3 @@
+Sinister Concoction {B}
+Enchantment
+{B}, Pay 1 life, Put the top card of your library into your graveyard, Discard a card, Sacrifice Sinister Concoction: Destroy target creature.

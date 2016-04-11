@@ -1,0 +1,4 @@
+Ruin Processor {7}
+Creature — Eldrazi Processor
+When you cast Ruin Processor, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.
+7/8

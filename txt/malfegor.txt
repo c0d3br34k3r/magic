@@ -1,0 +1,5 @@
+Malfegor {2}{B}{B}{R}{R}
+Legendary Creature — Demon Dragon
+Flying
+When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.
+6/6

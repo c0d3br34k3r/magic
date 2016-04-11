@@ -1,0 +1,3 @@
+Zombie Infestation {1}{B}
+Enchantment
+Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.

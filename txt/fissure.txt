@@ -1,0 +1,3 @@
+Fissure {3}{R}{R}
+Instant
+Destroy target creature or land. It can't be regenerated.

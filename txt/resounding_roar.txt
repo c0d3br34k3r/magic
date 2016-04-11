@@ -1,0 +1,5 @@
+Resounding Roar {1}{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Cycling {5}{R}{G}{W} ({5}{R}{G}{W}, Discard this card: Draw a card.)
+When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.

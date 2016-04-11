@@ -1,0 +1,5 @@
+Prism Array {4}{U}
+Enchantment
+Converge — Prism Array enters the battlefield with a crystal counter on it for each color of mana spent to cast it.
+Remove a crystal counter from Prism Array: Tap target creature.
+{W}{U}{B}{R}{G}: Scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)

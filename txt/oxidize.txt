@@ -1,0 +1,3 @@
+Oxidize {G}
+Instant
+Destroy target artifact. It can't be regenerated.

@@ -1,0 +1,4 @@
+Pyromatics {1}{R}
+Instant
+Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Pyromatics deals 1 damage to target creature or player.

@@ -1,0 +1,6 @@
+Inverter of Truth {2}{B}{B}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Flying
+When Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.
+6/6

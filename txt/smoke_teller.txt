@@ -1,0 +1,4 @@
+Smoke Teller {1}{G}
+Creature — Human Shaman
+{1}{U}: Look at target face-down creature.
+2/2

@@ -1,0 +1,4 @@
+Riftsweeper {1}{G}
+Creature — Elf Shaman
+When Riftsweeper enters the battlefield, choose target face-up exiled card. Its owner shuffles it into his or her library.
+2/2

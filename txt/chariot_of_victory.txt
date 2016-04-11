@@ -1,0 +1,4 @@
+Chariot of Victory {3}
+Artifact — Equipment
+Equipped creature has first strike, trample, and haste.
+Equip {1}

@@ -1,0 +1,4 @@
+Kraul Warrior {1}{G}
+Creature — Insect Warrior
+{5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+2/2

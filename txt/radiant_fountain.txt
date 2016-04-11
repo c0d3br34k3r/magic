@@ -1,0 +1,4 @@
+Radiant Fountain
+Land
+When Radiant Fountain enters the battlefield, you gain 2 life.
+{T}: Add {C} to your mana pool.

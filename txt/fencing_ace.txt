@@ -1,0 +1,4 @@
+Fencing Ace {1}{W}
+Creature — Human Soldier
+Double strike (This creature deals both first-strike and regular combat damage.)
+1/1

@@ -1,0 +1,3 @@
+Kraken's Eye {2}
+Artifact
+Whenever a player casts a blue spell, you may gain 1 life.

@@ -1,0 +1,4 @@
+Llanowar Mentor {G}
+Creature — Elf Spellshaper
+{G}, {T}, Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves onto the battlefield. It has "{T}: Add {G} to your mana pool."
+1/1

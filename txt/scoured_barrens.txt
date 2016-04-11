@@ -1,0 +1,5 @@
+Scoured Barrens
+Land
+Scoured Barrens enters the battlefield tapped.
+When Scoured Barrens enters the battlefield, you gain 1 life.
+{T}: Add {W} or {B} to your mana pool.

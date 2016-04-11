@@ -1,0 +1,5 @@
+Cover of Winter {2}{W}
+Snow Enchantment
+Cumulative upkeep {S} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {S} can be paid with one mana from a snow permanent.)
+If a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.
+{S}: Put an age counter on Cover of Winter.

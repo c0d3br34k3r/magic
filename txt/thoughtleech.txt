@@ -1,0 +1,3 @@
+Thoughtleech {G}{G}
+Enchantment
+Whenever an Island an opponent controls becomes tapped, you may gain 1 life.

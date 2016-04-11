@@ -1,0 +1,4 @@
+Scorching Missile {3}{R}
+Sorcery
+Scorching Missile deals 4 damage to target player.
+Flashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

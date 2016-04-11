@@ -1,0 +1,4 @@
+Beacon Behemoth {3}{G}{G}
+Creature — Beast
+{1}: Target creature with power 5 or greater gains vigilance until end of turn.
+5/3

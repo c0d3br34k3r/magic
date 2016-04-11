@@ -1,0 +1,3 @@
+Soul Shred {3}{B}{B}
+Sorcery
+Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.

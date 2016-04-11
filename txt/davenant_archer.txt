@@ -1,0 +1,4 @@
+D'Avenant Archer {2}{W}
+Creature — Human Soldier Archer
+{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.
+1/2

@@ -1,0 +1,3 @@
+Obsidian Giant {4}{R}
+Creature — Giant
+4/4

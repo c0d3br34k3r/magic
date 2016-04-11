@@ -1,0 +1,4 @@
+Keeper of Kookus {R}
+Creature — Goblin
+{R}: Keeper of Kookus gains protection from red until end of turn.
+1/1

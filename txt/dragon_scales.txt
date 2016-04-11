@@ -1,0 +1,5 @@
+Dragon Scales {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2 and has vigilance.
+When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature.

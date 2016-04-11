@@ -1,0 +1,4 @@
+Behemoth's Herald {G}
+Creature — Elf Shaman
+{2}{G}, {T}, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it onto the battlefield. Then shuffle your library.
+1/1

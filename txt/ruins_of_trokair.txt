@@ -1,0 +1,5 @@
+Ruins of Trokair
+Land
+Ruins of Trokair enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.

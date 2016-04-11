@@ -1,0 +1,5 @@
+Hydromorph Gull {3}{U}{U}
+Creature — Elemental Bird
+Flying
+{U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.
+3/3

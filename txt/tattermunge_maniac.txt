@@ -1,0 +1,4 @@
+Tattermunge Maniac {R/G}
+Creature — Goblin Warrior
+Tattermunge Maniac attacks each turn if able.
+2/1

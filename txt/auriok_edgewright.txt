@@ -1,0 +1,4 @@
+Auriok Edgewright {W}{W}
+Creature — Human Soldier
+Metalcraft — Auriok Edgewright has double strike as long as you control three or more artifacts.
+2/2

@@ -1,0 +1,5 @@
+Cloudchaser Eagle {3}{W}
+Creature — Bird
+Flying
+When Cloudchaser Eagle enters the battlefield, destroy target enchantment.
+2/2

@@ -1,0 +1,6 @@
+Ruination Guide {2}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+Other colorless creatures you control get +1/+0.
+3/2

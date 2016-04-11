@@ -1,0 +1,3 @@
+Chandra's Ignition {3}{R}{R}
+Sorcery
+Target creature you control deals damage equal to its power to each other creature and each opponent.

@@ -1,0 +1,5 @@
+Wall of Pine Needles {3}{G}
+Creature — Plant Wall
+Defender (This creature can't attack.)
+{G}: Regenerate Wall of Pine Needles.
+3/3

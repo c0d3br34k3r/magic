@@ -1,0 +1,5 @@
+Viscerid Armor {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+{1}{U}: Return Viscerid Armor to its owner's hand.

@@ -1,0 +1,4 @@
+Nantuko Mentor {2}{G}
+Creature — Insect Druid
+{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power.
+1/1

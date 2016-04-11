@@ -1,0 +1,3 @@
+Goblin Hero {2}{R}
+Creature — Goblin
+2/2

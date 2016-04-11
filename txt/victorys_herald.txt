@@ -1,0 +1,5 @@
+Victory's Herald {3}{W}{W}{W}
+Creature — Angel
+Flying
+Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.
+4/4

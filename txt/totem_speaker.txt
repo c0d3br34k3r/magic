@@ -1,0 +1,4 @@
+Totem Speaker {4}{G}
+Creature — Elf Druid
+Whenever a Beast enters the battlefield, you may gain 3 life.
+3/3

@@ -1,0 +1,4 @@
+Sylvok Replica {3}
+Artifact Creature — Shaman
+{G}, Sacrifice Sylvok Replica: Destroy target artifact or enchantment.
+1/3

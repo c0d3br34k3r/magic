@@ -1,0 +1,3 @@
+Demon's Horn {2}
+Artifact
+Whenever a player casts a black spell, you may gain 1 life.

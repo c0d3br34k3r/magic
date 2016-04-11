@@ -1,0 +1,4 @@
+Legacy's Allure {U}{U}
+Enchantment
+At the beginning of your upkeep, you may put a treasure counter on Legacy's Allure.
+Sacrifice Legacy's Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy's Allure. (This effect lasts indefinitely.)

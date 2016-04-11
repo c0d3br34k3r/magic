@@ -1,0 +1,4 @@
+Talisman of Unity {2}
+Artifact
+{T}: Add {C} to your mana pool.
+{T}: Add {G} or {W} to your mana pool. Talisman of Unity deals 1 damage to you.

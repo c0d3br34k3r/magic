@@ -1,0 +1,4 @@
+Michiko Konda, Truth Seeker {3}{W}
+Legendary Creature — Human Advisor
+Whenever a source an opponent controls deals damage to you, that player sacrifices a permanent.
+2/2

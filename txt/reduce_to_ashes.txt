@@ -1,0 +1,3 @@
+Reduce to Ashes {4}{R}
+Sorcery
+Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.

@@ -1,0 +1,5 @@
+Axebane Guardian {2}{G}
+Creature — Human Druid
+Defender
+{T}: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control.
+0/3

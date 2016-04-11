@@ -1,0 +1,4 @@
+Grim Backwoods
+Land
+{T}: Add {C} to your mana pool.
+{2}{B}{G}, {T}, Sacrifice a creature: Draw a card.

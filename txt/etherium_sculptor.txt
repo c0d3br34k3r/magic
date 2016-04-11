@@ -1,0 +1,4 @@
+Etherium Sculptor {1}{U}
+Artifact Creature — Vedalken Artificer
+Artifact spells you cast cost {1} less to cast.
+1/2

@@ -1,0 +1,5 @@
+Pouncing Wurm {3}{G}
+Creature — Wurm
+Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If Pouncing Wurm was kicked, it enters the battlefield with three +1/+1 counters on it and with haste.
+3/3

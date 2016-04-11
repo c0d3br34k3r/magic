@@ -1,0 +1,4 @@
+Young Pyromancer {1}{R}
+Creature — Human Shaman
+Whenever you cast an instant or sorcery spell, put a 1/1 red Elemental creature token onto the battlefield.
+2/1

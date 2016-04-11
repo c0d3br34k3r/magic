@@ -1,0 +1,4 @@
+Quirion Ranger {G}
+Creature — Elf
+Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+1/1

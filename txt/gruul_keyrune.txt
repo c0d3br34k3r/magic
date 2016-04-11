@@ -1,0 +1,4 @@
+Gruul Keyrune {3}
+Artifact
+{T}: Add {R} or {G} to your mana pool.
+{R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.

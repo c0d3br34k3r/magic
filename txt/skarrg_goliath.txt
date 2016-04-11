@@ -1,0 +1,5 @@
+Skarrg Goliath {6}{G}{G}
+Creature — Beast
+Trample
+Bloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
+9/9

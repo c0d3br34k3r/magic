@@ -1,0 +1,3 @@
+Soldevi Digger {2}
+Artifact
+{2}: Put the top card of your graveyard on the bottom of your library.

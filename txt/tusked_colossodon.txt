@@ -1,0 +1,3 @@
+Tusked Colossodon {4}{G}{G}
+Creature — Beast
+6/5

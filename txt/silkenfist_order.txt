@@ -1,0 +1,4 @@
+Silkenfist Order {3}{W}{W}
+Creature — Kor Soldier
+Whenever Silkenfist Order becomes blocked, untap it.
+3/5

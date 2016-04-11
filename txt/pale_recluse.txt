@@ -1,0 +1,5 @@
+Pale Recluse {4}{W}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Forestcycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+4/5

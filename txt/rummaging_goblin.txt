@@ -1,0 +1,4 @@
+Rummaging Goblin {2}{R}
+Creature — Goblin Rogue
+{T}, Discard a card: Draw a card.
+1/1

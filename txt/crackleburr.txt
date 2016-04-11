@@ -1,0 +1,5 @@
+Crackleburr {1}{U/R}{U/R}
+Creature — Elemental
+{U/R}{U/R}, {T}, Tap two untapped red creatures you control: Crackleburr deals 3 damage to target creature or player.
+{U/R}{U/R}, {Q}, Untap two tapped blue creatures you control: Return target creature to its owner's hand. ({Q} is the untap symbol.)
+2/2

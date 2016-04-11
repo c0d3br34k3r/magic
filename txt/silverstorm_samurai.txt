@@ -1,0 +1,5 @@
+Silverstorm Samurai {4}{W}{W}
+Creature — Fox Samurai
+Flash
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+3/3

@@ -1,0 +1,3 @@
+Silent Artisan {3}{W}{W}
+Creature — Giant
+3/5

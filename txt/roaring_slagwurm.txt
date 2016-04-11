@@ -1,0 +1,4 @@
+Roaring Slagwurm {5}{G}{G}
+Creature — Wurm
+Whenever Roaring Slagwurm attacks, tap all artifacts.
+6/4

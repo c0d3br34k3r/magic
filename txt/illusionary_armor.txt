@@ -1,0 +1,5 @@
+Illusionary Armor {4}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +4/+4.
+When enchanted creature becomes the target of a spell or ability, sacrifice Illusionary Armor.

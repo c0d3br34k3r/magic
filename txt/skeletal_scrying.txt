@@ -1,0 +1,4 @@
+Skeletal Scrying {X}{B}
+Instant
+As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.
+You draw X cards and you lose X life.

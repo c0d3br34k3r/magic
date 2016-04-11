@@ -1,0 +1,3 @@
+Nature's Cloak {2}{G}
+Sorcery
+Green creatures you control gain forestwalk until end of turn. (They can't be blocked as long as defending player controls a Forest.)

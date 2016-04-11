@@ -1,0 +1,4 @@
+Xenic Poltergeist {1}{B}{B}
+Creature — Spirit
+{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+1/1

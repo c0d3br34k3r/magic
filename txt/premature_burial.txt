@@ -1,0 +1,3 @@
+Premature Burial {1}{B}
+Sorcery
+Destroy target nonblack creature that entered the battlefield since your last turn ended.

@@ -1,0 +1,4 @@
+Voltaic Construct {4}
+Artifact Creature — Golem Construct
+{2}: Untap target artifact creature.
+2/2

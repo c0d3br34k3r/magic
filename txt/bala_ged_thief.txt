@@ -1,0 +1,4 @@
+Bala Ged Thief {3}{B}
+Creature — Human Rogue Ally
+Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.
+2/2

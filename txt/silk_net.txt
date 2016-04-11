@@ -1,0 +1,3 @@
+Silk Net {G}
+Instant
+Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)

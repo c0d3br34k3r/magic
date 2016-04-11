@@ -1,0 +1,6 @@
+Shielding Plax {2}{G/U}
+Enchantment — Aura
+({G/U} can be paid with either {G} or {U}.)
+Enchant creature
+When Shielding Plax enters the battlefield, draw a card.
+Enchanted creature can't be the target of spells or abilities your opponents control.

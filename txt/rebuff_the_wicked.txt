@@ -1,0 +1,3 @@
+Rebuff the Wicked {W}
+Instant
+Counter target spell that targets a permanent you control.

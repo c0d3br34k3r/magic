@@ -1,0 +1,3 @@
+Reave Soul {1}{B}
+Sorcery
+Destroy target creature with power 3 or less.

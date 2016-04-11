@@ -1,0 +1,4 @@
+Thassa's Devourer {4}{U}
+Enchantment Creature — Elemental
+Constellation — Whenever Thassa's Devourer or another enchantment enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.
+2/6

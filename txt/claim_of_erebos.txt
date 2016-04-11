@@ -1,0 +1,4 @@
+Claim of Erebos {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{1}{B}, {T}: Target player loses 2 life."

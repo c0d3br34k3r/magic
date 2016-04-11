@@ -1,0 +1,4 @@
+Flamewave Invoker {2}{R}
+Creature — Goblin Mutant
+{7}{R}: Flamewave Invoker deals 5 damage to target player.
+2/2

@@ -1,0 +1,3 @@
+Encroach {B}
+Sorcery
+Target player reveals his or her hand. You choose a nonbasic land card from it. That player discards that card.

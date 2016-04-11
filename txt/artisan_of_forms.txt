@@ -1,0 +1,4 @@
+Artisan of Forms {1}{U}
+Creature — Human Wizard
+Heroic — Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.
+1/1

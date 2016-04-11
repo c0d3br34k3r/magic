@@ -1,0 +1,4 @@
+Tarnished Citadel
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Tarnished Citadel deals 3 damage to you.

@@ -1,0 +1,4 @@
+Sliversmith {2}
+Artifact Creature — Spellshaper
+{1}, {T}, Discard a card: Put a 1/1 colorless Sliver artifact creature token named Metallic Sliver onto the battlefield.
+1/1

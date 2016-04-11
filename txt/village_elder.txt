@@ -1,0 +1,4 @@
+Village Elder {G}
+Creature — Human Druid
+{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+1/1

@@ -1,0 +1,3 @@
+Flatten {3}{B}
+Instant
+Target creature gets -4/-4 until end of turn.

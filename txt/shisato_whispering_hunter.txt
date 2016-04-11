@@ -1,0 +1,5 @@
+Shisato, Whispering Hunter {3}{G}
+Legendary Creature — Snake Warrior
+At the beginning of your upkeep, sacrifice a Snake.
+Whenever Shisato, Whispering Hunter deals combat damage to a player, that player skips his or her next untap step.
+2/2

@@ -1,0 +1,4 @@
+Woodland Stream
+Land
+Woodland Stream enters the battlefield tapped.
+{T}: Add {G} or {U} to your mana pool.

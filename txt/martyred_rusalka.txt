@@ -1,0 +1,4 @@
+Martyred Rusalka {W}
+Creature — Spirit
+{W}, Sacrifice a creature: Target creature can't attack this turn.
+1/1

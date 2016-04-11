@@ -1,0 +1,4 @@
+Angelsong {1}{W}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)

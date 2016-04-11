@@ -1,0 +1,3 @@
+Survival of the Fittest {1}{G}
+Enchantment
+{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.

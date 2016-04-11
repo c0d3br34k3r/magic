@@ -1,0 +1,4 @@
+Winding Canyons
+Land
+{T}: Add {C} to your mana pool.
+{2}, {T}: Until end of turn, you may play creature cards as though they had flash.

@@ -1,0 +1,4 @@
+Wall of Air {1}{U}{U}
+Creature — Wall
+Defender, flying (This creature can't attack, and it can block creatures with flying.)
+1/5

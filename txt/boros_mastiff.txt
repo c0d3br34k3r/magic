@@ -1,0 +1,4 @@
+Boros Mastiff {1}{W}
+Creature — Hound
+Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+2/2

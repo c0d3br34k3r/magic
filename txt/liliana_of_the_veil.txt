@@ -1,0 +1,6 @@
+Liliana of the Veil {1}{B}{B}
+Planeswalker — Liliana
++1: Each player discards a card.
+−2: Target player sacrifices a creature.
+−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.
+3

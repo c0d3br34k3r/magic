@@ -1,0 +1,4 @@
+Apes of Rath {2}{G}{G}
+Creature — Ape
+Whenever Apes of Rath attacks, it doesn't untap during its controller's next untap step.
+5/4

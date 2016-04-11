@@ -1,0 +1,4 @@
+Stinkdrinker Daredevil {2}{R}
+Creature — Goblin Rogue
+Giant spells you cast cost {2} less to cast.
+1/3

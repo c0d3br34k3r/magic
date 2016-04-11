@@ -1,0 +1,4 @@
+Urbis Protector {4}{W}{W}
+Creature — Human Cleric
+When Urbis Protector enters the battlefield, put a 4/4 white Angel creature token with flying onto the battlefield.
+1/1

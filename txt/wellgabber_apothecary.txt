@@ -1,0 +1,4 @@
+Wellgabber Apothecary {4}{W}
+Creature — Merfolk Cleric
+{1}{W}: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.
+2/3

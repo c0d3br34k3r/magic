@@ -1,0 +1,4 @@
+Bloodflow Connoisseur {2}{B}
+Creature — Vampire
+Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.
+1/1

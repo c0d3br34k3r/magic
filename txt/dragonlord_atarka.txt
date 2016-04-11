@@ -1,0 +1,5 @@
+Dragonlord Atarka {5}{R}{G}
+Legendary Creature — Elder Dragon
+Flying, trample
+When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.
+8/8

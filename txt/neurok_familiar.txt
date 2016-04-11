@@ -1,0 +1,5 @@
+Neurok Familiar {1}{U}
+Creature — Bird
+Flying
+When Neurok Familiar enters the battlefield, reveal the top card of your library. If it's an artifact card, put it into your hand. Otherwise, put it into your graveyard.
+1/1

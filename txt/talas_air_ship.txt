@@ -1,0 +1,4 @@
+Talas Air Ship {3}{U}
+Creature — Human Pirate
+Flying
+3/2

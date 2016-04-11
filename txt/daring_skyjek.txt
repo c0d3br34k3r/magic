@@ -1,0 +1,4 @@
+Daring Skyjek {1}{W}
+Creature — Human Knight
+Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.
+3/1

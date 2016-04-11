@@ -1,0 +1,4 @@
+Narstad Scrapper {5}
+Artifact Creature — Construct
+{2}: Narstad Scrapper gets +1/+0 until end of turn.
+3/3

@@ -1,0 +1,4 @@
+Horizon Seed {4}{W}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, regenerate target creature.
+2/1

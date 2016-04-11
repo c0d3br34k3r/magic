@@ -1,0 +1,6 @@
+Phantasmal Sphere {1}{U}
+Creature — Illusion
+Flying
+At the beginning of your upkeep, put a +1/+1 counter on Phantasmal Sphere, then sacrifice Phantasmal Sphere unless you pay {1} for each +1/+1 counter on it.
+When Phantasmal Sphere leaves the battlefield, target opponent puts an X/X blue Orb creature token with flying onto the battlefield, where X is the number of +1/+1 counters on Phantasmal Sphere.
+0/1

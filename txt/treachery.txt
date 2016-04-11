@@ -1,0 +1,5 @@
+Treachery {3}{U}{U}
+Enchantment — Aura
+Enchant creature
+When Treachery enters the battlefield, untap up to five lands.
+You control enchanted creature.

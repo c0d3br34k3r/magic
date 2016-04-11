@@ -1,0 +1,4 @@
+Flamecore Elemental {2}{R}{R}
+Creature — Elemental
+Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+5/4

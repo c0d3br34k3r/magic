@@ -1,0 +1,13 @@
+Archangel Avacyn {3}{W}{W}
+Legendary Creature — Angel
+Flash
+Flying, vigilance
+When Archangel Avacyn enters the battlefield, creatures you control gain indestructible until end of turn.
+When a non-Angel creature you control dies, transform Archangel Avacyn at the beginning of the next upkeep.
+4/4
+* DOUBLE-FACED *
+Avacyn, the Purifier
+Legendary Creature — Angel
+Flying
+When this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.
+6/5

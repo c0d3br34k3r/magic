@@ -1,0 +1,3 @@
+Undertow {2}{U}
+Enchantment
+Creatures with islandwalk can be blocked as though they didn't have islandwalk.

@@ -1,0 +1,4 @@
+Hanna, Ship's Navigator {1}{W}{U}
+Legendary Creature — Human Artificer
+{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand.
+1/2

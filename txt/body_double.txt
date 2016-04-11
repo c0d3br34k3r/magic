@@ -1,0 +1,4 @@
+Body Double {4}{U}
+Creature — Shapeshifter
+You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.
+0/0

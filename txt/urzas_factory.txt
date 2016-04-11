@@ -1,0 +1,4 @@
+Urza's Factory
+Land — Urza’s
+{T}: Add {C} to your mana pool.
+{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.

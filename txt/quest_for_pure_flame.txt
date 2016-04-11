@@ -1,0 +1,4 @@
+Quest for Pure Flame {R}
+Enchantment
+Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.
+Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.

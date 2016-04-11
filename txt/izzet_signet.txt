@@ -1,0 +1,3 @@
+Izzet Signet {2}
+Artifact
+{1}, {T}: Add {U}{R} to your mana pool.

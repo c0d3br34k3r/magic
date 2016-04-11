@@ -1,0 +1,4 @@
+Lightning Talons {2}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)

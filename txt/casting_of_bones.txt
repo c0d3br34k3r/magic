@@ -1,0 +1,4 @@
+Casting of Bones {2}{B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, draw three cards, then discard one of them.

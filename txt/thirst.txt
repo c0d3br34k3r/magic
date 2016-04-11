@@ -1,0 +1,6 @@
+Thirst {2}{U}
+Enchantment — Aura
+Enchant creature
+When Thirst enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+At the beginning of your upkeep, sacrifice Thirst unless you pay {U}.

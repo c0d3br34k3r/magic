@@ -1,0 +1,4 @@
+Skyrider Trainee {4}{W}
+Creature — Human Soldier
+Skyrider Trainee has flying as long as it's enchanted.
+3/3

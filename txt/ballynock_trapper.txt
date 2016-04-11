@@ -1,0 +1,5 @@
+Ballynock Trapper {3}{W}
+Creature — Kithkin Soldier
+{T}: Tap target creature.
+Whenever you cast a white spell, you may untap Ballynock Trapper.
+2/2

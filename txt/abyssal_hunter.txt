@@ -1,0 +1,4 @@
+Abyssal Hunter {3}{B}
+Creature — Human Assassin
+{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.
+1/1

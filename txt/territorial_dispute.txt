@@ -1,0 +1,4 @@
+Territorial Dispute {4}{R}{R}
+Enchantment
+At the beginning of your upkeep, sacrifice Territorial Dispute unless you sacrifice a land.
+Players can't play lands.

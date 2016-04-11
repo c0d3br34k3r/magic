@@ -1,0 +1,3 @@
+Planar Overlay {2}{U}
+Sorcery
+Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.

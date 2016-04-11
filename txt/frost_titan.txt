@@ -1,0 +1,5 @@
+Frost Titan {4}{U}{U}
+Creature — Giant
+Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.
+Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.
+6/6

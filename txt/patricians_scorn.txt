@@ -1,0 +1,4 @@
+Patrician's Scorn {3}{W}
+Instant
+If you've cast another white spell this turn, you may cast Patrician's Scorn without paying its mana cost.
+Destroy all enchantments.

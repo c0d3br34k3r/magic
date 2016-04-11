@@ -1,0 +1,3 @@
+Disrupting Scepter {3}
+Artifact
+{3}, {T}: Target player discards a card. Activate this ability only during your turn.

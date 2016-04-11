@@ -1,0 +1,5 @@
+Tangle Spider {4}{G}{G}
+Creature — Spider
+Flash (You may cast this spell any time you could cast an instant.)
+Reach (This creature can block creatures with flying.)
+3/4

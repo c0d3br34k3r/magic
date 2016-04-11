@@ -1,0 +1,4 @@
+Roilmage's Trick {3}{U}
+Instant
+Converge — Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast Roilmage's Trick.
+Draw a card.

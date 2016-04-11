@@ -1,0 +1,3 @@
+Spellbook {0}
+Artifact
+You have no maximum hand size.

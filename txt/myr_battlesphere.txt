@@ -1,0 +1,5 @@
+Myr Battlesphere {7}
+Artifact Creature — Myr Construct
+When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.
+Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
+4/7

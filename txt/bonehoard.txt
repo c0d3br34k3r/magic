@@ -1,0 +1,5 @@
+Bonehoard {4}
+Artifact — Equipment
+Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.
+Equip {2}

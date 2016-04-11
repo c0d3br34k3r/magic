@@ -1,0 +1,5 @@
+Sedge Troll {2}{R}
+Creature — Troll
+Sedge Troll gets +1/+1 as long as you control a Swamp.
+{B}: Regenerate Sedge Troll.
+2/2

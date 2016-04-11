@@ -1,0 +1,4 @@
+Bog Rats {B}
+Creature — Rat
+Bog Rats can't be blocked by Walls.
+1/1

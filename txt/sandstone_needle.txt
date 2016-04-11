@@ -1,0 +1,4 @@
+Sandstone Needle
+Land
+Sandstone Needle enters the battlefield tapped with two depletion counters on it.
+{T}, Remove a depletion counter from Sandstone Needle: Add {R}{R} to your mana pool. If there are no depletion counters on Sandstone Needle, sacrifice it.

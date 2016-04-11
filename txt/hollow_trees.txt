@@ -1,0 +1,6 @@
+Hollow Trees
+Land
+Hollow Trees enters the battlefield tapped.
+You may choose not to untap Hollow Trees during your untap step.
+At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.

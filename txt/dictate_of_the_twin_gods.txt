@@ -1,0 +1,4 @@
+Dictate of the Twin Gods {3}{R}{R}
+Enchantment
+Flash
+If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.

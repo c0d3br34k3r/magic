@@ -1,0 +1,4 @@
+Kitsune Diviner {W}
+Creature — Fox Cleric
+{T}: Tap target Spirit.
+0/1

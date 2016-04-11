@@ -1,0 +1,3 @@
+Rescue {U}
+Instant
+Return target permanent you control to its owner's hand.

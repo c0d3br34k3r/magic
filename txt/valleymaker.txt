@@ -1,0 +1,5 @@
+Valleymaker {5}{R/G}
+Creature — Giant Shaman
+{T}, Sacrifice a Mountain: Valleymaker deals 3 damage to target creature.
+{T}, Sacrifice a Forest: Choose a player. That player adds {G}{G}{G} to his or her mana pool.
+5/5

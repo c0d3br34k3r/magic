@@ -1,0 +1,4 @@
+Demonic Attorney {1}{B}{B}
+Sorcery
+Remove Demonic Attorney from your deck before playing if you're not playing for ante.
+Each player antes the top card of his or her library.

@@ -1,0 +1,4 @@
+Purify the Grave {W}
+Instant
+Exile target card from a graveyard.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

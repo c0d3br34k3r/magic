@@ -1,0 +1,4 @@
+Unburden {1}{B}{B}
+Sorcery
+Target player discards two cards.
+Cycling {2} ({2}, Discard this card: Draw a card.)

@@ -1,0 +1,4 @@
+Essence Bottle {2}
+Artifact
+{3}, {T}: Put an elixir counter on Essence Bottle.
+{T}, Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.

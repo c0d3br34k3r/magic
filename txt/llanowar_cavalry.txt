@@ -1,0 +1,4 @@
+Llanowar Cavalry {2}{G}
+Creature — Human Soldier
+{W}: Llanowar Cavalry gains vigilance until end of turn.
+1/4

@@ -1,0 +1,4 @@
+Satyr Hedonist {1}{G}
+Creature — Satyr
+{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.
+2/1

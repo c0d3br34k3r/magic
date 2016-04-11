@@ -1,0 +1,4 @@
+Primal Forcemage {2}{G}
+Creature — Elf Shaman
+Whenever another creature enters the battlefield under your control, that creature gets +3/+3 until end of turn.
+2/2

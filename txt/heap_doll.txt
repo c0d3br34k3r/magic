@@ -1,0 +1,4 @@
+Heap Doll {1}
+Artifact Creature — Scarecrow
+Sacrifice Heap Doll: Exile target card from a graveyard.
+1/1

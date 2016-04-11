@@ -1,0 +1,3 @@
+Dragonrage {2}{R}
+Instant
+Add {R} to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain "{R}: This creature gets +1/+0 until end of turn."

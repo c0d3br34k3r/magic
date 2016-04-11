@@ -1,0 +1,4 @@
+Dwarven Strike Force {4}{R}
+Creature — Dwarf Berserker
+Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.
+4/3

@@ -1,0 +1,4 @@
+Bloodcrazed Goblin {R}
+Creature — Goblin Berserker
+Bloodcrazed Goblin can't attack unless an opponent has been dealt damage this turn.
+2/2

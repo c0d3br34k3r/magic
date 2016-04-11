@@ -1,0 +1,5 @@
+Tethered Skirge {2}{B}
+Creature — Imp
+Flying
+Whenever Tethered Skirge becomes the target of a spell or ability, you lose 1 life.
+2/2

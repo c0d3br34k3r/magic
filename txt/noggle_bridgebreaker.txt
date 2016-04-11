@@ -1,0 +1,4 @@
+Noggle Bridgebreaker {2}{U/R}{U/R}
+Creature — Noggle Rogue
+When Noggle Bridgebreaker enters the battlefield, return a land you control to its owner's hand.
+4/3

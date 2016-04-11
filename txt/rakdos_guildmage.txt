@@ -1,0 +1,6 @@
+Rakdos Guildmage {B/R}{B/R}
+Creature — Zombie Shaman
+({B/R} can be paid with either {B} or {R}.)
+{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.
+{3}{R}: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.
+2/2

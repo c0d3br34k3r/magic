@@ -1,0 +1,3 @@
+Static Orb {3}
+Artifact
+As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps.

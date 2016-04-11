@@ -1,0 +1,3 @@
+Elephant Resurgence {1}{G}
+Sorcery
+Each player puts a green Elephant creature token onto the battlefield. Those creatures have "This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard."

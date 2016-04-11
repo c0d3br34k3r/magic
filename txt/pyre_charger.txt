@@ -1,0 +1,5 @@
+Pyre Charger {R}{R}
+Creature — Elemental Warrior
+Haste
+{R}: Pyre Charger gets +1/+0 until end of turn.
+1/1

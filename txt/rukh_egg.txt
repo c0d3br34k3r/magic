@@ -1,0 +1,4 @@
+Rukh Egg {3}{R}
+Creature — Bird
+When Rukh Egg dies, put a 4/4 red Bird creature token with flying onto the battlefield at the beginning of the next end step.
+0/3

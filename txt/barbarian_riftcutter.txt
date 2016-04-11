@@ -1,0 +1,4 @@
+Barbarian Riftcutter {4}{R}
+Creature — Human Barbarian
+{R}, Sacrifice Barbarian Riftcutter: Destroy target land.
+3/3

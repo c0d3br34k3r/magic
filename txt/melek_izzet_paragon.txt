@@ -1,0 +1,6 @@
+Melek, Izzet Paragon {4}{U}{R}
+Legendary Creature — Weird Wizard
+Play with the top card of your library revealed.
+You may cast the top card of your library if it's an instant or sorcery card.
+Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.
+2/4

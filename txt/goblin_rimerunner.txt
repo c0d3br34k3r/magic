@@ -1,0 +1,5 @@
+Goblin Rimerunner {2}{R}
+Snow Creature — Goblin Warrior
+{T}: Target creature can't block this turn.
+{S}: Goblin Rimerunner gains haste until end of turn. ({S} can be paid with one mana from a snow permanent.)
+2/2

@@ -1,0 +1,3 @@
+Kindle the Carnage {1}{R}{R}
+Sorcery
+Discard a card at random. If you do, Kindle the Carnage deals damage equal to that card's converted mana cost to each creature. You may repeat this process any number of times.

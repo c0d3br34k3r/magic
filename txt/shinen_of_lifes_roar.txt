@@ -1,0 +1,5 @@
+Shinen of Life's Roar {1}{G}
+Creature — Spirit
+All creatures able to block Shinen of Life's Roar do so.
+Channel — {2}{G}{G}, Discard Shinen of Life's Roar: All creatures able to block target creature this turn do so.
+1/2

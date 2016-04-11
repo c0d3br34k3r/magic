@@ -1,0 +1,4 @@
+Lorthos, the Tidemaker {5}{U}{U}{U}
+Legendary Creature — Octopus
+Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.
+8/8

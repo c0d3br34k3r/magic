@@ -1,0 +1,4 @@
+Goliath Sphinx {5}{U}{U}
+Creature — Sphinx
+Flying
+8/7

@@ -1,0 +1,4 @@
+Hazduhr the Abbot {3}{W}{W}
+Legendary Creature — Human Cleric
+{X}, {T}: The next X damage that would be dealt this turn to target white creature you control is dealt to Hazduhr the Abbot instead.
+2/5

@@ -1,0 +1,4 @@
+Haunter of Nightveil {3}{U}{B}
+Creature — Spirit
+Creatures your opponents control get -1/-0.
+3/4

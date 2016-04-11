@@ -1,0 +1,3 @@
+True Conviction {3}{W}{W}{W}
+Enchantment
+Creatures you control have double strike and lifelink.

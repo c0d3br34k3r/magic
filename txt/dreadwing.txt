@@ -1,0 +1,4 @@
+Dreadwing {B}
+Creature — Zombie
+{1}{U}{R}: Dreadwing gets +3/+0 and gains flying until end of turn.
+1/1

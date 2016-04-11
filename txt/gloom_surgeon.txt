@@ -1,0 +1,4 @@
+Gloom Surgeon {1}{B}
+Creature — Spirit
+If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.
+2/1

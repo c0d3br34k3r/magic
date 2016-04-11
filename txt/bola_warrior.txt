@@ -1,0 +1,4 @@
+Bola Warrior {1}{R}
+Creature — Human Spellshaper Warrior
+{R}, {T}, Discard a card: Target creature can't block this turn.
+1/1

@@ -1,0 +1,6 @@
+Hero of Oxid Ridge {2}{R}{R}
+Creature — Human Knight
+Haste
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't block this turn.
+4/2

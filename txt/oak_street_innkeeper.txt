@@ -1,0 +1,4 @@
+Oak Street Innkeeper {2}{G}
+Creature — Elf
+As long as it's not your turn, tapped creatures you control have hexproof.
+1/2

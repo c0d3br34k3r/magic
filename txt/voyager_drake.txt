@@ -1,0 +1,6 @@
+Voyager Drake {3}{U}
+Creature — Drake
+Multikicker {U} (You may pay an additional {U} any number of times as you cast this spell.)
+Flying
+When Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.
+3/3

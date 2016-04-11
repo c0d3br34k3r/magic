@@ -1,0 +1,5 @@
+Kjeldoran Pride {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2.
+{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.

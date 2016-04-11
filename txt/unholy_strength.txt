@@ -1,0 +1,4 @@
+Unholy Strength {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1.

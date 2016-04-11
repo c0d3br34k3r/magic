@@ -1,0 +1,4 @@
+Nightbird's Clutches {1}{R}
+Sorcery
+Up to two target creatures can't block this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

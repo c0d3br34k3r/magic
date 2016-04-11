@@ -1,0 +1,3 @@
+Ordered Migration {3}{W}{U}
+Sorcery
+Domain — Put a 1/1 blue Bird creature token with flying onto the battlefield for each basic land type among lands you control.

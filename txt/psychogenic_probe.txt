@@ -1,0 +1,3 @@
+Psychogenic Probe {2}
+Artifact
+Whenever a spell or ability causes a player to shuffle his or her library, Psychogenic Probe deals 2 damage to him or her.

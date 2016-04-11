@@ -1,0 +1,4 @@
+Baloth Woodcrasher {4}{G}{G}
+Creature — Beast
+Landfall — Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.
+4/4

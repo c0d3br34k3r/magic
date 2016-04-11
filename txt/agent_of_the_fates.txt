@@ -1,0 +1,5 @@
+Agent of the Fates {1}{B}{B}
+Creature — Human Assassin
+Deathtouch
+Heroic — Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.
+3/2

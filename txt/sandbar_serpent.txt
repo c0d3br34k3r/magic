@@ -1,0 +1,4 @@
+Sandbar Serpent {4}{U}
+Creature — Serpent
+Cycling {2} ({2}, Discard this card: Draw a card.)
+3/4

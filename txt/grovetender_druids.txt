@@ -1,0 +1,4 @@
+Grovetender Druids {2}{W}{G}
+Creature — Elf Druid Ally
+Rally — Whenever Grovetender Druids or another Ally enters the battlefield under your control, you may pay {1}. If you do, put a 1/1 green Plant creature token onto the battlefield.
+3/3

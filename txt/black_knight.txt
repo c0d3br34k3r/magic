@@ -1,0 +1,5 @@
+Black Knight {B}{B}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+2/2

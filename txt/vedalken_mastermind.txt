@@ -1,0 +1,4 @@
+Vedalken Mastermind {U}{U}
+Creature — Vedalken Wizard
+{U}, {T}: Return target permanent you control to its owner's hand.
+1/2

@@ -1,0 +1,5 @@
+Sharding Sphinx {4}{U}{U}
+Artifact Creature — Sphinx
+Flying
+Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.
+4/4

@@ -1,0 +1,4 @@
+Winds of Qal Sisma {1}{G}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Ferocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control.

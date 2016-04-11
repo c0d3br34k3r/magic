@@ -1,0 +1,3 @@
+Unified Front {3}{W}
+Sorcery
+Converge — Put a 1/1 white Kor Ally creature token onto the battlefield for each color of mana spent to cast Unified Front.

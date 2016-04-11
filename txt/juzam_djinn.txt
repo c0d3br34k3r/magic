@@ -1,0 +1,4 @@
+Juzám Djinn {2}{B}{B}
+Creature — Djinn
+At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.
+5/5

@@ -1,0 +1,5 @@
+Teferi's Honor Guard {2}{W}
+Creature — Human Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{U}{U}: Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)
+2/2

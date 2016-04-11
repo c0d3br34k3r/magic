@@ -1,0 +1,6 @@
+Hellspark Elemental {1}{R}
+Creature — Elemental
+Trample, haste
+At the beginning of the end step, sacrifice Hellspark Elemental.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+3/1

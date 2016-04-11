@@ -1,0 +1,4 @@
+Lorescale Coatl {1}{U}{G}
+Creature — Snake
+Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.
+2/2

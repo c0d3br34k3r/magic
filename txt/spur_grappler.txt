@@ -1,0 +1,4 @@
+Spur Grappler {2}{R}
+Creature — Beast
+Spur Grappler gets +2/+1 as long as you control no untapped lands.
+2/1

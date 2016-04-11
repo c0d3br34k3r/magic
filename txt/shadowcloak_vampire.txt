@@ -1,0 +1,4 @@
+Shadowcloak Vampire {4}{B}
+Creature — Vampire
+Pay 2 life: Shadowcloak Vampire gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+4/3

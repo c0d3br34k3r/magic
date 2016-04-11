@@ -1,0 +1,6 @@
+Skylasher {1}{G}
+Creature — Insect
+Flash
+Skylasher can't be countered.
+Reach, protection from blue
+2/2

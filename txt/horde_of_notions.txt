@@ -1,0 +1,5 @@
+Horde of Notions {W}{U}{B}{R}{G}
+Legendary Creature — Elemental
+Vigilance, trample, haste
+{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.
+5/5

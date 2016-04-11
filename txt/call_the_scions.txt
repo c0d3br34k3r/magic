@@ -1,0 +1,4 @@
+Call the Scions {2}{G}
+Sorcery
+Devoid (This card has no color.)
+Put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."

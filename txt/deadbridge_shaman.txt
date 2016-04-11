@@ -1,0 +1,4 @@
+Deadbridge Shaman {2}{B}
+Creature — Elf Shaman
+When Deadbridge Shaman dies, target opponent discards a card.
+3/1

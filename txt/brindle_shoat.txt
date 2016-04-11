@@ -1,0 +1,4 @@
+Brindle Shoat {1}{G}
+Creature — Boar
+When Brindle Shoat dies, put a 3/3 green Boar creature token onto the battlefield.
+1/1

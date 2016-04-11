@@ -1,0 +1,6 @@
+Rain of Thorns {4}{G}{G}
+Sorcery
+Choose one or more —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target land.

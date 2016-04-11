@@ -1,0 +1,5 @@
+Magus of the Disk {2}{W}{W}
+Creature — Human Wizard
+Magus of the Disk enters the battlefield tapped.
+{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+2/4

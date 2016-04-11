@@ -1,0 +1,5 @@
+Bloodthirsty Ogre {2}{B}
+Creature — Ogre Warrior Shaman
+{T}: Put a devotion counter on Bloodthirsty Ogre.
+{T}: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate this ability only if you control a Demon.
+3/1

@@ -1,0 +1,4 @@
+Dream Twist {U}
+Instant
+Target player puts the top three cards of his or her library into his or her graveyard.
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

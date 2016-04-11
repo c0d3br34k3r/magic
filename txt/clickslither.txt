@@ -1,0 +1,5 @@
+Clickslither {1}{R}{R}{R}
+Creature — Insect
+Haste
+Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.
+3/3

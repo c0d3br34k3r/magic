@@ -1,0 +1,5 @@
+Rusting Golem {4}
+Artifact Creature — Golem
+Fading 5 (This creature enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Rusting Golem's power and toughness are each equal to the number of fade counters on it.
+*/*

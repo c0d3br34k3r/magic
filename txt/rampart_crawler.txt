@@ -1,0 +1,4 @@
+Rampart Crawler {B}
+Creature — Lizard Mercenary
+Rampart Crawler can't be blocked by Walls.
+1/1

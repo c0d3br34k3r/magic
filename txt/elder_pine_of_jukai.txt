@@ -1,0 +1,5 @@
+Elder Pine of Jukai {2}{G}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)
+2/1

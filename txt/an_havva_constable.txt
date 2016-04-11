@@ -1,0 +1,4 @@
+An-Havva Constable {1}{G}{G}
+Creature — Human
+An-Havva Constable's toughness is equal to 1 plus the number of green creatures on the battlefield.
+2/1+*

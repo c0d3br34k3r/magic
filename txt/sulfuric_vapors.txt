@@ -1,0 +1,3 @@
+Sulfuric Vapors {3}{R}
+Enchantment
+If a red spell would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.

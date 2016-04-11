@@ -1,0 +1,3 @@
+Swordwise Centaur {G}{G}
+Creature — Centaur Warrior
+3/2

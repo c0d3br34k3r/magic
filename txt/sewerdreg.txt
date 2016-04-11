@@ -1,0 +1,5 @@
+Sewerdreg {3}{B}{B}
+Creature — Spirit
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Sacrifice Sewerdreg: Exile target card from a graveyard.
+3/3

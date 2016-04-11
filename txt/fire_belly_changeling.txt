@@ -1,0 +1,5 @@
+Fire-Belly Changeling {1}{R}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+1/1

@@ -1,0 +1,3 @@
+Power Sink {X}{U}
+Instant
+Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.

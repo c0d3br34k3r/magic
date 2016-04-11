@@ -1,0 +1,6 @@
+Circling Vultures {B}
+Creature — Bird
+Flying
+You may discard Circling Vultures any time you could cast an instant.
+At the beginning of your upkeep, sacrifice Circling Vultures unless you exile the top creature card of your graveyard.
+3/2

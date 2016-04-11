@@ -1,0 +1,5 @@
+Walking Wall {4}
+Artifact Creature — Wall
+Defender
+{3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
+0/6

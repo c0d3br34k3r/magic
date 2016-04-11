@@ -1,0 +1,4 @@
+Avatar of Slaughter {6}{R}{R}
+Creature — Avatar
+All creatures have double strike and attack each turn if able.
+8/8

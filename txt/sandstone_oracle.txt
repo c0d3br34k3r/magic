@@ -1,0 +1,5 @@
+Sandstone Oracle {7}
+Artifact Creature — Sphinx
+Flying
+When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.
+4/4

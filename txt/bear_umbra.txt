@@ -1,0 +1,5 @@
+Bear Umbra {2}{G}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has "Whenever this creature attacks, untap all lands you control."
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

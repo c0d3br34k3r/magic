@@ -1,0 +1,3 @@
+Word of Blasting {1}{R}
+Instant
+Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.

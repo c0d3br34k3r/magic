@@ -1,0 +1,4 @@
+Sibsig Host {4}{B}
+Creature — Zombie
+When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.
+2/6

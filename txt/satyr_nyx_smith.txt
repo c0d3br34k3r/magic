@@ -1,0 +1,5 @@
+Satyr Nyx-Smith {2}{R}
+Creature — Satyr Shaman
+Haste
+Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay {2}{R}. If you do, put a 3/1 red Elemental enchantment creature token with haste onto the battlefield.
+2/1

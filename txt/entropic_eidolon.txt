@@ -1,0 +1,5 @@
+Entropic Eidolon {3}{B}
+Creature — Spirit
+{B}, Sacrifice Entropic Eidolon: Target player loses 1 life and you gain 1 life.
+Whenever you cast a multicolored spell, you may return Entropic Eidolon from your graveyard to your hand.
+2/2

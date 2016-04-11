@@ -1,0 +1,3 @@
+Bathe in Light {1}{W}
+Instant
+Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn.

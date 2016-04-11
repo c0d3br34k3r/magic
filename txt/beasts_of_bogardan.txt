@@ -1,0 +1,5 @@
+Beasts of Bogardan {4}{R}
+Creature — Beast
+Protection from red
+Beasts of Bogardan gets +1/+1 as long as an opponent controls a nontoken white permanent.
+3/3

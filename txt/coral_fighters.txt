@@ -1,0 +1,4 @@
+Coral Fighters {1}{U}
+Creature — Merfolk Soldier
+Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.
+1/1

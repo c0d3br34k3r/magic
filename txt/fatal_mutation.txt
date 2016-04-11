@@ -1,0 +1,4 @@
+Fatal Mutation {B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature is turned face up, destroy it. It can't be regenerated.

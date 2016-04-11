@@ -1,0 +1,3 @@
+Naturalize {1}{G}
+Instant
+Destroy target artifact or enchantment.

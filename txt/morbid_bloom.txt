@@ -1,0 +1,3 @@
+Morbid Bloom {4}{B}{G}
+Sorcery
+Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.

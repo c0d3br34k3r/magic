@@ -1,0 +1,3 @@
+Mystic Compass {2}
+Artifact
+{1}, {T}: Target land becomes the basic land type of your choice until end of turn.

@@ -1,0 +1,5 @@
+Soldier of the Pantheon {W}
+Creature — Human Soldier
+Protection from multicolored
+Whenever an opponent casts a multicolored spell, you gain 1 life.
+2/1

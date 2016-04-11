@@ -1,0 +1,4 @@
+Scatter Arc {3}{U}
+Instant
+Counter target noncreature spell.
+Draw a card.

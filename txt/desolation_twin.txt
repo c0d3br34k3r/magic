@@ -1,0 +1,4 @@
+Desolation Twin {10}
+Creature — Eldrazi
+When you cast Desolation Twin, put a 10/10 colorless Eldrazi creature token onto the battlefield.
+10/10

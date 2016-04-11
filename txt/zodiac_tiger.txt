@@ -1,0 +1,4 @@
+Zodiac Tiger {2}{G}{G}
+Creature — Cat
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+3/4

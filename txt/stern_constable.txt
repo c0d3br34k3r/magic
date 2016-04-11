@@ -1,0 +1,4 @@
+Stern Constable {W}
+Creature — Human Soldier
+{T}, Discard a card: Tap target creature.
+1/1

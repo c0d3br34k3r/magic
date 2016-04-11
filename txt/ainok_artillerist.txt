@@ -1,0 +1,4 @@
+Ainok Artillerist {2}{G}
+Creature — Hound Archer
+Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can block creatures with flying.)
+4/1

@@ -1,0 +1,4 @@
+Kashi-Tribe Warriors {3}{G}{G}
+Creature — Snake Warrior
+Whenever Kashi-Tribe Warriors deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
+2/4

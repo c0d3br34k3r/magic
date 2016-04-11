@@ -1,0 +1,5 @@
+Venser, Shaper Savant {2}{U}{U}
+Legendary Creature — Human Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+When Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.
+2/2

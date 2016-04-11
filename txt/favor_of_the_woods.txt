@@ -1,0 +1,4 @@
+Favor of the Woods {2}{G}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature blocks, you gain 3 life.

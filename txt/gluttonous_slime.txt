@@ -1,0 +1,5 @@
+Gluttonous Slime {2}{G}
+Creature — Ooze
+Flash
+Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+2/2

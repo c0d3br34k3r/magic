@@ -1,0 +1,4 @@
+Festival of the Guildpact {X}{W}
+Instant
+Prevent the next X damage that would be dealt to you this turn.
+Draw a card.

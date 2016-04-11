@@ -1,0 +1,5 @@
+Trigon of Thought {5}
+Artifact
+Trigon of Thought enters the battlefield with three charge counters on it.
+{U}{U}, {T}: Put a charge counter on Trigon of Thought.
+{2}, {T}, Remove a charge counter from Trigon of Thought: Draw a card.

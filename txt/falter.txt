@@ -1,0 +1,3 @@
+Falter {1}{R}
+Instant
+Creatures without flying can't block this turn.

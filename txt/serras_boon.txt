@@ -1,0 +1,4 @@
+Serra's Boon {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.

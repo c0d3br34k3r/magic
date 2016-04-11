@@ -1,0 +1,5 @@
+Genju of the Falls {U}
+Enchantment — Aura
+Enchant Island
+{2}: Enchanted Island becomes a 3/2 blue Spirit creature with flying until end of turn. It's still a land.
+When enchanted Island is put into a graveyard, you may return Genju of the Falls from your graveyard to your hand.

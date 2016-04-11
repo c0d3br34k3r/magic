@@ -1,0 +1,4 @@
+Ripscale Predator {4}{R}{R}
+Creature — Lizard
+Menace (This creature can't be blocked except by two or more creatures.)
+6/5

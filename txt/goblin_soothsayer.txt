@@ -1,0 +1,4 @@
+Goblin Soothsayer {R}
+Creature — Goblin Shaman
+{R}, {T}, Sacrifice a Goblin: Red creatures get +1/+1 until end of turn.
+1/1

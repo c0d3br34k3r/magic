@@ -1,0 +1,5 @@
+Hand of Emrakul {9}
+Creature — Eldrazi
+You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.
+Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+7/7

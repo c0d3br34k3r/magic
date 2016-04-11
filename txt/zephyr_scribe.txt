@@ -1,0 +1,5 @@
+Zephyr Scribe {2}{U}
+Creature — Human Monk
+{U}, {T}: Draw a card, then discard a card.
+Whenever you cast a noncreature spell, untap Zephyr Scribe.
+2/1

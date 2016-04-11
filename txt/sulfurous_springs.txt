@@ -1,0 +1,4 @@
+Sulfurous Springs
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.

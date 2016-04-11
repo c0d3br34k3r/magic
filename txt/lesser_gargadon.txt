@@ -1,0 +1,4 @@
+Lesser Gargadon {2}{R}{R}
+Creature — Beast
+Whenever Lesser Gargadon attacks or blocks, sacrifice a land.
+6/4

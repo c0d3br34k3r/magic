@@ -1,0 +1,4 @@
+Cyclopean Giant {2}{B}{B}
+Creature — Zombie Giant
+When Cyclopean Giant dies, target land becomes a Swamp. Exile Cyclopean Giant.
+4/2

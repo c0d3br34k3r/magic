@@ -1,0 +1,4 @@
+Rouse the Mob {R}
+Instant
+Strive — Rouse the Mob costs {2}{R} more to cast for each target beyond the first.
+Any number of target creatures each get +2/+0 and gain trample until end of turn.

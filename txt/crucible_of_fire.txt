@@ -1,0 +1,3 @@
+Crucible of Fire {3}{R}
+Enchantment
+Dragon creatures you control get +3/+3.

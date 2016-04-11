@@ -1,0 +1,4 @@
+Yixlid Jailer {1}{B}
+Creature — Zombie Wizard
+Cards in graveyards lose all abilities.
+2/1

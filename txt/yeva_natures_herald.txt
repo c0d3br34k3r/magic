@@ -1,0 +1,5 @@
+Yeva, Nature's Herald {2}{G}{G}
+Legendary Creature — Elf Shaman
+Flash (You may cast this spell any time you could cast an instant.)
+You may cast green creature cards as though they had flash.
+4/4

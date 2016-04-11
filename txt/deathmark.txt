@@ -1,0 +1,3 @@
+Deathmark {B}
+Sorcery
+Destroy target green or white creature.

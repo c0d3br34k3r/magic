@@ -1,0 +1,5 @@
+Nightshade Schemers {4}{B}
+Creature — Faerie Wizard
+Flying
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Nightshade Schemers, you may reveal it. If you do, each opponent loses 2 life.
+3/2

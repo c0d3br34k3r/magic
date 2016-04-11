@@ -1,0 +1,5 @@
+Misthollow Griffin {2}{U}{U}
+Creature — Griffin
+Flying
+You may cast Misthollow Griffin from exile.
+3/3

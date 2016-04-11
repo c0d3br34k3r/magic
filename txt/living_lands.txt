@@ -1,0 +1,3 @@
+Living Lands {3}{G}
+Enchantment
+All Forests are 1/1 creatures that are still lands.

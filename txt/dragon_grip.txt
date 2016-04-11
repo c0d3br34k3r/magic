@@ -1,0 +1,5 @@
+Dragon Grip {2}{R}
+Enchantment — Aura
+Ferocious — If you control a creature with power 4 or greater, you may cast Dragon Grip as though it had flash. (You may cast it any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +2/+0 and has first strike.

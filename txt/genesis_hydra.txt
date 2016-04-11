@@ -1,0 +1,5 @@
+Genesis Hydra {X}{G}{G}
+Creature — Plant Hydra
+When you cast Genesis Hydra, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.
+Genesis Hydra enters the battlefield with X +1/+1 counters on it.
+0/0

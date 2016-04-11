@@ -1,0 +1,5 @@
+Halo Hunter {2}{B}{B}{B}
+Creature — Demon
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+When Halo Hunter enters the battlefield, destroy target Angel.
+6/3

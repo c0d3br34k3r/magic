@@ -1,0 +1,3 @@
+Boiling Seas {3}{R}
+Sorcery
+Destroy all Islands.

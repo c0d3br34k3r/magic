@@ -1,0 +1,3 @@
+Time Stretch {8}{U}{U}
+Sorcery
+Target player takes two extra turns after this one.

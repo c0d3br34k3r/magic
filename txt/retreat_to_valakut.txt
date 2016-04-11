@@ -1,0 +1,5 @@
+Retreat to Valakut {2}{R}
+Enchantment
+Landfall — Whenever a land enters the battlefield under your control, choose one —
+• Target creature gets +2/+0 until end of turn.
+• Target creature can't block this turn.

@@ -1,0 +1,5 @@
+Wall of Dust {2}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+Whenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.
+1/4

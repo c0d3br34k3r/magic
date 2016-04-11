@@ -1,0 +1,3 @@
+Hive Mind {5}{U}
+Enchantment
+Whenever a player casts an instant or sorcery spell, each other player copies that spell. Each of those players may choose new targets for his or her copy.

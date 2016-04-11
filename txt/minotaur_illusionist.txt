@@ -1,0 +1,5 @@
+Minotaur Illusionist {3}{U}{R}
+Creature — Minotaur Wizard
+{1}{U}: Minotaur Illusionist gains shroud until end of turn. (It can't be the target of spells or abilities.)
+{R}, Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.
+3/4

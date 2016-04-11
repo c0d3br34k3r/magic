@@ -1,0 +1,4 @@
+Repentant Blacksmith {1}{W}
+Creature — Human
+Protection from red
+1/2

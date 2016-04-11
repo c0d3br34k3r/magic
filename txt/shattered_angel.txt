@@ -1,0 +1,5 @@
+Shattered Angel {3}{W}{W}
+Creature — Angel
+Flying
+Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.
+3/3

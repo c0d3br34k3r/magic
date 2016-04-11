@@ -1,0 +1,4 @@
+Archaeomancer {2}{U}{U}
+Creature — Human Wizard
+When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+1/2

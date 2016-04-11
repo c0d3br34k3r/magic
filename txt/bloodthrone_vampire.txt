@@ -1,0 +1,4 @@
+Bloodthrone Vampire {1}{B}
+Creature — Vampire
+Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+1/1

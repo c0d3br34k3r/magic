@@ -1,0 +1,5 @@
+Silent Arbiter {4}
+Artifact Creature — Construct
+No more than one creature can attack each combat.
+No more than one creature can block each combat.
+1/5

@@ -1,0 +1,5 @@
+Orim's Chant {W}
+Instant
+Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target player can't cast spells this turn.
+If Orim's Chant was kicked, creatures can't attack this turn.

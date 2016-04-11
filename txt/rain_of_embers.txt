@@ -1,0 +1,3 @@
+Rain of Embers {1}{R}
+Sorcery
+Rain of Embers deals 1 damage to each creature and each player.

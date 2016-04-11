@@ -1,0 +1,4 @@
+Shizuko, Caller of Autumn {1}{G}{G}
+Legendary Creature — Snake Shaman
+At the beginning of each player's upkeep, that player adds {G}{G}{G} to his or her mana pool. Until end of turn, this mana doesn't empty from that player's mana pool as steps and phases end.
+2/3

@@ -1,0 +1,4 @@
+Somberwald Sage {2}{G}
+Creature — Human Druid
+{T}: Add three mana of any one color to your mana pool. Spend this mana only to cast creature spells.
+0/1

@@ -1,0 +1,4 @@
+Viashino Weaponsmith {3}{R}
+Creature — Viashino
+Whenever Viashino Weaponsmith becomes blocked by a creature, Viashino Weaponsmith gets +2/+2 until end of turn.
+2/2

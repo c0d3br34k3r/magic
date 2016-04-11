@@ -1,0 +1,4 @@
+Twilight Mire
+Land
+{T}: Add {C} to your mana pool.
+{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.

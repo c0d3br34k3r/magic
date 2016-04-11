@@ -1,0 +1,4 @@
+Sailmonger {3}{U}
+Creature — Human Monger
+{2}: Target creature gains flying until end of turn. Any player may activate this ability.
+3/3

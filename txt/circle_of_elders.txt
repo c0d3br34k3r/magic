@@ -1,0 +1,5 @@
+Circle of Elders {2}{G}{G}
+Creature — Human Shaman
+Vigilance
+Formidable — {T}: Add {C}{C}{C} to your mana pool. Activate this ability only if creatures you control have total power 8 or greater.
+2/4

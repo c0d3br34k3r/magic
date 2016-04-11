@@ -1,0 +1,3 @@
+Hanna's Custody {2}{W}
+Enchantment
+All artifacts have shroud. (They can't be the targets of spells or abilities.)

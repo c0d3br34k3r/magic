@@ -1,0 +1,3 @@
+Quicksilver Geyser {4}{U}
+Instant
+Return up to two target nonland permanents to their owners' hands.

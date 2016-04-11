@@ -1,0 +1,4 @@
+Nav Squad Commandos {4}{W}
+Creature — Human Soldier
+Battalion — Whenever Nav Squad Commandos and at least two other creatures attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it.
+3/5

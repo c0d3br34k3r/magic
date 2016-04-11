@@ -1,0 +1,4 @@
+Dromar's Cavern
+Land — Lair
+When Dromar's Cavern enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {W}, {U}, or {B} to your mana pool.

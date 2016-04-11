@@ -1,0 +1,5 @@
+Waste Not {1}{B}
+Enchantment
+Whenever an opponent discards a creature card, put a 2/2 black Zombie creature token onto the battlefield.
+Whenever an opponent discards a land card, add {B}{B} to your mana pool.
+Whenever an opponent discards a noncreature, nonland card, draw a card.

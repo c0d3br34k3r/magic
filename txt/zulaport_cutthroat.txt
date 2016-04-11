@@ -1,0 +1,4 @@
+Zulaport Cutthroat {1}{B}
+Creature — Human Rogue Ally
+Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.
+1/1

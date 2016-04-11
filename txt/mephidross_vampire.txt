@@ -1,0 +1,5 @@
+Mephidross Vampire {4}{B}{B}
+Creature — Vampire
+Flying
+Each creature you control is a Vampire in addition to its other creature types and has "Whenever this creature deals damage to a creature, put a +1/+1 counter on this creature."
+3/4

@@ -1,0 +1,5 @@
+Cemetery Gate {2}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+Protection from black
+0/5

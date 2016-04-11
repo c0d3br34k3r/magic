@@ -1,0 +1,4 @@
+Cascade Bluffs
+Land
+{T}: Add {C} to your mana pool.
+{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R} to your mana pool.

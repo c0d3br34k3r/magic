@@ -1,0 +1,4 @@
+Fire Diamond {2}
+Artifact
+Fire Diamond enters the battlefield tapped.
+{T}: Add {R} to your mana pool.

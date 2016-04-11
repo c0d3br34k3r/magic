@@ -1,0 +1,3 @@
+Fanatical Devotion {2}{W}
+Enchantment
+Sacrifice a creature: Regenerate target creature.

@@ -1,0 +1,4 @@
+Humble the Brute {4}{W}
+Instant
+Destroy target creature with power 4 or greater.
+Investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

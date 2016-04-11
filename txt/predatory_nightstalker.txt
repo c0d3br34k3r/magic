@@ -1,0 +1,4 @@
+Predatory Nightstalker {3}{B}{B}
+Creature — Nightstalker
+When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature.
+3/2

@@ -1,0 +1,5 @@
+Qarsi Sadist {1}{B}
+Creature — Human Cleric
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Qarsi Sadist exploits a creature, target opponent loses 2 life and you gain 2 life.
+1/3

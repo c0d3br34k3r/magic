@@ -1,0 +1,4 @@
+Leyline of Lifeforce {2}{G}{G}
+Enchantment
+If Leyline of Lifeforce is in your opening hand, you may begin the game with it on the battlefield.
+Creature spells can't be countered.

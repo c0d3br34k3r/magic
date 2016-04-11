@@ -1,0 +1,5 @@
+Boros Guildmage {R/W}{R/W}
+Creature — Human Wizard
+{1}{R}: Target creature gains haste until end of turn.
+{1}{W}: Target creature gains first strike until end of turn.
+2/2

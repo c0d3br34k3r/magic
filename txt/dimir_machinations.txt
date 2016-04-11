@@ -1,0 +1,4 @@
+Dimir Machinations {2}{B}
+Sorcery
+Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.
+Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)

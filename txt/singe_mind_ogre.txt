@@ -1,0 +1,4 @@
+Singe-Mind Ogre {2}{B}{R}
+Creature — Ogre Mutant
+When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.
+3/2

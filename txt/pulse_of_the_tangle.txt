@@ -1,0 +1,3 @@
+Pulse of the Tangle {1}{G}{G}
+Sorcery
+Put a 3/3 green Beast creature token onto the battlefield. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.

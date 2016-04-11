@@ -1,0 +1,4 @@
+Bog Initiate {1}{B}
+Creature — Human Wizard
+{1}: Add {B} to your mana pool.
+1/1

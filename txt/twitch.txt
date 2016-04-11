@@ -1,0 +1,4 @@
+Twitch {2}{U}
+Instant
+You may tap or untap target artifact, creature, or land.
+Draw a card.

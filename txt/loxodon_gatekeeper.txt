@@ -1,0 +1,4 @@
+Loxodon Gatekeeper {2}{W}{W}
+Creature — Elephant Soldier
+Artifacts, creatures, and lands your opponents control enter the battlefield tapped.
+2/3

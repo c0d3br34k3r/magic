@@ -1,0 +1,3 @@
+Marsh Flats
+Land
+{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.

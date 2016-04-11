@@ -1,0 +1,3 @@
+Serene Heart {1}{G}
+Instant
+Destroy all Auras.

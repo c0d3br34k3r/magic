@@ -1,0 +1,3 @@
+Scoria Elemental {4}{R}
+Creature — Elemental
+6/1

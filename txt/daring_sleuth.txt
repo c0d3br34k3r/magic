@@ -1,0 +1,10 @@
+Daring Sleuth {1}{U}
+Creature — Human Rogue
+When you sacrifice a Clue, transform Daring Sleuth.
+2/1
+* DOUBLE-FACED *
+Bearer of Overwhelming Truths
+Creature — Human Wizard
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+3/2

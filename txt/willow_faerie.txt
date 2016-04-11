@@ -1,0 +1,4 @@
+Willow Faerie {1}{G}
+Creature — Faerie
+Flying
+1/2

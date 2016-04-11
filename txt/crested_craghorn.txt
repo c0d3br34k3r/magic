@@ -1,0 +1,5 @@
+Crested Craghorn {4}{R}
+Creature — Goat Beast
+Haste
+Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+4/1

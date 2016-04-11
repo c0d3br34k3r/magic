@@ -1,0 +1,4 @@
+Kazuul Warlord {4}{R}
+Creature — Minotaur Warrior Ally
+Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.
+3/3

@@ -1,0 +1,5 @@
+Detainment Spell {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature's activated abilities can't be activated.
+{1}{W}: Attach Detainment Spell to target creature.

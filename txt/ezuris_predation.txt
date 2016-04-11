@@ -1,0 +1,3 @@
+Ezuri's Predation {5}{G}{G}{G}
+Sorcery
+For each creature your opponents control, put a 4/4 green Beast creature token onto the battlefield. Each of those Beasts fights a different one of those creatures.

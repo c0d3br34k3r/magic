@@ -1,0 +1,3 @@
+Mwonvuli Acid-Moss {2}{G}{G}
+Sorcery
+Destroy target land. Search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.

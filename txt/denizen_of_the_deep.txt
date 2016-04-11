@@ -1,0 +1,4 @@
+Denizen of the Deep {6}{U}{U}
+Creature — Serpent
+When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.
+11/11

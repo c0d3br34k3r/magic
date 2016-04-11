@@ -1,0 +1,3 @@
+Unbender Tine {2}{W}{U}
+Artifact
+{T}: Untap another target permanent.

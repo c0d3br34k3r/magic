@@ -1,0 +1,6 @@
+Boon Satyr {1}{G}{G}
+Enchantment Creature — Satyr
+Flash
+Bestow {3}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Enchanted creature gets +4/+2.
+4/2

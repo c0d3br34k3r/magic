@@ -1,0 +1,3 @@
+Fiery Justice {W}{R}{G}
+Sorcery
+Fiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.

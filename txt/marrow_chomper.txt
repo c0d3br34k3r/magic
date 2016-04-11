@@ -1,0 +1,5 @@
+Marrow Chomper {3}{B}{G}
+Creature — Zombie Lizard
+Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)
+When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.
+3/3

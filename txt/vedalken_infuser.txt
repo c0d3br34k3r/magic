@@ -1,0 +1,4 @@
+Vedalken Infuser {3}{U}
+Creature — Vedalken Wizard
+At the beginning of your upkeep, you may put a charge counter on target artifact.
+1/4

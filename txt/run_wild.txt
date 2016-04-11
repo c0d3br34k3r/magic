@@ -1,0 +1,3 @@
+Run Wild {G}
+Instant
+Until end of turn, target creature gains trample and "{G}: Regenerate this creature."

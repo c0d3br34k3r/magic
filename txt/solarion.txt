@@ -1,0 +1,5 @@
+Solarion {7}
+Artifact Creature — Construct
+Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+{T}: Double the number of +1/+1 counters on Solarion.
+0/0

@@ -1,0 +1,4 @@
+Inexorable Blob {2}{G}
+Creature — Ooze
+Delirium — Whenever Inexorable Blob attacks, if there are four or more card types among cards in your graveyard, put a 3/3 green Ooze creature token onto the battlefield tapped and attacking.
+3/3

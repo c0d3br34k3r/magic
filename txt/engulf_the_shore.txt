@@ -1,0 +1,3 @@
+Engulf the Shore {3}{U}
+Instant
+Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.

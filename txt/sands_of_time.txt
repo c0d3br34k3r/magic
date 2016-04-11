@@ -1,0 +1,4 @@
+Sands of Time {4}
+Artifact
+Each player skips his or her untap step.
+At the beginning of each player's upkeep, that player simultaneously untaps each tapped artifact, creature, and land he or she controls and taps each untapped artifact, creature, and land he or she controls.

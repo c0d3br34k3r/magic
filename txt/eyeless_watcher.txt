@@ -1,0 +1,5 @@
+Eyeless Watcher {3}{G}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+When Eyeless Watcher enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."
+1/1

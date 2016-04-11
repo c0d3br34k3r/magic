@@ -1,0 +1,4 @@
+Sun Quan, Lord of Wu {4}{U}{U}
+Legendary Creature — Human Soldier
+Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)
+4/4

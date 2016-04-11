@@ -1,0 +1,3 @@
+Retribution of the Meek {2}{W}
+Sorcery
+Destroy all creatures with power 4 or greater. They can't be regenerated.

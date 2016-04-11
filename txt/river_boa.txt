@@ -1,0 +1,5 @@
+River Boa {1}{G}
+Creature — Snake
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{G}: Regenerate River Boa.
+2/1

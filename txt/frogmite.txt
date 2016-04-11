@@ -1,0 +1,4 @@
+Frogmite {4}
+Artifact Creature — Frog
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+2/2

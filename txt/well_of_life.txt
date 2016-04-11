@@ -1,0 +1,3 @@
+Well of Life {4}
+Artifact
+At the beginning of your end step, if you control no untapped lands, you gain 2 life.

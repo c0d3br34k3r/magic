@@ -1,0 +1,3 @@
+Jet Medallion {2}
+Artifact
+Black spells you cast cost {1} less to cast.

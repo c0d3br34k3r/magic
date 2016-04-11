@@ -1,0 +1,5 @@
+Illusory Demon {1}{U}{B}
+Creature — Demon Illusion
+Flying
+When you cast a spell, sacrifice Illusory Demon.
+4/3

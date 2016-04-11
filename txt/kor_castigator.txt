@@ -1,0 +1,4 @@
+Kor Castigator {1}{W}
+Creature — Kor Wizard Ally
+Kor Castigator can't be blocked by Eldrazi Scions.
+3/1

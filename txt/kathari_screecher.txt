@@ -1,0 +1,5 @@
+Kathari Screecher {2}{U}
+Creature — Bird Soldier
+Flying
+Unearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+2/2

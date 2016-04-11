@@ -1,0 +1,5 @@
+Goblin Glider {1}{R}
+Creature — Goblin
+Flying
+Goblin Glider can't block.
+1/1

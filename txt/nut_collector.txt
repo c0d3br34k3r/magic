@@ -1,0 +1,5 @@
+Nut Collector {5}{G}
+Creature — Human Druid
+At the beginning of your upkeep, you may put a 1/1 green Squirrel creature token onto the battlefield.
+Threshold — Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard.
+1/1

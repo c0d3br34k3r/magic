@@ -1,0 +1,4 @@
+Lagonna-Band Trailblazer {W}
+Creature — Centaur Scout
+Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.
+0/4

@@ -1,0 +1,4 @@
+Merfolk Mesmerist {1}{U}
+Creature — Merfolk Wizard
+{U}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+1/2

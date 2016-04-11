@@ -1,0 +1,3 @@
+Putrefy {1}{B}{G}
+Instant
+Destroy target artifact or creature. It can't be regenerated.

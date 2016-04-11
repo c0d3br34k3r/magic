@@ -1,0 +1,5 @@
+Noble Templar {5}{W}
+Creature — Human Cleric Soldier
+Vigilance
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+3/6

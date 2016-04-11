@@ -1,0 +1,6 @@
+Plaxmanta {1}{U}
+Creature — Beast
+Flash
+When Plaxmanta enters the battlefield, creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+When Plaxmanta enters the battlefield, sacrifice it unless {G} was spent to cast it.
+2/2

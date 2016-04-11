@@ -1,0 +1,5 @@
+Sentinels of Glen Elendra {3}{U}
+Creature — Faerie Soldier
+Flash
+Flying
+2/3

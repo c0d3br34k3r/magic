@@ -1,0 +1,3 @@
+Zuran Orb {0}
+Artifact
+Sacrifice a land: You gain 2 life.

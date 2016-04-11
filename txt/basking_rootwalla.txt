@@ -1,0 +1,5 @@
+Basking Rootwalla {G}
+Creature — Lizard
+{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+1/1

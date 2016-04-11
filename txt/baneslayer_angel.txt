@@ -1,0 +1,4 @@
+Baneslayer Angel {3}{W}{W}
+Creature — Angel
+Flying, first strike, lifelink, protection from Demons and from Dragons
+5/5

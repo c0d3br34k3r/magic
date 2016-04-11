@@ -1,0 +1,6 @@
+Ainok Guide {1}{G}
+Creature — Hound Scout
+When Ainok Guide enters the battlefield, choose one —
+• Put a +1/+1 counter on Ainok Guide.
+• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.
+1/1

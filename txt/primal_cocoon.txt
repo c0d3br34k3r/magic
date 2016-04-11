@@ -1,0 +1,5 @@
+Primal Cocoon {G}
+Enchantment — Aura
+Enchant creature
+At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
+When enchanted creature attacks or blocks, sacrifice Primal Cocoon.

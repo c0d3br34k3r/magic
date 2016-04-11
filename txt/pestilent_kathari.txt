@@ -1,0 +1,6 @@
+Pestilent Kathari {2}{B}
+Creature — Bird Warrior
+Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{2}{R}: Pestilent Kathari gains first strike until end of turn.
+1/1

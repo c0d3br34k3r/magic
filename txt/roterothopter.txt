@@ -1,0 +1,5 @@
+Roterothopter {1}
+Artifact Creature — Thopter
+Flying
+{2}: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+0/2

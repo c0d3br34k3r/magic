@@ -1,0 +1,4 @@
+Myr Reservoir {3}
+Artifact
+{T}: Add {C}{C} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.
+{3}, {T}: Return target Myr card from your graveyard to your hand.

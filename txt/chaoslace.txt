@@ -1,0 +1,3 @@
+Chaoslace {R}
+Instant
+Target spell or permanent becomes red. (Its mana symbols remain unchanged.)

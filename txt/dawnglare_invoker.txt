@@ -1,0 +1,5 @@
+Dawnglare Invoker {2}{W}
+Creature — Kor Wizard
+Flying
+{8}: Tap all creatures target player controls.
+2/1

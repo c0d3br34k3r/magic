@@ -1,0 +1,5 @@
+Scythe of the Wretched {2}
+Artifact — Equipment
+Equipped creature gets +2/+2.
+Whenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.
+Equip {4}

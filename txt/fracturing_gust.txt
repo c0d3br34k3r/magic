@@ -1,0 +1,3 @@
+Fracturing Gust {2}{G/W}{G/W}{G/W}
+Instant
+Destroy all artifacts and enchantments. You gain 2 life for each permanent destroyed this way.

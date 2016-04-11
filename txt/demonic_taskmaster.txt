@@ -1,0 +1,5 @@
+Demonic Taskmaster {2}{B}
+Creature — Demon
+Flying
+At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.
+4/3

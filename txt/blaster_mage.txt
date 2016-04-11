@@ -1,0 +1,4 @@
+Blaster Mage {2}{R}
+Creature — Human Spellshaper
+{R}, {T}, Discard a card: Destroy target Wall.
+2/2

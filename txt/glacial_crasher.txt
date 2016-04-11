@@ -1,0 +1,5 @@
+Glacial Crasher {4}{U}{U}
+Creature — Elemental
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+Glacial Crasher can't attack unless there is a Mountain on the battlefield.
+5/5

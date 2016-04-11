@@ -1,0 +1,4 @@
+Dross Scorpion {4}
+Artifact Creature — Scorpion
+Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact.
+3/1

@@ -1,0 +1,4 @@
+Enslaved Scout {2}{R}
+Creature — Goblin Scout
+{2}: Enslaved Scout gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)
+2/2

@@ -1,0 +1,6 @@
+Ethersworn Adjudicator {4}{U}
+Artifact Creature — Vedalken Knight
+Flying
+{1}{W}{B}, {T}: Destroy target creature or enchantment.
+{2}{U}: Untap Ethersworn Adjudicator.
+4/4

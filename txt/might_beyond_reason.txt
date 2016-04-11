@@ -1,0 +1,4 @@
+Might Beyond Reason {3}{G}
+Instant
+Put two +1/+1 counters on target creature.
+Delirium — Put three +1/+1 counters on that creature instead if there are four or more card types among cards in your graveyard.

@@ -1,0 +1,5 @@
+Nim Devourer {3}{B}{B}
+Creature — Zombie
+Nim Devourer gets +1/+0 for each artifact you control.
+{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.
+4/1

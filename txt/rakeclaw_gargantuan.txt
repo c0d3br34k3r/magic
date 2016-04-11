@@ -1,0 +1,4 @@
+Rakeclaw Gargantuan {2}{W}{R}{G}
+Creature — Beast
+{1}: Target creature with power 5 or greater gains first strike until end of turn.
+5/3

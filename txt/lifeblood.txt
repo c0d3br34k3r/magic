@@ -1,0 +1,3 @@
+Lifeblood {2}{W}{W}
+Enchantment
+Whenever a Mountain an opponent controls becomes tapped, you gain 1 life.

@@ -1,0 +1,5 @@
+Rageblood Shaman {1}{R}{R}
+Creature — Minotaur Shaman
+Trample
+Other Minotaur creatures you control get +1/+1 and have trample.
+2/3

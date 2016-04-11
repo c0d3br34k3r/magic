@@ -1,0 +1,5 @@
+Betrothed of Fire {1}{R}
+Enchantment — Aura
+Enchant creature
+Sacrifice an untapped creature: Enchanted creature gets +2/+0 until end of turn.
+Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.

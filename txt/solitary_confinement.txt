@@ -1,0 +1,6 @@
+Solitary Confinement {2}{W}
+Enchantment
+At the beginning of your upkeep, sacrifice Solitary Confinement unless you discard a card.
+Skip your draw step.
+You have shroud. (You can't be the target of spells or abilities.)
+Prevent all damage that would be dealt to you.

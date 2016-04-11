@@ -1,0 +1,4 @@
+Tundra Kavu {2}{R}
+Creature — Kavu
+{T}: Target land becomes a Plains or an Island until end of turn.
+2/2

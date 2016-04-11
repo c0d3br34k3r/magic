@@ -1,0 +1,4 @@
+Ghalma's Warden {3}{W}
+Creature — Elephant Soldier
+Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.
+2/4

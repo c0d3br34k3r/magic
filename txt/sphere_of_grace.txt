@@ -1,0 +1,3 @@
+Sphere of Grace {3}{W}
+Enchantment
+If a black source would deal damage to you, prevent 2 of that damage.

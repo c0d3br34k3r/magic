@@ -1,0 +1,11 @@
+Elusive Tormentor {2}{B}{B}
+Creature — Vampire Wizard
+{1}, Discard a card: Transform Elusive Tormentor.
+4/4
+* DOUBLE-FACED *
+Insidious Mist
+Creature — Elemental
+Hexproof, indestructible
+Insidious Mist can't block and can't be blocked.
+Whenever Insidious Mist attacks and isn't blocked, you may pay {2}{B}. If you do, transform it.
+0/1

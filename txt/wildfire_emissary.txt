@@ -1,0 +1,5 @@
+Wildfire Emissary {3}{R}
+Creature — Efreet
+Protection from white
+{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
+2/4

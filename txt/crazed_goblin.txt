@@ -1,0 +1,4 @@
+Crazed Goblin {R}
+Creature — Goblin Warrior
+Crazed Goblin attacks each turn if able.
+1/1

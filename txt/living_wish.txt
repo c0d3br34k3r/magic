@@ -1,0 +1,3 @@
+Living Wish {1}{G}
+Sorcery
+You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.

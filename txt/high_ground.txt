@@ -1,0 +1,3 @@
+High Ground {W}
+Enchantment
+Each creature you control can block an additional creature each combat.

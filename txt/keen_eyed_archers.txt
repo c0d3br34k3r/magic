@@ -1,0 +1,4 @@
+Keen-Eyed Archers {2}{W}
+Creature — Elf Archer
+Reach (This creature can block creatures with flying.)
+2/2

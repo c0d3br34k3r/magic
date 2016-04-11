@@ -1,0 +1,3 @@
+Backlash {1}{B}{R}
+Instant
+Tap target untapped creature. That creature deals damage equal to its power to its controller.

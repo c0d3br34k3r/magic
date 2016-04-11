@@ -1,0 +1,3 @@
+Persecute {2}{B}{B}
+Sorcery
+Choose a color. Target player reveals his or her hand and discards all cards of that color.

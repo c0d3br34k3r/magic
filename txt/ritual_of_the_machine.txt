@@ -1,0 +1,4 @@
+Ritual of the Machine {2}{B}{B}
+Sorcery
+As an additional cost to cast Ritual of the Machine, sacrifice a creature.
+Gain control of target nonartifact, nonblack creature.

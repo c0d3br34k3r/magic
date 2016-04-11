@@ -1,0 +1,3 @@
+Artificer's Intuition {1}{U}
+Enchantment
+{U}, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library.

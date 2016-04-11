@@ -1,0 +1,5 @@
+Neurok Prodigy {2}{U}
+Creature — Human Wizard
+Flying
+Discard an artifact card: Return Neurok Prodigy to its owner's hand.
+2/1

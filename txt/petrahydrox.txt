@@ -1,0 +1,5 @@
+Petrahydrox {3}{U/R}
+Creature — Weird
+({U/R} can be paid with either {U} or {R}.)
+When Petrahydrox becomes the target of a spell or ability, return Petrahydrox to its owner's hand.
+3/3

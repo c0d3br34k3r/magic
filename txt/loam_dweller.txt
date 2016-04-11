@@ -1,0 +1,4 @@
+Loam Dweller {1}{G}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, you may put a land card from your hand onto the battlefield tapped.
+2/2

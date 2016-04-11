@@ -1,0 +1,4 @@
+Research Assistant {1}{U}
+Creature — Human Wizard
+{3}{U}, {T}: Draw a card, then discard a card.
+1/3

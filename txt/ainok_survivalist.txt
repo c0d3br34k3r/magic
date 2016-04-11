@@ -1,0 +1,5 @@
+Ainok Survivalist {1}{G}
+Creature — Hound Shaman
+Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Ainok Survivalist is turned face up, destroy target artifact or enchantment an opponent controls.
+2/1

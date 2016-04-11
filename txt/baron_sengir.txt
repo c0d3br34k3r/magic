@@ -1,0 +1,6 @@
+Baron Sengir {5}{B}{B}{B}
+Legendary Creature — Vampire
+Flying
+Whenever a creature dealt damage by Baron Sengir this turn dies, put a +2/+2 counter on Baron Sengir.
+{T}: Regenerate another target Vampire.
+5/5

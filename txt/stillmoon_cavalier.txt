@@ -1,0 +1,7 @@
+Stillmoon Cavalier {1}{W/B}{W/B}
+Creature — Zombie Knight
+Protection from white and from black
+{W/B}: Stillmoon Cavalier gains flying until end of turn.
+{W/B}: Stillmoon Cavalier gains first strike until end of turn.
+{W/B}{W/B}: Stillmoon Cavalier gets +1/+0 until end of turn.
+2/1

@@ -1,0 +1,4 @@
+Horizon Spellbomb {1}
+Artifact
+{2}, {T}, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+When Horizon Spellbomb is put into a graveyard from the battlefield, you may pay {G}. If you do, draw a card.

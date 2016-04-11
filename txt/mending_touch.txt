@@ -1,0 +1,3 @@
+Mending Touch {G}
+Instant
+Regenerate target creature.

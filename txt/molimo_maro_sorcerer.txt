@@ -1,0 +1,5 @@
+Molimo, Maro-Sorcerer {4}{G}{G}{G}
+Legendary Creature — Elemental
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+*/*

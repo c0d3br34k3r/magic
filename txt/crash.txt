@@ -1,0 +1,4 @@
+Crash {2}{R}
+Instant
+You may sacrifice a Mountain rather than pay Crash's mana cost.
+Destroy target artifact.

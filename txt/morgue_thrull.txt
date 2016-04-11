@@ -1,0 +1,4 @@
+Morgue Thrull {2}{B}
+Creature — Thrull
+Sacrifice Morgue Thrull: Put the top three cards of your library into your graveyard.
+2/2

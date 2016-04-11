@@ -1,0 +1,5 @@
+Maw of Kozilek {3}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{C}: Maw of Kozilek gets +2/-2 until end of turn. ({C} represents colorless mana.)
+2/5

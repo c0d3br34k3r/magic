@@ -1,0 +1,5 @@
+Goblin Brawler {2}{R}
+Creature — Goblin Warrior
+First strike
+Goblin Brawler can't be equipped.
+2/2

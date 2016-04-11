@@ -1,0 +1,5 @@
+Merfolk Seastalkers {3}{U}
+Creature — Merfolk Scout
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{2}{U}: Tap target creature without flying.
+2/3

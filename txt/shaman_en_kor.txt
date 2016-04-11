@@ -1,0 +1,5 @@
+Shaman en-Kor {1}{W}
+Creature — Kor Cleric Shaman
+{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.
+{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.
+1/2

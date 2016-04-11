@@ -1,0 +1,5 @@
+Nantuko Vigilante {3}{G}
+Creature — Insect Druid Mutant
+Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Nantuko Vigilante is turned face up, destroy target artifact or enchantment.
+3/2

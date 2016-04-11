@@ -1,0 +1,4 @@
+Vassal Soul {1}{W/U}{W/U}
+Creature — Spirit
+Flying
+2/2

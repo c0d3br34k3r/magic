@@ -1,0 +1,4 @@
+Taoist Mystic {2}{G}
+Creature — Human Mystic
+Taoist Mystic can't be blocked by creatures with horsemanship.
+2/2

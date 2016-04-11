@@ -1,0 +1,8 @@
+Morphling {3}{U}{U}
+Creature — Shapeshifter
+{U}: Untap Morphling.
+{U}: Morphling gains flying until end of turn.
+{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)
+{1}: Morphling gets +1/-1 until end of turn.
+{1}: Morphling gets -1/+1 until end of turn.
+3/3

@@ -1,0 +1,4 @@
+Riptide Chronologist {3}{U}{U}
+Creature — Human Wizard
+{U}, Sacrifice Riptide Chronologist: Untap all creatures of the creature type of your choice.
+1/3

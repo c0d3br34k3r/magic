@@ -1,0 +1,3 @@
+Seismic Rupture {2}{R}
+Sorcery
+Seismic Rupture deals 2 damage to each creature without flying.

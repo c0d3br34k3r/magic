@@ -1,0 +1,4 @@
+Chime of Night {1}{B}
+Enchantment — Aura
+Enchant creature
+When Chime of Night is put into a graveyard from the battlefield, destroy target nonblack creature.

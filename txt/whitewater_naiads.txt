@@ -1,0 +1,4 @@
+Whitewater Naiads {3}{U}{U}
+Enchantment Creature — Nymph
+Constellation — Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.
+4/4

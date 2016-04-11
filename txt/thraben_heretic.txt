@@ -1,0 +1,4 @@
+Thraben Heretic {1}{W}
+Creature — Human Wizard
+{T}: Exile target creature card from a graveyard.
+2/2

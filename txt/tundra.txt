@@ -1,0 +1,3 @@
+Tundra
+Land — Plains Island
+({T}: Add {W} or {U} to your mana pool.)

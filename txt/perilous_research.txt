@@ -1,0 +1,3 @@
+Perilous Research {1}{U}
+Instant
+Draw two cards, then sacrifice a permanent.

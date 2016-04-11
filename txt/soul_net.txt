@@ -1,0 +1,3 @@
+Soul Net {1}
+Artifact
+Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.

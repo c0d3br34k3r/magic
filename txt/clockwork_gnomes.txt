@@ -1,0 +1,4 @@
+Clockwork Gnomes {4}
+Artifact Creature — Gnome
+{3}, {T}: Regenerate target artifact creature.
+2/2

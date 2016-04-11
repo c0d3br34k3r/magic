@@ -1,0 +1,4 @@
+Foil {2}{U}{U}
+Instant
+You may discard an Island card and another card rather than pay Foil's mana cost.
+Counter target spell.

@@ -1,0 +1,5 @@
+Gorilla Titan {3}{G}{G}
+Creature — Ape
+Trample
+Gorilla Titan gets +4/+4 as long as there are no cards in your graveyard.
+4/4

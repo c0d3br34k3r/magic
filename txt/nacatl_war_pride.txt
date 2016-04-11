@@ -1,0 +1,5 @@
+Nacatl War-Pride {3}{G}{G}{G}
+Creature — Cat Warrior
+Nacatl War-Pride must be blocked by exactly one creature if able.
+Whenever Nacatl War-Pride attacks, put X tokens that are copies of Nacatl War-Pride onto the battlefield tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step.
+3/3

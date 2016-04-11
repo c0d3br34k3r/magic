@@ -1,0 +1,4 @@
+Shinka, the Bloodsoaked Keep
+Legendary Land
+{T}: Add {R} to your mana pool.
+{R}, {T}: Target legendary creature gains first strike until end of turn.

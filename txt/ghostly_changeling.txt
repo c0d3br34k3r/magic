@@ -1,0 +1,5 @@
+Ghostly Changeling {2}{B}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.
+2/2

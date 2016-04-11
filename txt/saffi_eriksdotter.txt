@@ -1,0 +1,4 @@
+Saffi Eriksdotter {W}{G}
+Legendary Creature — Human Scout
+Sacrifice Saffi Eriksdotter: When target creature is put into your graveyard from the battlefield this turn, return that card to the battlefield.
+2/2

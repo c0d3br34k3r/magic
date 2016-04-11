@@ -1,0 +1,3 @@
+Intimidation Bolt {1}{W}{R}
+Instant
+Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.

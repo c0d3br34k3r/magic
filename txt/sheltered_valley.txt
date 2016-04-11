@@ -1,0 +1,5 @@
+Sheltered Valley
+Land
+If Sheltered Valley would enter the battlefield, instead sacrifice each other permanent named Sheltered Valley you control, then put Sheltered Valley onto the battlefield.
+At the beginning of your upkeep, if you control three or fewer lands, you gain 1 life.
+{T}: Add {C} to your mana pool.

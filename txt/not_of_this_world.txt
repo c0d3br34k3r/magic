@@ -1,0 +1,4 @@
+Not of This World {7}
+Tribal Instant — Eldrazi
+Counter target spell or ability that targets a permanent you control.
+Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.

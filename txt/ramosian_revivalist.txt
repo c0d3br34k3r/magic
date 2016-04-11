@@ -1,0 +1,4 @@
+Ramosian Revivalist {3}{W}
+Creature — Human Rebel Cleric
+{6}, {T}: Return target Rebel permanent card with converted mana cost 5 or less from your graveyard to the battlefield.
+2/2

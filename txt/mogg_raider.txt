@@ -1,0 +1,4 @@
+Mogg Raider {R}
+Creature — Goblin
+Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+1/1

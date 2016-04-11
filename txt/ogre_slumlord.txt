@@ -1,0 +1,5 @@
+Ogre Slumlord {3}{B}{B}
+Creature — Ogre Rogue
+Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.
+Rats you control have deathtouch.
+3/3

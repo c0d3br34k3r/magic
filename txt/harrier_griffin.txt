@@ -1,0 +1,5 @@
+Harrier Griffin {5}{W}
+Creature — Griffin
+Flying
+At the beginning of your upkeep, tap target creature.
+3/3

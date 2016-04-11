@@ -1,0 +1,4 @@
+Totem-Guide Hartebeest {4}{W}
+Creature — Antelope
+When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+2/5

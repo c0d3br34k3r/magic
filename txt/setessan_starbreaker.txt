@@ -1,0 +1,4 @@
+Setessan Starbreaker {3}{G}
+Creature — Human Warrior
+When Setessan Starbreaker enters the battlefield, you may destroy target Aura.
+2/1

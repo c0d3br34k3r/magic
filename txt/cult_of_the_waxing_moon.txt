@@ -1,0 +1,4 @@
+Cult of the Waxing Moon {4}{G}
+Creature — Human Shaman
+Whenever a permanent you control transforms into a non-Human creature, put a 2/2 green Wolf creature token onto the battlefield.
+5/4

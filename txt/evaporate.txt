@@ -1,0 +1,3 @@
+Evaporate {2}{R}
+Sorcery
+Evaporate deals 1 damage to each white and/or blue creature.

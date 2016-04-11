@@ -1,0 +1,3 @@
+Essence Backlash {2}{U}{R}
+Instant
+Counter target creature spell. Essence Backlash deals damage equal to that spell's power to its controller.

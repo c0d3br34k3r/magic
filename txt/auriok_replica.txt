@@ -1,0 +1,4 @@
+Auriok Replica {3}
+Artifact Creature — Cleric
+{W}, Sacrifice Auriok Replica: Prevent all damage a source of your choice would deal to you this turn.
+2/2

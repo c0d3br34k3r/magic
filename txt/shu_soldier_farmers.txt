@@ -1,0 +1,4 @@
+Shu Soldier-Farmers {4}{W}
+Creature — Human Soldier
+When Shu Soldier-Farmers enters the battlefield, you gain 4 life.
+2/4

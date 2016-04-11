@@ -1,0 +1,4 @@
+Kami of the Painted Road {4}{W}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, Kami of the Painted Road gains protection from the color of your choice until end of turn.
+3/3

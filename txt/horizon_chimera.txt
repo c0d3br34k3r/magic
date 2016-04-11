@@ -1,0 +1,6 @@
+Horizon Chimera {2}{U}{G}
+Creature — Chimera
+Flash (You may cast this spell any time you could cast an instant.)
+Flying, trample
+Whenever you draw a card, you gain 1 life.
+3/2

@@ -1,0 +1,4 @@
+Iroas's Champion {1}{W}{R}
+Creature — Human Soldier
+Double strike (This creature deals both first-strike and regular combat damage.)
+2/2

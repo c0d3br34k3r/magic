@@ -1,0 +1,5 @@
+Devoted Druid {1}{G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool.
+Put a -1/-1 counter on Devoted Druid: Untap Devoted Druid.
+0/2

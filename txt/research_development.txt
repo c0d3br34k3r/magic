@@ -1,0 +1,7 @@
+Research {U}{G}
+Instant
+Choose up to four cards you own from outside the game and shuffle them into your library.
+* SPLIT *
+Development {3}{U}{R}
+Instant
+Put a 3/1 red Elemental creature token onto the battlefield unless any opponent has you draw a card. Repeat this process two more times.

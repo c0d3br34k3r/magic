@@ -1,0 +1,5 @@
+Edge of the Divinity {W/B}
+Enchantment — Aura
+Enchant creature
+As long as enchanted creature is white, it gets +1/+2.
+As long as enchanted creature is black, it gets +2/+1.

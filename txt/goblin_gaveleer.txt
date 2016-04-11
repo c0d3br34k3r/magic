@@ -1,0 +1,5 @@
+Goblin Gaveleer {R}
+Creature — Goblin Warrior
+Trample
+Goblin Gaveleer gets +2/+0 for each Equipment attached to it.
+1/1

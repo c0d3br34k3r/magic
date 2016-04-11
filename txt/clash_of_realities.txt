@@ -1,0 +1,4 @@
+Clash of Realities {3}{R}
+Enchantment
+All Spirits have "When this permanent enters the battlefield, you may have it deal 3 damage to target non-Spirit creature."
+Non-Spirit creatures have "When this creature enters the battlefield, you may have it deal 3 damage to target Spirit creature."

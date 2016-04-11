@@ -1,0 +1,6 @@
+Gisela, Blade of Goldnight {4}{W}{W}{R}
+Legendary Creature — Angel
+Flying, first strike
+If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.
+If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.
+5/5

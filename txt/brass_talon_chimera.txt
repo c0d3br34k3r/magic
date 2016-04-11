@@ -1,0 +1,5 @@
+Brass-Talon Chimera {4}
+Artifact Creature — Chimera
+First strike
+Sacrifice Brass-Talon Chimera: Put a +2/+2 counter on target Chimera creature. It gains first strike. (This effect lasts indefinitely.)
+2/2

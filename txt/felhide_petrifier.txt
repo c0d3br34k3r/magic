@@ -1,0 +1,5 @@
+Felhide Petrifier {2}{B}
+Creature — Minotaur Warrior
+Deathtouch
+Other Minotaur creatures you control have deathtouch.
+2/3

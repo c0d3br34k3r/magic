@@ -1,0 +1,4 @@
+Nulltread Gargantuan {1}{U}{G}
+Creature — Beast
+When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.
+5/6

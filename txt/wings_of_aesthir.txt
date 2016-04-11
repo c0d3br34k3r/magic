@@ -1,0 +1,4 @@
+Wings of Aesthir {W}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 and has flying and first strike.

@@ -1,0 +1,4 @@
+Cemetery Puca {1}{U/B}{U/B}
+Creature — Shapeshifter
+Whenever a creature dies, you may pay {1}. If you do, Cemetery Puca becomes a copy of that creature and gains this ability.
+1/2

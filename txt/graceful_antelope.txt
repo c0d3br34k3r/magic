@@ -1,0 +1,5 @@
+Graceful Antelope {2}{W}{W}
+Creature — Antelope
+Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)
+Whenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield.
+1/4

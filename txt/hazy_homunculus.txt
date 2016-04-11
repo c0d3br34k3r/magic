@@ -1,0 +1,4 @@
+Hazy Homunculus {1}{U}
+Creature — Homunculus Illusion
+Hazy Homunculus can't be blocked as long as defending player controls an untapped land.
+1/1

@@ -1,0 +1,6 @@
+Rimehorn Aurochs {4}{G}
+Snow Creature — Aurochs
+Trample
+Whenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+{2}{S}: Target creature blocks target creature this turn if able. ({S} can be paid with one mana from a snow permanent.)
+3/3

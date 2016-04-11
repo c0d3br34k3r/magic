@@ -1,0 +1,3 @@
+Scepter of Dominance {1}{W}{W}
+Artifact
+{W}, {T}: Tap target permanent.

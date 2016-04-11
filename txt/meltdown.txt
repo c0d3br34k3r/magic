@@ -1,0 +1,3 @@
+Meltdown {X}{R}
+Sorcery
+Destroy each artifact with converted mana cost X or less.

@@ -1,0 +1,5 @@
+Crater Elemental {2}{R}
+Creature — Elemental
+{R}, {T}, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature.
+Formidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+0/6

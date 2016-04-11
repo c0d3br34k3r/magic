@@ -1,0 +1,4 @@
+Jilt {1}{U}
+Instant
+Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+Return target creature to its owner's hand. If Jilt was kicked, it deals 2 damage to another target creature.

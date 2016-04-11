@@ -1,0 +1,5 @@
+Monstrous Carabid {3}{B}{R}
+Creature — Insect
+Monstrous Carabid attacks each turn if able.
+Cycling {B/R} ({B/R}, Discard this card: Draw a card.)
+4/4

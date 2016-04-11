@@ -1,0 +1,4 @@
+Firebreathing {R}
+Enchantment — Aura
+Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.

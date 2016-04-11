@@ -1,0 +1,5 @@
+Darkling Stalker {3}{B}
+Creature — Shade Spirit
+{B}: Regenerate Darkling Stalker.
+{B}: Darkling Stalker gets +1/+1 until end of turn.
+1/1

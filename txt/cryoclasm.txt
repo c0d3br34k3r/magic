@@ -1,0 +1,3 @@
+Cryoclasm {2}{R}
+Sorcery
+Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.

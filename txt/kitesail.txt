@@ -1,0 +1,4 @@
+Kitesail {2}
+Artifact — Equipment
+Equipped creature gets +1/+0 and has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

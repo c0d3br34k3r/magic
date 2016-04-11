@@ -1,0 +1,3 @@
+Dwarven Song {R}
+Instant
+Any number of target creatures become red until end of turn.

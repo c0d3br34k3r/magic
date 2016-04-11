@@ -1,0 +1,4 @@
+Reclusive Wight {3}{B}
+Creature — Zombie Minion
+At the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight.
+4/4

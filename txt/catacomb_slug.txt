@@ -1,0 +1,3 @@
+Catacomb Slug {4}{B}
+Creature — Slug
+2/6

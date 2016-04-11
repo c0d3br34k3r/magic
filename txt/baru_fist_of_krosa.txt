@@ -1,0 +1,5 @@
+Baru, Fist of Krosa {3}{G}{G}
+Legendary Creature — Human Druid
+Whenever a Forest enters the battlefield, green creatures you control get +1/+1 and gain trample until end of turn.
+Grandeur — Discard another card named Baru, Fist of Krosa: Put an X/X green Wurm creature token onto the battlefield, where X is the number of lands you control.
+4/4

@@ -1,0 +1,6 @@
+Lightkeeper of Emeria {3}{W}
+Creature — Angel
+Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.)
+Flying
+When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.
+2/4

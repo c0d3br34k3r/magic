@@ -1,0 +1,4 @@
+Fledgling Osprey {U}
+Creature — Bird
+Fledgling Osprey has flying as long as it's enchanted.
+1/1

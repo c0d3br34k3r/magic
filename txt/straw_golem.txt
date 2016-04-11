@@ -1,0 +1,4 @@
+Straw Golem {1}
+Artifact Creature — Golem
+When an opponent casts a creature spell, sacrifice Straw Golem.
+2/3

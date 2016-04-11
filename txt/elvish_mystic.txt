@@ -1,0 +1,4 @@
+Elvish Mystic {G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool.
+1/1

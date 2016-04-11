@@ -1,0 +1,6 @@
+Giant Shark {5}{U}
+Creature — Fish
+Giant Shark can't attack unless defending player controls an Island.
+Whenever Giant Shark blocks or becomes blocked by a creature that has been dealt damage this turn, Giant Shark gets +2/+0 and gains trample until end of turn.
+When you control no Islands, sacrifice Giant Shark.
+4/4

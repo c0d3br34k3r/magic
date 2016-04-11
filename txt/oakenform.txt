@@ -1,0 +1,4 @@
+Oakenform {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.

@@ -1,0 +1,4 @@
+Skirsdag Flayer {1}{B}
+Creature — Human Cleric
+{3}{B}, {T}, Sacrifice a Human: Destroy target creature.
+1/1

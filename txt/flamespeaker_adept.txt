@@ -1,0 +1,4 @@
+Flamespeaker Adept {2}{R}
+Creature — Human Shaman
+Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.
+2/3

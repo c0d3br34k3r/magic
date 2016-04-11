@@ -1,0 +1,5 @@
+Leonin Relic-Warder {W}{W}
+Creature — Cat Cleric
+When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.
+When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+2/2

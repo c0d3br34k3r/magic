@@ -1,0 +1,4 @@
+Runed Halo {W}{W}
+Enchantment
+As Runed Halo enters the battlefield, name a card.
+You have protection from the chosen name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)

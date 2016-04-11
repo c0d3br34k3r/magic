@@ -1,0 +1,4 @@
+Underground River
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.

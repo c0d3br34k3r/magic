@@ -1,0 +1,3 @@
+Gale Force {4}{G}
+Sorcery
+Gale Force deals 5 damage to each creature with flying.

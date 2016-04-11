@@ -1,0 +1,5 @@
+Isleback Spawn {5}{U}{U}
+Creature — Kraken
+Shroud (This creature can't be the target of spells or abilities.)
+Isleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.
+4/8

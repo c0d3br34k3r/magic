@@ -1,0 +1,5 @@
+Argothian Wurm {3}{G}
+Creature — Wurm
+Trample
+When Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library.
+6/6

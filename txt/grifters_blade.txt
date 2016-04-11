@@ -1,0 +1,6 @@
+Grifter's Blade {3}
+Artifact — Equipment
+Flash
+As Grifter's Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature.
+Equipped creature gets +1/+1.
+Equip {1}

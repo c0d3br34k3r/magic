@@ -1,0 +1,6 @@
+Serendib Djinn {2}{U}{U}
+Creature — Djinn
+Flying
+At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you.
+When you control no lands, sacrifice Serendib Djinn.
+5/6

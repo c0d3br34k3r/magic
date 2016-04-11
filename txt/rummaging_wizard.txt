@@ -1,0 +1,4 @@
+Rummaging Wizard {3}{U}
+Creature — Human Wizard
+{2}{U}: Look at the top card of your library. You may put that card into your graveyard.
+2/2

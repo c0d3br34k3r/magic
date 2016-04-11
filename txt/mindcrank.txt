@@ -1,0 +1,3 @@
+Mindcrank {2}
+Artifact
+Whenever an opponent loses life, that player puts that many cards from the top of his or her library into his or her graveyard. (Damage dealt by sources without infect causes loss of life.)

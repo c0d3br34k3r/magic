@@ -1,0 +1,4 @@
+Diaochan, Artful Beauty {3}{R}
+Legendary Creature — Human Advisor
+{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.
+1/1

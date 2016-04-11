@@ -1,0 +1,3 @@
+Vitalizing Wind {8}{G}
+Instant
+Creatures you control get +7/+7 until end of turn.

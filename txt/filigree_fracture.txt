@@ -1,0 +1,3 @@
+Filigree Fracture {2}{G}
+Instant
+Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.

@@ -1,0 +1,4 @@
+Flowstone Blade {R}
+Enchantment — Aura
+Enchant creature
+{R}: Enchanted creature gets +1/-1 until end of turn.

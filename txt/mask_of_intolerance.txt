@@ -1,0 +1,3 @@
+Mask of Intolerance {2}
+Artifact
+At the beginning of each player's upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.

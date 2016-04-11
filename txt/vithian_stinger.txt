@@ -1,0 +1,5 @@
+Vithian Stinger {2}{R}
+Creature — Human Shaman
+{T}: Vithian Stinger deals 1 damage to target creature or player.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+0/1

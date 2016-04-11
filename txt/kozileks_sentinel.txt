@@ -1,0 +1,5 @@
+Kozilek's Sentinel {1}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.
+1/4

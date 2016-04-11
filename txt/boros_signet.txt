@@ -1,0 +1,3 @@
+Boros Signet {2}
+Artifact
+{1}, {T}: Add {R}{W} to your mana pool.

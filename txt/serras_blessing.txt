@@ -1,0 +1,3 @@
+Serra's Blessing {1}{W}
+Enchantment
+Creatures you control have vigilance. (Attacking doesn't cause them to tap.)

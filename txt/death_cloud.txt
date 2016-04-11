@@ -1,0 +1,3 @@
+Death Cloud {X}{B}{B}{B}
+Sorcery
+Each player loses X life, discards X cards, sacrifices X creatures, then sacrifices X lands.

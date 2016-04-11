@@ -1,0 +1,3 @@
+Hardened Scales {G}
+Enchantment
+If one or more +1/+1 counters would be placed on a creature you control, that many plus one +1/+1 counters are placed on it instead.

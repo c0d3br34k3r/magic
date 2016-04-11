@@ -1,0 +1,4 @@
+Serpent Warrior {2}{B}
+Creature — Snake Warrior
+When Serpent Warrior enters the battlefield, you lose 3 life.
+3/3

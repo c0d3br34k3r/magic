@@ -1,0 +1,4 @@
+Shell Skulkin {4}
+Artifact Creature — Scarecrow
+{3}: Target blue creature gains shroud until end of turn. (It can't be the target of spells or abilities.)
+3/2

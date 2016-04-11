@@ -1,0 +1,5 @@
+Eidolon of Countless Battles {1}{W}{W}
+Enchantment Creature — Spirit
+Bestow {2}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control.
+0/0

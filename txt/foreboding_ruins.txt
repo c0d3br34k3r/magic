@@ -1,0 +1,4 @@
+Foreboding Ruins
+Land
+As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountain card from your hand. If you don't, Foreboding Ruins enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.

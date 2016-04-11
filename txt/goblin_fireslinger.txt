@@ -1,0 +1,4 @@
+Goblin Fireslinger {R}
+Creature — Goblin Warrior
+{T}: Goblin Fireslinger deals 1 damage to target player.
+1/1

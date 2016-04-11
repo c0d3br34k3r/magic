@@ -1,0 +1,4 @@
+Lowland Basilisk {2}{G}
+Creature — Basilisk
+Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.
+1/3

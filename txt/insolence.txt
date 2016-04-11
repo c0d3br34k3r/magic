@@ -1,0 +1,4 @@
+Insolence {2}{R}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.

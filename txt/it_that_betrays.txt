@@ -1,0 +1,5 @@
+It That Betrays {12}
+Creature — Eldrazi
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
+11/11

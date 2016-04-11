@@ -1,0 +1,6 @@
+Reckless Imp {2}{B}
+Creature — Imp
+Flying
+Reckless Imp can't block.
+Dash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+2/2

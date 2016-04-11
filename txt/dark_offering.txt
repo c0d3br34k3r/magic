@@ -1,0 +1,3 @@
+Dark Offering {4}{B}{B}
+Sorcery
+Destroy target nonblack creature. You gain 3 life.

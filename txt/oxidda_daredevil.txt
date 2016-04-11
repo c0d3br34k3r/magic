@@ -1,0 +1,4 @@
+Oxidda Daredevil {1}{R}
+Creature — Goblin Artificer
+Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.
+2/1

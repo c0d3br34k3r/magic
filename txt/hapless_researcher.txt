@@ -1,0 +1,4 @@
+Hapless Researcher {U}
+Creature — Human Wizard
+Sacrifice Hapless Researcher: Draw a card, then discard a card.
+1/1

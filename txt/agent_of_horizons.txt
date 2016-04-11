@@ -1,0 +1,4 @@
+Agent of Horizons {2}{G}
+Creature — Human Rogue
+{2}{U}: Agent of Horizons can't be blocked this turn.
+3/2

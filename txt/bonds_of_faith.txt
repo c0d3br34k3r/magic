@@ -1,0 +1,4 @@
+Bonds of Faith {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.

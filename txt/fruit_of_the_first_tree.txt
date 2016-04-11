@@ -1,0 +1,4 @@
+Fruit of the First Tree {3}{G}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, you gain X life and draw X cards, where X is its toughness.

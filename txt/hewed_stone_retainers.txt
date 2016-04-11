@@ -1,0 +1,4 @@
+Hewed Stone Retainers {3}
+Artifact Creature — Golem
+Cast Hewed Stone Retainers only if you've cast another spell this turn.
+4/4

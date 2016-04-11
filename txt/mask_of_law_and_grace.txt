@@ -1,0 +1,4 @@
+Mask of Law and Grace {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from black and from red.

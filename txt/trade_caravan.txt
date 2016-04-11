@@ -1,0 +1,5 @@
+Trade Caravan {W}
+Creature — Human Nomad
+At the beginning of your upkeep, put a currency counter on Trade Caravan.
+Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.
+1/1

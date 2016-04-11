@@ -1,0 +1,4 @@
+Angelic Curator {1}{W}
+Creature — Angel Spirit
+Flying, protection from artifacts
+1/1

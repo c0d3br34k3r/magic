@@ -1,0 +1,4 @@
+Spiteful Shadows {1}{B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature is dealt damage, it deals that much damage to its controller.

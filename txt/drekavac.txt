@@ -1,0 +1,4 @@
+Drekavac {1}{B}
+Creature — Beast
+When Drekavac enters the battlefield, sacrifice it unless you discard a noncreature card.
+3/3

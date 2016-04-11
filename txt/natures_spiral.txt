@@ -1,0 +1,3 @@
+Nature's Spiral {1}{G}
+Sorcery
+Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)

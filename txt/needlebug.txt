@@ -1,0 +1,5 @@
+Needlebug {4}
+Artifact Creature — Insect
+Flash
+Protection from artifacts
+2/2

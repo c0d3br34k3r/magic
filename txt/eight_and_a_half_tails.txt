@@ -1,0 +1,5 @@
+Eight-and-a-Half-Tails {W}{W}
+Legendary Creature — Fox Cleric
+{1}{W}: Target permanent you control gains protection from white until end of turn.
+{1}: Target spell or permanent becomes white until end of turn.
+2/2

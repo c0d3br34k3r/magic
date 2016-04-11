@@ -1,0 +1,4 @@
+Norwood Priestess {2}{G}{G}
+Creature — Elf Druid
+{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.
+1/1

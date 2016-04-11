@@ -1,0 +1,5 @@
+Falkenrath Exterminator {1}{R}
+Creature — Vampire Archer
+Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.
+{2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.
+1/1

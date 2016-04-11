@@ -1,0 +1,4 @@
+Phyrexian Delver {3}{B}{B}
+Creature — Zombie
+When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's converted mana cost.
+3/2

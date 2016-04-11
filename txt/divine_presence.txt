@@ -1,0 +1,3 @@
+Divine Presence {2}{W}
+Enchantment
+If a source would deal 4 or more damage to a creature or player, that source deals 3 damage to that creature or player instead.

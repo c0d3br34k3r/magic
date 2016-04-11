@@ -1,0 +1,4 @@
+Magus of the Mirror {4}{B}{B}
+Creature — Human Wizard
+{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.
+4/2

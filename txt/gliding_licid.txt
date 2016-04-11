@@ -1,0 +1,5 @@
+Gliding Licid {2}{U}
+Creature — Licid
+{U}, {T}: Gliding Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect.
+Enchanted creature has flying.
+2/2

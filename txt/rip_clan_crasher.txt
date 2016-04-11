@@ -1,0 +1,4 @@
+Rip-Clan Crasher {R}{G}
+Creature — Human Warrior
+Haste
+2/2

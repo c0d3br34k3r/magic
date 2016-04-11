@@ -1,0 +1,3 @@
+Rumbling Aftershocks {4}{R}
+Enchantment
+Whenever you cast a kicked spell, you may have Rumbling Aftershocks deal damage to target creature or player equal to the number of times that spell was kicked.

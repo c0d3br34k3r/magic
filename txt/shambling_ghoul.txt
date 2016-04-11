@@ -1,0 +1,4 @@
+Shambling Ghoul {1}{B}
+Creature — Zombie
+Shambling Ghoul enters the battlefield tapped.
+2/3

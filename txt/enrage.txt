@@ -1,0 +1,3 @@
+Enrage {X}{R}
+Instant
+Target creature gets +X/+0 until end of turn.

@@ -1,0 +1,5 @@
+Lancers en-Kor {3}{W}{W}
+Creature — Kor Soldier
+Trample
+{0}: The next 1 damage that would be dealt to Lancers en-Kor this turn is dealt to target creature you control instead.
+3/3

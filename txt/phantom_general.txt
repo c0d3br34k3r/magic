@@ -1,0 +1,4 @@
+Phantom General {3}{W}
+Creature — Spirit Soldier
+Creature tokens you control get +1/+1.
+2/3

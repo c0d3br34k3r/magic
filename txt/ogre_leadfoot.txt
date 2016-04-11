@@ -1,0 +1,4 @@
+Ogre Leadfoot {4}{R}
+Creature — Ogre
+Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.
+3/3

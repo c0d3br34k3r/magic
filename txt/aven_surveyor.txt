@@ -1,0 +1,7 @@
+Aven Surveyor {3}{U}{U}
+Creature — Bird Scout
+Flying
+When Aven Surveyor enters the battlefield, choose one —
+• Put a +1/+1 counter on Aven Surveyor.
+• Return target creature to its owner's hand.
+2/2

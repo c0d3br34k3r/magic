@@ -1,0 +1,3 @@
+Heartwood Shard {3}
+Artifact
+{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.

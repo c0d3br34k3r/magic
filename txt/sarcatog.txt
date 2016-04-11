@@ -1,0 +1,5 @@
+Sarcatog {1}{B}{R}
+Creature — Atog
+Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn.
+Sacrifice an artifact: Sarcatog gets +1/+1 until end of turn.
+1/2

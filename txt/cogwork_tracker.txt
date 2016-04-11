@@ -1,0 +1,6 @@
+Cogwork Tracker {4}
+Artifact Creature — Hound Construct
+Reveal Cogwork Tracker as you draft it and note the player who passed it to you.
+Cogwork Tracker attacks each turn if able.
+Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker each turn if able.
+4/4

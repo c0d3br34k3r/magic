@@ -1,0 +1,4 @@
+Grove of the Guardian
+Land
+{T}: Add {C} to your mana pool.
+{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental creature token with vigilance onto the battlefield.

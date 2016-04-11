@@ -1,0 +1,4 @@
+Lord of the Unreal {U}{U}
+Creature — Human Wizard
+Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+2/2

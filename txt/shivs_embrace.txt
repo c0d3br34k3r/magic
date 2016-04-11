@@ -1,0 +1,5 @@
+Shiv's Embrace {2}{R}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+{R}: Enchanted creature gets +1/+0 until end of turn.

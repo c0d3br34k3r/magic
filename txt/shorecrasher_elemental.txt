@@ -1,0 +1,6 @@
+Shorecrasher Elemental {U}{U}{U}
+Creature — Elemental
+{U}: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control.
+{1}: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn. 
+Megamorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+3/3

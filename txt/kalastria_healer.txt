@@ -1,0 +1,4 @@
+Kalastria Healer {1}{B}
+Creature — Vampire Cleric Ally
+Rally — Whenever Kalastria Healer or another Ally enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
+1/2

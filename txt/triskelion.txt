@@ -1,0 +1,5 @@
+Triskelion {6}
+Artifact Creature — Construct
+Triskelion enters the battlefield with three +1/+1 counters on it.
+Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.
+1/1

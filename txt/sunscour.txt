@@ -1,0 +1,4 @@
+Sunscour {5}{W}{W}
+Sorcery
+You may exile two white cards from your hand rather than pay Sunscour's mana cost.
+Destroy all creatures.

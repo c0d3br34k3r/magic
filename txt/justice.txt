@@ -1,0 +1,4 @@
+Justice {2}{W}{W}
+Enchantment
+At the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}.
+Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.

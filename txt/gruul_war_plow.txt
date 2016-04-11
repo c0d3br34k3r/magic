@@ -1,0 +1,4 @@
+Gruul War Plow {4}
+Artifact
+Creatures you control have trample.
+{1}{R}{G}: Gruul War Plow becomes a 4/4 Juggernaut artifact creature until end of turn.

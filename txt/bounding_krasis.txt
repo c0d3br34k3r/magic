@@ -1,0 +1,5 @@
+Bounding Krasis {1}{U}{G}
+Creature — Fish Lizard
+Flash (You may cast this spell any time you could cast an instant.)
+When Bounding Krasis enters the battlefield, you may tap or untap target creature.
+3/3

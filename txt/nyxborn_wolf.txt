@@ -1,0 +1,5 @@
+Nyxborn Wolf {2}{G}
+Enchantment Creature — Wolf
+Bestow {4}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Enchanted creature gets +3/+1.
+3/1

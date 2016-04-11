@@ -1,0 +1,3 @@
+Goblin Warrens {2}{R}
+Enchantment
+{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.

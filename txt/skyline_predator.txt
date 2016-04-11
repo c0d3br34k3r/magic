@@ -1,0 +1,5 @@
+Skyline Predator {4}{U}{U}
+Creature — Drake
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+3/4

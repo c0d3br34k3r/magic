@@ -1,0 +1,5 @@
+Khalni Garden
+Land
+Khalni Garden enters the battlefield tapped.
+When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.
+{T}: Add {G} to your mana pool.

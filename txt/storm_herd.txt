@@ -1,0 +1,3 @@
+Storm Herd {8}{W}{W}
+Sorcery
+Put X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total.

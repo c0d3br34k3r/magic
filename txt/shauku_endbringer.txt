@@ -1,0 +1,7 @@
+Shauku, Endbringer {5}{B}{B}
+Legendary Creature — Vampire
+Flying
+Shauku, Endbringer can't attack if there's another creature on the battlefield.
+At the beginning of your upkeep, you lose 3 life.
+{T}: Exile target creature and put a +1/+1 counter on Shauku.
+5/5

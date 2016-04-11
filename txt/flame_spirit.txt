@@ -1,0 +1,4 @@
+Flame Spirit {4}{R}
+Creature — Elemental Spirit
+{R}: Flame Spirit gets +1/+0 until end of turn.
+2/3

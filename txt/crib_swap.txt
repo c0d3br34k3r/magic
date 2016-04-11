@@ -1,0 +1,4 @@
+Crib Swap {2}{W}
+Tribal Instant — Shapeshifter
+Changeling (This card is every creature type at all times.)
+Exile target creature. Its controller puts a 1/1 colorless Shapeshifter creature token with changeling onto the battlefield.

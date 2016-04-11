@@ -1,0 +1,4 @@
+That Which Was Taken {5}
+Legendary Artifact
+{4}, {T}: Put a divinity counter on target permanent other than That Which Was Taken.
+Each permanent with a divinity counter on it has indestructible.

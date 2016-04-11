@@ -1,0 +1,3 @@
+Elvish Warrior {G}{G}
+Creature — Elf Warrior
+2/3

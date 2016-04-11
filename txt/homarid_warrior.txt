@@ -1,0 +1,4 @@
+Homarid Warrior {4}{U}
+Creature — Homarid Warrior
+{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. (A creature with shroud can't be the target of spells or abilities.)
+3/3

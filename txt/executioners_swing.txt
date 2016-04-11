@@ -1,0 +1,3 @@
+Executioner's Swing {W}{B}
+Instant
+Target creature that dealt damage this turn gets -5/-5 until end of turn.

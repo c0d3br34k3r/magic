@@ -1,0 +1,4 @@
+Harvester Druid {1}{G}
+Creature — Human Druid
+{T}: Add to your mana pool one mana of any color that a land you control could produce.
+1/1

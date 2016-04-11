@@ -1,0 +1,4 @@
+King's Assassin {1}{B}{B}
+Creature — Human Assassin
+{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+1/1

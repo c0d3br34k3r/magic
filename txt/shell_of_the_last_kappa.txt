@@ -1,0 +1,4 @@
+Shell of the Last Kappa {3}
+Legendary Artifact
+{3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.)
+{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a card exiled with Shell of the Last Kappa without paying its mana cost.

@@ -1,0 +1,5 @@
+Whispering Shade {3}{B}
+Creature — Shade
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+{B}: Whispering Shade gets +1/+1 until end of turn.
+1/1

@@ -1,0 +1,5 @@
+Torpid Moloch {R}
+Creature — Lizard
+Defender (This creature can't attack.)
+Sacrifice three lands: Torpid Moloch loses defender until end of turn.
+3/2

@@ -1,0 +1,4 @@
+Sabretooth Tiger {2}{R}
+Creature — Cat
+First strike
+2/1

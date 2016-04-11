@@ -1,0 +1,6 @@
+Swarm of Bloodflies {4}{B}
+Creature — Insect
+Flying
+Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it.
+Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies.
+0/0

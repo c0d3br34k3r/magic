@@ -1,0 +1,3 @@
+Baleful Stare {2}{U}
+Sorcery
+Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.

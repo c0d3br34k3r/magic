@@ -1,0 +1,4 @@
+Manaplasm {2}{G}
+Creature — Ooze
+Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.
+1/1

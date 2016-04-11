@@ -1,0 +1,4 @@
+Blood Scrivener {1}{B}
+Creature — Zombie Wizard
+If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.
+2/1

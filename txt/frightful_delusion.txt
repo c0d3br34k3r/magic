@@ -1,0 +1,3 @@
+Frightful Delusion {2}{U}
+Instant
+Counter target spell unless its controller pays {1}. That player discards a card.

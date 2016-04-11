@@ -1,0 +1,5 @@
+Xira Arien {B}{R}{G}
+Legendary Creature — Insect Wizard
+Flying
+{B}{R}{G}, {T}: Target player draws a card.
+1/2

@@ -1,0 +1,3 @@
+Destructive Force {5}{R}{R}
+Sorcery
+Each player sacrifices five lands. Destructive Force deals 5 damage to each creature.

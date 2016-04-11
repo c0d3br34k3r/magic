@@ -1,0 +1,4 @@
+Sophic Centaur {3}{G}
+Creature — Centaur Spellshaper
+{2}{G}{G}, {T}, Discard a card: You gain 2 life for each card in your hand.
+1/1

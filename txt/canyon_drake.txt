@@ -1,0 +1,5 @@
+Canyon Drake {2}{R}{R}
+Creature — Drake
+Flying
+{1}, Discard a card at random: Canyon Drake gets +2/+0 until end of turn.
+1/2

@@ -1,0 +1,4 @@
+Mogg Flunkies {1}{R}
+Creature — Goblin
+Mogg Flunkies can't attack or block alone.
+3/3

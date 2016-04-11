@@ -1,0 +1,4 @@
+Carrion Wurm {3}{B}{B}
+Creature — Zombie Wurm
+Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.
+6/5

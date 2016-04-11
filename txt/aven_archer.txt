@@ -1,0 +1,5 @@
+Aven Archer {3}{W}{W}
+Creature — Bird Soldier Archer
+Flying
+{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.
+2/2

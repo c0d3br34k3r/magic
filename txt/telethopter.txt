@@ -1,0 +1,4 @@
+Telethopter {4}
+Artifact Creature — Thopter
+Tap an untapped creature you control: Telethopter gains flying until end of turn.
+3/1

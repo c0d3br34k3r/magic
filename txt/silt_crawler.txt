@@ -1,0 +1,4 @@
+Silt Crawler {2}{G}
+Creature — Beast
+When Silt Crawler enters the battlefield, tap all lands you control.
+3/3

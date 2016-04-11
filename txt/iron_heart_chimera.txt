@@ -1,0 +1,5 @@
+Iron-Heart Chimera {4}
+Artifact Creature — Chimera
+Vigilance
+Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. (This effect lasts indefinitely.)
+2/2

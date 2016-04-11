@@ -1,0 +1,6 @@
+Mourning Thrull {1}{W/B}
+Creature — Thrull
+({W/B} can be paid with either {W} or {B}.)
+Flying
+Whenever Mourning Thrull deals damage, you gain that much life.
+1/1

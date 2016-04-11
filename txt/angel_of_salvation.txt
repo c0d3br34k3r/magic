@@ -1,0 +1,6 @@
+Angel of Salvation {6}{W}{W}
+Creature — Angel
+Flash; convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Flying
+When Angel of Salvation enters the battlefield, prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+5/5

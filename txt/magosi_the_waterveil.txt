@@ -1,0 +1,6 @@
+Magosi, the Waterveil
+Land
+Magosi, the Waterveil enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn.
+{T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.

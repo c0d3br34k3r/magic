@@ -1,0 +1,8 @@
+Jokulmorder {4}{U}{U}{U}
+Creature — Leviathan
+Trample
+Jokulmorder enters the battlefield tapped.
+When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.
+Jokulmorder doesn't untap during your untap step.
+Whenever you play an Island, you may untap Jokulmorder.
+12/12

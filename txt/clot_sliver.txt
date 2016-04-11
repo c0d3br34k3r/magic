@@ -1,0 +1,4 @@
+Clot Sliver {1}{B}
+Creature — Sliver
+All Slivers have "{2}: Regenerate this permanent."
+1/1

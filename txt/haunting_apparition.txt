@@ -1,0 +1,6 @@
+Haunting Apparition {1}{U}{B}
+Creature — Spirit
+Flying
+As Haunting Apparition enters the battlefield, choose an opponent.
+Haunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.
+1+*/2

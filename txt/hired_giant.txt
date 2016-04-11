@@ -1,0 +1,4 @@
+Hired Giant {3}{R}
+Creature — Giant
+When Hired Giant enters the battlefield, each other player may search his or her library for a land card and put that card onto the battlefield. Then each player who searched his or her library this way shuffles it.
+4/4

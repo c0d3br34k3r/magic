@@ -1,0 +1,6 @@
+Thunder Brute {4}{R}{R}
+Creature — Cyclops
+Trample
+Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)
+When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn.
+5/5

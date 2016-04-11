@@ -1,0 +1,4 @@
+Nihil Spellbomb {1}
+Artifact
+{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.

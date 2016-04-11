@@ -1,0 +1,5 @@
+Arbiter of Knollridge {6}{W}
+Creature — Giant Wizard
+Vigilance
+When Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players.
+5/5

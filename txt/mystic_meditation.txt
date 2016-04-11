@@ -1,0 +1,3 @@
+Mystic Meditation {3}{U}
+Sorcery
+Draw three cards. Then discard two cards unless you discard a creature card.

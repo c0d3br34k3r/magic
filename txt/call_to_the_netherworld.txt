@@ -1,0 +1,4 @@
+Call to the Netherworld {B}
+Sorcery
+Return target black creature card from your graveyard to your hand.
+Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

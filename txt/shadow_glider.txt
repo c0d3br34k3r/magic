@@ -1,0 +1,4 @@
+Shadow Glider {2}{W}
+Creature — Kor Soldier
+Flying
+2/2

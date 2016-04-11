@@ -1,0 +1,5 @@
+Saprazzan Legate {3}{U}
+Creature — Merfolk Soldier
+Flying
+If an opponent controls a Mountain and you control an Island, you may cast Saprazzan Legate without paying its mana cost.
+1/3

@@ -1,0 +1,4 @@
+Krark-Clan Stoker {2}{R}
+Creature — Goblin Shaman
+{T}, Sacrifice an artifact: Add {R}{R} to your mana pool.
+2/2

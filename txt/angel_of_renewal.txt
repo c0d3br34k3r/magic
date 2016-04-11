@@ -1,0 +1,5 @@
+Angel of Renewal {5}{W}
+Creature — Angel Ally
+Flying
+When Angel of Renewal enters the battlefield, you gain 1 life for each creature you control.
+4/4

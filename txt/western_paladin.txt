@@ -1,0 +1,4 @@
+Western Paladin {2}{B}{B}
+Creature — Zombie Knight
+{B}{B}, {T}: Destroy target white creature.
+3/3

@@ -1,0 +1,4 @@
+Glacial Wall {2}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+0/7

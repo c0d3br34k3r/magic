@@ -1,0 +1,5 @@
+Dauthi Warlord {1}{B}
+Creature — Dauthi Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.
+*/1

@@ -1,0 +1,3 @@
+Soothing Balm {1}{W}
+Instant
+Target player gains 5 life.

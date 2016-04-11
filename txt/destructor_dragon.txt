@@ -1,0 +1,5 @@
+Destructor Dragon {4}{G}{G}
+Creature — Dragon
+Flying
+When Destructor Dragon dies, destroy target noncreature permanent.
+4/4

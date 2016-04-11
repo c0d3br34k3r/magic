@@ -1,0 +1,4 @@
+Heckling Fiends {2}{R}
+Creature — Devil
+{2}{R}: Target creature attacks this turn if able.
+2/2

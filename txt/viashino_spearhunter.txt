@@ -1,0 +1,4 @@
+Viashino Spearhunter {2}{R}
+Creature — Viashino Warrior
+First strike (This creature deals combat damage before creatures without first strike.)
+2/1

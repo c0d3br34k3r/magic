@@ -1,0 +1,4 @@
+Pardic Swordsmith {2}{R}
+Creature — Dwarf
+{R}, Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn.
+1/1

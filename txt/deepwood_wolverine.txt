@@ -1,0 +1,4 @@
+Deepwood Wolverine {G}
+Creature — Wolverine
+Whenever Deepwood Wolverine becomes blocked, it gets +2/+0 until end of turn.
+1/1

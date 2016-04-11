@@ -1,0 +1,4 @@
+Pheres-Band Raiders {5}{G}
+Creature — Centaur Warrior
+Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay {2}{G}. If you do, put a 3/3 green Centaur enchantment creature token onto the battlefield.
+5/5

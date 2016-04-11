@@ -1,0 +1,4 @@
+Rites of Flourishing {2}{G}
+Enchantment
+At the beginning of each player's draw step, that player draws an additional card.
+Each player may play an additional land on each of his or her turns.

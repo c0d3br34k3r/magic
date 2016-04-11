@@ -1,0 +1,4 @@
+Drudge Spell {B}{B}
+Enchantment
+{B}, Exile two creature cards from your graveyard: Put a 1/1 black Skeleton creature token onto the battlefield. It has "{B}: Regenerate this creature."
+When Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can't be regenerated.

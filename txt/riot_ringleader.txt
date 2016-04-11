@@ -1,0 +1,4 @@
+Riot Ringleader {2}{R}
+Creature — Human Warrior
+Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.
+2/2

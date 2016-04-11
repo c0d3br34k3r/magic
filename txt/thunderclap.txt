@@ -1,0 +1,4 @@
+Thunderclap {2}{R}
+Instant
+You may sacrifice a Mountain rather than pay Thunderclap's mana cost.
+Thunderclap deals 3 damage to target creature.

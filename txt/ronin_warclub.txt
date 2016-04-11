@@ -1,0 +1,5 @@
+Ronin Warclub {3}
+Artifact — Equipment
+Equipped creature gets +2/+1.
+Whenever a creature enters the battlefield under your control, attach Ronin Warclub to that creature.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)

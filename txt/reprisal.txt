@@ -1,0 +1,3 @@
+Reprisal {1}{W}
+Instant
+Destroy target creature with power 4 or greater. It can't be regenerated.

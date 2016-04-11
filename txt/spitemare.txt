@@ -1,0 +1,4 @@
+Spitemare {2}{R/W}{R/W}
+Creature — Elemental
+Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.
+3/3

@@ -1,0 +1,6 @@
+Drifting Djinn {4}{U}{U}
+Creature — Djinn
+Flying
+At the beginning of your upkeep, sacrifice Drifting Djinn unless you pay {1}{U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+5/5

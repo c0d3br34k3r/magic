@@ -1,0 +1,4 @@
+Rootwater Alligator {3}{G}
+Creature — Crocodile
+Sacrifice a Forest: Regenerate Rootwater Alligator.
+3/2

@@ -1,0 +1,4 @@
+Heartwood Storyteller {1}{G}{G}
+Creature — Treefolk
+Whenever a player casts a noncreature spell, each of that player's opponents may draw a card.
+2/3

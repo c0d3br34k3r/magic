@@ -1,0 +1,3 @@
+Null Brooch {4}
+Artifact
+{2}, {T}, Discard your hand: Counter target noncreature spell.

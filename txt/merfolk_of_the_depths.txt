@@ -1,0 +1,4 @@
+Merfolk of the Depths {4}{G/U}{G/U}
+Creature — Merfolk Soldier
+Flash (You may cast this spell any time you could cast an instant.)
+4/2

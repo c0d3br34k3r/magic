@@ -1,0 +1,6 @@
+Fylamarid {1}{U}{U}
+Creature — Squid Beast
+Flying
+Fylamarid can't be blocked by blue creatures.
+{U}: Target creature becomes blue until end of turn.
+1/3

@@ -1,0 +1,3 @@
+Erratic Portal {4}
+Artifact
+{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.

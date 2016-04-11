@@ -1,0 +1,4 @@
+Bloodfire Colossus {6}{R}{R}
+Creature — Giant
+{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.
+6/6

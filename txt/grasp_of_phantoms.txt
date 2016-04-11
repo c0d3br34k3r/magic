@@ -1,0 +1,4 @@
+Grasp of Phantoms {3}{U}
+Sorcery
+Put target creature on top of its owner's library.
+Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

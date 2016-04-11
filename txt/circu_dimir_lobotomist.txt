@@ -1,0 +1,6 @@
+Circu, Dimir Lobotomist {2}{U}{B}
+Legendary Creature — Human Wizard
+Whenever you cast a blue spell, exile the top card of target library.
+Whenever you cast a black spell, exile the top card of target library.
+Your opponents can't cast nonland cards with the same name as a card exiled with Circu, Dimir Lobotomist.
+2/3

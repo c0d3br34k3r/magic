@@ -1,0 +1,4 @@
+Scroll Thief {2}{U}
+Creature — Merfolk Rogue
+Whenever Scroll Thief deals combat damage to a player, draw a card.
+1/3

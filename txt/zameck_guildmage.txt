@@ -1,0 +1,5 @@
+Zameck Guildmage {U}{G}
+Creature — Elf Wizard
+{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.
+2/2

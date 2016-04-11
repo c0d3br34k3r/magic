@@ -1,0 +1,5 @@
+Skirge Familiar {4}{B}
+Creature — Imp
+Flying
+Discard a card: Add {B} to your mana pool.
+3/2

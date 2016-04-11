@@ -1,0 +1,3 @@
+Soul Feast {3}{B}{B}
+Sorcery
+Target player loses 4 life and you gain 4 life.

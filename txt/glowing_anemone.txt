@@ -1,0 +1,4 @@
+Glowing Anemone {3}{U}
+Creature — Jellyfish Beast
+When Glowing Anemone enters the battlefield, you may return target land to its owner's hand.
+1/3

@@ -1,0 +1,4 @@
+Elvish Lyrist {G}
+Creature — Elf
+{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.
+1/1

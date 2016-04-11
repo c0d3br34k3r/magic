@@ -1,0 +1,4 @@
+Zodiac Dragon {7}{R}{R}
+Creature — Dragon
+When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand.
+8/8

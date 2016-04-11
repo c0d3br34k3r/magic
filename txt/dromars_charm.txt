@@ -1,0 +1,6 @@
+Dromar's Charm {W}{U}{B}
+Instant
+Choose one —
+• You gain 5 life.
+• Counter target spell.
+• Target creature gets -2/-2 until end of turn.

@@ -1,0 +1,4 @@
+Curse of the Pierced Heart {1}{R}
+Enchantment — Aura Curse
+Enchant player
+At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.

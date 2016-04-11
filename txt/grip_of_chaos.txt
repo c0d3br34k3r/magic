@@ -1,0 +1,3 @@
+Grip of Chaos {4}{R}{R}
+Enchantment
+Whenever a spell or ability is put onto the stack, if it has a single target, reselect its target at random. (Select from among all legal targets.)

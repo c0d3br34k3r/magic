@@ -1,0 +1,5 @@
+Drifting Shade {3}{B}
+Creature — Shade
+Flying
+{B}: Drifting Shade gets +1/+1 until end of turn.
+1/1

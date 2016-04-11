@@ -1,0 +1,4 @@
+Benthic Explorers {3}{U}
+Creature — Merfolk Scout
+{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce to your mana pool.
+2/4

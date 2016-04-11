@@ -1,0 +1,4 @@
+Wu Light Cavalry {1}{U}
+Creature — Human Soldier
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+1/2

@@ -1,0 +1,5 @@
+Maggot Therapy {2}{B}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets +2/-2.

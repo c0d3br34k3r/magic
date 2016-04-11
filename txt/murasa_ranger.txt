@@ -1,0 +1,4 @@
+Murasa Ranger {3}{G}
+Creature — Human Warrior
+Landfall — Whenever a land enters the battlefield under your control, you may pay {3}{G}. If you do, put two +1/+1 counters on Murasa Ranger.
+3/3

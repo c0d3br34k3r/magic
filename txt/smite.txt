@@ -1,0 +1,3 @@
+Smite {W}
+Instant
+Destroy target blocked creature.

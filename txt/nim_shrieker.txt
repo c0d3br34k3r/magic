@@ -1,0 +1,5 @@
+Nim Shrieker {3}{B}
+Creature — Zombie
+Flying
+Nim Shrieker gets +1/+0 for each artifact you control.
+0/1

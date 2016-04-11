@@ -1,0 +1,4 @@
+Doran, the Siege Tower {W}{B}{G}
+Legendary Creature — Treefolk Shaman
+Each creature assigns combat damage equal to its toughness rather than its power.
+0/5

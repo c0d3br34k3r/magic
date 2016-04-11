@@ -1,0 +1,4 @@
+Shoreline Salvager {3}{B}
+Creature — Surrakar
+Whenever Shoreline Salvager deals combat damage to a player, if you control an Island, you may draw a card.
+3/3

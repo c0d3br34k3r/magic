@@ -1,0 +1,4 @@
+World Queller {3}{W}{W}
+Creature — Avatar
+At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.
+4/4

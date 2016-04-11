@@ -1,0 +1,4 @@
+Stonewise Fortifier {1}{W}
+Creature — Human Wizard
+{4}{W}: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn.
+2/2

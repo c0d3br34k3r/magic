@@ -1,0 +1,4 @@
+Goblin Tinkerer {1}{R}
+Creature — Goblin Artificer
+{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+1/2

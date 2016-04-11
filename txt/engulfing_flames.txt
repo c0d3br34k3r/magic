@@ -1,0 +1,4 @@
+Engulfing Flames {R}
+Instant
+Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

@@ -1,0 +1,9 @@
+Zulaport Enforcer {B}
+Creature — Human Warrior
+Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+3/3
+LEVEL 3+
+5/5
+Zulaport Enforcer can't be blocked except by black creatures.
+1/1

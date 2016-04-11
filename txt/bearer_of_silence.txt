@@ -1,0 +1,7 @@
+Bearer of Silence {1}{B}
+Creature — Eldrazi
+Devoid (This card has no color.)
+When you cast Bearer of Silence, you may pay {1}{C}. If you do, target opponent sacrifices a creature. ({C} represents colorless mana.)
+Flying
+Bearer of Silence can't block.
+2/1

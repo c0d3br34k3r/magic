@@ -1,0 +1,5 @@
+Longshot Squad {3}{G}
+Creature — Hound Archer
+Outlast {1}{G} ({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has reach. (A creature with reach can block creatures with flying.)
+3/3

@@ -1,0 +1,4 @@
+Ashmouth Hound {1}{R}
+Creature — Elemental Hound
+Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.
+2/1

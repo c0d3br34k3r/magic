@@ -1,0 +1,4 @@
+Acceptable Losses {3}{R}
+Sorcery
+As an additional cost to cast Acceptable Losses, discard a card at random.
+Acceptable Losses deals 5 damage to target creature.

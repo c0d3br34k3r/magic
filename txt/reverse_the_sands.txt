@@ -1,0 +1,3 @@
+Reverse the Sands {6}{W}{W}
+Sorcery
+Redistribute any number of players' life totals. (Each of those players gets one life total back.)

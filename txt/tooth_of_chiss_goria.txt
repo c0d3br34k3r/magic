@@ -1,0 +1,5 @@
+Tooth of Chiss-Goria {3}
+Artifact
+Flash
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{T}: Target creature gets +1/+0 until end of turn.

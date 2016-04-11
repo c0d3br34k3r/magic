@@ -1,0 +1,4 @@
+Barrage of Boulders {2}{R}
+Sorcery
+Barrage of Boulders deals 1 damage to each creature you don't control.
+Ferocious — If you control a creature with power 4 or greater, creatures can't block this turn.

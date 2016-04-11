@@ -1,0 +1,4 @@
+Dawn of the Dead {2}{B}{B}{B}
+Enchantment
+At the beginning of your upkeep, you lose 1 life.
+At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.

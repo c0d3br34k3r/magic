@@ -1,0 +1,4 @@
+Chainer's Edict {1}{B}
+Sorcery
+Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

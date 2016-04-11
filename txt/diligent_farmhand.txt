@@ -1,0 +1,5 @@
+Diligent Farmhand {G}
+Creature — Human Druid
+{1}{G}, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+If Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.
+1/1

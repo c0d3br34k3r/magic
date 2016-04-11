@@ -1,0 +1,5 @@
+Plague Myr {2}
+Artifact Creature — Myr
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{T}: Add {C} to your mana pool.
+1/1

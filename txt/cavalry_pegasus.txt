@@ -1,0 +1,5 @@
+Cavalry Pegasus {1}{W}
+Creature — Pegasus
+Flying
+Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.
+1/1

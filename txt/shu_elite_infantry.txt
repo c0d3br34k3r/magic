@@ -1,0 +1,3 @@
+Shu Elite Infantry {3}{W}
+Creature — Human Soldier
+3/3

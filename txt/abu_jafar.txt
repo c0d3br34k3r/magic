@@ -1,0 +1,4 @@
+Abu Ja'far {W}
+Creature — Human
+When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.
+0/1

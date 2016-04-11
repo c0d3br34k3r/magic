@@ -1,0 +1,3 @@
+Intangible Virtue {1}{W}
+Enchantment
+Creature tokens you control get +1/+1 and have vigilance.

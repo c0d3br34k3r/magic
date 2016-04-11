@@ -1,0 +1,3 @@
+Ovinize {1}{U}
+Instant
+Until end of turn, target creature loses all abilities and has base power and toughness 0/1.

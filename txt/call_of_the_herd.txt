@@ -1,0 +1,4 @@
+Call of the Herd {2}{G}
+Sorcery
+Put a 3/3 green Elephant creature token onto the battlefield.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

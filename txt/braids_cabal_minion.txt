@@ -1,0 +1,4 @@
+Braids, Cabal Minion {2}{B}{B}
+Legendary Creature — Human Minion
+At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.
+2/2

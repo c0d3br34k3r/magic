@@ -1,0 +1,4 @@
+Coalition Honor Guard {3}{W}
+Creature — Human Flagbearer
+While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.
+2/4

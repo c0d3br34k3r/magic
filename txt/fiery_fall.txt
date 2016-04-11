@@ -1,0 +1,4 @@
+Fiery Fall {5}{R}
+Instant
+Fiery Fall deals 5 damage to target creature.
+Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)

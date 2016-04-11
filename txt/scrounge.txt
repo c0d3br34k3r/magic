@@ -1,0 +1,3 @@
+Scrounge {2}{B}
+Sorcery
+Target opponent chooses an artifact card in his or her graveyard. Put that card onto the battlefield under your control.

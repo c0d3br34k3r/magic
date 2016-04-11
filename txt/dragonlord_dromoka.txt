@@ -1,0 +1,6 @@
+Dragonlord Dromoka {4}{W}{G}
+Legendary Creature — Elder Dragon
+Dragonlord Dromoka can't be countered.
+Flying, lifelink
+Your opponents can't cast spells during your turn.
+5/7

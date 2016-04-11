@@ -1,0 +1,4 @@
+Henge Guardian {5}
+Artifact Creature — Dragon Wurm
+{2}: Henge Guardian gains trample until end of turn.
+3/4

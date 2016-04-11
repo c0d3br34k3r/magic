@@ -1,0 +1,6 @@
+Sky Hussar {3}{W}{U}
+Creature — Human Knight
+Flying
+When Sky Hussar enters the battlefield, untap all creatures you control.
+Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate this ability only during your upkeep and only once each turn.)
+4/3

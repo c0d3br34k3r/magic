@@ -1,0 +1,5 @@
+Ashen Rider {4}{W}{W}{B}{B}
+Creature — Archon
+Flying
+When Ashen Rider enters the battlefield or dies, exile target permanent.
+5/5

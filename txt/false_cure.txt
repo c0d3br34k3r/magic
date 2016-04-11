@@ -1,0 +1,3 @@
+False Cure {B}{B}
+Instant
+Until end of turn, whenever a player gains life, that player loses 2 life for each 1 life he or she gained.

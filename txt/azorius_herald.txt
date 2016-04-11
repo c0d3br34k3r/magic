@@ -1,0 +1,6 @@
+Azorius Herald {2}{W}
+Creature — Spirit
+Azorius Herald can't be blocked.
+When Azorius Herald enters the battlefield, you gain 4 life.
+When Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.
+2/1

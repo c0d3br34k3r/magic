@@ -1,0 +1,6 @@
+Sisters of Stone Death {4}{B}{B}{G}{G}
+Legendary Creature — Gorgon
+{G}: Target creature blocks Sisters of Stone Death this turn if able.
+{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.
+{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.
+7/5

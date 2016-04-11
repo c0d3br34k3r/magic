@@ -1,0 +1,9 @@
+Autumnal Gloom {2}{G}
+Enchantment
+{B}: Put the top card of your library into your graveyard.
+Delirium — At the beginning of your end step, if there are four or more card types among cards in your graveyard, transform Autumnal Gloom.
+* DOUBLE-FACED *
+Ancient of the Equinox
+Creature — Treefolk
+Trample, hexproof
+4/4

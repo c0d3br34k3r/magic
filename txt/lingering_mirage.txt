@@ -1,0 +1,5 @@
+Lingering Mirage {1}{U}
+Enchantment — Aura
+Enchant land
+Enchanted land is an Island.
+Cycling {2} ({2}, Discard this card: Draw a card.)

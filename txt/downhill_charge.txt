@@ -1,0 +1,4 @@
+Downhill Charge {2}{R}
+Instant
+You may sacrifice a Mountain rather than pay Downhill Charge's mana cost.
+Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.

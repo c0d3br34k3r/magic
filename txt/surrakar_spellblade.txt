@@ -1,0 +1,5 @@
+Surrakar Spellblade {1}{U}{U}
+Creature — Surrakar
+Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.
+Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.
+2/1

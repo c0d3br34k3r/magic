@@ -1,0 +1,4 @@
+Amrou Kithkin {W}{W}
+Creature — Kithkin
+Amrou Kithkin can't be blocked by creatures with power 3 or greater.
+1/1

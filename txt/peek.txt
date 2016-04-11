@@ -1,0 +1,4 @@
+Peek {U}
+Instant
+Look at target player's hand.
+Draw a card.

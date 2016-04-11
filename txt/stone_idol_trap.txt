@@ -1,0 +1,4 @@
+Stone Idol Trap {5}{R}
+Instant — Trap
+Stone Idol Trap costs {1} less to cast for each attacking creature.
+Put a 6/12 colorless Construct artifact creature token with trample onto the battlefield. Exile it at the beginning of your next end step.

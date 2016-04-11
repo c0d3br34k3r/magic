@@ -1,0 +1,4 @@
+Blinding Souleater {3}
+Artifact Creature — Cleric
+{W/P}, {T}: Tap target creature. ({W/P} can be paid with either {W} or 2 life.)
+1/3

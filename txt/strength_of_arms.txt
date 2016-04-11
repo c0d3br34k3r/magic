@@ -1,0 +1,3 @@
+Strength of Arms {W}
+Instant
+Target creature gets +2/+2 until end of turn. If you control an Equipment, put a 1/1 white Human Soldier creature token onto the battlefield.

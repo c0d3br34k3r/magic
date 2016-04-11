@@ -1,0 +1,5 @@
+Paradise Plume {4}
+Artifact
+As Paradise Plume enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, you may gain 1 life.
+{T}: Add one mana of the chosen color to your mana pool.

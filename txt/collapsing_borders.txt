@@ -1,0 +1,3 @@
+Collapsing Borders {3}{R}
+Enchantment
+Domain — At the beginning of each player's upkeep, that player gains 1 life for each basic land type among lands he or she controls. Then Collapsing Borders deals 3 damage to him or her.

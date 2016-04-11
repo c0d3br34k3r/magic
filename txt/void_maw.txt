@@ -1,0 +1,6 @@
+Void Maw {4}{B}{B}
+Creature — Horror
+Trample
+If another creature would die, exile it instead.
+Put a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/+2 until end of turn.
+4/5

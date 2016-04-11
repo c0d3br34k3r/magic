@@ -1,0 +1,5 @@
+Foul Familiar {2}{B}
+Creature — Spirit
+Foul Familiar can't block.
+{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
+3/1

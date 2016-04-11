@@ -1,0 +1,4 @@
+Dwarven Weaponsmith {1}{R}
+Creature — Dwarf Artificer
+{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+1/1

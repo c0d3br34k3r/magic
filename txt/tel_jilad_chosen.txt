@@ -1,0 +1,4 @@
+Tel-Jilad Chosen {1}{G}
+Creature — Elf Warrior
+Protection from artifacts
+2/1

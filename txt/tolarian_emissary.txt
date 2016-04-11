@@ -1,0 +1,6 @@
+Tolarian Emissary {2}{U}
+Creature — Human Wizard
+Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Flying
+When Tolarian Emissary enters the battlefield, if it was kicked, destroy target enchantment.
+1/2

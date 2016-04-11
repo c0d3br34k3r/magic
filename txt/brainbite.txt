@@ -1,0 +1,4 @@
+Brainbite {2}{U}{B}
+Sorcery
+Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Draw a card.

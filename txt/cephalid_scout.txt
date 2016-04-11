@@ -1,0 +1,5 @@
+Cephalid Scout {1}{U}
+Creature — Cephalid Wizard Scout
+Flying
+{2}{U}, Sacrifice a land: Draw a card.
+1/1

@@ -1,0 +1,4 @@
+Door to Nothingness {5}
+Artifact
+Door to Nothingness enters the battlefield tapped.
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.

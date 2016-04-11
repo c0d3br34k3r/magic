@@ -1,0 +1,3 @@
+Independent Troops {1}{R}
+Creature — Human Soldier
+2/1

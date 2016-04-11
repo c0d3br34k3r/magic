@@ -1,0 +1,5 @@
+Cloud Spirit {2}{U}
+Creature — Spirit
+Flying
+Cloud Spirit can block only creatures with flying.
+3/1

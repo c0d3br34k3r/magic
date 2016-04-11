@@ -1,0 +1,3 @@
+Builder's Bane {X}{X}{R}
+Sorcery
+Destroy X target artifacts. Builder's Bane deals damage to each player equal to the number of artifacts he or she controlled put into a graveyard this way.

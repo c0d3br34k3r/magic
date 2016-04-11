@@ -1,0 +1,4 @@
+Tormented Thoughts {2}{B}
+Sorcery
+As an additional cost to cast Tormented Thoughts, sacrifice a creature.
+Target player discards a number of cards equal to the sacrificed creature's power.

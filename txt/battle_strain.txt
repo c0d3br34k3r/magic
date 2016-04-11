@@ -1,0 +1,3 @@
+Battle Strain {1}{R}
+Enchantment
+Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller.

@@ -1,0 +1,3 @@
+River of Tears
+Land
+{T}: Add {U} to your mana pool. If you played a land this turn, add {B} to your mana pool instead.

@@ -1,0 +1,4 @@
+Darksteel Ingot {3}
+Artifact
+Indestructible
+{T}: Add one mana of any color to your mana pool.

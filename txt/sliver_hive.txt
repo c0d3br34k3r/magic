@@ -1,0 +1,5 @@
+Sliver Hive
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a Sliver spell.
+{5}, {T}: Put a 1/1 colorless Sliver creature token onto the battlefield. Activate this ability only if you control a Sliver.

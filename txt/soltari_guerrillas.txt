@@ -1,0 +1,5 @@
+Soltari Guerrillas {2}{W}{R}
+Creature — Soltari Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+{0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead.
+3/2

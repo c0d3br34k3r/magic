@@ -1,0 +1,4 @@
+Stampeding Elk Herd {3}{G}{G}
+Creature — Elk
+Formidable — Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn.
+5/5

@@ -1,0 +1,3 @@
+Opal Avenger {2}{W}
+Enchantment
+When you have 10 or less life, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 Soldier creature.

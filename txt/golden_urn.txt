@@ -1,0 +1,4 @@
+Golden Urn {1}
+Artifact
+At the beginning of your upkeep, you may put a charge counter on Golden Urn.
+{T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.

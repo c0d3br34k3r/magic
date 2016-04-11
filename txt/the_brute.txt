@@ -1,0 +1,5 @@
+The Brute {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0.
+{R}{R}{R}: Regenerate enchanted creature.

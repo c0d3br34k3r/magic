@@ -1,0 +1,5 @@
+Chlorophant {G}{G}{G}
+Creature — Elemental
+At the beginning of your upkeep, you may put a +1/+1 counter on Chlorophant.
+Threshold — As long as seven or more cards are in your graveyard, Chlorophant has "At the beginning of your upkeep, you may put another +1/+1 counter on Chlorophant."
+1/1

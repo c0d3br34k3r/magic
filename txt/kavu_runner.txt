@@ -1,0 +1,4 @@
+Kavu Runner {3}{R}
+Creature — Kavu
+Kavu Runner has haste as long as no opponent controls a white or blue creature.
+3/3

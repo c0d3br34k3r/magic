@@ -1,0 +1,5 @@
+Selenia, Dark Angel {3}{W}{B}
+Legendary Creature — Angel
+Flying
+Pay 2 life: Return Selenia, Dark Angel to its owner's hand.
+3/3

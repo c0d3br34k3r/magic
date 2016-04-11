@@ -1,0 +1,3 @@
+Trip Wire {2}{G}
+Sorcery
+Destroy target creature with horsemanship.

@@ -1,0 +1,7 @@
+Vodalian Knights {1}{U}{U}
+Creature — Merfolk Knight
+First strike
+Vodalian Knights can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Vodalian Knights.
+{U}: Vodalian Knights gains flying until end of turn.
+2/2

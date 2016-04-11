@@ -1,0 +1,5 @@
+Lim-Dûl the Necromancer {5}{B}{B}
+Legendary Creature — Human Wizard
+Whenever a creature an opponent controls dies, you may pay {1}{B}. If you do, return that card to the battlefield under your control. If it's a creature, it's a Zombie in addition to its other creature types.
+{1}{B}: Regenerate target Zombie.
+4/4

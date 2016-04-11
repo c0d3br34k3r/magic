@@ -1,0 +1,4 @@
+Cursecatcher {U}
+Creature — Merfolk Wizard
+Sacrifice Cursecatcher: Counter target instant or sorcery spell unless its controller pays {1}.
+1/1

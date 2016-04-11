@@ -1,0 +1,4 @@
+Ravaging Horde {3}{R}{R}
+Creature — Human Soldier
+When Ravaging Horde enters the battlefield, destroy target land.
+3/3

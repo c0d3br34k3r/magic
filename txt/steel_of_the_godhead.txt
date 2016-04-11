@@ -1,0 +1,5 @@
+Steel of the Godhead {2}{W/U}
+Enchantment — Aura
+Enchant creature
+As long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+As long as enchanted creature is blue, it gets +1/+1 and can't be blocked.

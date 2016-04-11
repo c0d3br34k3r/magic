@@ -1,0 +1,5 @@
+Petrified Plating {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Suspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)

@@ -1,0 +1,4 @@
+Trespasser il-Vec {2}{B}
+Creature — Human Rogue
+Discard a card: Trespasser il-Vec gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+3/1

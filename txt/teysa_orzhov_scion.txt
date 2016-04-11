@@ -1,0 +1,5 @@
+Teysa, Orzhov Scion {1}{W}{B}
+Legendary Creature — Human Advisor
+Sacrifice three white creatures: Exile target creature.
+Whenever another black creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+2/3

@@ -1,0 +1,5 @@
+Riptide Chimera {2}{U}
+Enchantment Creature — Chimera
+Flying
+At the beginning of your upkeep, return an enchantment you control to its owner's hand.
+3/4

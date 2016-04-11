@@ -1,0 +1,3 @@
+Medicine Bag {3}
+Artifact
+{1}, {T}, Discard a card: Regenerate target creature.

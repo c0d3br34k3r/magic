@@ -1,0 +1,4 @@
+Blockade Runner {3}{U}
+Creature — Merfolk
+{U}: Blockade Runner can't be blocked this turn.
+2/2

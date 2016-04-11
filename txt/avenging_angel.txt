@@ -1,0 +1,5 @@
+Avenging Angel {3}{W}{W}
+Creature — Angel
+Flying
+When Avenging Angel dies, you may put it on top of its owner's library.
+3/3

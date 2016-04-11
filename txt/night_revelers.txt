@@ -1,0 +1,4 @@
+Night Revelers {4}{R}
+Creature — Vampire
+Night Revelers has haste as long as an opponent controls a Human.
+4/4

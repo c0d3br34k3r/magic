@@ -1,0 +1,4 @@
+Mudbutton Clanger {R}
+Creature — Goblin Warrior
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Mudbutton Clanger, you may reveal it. If you do, Mudbutton Clanger gets +1/+1 until end of turn.
+1/1

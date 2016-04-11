@@ -1,0 +1,4 @@
+Frostburn Weird {U/R}{U/R}
+Creature — Weird
+{U/R}: Frostburn Weird gets +1/-1 until end of turn.
+1/4

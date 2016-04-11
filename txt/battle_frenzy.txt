@@ -1,0 +1,4 @@
+Battle Frenzy {2}{R}
+Instant
+Green creatures you control get +1/+1 until end of turn.
+Nongreen creatures you control get +1/+0 until end of turn.

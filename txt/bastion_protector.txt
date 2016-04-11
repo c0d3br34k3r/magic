@@ -1,0 +1,4 @@
+Bastion Protector {2}{W}
+Creature — Human Soldier
+Commander creatures you control get +2/+2 and have indestructible.
+3/3

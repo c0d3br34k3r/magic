@@ -1,0 +1,5 @@
+Stormsurge Kraken {3}{U}{U}
+Creature — Kraken
+Hexproof
+Lieutenant — As long as you control your commander, Stormsurge Kraken gets +2/+2 and has "Whenever Stormsurge Kraken becomes blocked, you may draw two cards."
+5/5

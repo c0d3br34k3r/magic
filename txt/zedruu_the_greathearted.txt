@@ -1,0 +1,5 @@
+Zedruu the Greathearted {1}{W}{U}{R}
+Legendary Creature — Minotaur Monk
+At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control.
+{R}{W}{U}: Target opponent gains control of target permanent you control.
+2/4

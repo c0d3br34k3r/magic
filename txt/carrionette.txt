@@ -1,0 +1,4 @@
+Carrionette {1}{B}
+Creature — Skeleton
+{2}{B}{B}: Exile Carrionette and target creature unless that creature's controller pays {2}. Activate this ability only if Carrionette is in your graveyard.
+1/1

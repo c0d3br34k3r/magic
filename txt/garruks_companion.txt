@@ -1,0 +1,4 @@
+Garruk's Companion {G}{G}
+Creature — Beast
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+3/2

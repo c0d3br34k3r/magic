@@ -1,0 +1,6 @@
+Ashenmoor Liege {1}{B/R}{B/R}{B/R}
+Creature — Elemental Knight
+Other black creatures you control get +1/+1.
+Other red creatures you control get +1/+1.
+Whenever Ashenmoor Liege becomes the target of a spell or ability an opponent controls, that player loses 4 life.
+4/1

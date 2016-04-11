@@ -1,0 +1,3 @@
+Copper Tablet {2}
+Artifact
+At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.

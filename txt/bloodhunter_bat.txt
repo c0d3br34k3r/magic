@@ -1,0 +1,5 @@
+Bloodhunter Bat {3}{B}
+Creature — Bat
+Flying
+When Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life.
+2/2

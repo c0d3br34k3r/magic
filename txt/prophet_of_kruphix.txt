@@ -1,0 +1,5 @@
+Prophet of Kruphix {3}{U}{G}
+Creature — Human Wizard
+Untap all creatures and lands you control during each other player's untap step.
+You may cast creature cards as though they had flash.
+2/3

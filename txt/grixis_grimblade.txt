@@ -1,0 +1,4 @@
+Grixis Grimblade {U/R}{B}
+Creature — Zombie Warrior
+As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.)
+2/1

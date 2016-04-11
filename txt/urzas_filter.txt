@@ -1,0 +1,3 @@
+Urza's Filter {4}
+Artifact
+Multicolored spells cost up to {2} less to cast.

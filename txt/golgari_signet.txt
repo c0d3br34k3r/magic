@@ -1,0 +1,3 @@
+Golgari Signet {2}
+Artifact
+{1}, {T}: Add {B}{G} to your mana pool.

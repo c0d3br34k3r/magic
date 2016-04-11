@@ -1,0 +1,5 @@
+Nagao, Bound by Honor {3}{W}
+Legendary Creature — Human Samurai
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever Nagao, Bound by Honor attacks, Samurai creatures you control get +1/+1 until end of turn.
+3/3

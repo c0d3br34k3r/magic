@@ -1,0 +1,4 @@
+Species Gorger {3}{U}{G}
+Creature — Frog Beast
+At the beginning of your upkeep, return a creature you control to its owner's hand.
+6/6

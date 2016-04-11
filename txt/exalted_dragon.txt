@@ -1,0 +1,5 @@
+Exalted Dragon {4}{W}{W}
+Creature — Dragon
+Flying
+Exalted Dragon can't attack unless you sacrifice a land. (This cost is paid as attackers are declared.)
+5/5

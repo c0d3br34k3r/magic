@@ -1,0 +1,4 @@
+Humble Budoka {1}{G}
+Creature — Human Monk
+Shroud (This creature can't be the target of spells or abilities.)
+2/2

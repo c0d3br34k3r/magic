@@ -1,0 +1,5 @@
+Chandra's Spitfire {2}{R}
+Creature — Elemental
+Flying
+Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn.
+1/3

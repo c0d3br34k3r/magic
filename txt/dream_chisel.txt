@@ -1,0 +1,3 @@
+Dream Chisel {2}
+Artifact
+Face-down creature spells you cast cost {1} less to cast.

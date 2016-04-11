@@ -1,0 +1,4 @@
+Inside Out {1}{U/R}
+Instant
+Switch target creature's power and toughness until end of turn.
+Draw a card.

@@ -1,0 +1,4 @@
+Wave Elemental {2}{U}{U}
+Creature — Elemental
+{U}, {T}, Sacrifice Wave Elemental: Tap up to three target creatures without flying.
+2/3

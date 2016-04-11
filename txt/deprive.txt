@@ -1,0 +1,4 @@
+Deprive {U}{U}
+Instant
+As an additional cost to cast Deprive, return a land you control to its owner's hand.
+Counter target spell.

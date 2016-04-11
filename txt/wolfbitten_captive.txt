@@ -1,0 +1,11 @@
+Wolfbitten Captive {G}
+Creature — Human Werewolf
+{1}{G}: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn.
+At the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.
+1/1
+* DOUBLE-FACED *
+Krallenhorde Killer
+(G) Creature — Werewolf
+{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.
+2/2

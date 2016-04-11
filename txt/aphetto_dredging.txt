@@ -1,0 +1,3 @@
+Aphetto Dredging {3}{B}
+Sorcery
+Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.

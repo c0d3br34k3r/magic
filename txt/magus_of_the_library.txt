@@ -1,0 +1,5 @@
+Magus of the Library {G}{G}
+Creature — Human Wizard
+{T}: Add {C} to your mana pool.
+{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.
+1/1

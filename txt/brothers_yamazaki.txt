@@ -1,0 +1,6 @@
+Brothers Yamazaki {2}{R}
+Legendary Creature — Human Samurai
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+If there are exactly two permanents named Brothers Yamazaki on the battlefield, the "legend rule" doesn't apply to them.
+Each other creature named Brothers Yamazaki gets +2/+2 and has haste.
+2/1

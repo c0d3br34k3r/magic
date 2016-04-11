@@ -1,0 +1,4 @@
+Death Pit Offering {2}{B}{B}
+Enchantment
+When Death Pit Offering enters the battlefield, sacrifice all creatures you control.
+Creatures you control get +2/+2.

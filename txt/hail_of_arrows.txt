@@ -1,0 +1,3 @@
+Hail of Arrows {X}{W}
+Instant
+Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.

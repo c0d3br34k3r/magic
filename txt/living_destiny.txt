@@ -1,0 +1,4 @@
+Living Destiny {3}{G}
+Instant
+As an additional cost to cast Living Destiny, reveal a creature card from your hand.
+You gain life equal to the revealed card's converted mana cost.

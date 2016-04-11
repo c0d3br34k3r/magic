@@ -1,0 +1,5 @@
+Ocular Halo {3}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{T}: Draw a card."
+{W}: Enchanted creature gains vigilance until end of turn.

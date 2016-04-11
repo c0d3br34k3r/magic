@@ -1,0 +1,4 @@
+Trolls of Tel-Jilad {5}{G}{G}
+Creature — Troll Shaman
+{1}{G}: Regenerate target green creature.
+5/6

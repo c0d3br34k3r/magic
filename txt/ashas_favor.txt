@@ -1,0 +1,4 @@
+Asha's Favor {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying, first strike, and vigilance.

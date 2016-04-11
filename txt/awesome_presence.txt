@@ -1,0 +1,4 @@
+Awesome Presence {U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked unless defending player pays {3} for each creature he or she controls that's blocking it.

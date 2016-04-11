@@ -1,0 +1,3 @@
+Put Away {2}{U}{U}
+Instant
+Counter target spell. You may shuffle up to one target card from your graveyard into your library.

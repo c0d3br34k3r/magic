@@ -1,0 +1,4 @@
+Blighted Steppe
+Land
+{T}: Add {C} to your mana pool.
+{3}{W}, {T}, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.

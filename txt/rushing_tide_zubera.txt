@@ -1,0 +1,4 @@
+Rushing-Tide Zubera {2}{U}{U}
+Creature — Zubera Spirit
+When Rushing-Tide Zubera dies, if 4 or more damage was dealt to it this turn, draw three cards.
+3/3

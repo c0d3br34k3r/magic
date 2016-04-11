@@ -1,0 +1,6 @@
+Soul of Innistrad {4}{B}{B}
+Creature — Avatar
+Deathtouch
+{3}{B}{B}: Return up to three target creature cards from your graveyard to your hand.
+{3}{B}{B}, Exile Soul of Innistrad from your graveyard: Return up to three target creature cards from your graveyard to your hand.
+6/6

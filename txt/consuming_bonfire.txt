@@ -1,0 +1,5 @@
+Consuming Bonfire {3}{R}{R}
+Tribal Sorcery — Elemental
+Choose one —
+• Consuming Bonfire deals 4 damage to target non-Elemental creature.
+• Consuming Bonfire deals 7 damage to target Treefolk creature.

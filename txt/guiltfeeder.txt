@@ -1,0 +1,5 @@
+Guiltfeeder {3}{B}{B}
+Creature — Horror
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.
+0/4

@@ -1,0 +1,4 @@
+Power Artifact {U}{U}
+Enchantment — Aura
+Enchant artifact
+Enchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.

@@ -1,0 +1,4 @@
+Spinal Villain {2}{R}
+Creature — Beast
+{T}: Destroy target blue creature.
+1/2

@@ -1,0 +1,3 @@
+Faith's Reward {3}{W}
+Instant
+Return to the battlefield all permanent cards in your graveyard that were put there from the battlefield this turn.

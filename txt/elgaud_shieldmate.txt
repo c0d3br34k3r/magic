@@ -1,0 +1,5 @@
+Elgaud Shieldmate {3}{U}
+Creature — Human Soldier
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+2/3

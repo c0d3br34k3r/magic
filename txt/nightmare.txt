@@ -1,0 +1,5 @@
+Nightmare {5}{B}
+Creature — Nightmare Horse
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Nightmare's power and toughness are each equal to the number of Swamps you control.
+*/*

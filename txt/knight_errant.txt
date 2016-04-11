@@ -1,0 +1,3 @@
+Knight Errant {1}{W}
+Creature — Human Knight
+2/2

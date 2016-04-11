@@ -1,0 +1,4 @@
+Ben-Ben, Akki Hermit {2}{R}{R}
+Legendary Creature — Goblin Shaman
+{T}: Ben-Ben, Akki Hermit deals damage to target attacking creature equal to the number of untapped Mountains you control.
+1/1

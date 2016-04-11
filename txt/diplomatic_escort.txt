@@ -1,0 +1,4 @@
+Diplomatic Escort {1}{U}
+Creature — Human Spellshaper
+{U}, {T}, Discard a card: Counter target spell or ability that targets a creature.
+1/1

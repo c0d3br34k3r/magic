@@ -1,0 +1,4 @@
+Kami of Ancient Law {1}{W}
+Creature — Spirit
+Sacrifice Kami of Ancient Law: Destroy target enchantment.
+2/2

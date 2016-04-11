@@ -1,0 +1,6 @@
+Akroan Horse {4}
+Artifact Creature — Horse
+Defender
+When Akroan Horse enters the battlefield, an opponent gains control of it.
+At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.
+0/4

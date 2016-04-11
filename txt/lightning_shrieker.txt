@@ -1,0 +1,5 @@
+Lightning Shrieker {4}{R}
+Creature — Dragon
+Flying, trample, haste
+At the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library.
+5/5

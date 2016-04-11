@@ -1,0 +1,6 @@
+Dust Stalker {2}{B}{R}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Haste
+At the beginning of each end step, if you control no other colorless creatures, return Dust Stalker to its owner's hand.
+5/3

@@ -1,0 +1,3 @@
+Structural Collapse {5}{R}
+Sorcery
+Target player sacrifices an artifact and a land. Structural Collapse deals 2 damage to that player.

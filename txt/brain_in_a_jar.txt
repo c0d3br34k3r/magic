@@ -1,0 +1,4 @@
+Brain in a Jar {2}
+Artifact
+{1}, {T}: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery card with converted mana cost equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost.
+{3}, {T}, Remove X charge counters from Brain in a Jar: Scry X.

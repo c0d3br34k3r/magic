@@ -1,0 +1,4 @@
+Bane of Progress {4}{G}{G}
+Creature — Elemental
+When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.
+2/2

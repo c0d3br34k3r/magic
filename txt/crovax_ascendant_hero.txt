@@ -1,0 +1,6 @@
+Crovax, Ascendant Hero {4}{W}{W}
+Legendary Creature — Human
+Other white creatures get +1/+1.
+Nonwhite creatures get -1/-1.
+Pay 2 life: Return Crovax, Ascendant Hero to its owner's hand.
+4/4

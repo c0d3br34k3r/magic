@@ -1,0 +1,5 @@
+Soltari Visionary {1}{W}{W}
+Creature — Soltari Cleric
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.
+2/2

@@ -1,0 +1,5 @@
+Ghost Hounds {1}{B}
+Creature — Hound Spirit
+Vigilance
+Whenever Ghost Hounds blocks or becomes blocked by a white creature, Ghost Hounds gains first strike until end of turn.
+1/1

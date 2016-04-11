@@ -1,0 +1,3 @@
+Sunlance {W}
+Sorcery
+Sunlance deals 3 damage to target nonwhite creature.

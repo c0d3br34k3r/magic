@@ -1,0 +1,4 @@
+Lumengrid Gargoyle {6}
+Artifact Creature — Gargoyle
+Flying
+4/4

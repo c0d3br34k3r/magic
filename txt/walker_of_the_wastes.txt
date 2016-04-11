@@ -1,0 +1,6 @@
+Walker of the Wastes {4}{C}
+Creature — Eldrazi
+({C} represents colorless mana.)
+Trample
+Walker of the Wastes gets +1/+1 for each land you control named Wastes.
+4/4

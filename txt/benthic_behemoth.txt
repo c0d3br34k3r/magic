@@ -1,0 +1,4 @@
+Benthic Behemoth {5}{U}{U}{U}
+Creature — Serpent
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+7/6

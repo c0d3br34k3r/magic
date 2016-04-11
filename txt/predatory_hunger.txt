@@ -1,0 +1,4 @@
+Predatory Hunger {G}
+Enchantment — Aura
+Enchant creature
+Whenever an opponent casts a creature spell, put a +1/+1 counter on enchanted creature.

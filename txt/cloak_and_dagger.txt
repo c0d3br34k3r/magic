@@ -1,0 +1,5 @@
+Cloak and Dagger {2}
+Tribal Artifact — Rogue Equipment
+Equipped creature gets +2/+0 and has shroud. (It can't be the target of spells or abilities.)
+Whenever a Rogue creature enters the battlefield, you may attach Cloak and Dagger to it.
+Equip {3}

@@ -1,0 +1,4 @@
+Bloodshot Trainee {3}{R}
+Creature — Goblin Warrior
+{T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+2/3

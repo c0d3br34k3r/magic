@@ -1,0 +1,4 @@
+Godo's Irregulars {R}
+Creature — Human Warrior
+{R}: Godo's Irregulars deals 1 damage to target creature blocking it.
+1/1

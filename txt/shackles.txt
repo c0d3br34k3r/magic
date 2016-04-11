@@ -1,0 +1,5 @@
+Shackles {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+{W}: Return Shackles to its owner's hand.

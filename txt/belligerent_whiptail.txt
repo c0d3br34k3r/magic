@@ -1,0 +1,4 @@
+Belligerent Whiptail {3}{R}
+Creature — Wurm
+Landfall — Whenever a land enters the battlefield under your control, Belligerent Whiptail gains first strike until end of turn.
+4/2

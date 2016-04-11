@@ -1,0 +1,3 @@
+Regathan Firecat {2}{R}
+Creature — Elemental Cat
+4/1

@@ -1,0 +1,4 @@
+Cateran Persuader {B}{B}
+Creature — Human Mercenary
+{1}, {T}: Search your library for a Mercenary permanent card with converted mana cost 1 or less and put it onto the battlefield. Then shuffle your library.
+2/1

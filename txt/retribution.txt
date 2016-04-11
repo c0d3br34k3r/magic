@@ -1,0 +1,3 @@
+Retribution {2}{R}{R}
+Sorcery
+Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.

@@ -1,0 +1,4 @@
+Accursed Centaur {B}
+Creature — Zombie Centaur
+When Accursed Centaur enters the battlefield, sacrifice a creature.
+2/2

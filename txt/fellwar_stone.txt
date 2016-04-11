@@ -1,0 +1,3 @@
+Fellwar Stone {2}
+Artifact
+{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.

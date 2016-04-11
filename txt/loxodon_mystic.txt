@@ -1,0 +1,4 @@
+Loxodon Mystic {3}{W}{W}
+Creature — Elephant Cleric
+{W}, {T}: Tap target creature.
+3/3

@@ -1,0 +1,6 @@
+Reaper of the Wilds {2}{B}{G}
+Creature — Gorgon
+Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{B}: Reaper of the Wilds gains deathtouch until end of turn.
+{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+4/5

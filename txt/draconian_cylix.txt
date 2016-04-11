@@ -1,0 +1,3 @@
+Draconian Cylix {3}
+Artifact
+{2}, {T}, Discard a card at random: Regenerate target creature.

@@ -1,0 +1,5 @@
+Tainted Well {2}{B}
+Enchantment — Aura
+Enchant land
+When Tainted Well enters the battlefield, draw a card.
+Enchanted land is a Swamp.

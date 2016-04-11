@@ -1,0 +1,4 @@
+Border Patrol {4}{W}
+Creature — Human Nomad
+Vigilance
+1/6

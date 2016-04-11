@@ -1,0 +1,4 @@
+Lawbringer {2}{W}
+Creature — Kor Rebel
+{T}, Sacrifice Lawbringer: Exile target red creature.
+2/2

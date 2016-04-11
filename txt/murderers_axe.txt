@@ -1,0 +1,4 @@
+Murderer's Axe {4}
+Artifact — Equipment
+Equipped creature gets +2/+2.
+Equip—Discard a card.

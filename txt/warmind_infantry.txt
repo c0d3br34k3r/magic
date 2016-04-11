@@ -1,0 +1,4 @@
+Warmind Infantry {2}{R}
+Creature — Elemental Soldier
+Battalion — Whenever Warmind Infantry and at least two other creatures attack, Warmind Infantry gets +2/+0 until end of turn.
+2/3

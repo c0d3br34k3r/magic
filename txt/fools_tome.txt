@@ -1,0 +1,3 @@
+Fool's Tome {4}
+Artifact
+{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.

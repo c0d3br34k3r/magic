@@ -1,0 +1,4 @@
+Stronghold Machinist {2}{U}
+Creature — Human Spellshaper
+{U}{U}, {T}, Discard a card: Counter target noncreature spell.
+1/1

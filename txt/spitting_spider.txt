@@ -1,0 +1,5 @@
+Spitting Spider {3}{G}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Sacrifice a land: Spitting Spider deals 1 damage to each creature with flying.
+3/5

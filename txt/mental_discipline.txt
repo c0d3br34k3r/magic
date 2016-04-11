@@ -1,0 +1,3 @@
+Mental Discipline {1}{U}{U}
+Enchantment
+{1}{U}, Discard a card: Draw a card.

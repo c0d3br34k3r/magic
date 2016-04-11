@@ -1,0 +1,3 @@
+Death Denied {X}{B}{B}
+Instant — Arcane
+Return X target creature cards from your graveyard to your hand.

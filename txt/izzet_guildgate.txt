@@ -1,0 +1,4 @@
+Izzet Guildgate
+Land — Gate
+Izzet Guildgate enters the battlefield tapped.
+{T}: Add {U} or {R} to your mana pool.

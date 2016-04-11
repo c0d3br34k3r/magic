@@ -1,0 +1,5 @@
+Phantasmagorian {5}{B}{B}
+Creature — Horror
+When you cast Phantasmagorian, any player may discard three cards. If a player does, counter Phantasmagorian.
+Discard three cards: Return Phantasmagorian from your graveyard to your hand.
+6/6

@@ -1,0 +1,5 @@
+Spiny Starfish {2}{U}
+Creature — Starfish
+{U}: Regenerate Spiny Starfish.
+At the beginning of each end step, if Spiny Starfish regenerated this turn, put a 0/1 blue Starfish creature token onto the battlefield for each time it regenerated this turn.
+0/1

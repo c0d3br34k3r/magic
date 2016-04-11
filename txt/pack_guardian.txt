@@ -1,0 +1,5 @@
+Pack Guardian {2}{G}{G}
+Creature — Wolf Spirit
+Flash (You may cast this spell any time you could cast an instant.)
+When Pack Guardian enters the battlefield, you may discard a land card. If you do, put a 2/2 green Wolf creature token onto the battlefield.
+4/3

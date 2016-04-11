@@ -1,0 +1,3 @@
+Culling Mark {2}{G}
+Sorcery
+Target creature blocks this turn if able.

@@ -1,0 +1,4 @@
+Soulblast {3}{R}{R}{R}
+Instant
+As an additional cost to cast Soulblast, sacrifice all creatures you control.
+Soulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.

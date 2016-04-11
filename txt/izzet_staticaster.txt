@@ -1,0 +1,6 @@
+Izzet Staticaster {1}{U}{R}
+Creature — Human Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+Haste
+{T}: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
+0/3

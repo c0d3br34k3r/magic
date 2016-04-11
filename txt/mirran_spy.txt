@@ -1,0 +1,5 @@
+Mirran Spy {2}{U}
+Creature — Drone
+Flying
+Whenever you cast an artifact spell, you may untap target creature.
+1/3

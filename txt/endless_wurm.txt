@@ -1,0 +1,5 @@
+Endless Wurm {3}{G}{G}
+Creature — Wurm
+Trample
+At the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment.
+9/9

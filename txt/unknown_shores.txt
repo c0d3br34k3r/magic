@@ -1,0 +1,4 @@
+Unknown Shores
+Land
+{T}: Add {C} to your mana pool. ({C} represents colorless mana.)
+{1}, {T}: Add one mana of any color to your mana pool.

@@ -1,0 +1,4 @@
+Manamorphose {1}{R/G}
+Instant
+Add two mana in any combination of colors to your mana pool.
+Draw a card.

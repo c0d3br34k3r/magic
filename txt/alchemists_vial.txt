@@ -1,0 +1,4 @@
+Alchemist's Vial {2}
+Artifact
+When Alchemist's Vial enters the battlefield, draw a card.
+{1}, {T}, Sacrifice Alchemist's Vial: Target creature can't attack or block this turn.

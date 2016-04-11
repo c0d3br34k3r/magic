@@ -1,0 +1,3 @@
+Great Hart {3}{W}
+Creature — Elk
+2/4

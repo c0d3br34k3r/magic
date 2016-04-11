@@ -1,0 +1,4 @@
+Razorfin Abolisher {2}{U}
+Creature — Merfolk Wizard
+{1}{U}, {T}: Return target creature with a counter on it to its owner's hand.
+2/2

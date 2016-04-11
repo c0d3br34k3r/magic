@@ -1,0 +1,3 @@
+Primeval Light {3}{G}
+Sorcery
+Destroy all enchantments target player controls.

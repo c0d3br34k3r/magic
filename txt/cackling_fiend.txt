@@ -1,0 +1,4 @@
+Cackling Fiend {2}{B}{B}
+Creature — Zombie
+When Cackling Fiend enters the battlefield, each opponent discards a card.
+2/1

@@ -1,0 +1,4 @@
+Mountain Goat {R}
+Creature — Goat
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+1/1

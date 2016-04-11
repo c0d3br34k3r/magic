@@ -1,0 +1,5 @@
+Spirit of the Hearth {4}{W}{W}
+Creature — Cat Spirit
+Flying
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+4/5

@@ -1,0 +1,5 @@
+Hollow Specter {1}{B}{B}
+Creature — Specter
+Flying
+Whenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.
+2/2

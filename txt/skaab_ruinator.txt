@@ -1,0 +1,6 @@
+Skaab Ruinator {1}{U}{U}
+Creature — Zombie Horror
+As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.
+Flying
+You may cast Skaab Ruinator from your graveyard.
+5/6

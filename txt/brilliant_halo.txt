@@ -1,0 +1,5 @@
+Brilliant Halo {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2.
+When Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand.

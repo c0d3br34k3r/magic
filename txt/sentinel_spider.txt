@@ -1,0 +1,5 @@
+Sentinel Spider {3}{G}{G}
+Creature — Spider
+Vigilance (Attacking doesn't cause this creature to tap.)
+Reach (This creature can block creatures with flying.)
+4/4

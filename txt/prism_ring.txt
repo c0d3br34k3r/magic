@@ -1,0 +1,4 @@
+Prism Ring {1}
+Artifact
+As Prism Ring enters the battlefield, choose a color.
+Whenever you cast a spell of the chosen color, you gain 1 life.

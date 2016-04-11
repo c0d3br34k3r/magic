@@ -1,0 +1,4 @@
+Corrupt Court Official {1}{B}
+Creature — Human Advisor
+When Corrupt Court Official enters the battlefield, target opponent discards a card.
+1/1

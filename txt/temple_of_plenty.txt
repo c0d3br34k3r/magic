@@ -1,0 +1,5 @@
+Temple of Plenty
+Land
+Temple of Plenty enters the battlefield tapped.
+When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {G} or {W} to your mana pool.

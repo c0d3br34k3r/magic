@@ -1,0 +1,4 @@
+Become Immense {5}{G}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Target creature gets +6/+6 until end of turn.

@@ -1,0 +1,4 @@
+Crypt Sliver {1}{B}
+Creature — Sliver
+All Slivers have "{T}: Regenerate target Sliver."
+1/1

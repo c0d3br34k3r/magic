@@ -1,0 +1,3 @@
+Razia's Purification {4}{W}{R}
+Sorcery
+Each player chooses three permanents he or she controls, then sacrifices the rest.

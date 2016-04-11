@@ -1,0 +1,4 @@
+Sigil Tracer {1}{U}{U}
+Creature — Merfolk Wizard
+{1}{U}, Tap two untapped Wizards you control: Copy target instant or sorcery spell. You may choose new targets for the copy.
+2/2

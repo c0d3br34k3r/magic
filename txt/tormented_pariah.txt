@@ -1,0 +1,9 @@
+Tormented Pariah {3}{R}
+Creature — Human Warrior Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.
+3/2
+* DOUBLE-FACED *
+Rampaging Werewolf
+(R) Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.
+6/4

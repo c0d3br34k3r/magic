@@ -1,0 +1,4 @@
+Fleshbag Marauder {2}{B}
+Creature — Zombie Warrior
+When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+3/1

@@ -1,0 +1,5 @@
+Umara Raptor {2}{U}
+Creature — Bird Ally
+Flying
+Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.
+1/1

@@ -1,0 +1,6 @@
+Risen Executioner {2}{B}{B}
+Creature — Zombie Warrior
+Risen Executioner can't block.
+Other Zombie creatures you control get +1/+1.
+You may cast Risen Executioner from your graveyard if you pay {1} more to cast it for each other creature card in your graveyard.
+4/3

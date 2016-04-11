@@ -1,0 +1,4 @@
+Gigantomancer {7}{G}
+Creature — Human Shaman
+{1}: Target creature you control has base power and toughness 7/7 until end of turn.
+1/1

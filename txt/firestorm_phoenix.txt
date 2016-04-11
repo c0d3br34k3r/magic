@@ -1,0 +1,5 @@
+Firestorm Phoenix {4}{R}{R}
+Creature — Phoenix
+Flying
+If Firestorm Phoenix would die, return Firestorm Phoenix to its owner's hand instead. Until that player's next turn, that player plays with that card revealed in his or her hand and can't play it.
+3/2

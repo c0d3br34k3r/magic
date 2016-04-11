@@ -1,0 +1,4 @@
+Reckless Scholar {2}{U}
+Creature — Human Wizard
+{T}: Target player draws a card, then discards a card.
+2/1

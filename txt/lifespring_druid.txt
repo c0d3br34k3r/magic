@@ -1,0 +1,4 @@
+Lifespring Druid {2}{G}
+Creature — Elf Druid
+{T}: Add one mana of any color to your mana pool.
+2/1

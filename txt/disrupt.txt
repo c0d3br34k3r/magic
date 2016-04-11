@@ -1,0 +1,4 @@
+Disrupt {U}
+Instant
+Counter target instant or sorcery spell unless its controller pays {1}.
+Draw a card.

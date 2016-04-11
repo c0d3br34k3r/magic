@@ -1,0 +1,4 @@
+King Crab {4}{U}{U}
+Creature — Crab
+{1}{U}, {T}: Put target green creature on top of its owner's library.
+4/5

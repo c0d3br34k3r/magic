@@ -1,0 +1,4 @@
+Weatherseed Faeries {2}{U}
+Creature — Faerie
+Flying, protection from red
+2/1

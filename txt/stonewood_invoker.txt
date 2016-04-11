@@ -1,0 +1,4 @@
+Stonewood Invoker {1}{G}
+Creature — Elf Mutant
+{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.
+2/2

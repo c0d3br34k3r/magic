@@ -1,0 +1,4 @@
+Sultai Emissary {1}{B}
+Creature — Zombie Warrior
+When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+1/1

@@ -1,0 +1,4 @@
+Gremlin Mine {1}
+Artifact
+{1}, {T}, Sacrifice Gremlin Mine: Gremlin Mine deals 4 damage to target artifact creature.
+{1}, {T}, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.

@@ -1,0 +1,3 @@
+Simic Signet {2}
+Artifact
+{1}, {T}: Add {G}{U} to your mana pool.

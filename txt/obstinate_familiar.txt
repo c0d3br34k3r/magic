@@ -1,0 +1,4 @@
+Obstinate Familiar {R}
+Creature — Lizard
+If you would draw a card, you may skip that draw instead.
+1/1

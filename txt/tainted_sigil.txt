@@ -1,0 +1,3 @@
+Tainted Sigil {1}{W}{B}
+Artifact
+{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)

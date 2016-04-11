@@ -1,0 +1,4 @@
+Rockcaster Platoon {5}{W}{W}
+Creature — Rhino Soldier
+{4}{G}: Rockcaster Platoon deals 2 damage to each creature with flying and each player.
+5/7

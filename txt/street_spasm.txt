@@ -1,0 +1,4 @@
+Street Spasm {X}{R}
+Instant
+Street Spasm deals X damage to target creature without flying you don't control.
+Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")

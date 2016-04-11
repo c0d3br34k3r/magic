@@ -1,0 +1,4 @@
+Greenhilt Trainee {3}{G}
+Creature — Elf Warrior
+{T}: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.
+2/3

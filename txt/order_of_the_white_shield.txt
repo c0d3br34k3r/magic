@@ -1,0 +1,6 @@
+Order of the White Shield {W}{W}
+Creature — Human Knight
+Protection from black
+{W}: Order of the White Shield gains first strike until end of turn.
+{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+2/1

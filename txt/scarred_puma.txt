@@ -1,0 +1,4 @@
+Scarred Puma {R}
+Creature — Cat
+Scarred Puma can't attack unless a black or green creature also attacks.
+2/1

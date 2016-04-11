@@ -1,0 +1,5 @@
+Vertigo Spawn {1}{U}
+Creature — Illusion
+Defender (This creature can't attack.)
+Whenever Vertigo Spawn blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.
+0/3

@@ -1,0 +1,4 @@
+Eightfold Maze {2}{W}
+Instant
+Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step.
+Destroy target attacking creature.

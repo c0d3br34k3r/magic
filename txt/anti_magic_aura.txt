@@ -1,0 +1,4 @@
+Anti-Magic Aura {2}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be the target of spells and can't be enchanted by other Auras.

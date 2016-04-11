@@ -1,0 +1,4 @@
+Dash Hopes {B}{B}
+Instant
+When you cast Dash Hopes, any player may pay 5 life. If a player does, counter Dash Hopes.
+Counter target spell.

@@ -1,0 +1,3 @@
+Death's Caress {3}{B}{B}
+Sorcery
+Destroy target creature. If that creature was a Human, you gain life equal to its toughness.

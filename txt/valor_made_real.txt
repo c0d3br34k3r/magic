@@ -1,0 +1,3 @@
+Valor Made Real {W}
+Instant
+Target creature can block any number of creatures this turn.

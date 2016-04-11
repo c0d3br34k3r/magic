@@ -1,0 +1,4 @@
+Soldevi Sage {1}{U}
+Creature — Human Wizard
+{T}, Sacrifice two lands: Draw three cards, then discard one of them.
+1/1

@@ -1,0 +1,3 @@
+Rivalry {2}{R}
+Enchantment
+At the beginning of each player's upkeep, if that player controls more lands than each other player, Rivalry deals 2 damage to him or her.

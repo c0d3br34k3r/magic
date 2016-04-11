@@ -1,0 +1,4 @@
+Nylea's Disciple {2}{G}{G}
+Creature — Centaur Archer
+When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+3/3

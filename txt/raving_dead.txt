@@ -1,0 +1,6 @@
+Raving Dead {4}{B}
+Creature — Zombie
+Deathtouch
+At the beginning of combat on your turn, choose an opponent at random. Raving Dead attacks that player this combat if able.
+Whenever Raving Dead deals combat damage to a player, that player loses half his or her life, rounded down.
+2/6

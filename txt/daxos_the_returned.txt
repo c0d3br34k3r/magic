@@ -1,0 +1,5 @@
+Daxos the Returned {1}{W}{B}
+Legendary Creature — Zombie Soldier
+Whenever you cast an enchantment spell, you get an experience counter. 
+{1}{W}{B}: Put a white and black Spirit enchantment creature token onto the battlefield. It has "This creature's power and toughness are each equal to the number of experience counters you have."
+2/2

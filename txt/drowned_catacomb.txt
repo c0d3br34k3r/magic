@@ -1,0 +1,4 @@
+Drowned Catacomb
+Land
+Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B} to your mana pool.

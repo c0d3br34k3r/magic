@@ -1,0 +1,4 @@
+Satyr Firedancer {1}{R}
+Enchantment Creature — Satyr
+Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls.
+1/1

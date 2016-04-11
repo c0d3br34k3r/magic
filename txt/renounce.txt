@@ -1,0 +1,3 @@
+Renounce {1}{W}
+Instant
+Sacrifice any number of permanents. You gain 2 life for each permanent sacrificed this way.

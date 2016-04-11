@@ -1,0 +1,10 @@
+Nirkana Cutthroat {2}{B}
+Creature — Vampire Warrior
+Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+4/3
+Deathtouch
+LEVEL 3+
+5/4
+First strike, deathtouch
+3/2

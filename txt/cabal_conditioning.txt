@@ -1,0 +1,3 @@
+Cabal Conditioning {6}{B}
+Sorcery
+Any number of target players each discard a number of cards equal to the highest converted mana cost among permanents you control.

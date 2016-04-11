@@ -1,0 +1,3 @@
+Deadfall {2}{G}
+Enchantment
+Creatures with forestwalk can be blocked as though they didn't have forestwalk.

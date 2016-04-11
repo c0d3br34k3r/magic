@@ -1,0 +1,3 @@
+Relic Crush {4}{G}
+Instant
+Destroy target artifact or enchantment and up to one other target artifact or enchantment.

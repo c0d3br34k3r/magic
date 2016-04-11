@@ -1,0 +1,3 @@
+Murderous Spoils {5}{B}
+Instant
+Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect lasts indefinitely.)

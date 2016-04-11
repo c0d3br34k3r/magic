@@ -1,0 +1,4 @@
+Novablast Wurm {3}{W}{W}{G}{G}
+Creature — Wurm
+Whenever Novablast Wurm attacks, destroy all other creatures.
+7/7

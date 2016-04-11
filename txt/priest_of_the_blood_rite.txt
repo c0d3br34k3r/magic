@@ -1,0 +1,5 @@
+Priest of the Blood Rite {3}{B}{B}
+Creature — Human Cleric
+When Priest of the Blood Rite enters the battlefield, put a 5/5 black Demon creature token with flying onto the battlefield.
+At the beginning of your upkeep, you lose 2 life.
+2/2

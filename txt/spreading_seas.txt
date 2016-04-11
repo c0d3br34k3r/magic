@@ -1,0 +1,5 @@
+Spreading Seas {1}{U}
+Enchantment — Aura
+Enchant land
+When Spreading Seas enters the battlefield, draw a card.
+Enchanted land is an Island.

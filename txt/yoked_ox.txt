@@ -1,0 +1,3 @@
+Yoked Ox {W}
+Creature — Ox
+0/4

@@ -1,0 +1,4 @@
+Blessing of the Nephilim {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each of its colors.

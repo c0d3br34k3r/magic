@@ -1,0 +1,4 @@
+Banshee {2}{B}{B}
+Creature — Spirit
+{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.
+0/1

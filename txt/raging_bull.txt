@@ -1,0 +1,3 @@
+Raging Bull {2}{R}
+Creature — Ox
+2/2

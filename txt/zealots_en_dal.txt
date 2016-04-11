@@ -1,0 +1,4 @@
+Zealots en-Dal {3}{W}
+Creature — Human Soldier
+At the beginning of your upkeep, if all nonland permanents you control are white, you gain 1 life.
+2/4

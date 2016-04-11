@@ -1,0 +1,5 @@
+Dungrove Elder {2}{G}
+Creature — Treefolk
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Dungrove Elder's power and toughness are each equal to the number of Forests you control.
+*/*

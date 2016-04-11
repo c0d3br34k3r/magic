@@ -1,0 +1,5 @@
+Drinker of Sorrow {2}{B}
+Creature — Horror
+Drinker of Sorrow can't block.
+Whenever Drinker of Sorrow deals combat damage, sacrifice a permanent.
+5/3

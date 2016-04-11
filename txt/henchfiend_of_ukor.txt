@@ -1,0 +1,6 @@
+Henchfiend of Ukor {3}{R}
+Creature — Ogre
+Haste
+Echo {1}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice this permanent unless you pay its echo cost.)
+{B/R}: Henchfiend of Ukor gets +1/+0 until end of turn.
+3/2

@@ -1,0 +1,3 @@
+Volunteer Militia {W}
+Creature — Human Soldier
+1/2

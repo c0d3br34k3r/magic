@@ -1,0 +1,4 @@
+Wildsize {2}{G}
+Instant
+Target creature gets +2/+2 and gains trample until end of turn.
+Draw a card.

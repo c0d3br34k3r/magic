@@ -1,0 +1,5 @@
+Urborg Emissary {2}{B}
+Creature — Human Wizard
+Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+When Urborg Emissary enters the battlefield, if it was kicked, return target permanent to its owner's hand.
+3/1

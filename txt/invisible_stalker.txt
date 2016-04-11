@@ -1,0 +1,5 @@
+Invisible Stalker {1}{U}
+Creature — Human Rogue
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Invisible Stalker can't be blocked.
+1/1

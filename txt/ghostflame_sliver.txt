@@ -1,0 +1,4 @@
+Ghostflame Sliver {B}{R}
+Creature — Sliver
+All Slivers are colorless.
+2/2

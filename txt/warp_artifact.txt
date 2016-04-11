@@ -1,0 +1,4 @@
+Warp Artifact {B}{B}
+Enchantment — Aura
+Enchant artifact
+At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.

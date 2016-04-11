@@ -1,0 +1,4 @@
+Talisman of Impulse {2}
+Artifact
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Talisman of Impulse deals 1 damage to you.

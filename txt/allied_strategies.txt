@@ -1,0 +1,3 @@
+Allied Strategies {4}{U}
+Sorcery
+Domain — Target player draws a card for each basic land type among lands he or she controls.

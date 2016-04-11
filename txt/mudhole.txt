@@ -1,0 +1,3 @@
+Mudhole {2}{R}
+Instant
+Target player exiles all land cards from his or her graveyard.

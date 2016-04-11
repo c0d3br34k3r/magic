@@ -1,0 +1,4 @@
+Bassara Tower Archer {G}{G}
+Creature — Human Archer
+Hexproof, reach
+2/1

@@ -1,0 +1,3 @@
+Cradle to Grave {1}{B}
+Instant
+Destroy target nonblack creature that entered the battlefield this turn.

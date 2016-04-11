@@ -1,0 +1,5 @@
+Prison Term {1}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Whenever a creature enters the battlefield under an opponent's control, you may attach Prison Term to that creature.

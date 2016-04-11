@@ -1,0 +1,5 @@
+Wurmweaver Coil {4}{G}{G}
+Enchantment — Aura
+Enchant green creature
+Enchanted creature gets +6/+6.
+{G}{G}{G}, Sacrifice Wurmweaver Coil: Put a 6/6 green Wurm creature token onto the battlefield.

@@ -1,0 +1,5 @@
+Waterspout Djinn {2}{U}{U}
+Creature — Djinn
+Flying
+At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.
+4/4

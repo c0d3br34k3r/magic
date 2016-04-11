@@ -1,0 +1,3 @@
+Opal Guardian {W}{W}{W}
+Enchantment
+When an opponent casts a creature spell, if Opal Guardian is an enchantment, Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.

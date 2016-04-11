@@ -1,0 +1,5 @@
+Realmwright {U}
+Creature — Vedalken Wizard
+As Realmwright enters the battlefield, choose a basic land type.
+Lands you control are the chosen type in addition to their other types.
+1/1

@@ -1,0 +1,4 @@
+Rakdos Ickspitter {1}{B}{R}
+Creature — Thrull
+{T}: Rakdos Ickspitter deals 1 damage to target creature and that creature's controller loses 1 life.
+1/1

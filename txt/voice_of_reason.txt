@@ -1,0 +1,4 @@
+Voice of Reason {3}{W}
+Creature — Angel
+Flying, protection from blue
+2/2

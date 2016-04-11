@@ -1,0 +1,4 @@
+Wreath of Geists {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.

@@ -1,0 +1,3 @@
+Pillarfield Ox {3}{W}
+Creature — Ox
+2/4

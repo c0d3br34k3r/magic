@@ -1,0 +1,4 @@
+Mold Demon {5}{B}{B}
+Creature — Fungus Demon
+When Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.
+6/6

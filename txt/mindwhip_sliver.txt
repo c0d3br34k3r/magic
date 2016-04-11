@@ -1,0 +1,4 @@
+Mindwhip Sliver {2}{B}
+Creature — Sliver
+All Slivers have "{2}, Sacrifice this permanent: Target player discards a card at random. Activate this ability only any time you could cast a sorcery."
+2/2

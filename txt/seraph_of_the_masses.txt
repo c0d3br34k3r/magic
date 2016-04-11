@@ -1,0 +1,6 @@
+Seraph of the Masses {5}{W}{W}
+Creature — Angel
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Flying
+Seraph of the Masses's power and toughness are each equal to the number of creatures you control.
+*/*

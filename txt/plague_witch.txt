@@ -1,0 +1,4 @@
+Plague Witch {1}{B}
+Creature — Elf Spellshaper
+{B}, {T}, Discard a card: Target creature gets -1/-1 until end of turn.
+1/1

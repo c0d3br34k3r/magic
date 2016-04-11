@@ -1,0 +1,3 @@
+Reach of Shadows {4}{B}
+Instant
+Destroy target creature that's one or more colors.

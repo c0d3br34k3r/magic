@@ -1,0 +1,5 @@
+Phantasmal Abomination {1}{U}{U}
+Creature — Illusion
+Defender
+When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.
+5/5

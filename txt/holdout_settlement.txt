@@ -1,0 +1,4 @@
+Holdout Settlement
+Land
+{T}: Add {C} to your mana pool. ({C} represents colorless mana.)
+{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.

@@ -1,0 +1,3 @@
+Chromatic Sphere {1}
+Artifact
+{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.

@@ -1,0 +1,5 @@
+Tangle Kelp {U}
+Enchantment — Aura
+Enchant creature
+When Tangle Kelp enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step if it attacked during its controller's last turn.

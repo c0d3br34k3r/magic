@@ -1,0 +1,4 @@
+Ulvenwald Tracker {G}
+Creature — Human Shaman
+{1}{G}, {T}: Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)
+1/1

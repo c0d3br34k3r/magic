@@ -1,0 +1,4 @@
+Tablet of the Guilds {2}
+Artifact
+As Tablet of the Guilds enters the battlefield, choose two colors.
+Whenever you cast a spell, if it's at least one of the chosen colors, you gain 1 life for each of the chosen colors it is.

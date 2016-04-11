@@ -1,0 +1,4 @@
+Mystical Teachings {3}{U}
+Instant
+Search your library for an instant card or a card with flash, reveal it, and put it into your hand. Then shuffle your library.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

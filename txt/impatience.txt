@@ -1,0 +1,3 @@
+Impatience {2}{R}
+Enchantment
+At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.

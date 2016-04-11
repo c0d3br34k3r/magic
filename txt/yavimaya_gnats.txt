@@ -1,0 +1,5 @@
+Yavimaya Gnats {2}{G}
+Creature — Insect
+Flying
+{G}: Regenerate Yavimaya Gnats.
+0/1

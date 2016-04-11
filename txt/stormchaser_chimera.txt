@@ -1,0 +1,5 @@
+Stormchaser Chimera {2}{U}{R}
+Creature — Chimera
+Flying
+{2}{U}{R}: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+2/3

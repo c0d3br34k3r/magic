@@ -1,0 +1,3 @@
+Howl from Beyond {X}{B}
+Instant
+Target creature gets +X/+0 until end of turn.

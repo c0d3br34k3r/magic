@@ -1,0 +1,5 @@
+Akoum Refuge
+Land
+Akoum Refuge enters the battlefield tapped.
+When Akoum Refuge enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.

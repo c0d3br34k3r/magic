@@ -1,0 +1,3 @@
+Doubling Cube {2}
+Artifact
+{3}, {T}: Double the amount of each type of mana in your mana pool.

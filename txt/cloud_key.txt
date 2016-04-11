@@ -1,0 +1,4 @@
+Cloud Key {3}
+Artifact
+As Cloud Key enters the battlefield, choose artifact, creature, enchantment, instant, or sorcery.
+Spells you cast of the chosen type cost {1} less to cast.

@@ -1,0 +1,4 @@
+Frantic Salvage {3}{W}
+Instant
+Put any number of target artifact cards from your graveyard on top of your library.
+Draw a card.

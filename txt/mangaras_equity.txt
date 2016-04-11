@@ -1,0 +1,5 @@
+Mangara's Equity {1}{W}{W}
+Enchantment
+As Mangara's Equity enters the battlefield, choose black or red.
+At the beginning of your upkeep, sacrifice Mangara's Equity unless you pay {1}{W}.
+Whenever a creature of the chosen color deals damage to you or a white creature you control, Mangara's Equity deals that much damage to that creature.

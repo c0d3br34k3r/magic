@@ -1,0 +1,4 @@
+Scarecrow {5}
+Artifact Creature — Scarecrow
+{6}, {T}: Prevent all damage that would be dealt to you this turn by creatures with flying.
+2/2

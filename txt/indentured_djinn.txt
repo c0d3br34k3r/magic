@@ -1,0 +1,5 @@
+Indentured Djinn {1}{U}{U}
+Creature — Djinn
+Flying
+When Indentured Djinn enters the battlefield, each other player may draw up to three cards.
+4/4

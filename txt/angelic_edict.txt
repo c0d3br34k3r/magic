@@ -1,0 +1,3 @@
+Angelic Edict {4}{W}
+Sorcery
+Exile target creature or enchantment.

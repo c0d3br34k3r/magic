@@ -1,0 +1,4 @@
+Surge of Strength {R}{G}
+Instant
+As an additional cost to cast Surge of Strength, discard a red or green card.
+Target creature gains trample and gets +X/+0 until end of turn, where X is that creature's converted mana cost.

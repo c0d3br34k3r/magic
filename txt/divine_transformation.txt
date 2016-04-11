@@ -1,0 +1,4 @@
+Divine Transformation {2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.

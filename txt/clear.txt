@@ -1,0 +1,4 @@
+Clear {1}{W}
+Instant
+Destroy target enchantment.
+Cycling {2} ({2}, Discard this card: Draw a card.)

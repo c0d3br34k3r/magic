@@ -1,0 +1,3 @@
+Blind with Anger {3}{R}
+Instant — Arcane
+Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn.

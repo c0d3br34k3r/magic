@@ -1,0 +1,5 @@
+Cephalid Pathmage {2}{U}
+Creature — Cephalid Wizard
+Cephalid Pathmage can't be blocked.
+{T}, Sacrifice Cephalid Pathmage: Target creature can't be blocked this turn.
+1/2

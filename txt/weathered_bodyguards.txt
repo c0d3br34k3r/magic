@@ -1,0 +1,5 @@
+Weathered Bodyguards {5}{W}
+Creature — Human Soldier
+As long as Weathered Bodyguards is untapped, all combat damage that would be dealt to you by unblocked creatures is dealt to Weathered Bodyguards instead.
+Morph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+2/5

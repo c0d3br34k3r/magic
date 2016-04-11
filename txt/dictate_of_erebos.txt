@@ -1,0 +1,4 @@
+Dictate of Erebos {3}{B}{B}
+Enchantment
+Flash
+Whenever a creature you control dies, each opponent sacrifices a creature.

@@ -1,0 +1,5 @@
+Gwyllion Hedge-Mage {2}{W/B}
+Creature — Hag Wizard
+When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token onto the battlefield.
+When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.
+2/2

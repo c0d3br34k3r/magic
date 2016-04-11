@@ -1,0 +1,3 @@
+Wound Reflection {5}{B}
+Enchantment
+At the beginning of each end step, each opponent loses life equal to the life he or she lost this turn. (Damage causes loss of life.)

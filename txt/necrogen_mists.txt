@@ -1,0 +1,3 @@
+Necrogen Mists {2}{B}
+Enchantment
+At the beginning of each player's upkeep, that player discards a card.

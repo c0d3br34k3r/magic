@@ -1,0 +1,3 @@
+Pack Hunt {3}{G}
+Sorcery
+Search your library for up to three cards with the same name as target creature, reveal them, and put them into your hand. Then shuffle your library.

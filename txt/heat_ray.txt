@@ -1,0 +1,3 @@
+Heat Ray {X}{R}
+Instant
+Heat Ray deals X damage to target creature.

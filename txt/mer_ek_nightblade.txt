@@ -1,0 +1,5 @@
+Mer-Ek Nightblade {3}{B}
+Creature — Orc Assassin
+Outlast {B} ({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has deathtouch.
+2/3

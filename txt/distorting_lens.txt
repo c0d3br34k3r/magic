@@ -1,0 +1,3 @@
+Distorting Lens {2}
+Artifact
+{T}: Target permanent becomes the color of your choice until end of turn.

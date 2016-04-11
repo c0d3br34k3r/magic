@@ -1,0 +1,5 @@
+Mercenary Informer {2}{W}
+Creature — Human Rebel Mercenary
+Mercenary Informer can't be the target of black spells or abilities from black sources.
+{2}{W}: Put target nontoken Mercenary on the bottom of its owner's library.
+2/1

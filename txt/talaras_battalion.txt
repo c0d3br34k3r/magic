@@ -1,0 +1,5 @@
+Talara's Battalion {1}{G}
+Creature — Elf Warrior
+Trample
+Cast Talara's Battalion only if you've cast another green spell this turn.
+4/3

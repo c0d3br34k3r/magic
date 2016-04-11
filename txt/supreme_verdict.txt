@@ -1,0 +1,4 @@
+Supreme Verdict {1}{W}{W}{U}
+Sorcery
+Supreme Verdict can't be countered.
+Destroy all creatures.

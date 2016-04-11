@@ -1,0 +1,4 @@
+Slayer of the Wicked {3}{W}
+Creature — Human Soldier
+When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.
+3/2

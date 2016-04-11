@@ -1,0 +1,4 @@
+Mizzium Transreliquat {3}
+Artifact
+{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn.
+{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.

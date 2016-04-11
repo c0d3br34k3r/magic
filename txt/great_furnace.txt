@@ -1,0 +1,3 @@
+Great Furnace
+Artifact Land
+{T}: Add {R} to your mana pool.

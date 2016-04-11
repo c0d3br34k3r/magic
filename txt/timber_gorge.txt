@@ -1,0 +1,4 @@
+Timber Gorge
+Land
+Timber Gorge enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.

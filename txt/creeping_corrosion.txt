@@ -1,0 +1,3 @@
+Creeping Corrosion {2}{G}{G}
+Sorcery
+Destroy all artifacts.

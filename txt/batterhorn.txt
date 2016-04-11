@@ -1,0 +1,4 @@
+Batterhorn {4}{R}
+Creature — Beast
+When Batterhorn enters the battlefield, you may destroy target artifact.
+4/3

@@ -1,0 +1,5 @@
+Akoum Hellkite {4}{R}{R}
+Creature — Dragon
+Flying
+Landfall — Whenever a land enters the battlefield under your control, Akoum Hellkite deals 1 damage to target creature or player. If that land is a Mountain, Akoum Hellkite deals 2 damage to that creature or player instead.
+4/4

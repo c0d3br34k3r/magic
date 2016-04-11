@@ -1,0 +1,3 @@
+Offering to Asha {2}{W}{U}
+Instant
+Counter target spell unless its controller pays {4}. You gain 4 life.

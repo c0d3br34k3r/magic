@@ -1,0 +1,5 @@
+Drumhunter {3}{G}
+Creature — Human Druid Warrior
+At the beginning of your end step, if you control a creature with power 5 or greater, you may draw a card.
+{T}: Add {C} to your mana pool.
+2/2

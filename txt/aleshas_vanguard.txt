@@ -1,0 +1,4 @@
+Alesha's Vanguard {3}{B}
+Creature — Orc Warrior
+Dash {2}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+3/3

@@ -1,0 +1,5 @@
+Despoiler of Souls {B}{B}
+Creature — Horror
+Despoiler of Souls can't block.
+{B}{B}, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.
+3/1

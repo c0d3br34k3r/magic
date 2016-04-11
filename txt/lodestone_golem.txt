@@ -1,0 +1,4 @@
+Lodestone Golem {4}
+Artifact Creature — Golem
+Nonartifact spells cost {1} more to cast.
+5/3

@@ -1,0 +1,4 @@
+Kor Sky Climber {2}{W}
+Creature — Kor Soldier Ally
+{1}{W}: Kor Sky Climber gains flying until end of turn.
+3/2

@@ -1,0 +1,10 @@
+Mondronen Shaman {3}{R}
+Creature — Human Werewolf Shaman
+At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.
+3/2
+* DOUBLE-FACED *
+Tovolar's Magehunter
+(R) Creature — Werewolf
+Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.
+5/5

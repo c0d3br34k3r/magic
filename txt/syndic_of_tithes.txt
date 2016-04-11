@@ -1,0 +1,4 @@
+Syndic of Tithes {1}{W}
+Creature — Human Cleric
+Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
+2/2

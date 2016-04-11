@@ -1,0 +1,3 @@
+Giant Cockroach {3}{B}
+Creature — Insect
+4/2

@@ -1,0 +1,5 @@
+Kalonian Twingrove {5}{G}
+Creature — Treefolk Warrior
+Kalonian Twingrove's power and toughness are each equal to the number of Forests you control.
+When Kalonian Twingrove enters the battlefield, put a green Treefolk Warrior creature token onto the battlefield with "This creature's power and toughness are each equal to the number of Forests you control."
+*/*

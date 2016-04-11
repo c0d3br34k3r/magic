@@ -1,0 +1,4 @@
+Ajani's Chosen {2}{W}{W}
+Creature — Cat Soldier
+Whenever an enchantment enters the battlefield under your control, put a 2/2 white Cat creature token onto the battlefield. If that enchantment is an Aura, you may attach it to the token.
+3/3

@@ -1,0 +1,5 @@
+Drudge Reavers {3}{B}
+Creature — Skeleton
+Flash (You may cast this spell any time you could cast an instant.)
+{B}: Regenerate Drudge Reavers.
+2/1

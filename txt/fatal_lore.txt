@@ -1,0 +1,5 @@
+Fatal Lore {2}{B}{B}
+Sorcery
+An opponent chooses one —
+• You draw three cards.
+• You destroy up to two target creatures that player controls. They can't be regenerated. That player draws up to three cards.

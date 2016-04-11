@@ -1,0 +1,3 @@
+Sorin's Vengeance {4}{B}{B}{B}
+Sorcery
+Sorin's Vengeance deals 10 damage to target player and you gain 10 life.

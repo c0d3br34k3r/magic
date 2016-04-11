@@ -1,0 +1,4 @@
+Goblin Cadets {R}
+Creature — Goblin
+Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)
+2/1

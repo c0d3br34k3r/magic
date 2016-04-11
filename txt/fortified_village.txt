@@ -1,0 +1,4 @@
+Fortified Village
+Land
+As Fortified Village enters the battlefield, you may reveal a Forest or Plains card from your hand. If you don't, Fortified Village enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.

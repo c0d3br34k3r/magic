@@ -1,0 +1,5 @@
+Smoldering Crater
+Land
+Smoldering Crater enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)

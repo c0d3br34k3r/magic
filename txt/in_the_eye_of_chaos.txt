@@ -1,0 +1,3 @@
+In the Eye of Chaos {2}{U}
+World Enchantment
+Whenever a player casts an instant spell, counter it unless that player pays {X}, where X is its converted mana cost.

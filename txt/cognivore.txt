@@ -1,0 +1,5 @@
+Cognivore {6}{U}{U}
+Creature — Lhurgoyf
+Flying
+Cognivore's power and toughness are each equal to the number of instant cards in all graveyards.
+*/*

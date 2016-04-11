@@ -1,0 +1,5 @@
+Seed Guardian {2}{G}{G}
+Creature — Elemental
+Reach
+When Seed Guardian dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.
+3/4

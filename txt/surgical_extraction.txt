@@ -1,0 +1,4 @@
+Surgical Extraction {B/P}
+Instant
+({B/P} can be paid with either {B} or 2 life.)
+Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.

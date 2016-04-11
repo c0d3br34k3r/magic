@@ -1,0 +1,5 @@
+Chilling Apparition {2}{B}
+Creature — Spirit
+{B}: Regenerate Chilling Apparition.
+Whenever Chilling Apparition deals combat damage to a player, that player discards a card.
+1/1

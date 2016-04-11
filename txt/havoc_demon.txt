@@ -1,0 +1,5 @@
+Havoc Demon {5}{B}{B}
+Creature — Demon
+Flying
+When Havoc Demon dies, all creatures get -5/-5 until end of turn.
+5/5

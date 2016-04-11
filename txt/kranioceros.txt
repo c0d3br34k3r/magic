@@ -1,0 +1,4 @@
+Kranioceros {4}{R}
+Creature — Beast
+{1}{W}: Kranioceros gets +0/+3 until end of turn.
+5/2

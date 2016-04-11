@@ -1,0 +1,4 @@
+Pewter Golem {5}
+Artifact Creature — Golem
+{1}{B}: Regenerate Pewter Golem.
+4/2

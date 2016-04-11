@@ -1,0 +1,4 @@
+Norwood Riders {3}{G}
+Creature — Elf
+Norwood Riders can't be blocked by more than one creature.
+3/3

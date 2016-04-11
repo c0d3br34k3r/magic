@@ -1,0 +1,4 @@
+Grapeshot Catapult {4}
+Artifact Creature — Construct
+{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
+2/3

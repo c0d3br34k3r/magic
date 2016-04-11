@@ -1,0 +1,6 @@
+Sphinx of the Final Word {5}{U}{U}
+Creature — Sphinx
+Sphinx of the Final Word can't be countered.
+Flying, hexproof
+Instant and sorcery spells you control can't be countered by spells or abilities.
+5/5

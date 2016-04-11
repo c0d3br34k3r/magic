@@ -1,0 +1,4 @@
+Spectral Cloak {U}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has shroud as long as it's untapped. (It can't be the target of spells or abilities.)

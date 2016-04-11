@@ -1,0 +1,4 @@
+Stone Giant {2}{R}{R}
+Creature — Giant
+{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+3/4

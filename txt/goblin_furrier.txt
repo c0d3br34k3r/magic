@@ -1,0 +1,4 @@
+Goblin Furrier {1}{R}
+Creature — Goblin Warrior
+Prevent all damage that Goblin Furrier would deal to snow creatures.
+2/2

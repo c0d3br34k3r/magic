@@ -1,0 +1,6 @@
+Baleful Eidolon {1}{B}
+Enchantment Creature — Spirit
+Bestow {4}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Enchanted creature gets +1/+1 and has deathtouch.
+1/1

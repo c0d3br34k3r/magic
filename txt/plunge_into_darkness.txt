@@ -1,0 +1,6 @@
+Plunge into Darkness {1}{B}
+Instant
+Choose one —
+• Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature.
+• Pay X life, then look at the top X cards of your library. Put one of those cards into your hand and exile the rest.
+Entwine {B} (Choose both if you pay the entwine cost.)

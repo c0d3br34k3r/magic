@@ -1,0 +1,5 @@
+Angel of Mercy {4}{W}
+Creature — Angel
+Flying
+When Angel of Mercy enters the battlefield, you gain 3 life.
+3/3

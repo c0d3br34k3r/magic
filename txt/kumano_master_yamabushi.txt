@@ -1,0 +1,5 @@
+Kumano, Master Yamabushi {3}{R}{R}
+Legendary Creature — Human Shaman
+{1}{R}: Kumano, Master Yamabushi deals 1 damage to target creature or player.
+If a creature dealt damage by Kumano this turn would die, exile it instead.
+4/4

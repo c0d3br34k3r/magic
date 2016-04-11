@@ -1,0 +1,5 @@
+Cadaver Imp {1}{B}{B}
+Creature — Imp
+Flying
+When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.
+1/1

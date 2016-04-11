@@ -1,0 +1,5 @@
+Dripping Dead {4}{B}{B}
+Creature — Zombie
+Dripping Dead can't block.
+Whenever Dripping Dead deals combat damage to a creature, destroy that creature. It can't be regenerated.
+4/1

@@ -1,0 +1,5 @@
+Glory {3}{W}{W}
+Creature — Incarnation
+Flying
+{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
+3/3

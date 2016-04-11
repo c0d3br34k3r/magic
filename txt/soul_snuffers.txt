@@ -1,0 +1,4 @@
+Soul Snuffers {2}{B}{B}
+Creature — Elemental Shaman
+When Soul Snuffers enters the battlefield, put a -1/-1 counter on each creature.
+3/3

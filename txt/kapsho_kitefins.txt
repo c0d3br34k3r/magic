@@ -1,0 +1,5 @@
+Kapsho Kitefins {4}{U}{U}
+Creature — Fish
+Flying
+Whenever Kapsho Kitefins or another creature enters the battlefield under your control, tap target creature an opponent controls.
+3/3

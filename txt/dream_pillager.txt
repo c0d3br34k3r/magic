@@ -1,0 +1,5 @@
+Dream Pillager {5}{R}{R}
+Creature — Dragon
+Flying
+Whenever Dream Pillager deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast nonland cards exiled this way.
+4/4

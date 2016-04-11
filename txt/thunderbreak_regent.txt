@@ -1,0 +1,5 @@
+Thunderbreak Regent {2}{R}{R}
+Creature — Dragon
+Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.
+4/4

@@ -1,0 +1,4 @@
+Goblin Burrows
+Land
+{T}: Add {C} to your mana pool.
+{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.

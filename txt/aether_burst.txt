@@ -1,0 +1,3 @@
+Æther Burst {1}{U}
+Instant
+Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Æther Burst in all graveyards as you cast Æther Burst.

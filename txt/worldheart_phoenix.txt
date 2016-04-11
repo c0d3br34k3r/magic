@@ -1,0 +1,5 @@
+Worldheart Phoenix {3}{R}
+Creature — Phoenix
+Flying
+You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.
+2/2

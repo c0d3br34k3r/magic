@@ -1,0 +1,5 @@
+Viashino Cutthroat {2}{R}{R}
+Creature — Viashino
+Haste
+At the beginning of the end step, return Viashino Cutthroat to its owner's hand.
+5/3

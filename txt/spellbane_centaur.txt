@@ -1,0 +1,4 @@
+Spellbane Centaur {2}{G}
+Creature — Centaur
+Creatures you control can't be the targets of blue spells or abilities from blue sources.
+3/2

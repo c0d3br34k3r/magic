@@ -1,0 +1,4 @@
+Animate Wall {W}
+Enchantment — Aura
+Enchant Wall
+Enchanted Wall can attack as though it didn't have defender.

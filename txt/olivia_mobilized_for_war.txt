@@ -1,0 +1,5 @@
+Olivia, Mobilized for War {1}{B}{R}
+Legendary Creature — Vampire Knight
+Flying
+Whenever another creature enters the battlefield under your control, you may discard a card. If you do, put a +1/+1 counter on that creature, it gains haste until end of turn, and it becomes a Vampire in addition to its other types.
+3/3

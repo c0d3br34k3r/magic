@@ -1,0 +1,6 @@
+Thundermaw Hellkite {3}{R}{R}
+Creature — Dragon
+Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+When Thundermaw Hellkite enters the battlefield, it deals 1 damage to each creature with flying your opponents control. Tap those creatures.
+5/5

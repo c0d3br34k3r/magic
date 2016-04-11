@@ -1,0 +1,5 @@
+Selesnya Guildmage {G/W}{G/W}
+Creature — Elf Wizard
+{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.
+{3}{W}: Creatures you control get +1/+1 until end of turn.
+2/2

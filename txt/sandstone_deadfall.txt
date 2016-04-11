@@ -1,0 +1,3 @@
+Sandstone Deadfall {3}
+Artifact
+{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature.

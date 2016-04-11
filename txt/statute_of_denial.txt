@@ -1,0 +1,3 @@
+Statute of Denial {2}{U}{U}
+Instant
+Counter target spell. If you control a blue creature, draw a card, then discard a card.

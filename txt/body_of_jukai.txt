@@ -1,0 +1,5 @@
+Body of Jukai {7}{G}{G}
+Creature — Spirit
+Trample
+Soulshift 8 (When this creature dies, you may return target Spirit card with converted mana cost 8 or less from your graveyard to your hand.)
+8/5

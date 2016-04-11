@@ -1,0 +1,4 @@
+Hammerfist Giant {4}{R}{R}
+Creature — Giant Warrior
+{T}: Hammerfist Giant deals 4 damage to each creature without flying and each player.
+5/4

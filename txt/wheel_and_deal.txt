@@ -1,0 +1,4 @@
+Wheel and Deal {3}{U}
+Instant
+Any number of target opponents each discards his or her hand, then draws seven cards.
+Draw a card.

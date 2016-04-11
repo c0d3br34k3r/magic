@@ -1,0 +1,3 @@
+Spell Snare {U}
+Instant
+Counter target spell with converted mana cost 2.

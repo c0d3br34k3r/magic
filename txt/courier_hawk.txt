@@ -1,0 +1,4 @@
+Courier Hawk {1}{W}
+Creature — Bird
+Flying, vigilance
+1/2

@@ -1,0 +1,4 @@
+Painbringer {2}{B}{B}
+Creature — Human Minion
+{T}, Exile any number of cards from your graveyard: Target creature gets -X/-X until end of turn, where X is the number of cards exiled this way.
+1/1

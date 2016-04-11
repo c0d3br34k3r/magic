@@ -1,0 +1,4 @@
+Zodiac Rooster {1}{G}
+Creature — Bird
+Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)
+2/1

@@ -1,0 +1,6 @@
+Scourge of Skola Vale {2}{G}
+Creature — Hydra
+Trample
+Scourge of Skola Vale enters the battlefield with two +1/+1 counters on it.
+{T}, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness.
+0/0

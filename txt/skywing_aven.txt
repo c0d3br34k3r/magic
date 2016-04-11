@@ -1,0 +1,5 @@
+Skywing Aven {2}{U}
+Creature — Bird Soldier
+Flying
+Discard a card: Return Skywing Aven to its owner's hand.
+2/1

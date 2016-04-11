@@ -1,0 +1,4 @@
+Soldevi Machinist {1}{U}
+Creature — Human Wizard Artificer
+{T}: Add {C}{C} to your mana pool. Spend this mana only to activate abilities of artifacts.
+1/1

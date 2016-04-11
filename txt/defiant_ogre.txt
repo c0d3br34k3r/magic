@@ -1,0 +1,6 @@
+Defiant Ogre {5}{R}
+Creature — Ogre Warrior
+When Defiant Ogre enters the battlefield, choose one —
+• Put a +1/+1 counter on Defiant Ogre.
+• Destroy target artifact.
+3/5

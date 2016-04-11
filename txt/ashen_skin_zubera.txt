@@ -1,0 +1,4 @@
+Ashen-Skin Zubera {1}{B}
+Creature — Zubera Spirit
+When Ashen-Skin Zubera dies, target opponent discards a card for each Zubera that died this turn.
+1/2

@@ -1,0 +1,3 @@
+Thoughtweft Gambit {4}{W/U}{W/U}
+Instant
+Tap all creatures your opponents control and untap all creatures you control.

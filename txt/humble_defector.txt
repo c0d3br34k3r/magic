@@ -1,0 +1,4 @@
+Humble Defector {1}{R}
+Creature — Human Rogue
+{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.
+2/1

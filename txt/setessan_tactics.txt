@@ -1,0 +1,4 @@
+Setessan Tactics {1}{G}
+Instant
+Strive — Setessan Tactics costs {G} more to cast for each target beyond the first.
+Until end of turn, any number of target creatures each get +1/+1 and gain "{T}: This creature fights another target creature."

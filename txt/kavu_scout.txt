@@ -1,0 +1,4 @@
+Kavu Scout {2}{R}
+Creature — Kavu Scout
+Domain — Kavu Scout gets +1/+0 for each basic land type among lands you control.
+0/2

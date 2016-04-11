@@ -1,0 +1,4 @@
+Root Out {2}{G}
+Sorcery
+Destroy target artifact or enchantment.
+Investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

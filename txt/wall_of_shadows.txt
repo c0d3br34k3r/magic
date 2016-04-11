@@ -1,0 +1,6 @@
+Wall of Shadows {1}{B}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.
+Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.
+0/1

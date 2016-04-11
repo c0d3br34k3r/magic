@@ -1,0 +1,3 @@
+Sylvan Echoes {G}
+Enchantment
+Whenever you clash and win, you may draw a card. (This ability triggers after the clash ends.)

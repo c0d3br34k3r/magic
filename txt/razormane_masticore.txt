@@ -1,0 +1,6 @@
+Razormane Masticore {5}
+Artifact Creature — Masticore
+First strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.
+At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.
+5/5

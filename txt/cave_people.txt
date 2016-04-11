@@ -1,0 +1,5 @@
+Cave People {1}{R}{R}
+Creature — Human
+Whenever Cave People attacks, it gets +1/-2 until end of turn.
+{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)
+1/4

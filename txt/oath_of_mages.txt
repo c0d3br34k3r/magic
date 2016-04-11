@@ -1,0 +1,3 @@
+Oath of Mages {1}{R}
+Enchantment
+At the beginning of each player's upkeep, that player chooses target player who has more life than he or she does and is his or her opponent. The first player may have Oath of Mages deal 1 damage to the second player.

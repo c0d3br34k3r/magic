@@ -1,0 +1,4 @@
+Greater Auramancy {1}{W}
+Enchantment
+Other enchantments you control have shroud. (A permanent with shroud can't be the target of spells or abilities.)
+Enchanted creatures you control have shroud.

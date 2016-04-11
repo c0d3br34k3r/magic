@@ -1,0 +1,4 @@
+Sylvan Basilisk {3}{G}{G}
+Creature — Basilisk
+Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.
+2/4

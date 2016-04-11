@@ -1,0 +1,4 @@
+Savage Punch {1}{G}
+Sorcery
+Target creature you control fights target creature you don't control.
+Ferocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.

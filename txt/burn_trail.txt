@@ -1,0 +1,4 @@
+Burn Trail {3}{R}
+Sorcery
+Burn Trail deals 3 damage to target creature or player.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)

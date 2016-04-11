@@ -1,0 +1,4 @@
+Archivist {2}{U}{U}
+Creature — Human Wizard
+{T}: Draw a card.
+1/1

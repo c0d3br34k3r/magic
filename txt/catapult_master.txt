@@ -1,0 +1,4 @@
+Catapult Master {3}{W}{W}
+Creature — Human Soldier
+Tap five untapped Soldiers you control: Exile target creature.
+3/3

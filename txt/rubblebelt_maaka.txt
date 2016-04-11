@@ -1,0 +1,4 @@
+Rubblebelt Maaka {3}{R}
+Creature — Cat
+Bloodrush — {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
+3/3

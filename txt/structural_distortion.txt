@@ -1,0 +1,3 @@
+Structural Distortion {3}{R}
+Sorcery
+Exile target artifact or land. Structural Distortion deals 2 damage to that permanent's controller.

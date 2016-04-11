@@ -1,0 +1,3 @@
+Kamahl's Summons {3}{G}
+Sorcery
+Each player may reveal any number of creature cards from his or her hand. Then each player puts a 2/2 green Bear creature token onto the battlefield for each card he or she revealed this way.

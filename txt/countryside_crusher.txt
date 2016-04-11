@@ -1,0 +1,5 @@
+Countryside Crusher {1}{R}{R}
+Creature — Giant Warrior
+At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.
+Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.
+3/3

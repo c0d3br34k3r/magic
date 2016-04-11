@@ -1,0 +1,5 @@
+Wall of Razors {1}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+First strike
+4/1

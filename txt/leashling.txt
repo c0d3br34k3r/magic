@@ -1,0 +1,4 @@
+Leashling {6}
+Artifact Creature — Hound
+Put a card from your hand on top of your library: Return Leashling to its owner's hand.
+3/3

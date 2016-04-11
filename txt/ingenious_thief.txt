@@ -1,0 +1,5 @@
+Ingenious Thief {1}{U}
+Creature — Human Rogue
+Flying
+When Ingenious Thief enters the battlefield, look at target player's hand.
+1/1

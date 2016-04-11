@@ -1,0 +1,4 @@
+Elder of Laurels {2}{G}
+Creature — Human Advisor
+{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+2/3

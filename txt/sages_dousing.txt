@@ -1,0 +1,3 @@
+Sage's Dousing {2}{U}
+Tribal Instant — Wizard
+Counter target spell unless its controller pays {3}. If you control a Wizard, draw a card.

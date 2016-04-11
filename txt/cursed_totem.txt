@@ -1,0 +1,3 @@
+Cursed Totem {2}
+Artifact
+Activated abilities of creatures can't be activated.

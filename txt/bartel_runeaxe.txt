@@ -1,0 +1,5 @@
+Bartel Runeaxe {3}{B}{R}{G}
+Legendary Creature — Giant Warrior
+Vigilance
+Bartel Runeaxe can't be the target of Aura spells.
+6/5

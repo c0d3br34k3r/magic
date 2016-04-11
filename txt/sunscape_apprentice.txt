@@ -1,0 +1,5 @@
+Sunscape Apprentice {W}
+Creature — Human Wizard
+{G}, {T}: Target creature gets +1/+1 until end of turn.
+{U}, {T}: Put target creature you control on top of its owner's library.
+1/1

@@ -1,0 +1,4 @@
+Flowstone Thopter {7}
+Artifact Creature — Thopter
+{1}: Flowstone Thopter gets +1/-1 and gains flying until end of turn.
+4/4

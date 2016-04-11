@@ -1,0 +1,3 @@
+Lava Blister {1}{R}
+Sorcery
+Destroy target nonbasic land unless its controller has Lava Blister deal 6 damage to him or her.

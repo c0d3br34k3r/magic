@@ -1,0 +1,3 @@
+Excoriate {3}{W}
+Sorcery
+Exile target tapped creature.

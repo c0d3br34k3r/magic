@@ -1,0 +1,4 @@
+Terastodon {6}{G}{G}
+Creature — Elephant
+When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+9/9

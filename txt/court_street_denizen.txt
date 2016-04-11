@@ -1,0 +1,4 @@
+Court Street Denizen {2}{W}
+Creature — Human Soldier
+Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.
+2/2

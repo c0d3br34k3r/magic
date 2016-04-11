@@ -1,0 +1,4 @@
+Imposing Sovereign {1}{W}
+Creature — Human
+Creatures your opponents control enter the battlefield tapped.
+2/1

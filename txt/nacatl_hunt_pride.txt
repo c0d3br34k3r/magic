@@ -1,0 +1,6 @@
+Nacatl Hunt-Pride {5}{W}
+Creature — Cat Warrior
+Vigilance
+{R}, {T}: Target creature can't block this turn.
+{G}, {T}: Target creature blocks this turn if able.
+5/4

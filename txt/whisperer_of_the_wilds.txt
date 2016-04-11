@@ -1,0 +1,5 @@
+Whisperer of the Wilds {1}{G}
+Creature — Human Shaman
+{T}: Add {G} to your mana pool.
+Ferocious — {T}: Add {G}{G} to your mana pool. Activate this ability only if you control a creature with power 4 or greater.
+0/2

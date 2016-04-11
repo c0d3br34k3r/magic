@@ -1,0 +1,4 @@
+Rotting Legion {4}{B}
+Creature — Zombie
+Rotting Legion enters the battlefield tapped.
+4/5

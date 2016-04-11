@@ -1,0 +1,5 @@
+Catacomb Dragon {4}{B}{B}
+Creature — Dragon
+Flying
+Whenever Catacomb Dragon becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.
+4/4

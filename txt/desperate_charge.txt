@@ -1,0 +1,3 @@
+Desperate Charge {2}{B}
+Sorcery
+Creatures you control get +2/+0 until end of turn.

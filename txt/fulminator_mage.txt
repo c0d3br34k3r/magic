@@ -1,0 +1,4 @@
+Fulminator Mage {1}{B/R}{B/R}
+Creature — Elemental Shaman
+Sacrifice Fulminator Mage: Destroy target nonbasic land.
+2/2

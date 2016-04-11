@@ -1,0 +1,3 @@
+Scroll of Avacyn {1}
+Artifact
+{1}, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life.

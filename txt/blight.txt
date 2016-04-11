@@ -1,0 +1,4 @@
+Blight {B}{B}
+Enchantment — Aura
+Enchant land
+When enchanted land becomes tapped, destroy it.

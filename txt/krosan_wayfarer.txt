@@ -1,0 +1,4 @@
+Krosan Wayfarer {G}
+Creature — Human Druid
+Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.
+1/1

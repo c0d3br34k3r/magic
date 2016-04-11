@@ -1,0 +1,4 @@
+Ogre Berserker {4}{R}
+Creature — Ogre Berserker
+Haste
+4/2

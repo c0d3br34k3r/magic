@@ -1,0 +1,3 @@
+Braingeyser {X}{U}{U}
+Sorcery
+Target player draws X cards.

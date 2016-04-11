@@ -1,0 +1,4 @@
+Shu General {3}{W}
+Creature — Human Soldier
+Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+2/2

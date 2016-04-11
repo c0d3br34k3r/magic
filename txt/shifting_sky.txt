@@ -1,0 +1,4 @@
+Shifting Sky {2}{U}
+Enchantment
+As Shifting Sky enters the battlefield, choose a color.
+All nonland permanents are the chosen color.

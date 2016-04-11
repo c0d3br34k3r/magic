@@ -1,0 +1,5 @@
+Rockshard Elemental {5}{R}{R}
+Creature — Elemental
+Double strike (This creature deals both first-strike and regular combat damage.)
+Morph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+4/3

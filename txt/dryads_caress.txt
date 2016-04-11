@@ -1,0 +1,3 @@
+Dryad's Caress {4}{G}{G}
+Instant
+You gain 1 life for each creature on the battlefield. If {W} was spent to cast Dryad's Caress, untap all creatures you control.

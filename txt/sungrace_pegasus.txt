@@ -1,0 +1,5 @@
+Sungrace Pegasus {1}{W}
+Creature — Pegasus
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/2

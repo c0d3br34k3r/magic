@@ -1,0 +1,5 @@
+Vent Sentinel {3}{R}
+Creature — Elemental
+Defender
+{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+2/4

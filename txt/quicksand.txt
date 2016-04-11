@@ -1,0 +1,4 @@
+Quicksand
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.

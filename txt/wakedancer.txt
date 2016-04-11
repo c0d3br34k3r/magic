@@ -1,0 +1,4 @@
+Wakedancer {2}{B}
+Creature — Human Shaman
+Morbid — When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.
+2/2

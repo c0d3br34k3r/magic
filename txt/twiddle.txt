@@ -1,0 +1,3 @@
+Twiddle {U}
+Instant
+You may tap or untap target artifact, creature, or land.

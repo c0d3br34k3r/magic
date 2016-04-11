@@ -1,0 +1,3 @@
+Hidden Path {2}{G}{G}{G}{G}
+Enchantment
+Green creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.)

@@ -1,0 +1,4 @@
+Skull Fracture {B}
+Sorcery
+Target player discards a card.
+Flashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

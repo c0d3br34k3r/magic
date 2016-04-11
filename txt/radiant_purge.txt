@@ -1,0 +1,3 @@
+Radiant Purge {1}{W}
+Instant
+Exile target multicolored creature or multicolored enchantment.

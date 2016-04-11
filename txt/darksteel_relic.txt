@@ -1,0 +1,3 @@
+Darksteel Relic {0}
+Artifact
+Indestructible (Effects that say "destroy" don't destroy this artifact.)

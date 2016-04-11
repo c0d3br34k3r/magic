@@ -1,0 +1,4 @@
+Blinding Flare {R}
+Sorcery
+Strive — Blinding Flare costs {R} more to cast for each target beyond the first.
+Any number of target creatures can't block this turn.

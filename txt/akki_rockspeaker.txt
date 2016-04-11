@@ -1,0 +1,4 @@
+Akki Rockspeaker {1}{R}
+Creature — Goblin Shaman
+When Akki Rockspeaker enters the battlefield, add {R} to your mana pool.
+1/1

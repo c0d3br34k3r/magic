@@ -1,0 +1,5 @@
+Willow Priestess {2}{G}{G}
+Creature — Faerie Druid
+{T}: You may put a Faerie permanent card from your hand onto the battlefield.
+{2}{G}: Target green creature gains protection from black until end of turn.
+2/2

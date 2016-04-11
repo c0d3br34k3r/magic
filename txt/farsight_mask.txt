@@ -1,0 +1,3 @@
+Farsight Mask {5}
+Artifact
+Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.

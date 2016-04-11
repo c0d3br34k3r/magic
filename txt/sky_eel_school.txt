@@ -1,0 +1,5 @@
+Sky-Eel School {3}{U}{U}
+Creature — Fish
+Flying
+When Sky-Eel School enters the battlefield, draw a card, then discard a card.
+3/3

@@ -1,0 +1,5 @@
+Ruby Leech {1}{R}
+Creature — Leech
+First strike
+Red spells you cast cost {R} more to cast.
+2/2

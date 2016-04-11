@@ -1,0 +1,3 @@
+Blood of the Martyr {W}{W}{W}
+Instant
+Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.

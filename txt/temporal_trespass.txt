@@ -1,0 +1,4 @@
+Temporal Trespass {8}{U}{U}{U}
+Sorcery
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Take an extra turn after this one. Exile Temporal Trespass.

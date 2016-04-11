@@ -1,0 +1,5 @@
+Tatterkite {3}
+Artifact Creature — Scarecrow
+Flying
+Tatterkite can't have counters placed on it.
+2/1

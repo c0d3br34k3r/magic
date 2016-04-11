@@ -1,0 +1,3 @@
+Angel's Feather {2}
+Artifact
+Whenever a player casts a white spell, you may gain 1 life.

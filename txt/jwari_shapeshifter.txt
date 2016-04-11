@@ -1,0 +1,4 @@
+Jwari Shapeshifter {1}{U}
+Creature — Shapeshifter Ally
+You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.
+0/0

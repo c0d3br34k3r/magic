@@ -1,0 +1,3 @@
+Wash Out {3}{U}
+Sorcery
+Return all permanents of the color of your choice to their owners' hands.

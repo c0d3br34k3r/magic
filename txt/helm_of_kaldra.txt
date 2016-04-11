@@ -1,0 +1,5 @@
+Helm of Kaldra {3}
+Legendary Artifact — Equipment
+Equipped creature has first strike, trample, and haste.
+{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.
+Equip {2}

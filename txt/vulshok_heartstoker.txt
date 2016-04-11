@@ -1,0 +1,4 @@
+Vulshok Heartstoker {2}{R}
+Creature — Human Shaman
+When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.
+2/2

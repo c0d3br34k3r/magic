@@ -1,0 +1,4 @@
+Brushland
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.

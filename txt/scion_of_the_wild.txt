@@ -1,0 +1,4 @@
+Scion of the Wild {1}{G}{G}
+Creature — Avatar
+Scion of the Wild's power and toughness are each equal to the number of creatures you control.
+*/*

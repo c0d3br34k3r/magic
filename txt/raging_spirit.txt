@@ -1,0 +1,4 @@
+Raging Spirit {3}{R}
+Creature — Spirit
+{2}: Raging Spirit becomes colorless until end of turn.
+3/3

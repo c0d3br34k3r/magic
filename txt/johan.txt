@@ -1,0 +1,4 @@
+Johan {3}{W}{R}{G}
+Legendary Creature — Human Wizard
+At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.
+5/4

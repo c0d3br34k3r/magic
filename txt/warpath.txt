@@ -1,0 +1,3 @@
+Warpath {3}{R}
+Instant
+Warpath deals 3 damage to each blocking creature and each blocked creature.

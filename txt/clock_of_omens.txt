@@ -1,0 +1,3 @@
+Clock of Omens {4}
+Artifact
+Tap two untapped artifacts you control: Untap target artifact.

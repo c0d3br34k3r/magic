@@ -1,0 +1,4 @@
+Mortipede {3}{B}
+Creature — Insect
+{2}{G}: All creatures able to block Mortipede this turn do so.
+4/1

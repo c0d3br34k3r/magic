@@ -1,0 +1,5 @@
+Sabertooth Outrider {3}{R}
+Creature — Human Warrior
+Trample
+Formidable — Whenever Sabertooth Outrider attacks, if creatures you control have total power 8 or greater, Sabertooth Outrider gains first strike until end of turn.
+4/2

@@ -1,0 +1,4 @@
+Gone Missing {4}{U}
+Sorcery
+Put target permanent on top of its owner's library.
+Investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

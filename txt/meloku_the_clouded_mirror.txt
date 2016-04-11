@@ -1,0 +1,5 @@
+Meloku the Clouded Mirror {4}{U}
+Legendary Creature — Moonfolk Wizard
+Flying
+{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.
+2/4

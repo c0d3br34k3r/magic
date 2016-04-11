@@ -1,0 +1,5 @@
+Colos Yearling {2}{R}
+Creature — Goat Beast
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+{R}: Colos Yearling gets +1/+0 until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Errant Doomsayers {1}{W}
+Creature — Human Rebel
+{T}: Tap target creature with toughness 2 or less.
+1/1

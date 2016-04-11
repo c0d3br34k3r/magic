@@ -1,0 +1,6 @@
+Vein Drinker {4}{B}{B}
+Creature — Vampire
+Flying
+{R}, {T}: Vein Drinker deals damage equal to its power to target creature. That creature deals damage equal to its power to Vein Drinker.
+Whenever a creature dealt damage by Vein Drinker this turn dies, put a +1/+1 counter on Vein Drinker.
+4/4

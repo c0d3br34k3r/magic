@@ -1,0 +1,5 @@
+Stronghold Zeppelin {2}{U}{U}
+Creature — Human
+Flying
+Stronghold Zeppelin can block only creatures with flying.
+3/3

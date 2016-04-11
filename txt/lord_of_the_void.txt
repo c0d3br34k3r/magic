@@ -1,0 +1,5 @@
+Lord of the Void {4}{B}{B}{B}
+Creature — Demon
+Flying
+Whenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.
+7/7

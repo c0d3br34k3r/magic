@@ -1,0 +1,5 @@
+Aggression {2}{R}
+Enchantment — Aura
+Enchant non-Wall creature
+Enchanted creature has first strike and trample.
+At the beginning of the end step of enchanted creature's controller, destroy that creature if it didn't attack this turn.

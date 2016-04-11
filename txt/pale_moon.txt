@@ -1,0 +1,3 @@
+Pale Moon {1}{U}
+Instant
+Until end of turn, if a player taps a nonbasic land for mana, it produces colorless mana instead of any other type.

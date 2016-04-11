@@ -1,0 +1,4 @@
+Ancient Spider {2}{W}{G}
+Creature — Spider
+First strike; reach (This creature can block creatures with flying.)
+2/5

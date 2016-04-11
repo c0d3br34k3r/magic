@@ -1,0 +1,5 @@
+Shifting Wall {X}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+Shifting Wall enters the battlefield with X +1/+1 counters on it.
+0/0

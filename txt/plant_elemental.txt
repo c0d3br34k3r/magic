@@ -1,0 +1,4 @@
+Plant Elemental {1}{G}
+Creature — Plant Elemental
+When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.
+3/4

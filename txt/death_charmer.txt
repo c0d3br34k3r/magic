@@ -1,0 +1,4 @@
+Death Charmer {2}{B}
+Creature — Worm Mercenary
+Whenever Death Charmer deals combat damage to a creature, that creature's controller loses 2 life unless he or she pays {2}.
+2/2

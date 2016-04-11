@@ -1,0 +1,4 @@
+Hillcomber Giant {2}{W}{W}
+Creature — Giant Scout
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+3/3

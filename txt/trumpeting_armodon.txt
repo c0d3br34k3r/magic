@@ -1,0 +1,4 @@
+Trumpeting Armodon {3}{G}
+Creature — Elephant
+{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.
+3/3

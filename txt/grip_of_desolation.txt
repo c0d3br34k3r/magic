@@ -1,0 +1,4 @@
+Grip of Desolation {4}{B}{B}
+Instant
+Devoid (This card has no color.)
+Exile target creature and target land.

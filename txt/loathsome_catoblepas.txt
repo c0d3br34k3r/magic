@@ -1,0 +1,5 @@
+Loathsome Catoblepas {5}{B}
+Creature — Beast
+{2}{G}: Loathsome Catoblepas must be blocked this turn if able.
+When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
+3/3

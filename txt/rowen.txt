@@ -1,0 +1,3 @@
+Rowen {2}{G}{G}
+Enchantment
+Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.

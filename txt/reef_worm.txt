@@ -1,0 +1,4 @@
+Reef Worm {3}{U}
+Creature — Worm
+When Reef Worm dies, put a 3/3 blue Fish creature token onto the battlefield with "When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with ‘When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield.'"
+0/1

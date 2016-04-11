@@ -1,0 +1,5 @@
+Kor Sanctifiers {2}{W}
+Creature — Kor Cleric
+Kicker {W} (You may pay an additional {W} as you cast this spell.)
+When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+2/3

@@ -1,0 +1,3 @@
+Pit Trap {2}
+Artifact
+{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.

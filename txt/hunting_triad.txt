@@ -1,0 +1,4 @@
+Hunting Triad {3}{G}
+Tribal Sorcery — Elf
+Put three 1/1 green Elf Warrior creature tokens onto the battlefield.
+Reinforce 3—{3}{G} ({3}{G}, Discard this card: Put three +1/+1 counters on target creature.)

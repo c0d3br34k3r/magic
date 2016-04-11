@@ -1,0 +1,3 @@
+Wrap in Flames {3}{R}
+Sorcery
+Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.

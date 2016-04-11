@@ -1,0 +1,3 @@
+Copy Enchantment {2}{U}
+Enchantment
+You may have Copy Enchantment enter the battlefield as a copy of any enchantment on the battlefield.

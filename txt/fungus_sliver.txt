@@ -1,0 +1,4 @@
+Fungus Sliver {3}{G}
+Creature — Fungus Sliver
+All Sliver creatures have "Whenever this creature is dealt damage, put a +1/+1 counter on it." (The damage is dealt before the counter is put on.)
+2/2

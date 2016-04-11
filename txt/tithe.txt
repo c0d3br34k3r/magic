@@ -1,0 +1,3 @@
+Tithe {W}
+Instant
+Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.

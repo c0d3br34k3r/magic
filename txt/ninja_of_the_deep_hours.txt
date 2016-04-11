@@ -1,0 +1,5 @@
+Ninja of the Deep Hours {3}{U}
+Creature — Human Ninja
+Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.
+2/2

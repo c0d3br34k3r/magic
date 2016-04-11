@@ -1,0 +1,3 @@
+Choking Fumes {2}{W}
+Instant
+Put a -1/-1 counter on each attacking creature.

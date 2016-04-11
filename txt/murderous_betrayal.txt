@@ -1,0 +1,3 @@
+Murderous Betrayal {B}{B}{B}
+Enchantment
+{B}{B}, Pay half your life, rounded up: Destroy target nonblack creature. It can't be regenerated.

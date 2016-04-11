@@ -1,0 +1,4 @@
+Kinsbaile Skirmisher {1}{W}
+Creature — Kithkin Soldier
+When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.
+2/2

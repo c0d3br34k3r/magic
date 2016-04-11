@@ -1,0 +1,5 @@
+Avacyn, Angel of Hope {5}{W}{W}{W}
+Legendary Creature — Angel
+Flying, vigilance, indestructible
+Other permanents you control have indestructible.
+8/8

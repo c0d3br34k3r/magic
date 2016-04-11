@@ -1,0 +1,4 @@
+Mind Control {3}{U}{U}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.

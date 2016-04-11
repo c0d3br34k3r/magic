@@ -1,0 +1,4 @@
+Elite Skirmisher {2}{W}
+Creature — Human Soldier
+Heroic — Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature.
+3/1

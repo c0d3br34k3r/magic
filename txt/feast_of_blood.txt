@@ -1,0 +1,4 @@
+Feast of Blood {1}{B}
+Sorcery
+Cast Feast of Blood only if you control two or more Vampires.
+Destroy target creature. You gain 4 life.

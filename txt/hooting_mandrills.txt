@@ -1,0 +1,5 @@
+Hooting Mandrills {5}{G}
+Creature — Ape
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Trample
+4/4

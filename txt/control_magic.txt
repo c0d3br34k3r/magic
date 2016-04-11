@@ -1,0 +1,4 @@
+Control Magic {2}{U}{U}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.

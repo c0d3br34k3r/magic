@@ -1,0 +1,4 @@
+Mask of Memory {2}
+Artifact — Equipment
+Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.
+Equip {1}

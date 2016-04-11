@@ -1,0 +1,4 @@
+Nezumi Bone-Reader {1}{B}
+Creature — Rat Shaman
+{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+1/1

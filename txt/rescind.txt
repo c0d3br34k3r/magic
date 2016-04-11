@@ -1,0 +1,4 @@
+Rescind {1}{U}{U}
+Instant
+Return target permanent to its owner's hand.
+Cycling {2} ({2}, Discard this card: Draw a card.)

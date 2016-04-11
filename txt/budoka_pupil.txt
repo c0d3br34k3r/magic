@@ -1,0 +1,11 @@
+Budoka Pupil {1}{G}{G}
+Creature — Human Monk
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.
+At the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.
+2/2
+* FLIP *
+Ichiga, Who Topples Oaks {1}{G}{G}
+Legendary Creature — Spirit
+Trample
+Remove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.
+4/3

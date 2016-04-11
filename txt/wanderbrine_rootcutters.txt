@@ -1,0 +1,4 @@
+Wanderbrine Rootcutters {2}{U/B}{U/B}
+Creature — Merfolk Rogue
+Wanderbrine Rootcutters can't be blocked by green creatures.
+3/3

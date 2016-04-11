@@ -1,0 +1,4 @@
+Lightning Hounds {2}{R}{R}
+Creature — Hound
+First strike
+3/2

@@ -1,0 +1,4 @@
+Puppet Master {U}{U}{U}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master to its owner's hand.

@@ -1,0 +1,4 @@
+Serum Tank {3}
+Artifact
+Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank.
+{3}, {T}, Remove a charge counter from Serum Tank: Draw a card.

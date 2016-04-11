@@ -1,0 +1,4 @@
+Manaforge Cinder {B/R}
+Creature — Elemental Shaman
+{1}: Add {B} or {R} to your mana pool. Activate this ability no more than three times each turn.
+1/1

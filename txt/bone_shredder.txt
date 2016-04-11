@@ -1,0 +1,6 @@
+Bone Shredder {2}{B}
+Creature — Minion
+Flying
+Echo {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature.
+1/1

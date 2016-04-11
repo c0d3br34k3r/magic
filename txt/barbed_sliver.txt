@@ -1,0 +1,4 @@
+Barbed Sliver {2}{R}
+Creature — Sliver
+All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."
+2/2

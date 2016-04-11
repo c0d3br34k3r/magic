@@ -1,0 +1,5 @@
+Spitebellows {5}{R}
+Creature — Elemental
+When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
+Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+6/1

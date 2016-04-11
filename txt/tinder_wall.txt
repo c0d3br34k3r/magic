@@ -1,0 +1,6 @@
+Tinder Wall {G}
+Creature — Plant Wall
+Defender (This creature can't attack.)
+Sacrifice Tinder Wall: Add {R}{R} to your mana pool.
+{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.
+0/3

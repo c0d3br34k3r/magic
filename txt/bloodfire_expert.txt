@@ -1,0 +1,4 @@
+Bloodfire Expert {2}{R}
+Creature — Efreet Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+3/1

@@ -1,0 +1,5 @@
+Nekusar, the Mindrazer {2}{U}{B}{R}
+Legendary Creature — Zombie Wizard
+At the beginning of each player's draw step, that player draws an additional card.
+Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.
+2/4

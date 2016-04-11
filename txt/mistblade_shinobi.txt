@@ -1,0 +1,5 @@
+Mistblade Shinobi {2}{U}
+Creature — Human Ninja
+Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.
+1/1

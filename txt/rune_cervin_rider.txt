@@ -1,0 +1,5 @@
+Rune-Cervin Rider {3}{W}
+Creature — Elf Knight
+Flying
+{G/W}{G/W}: Rune-Cervin Rider gets +1/+1 until end of turn.
+2/2

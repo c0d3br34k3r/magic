@@ -1,0 +1,4 @@
+Echo Circlet {2}
+Artifact — Equipment
+Equipped creature can block an additional creature.
+Equip {1}

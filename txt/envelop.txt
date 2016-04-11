@@ -1,0 +1,3 @@
+Envelop {U}
+Instant
+Counter target sorcery spell.

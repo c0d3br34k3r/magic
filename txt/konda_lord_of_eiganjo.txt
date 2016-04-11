@@ -1,0 +1,6 @@
+Konda, Lord of Eiganjo {5}{W}{W}
+Legendary Creature — Human Samurai
+Indestructible
+Vigilance (Attacking doesn't cause this creature to tap.)
+Bushido 5 (Whenever this creature blocks or becomes blocked, it gets +5/+5 until end of turn.)
+3/3

@@ -1,0 +1,4 @@
+Battlefield Medic {1}{W}
+Creature — Human Cleric
+{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield.
+1/1

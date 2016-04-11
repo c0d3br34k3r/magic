@@ -1,0 +1,9 @@
+Turn {2}{U}
+Instant
+Until end of turn, target creature loses all abilities and becomes a red Weird with base power and toughness 0/1.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Burn {1}{R}
+Instant
+Burn deals 2 damage to target creature or player.
+Fuse (You may cast one or both halves of this card from your hand.)

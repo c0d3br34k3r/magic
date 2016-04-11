@@ -1,0 +1,4 @@
+Corrupted Harvester {4}{B}{B}
+Creature — Horror
+{B}, Sacrifice a creature: Regenerate Corrupted Harvester.
+6/3

@@ -1,0 +1,5 @@
+Cloudseeder {1}{U}
+Creature — Faerie Spellshaper
+Flying
+{U}, {T}, Discard a card: Put a 1/1 blue Faerie creature token named Cloud Sprite onto the battlefield. It has flying and "Cloud Sprite can block only creatures with flying."
+1/1

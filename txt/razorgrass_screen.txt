@@ -1,0 +1,5 @@
+Razorgrass Screen {1}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+Razorgrass Screen blocks each turn if able.
+2/1

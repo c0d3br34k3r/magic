@@ -1,0 +1,4 @@
+Ghoulraiser {1}{B}{B}
+Creature — Zombie
+When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.
+2/2

@@ -1,0 +1,5 @@
+Callous Deceiver {2}{U}
+Creature — Spirit
+{1}: Look at the top card of your library.
+{2}: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn.
+1/3

@@ -1,0 +1,4 @@
+Nissa's Expedition {4}{G}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.

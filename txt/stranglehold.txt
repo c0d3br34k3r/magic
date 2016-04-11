@@ -1,0 +1,4 @@
+Stranglehold {3}{R}
+Enchantment
+Your opponents can't search libraries.
+If an opponent would begin an extra turn, that player skips that turn instead.

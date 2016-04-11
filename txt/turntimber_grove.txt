@@ -1,0 +1,5 @@
+Turntimber Grove
+Land
+Turntimber Grove enters the battlefield tapped.
+When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.
+{T}: Add {G} to your mana pool.

@@ -1,0 +1,5 @@
+Indomitable Archangel {2}{W}{W}
+Creature — Angel
+Flying
+Metalcraft — Artifacts you control have shroud as long as you control three or more artifacts. (An artifact with shroud can't be the target of spells or abilities.)
+4/4

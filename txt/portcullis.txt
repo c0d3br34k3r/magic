@@ -1,0 +1,3 @@
+Portcullis {4}
+Artifact
+Whenever a creature enters the battlefield, if there are two or more other creatures on the battlefield, exile that creature. Return that card to the battlefield under its owner's control when Portcullis leaves the battlefield.

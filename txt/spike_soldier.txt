@@ -1,0 +1,6 @@
+Spike Soldier {2}{G}{G}
+Creature — Spike Soldier
+Spike Soldier enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Soldier: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Soldier: Spike Soldier gets +2/+2 until end of turn.
+0/0

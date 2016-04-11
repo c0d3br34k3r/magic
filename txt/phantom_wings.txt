@@ -1,0 +1,5 @@
+Phantom Wings {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.

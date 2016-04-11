@@ -1,0 +1,6 @@
+Sheoldred, Whispering One {5}{B}{B}
+Legendary Creature — Praetor
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+At the beginning of each opponent's upkeep, that player sacrifices a creature.
+6/6

@@ -1,0 +1,5 @@
+Fire Dragon {6}{R}{R}{R}
+Creature — Dragon
+Flying
+When Fire Dragon enters the battlefield, it deals damage to target creature equal to the number of Mountains you control.
+6/6

@@ -1,0 +1,3 @@
+Roiling Terrain {2}{R}{R}
+Sorcery
+Destroy target land, then Roiling Terrain deals damage to that land's controller equal to the number of land cards in that player's graveyard.

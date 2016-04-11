@@ -1,0 +1,3 @@
+Drain the Well {2}{B/G}{B/G}
+Sorcery
+Destroy target land. You gain 2 life.

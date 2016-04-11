@@ -1,0 +1,4 @@
+Rishadan Footpad {3}{U}
+Creature — Human Pirate
+When Rishadan Footpad enters the battlefield, each opponent sacrifices a permanent unless he or she pays {2}.
+2/2

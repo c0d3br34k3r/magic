@@ -1,0 +1,4 @@
+Oath of Lim-Dûl {3}{B}
+Enchantment
+Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)
+{B}{B}: Draw a card.

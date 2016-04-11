@@ -1,0 +1,5 @@
+Earsplitting Rats {3}{B}
+Creature — Rat
+When Earsplitting Rats enters the battlefield, each player discards a card.
+Discard a card: Regenerate Earsplitting Rats.
+2/1

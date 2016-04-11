@@ -1,0 +1,5 @@
+Brutal Hordechief {3}{B}
+Creature — Orc Warrior
+Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.
+{3}{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block.
+3/3

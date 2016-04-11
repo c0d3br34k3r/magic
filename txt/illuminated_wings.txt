@@ -1,0 +1,5 @@
+Illuminated Wings {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+{2}, Sacrifice Illuminated Wings: Draw a card.

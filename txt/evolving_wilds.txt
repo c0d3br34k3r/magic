@@ -1,0 +1,3 @@
+Evolving Wilds
+Land
+{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.

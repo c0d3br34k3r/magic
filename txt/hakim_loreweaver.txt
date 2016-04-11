@@ -1,0 +1,6 @@
+Hakim, Loreweaver {3}{U}{U}
+Legendary Creature — Human Wizard
+Flying
+{U}{U}: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate this ability only during your upkeep and only if Hakim isn't enchanted.
+{U}{U}, {T}: Destroy all Auras attached to Hakim.
+2/4

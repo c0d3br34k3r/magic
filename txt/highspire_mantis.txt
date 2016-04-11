@@ -1,0 +1,4 @@
+Highspire Mantis {2}{W}{R}
+Creature — Insect
+Flying, trample
+3/3

@@ -1,0 +1,4 @@
+Tormented Angel {3}{W}
+Creature — Angel
+Flying
+1/5

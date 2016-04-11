@@ -1,0 +1,4 @@
+Cloak of Feathers {U}
+Sorcery
+Target creature gains flying until end of turn.
+Draw a card.

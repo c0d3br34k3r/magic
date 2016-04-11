@@ -1,0 +1,5 @@
+Temur Charger {1}{G}
+Creature — Horse
+Morph—Reveal a green card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Temur Charger is turned face up, target creature gains trample until end of turn.
+3/1

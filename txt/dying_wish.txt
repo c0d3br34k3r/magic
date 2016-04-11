@@ -1,0 +1,4 @@
+Dying Wish {1}{B}
+Enchantment — Aura
+Enchant creature you control
+When enchanted creature dies, target player loses X life and you gain X life, where X is its power.

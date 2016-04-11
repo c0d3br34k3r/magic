@@ -1,0 +1,6 @@
+Hobble {2}{W}
+Enchantment — Aura
+Enchant creature
+When Hobble enters the battlefield, draw a card.
+Enchanted creature can't attack.
+Enchanted creature can't block if it's black.

@@ -1,0 +1,5 @@
+Soratami Savant {2}{U}{U}
+Creature — Moonfolk Wizard
+Flying
+{3}, Return a land you control to its owner's hand: Counter target spell unless its controller pays {3}.
+2/2

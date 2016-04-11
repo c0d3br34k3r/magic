@@ -1,0 +1,3 @@
+Trapmaker's Snare {1}{U}
+Instant
+Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.

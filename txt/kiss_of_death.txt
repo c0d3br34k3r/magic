@@ -1,0 +1,3 @@
+Kiss of Death {4}{B}{B}
+Sorcery
+Kiss of Death deals 4 damage to target opponent. You gain 4 life.

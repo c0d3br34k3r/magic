@@ -1,0 +1,4 @@
+Poultice Sliver {2}{W}
+Creature — Sliver
+All Slivers have "{2}, {T}: Regenerate target Sliver."
+2/2

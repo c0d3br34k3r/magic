@@ -1,0 +1,4 @@
+Moriok Rigger {2}{B}
+Creature — Human Rogue Rigger
+Whenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.
+2/2

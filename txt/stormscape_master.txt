@@ -1,0 +1,5 @@
+Stormscape Master {2}{U}{U}
+Creature — Human Wizard
+{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.
+{B}{B}, {T}: Target player loses 2 life and you gain 2 life.
+2/2

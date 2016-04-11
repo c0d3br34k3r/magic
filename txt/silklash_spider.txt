@@ -1,0 +1,5 @@
+Silklash Spider {3}{G}{G}
+Creature — Spider
+Reach
+{X}{G}{G}: Silklash Spider deals X damage to each creature with flying.
+2/7

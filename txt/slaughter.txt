@@ -1,0 +1,4 @@
+Slaughter {2}{B}{B}
+Instant
+Buyback—Pay 4 life. (You may pay 4 life in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Destroy target nonblack creature. It can't be regenerated.

@@ -1,0 +1,10 @@
+Soul Seizer {3}{U}{U}
+Creature — Spirit
+Flying
+When Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.
+1/3
+* DOUBLE-FACED *
+Ghastly Haunting
+(U) Enchantment — Aura
+Enchant creature
+You control enchanted creature.

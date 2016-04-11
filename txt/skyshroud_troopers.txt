@@ -1,0 +1,4 @@
+Skyshroud Troopers {3}{G}
+Creature — Elf Druid Warrior
+{T}: Add {G} to your mana pool.
+3/3

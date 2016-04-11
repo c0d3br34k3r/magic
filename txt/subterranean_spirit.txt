@@ -1,0 +1,5 @@
+Subterranean Spirit {3}{R}{R}
+Creature — Elemental Spirit
+Protection from red
+{T}: Subterranean Spirit deals 1 damage to each creature without flying.
+3/3

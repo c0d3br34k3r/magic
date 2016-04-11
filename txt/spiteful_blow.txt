@@ -1,0 +1,3 @@
+Spiteful Blow {4}{B}{B}
+Sorcery
+Destroy target creature and target land.

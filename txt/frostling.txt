@@ -1,0 +1,4 @@
+Frostling {R}
+Creature — Spirit
+Sacrifice Frostling: Frostling deals 1 damage to target creature.
+1/1

@@ -1,0 +1,4 @@
+Palladium Myr {3}
+Artifact Creature — Myr
+{T}: Add {C}{C} to your mana pool.
+2/2

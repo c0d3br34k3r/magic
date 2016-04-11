@@ -1,0 +1,4 @@
+Jabari's Influence {3}{W}{W}
+Instant
+Cast Jabari's Influence only after combat.
+Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.

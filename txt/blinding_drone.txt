@@ -1,0 +1,5 @@
+Blinding Drone {1}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{C}, {T}: Tap target creature. ({C} represents colorless mana.)
+1/3

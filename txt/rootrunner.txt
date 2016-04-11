@@ -1,0 +1,5 @@
+Rootrunner {2}{G}{G}
+Creature — Spirit
+{G}{G}, Sacrifice Rootrunner: Put target land on top of its owner's library.
+Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+3/3

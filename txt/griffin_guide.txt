@@ -1,0 +1,5 @@
+Griffin Guide {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.

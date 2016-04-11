@@ -1,0 +1,6 @@
+Hypnox {8}{B}{B}{B}
+Creature — Nightmare Horror
+Flying
+When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.
+When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.
+8/8

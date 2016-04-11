@@ -1,0 +1,4 @@
+Hall of Triumph {3}
+Legendary Artifact
+As Hall of Triumph enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+1.

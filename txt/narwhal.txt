@@ -1,0 +1,4 @@
+Narwhal {2}{U}{U}
+Creature — Whale
+First strike, protection from red
+2/2

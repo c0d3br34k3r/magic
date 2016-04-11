@@ -1,0 +1,5 @@
+Snow Devil {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Enchanted creature has first strike as long as it's blocking and you control a snow land.

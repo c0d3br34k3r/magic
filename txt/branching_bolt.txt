@@ -1,0 +1,5 @@
+Branching Bolt {1}{R}{G}
+Instant
+Choose one or both —
+• Branching Bolt deals 3 damage to target creature with flying.
+• Branching Bolt deals 3 damage to target creature without flying.

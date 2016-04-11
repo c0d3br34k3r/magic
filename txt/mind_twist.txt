@@ -1,0 +1,3 @@
+Mind Twist {X}{B}
+Sorcery
+Target player discards X cards at random.

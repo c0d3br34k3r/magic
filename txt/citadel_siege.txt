@@ -1,0 +1,5 @@
+Citadel Siege {2}{W}{W}
+Enchantment
+As Citadel Siege enters the battlefield, choose Khans or Dragons.
+• Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.
+• Dragons — At the beginning of combat on each opponent's turn, tap target creature that player controls.

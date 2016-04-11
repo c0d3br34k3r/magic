@@ -1,0 +1,5 @@
+Ichorclaw Myr {2}
+Artifact Creature — Myr
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.
+1/1

@@ -1,0 +1,5 @@
+Amugaba {5}{U}{U}
+Creature — Illusion
+Flying
+{2}{U}, Discard a card: Return Amugaba to its owner's hand.
+6/6

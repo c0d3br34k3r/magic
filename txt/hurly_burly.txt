@@ -1,0 +1,5 @@
+Hurly-Burly {1}{R}
+Sorcery
+Choose one —
+• Hurly-Burly deals 1 damage to each creature without flying.
+• Hurly-Burly deals 1 damage to each creature with flying.

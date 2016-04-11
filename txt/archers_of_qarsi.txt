@@ -1,0 +1,5 @@
+Archers of Qarsi {3}{G}
+Creature — Naga Archer
+Defender
+Reach (This creature can block creatures with flying.)
+5/2

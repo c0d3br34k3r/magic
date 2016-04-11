@@ -1,0 +1,6 @@
+Ajani Goldmane {2}{W}{W}
+Planeswalker — Ajani
++1: You gain 2 life.
+−1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+−6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total."
+4

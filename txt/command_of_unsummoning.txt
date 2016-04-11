@@ -1,0 +1,4 @@
+Command of Unsummoning {2}{U}
+Instant
+Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step.
+Return one or two target attacking creatures to their owner's hand.

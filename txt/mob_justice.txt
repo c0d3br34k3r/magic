@@ -1,0 +1,3 @@
+Mob Justice {1}{R}
+Sorcery
+Mob Justice deals damage to target player equal to the number of creatures you control.

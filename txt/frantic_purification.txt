@@ -1,0 +1,4 @@
+Frantic Purification {2}{W}
+Instant
+Destroy target enchantment.
+Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

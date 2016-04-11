@@ -1,0 +1,5 @@
+Chasm Skulker {2}{U}
+Creature — Squid Horror
+Whenever you draw a card, put a +1/+1 counter on Chasm Skulker.
+When Chasm Skulker dies, put X 1/1 blue Squid creature tokens with islandwalk onto the battlefield, where X is the number of +1/+1 counters on Chasm Skulker. (They can't be blocked as long as defending player controls an Island.)
+1/1

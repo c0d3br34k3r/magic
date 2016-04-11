@@ -1,0 +1,4 @@
+Duergar Assailant {R/W}
+Creature — Dwarf Soldier
+Sacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.
+1/1

@@ -1,0 +1,4 @@
+Mire Kavu {3}{R}
+Creature — Kavu
+Mire Kavu gets +1/+1 as long as you control a Swamp.
+3/2

@@ -1,0 +1,5 @@
+Marble Priest {5}
+Artifact Creature — Cleric
+All Walls able to block Marble Priest do so.
+Prevent all combat damage that would be dealt to Marble Priest by Walls.
+3/3

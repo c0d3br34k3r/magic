@@ -1,0 +1,6 @@
+Emberwilde Caliph {2}{U}{R}
+Creature — Djinn
+Flying, trample
+Emberwilde Caliph attacks each turn if able.
+Whenever Emberwilde Caliph deals damage, you lose that much life.
+4/4

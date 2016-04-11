@@ -1,0 +1,5 @@
+Merfolk Skyscout {2}{U}{U}
+Creature — Merfolk Scout
+Flying
+Whenever Merfolk Skyscout attacks or blocks, untap target permanent.
+2/3

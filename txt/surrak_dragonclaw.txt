@@ -1,0 +1,7 @@
+Surrak Dragonclaw {2}{U}{R}{G}
+Legendary Creature — Human Warrior
+Flash
+Surrak Dragonclaw can't be countered.
+Creature spells you control can't be countered.
+Other creatures you control have trample.
+6/6

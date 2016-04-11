@@ -1,0 +1,5 @@
+Armada Wurm {2}{W}{W}{G}{G}
+Creature — Wurm
+Trample
+When Armada Wurm enters the battlefield, put a 5/5 green Wurm creature token with trample onto the battlefield.
+5/5

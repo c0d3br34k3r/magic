@@ -1,0 +1,3 @@
+Alchor's Tomb {4}
+Artifact
+{2}, {T}: Target permanent you control becomes the color of your choice. (This effect lasts indefinitely.)

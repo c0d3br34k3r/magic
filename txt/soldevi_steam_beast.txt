@@ -1,0 +1,5 @@
+Soldevi Steam Beast {5}
+Artifact Creature — Beast
+Whenever Soldevi Steam Beast becomes tapped, target opponent gains 2 life.
+{2}: Regenerate Soldevi Steam Beast.
+4/2

@@ -1,0 +1,3 @@
+Cyclopean Snare {2}
+Artifact
+{3}, {T}: Tap target creature, then return Cyclopean Snare to its owner's hand.

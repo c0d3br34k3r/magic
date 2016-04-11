@@ -1,0 +1,4 @@
+Lux Cannon {4}
+Artifact
+{T}: Put a charge counter on Lux Cannon.
+{T}, Remove three charge counters from Lux Cannon: Destroy target permanent.

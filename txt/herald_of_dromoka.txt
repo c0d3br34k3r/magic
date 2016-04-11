@@ -1,0 +1,5 @@
+Herald of Dromoka {1}{W}
+Creature — Human Warrior
+Vigilance
+Other Warrior creatures you control have vigilance.
+2/2

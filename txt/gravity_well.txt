@@ -1,0 +1,3 @@
+Gravity Well {1}{G}{G}
+Enchantment
+Whenever a creature with flying attacks, it loses flying until end of turn.

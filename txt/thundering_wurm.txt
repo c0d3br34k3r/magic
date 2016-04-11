@@ -1,0 +1,4 @@
+Thundering Wurm {2}{G}
+Creature — Wurm
+When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.
+4/4

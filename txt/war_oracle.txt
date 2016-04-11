@@ -1,0 +1,5 @@
+War Oracle {2}{W}{W}
+Creature — Human Cleric
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+3/3

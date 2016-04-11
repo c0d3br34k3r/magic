@@ -1,0 +1,5 @@
+Resounding Silence {3}{W}
+Instant
+Exile target attacking creature.
+Cycling {5}{G}{W}{U} ({5}{G}{W}{U}, Discard this card: Draw a card.)
+When you cycle Resounding Silence, exile up to two target attacking creatures.

@@ -1,0 +1,8 @@
+Cromat {W}{U}{B}{R}{G}
+Legendary Creature — Illusion
+{W}{B}: Destroy target creature blocking or blocked by Cromat.
+{U}{R}: Cromat gains flying until end of turn.
+{B}{G}: Regenerate Cromat.
+{R}{W}: Cromat gets +1/+1 until end of turn.
+{G}{U}: Put Cromat on top of its owner's library.
+5/5

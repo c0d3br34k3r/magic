@@ -1,0 +1,5 @@
+Ribbon Snake {1}{U}{U}
+Creature — Snake
+Flying
+{2}: Ribbon Snake loses flying until end of turn. Any player may activate this ability.
+2/3

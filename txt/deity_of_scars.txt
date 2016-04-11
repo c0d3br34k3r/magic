@@ -1,0 +1,6 @@
+Deity of Scars {B/G}{B/G}{B/G}{B/G}{B/G}
+Creature — Spirit Avatar
+Trample
+Deity of Scars enters the battlefield with two -1/-1 counters on it.
+{B/G}, Remove a -1/-1 counter from Deity of Scars: Regenerate Deity of Scars.
+7/7

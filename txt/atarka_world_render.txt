@@ -1,0 +1,5 @@
+Atarka, World Render {5}{R}{G}
+Legendary Creature — Dragon
+Flying, trample
+Whenever a Dragon you control attacks, it gains double strike until end of turn.
+6/4

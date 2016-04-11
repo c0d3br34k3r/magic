@@ -1,0 +1,4 @@
+Pathbreaker Ibex {4}{G}{G}
+Creature — Goat
+Whenever Pathbreaker Ibex attacks, creatures you control gain trample and get +X/+X until end of turn, where X is the greatest power among creatures you control.
+3/3

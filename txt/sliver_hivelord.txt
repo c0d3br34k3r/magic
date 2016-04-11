@@ -1,0 +1,4 @@
+Sliver Hivelord {W}{U}{B}{R}{G}
+Legendary Creature — Sliver
+Sliver creatures you control have indestructible. (Damage and effects that say "destroy" don't destroy them.)
+5/5

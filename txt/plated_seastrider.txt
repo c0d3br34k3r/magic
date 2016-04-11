@@ -1,0 +1,3 @@
+Plated Seastrider {U}{U}
+Creature — Beast
+1/4

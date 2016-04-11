@@ -1,0 +1,4 @@
+Refreshing Rain {3}{G}
+Instant
+If an opponent controls a Swamp and you control a Forest, you may cast Refreshing Rain without paying its mana cost.
+Target player gains 6 life.

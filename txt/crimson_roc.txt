@@ -1,0 +1,5 @@
+Crimson Roc {4}{R}
+Creature — Bird
+Flying
+Whenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 and gains first strike until end of turn.
+2/2

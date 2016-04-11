@@ -1,0 +1,5 @@
+Heir of the Wilds {1}{G}
+Creature — Human Warrior
+Deathtouch
+Ferocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.
+2/2

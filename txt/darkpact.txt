@@ -1,0 +1,4 @@
+Darkpact {B}{B}{B}
+Sorcery
+Remove Darkpact from your deck before playing if you're not playing for ante.
+You own target card in the ante. Exchange that card with the top card of your library.

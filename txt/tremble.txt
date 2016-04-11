@@ -1,0 +1,3 @@
+Tremble {1}{R}
+Sorcery
+Each player sacrifices a land.

@@ -1,0 +1,3 @@
+Extinction {4}{B}
+Sorcery
+Destroy all creatures of the creature type of your choice.

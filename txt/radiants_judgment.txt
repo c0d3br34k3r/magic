@@ -1,0 +1,4 @@
+Radiant's Judgment {2}{W}
+Instant
+Destroy target creature with power 4 or greater.
+Cycling {2} ({2}, Discard this card: Draw a card.)

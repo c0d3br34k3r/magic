@@ -1,0 +1,5 @@
+Needle Spires
+Land
+Needle Spires enters the battlefield tapped.
+{T}: Add {R} or {W} to your mana pool.
+{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.

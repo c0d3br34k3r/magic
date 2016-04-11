@@ -1,0 +1,5 @@
+Hagra Crocodile {3}{B}
+Creature — Crocodile
+Hagra Crocodile can't block.
+Landfall — Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.
+3/1

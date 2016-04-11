@@ -1,0 +1,3 @@
+Serene Offering {1}{W}
+Instant
+Destroy target enchantment. You gain life equal to its converted mana cost.

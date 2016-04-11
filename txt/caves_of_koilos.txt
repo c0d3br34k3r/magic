@@ -1,0 +1,4 @@
+Caves of Koilos
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.

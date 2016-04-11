@@ -1,0 +1,10 @@
+Town Gossipmonger {W}
+Creature — Human
+{T}, Tap an untapped creature you control: Transform Town Gossipmonger.
+1/1
+* DOUBLE-FACED *
+Incited Rabble
+Creature — Human
+Incited Rabble attacks each combat if able.
+{2}: Incited Rabble gets +1/+0 until end of turn.
+2/3

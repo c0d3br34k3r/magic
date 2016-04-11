@@ -1,0 +1,6 @@
+Avatar of Discord {B/R}{B/R}{B/R}
+Creature — Avatar
+({B/R} can be paid with either {B} or {R}.)
+Flying
+When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.
+5/3

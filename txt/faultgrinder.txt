@@ -1,0 +1,6 @@
+Faultgrinder {6}{R}
+Creature — Elemental
+Trample
+When Faultgrinder enters the battlefield, destroy target land.
+Evoke {4}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+4/4

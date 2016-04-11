@@ -1,0 +1,4 @@
+Wistful Selkie {G/U}{G/U}{G/U}
+Creature — Merfolk Wizard
+When Wistful Selkie enters the battlefield, draw a card.
+2/2

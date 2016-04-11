@@ -1,0 +1,5 @@
+Dunerider Outlaw {B}{B}
+Creature — Human Rebel Rogue
+Protection from green
+At the beginning of each end step, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.
+1/1

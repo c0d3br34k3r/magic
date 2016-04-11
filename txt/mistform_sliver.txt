@@ -1,0 +1,4 @@
+Mistform Sliver {1}{U}
+Creature — Illusion Sliver
+All Slivers have "{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn."
+1/1

@@ -1,0 +1,5 @@
+Craterhoof Behemoth {5}{G}{G}{G}
+Creature — Beast
+Haste
+When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.
+5/5

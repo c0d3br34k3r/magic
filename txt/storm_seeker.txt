@@ -1,0 +1,3 @@
+Storm Seeker {3}{G}
+Instant
+Storm Seeker deals damage to target player equal to the number of cards in that player's hand.

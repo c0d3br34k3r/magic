@@ -1,0 +1,5 @@
+Darklit Gargoyle {1}{W}
+Artifact Creature — Gargoyle
+Flying
+{B}: Darklit Gargoyle gets +2/-1 until end of turn.
+1/2

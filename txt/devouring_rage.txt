@@ -1,0 +1,4 @@
+Devouring Rage {4}{R}
+Instant — Arcane
+As an additional cost to cast Devouring Rage, you may sacrifice any number of Spirits.
+Target creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn.

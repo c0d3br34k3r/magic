@@ -1,0 +1,3 @@
+Time Stop {4}{U}{U}
+Instant
+End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)

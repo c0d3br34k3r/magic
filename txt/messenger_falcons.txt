@@ -1,0 +1,5 @@
+Messenger Falcons {2}{G/U}{W}
+Creature — Bird
+Flying
+When Messenger Falcons enters the battlefield, draw a card.
+2/2

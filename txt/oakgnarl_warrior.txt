@@ -1,0 +1,4 @@
+Oakgnarl Warrior {5}{G}{G}
+Creature — Treefolk Warrior
+Vigilance, trample
+5/7

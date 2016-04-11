@@ -1,0 +1,5 @@
+Duskworker {4}
+Artifact Creature — Construct
+Whenever Duskworker becomes blocked, regenerate it.
+{3}: Duskworker gets +1/+0 until end of turn.
+2/2

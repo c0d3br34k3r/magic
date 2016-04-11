@@ -1,0 +1,5 @@
+Evil Eye of Orms-by-Gore {4}{B}
+Creature — Eye
+Non-Eye creatures you control can't attack.
+Evil Eye of Orms-by-Gore can't be blocked except by Walls.
+3/6

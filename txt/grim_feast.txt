@@ -1,0 +1,4 @@
+Grim Feast {1}{B}{G}
+Enchantment
+At the beginning of your upkeep, Grim Feast deals 1 damage to you.
+Whenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.

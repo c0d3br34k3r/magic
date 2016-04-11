@@ -1,0 +1,6 @@
+Fiendslayer Paladin {1}{W}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Fiendslayer Paladin can't be the target of black or red spells your opponents control.
+2/2

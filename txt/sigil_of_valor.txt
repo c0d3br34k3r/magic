@@ -1,0 +1,4 @@
+Sigil of Valor {2}
+Artifact — Equipment
+Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

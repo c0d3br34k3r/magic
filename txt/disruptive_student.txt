@@ -1,0 +1,4 @@
+Disruptive Student {2}{U}
+Creature — Human Wizard
+{T}: Counter target spell unless its controller pays {1}.
+1/1

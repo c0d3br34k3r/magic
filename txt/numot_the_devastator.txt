@@ -1,0 +1,5 @@
+Numot, the Devastator {3}{W}{U}{R}
+Legendary Creature — Dragon
+Flying
+Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.
+6/6

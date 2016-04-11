@@ -1,0 +1,5 @@
+Hunted Lammasu {2}{W}{W}
+Creature — Lammasu
+Flying
+When Hunted Lammasu enters the battlefield, target opponent puts a 4/4 black Horror creature token onto the battlefield.
+5/5

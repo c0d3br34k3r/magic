@@ -1,0 +1,4 @@
+Slimy Kavu {2}{R}
+Creature — Kavu
+{T}: Target land becomes a Swamp until end of turn.
+2/2

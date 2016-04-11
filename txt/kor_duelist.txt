@@ -1,0 +1,4 @@
+Kor Duelist {W}
+Creature — Kor Soldier
+As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)
+1/1

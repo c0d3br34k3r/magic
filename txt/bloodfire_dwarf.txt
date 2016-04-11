@@ -1,0 +1,4 @@
+Bloodfire Dwarf {R}
+Creature — Dwarf
+{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.
+1/1

@@ -1,0 +1,3 @@
+Wanderer's Twig {1}
+Artifact
+{1}, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.

@@ -1,0 +1,4 @@
+Sabertooth Wyvern {4}{R}
+Creature — Drake
+Flying, first strike
+3/2

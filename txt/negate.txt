@@ -1,0 +1,3 @@
+Negate {1}{U}
+Instant
+Counter target noncreature spell.

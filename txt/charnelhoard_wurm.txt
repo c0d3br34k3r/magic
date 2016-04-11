@@ -1,0 +1,5 @@
+Charnelhoard Wurm {4}{B}{R}{G}
+Creature — Wurm
+Trample
+Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.
+6/6

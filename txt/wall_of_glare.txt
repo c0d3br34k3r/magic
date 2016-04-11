@@ -1,0 +1,5 @@
+Wall of Glare {1}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Wall of Glare can block any number of creatures.
+0/5

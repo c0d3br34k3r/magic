@@ -1,0 +1,5 @@
+Molten Slagheap
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Put a storage counter on Molten Slagheap.
+{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.

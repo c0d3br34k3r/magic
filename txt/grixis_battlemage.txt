@@ -1,0 +1,5 @@
+Grixis Battlemage {2}{B}
+Creature — Human Wizard
+{U}, {T}: Draw a card, then discard a card.
+{R}, {T}: Target creature can't block this turn.
+2/2

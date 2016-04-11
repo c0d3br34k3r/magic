@@ -1,0 +1,4 @@
+Steeple Roc {4}{W}
+Creature — Bird
+Flying, first strike
+3/1

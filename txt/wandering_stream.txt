@@ -1,0 +1,3 @@
+Wandering Stream {2}{G}
+Sorcery
+Domain — You gain 2 life for each basic land type among lands you control.

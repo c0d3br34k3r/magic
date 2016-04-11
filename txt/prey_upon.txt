@@ -1,0 +1,3 @@
+Prey Upon {G}
+Sorcery
+Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)

@@ -1,0 +1,6 @@
+Wormfang Manta {5}{U}{U}
+Creature — Nightmare Fish Beast
+Flying
+When Wormfang Manta enters the battlefield, you skip your next turn.
+When Wormfang Manta leaves the battlefield, you take an extra turn after this one.
+6/1

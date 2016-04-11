@@ -1,0 +1,5 @@
+Master of the Wild Hunt {2}{G}{G}
+Creature — Human Shaman
+At the beginning of your upkeep, put a 2/2 green Wolf creature token onto the battlefield.
+{T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.
+3/3

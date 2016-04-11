@@ -1,0 +1,5 @@
+Oppressive Rays {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block unless its controller pays {3}.
+Activated abilities of enchanted creature cost {3} more to activate.

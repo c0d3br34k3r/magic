@@ -1,0 +1,4 @@
+Akron Legionnaire {6}{W}{W}
+Creature — Giant Soldier
+Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.
+8/4

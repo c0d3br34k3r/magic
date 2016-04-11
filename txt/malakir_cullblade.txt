@@ -1,0 +1,4 @@
+Malakir Cullblade {1}{B}
+Creature — Vampire Warrior
+Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade.
+1/1

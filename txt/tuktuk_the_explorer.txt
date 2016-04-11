@@ -1,0 +1,5 @@
+Tuktuk the Explorer {2}{R}
+Legendary Creature — Goblin
+Haste
+When Tuktuk the Explorer dies, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.
+1/1

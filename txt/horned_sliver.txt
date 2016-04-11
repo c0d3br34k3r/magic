@@ -1,0 +1,4 @@
+Horned Sliver {2}{G}
+Creature — Sliver
+All Sliver creatures have trample.
+2/2

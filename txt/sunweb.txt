@@ -1,0 +1,6 @@
+Sunweb {3}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Flying
+Sunweb can't block creatures with power 2 or less.
+5/6

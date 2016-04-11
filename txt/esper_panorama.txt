@@ -1,0 +1,4 @@
+Esper Panorama
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.

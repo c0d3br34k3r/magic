@@ -1,0 +1,4 @@
+Samite Elder {2}{W}
+Creature — Human Cleric
+{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.
+1/2

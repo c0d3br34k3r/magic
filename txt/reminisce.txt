@@ -1,0 +1,3 @@
+Reminisce {2}{U}
+Sorcery
+Target player shuffles his or her graveyard into his or her library.

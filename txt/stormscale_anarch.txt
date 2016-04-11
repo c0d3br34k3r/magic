@@ -1,0 +1,4 @@
+Stormscale Anarch {2}{R}{R}
+Creature — Viashino Shaman
+{2}{R}, Discard a card at random: Stormscale Anarch deals 2 damage to target creature or player. If the discarded card was multicolored, Stormscale Anarch deals 4 damage to that creature or player instead.
+2/2

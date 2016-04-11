@@ -1,0 +1,3 @@
+Mass Calcify {5}{W}{W}
+Sorcery
+Destroy all nonwhite creatures.

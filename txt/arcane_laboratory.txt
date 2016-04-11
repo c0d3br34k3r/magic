@@ -1,0 +1,3 @@
+Arcane Laboratory {2}{U}
+Enchantment
+Each player can't cast more than one spell each turn.

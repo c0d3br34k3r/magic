@@ -1,0 +1,5 @@
+Ur-Drago {3}{U}{U}{B}{B}
+Legendary Creature — Elemental
+First strike
+Creatures with swampwalk can be blocked as though they didn't have swampwalk.
+4/4

@@ -1,0 +1,6 @@
+Shaman of the Great Hunt {3}{R}
+Creature — Orc Shaman
+Haste
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.
+Ferocious — {2}{G/U}{G/U}: Draw a card for each creature you control with power 4 or greater.
+4/2

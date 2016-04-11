@@ -1,0 +1,5 @@
+Kirtar's Desire {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack.
+Threshold — Enchanted creature can't block as long as seven or more cards are in your graveyard.

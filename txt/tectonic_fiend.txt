@@ -1,0 +1,5 @@
+Tectonic Fiend {4}{R}{R}
+Creature — Elemental
+Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Tectonic Fiend attacks each turn if able.
+7/7

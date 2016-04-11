@@ -1,0 +1,4 @@
+Chieftain en-Dal {1}{W}{W}
+Creature — Human Knight
+Whenever Chieftain en-Dal attacks, attacking creatures gain first strike until end of turn.
+2/2

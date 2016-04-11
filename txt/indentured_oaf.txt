@@ -1,0 +1,4 @@
+Indentured Oaf {3}{R}
+Creature — Ogre Warrior
+Prevent all damage that Indentured Oaf would deal to red creatures.
+4/3

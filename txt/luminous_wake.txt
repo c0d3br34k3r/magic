@@ -1,0 +1,4 @@
+Luminous Wake {2}{W}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature attacks or blocks, you gain 4 life.

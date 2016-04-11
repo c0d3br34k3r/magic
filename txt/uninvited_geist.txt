@@ -1,0 +1,10 @@
+Uninvited Geist {2}{U}
+Creature — Spirit
+Skulk (This creature can't be blocked by creatures with greater power.)
+When Uninvited Geist deals combat damage to a player, transform it.
+2/2
+* DOUBLE-FACED *
+Unimpeded Trespasser
+Creature — Spirit
+Unimpeded Trespasser can't be blocked.
+3/3

@@ -1,0 +1,4 @@
+Bile Urchin {B}
+Creature — Spirit
+Sacrifice Bile Urchin: Target player loses 1 life.
+1/1

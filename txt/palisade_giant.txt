@@ -1,0 +1,4 @@
+Palisade Giant {4}{W}{W}
+Creature — Giant Soldier
+All damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead.
+2/7

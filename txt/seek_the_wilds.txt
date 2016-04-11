@@ -1,0 +1,3 @@
+Seek the Wilds {1}{G}
+Sorcery
+Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.

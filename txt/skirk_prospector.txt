@@ -1,0 +1,4 @@
+Skirk Prospector {R}
+Creature — Goblin
+Sacrifice a Goblin: Add {R} to your mana pool.
+1/1

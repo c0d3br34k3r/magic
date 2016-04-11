@@ -1,0 +1,4 @@
+Shu Grain Caravan {2}{W}
+Creature — Human Soldier
+When Shu Grain Caravan enters the battlefield, you gain 2 life.
+2/2

@@ -1,0 +1,3 @@
+Tranquility {2}{G}
+Sorcery
+Destroy all enchantments.

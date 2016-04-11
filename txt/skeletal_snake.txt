@@ -1,0 +1,3 @@
+Skeletal Snake {1}{B}
+Creature — Snake Skeleton
+2/1

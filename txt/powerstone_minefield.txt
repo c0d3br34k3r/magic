@@ -1,0 +1,3 @@
+Powerstone Minefield {2}{W}{R}
+Enchantment
+Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.

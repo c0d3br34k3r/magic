@@ -1,0 +1,4 @@
+Thousand-legged Kami {6}{G}{G}
+Creature — Spirit
+Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)
+6/6

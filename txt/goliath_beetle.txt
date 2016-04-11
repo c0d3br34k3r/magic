@@ -1,0 +1,4 @@
+Goliath Beetle {2}{G}
+Creature — Insect
+Trample
+3/1

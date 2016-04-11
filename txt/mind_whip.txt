@@ -1,0 +1,4 @@
+Mind Whip {2}{B}{B}
+Enchantment — Aura
+Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, that player may pay {3}. If he or she doesn't, Mind Whip deals 2 damage to that player and you tap that creature.

@@ -1,0 +1,4 @@
+Lady Sun {1}{U}{U}
+Legendary Creature — Human Advisor
+{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+1/1

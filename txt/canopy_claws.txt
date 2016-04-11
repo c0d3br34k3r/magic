@@ -1,0 +1,4 @@
+Canopy Claws {G}
+Instant
+Target creature loses flying until end of turn.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

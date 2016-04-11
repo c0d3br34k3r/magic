@@ -1,0 +1,5 @@
+Choking Tethers {3}{U}
+Instant
+Tap up to four target creatures.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle Choking Tethers, you may tap target creature.

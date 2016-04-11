@@ -1,0 +1,5 @@
+Carnassid {4}{G}{G}
+Creature — Beast
+Trample
+{1}{G}: Regenerate Carnassid.
+5/4

@@ -1,0 +1,5 @@
+Contaminated Ground {1}{B}
+Enchantment — Aura
+Enchant land
+Enchanted land is a Swamp.
+Whenever enchanted land becomes tapped, its controller loses 2 life.

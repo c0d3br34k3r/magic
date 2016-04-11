@@ -1,0 +1,4 @@
+Barkhide Mauler {4}{G}
+Creature — Beast
+Cycling {2} ({2}, Discard this card: Draw a card.)
+4/4

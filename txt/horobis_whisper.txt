@@ -1,0 +1,4 @@
+Horobi's Whisper {1}{B}{B}
+Instant — Arcane
+If you control a Swamp, destroy target nonblack creature.
+Splice onto Arcane—Exile four cards from your graveyard. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)

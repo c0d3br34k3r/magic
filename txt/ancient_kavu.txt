@@ -1,0 +1,4 @@
+Ancient Kavu {3}{R}
+Creature — Kavu
+{2}: Ancient Kavu becomes colorless until end of turn.
+3/3

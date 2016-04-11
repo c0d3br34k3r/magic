@@ -1,0 +1,4 @@
+Petra Sphinx {2}{W}{W}{W}
+Creature — Sphinx
+{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.
+3/4

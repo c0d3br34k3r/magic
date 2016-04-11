@@ -1,0 +1,5 @@
+Flailing Soldier {R}
+Creature — Human Soldier
+{1}: Flailing Soldier gets +1/+1 until end of turn. Any player may activate this ability.
+{1}: Flailing Soldier gets -1/-1 until end of turn. Any player may activate this ability.
+2/2

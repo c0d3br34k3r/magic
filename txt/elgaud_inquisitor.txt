@@ -1,0 +1,5 @@
+Elgaud Inquisitor {3}{W}
+Creature — Human Cleric
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+2/2

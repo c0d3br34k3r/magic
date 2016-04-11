@@ -1,0 +1,3 @@
+Mire's Toll {B}
+Sorcery
+Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.

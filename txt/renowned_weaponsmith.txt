@@ -1,0 +1,5 @@
+Renowned Weaponsmith {1}{U}
+Creature — Human Artificer
+{T}: Add {C}{C} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.
+1/3

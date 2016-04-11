@@ -1,0 +1,6 @@
+Llanowar Elite {G}
+Creature — Elf
+Kicker {8} (You may pay an additional {8} as you cast this spell.)
+Trample
+If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters on it.
+1/1

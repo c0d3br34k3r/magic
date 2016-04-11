@@ -1,0 +1,5 @@
+Flamestick Courier {2}{R}
+Creature — Goblin
+You may choose not to untap Flamestick Courier during your untap step.
+{2}{R}, {T}: Target Goblin creature gets +2/+2 and has haste for as long as Flamestick Courier remains tapped.
+2/1

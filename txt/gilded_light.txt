@@ -1,0 +1,4 @@
+Gilded Light {1}{W}
+Instant
+You gain shroud until end of turn. (You can't be the target of spells or abilities.)
+Cycling {2} ({2}, Discard this card: Draw a card.)

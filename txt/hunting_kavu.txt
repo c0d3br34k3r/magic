@@ -1,0 +1,4 @@
+Hunting Kavu {1}{R}{G}
+Creature — Kavu
+{1}{R}{G}, {T}: Exile Hunting Kavu and target creature without flying that's attacking you.
+2/3

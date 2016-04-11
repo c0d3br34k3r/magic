@@ -1,0 +1,4 @@
+Pygmy Kavu {3}{G}
+Creature — Kavu
+When Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.
+1/2

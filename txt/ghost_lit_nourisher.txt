@@ -1,0 +1,5 @@
+Ghost-Lit Nourisher {2}{G}
+Creature — Spirit
+{2}{G}, {T}: Target creature gets +2/+2 until end of turn.
+Channel — {3}{G}, Discard Ghost-Lit Nourisher: Target creature gets +4/+4 until end of turn.
+2/1

@@ -1,0 +1,4 @@
+Shield Mate {W}
+Creature — Human Soldier
+Sacrifice Shield Mate: Target creature gets +0/+4 until end of turn.
+1/1

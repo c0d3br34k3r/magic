@@ -1,0 +1,4 @@
+Phyrexian Furnace {1}
+Artifact
+{T}: Exile the bottom card of target player's graveyard.
+{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.

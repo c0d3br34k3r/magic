@@ -1,0 +1,4 @@
+Conjurer's Ban {W}{B}
+Sorcery
+Name a card. Until your next turn, the named card can't be played.
+Draw a card.

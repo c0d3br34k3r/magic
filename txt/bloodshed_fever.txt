@@ -1,0 +1,4 @@
+Bloodshed Fever {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature attacks each turn if able.

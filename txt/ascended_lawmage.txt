@@ -1,0 +1,4 @@
+Ascended Lawmage {2}{W}{U}
+Creature — Vedalken Wizard
+Flying, hexproof
+3/2

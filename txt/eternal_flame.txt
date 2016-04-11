@@ -1,0 +1,3 @@
+Eternal Flame {2}{R}{R}
+Sorcery
+Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.

@@ -1,0 +1,4 @@
+Withering Wisps {1}{B}{B}
+Enchantment
+At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.
+{B}: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.

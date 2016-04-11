@@ -1,0 +1,5 @@
+Dread Slag {3}{B}{R}
+Creature — Horror
+Trample
+Dread Slag gets -4/-4 for each card in your hand.
+9/9

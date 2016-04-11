@@ -1,0 +1,3 @@
+City of Solitude {2}{G}
+Enchantment
+Players can cast spells and activate abilities only during their own turns.

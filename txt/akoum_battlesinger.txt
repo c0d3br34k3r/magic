@@ -1,0 +1,5 @@
+Akoum Battlesinger {1}{R}
+Creature — Human Berserker Ally
+Haste
+Whenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.
+1/1

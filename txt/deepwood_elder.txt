@@ -1,0 +1,4 @@
+Deepwood Elder {G}{G}
+Creature — Dryad Spellshaper
+{X}{G}{G}, {T}, Discard a card: X target lands become Forests until end of turn.
+2/2

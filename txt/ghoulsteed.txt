@@ -1,0 +1,4 @@
+Ghoulsteed {4}{B}
+Creature — Zombie Horse
+{2}{B}, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.
+4/4

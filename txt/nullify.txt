@@ -1,0 +1,3 @@
+Nullify {U}{U}
+Instant
+Counter target creature or Aura spell.

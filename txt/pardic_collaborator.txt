@@ -1,0 +1,5 @@
+Pardic Collaborator {3}{R}
+Creature — Human Barbarian
+First strike
+{B}: Pardic Collaborator gets +1/+1 until end of turn.
+2/2

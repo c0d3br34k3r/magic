@@ -1,0 +1,6 @@
+Cho-Manno's Blessing {W}{W}
+Enchantment — Aura
+Flash
+Enchant creature
+As Cho-Manno's Blessing enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Cho-Manno's Blessing.

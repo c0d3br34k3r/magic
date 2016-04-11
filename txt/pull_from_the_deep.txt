@@ -1,0 +1,3 @@
+Pull from the Deep {2}{U}{U}
+Sorcery
+Return up to one target instant card and up to one target sorcery card from your graveyard to your hand. Exile Pull from the Deep.

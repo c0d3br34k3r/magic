@@ -1,0 +1,4 @@
+Ink Dissolver {1}{U}
+Creature — Merfolk Wizard
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Ink Dissolver, you may reveal it. If you do, each opponent puts the top three cards of his or her library into his or her graveyard.
+2/1

@@ -1,0 +1,3 @@
+Tempt with Glory {5}{W}
+Sorcery
+Tempting offer — Put a +1/+1 counter on each creature you control. Each opponent may put a +1/+1 counter on each creature he or she controls. For each opponent who does, put a +1/+1 counter on each creature you control.

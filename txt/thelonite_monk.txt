@@ -1,0 +1,4 @@
+Thelonite Monk {2}{G}{G}
+Creature — Insect Monk Cleric
+{T}, Sacrifice a green creature: Target land becomes a Forest. (This effect lasts indefinitely.)
+1/2

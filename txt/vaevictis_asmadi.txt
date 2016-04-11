@@ -1,0 +1,8 @@
+Vaevictis Asmadi {2}{B}{B}{R}{R}{G}{G}
+Legendary Creature — Elder Dragon
+Flying
+At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.
+{B}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{R}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{G}: Vaevictis Asmadi gets +1/+0 until end of turn.
+7/7

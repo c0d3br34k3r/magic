@@ -1,0 +1,4 @@
+Akroan Mastiff {3}{W}
+Creature — Hound
+{W}, {T}: Tap target creature.
+2/2

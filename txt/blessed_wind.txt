@@ -1,0 +1,3 @@
+Blessed Wind {7}{W}{W}
+Sorcery
+Target player's life total becomes 20.

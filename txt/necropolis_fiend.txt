@@ -1,0 +1,6 @@
+Necropolis Fiend {7}{B}{B}
+Creature — Demon
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Flying
+{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.
+4/5

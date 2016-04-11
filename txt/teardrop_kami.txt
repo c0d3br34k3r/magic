@@ -1,0 +1,4 @@
+Teardrop Kami {U}
+Creature — Spirit
+Sacrifice Teardrop Kami: You may tap or untap target creature.
+1/1

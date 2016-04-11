@@ -1,0 +1,4 @@
+Martyr of Bones {B}
+Creature — Human Wizard
+{1}, Reveal X black cards from your hand, Sacrifice Martyr of Bones: Exile up to X target cards from a single graveyard.
+1/1

@@ -1,0 +1,6 @@
+Stir the Pride {4}{W}
+Instant
+Choose one —
+• Creatures you control get +2/+2 until end of turn.
+• Until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."
+Entwine {1}{W} (Choose both if you pay the entwine cost.)

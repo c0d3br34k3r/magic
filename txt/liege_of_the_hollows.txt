@@ -1,0 +1,4 @@
+Liege of the Hollows {2}{G}{G}
+Creature — Spirit
+When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+3/4

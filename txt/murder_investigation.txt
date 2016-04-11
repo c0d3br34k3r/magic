@@ -1,0 +1,4 @@
+Murder Investigation {1}{W}
+Enchantment — Aura
+Enchant creature you control
+When enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.

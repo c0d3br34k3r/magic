@@ -1,0 +1,5 @@
+Forgestoker Dragon {4}{R}{R}
+Creature — Dragon
+Flying
+{1}{R}: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.
+5/4

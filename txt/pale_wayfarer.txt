@@ -1,0 +1,4 @@
+Pale Wayfarer {5}{W}{W}
+Creature — Spirit Giant
+{2}{W}{W}, {Q}: Target creature gains protection from the color of its controller's choice until end of turn. ({Q} is the untap symbol.)
+4/4

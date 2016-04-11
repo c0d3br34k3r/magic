@@ -1,0 +1,4 @@
+Overgrown Tomb
+Land — Swamp Forest
+({T}: Add {B} or {G} to your mana pool.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.

@@ -1,0 +1,5 @@
+Patriarch's Desire {3}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/-2.
+Threshold — Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.

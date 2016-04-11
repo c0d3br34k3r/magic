@@ -1,0 +1,4 @@
+Malakir Soothsayer {4}{B}
+Creature — Vampire Shaman Ally
+Cohort — {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.
+4/4

@@ -1,0 +1,4 @@
+Vow of Duty {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.

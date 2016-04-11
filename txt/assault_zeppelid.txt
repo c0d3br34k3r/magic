@@ -1,0 +1,4 @@
+Assault Zeppelid {2}{U}{G}
+Creature — Beast
+Flying, trample
+3/3

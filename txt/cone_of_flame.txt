@@ -1,0 +1,3 @@
+Cone of Flame {3}{R}{R}
+Sorcery
+Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.

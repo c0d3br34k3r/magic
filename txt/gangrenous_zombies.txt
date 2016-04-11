@@ -1,0 +1,4 @@
+Gangrenous Zombies {1}{B}{B}
+Creature — Zombie
+{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.
+2/2

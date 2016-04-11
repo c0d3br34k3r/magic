@@ -1,0 +1,3 @@
+Virtue's Ruin {2}{B}
+Sorcery
+Destroy all white creatures.

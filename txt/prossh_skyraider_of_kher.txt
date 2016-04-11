@@ -1,0 +1,6 @@
+Prossh, Skyraider of Kher {3}{B}{R}{G}
+Legendary Creature — Dragon
+Flying
+When you cast Prossh, Skyraider of Kher, put X 0/1 red Kobold creature tokens named Kobolds of Kher Keep onto the battlefield, where X is the amount of mana spent to cast Prossh.
+Sacrifice another creature: Prossh gets +1/+0 until end of turn.
+5/5

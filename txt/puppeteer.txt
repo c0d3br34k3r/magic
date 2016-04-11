@@ -1,0 +1,4 @@
+Puppeteer {2}{U}
+Creature — Human Wizard
+{U}, {T}: You may tap or untap target creature.
+1/2

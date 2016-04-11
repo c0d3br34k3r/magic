@@ -1,0 +1,4 @@
+Phyrexian Monitor {3}{B}
+Creature — Skeleton
+{B}: Regenerate Phyrexian Monitor.
+2/2

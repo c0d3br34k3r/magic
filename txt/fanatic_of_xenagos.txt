@@ -1,0 +1,6 @@
+Fanatic of Xenagos {1}{R}{G}
+Creature — Centaur Warrior
+Trample
+Tribute 1 (As this creature enters the battlefield, an opponent of your choice may place a +1/+1 counter on it.)
+When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn.
+3/3

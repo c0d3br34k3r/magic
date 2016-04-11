@@ -1,0 +1,4 @@
+Griffin Rider {1}{W}
+Creature — Human Knight
+As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.
+1/1

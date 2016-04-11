@@ -1,0 +1,4 @@
+Patchwork Gnomes {3}
+Artifact Creature — Gnome
+Discard a card: Regenerate Patchwork Gnomes.
+2/1

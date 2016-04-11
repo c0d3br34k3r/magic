@@ -1,0 +1,5 @@
+Tattered Drake {4}{U}
+Creature — Zombie Drake
+Flying
+{B}: Regenerate Tattered Drake.
+2/2

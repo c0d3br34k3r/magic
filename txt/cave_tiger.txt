@@ -1,0 +1,4 @@
+Cave Tiger {2}{G}
+Creature — Cat
+Whenever Cave Tiger becomes blocked by a creature, Cave Tiger gets +1/+1 until end of turn.
+2/2

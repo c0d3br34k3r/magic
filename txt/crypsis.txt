@@ -1,0 +1,3 @@
+Crypsis {1}{U}
+Instant
+Target creature you control gains protection from creatures your opponents control until end of turn. Untap it.

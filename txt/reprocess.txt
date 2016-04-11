@@ -1,0 +1,3 @@
+Reprocess {2}{B}{B}
+Sorcery
+Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way.

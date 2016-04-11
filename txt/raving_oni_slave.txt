@@ -1,0 +1,4 @@
+Raving Oni-Slave {1}{B}
+Creature — Ogre Warrior
+When Raving Oni-Slave enters the battlefield or leaves the battlefield, you lose 3 life if you don't control a Demon.
+3/3

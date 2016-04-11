@@ -1,0 +1,4 @@
+Azami, Lady of Scrolls {2}{U}{U}{U}
+Legendary Creature — Human Wizard
+Tap an untapped Wizard you control: Draw a card.
+0/2

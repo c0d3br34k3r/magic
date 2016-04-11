@@ -1,0 +1,3 @@
+Squeeze {3}{U}
+Enchantment
+Sorcery spells cost {3} more to cast.

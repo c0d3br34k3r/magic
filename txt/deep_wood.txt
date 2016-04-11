@@ -1,0 +1,4 @@
+Deep Wood {1}{G}
+Instant
+Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.
+Prevent all damage that would be dealt to you this turn by attacking creatures.

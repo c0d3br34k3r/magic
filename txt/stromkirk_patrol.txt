@@ -1,0 +1,4 @@
+Stromkirk Patrol {4}{B}
+Creature — Vampire Soldier
+Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.
+4/3

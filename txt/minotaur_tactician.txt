@@ -1,0 +1,6 @@
+Minotaur Tactician {3}{R}
+Creature — Minotaur
+Haste
+Minotaur Tactician gets +1/+1 as long as you control a white creature.
+Minotaur Tactician gets +1/+1 as long as you control a blue creature.
+1/1

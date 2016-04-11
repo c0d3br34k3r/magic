@@ -1,0 +1,3 @@
+Darksteel Forge {9}
+Artifact
+Artifacts you control have indestructible. (Effects that say "destroy" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)

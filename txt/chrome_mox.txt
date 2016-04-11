@@ -1,0 +1,4 @@
+Chrome Mox {0}
+Artifact
+Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.
+{T}: Add one mana of any of the exiled card's colors to your mana pool.

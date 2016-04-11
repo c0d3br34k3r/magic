@@ -1,0 +1,5 @@
+Outpost Siege {3}{R}
+Enchantment
+As Outpost Siege enters the battlefield, choose Khans or Dragons.
+• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.
+• Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player.

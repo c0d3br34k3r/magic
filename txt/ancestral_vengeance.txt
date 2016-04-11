@@ -1,0 +1,5 @@
+Ancestral Vengeance {B}{B}
+Enchantment — Aura
+Enchant creature
+When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.
+Enchanted creature gets -1/-1.

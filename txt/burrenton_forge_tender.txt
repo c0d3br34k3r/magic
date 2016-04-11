@@ -1,0 +1,5 @@
+Burrenton Forge-Tender {W}
+Creature — Kithkin Wizard
+Protection from red
+Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.
+1/1

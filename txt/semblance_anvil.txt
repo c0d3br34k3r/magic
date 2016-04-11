@@ -1,0 +1,4 @@
+Semblance Anvil {3}
+Artifact
+Imprint — When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand.
+Spells you cast that share a card type with the exiled card cost {2} less to cast.

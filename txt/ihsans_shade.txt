@@ -1,0 +1,4 @@
+Ihsan's Shade {3}{B}{B}{B}
+Legendary Creature — Shade Knight
+Protection from white
+5/5

@@ -1,0 +1,4 @@
+Knotvine Mystic {W}{R}{G}
+Creature — Elf Druid
+{1}, {T}: Add {R}{G}{W} to your mana pool.
+2/2

@@ -1,0 +1,6 @@
+Misery Charm {B}
+Instant
+Choose one —
+• Destroy target Cleric.
+• Return target Cleric card from your graveyard to your hand.
+• Target player loses 2 life.

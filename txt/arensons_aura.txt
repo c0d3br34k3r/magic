@@ -1,0 +1,4 @@
+Arenson's Aura {2}{W}
+Enchantment
+{W}, Sacrifice an enchantment: Destroy target enchantment.
+{3}{U}{U}: Counter target enchantment spell.

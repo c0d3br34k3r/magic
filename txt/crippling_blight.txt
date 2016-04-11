@@ -1,0 +1,4 @@
+Crippling Blight {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -1/-1 and can't block.

@@ -1,0 +1,4 @@
+Coal Golem {5}
+Artifact Creature — Golem
+{3}, Sacrifice Coal Golem: Add {R}{R}{R} to your mana pool.
+3/3

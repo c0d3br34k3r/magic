@@ -1,0 +1,5 @@
+Oran-Rief, the Vastwood
+Land
+Oran-Rief, the Vastwood enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.

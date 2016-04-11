@@ -1,0 +1,3 @@
+Nettle Swine {3}{G}
+Creature — Boar
+4/3

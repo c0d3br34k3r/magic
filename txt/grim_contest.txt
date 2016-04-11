@@ -1,0 +1,3 @@
+Grim Contest {1}{B}{G}
+Instant
+Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.

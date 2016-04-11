@@ -1,0 +1,4 @@
+Midvast Protector {3}{W}
+Creature — Human Wizard
+When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
+2/3

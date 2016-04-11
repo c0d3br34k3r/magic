@@ -1,0 +1,4 @@
+Temple Garden
+Land — Forest Plains
+({T}: Add {G} or {W} to your mana pool.)
+As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.

@@ -1,0 +1,6 @@
+Piracy Charm {U}
+Instant
+Choose one —
+• Target creature gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+• Target creature gets +2/-1 until end of turn.
+• Target player discards a card.

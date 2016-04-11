@@ -1,0 +1,4 @@
+Break Asunder {2}{G}{G}
+Sorcery
+Destroy target artifact or enchantment.
+Cycling {2} ({2}, Discard this card: Draw a card.)

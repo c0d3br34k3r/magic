@@ -1,0 +1,3 @@
+Titania's Song {3}{G}
+Enchantment
+Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.

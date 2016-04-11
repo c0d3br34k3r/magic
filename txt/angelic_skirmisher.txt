@@ -1,0 +1,5 @@
+Angelic Skirmisher {4}{W}{W}
+Creature — Angel
+Flying
+At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.
+4/4

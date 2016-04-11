@@ -1,0 +1,10 @@
+Lambholt Pacifist {1}{G}
+Creature — Human Shaman Werewolf
+Lambholt Pacifist can't attack unless you control a creature with power 4 or greater.
+At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.
+3/3
+* DOUBLE-FACED *
+Lambholt Butcher
+Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lambholt Butcher.
+4/4

@@ -1,0 +1,4 @@
+Dwarven Thaumaturgist {2}{R}
+Creature — Dwarf Shaman
+{T}: Switch target creature's power and toughness until end of turn.
+1/2

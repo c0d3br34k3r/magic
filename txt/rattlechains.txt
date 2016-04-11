@@ -1,0 +1,7 @@
+Rattlechains {1}{U}
+Creature — Spirit
+Flash
+Flying
+When Rattlechains enters the battlefield, target Spirit gains hexproof until end of turn.
+You may cast Spirit spells as though they had flash.
+2/1

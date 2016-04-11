@@ -1,0 +1,3 @@
+Obelisk of Grixis {3}
+Artifact
+{T}: Add {U}, {B}, or {R} to your mana pool.

@@ -1,0 +1,4 @@
+Goblin Clearcutter {3}{R}
+Creature — Goblin
+{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+3/3

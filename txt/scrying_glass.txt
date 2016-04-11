@@ -1,0 +1,3 @@
+Scrying Glass {2}
+Artifact
+{3}, {T}: Choose a number greater than 0 and a color. Target opponent reveals his or her hand. If that opponent reveals exactly the chosen number of cards of the chosen color, you draw a card.

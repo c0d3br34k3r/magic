@@ -1,0 +1,4 @@
+Corrupted Roots {B}
+Enchantment — Aura
+Enchant Forest or Plains
+Whenever enchanted land becomes tapped, its controller loses 2 life.

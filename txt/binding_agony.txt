@@ -1,0 +1,4 @@
+Binding Agony {1}{B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature's controller.

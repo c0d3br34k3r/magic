@@ -1,0 +1,5 @@
+Fettergeist {2}{U}
+Creature — Spirit
+Flying
+At the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.
+3/4

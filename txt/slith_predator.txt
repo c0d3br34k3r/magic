@@ -1,0 +1,5 @@
+Slith Predator {G}{G}
+Creature — Slith
+Trample
+Whenever Slith Predator deals combat damage to a player, put a +1/+1 counter on it.
+1/1

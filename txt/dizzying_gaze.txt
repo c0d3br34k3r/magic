@@ -1,0 +1,4 @@
+Dizzying Gaze {R}
+Enchantment — Aura
+Enchant creature you control
+{R}: Enchanted creature deals 1 damage to target creature with flying.

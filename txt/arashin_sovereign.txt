@@ -1,0 +1,5 @@
+Arashin Sovereign {5}{W}{G}
+Creature — Dragon
+Flying
+When Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.
+6/6

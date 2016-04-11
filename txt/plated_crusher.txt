@@ -1,0 +1,4 @@
+Plated Crusher {4}{G}{G}{G}
+Creature — Beast
+Trample, hexproof
+7/6

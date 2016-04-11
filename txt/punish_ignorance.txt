@@ -1,0 +1,3 @@
+Punish Ignorance {W}{U}{U}{B}
+Instant
+Counter target spell. Its controller loses 3 life and you gain 3 life.

@@ -1,0 +1,5 @@
+Raksha Golden Cub {5}{W}{W}
+Legendary Creature — Cat Soldier
+Vigilance
+As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike.
+3/4

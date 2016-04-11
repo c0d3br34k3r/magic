@@ -1,0 +1,4 @@
+Slinking Serpent {2}{U}{B}
+Creature — Serpent
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+2/3

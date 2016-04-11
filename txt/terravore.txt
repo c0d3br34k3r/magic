@@ -1,0 +1,5 @@
+Terravore {1}{G}{G}
+Creature — Lhurgoyf
+Trample
+Terravore's power and toughness are each equal to the number of land cards in all graveyards.
+*/*

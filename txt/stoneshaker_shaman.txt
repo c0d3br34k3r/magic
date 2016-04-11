@@ -1,0 +1,4 @@
+Stoneshaker Shaman {2}{R}
+Creature — Human Shaman
+At the beginning of each player's end step, that player sacrifices an untapped land.
+1/1

@@ -1,0 +1,5 @@
+Saprazzan Cove
+Land
+Saprazzan Cove enters the battlefield tapped.
+{T}: Put a storage counter on Saprazzan Cove.
+{T}, Remove any number of storage counters from Saprazzan Cove: Add {U} to your mana pool for each storage counter removed this way.

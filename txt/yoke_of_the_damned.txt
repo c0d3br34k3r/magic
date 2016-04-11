@@ -1,0 +1,4 @@
+Yoke of the Damned {1}{B}
+Enchantment — Aura
+Enchant creature
+When a creature dies, destroy enchanted creature.

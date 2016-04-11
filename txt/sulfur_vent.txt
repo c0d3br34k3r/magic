@@ -1,0 +1,5 @@
+Sulfur Vent
+Land
+Sulfur Vent enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice Sulfur Vent: Add {U}{R} to your mana pool.

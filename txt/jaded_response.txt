@@ -1,0 +1,3 @@
+Jaded Response {1}{U}
+Instant
+Counter target spell if it shares a color with a creature you control.

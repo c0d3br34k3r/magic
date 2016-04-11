@@ -1,0 +1,5 @@
+Angelic Field Marshal {2}{W}{W}
+Creature — Angel
+Flying
+Lieutenant — As long as you control your commander, Angelic Field Marshal gets +2/+2 and creatures you control have vigilance.
+3/3

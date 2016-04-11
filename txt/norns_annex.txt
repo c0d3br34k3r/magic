@@ -1,0 +1,4 @@
+Norn's Annex {3}{W/P}{W/P}
+Artifact
+({W/P} can be paid with either {W} or 2 life.)
+Creatures can't attack you or a planeswalker you control unless their controller pays {W/P} for each of those creatures.

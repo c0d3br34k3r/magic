@@ -1,0 +1,5 @@
+Flailing Ogre {2}{R}
+Creature — Ogre
+{1}: Flailing Ogre gets +1/+1 until end of turn. Any player may activate this ability.
+{1}: Flailing Ogre gets -1/-1 until end of turn. Any player may activate this ability.
+3/3

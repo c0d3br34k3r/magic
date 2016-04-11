@@ -1,0 +1,4 @@
+Act of Aggression {3}{R/P}{R/P}
+Instant
+({R/P} can be paid with either {R} or 2 life.)
+Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.

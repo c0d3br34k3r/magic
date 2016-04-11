@@ -1,0 +1,4 @@
+Sacred Foundry
+Land — Mountain Plains
+({T}: Add {R} or {W} to your mana pool.)
+As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.

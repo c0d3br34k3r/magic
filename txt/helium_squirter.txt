@@ -1,0 +1,5 @@
+Helium Squirter {4}{U}
+Creature — Beast Mutant
+Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{1}: Target creature with a +1/+1 counter on it gains flying until end of turn.
+0/0

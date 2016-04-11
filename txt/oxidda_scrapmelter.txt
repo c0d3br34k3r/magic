@@ -1,0 +1,4 @@
+Oxidda Scrapmelter {3}{R}
+Creature — Beast
+When Oxidda Scrapmelter enters the battlefield, destroy target artifact.
+3/3

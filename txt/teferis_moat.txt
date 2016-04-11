@@ -1,0 +1,4 @@
+Teferi's Moat {3}{W}{U}
+Enchantment
+As Teferi's Moat enters the battlefield, choose a color.
+Creatures of the chosen color without flying can't attack you.

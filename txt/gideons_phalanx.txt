@@ -1,0 +1,4 @@
+Gideon's Phalanx {5}{W}{W}
+Instant
+Put four 2/2 white Knight creature tokens with vigilance onto the battlefield.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn.

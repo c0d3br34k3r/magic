@@ -1,0 +1,4 @@
+Dimir Cluestone {3}
+Artifact
+{T}: Add {U} or {B} to your mana pool.
+{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.

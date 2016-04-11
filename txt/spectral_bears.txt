@@ -1,0 +1,4 @@
+Spectral Bears {1}{G}
+Creature — Bear Spirit
+Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.
+3/3

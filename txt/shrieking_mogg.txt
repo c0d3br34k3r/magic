@@ -1,0 +1,5 @@
+Shrieking Mogg {1}{R}
+Creature — Goblin
+Haste
+When Shrieking Mogg enters the battlefield, tap all other creatures.
+1/1

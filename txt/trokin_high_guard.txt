@@ -1,0 +1,3 @@
+Trokin High Guard {3}{W}
+Creature — Human Knight
+3/3

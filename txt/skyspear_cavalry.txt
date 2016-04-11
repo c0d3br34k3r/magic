@@ -1,0 +1,5 @@
+Skyspear Cavalry {3}{W}{W}
+Creature — Human Soldier
+Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+2/2

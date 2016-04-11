@@ -1,0 +1,5 @@
+Spindrift Drake {U}
+Creature — Drake
+Flying
+At the beginning of your upkeep, sacrifice Spindrift Drake unless you pay {U}.
+2/1

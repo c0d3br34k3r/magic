@@ -1,0 +1,4 @@
+Patrol Hound {1}{W}
+Creature — Hound
+Discard a card: Patrol Hound gains first strike until end of turn.
+2/2

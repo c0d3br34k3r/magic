@@ -1,0 +1,4 @@
+Mine Bearer {2}{W}
+Creature — Human Soldier
+{T}, Sacrifice Mine Bearer: Destroy target attacking creature.
+1/1

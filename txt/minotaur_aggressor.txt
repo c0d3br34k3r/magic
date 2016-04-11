@@ -1,0 +1,4 @@
+Minotaur Aggressor {6}{R}
+Creature — Minotaur Berserker
+First strike, haste
+6/2

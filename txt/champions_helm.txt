@@ -1,0 +1,5 @@
+Champion's Helm {3}
+Artifact — Equipment
+Equipped creature gets +2/+2.
+As long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)
+Equip {1}

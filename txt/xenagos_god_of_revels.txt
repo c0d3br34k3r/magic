@@ -1,0 +1,6 @@
+Xenagos, God of Revels {3}{R}{G}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to red and green is less than seven, Xenagos isn't a creature.
+At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power.
+6/5

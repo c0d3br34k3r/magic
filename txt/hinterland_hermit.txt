@@ -1,0 +1,10 @@
+Hinterland Hermit {1}{R}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.
+2/1
+* DOUBLE-FACED *
+Hinterland Scourge
+(R) Creature — Werewolf
+Hinterland Scourge must be blocked if able.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.
+3/2

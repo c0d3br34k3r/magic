@@ -1,0 +1,4 @@
+Insatiable Harpy {2}{B}{B}
+Creature — Harpy
+Flying, lifelink
+2/2

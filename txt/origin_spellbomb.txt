@@ -1,0 +1,4 @@
+Origin Spellbomb {1}
+Artifact
+{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.
+When Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.

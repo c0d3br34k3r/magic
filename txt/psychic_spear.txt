@@ -1,0 +1,3 @@
+Psychic Spear {B}
+Sorcery
+Target player reveals his or her hand. You choose a Spirit or Arcane card from it. That player discards that card.

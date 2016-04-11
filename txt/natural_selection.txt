@@ -1,0 +1,3 @@
+Natural Selection {G}
+Instant
+Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.

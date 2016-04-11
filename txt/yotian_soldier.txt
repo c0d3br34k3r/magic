@@ -1,0 +1,4 @@
+Yotian Soldier {3}
+Artifact Creature — Soldier
+Vigilance
+1/4

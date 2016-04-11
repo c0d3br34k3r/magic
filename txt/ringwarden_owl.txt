@@ -1,0 +1,5 @@
+Ringwarden Owl {3}{U}{U}
+Creature — Bird
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+3/3

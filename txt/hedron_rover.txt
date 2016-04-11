@@ -1,0 +1,4 @@
+Hedron Rover {4}
+Artifact Creature — Construct
+Landfall — Whenever a land enters the battlefield under your control, Hedron Rover gets +2/+2 until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Festering Goblin {B}
+Creature — Zombie Goblin
+When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+1/1

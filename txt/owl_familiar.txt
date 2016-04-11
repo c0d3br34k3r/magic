@@ -1,0 +1,5 @@
+Owl Familiar {1}{U}
+Creature — Bird
+Flying
+When Owl Familiar enters the battlefield, draw a card, then discard a card.
+1/1

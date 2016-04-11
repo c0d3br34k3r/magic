@@ -1,0 +1,4 @@
+Cloudcrest Lake
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {W} or {U} to your mana pool. Cloudcrest Lake doesn't untap during your next untap step.

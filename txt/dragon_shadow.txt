@@ -1,0 +1,5 @@
+Dragon Shadow {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature.

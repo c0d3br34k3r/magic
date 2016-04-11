@@ -1,0 +1,4 @@
+Chimeric Egg {3}
+Artifact
+Whenever an opponent casts a nonartifact spell, put a charge counter on Chimeric Egg.
+Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 Construct artifact creature with trample until end of turn.

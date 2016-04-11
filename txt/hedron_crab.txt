@@ -1,0 +1,4 @@
+Hedron Crab {U}
+Creature — Crab
+Landfall — Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.
+0/2

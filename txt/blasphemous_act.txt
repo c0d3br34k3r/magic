@@ -1,0 +1,4 @@
+Blasphemous Act {8}{R}
+Sorcery
+Blasphemous Act costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.

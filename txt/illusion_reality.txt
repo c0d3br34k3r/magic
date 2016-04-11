@@ -1,0 +1,7 @@
+Illusion {U}
+Instant
+Target spell or permanent becomes the color of your choice until end of turn.
+* SPLIT *
+Reality {2}{G}
+Instant
+Destroy target artifact.

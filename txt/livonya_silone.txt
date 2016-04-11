@@ -1,0 +1,4 @@
+Livonya Silone {2}{R}{R}{G}{G}
+Legendary Creature — Human Warrior
+First strike; legendary landwalk (This creature can't be blocked as long as defending player controls a legendary land.)
+4/4

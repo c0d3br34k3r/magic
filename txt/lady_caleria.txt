@@ -1,0 +1,4 @@
+Lady Caleria {3}{W}{W}{G}{G}
+Legendary Creature — Human Archer
+{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.
+3/6

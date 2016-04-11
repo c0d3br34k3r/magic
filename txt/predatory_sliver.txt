@@ -1,0 +1,4 @@
+Predatory Sliver {1}{G}
+Creature — Sliver
+Sliver creatures you control get +1/+1.
+1/1

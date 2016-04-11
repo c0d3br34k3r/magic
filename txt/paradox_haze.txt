@@ -1,0 +1,4 @@
+Paradox Haze {2}{U}
+Enchantment — Aura
+Enchant player
+At the beginning of enchanted player's first upkeep each turn, that player gets an additional upkeep step after this step.

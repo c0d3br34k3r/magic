@@ -1,0 +1,3 @@
+Skycloud Egg {1}
+Artifact
+{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U} to your mana pool. Draw a card.

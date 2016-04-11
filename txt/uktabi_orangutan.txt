@@ -1,0 +1,4 @@
+Uktabi Orangutan {2}{G}
+Creature — Ape
+When Uktabi Orangutan enters the battlefield, destroy target artifact.
+2/2

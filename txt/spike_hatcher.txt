@@ -1,0 +1,6 @@
+Spike Hatcher {6}{G}
+Creature — Spike
+Spike Hatcher enters the battlefield with six +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.
+0/0

@@ -1,0 +1,4 @@
+Urborg Stalker {3}{B}
+Creature — Horror
+At the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.
+2/4

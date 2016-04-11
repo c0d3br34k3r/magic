@@ -1,0 +1,9 @@
+Catch {1}{U}{R}
+Sorcery
+Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Release {4}{W}{R}
+Sorcery
+Each player sacrifices an artifact, a creature, an enchantment, a land, and a planeswalker.
+Fuse (You may cast one or both halves of this card from your hand.)

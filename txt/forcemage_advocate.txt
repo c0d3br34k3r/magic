@@ -1,0 +1,4 @@
+Forcemage Advocate {1}{G}
+Creature — Centaur Shaman
+{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.
+2/1

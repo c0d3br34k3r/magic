@@ -1,0 +1,4 @@
+Opaline Sliver {1}{W}{U}
+Creature — Sliver
+All Slivers have "Whenever this permanent becomes the target of a spell an opponent controls, you may draw a card."
+2/2

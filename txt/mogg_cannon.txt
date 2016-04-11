@@ -1,0 +1,3 @@
+Mogg Cannon {2}
+Artifact
+{T}: Target creature you control gets +1/+0 and gains flying until end of turn. Destroy that creature at the beginning of the next end step.

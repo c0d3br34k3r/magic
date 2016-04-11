@@ -1,0 +1,4 @@
+Dwarven Driller {3}{R}
+Creature — Dwarf
+{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.
+2/2

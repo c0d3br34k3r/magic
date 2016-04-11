@@ -1,0 +1,5 @@
+Whispergear Sneak {1}
+Artifact Creature — Construct
+Draft Whispergear Sneak face up.
+During the draft, you may turn Whispergear Sneak face down. If you do, look at any unopened booster pack in the draft or any booster pack not being looked at by another player.
+1/1

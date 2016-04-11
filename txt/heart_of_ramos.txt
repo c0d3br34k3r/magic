@@ -1,0 +1,4 @@
+Heart of Ramos {3}
+Artifact
+{T}: Add {R} to your mana pool.
+Sacrifice Heart of Ramos: Add {R} to your mana pool.

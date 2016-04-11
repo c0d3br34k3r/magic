@@ -1,0 +1,5 @@
+Abzan Runemark {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Enchanted creature has vigilance as long as you control a black or green permanent.

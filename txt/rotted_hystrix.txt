@@ -1,0 +1,3 @@
+Rotted Hystrix {4}{G}
+Creature — Beast
+3/6

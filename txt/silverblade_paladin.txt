@@ -1,0 +1,5 @@
+Silverblade Paladin {1}{W}{W}
+Creature — Human Knight
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Silverblade Paladin is paired with another creature, both creatures have double strike.
+2/2

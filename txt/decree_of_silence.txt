@@ -1,0 +1,5 @@
+Decree of Silence {6}{U}{U}
+Enchantment
+Whenever an opponent casts a spell, counter that spell and put a depletion counter on Decree of Silence. If there are three or more depletion counters on Decree of Silence, sacrifice it.
+Cycling {4}{U}{U} ({4}{U}{U}, Discard this card: Draw a card.)
+When you cycle Decree of Silence, you may counter target spell.

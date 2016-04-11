@@ -1,0 +1,5 @@
+Cytoplast Manipulator {2}{U}{U}
+Creature — Human Wizard Mutant
+Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{U}, {T}: Gain control of target creature with a +1/+1 counter on it for as long as Cytoplast Manipulator remains on the battlefield.
+0/0

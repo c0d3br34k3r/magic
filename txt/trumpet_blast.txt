@@ -1,0 +1,3 @@
+Trumpet Blast {2}{R}
+Instant
+Attacking creatures get +2/+0 until end of turn.

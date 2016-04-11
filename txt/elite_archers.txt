@@ -1,0 +1,4 @@
+Elite Archers {5}{W}
+Creature — Human Soldier Archer
+{T}: Elite Archers deals 3 damage to target attacking or blocking creature.
+3/3

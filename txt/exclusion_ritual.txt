@@ -1,0 +1,4 @@
+Exclusion Ritual {4}{W}{W}
+Enchantment
+Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent.
+Players can't cast spells with the same name as the exiled card.

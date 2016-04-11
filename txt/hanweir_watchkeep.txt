@@ -1,0 +1,11 @@
+Hanweir Watchkeep {2}{R}
+Creature — Human Warrior Werewolf
+Defender
+At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.
+1/5
+* DOUBLE-FACED *
+Bane of Hanweir
+(R) Creature — Werewolf
+Bane of Hanweir attacks each turn if able.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.
+5/5

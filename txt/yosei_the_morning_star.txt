@@ -1,0 +1,5 @@
+Yosei, the Morning Star {4}{W}{W}
+Legendary Creature — Dragon Spirit
+Flying
+When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.
+5/5

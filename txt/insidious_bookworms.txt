@@ -1,0 +1,4 @@
+Insidious Bookworms {B}
+Creature — Worm
+When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random.
+1/1

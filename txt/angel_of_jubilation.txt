@@ -1,0 +1,6 @@
+Angel of Jubilation {1}{W}{W}{W}
+Creature — Angel
+Flying
+Other nonblack creatures you control get +1/+1.
+Players can't pay life or sacrifice creatures to cast spells or activate abilities.
+3/3

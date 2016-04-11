@@ -1,0 +1,4 @@
+Thoughtcutter Agent {U}{B}
+Artifact Creature — Human Rogue
+{U}{B}, {T}: Target player loses 1 life and reveals his or her hand.
+1/1

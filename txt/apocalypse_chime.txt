@@ -1,0 +1,3 @@
+Apocalypse Chime {2}
+Artifact
+{2}, {T}, Sacrifice Apocalypse Chime: Destroy all nontoken permanents originally printed in the Homelands expansion. They can't be regenerated.

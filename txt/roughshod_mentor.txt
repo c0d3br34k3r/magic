@@ -1,0 +1,4 @@
+Roughshod Mentor {5}{G}
+Creature — Giant Warrior
+Green creatures you control have trample.
+5/4

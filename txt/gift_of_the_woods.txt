@@ -1,0 +1,4 @@
+Gift of the Woods {G}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.

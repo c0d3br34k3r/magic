@@ -1,0 +1,5 @@
+Battered Golem {3}
+Artifact Creature — Golem
+Battered Golem doesn't untap during your untap step.
+Whenever an artifact enters the battlefield, you may untap Battered Golem.
+3/2

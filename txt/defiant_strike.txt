@@ -1,0 +1,4 @@
+Defiant Strike {W}
+Instant
+Target creature gets +1/+0 until end of turn.
+Draw a card.

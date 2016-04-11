@@ -1,0 +1,3 @@
+Quagmire {2}{B}
+Enchantment
+Creatures with swampwalk can be blocked as though they didn't have swampwalk.

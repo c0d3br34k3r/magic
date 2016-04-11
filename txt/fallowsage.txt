@@ -1,0 +1,4 @@
+Fallowsage {3}{U}
+Creature — Merfolk Wizard
+Whenever Fallowsage becomes tapped, you may draw a card.
+2/2

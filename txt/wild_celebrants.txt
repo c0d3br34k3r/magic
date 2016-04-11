@@ -1,0 +1,4 @@
+Wild Celebrants {3}{R}{R}
+Creature — Satyr
+When Wild Celebrants enters the battlefield, you may destroy target artifact.
+5/3

@@ -1,0 +1,4 @@
+Greel, Mind Raker {3}{B}{B}
+Legendary Creature — Horror Spellshaper
+{X}{B}, {T}, Discard two cards: Target player discards X cards at random.
+3/3

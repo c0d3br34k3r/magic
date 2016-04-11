@@ -1,0 +1,4 @@
+Marble Diamond {2}
+Artifact
+Marble Diamond enters the battlefield tapped.
+{T}: Add {W} to your mana pool.

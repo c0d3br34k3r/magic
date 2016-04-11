@@ -1,0 +1,6 @@
+Metathran Transport {1}{U}{U}
+Creature — Metathran
+Flying
+Metathran Transport can't be blocked by blue creatures.
+{U}: Target creature becomes blue until end of turn.
+1/3

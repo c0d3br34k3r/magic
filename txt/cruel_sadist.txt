@@ -1,0 +1,5 @@
+Cruel Sadist {B}
+Creature — Human Assassin
+{B}, {T}, Pay 1 life: Put a +1/+1 counter on Cruel Sadist.
+{2}{B}, {T}, Remove X +1/+1 counters from Cruel Sadist: Cruel Sadist deals X damage to target creature.
+1/1

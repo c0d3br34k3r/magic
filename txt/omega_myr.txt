@@ -1,0 +1,3 @@
+Omega Myr {2}
+Artifact Creature — Myr
+1/2

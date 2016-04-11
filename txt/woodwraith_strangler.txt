@@ -1,0 +1,4 @@
+Woodwraith Strangler {2}{B}{G}
+Creature — Plant Zombie
+Exile a creature card from your graveyard: Regenerate Woodwraith Strangler.
+2/2

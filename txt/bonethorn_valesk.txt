@@ -1,0 +1,4 @@
+Bonethorn Valesk {4}{R}
+Creature — Beast
+Whenever a permanent is turned face up, Bonethorn Valesk deals 1 damage to target creature or player.
+4/2

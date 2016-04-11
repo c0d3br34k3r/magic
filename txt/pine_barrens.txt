@@ -1,0 +1,5 @@
+Pine Barrens
+Land
+Pine Barrens enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{T}: Add {B} or {G} to your mana pool. Pine Barrens deals 1 damage to you.

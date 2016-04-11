@@ -1,0 +1,5 @@
+Primoc Escapee {6}{U}
+Creature — Bird Beast
+Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)
+4/4

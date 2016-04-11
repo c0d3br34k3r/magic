@@ -1,0 +1,4 @@
+Jinxed Idol {2}
+Artifact
+At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.
+Sacrifice a creature: Target opponent gains control of Jinxed Idol.

@@ -1,0 +1,5 @@
+Sandstone Warrior {2}{R}{R}
+Creature — Human Soldier Warrior
+First strike (This creature deals combat damage before creatures without first strike.)
+{R}: Sandstone Warrior gets +1/+0 until end of turn.
+1/3

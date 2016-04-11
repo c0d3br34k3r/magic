@@ -1,0 +1,4 @@
+Hasran Ogress {B}{B}
+Creature — Ogre
+Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+3/2

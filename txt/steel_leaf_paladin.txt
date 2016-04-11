@@ -1,0 +1,5 @@
+Steel Leaf Paladin {4}{W}{G}
+Creature — Elf Knight
+First strike
+When Steel Leaf Paladin enters the battlefield, return a green or white creature you control to its owner's hand.
+4/4

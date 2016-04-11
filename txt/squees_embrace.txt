@@ -1,0 +1,5 @@
+Squee's Embrace {W}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return that card to its owner's hand.

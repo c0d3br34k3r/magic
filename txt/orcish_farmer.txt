@@ -1,0 +1,4 @@
+Orcish Farmer {1}{R}{R}
+Creature — Orc
+{T}: Target land becomes a Swamp until its controller's next untap step.
+2/2

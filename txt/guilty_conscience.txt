@@ -1,0 +1,4 @@
+Guilty Conscience {W}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature deals damage, Guilty Conscience deals that much damage to that creature.

@@ -1,0 +1,5 @@
+Keeper of the Nine Gales {2}{U}
+Creature — Bird Wizard
+Flying
+{T}, Tap two untapped Birds you control: Return target permanent to its owner's hand.
+1/2

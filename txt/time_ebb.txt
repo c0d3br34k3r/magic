@@ -1,0 +1,3 @@
+Time Ebb {2}{U}
+Sorcery
+Put target creature on top of its owner's library.

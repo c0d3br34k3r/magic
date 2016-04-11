@@ -1,0 +1,4 @@
+Goblin Diplomats {1}{R}
+Creature — Goblin
+{T}: Each creature attacks this turn if able.
+2/1

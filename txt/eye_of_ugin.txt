@@ -1,0 +1,4 @@
+Eye of Ugin
+Legendary Land
+Colorless Eldrazi spells you cast cost {2} less to cast.
+{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.

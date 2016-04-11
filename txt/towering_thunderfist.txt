@@ -1,0 +1,4 @@
+Towering Thunderfist {4}{R}
+Creature — Giant Soldier
+{W}: Towering Thunderfist gains vigilance until end of turn.
+4/4

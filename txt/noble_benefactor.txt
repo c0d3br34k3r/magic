@@ -1,0 +1,4 @@
+Noble Benefactor {2}{U}
+Creature — Human Cleric
+When Noble Benefactor dies, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.
+2/2

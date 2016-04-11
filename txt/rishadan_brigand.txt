@@ -1,0 +1,6 @@
+Rishadan Brigand {4}{U}
+Creature — Human Pirate
+Flying
+When Rishadan Brigand enters the battlefield, each opponent sacrifices a permanent unless he or she pays {3}.
+Rishadan Brigand can block only creatures with flying.
+3/2

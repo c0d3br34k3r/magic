@@ -1,0 +1,6 @@
+Bomb Squad {3}{R}
+Creature — Dwarf
+{T}: Put a fuse counter on target creature.
+At the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.
+Whenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.
+1/1

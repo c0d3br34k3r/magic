@@ -1,0 +1,4 @@
+Benalish Trapper {1}{W}
+Creature — Human Soldier
+{W}, {T}: Tap target creature.
+1/2

@@ -1,0 +1,5 @@
+Immobilizing Ink {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Discard a card: Untap this creature."

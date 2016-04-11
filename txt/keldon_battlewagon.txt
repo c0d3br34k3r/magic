@@ -1,0 +1,7 @@
+Keldon Battlewagon {5}
+Artifact Creature — Juggernaut
+Trample
+Keldon Battlewagon can't block.
+When Keldon Battlewagon attacks, sacrifice it at end of combat.
+Tap an untapped creature you control: Keldon Battlewagon gets +X/+0 until end of turn, where X is the power of the creature tapped this way.
+0/3

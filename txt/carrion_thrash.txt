@@ -1,0 +1,4 @@
+Carrion Thrash {2}{B}{R}{G}
+Creature — Viashino Warrior
+When Carrion Thrash dies, you may pay {2}. If you do, return another target creature card from your graveyard to your hand.
+4/4

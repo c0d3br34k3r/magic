@@ -1,0 +1,5 @@
+Haze Frog {3}{G}{G}
+Creature — Frog
+Flash (You may cast this spell any time you could cast an instant.)
+When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.
+2/1

@@ -1,0 +1,5 @@
+Thunderbolt {1}{R}
+Instant
+Choose one —
+• Thunderbolt deals 3 damage to target player.
+• Thunderbolt deals 4 damage to target creature with flying.

@@ -1,0 +1,5 @@
+Groundbreaker {G}{G}{G}
+Creature — Elemental
+Trample, haste
+At the beginning of the end step, sacrifice Groundbreaker.
+6/1

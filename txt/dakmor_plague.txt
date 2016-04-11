@@ -1,0 +1,3 @@
+Dakmor Plague {3}{B}{B}
+Sorcery
+Dakmor Plague deals 3 damage to each creature and each player.

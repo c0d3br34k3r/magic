@@ -1,0 +1,4 @@
+Gold Myr {2}
+Artifact Creature — Myr
+{T}: Add {W} to your mana pool.
+1/1

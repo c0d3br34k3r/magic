@@ -1,0 +1,4 @@
+Phyrexian Bloodstock {4}{B}
+Creature — Zombie
+When Phyrexian Bloodstock leaves the battlefield, destroy target white creature. It can't be regenerated.
+3/3

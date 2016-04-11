@@ -1,0 +1,4 @@
+Outrage Shaman {3}{R}{R}
+Creature — Goblin Shaman
+Chroma — When Outrage Shaman enters the battlefield, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.
+2/2

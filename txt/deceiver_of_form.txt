@@ -1,0 +1,5 @@
+Deceiver of Form {6}{C}
+Creature — Eldrazi
+({C} represents colorless mana.)
+At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.
+8/8

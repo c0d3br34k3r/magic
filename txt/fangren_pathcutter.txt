@@ -1,0 +1,4 @@
+Fangren Pathcutter {4}{G}{G}
+Creature — Beast
+Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.
+4/6

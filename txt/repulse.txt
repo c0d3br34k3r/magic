@@ -1,0 +1,4 @@
+Repulse {2}{U}
+Instant
+Return target creature to its owner's hand.
+Draw a card.

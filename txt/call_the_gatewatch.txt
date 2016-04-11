@@ -1,0 +1,3 @@
+Call the Gatewatch {2}{W}
+Sorcery
+Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.

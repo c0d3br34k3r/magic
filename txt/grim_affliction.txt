@@ -1,0 +1,3 @@
+Grim Affliction {2}{B}
+Instant
+Put a -1/-1 counter on target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)

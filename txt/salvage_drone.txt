@@ -1,0 +1,6 @@
+Salvage Drone {U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+When Salvage Drone dies, you may draw a card. If you do, discard a card.
+1/1

@@ -1,0 +1,5 @@
+Mudbrawler Cohort {1}{R}
+Creature — Goblin Warrior
+Haste
+Mudbrawler Cohort gets +1/+1 as long as you control another red creature.
+1/1

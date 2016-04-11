@@ -1,0 +1,4 @@
+Paralyzing Grasp {2}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.

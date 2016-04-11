@@ -1,0 +1,4 @@
+Endless Obedience {4}{B}{B}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Put target creature card from a graveyard onto the battlefield under your control.

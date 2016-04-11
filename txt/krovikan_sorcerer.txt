@@ -1,0 +1,5 @@
+Krovikan Sorcerer {2}{U}
+Creature — Human Wizard
+{T}, Discard a nonblack card: Draw a card.
+{T}, Discard a black card: Draw two cards, then discard one of them.
+1/1

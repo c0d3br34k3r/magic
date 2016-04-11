@@ -1,0 +1,4 @@
+Steal Artifact {2}{U}{U}
+Enchantment — Aura
+Enchant artifact
+You control enchanted artifact.

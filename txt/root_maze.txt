@@ -1,0 +1,3 @@
+Root Maze {G}
+Enchantment
+Artifacts and lands enter the battlefield tapped.

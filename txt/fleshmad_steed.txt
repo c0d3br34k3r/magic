@@ -1,0 +1,4 @@
+Fleshmad Steed {1}{B}
+Creature — Horse
+Whenever another creature dies, tap Fleshmad Steed.
+2/2

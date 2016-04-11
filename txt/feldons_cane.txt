@@ -1,0 +1,3 @@
+Feldon's Cane {1}
+Artifact
+{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.

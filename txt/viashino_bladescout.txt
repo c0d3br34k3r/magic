@@ -1,0 +1,5 @@
+Viashino Bladescout {1}{R}{R}
+Creature — Viashino Scout
+Flash (You may cast this spell any time you could cast an instant.)
+When Viashino Bladescout enters the battlefield, target creature gains first strike until end of turn.
+2/1

@@ -1,0 +1,4 @@
+Battlefield Forge
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.

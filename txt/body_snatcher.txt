@@ -1,0 +1,5 @@
+Body Snatcher {2}{B}{B}
+Creature — Minion
+When Body Snatcher enters the battlefield, exile it unless you discard a creature card.
+When Body Snatcher dies, exile Body Snatcher and return target creature card from your graveyard to the battlefield.
+2/2

@@ -1,0 +1,5 @@
+Coral Atoll
+Land
+Coral Atoll enters the battlefield tapped.
+When Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.
+{T}: Add {C}{U} to your mana pool.

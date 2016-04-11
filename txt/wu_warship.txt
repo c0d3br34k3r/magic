@@ -1,0 +1,4 @@
+Wu Warship {2}{U}
+Creature — Human Soldier
+Wu Warship can't attack unless defending player controls an Island.
+3/3

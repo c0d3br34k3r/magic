@@ -1,0 +1,4 @@
+Greenseeker {G}
+Creature — Elf Spellshaper
+{G}, {T}, Discard a card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+1/1

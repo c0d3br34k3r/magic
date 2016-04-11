@@ -1,0 +1,4 @@
+Tolarian Entrancer {1}{U}
+Creature — Human Wizard
+Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.
+1/1

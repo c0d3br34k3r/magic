@@ -1,0 +1,4 @@
+Aura of Dominion {U}{U}
+Enchantment — Aura
+Enchant creature
+{1}, Tap an untapped creature you control: Untap enchanted creature.

@@ -1,0 +1,11 @@
+Hermit of the Natterknolls {2}{G}
+Creature — Human Werewolf
+Whenever an opponent casts a spell during your turn, draw a card.
+At the beginning of each upkeep, if no spells were cast last turn, transform Hermit of the Natterknolls.
+2/3
+* DOUBLE-FACED *
+Lone Wolf of the Natterknolls
+Creature — Werewolf
+Whenever an opponent casts a spell during your turn, draw two cards.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lone Wolf of the Natterknolls.
+3/5

@@ -1,0 +1,4 @@
+Elvish Guidance {2}{G}
+Enchantment — Aura
+Enchant land
+Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool for each Elf on the battlefield (in addition to the mana the land produces).

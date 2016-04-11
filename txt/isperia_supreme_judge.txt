@@ -1,0 +1,5 @@
+Isperia, Supreme Judge {2}{W}{W}{U}{U}
+Legendary Creature — Sphinx
+Flying
+Whenever a creature attacks you or a planeswalker you control, you may draw a card.
+6/4

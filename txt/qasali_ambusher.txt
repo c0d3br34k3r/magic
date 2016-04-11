@@ -1,0 +1,5 @@
+Qasali Ambusher {1}{W}{G}
+Creature — Cat Warrior
+Reach
+If a creature is attacking you and you control a Forest and a Plains, you may cast Qasali Ambusher without paying its mana cost and as though it had flash.
+2/3

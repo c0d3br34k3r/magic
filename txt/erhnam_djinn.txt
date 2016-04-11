@@ -1,0 +1,4 @@
+Erhnam Djinn {3}{G}
+Creature — Djinn
+At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)
+4/5

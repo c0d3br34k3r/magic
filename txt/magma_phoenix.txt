@@ -1,0 +1,6 @@
+Magma Phoenix {3}{R}{R}
+Creature — Phoenix
+Flying
+When Magma Phoenix dies, it deals 3 damage to each creature and each player.
+{3}{R}{R}: Return Magma Phoenix from your graveyard to your hand.
+3/3

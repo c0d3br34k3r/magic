@@ -1,0 +1,5 @@
+Lullmage Mentor {1}{U}{U}
+Creature — Merfolk Wizard
+Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.
+Tap seven untapped Merfolk you control: Counter target spell.
+2/2

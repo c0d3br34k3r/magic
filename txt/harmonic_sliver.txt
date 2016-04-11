@@ -1,0 +1,4 @@
+Harmonic Sliver {1}{W}{G}
+Creature — Sliver
+All Slivers have "When this permanent enters the battlefield, destroy target artifact or enchantment."
+1/1

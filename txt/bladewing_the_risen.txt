@@ -1,0 +1,6 @@
+Bladewing the Risen {3}{B}{B}{R}{R}
+Legendary Creature — Zombie Dragon
+Flying
+When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.
+{B}{R}: Dragon creatures get +1/+1 until end of turn.
+4/4

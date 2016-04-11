@@ -1,0 +1,4 @@
+Reverent Silence {3}{G}
+Sorcery
+If you control a Forest, rather than pay Reverent Silence's mana cost, you may have each other player gain 6 life.
+Destroy all enchantments.

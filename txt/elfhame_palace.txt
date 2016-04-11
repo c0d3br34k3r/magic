@@ -1,0 +1,4 @@
+Elfhame Palace
+Land
+Elfhame Palace enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.

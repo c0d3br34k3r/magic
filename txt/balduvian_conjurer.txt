@@ -1,0 +1,4 @@
+Balduvian Conjurer {1}{U}
+Creature — Human Wizard
+{T}: Target snow land becomes a 2/2 creature until end of turn. It's still a land.
+0/2

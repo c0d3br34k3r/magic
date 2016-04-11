@@ -1,0 +1,5 @@
+Hokori, Dust Drinker {2}{W}{W}
+Legendary Creature — Spirit
+Lands don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player untaps a land he or she controls.
+2/2

@@ -1,0 +1,5 @@
+Wonder {3}{U}
+Creature — Incarnation
+Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.
+2/2

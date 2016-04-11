@@ -1,0 +1,4 @@
+Energizer {4}
+Artifact Creature — Juggernaut
+{2}, {T}: Put a +1/+1 counter on Energizer.
+2/2

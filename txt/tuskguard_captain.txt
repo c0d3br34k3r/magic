@@ -1,0 +1,5 @@
+Tuskguard Captain {2}{G}
+Creature — Human Warrior
+Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has trample.
+2/3

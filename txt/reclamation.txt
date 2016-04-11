@@ -1,0 +1,3 @@
+Reclamation {2}{W}{G}
+Enchantment
+Black creatures can't attack unless their controller sacrifices a land for each black creature he or she controls that's attacking. (This cost is paid as attackers are declared.)

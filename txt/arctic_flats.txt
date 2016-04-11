@@ -1,0 +1,4 @@
+Arctic Flats
+Snow Land
+Arctic Flats enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.

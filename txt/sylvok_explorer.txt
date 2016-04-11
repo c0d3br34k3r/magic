@@ -1,0 +1,4 @@
+Sylvok Explorer {1}{G}
+Creature — Human Druid
+{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+1/1

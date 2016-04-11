@@ -1,0 +1,4 @@
+Sphinx of the Steel Wind {5}{W}{U}{B}
+Artifact Creature — Sphinx
+Flying, first strike, vigilance, lifelink, protection from red and from green
+6/6

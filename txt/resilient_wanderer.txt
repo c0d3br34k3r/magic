@@ -1,0 +1,5 @@
+Resilient Wanderer {2}{W}{W}
+Creature — Human Nomad
+First strike
+Discard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.
+2/3

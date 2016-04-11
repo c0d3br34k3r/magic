@@ -1,0 +1,3 @@
+Crimson Kobolds {0}
+(R) Creature — Kobold
+0/1

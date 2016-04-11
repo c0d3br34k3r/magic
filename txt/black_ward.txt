@@ -1,0 +1,4 @@
+Black Ward {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from black. This effect doesn't remove Black Ward.

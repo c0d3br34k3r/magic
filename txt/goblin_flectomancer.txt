@@ -1,0 +1,4 @@
+Goblin Flectomancer {U}{R}{R}
+Creature — Goblin Wizard
+Sacrifice Goblin Flectomancer: You may change the targets of target instant or sorcery spell.
+2/2

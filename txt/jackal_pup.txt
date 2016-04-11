@@ -1,0 +1,4 @@
+Jackal Pup {R}
+Creature — Hound
+Whenever Jackal Pup is dealt damage, it deals that much damage to you.
+2/1

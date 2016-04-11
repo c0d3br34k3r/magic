@@ -1,0 +1,6 @@
+Order of the Stars {W}
+Creature — Human Cleric
+Defender (This creature can't attack.)
+As Order of the Stars enters the battlefield, choose a color.
+Order of the Stars has protection from the chosen color.
+0/1

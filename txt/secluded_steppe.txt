@@ -1,0 +1,5 @@
+Secluded Steppe
+Land
+Secluded Steppe enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)

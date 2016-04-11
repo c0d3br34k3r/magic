@@ -1,0 +1,5 @@
+Mnemonic Wall {4}{U}
+Creature — Wall
+Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+0/4

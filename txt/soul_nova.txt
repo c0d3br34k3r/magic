@@ -1,0 +1,3 @@
+Soul Nova {3}{W}{W}
+Instant
+Exile target attacking creature and all Equipment attached to it.

@@ -1,0 +1,5 @@
+Bloated Toad {2}{G}
+Creature — Frog
+Protection from blue
+Cycling {2} ({2}, Discard this card: Draw a card.)
+2/2

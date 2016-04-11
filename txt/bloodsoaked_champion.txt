@@ -1,0 +1,5 @@
+Bloodsoaked Champion {B}
+Creature — Human Warrior
+Bloodsoaked Champion can't block.
+Raid — {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.
+2/1

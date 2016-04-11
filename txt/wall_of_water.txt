@@ -1,0 +1,5 @@
+Wall of Water {1}{U}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+{U}: Wall of Water gets +1/+0 until end of turn.
+0/5

@@ -1,0 +1,3 @@
+Dwarven Trader {R}
+Creature — Dwarf
+1/1

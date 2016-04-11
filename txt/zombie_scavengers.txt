@@ -1,0 +1,4 @@
+Zombie Scavengers {2}{B}
+Creature — Zombie
+Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.
+3/1

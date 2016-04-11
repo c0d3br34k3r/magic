@@ -1,0 +1,4 @@
+Stonybrook Schoolmaster {2}{W}
+Creature — Merfolk Wizard
+Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token onto the battlefield.
+1/2

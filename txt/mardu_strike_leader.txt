@@ -1,0 +1,5 @@
+Mardu Strike Leader {2}{B}
+Creature — Human Warrior
+Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.
+Dash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+3/2

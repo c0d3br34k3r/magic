@@ -1,0 +1,4 @@
+Rosheen Meanderer {3}{R/G}
+Legendary Creature — Giant Shaman
+{T}: Add {C}{C}{C}{C} to your mana pool. Spend this mana only on costs that contain {X}.
+4/4

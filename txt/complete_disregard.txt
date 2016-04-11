@@ -1,0 +1,4 @@
+Complete Disregard {2}{B}
+Instant
+Devoid (This card has no color.)
+Exile target creature with power 3 or less.

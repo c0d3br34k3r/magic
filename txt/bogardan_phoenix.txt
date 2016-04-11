@@ -1,0 +1,5 @@
+Bogardan Phoenix {2}{R}{R}{R}
+Creature — Phoenix
+Flying
+When Bogardan Phoenix dies, exile it if it had a death counter on it. Otherwise, return it to the battlefield under your control and put a death counter on it.
+3/3

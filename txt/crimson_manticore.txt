@@ -1,0 +1,5 @@
+Crimson Manticore {2}{R}{R}
+Creature — Manticore
+Flying
+{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.
+2/2

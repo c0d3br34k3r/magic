@@ -1,0 +1,4 @@
+Serene Steward {1}{W}
+Creature — Human Cleric Ally
+Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature.
+2/2

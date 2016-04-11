@@ -1,0 +1,4 @@
+Ulvenwald Mysteries {2}{G}
+Enchantment
+Whenever a nontoken creature you control dies, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+Whenever you sacrifice a Clue, put a 1/1 white Human Soldier creature token onto the battlefield.

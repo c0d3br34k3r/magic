@@ -1,0 +1,5 @@
+Sylvan Messenger {3}{G}
+Creature — Elf
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.
+2/2

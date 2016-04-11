@@ -1,0 +1,3 @@
+Wei Infantry {1}{B}
+Creature — Human Soldier
+2/1

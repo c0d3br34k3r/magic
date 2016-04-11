@@ -1,0 +1,5 @@
+Ephemeron {4}{U}{U}
+Creature — Illusion
+Flying
+Discard a card: Return Ephemeron to its owner's hand.
+4/4

@@ -1,0 +1,5 @@
+Living Artifact {G}
+Enchantment — Aura
+Enchant artifact
+Whenever you're dealt damage, put that many vitality counters on Living Artifact.
+At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.

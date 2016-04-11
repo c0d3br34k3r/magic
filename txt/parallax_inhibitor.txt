@@ -1,0 +1,3 @@
+Parallax Inhibitor {2}
+Artifact
+{1}, {T}, Sacrifice Parallax Inhibitor: Put a fade counter on each permanent with fading you control.

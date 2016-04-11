@@ -1,0 +1,5 @@
+Feral Deceiver {3}{G}
+Creature — Spirit
+{1}: Look at the top card of your library.
+{2}: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.
+3/2

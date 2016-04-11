@@ -1,0 +1,3 @@
+Juntu Stakes {2}
+Artifact
+Creatures with power 1 or less don't untap during their controllers' untap steps.

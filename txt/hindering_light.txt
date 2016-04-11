@@ -1,0 +1,4 @@
+Hindering Light {W}{U}
+Instant
+Counter target spell that targets you or a permanent you control.
+Draw a card.

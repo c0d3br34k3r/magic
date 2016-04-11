@@ -1,0 +1,4 @@
+Oculus {1}{U}
+Creature — Homunculus
+When Oculus dies, you may draw a card.
+1/1

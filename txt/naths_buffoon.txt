@@ -1,0 +1,4 @@
+Nath's Buffoon {1}{B}
+Creature — Goblin Rogue
+Protection from Elves
+1/1

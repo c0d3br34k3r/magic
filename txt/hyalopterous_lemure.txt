@@ -1,0 +1,4 @@
+Hyalopterous Lemure {4}{B}
+Creature — Spirit
+{0}: Hyalopterous Lemure gets -1/-0 and gains flying until end of turn.
+4/3

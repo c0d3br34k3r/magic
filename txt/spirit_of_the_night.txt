@@ -1,0 +1,5 @@
+Spirit of the Night {6}{B}{B}{B}
+Legendary Creature — Demon Spirit
+Flying, trample, haste, protection from black
+Spirit of the Night has first strike as long as it's attacking.
+6/5

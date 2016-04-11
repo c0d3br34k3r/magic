@@ -1,0 +1,3 @@
+Pillar of Light {2}{W}
+Instant
+Exile target creature with toughness 4 or greater.

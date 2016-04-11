@@ -1,0 +1,3 @@
+Laquatus's Creativity {4}{U}
+Sorcery
+Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.

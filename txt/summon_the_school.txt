@@ -1,0 +1,4 @@
+Summon the School {3}{W}
+Tribal Sorcery — Merfolk
+Put two 1/1 blue Merfolk Wizard creature tokens onto the battlefield.
+Tap four untapped Merfolk you control: Return Summon the School from your graveyard to your hand.

@@ -1,0 +1,4 @@
+Bazaar Trader {1}{R}
+Creature — Goblin
+{T}: Target player gains control of target artifact, creature, or land you control.
+1/1

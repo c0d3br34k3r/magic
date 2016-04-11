@@ -1,0 +1,3 @@
+Biorhythm {6}{G}{G}
+Sorcery
+Each player's life total becomes the number of creatures he or she controls.

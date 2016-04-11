@@ -1,0 +1,5 @@
+Painwracker Oni {3}{B}{B}
+Creature — Demon Spirit
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, sacrifice a creature if you don't control an Ogre.
+5/4

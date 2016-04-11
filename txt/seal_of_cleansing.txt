@@ -1,0 +1,3 @@
+Seal of Cleansing {1}{W}
+Enchantment
+Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.

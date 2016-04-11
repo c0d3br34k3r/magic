@@ -1,0 +1,5 @@
+Pixie Queen {2}{G}{G}
+Creature — Faerie
+Flying
+{G}{G}{G}, {T}: Target creature gains flying until end of turn.
+1/1

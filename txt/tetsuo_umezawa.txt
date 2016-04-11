@@ -1,0 +1,5 @@
+Tetsuo Umezawa {U}{B}{R}
+Legendary Creature — Human Archer
+Tetsuo Umezawa can't be the target of Aura spells.
+{U}{B}{B}{R}, {T}: Destroy target tapped or blocking creature.
+3/3

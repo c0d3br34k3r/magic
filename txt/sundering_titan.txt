@@ -1,0 +1,4 @@
+Sundering Titan {8}
+Artifact Creature — Golem
+When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+7/10

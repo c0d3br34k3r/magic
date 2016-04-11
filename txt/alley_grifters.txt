@@ -1,0 +1,4 @@
+Alley Grifters {1}{B}{B}
+Creature — Human Mercenary
+Whenever Alley Grifters becomes blocked, defending player discards a card.
+2/2

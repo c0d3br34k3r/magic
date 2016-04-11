@@ -1,0 +1,5 @@
+Angel of Deliverance {6}{W}{W}
+Creature — Angel
+Flying
+Delirium — Whenever Angel of Deliverance deals damage, if there are four or more card types among cards in your graveyard, exile target creature an opponent controls.
+6/6

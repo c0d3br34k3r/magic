@@ -1,0 +1,6 @@
+Soul Scourge {4}{B}
+Creature — Nightmare Horror
+Flying
+When Soul Scourge enters the battlefield, target player loses 3 life.
+When Soul Scourge leaves the battlefield, that player gains 3 life.
+3/2

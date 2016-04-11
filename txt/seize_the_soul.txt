@@ -1,0 +1,5 @@
+Seize the Soul {2}{B}{B}
+Instant
+Destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.
+Haunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Seize the Soul haunts dies, destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.

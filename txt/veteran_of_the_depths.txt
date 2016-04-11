@@ -1,0 +1,4 @@
+Veteran of the Depths {3}{W}
+Creature — Merfolk Soldier
+Whenever Veteran of the Depths becomes tapped, you may put a +1/+1 counter on it.
+2/2

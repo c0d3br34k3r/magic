@@ -1,0 +1,3 @@
+Strength in Numbers {1}{G}
+Instant
+Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.

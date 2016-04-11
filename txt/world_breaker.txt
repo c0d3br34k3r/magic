@@ -1,0 +1,7 @@
+World Breaker {6}{G}
+Creature — Eldrazi
+Devoid (This card has no color.)
+When you cast World Breaker, exile target artifact, enchantment, or land.
+Reach
+{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)
+5/7

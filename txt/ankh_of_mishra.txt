@@ -1,0 +1,3 @@
+Ankh of Mishra {2}
+Artifact
+Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.

@@ -1,0 +1,3 @@
+Rend Spirit {2}{B}
+Instant
+Destroy target Spirit.

@@ -1,0 +1,5 @@
+Gorilla Berserkers {3}{G}{G}
+Creature — Ape Berserker
+Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Gorilla Berserkers can't be blocked except by three or more creatures.
+2/3

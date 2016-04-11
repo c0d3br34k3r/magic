@@ -1,0 +1,5 @@
+Parasitic Strix {2}{U}
+Artifact Creature — Bird
+Flying
+When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.
+2/2

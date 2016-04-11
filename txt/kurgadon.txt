@@ -1,0 +1,4 @@
+Kurgadon {4}{G}
+Creature — Beast
+Whenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon.
+3/3

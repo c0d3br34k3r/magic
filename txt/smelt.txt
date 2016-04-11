@@ -1,0 +1,3 @@
+Smelt {R}
+Instant
+Destroy target artifact.

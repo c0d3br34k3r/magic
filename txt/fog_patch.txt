@@ -1,0 +1,4 @@
+Fog Patch {1}{G}
+Instant
+Cast Fog Patch only during the declare blockers step.
+Attacking creatures become blocked. (This spell works on creatures that can't be blocked.)

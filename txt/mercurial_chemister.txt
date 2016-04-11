@@ -1,0 +1,5 @@
+Mercurial Chemister {3}{U}{R}
+Creature — Human Wizard
+{U}, {T}: Draw two cards.
+{R}, {T}, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
+2/3

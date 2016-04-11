@@ -1,0 +1,4 @@
+Heavy Infantry {4}{W}
+Creature — Human Soldier
+When Heavy Infantry enters the battlefield, tap target creature an opponent controls.
+3/4

@@ -1,0 +1,6 @@
+Sangromancer {2}{B}{B}
+Creature — Vampire Shaman
+Flying
+Whenever a creature an opponent controls dies, you may gain 3 life.
+Whenever an opponent discards a card, you may gain 3 life.
+3/3

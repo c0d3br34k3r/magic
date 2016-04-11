@@ -1,0 +1,3 @@
+Hoodwink {1}{U}
+Instant
+Return target artifact, enchantment, or land to its owner's hand.

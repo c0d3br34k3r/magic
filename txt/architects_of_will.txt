@@ -1,0 +1,5 @@
+Architects of Will {2}{U}{B}
+Artifact Creature — Human Wizard
+When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.
+Cycling {U/B} ({U/B}, Discard this card: Draw a card.)
+3/3

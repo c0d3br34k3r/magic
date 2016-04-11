@@ -1,0 +1,5 @@
+Griselbrand {4}{B}{B}{B}{B}
+Legendary Creature — Demon
+Flying, lifelink
+Pay 7 life: Draw seven cards.
+7/7

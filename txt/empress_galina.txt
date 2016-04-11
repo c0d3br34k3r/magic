@@ -1,0 +1,4 @@
+Empress Galina {3}{U}{U}
+Legendary Creature — Merfolk
+{U}{U}, {T}: Gain control of target legendary permanent. (This effect lasts indefinitely.)
+1/3

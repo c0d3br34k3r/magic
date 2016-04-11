@@ -1,0 +1,4 @@
+Acorn Harvest {3}{G}
+Sorcery
+Put two 1/1 green Squirrel creature tokens onto the battlefield.
+Flashback—{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)

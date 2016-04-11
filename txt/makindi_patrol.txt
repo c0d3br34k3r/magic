@@ -1,0 +1,4 @@
+Makindi Patrol {2}{W}
+Creature — Human Knight Ally
+Rally — Whenever Makindi Patrol or another Ally enters the battlefield under your control, creatures you control gain vigilance until end of turn.
+2/3

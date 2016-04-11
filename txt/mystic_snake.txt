@@ -1,0 +1,5 @@
+Mystic Snake {1}{U}{U}{G}
+Creature — Snake
+Flash
+When Mystic Snake enters the battlefield, counter target spell.
+2/2

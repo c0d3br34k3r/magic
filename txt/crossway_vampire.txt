@@ -1,0 +1,4 @@
+Crossway Vampire {1}{R}{R}
+Creature — Vampire
+When Crossway Vampire enters the battlefield, target creature can't block this turn.
+3/2

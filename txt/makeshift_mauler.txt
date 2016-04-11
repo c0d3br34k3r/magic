@@ -1,0 +1,4 @@
+Makeshift Mauler {3}{U}
+Creature — Zombie Horror
+As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.
+4/5

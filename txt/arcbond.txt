@@ -1,0 +1,3 @@
+Arcbond {2}{R}
+Instant
+Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player.

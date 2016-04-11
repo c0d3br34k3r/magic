@@ -1,0 +1,3 @@
+Balance of Power {3}{U}{U}
+Sorcery
+If target opponent has more cards in hand than you, draw cards equal to the difference.

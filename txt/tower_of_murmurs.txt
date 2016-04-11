@@ -1,0 +1,3 @@
+Tower of Murmurs {4}
+Artifact
+{8}, {T}: Target player puts the top eight cards of his or her library into his or her graveyard.

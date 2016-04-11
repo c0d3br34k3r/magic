@@ -1,0 +1,4 @@
+Hundroog {6}{G}
+Creature — Beast
+Cycling {3} ({3}, Discard this card: Draw a card.)
+4/7

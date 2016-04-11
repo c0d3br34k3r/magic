@@ -1,0 +1,4 @@
+Reroute {1}{R}
+Instant
+Change the target of target activated ability with a single target. (Mana abilities can't be targeted.)
+Draw a card.

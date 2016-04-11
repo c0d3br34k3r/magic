@@ -1,0 +1,6 @@
+Quiet Disrepair {1}{G}
+Enchantment — Aura
+Enchant artifact or enchantment
+At the beginning of your upkeep, choose one —
+• Destroy enchanted permanent.
+• You gain 2 life.

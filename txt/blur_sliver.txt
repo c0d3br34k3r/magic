@@ -1,0 +1,4 @@
+Blur Sliver {2}{R}
+Creature — Sliver
+Sliver creatures you control have haste. (They can attack and {T} as soon as they come under your control.)
+2/2

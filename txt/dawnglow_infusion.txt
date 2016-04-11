@@ -1,0 +1,3 @@
+Dawnglow Infusion {X}{G/W}
+Sorcery
+You gain X life if {G} was spent to cast Dawnglow Infusion and X life if {W} was spent to cast it. (Do both if {G}{W} was spent.)

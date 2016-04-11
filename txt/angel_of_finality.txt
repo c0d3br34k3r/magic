@@ -1,0 +1,5 @@
+Angel of Finality {3}{W}
+Creature — Angel
+Flying
+When Angel of Finality enters the battlefield, exile all cards from target player's graveyard.
+3/4

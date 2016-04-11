@@ -1,0 +1,4 @@
+High Market
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice a creature: You gain 1 life.

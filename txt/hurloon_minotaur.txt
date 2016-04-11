@@ -1,0 +1,3 @@
+Hurloon Minotaur {1}{R}{R}
+Creature — Minotaur
+2/3

@@ -1,0 +1,6 @@
+Clockwork Beast {6}
+Artifact Creature — Beast
+Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
+At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+0/4

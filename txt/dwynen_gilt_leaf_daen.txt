@@ -1,0 +1,6 @@
+Dwynen, Gilt-Leaf Daen {2}{G}{G}
+Legendary Creature — Elf Warrior
+Reach
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.
+3/4

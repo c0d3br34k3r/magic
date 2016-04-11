@@ -1,0 +1,4 @@
+Corpsejack Menace {2}{B}{G}
+Creature — Fungus
+If one or more +1/+1 counters would be placed on a creature you control, twice that many +1/+1 counters are placed on it instead.
+4/4

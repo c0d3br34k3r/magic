@@ -1,0 +1,5 @@
+Gempalm Avenger {5}{W}
+Creature — Human Soldier
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.
+3/5

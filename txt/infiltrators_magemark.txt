@@ -1,0 +1,4 @@
+Infiltrator's Magemark {2}{U}
+Enchantment — Aura
+Enchant creature
+Creatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.

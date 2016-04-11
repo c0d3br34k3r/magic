@@ -1,0 +1,3 @@
+Mass Hysteria {R}
+Enchantment
+All creatures have haste.

@@ -1,0 +1,5 @@
+Ma Chao, Western Warrior {3}{R}{R}
+Legendary Creature — Human Soldier Warrior
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Ma Chao, Western Warrior attacks alone, it can't be blocked this combat.
+3/3

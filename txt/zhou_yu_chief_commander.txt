@@ -1,0 +1,4 @@
+Zhou Yu, Chief Commander {5}{U}{U}
+Legendary Creature — Human Soldier
+Zhou Yu, Chief Commander can't attack unless defending player controls an Island.
+8/8

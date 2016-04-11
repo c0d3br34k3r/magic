@@ -1,0 +1,3 @@
+Roar of Reclamation {5}{W}{W}
+Sorcery
+Each player returns all artifact cards from his or her graveyard to the battlefield.

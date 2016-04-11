@@ -1,0 +1,4 @@
+Barrin, Master Wizard {1}{U}{U}
+Legendary Creature — Human Wizard
+{2}, Sacrifice a permanent: Return target creature to its owner's hand.
+1/1

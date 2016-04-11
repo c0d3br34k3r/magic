@@ -1,0 +1,5 @@
+Seraph of Dawn {2}{W}{W}
+Creature — Angel
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+2/4

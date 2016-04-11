@@ -1,0 +1,5 @@
+Quick Sliver {1}{G}
+Creature — Sliver
+Flash
+Any player may play Sliver cards as though they had flash.
+1/1

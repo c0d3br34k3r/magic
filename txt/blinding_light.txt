@@ -1,0 +1,3 @@
+Blinding Light {2}{W}
+Sorcery
+Tap all nonwhite creatures.

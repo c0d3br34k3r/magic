@@ -1,0 +1,4 @@
+Commandeer {5}{U}{U}
+Instant
+You may exile two blue cards from your hand rather than pay Commandeer's mana cost.
+Gain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)

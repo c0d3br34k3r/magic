@@ -1,0 +1,3 @@
+Hero's Demise {1}{B}
+Instant
+Destroy target legendary creature.

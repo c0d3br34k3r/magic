@@ -1,0 +1,9 @@
+Cloistered Youth {1}{W}
+Creature — Human
+At the beginning of your upkeep, you may transform Cloistered Youth.
+1/1
+* DOUBLE-FACED *
+Unholy Fiend
+(B) Creature — Horror
+At the beginning of your end step, you lose 1 life.
+3/3

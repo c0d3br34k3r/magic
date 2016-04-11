@@ -1,0 +1,4 @@
+Beastmaster Ascension {2}{G}
+Enchantment
+Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.
+As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.

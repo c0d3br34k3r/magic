@@ -1,0 +1,3 @@
+Rivals' Duel {3}{R}
+Sorcery
+Choose two target creatures that share no creature types. Those creatures fight each other. (Each deals damage equal to its power to the other.)

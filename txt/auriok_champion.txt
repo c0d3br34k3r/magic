@@ -1,0 +1,5 @@
+Auriok Champion {W}{W}
+Creature — Human Cleric
+Protection from black and from red
+Whenever another creature enters the battlefield, you may gain 1 life.
+1/1

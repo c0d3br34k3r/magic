@@ -1,0 +1,4 @@
+Drainpipe Vermin {B}
+Creature — Rat
+When Drainpipe Vermin dies, you may pay {B}. If you do, target player discards a card.
+1/1

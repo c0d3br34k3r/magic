@@ -1,0 +1,6 @@
+Skitterskin {3}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Skitterskin can't block.
+{1}{B}: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.
+4/3

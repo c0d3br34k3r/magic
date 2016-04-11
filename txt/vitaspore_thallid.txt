@@ -1,0 +1,6 @@
+Vitaspore Thallid {1}{G}
+Creature — Fungus
+At the beginning of your upkeep, put a spore counter on Vitaspore Thallid.
+Remove three spore counters from Vitaspore Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Target creature gains haste until end of turn.
+1/1

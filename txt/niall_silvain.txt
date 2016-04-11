@@ -1,0 +1,4 @@
+Niall Silvain {G}{G}{G}
+Creature — Ouphe
+{G}{G}{G}{G}, {T}: Regenerate target creature.
+2/2

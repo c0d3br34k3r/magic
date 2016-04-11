@@ -1,0 +1,4 @@
+Reduce in Stature {2}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has base power and toughness 0/2.

@@ -1,0 +1,5 @@
+Boar Umbra {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

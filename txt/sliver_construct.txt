@@ -1,0 +1,3 @@
+Sliver Construct {3}
+Artifact Creature — Sliver Construct
+2/2

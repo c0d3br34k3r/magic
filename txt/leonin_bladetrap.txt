@@ -1,0 +1,4 @@
+Leonin Bladetrap {3}
+Artifact
+Flash (You may cast this spell any time you could cast an instant.)
+{2}, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 2 damage to each attacking creature without flying.

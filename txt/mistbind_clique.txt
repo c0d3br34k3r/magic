@@ -1,0 +1,7 @@
+Mistbind Clique {3}{U}
+Creature — Faerie Wizard
+Flash
+Flying
+Champion a Faerie (When this enters the battlefield, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)
+When a Faerie is championed with Mistbind Clique, tap all lands target player controls.
+4/4

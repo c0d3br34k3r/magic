@@ -1,0 +1,5 @@
+Pallimud {2}{R}
+Creature — Beast
+As Pallimud enters the battlefield, choose an opponent.
+Pallimud's power is equal to the number of tapped lands the chosen player controls.
+*/3

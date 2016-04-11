@@ -1,0 +1,4 @@
+Hindering Touch {3}{U}
+Instant
+Counter target spell unless its controller pays {2}.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)

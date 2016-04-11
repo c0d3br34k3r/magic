@@ -1,0 +1,4 @@
+Taunting Elf {G}
+Creature — Elf
+All creatures able to block Taunting Elf do so.
+0/1

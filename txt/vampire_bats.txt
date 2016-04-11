@@ -1,0 +1,5 @@
+Vampire Bats {B}
+Creature — Bat
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+0/1

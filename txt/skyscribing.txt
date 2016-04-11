@@ -1,0 +1,4 @@
+Skyscribing {X}{U}{U}
+Sorcery
+Each player draws X cards.
+Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)

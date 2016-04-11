@@ -1,0 +1,5 @@
+Shivan Hellkite {5}{R}{R}
+Creature — Dragon
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.
+5/5

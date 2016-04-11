@@ -1,0 +1,5 @@
+Lava Zombie {1}{B}{R}
+Creature — Zombie
+When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand.
+{2}: Lava Zombie gets +1/+0 until end of turn.
+4/3

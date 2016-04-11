@@ -1,0 +1,4 @@
+Fleshgrafter {2}{B}
+Creature — Human Warrior
+Discard an artifact card: Fleshgrafter gets +2/+2 until end of turn.
+2/2

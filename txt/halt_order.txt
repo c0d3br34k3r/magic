@@ -1,0 +1,4 @@
+Halt Order {2}{U}
+Instant
+Counter target artifact spell.
+Draw a card.

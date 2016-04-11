@@ -1,0 +1,3 @@
+Planeswalker's Fury {2}{R}
+Enchantment
+{3}{R}: Target opponent reveals a card at random from his or her hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.

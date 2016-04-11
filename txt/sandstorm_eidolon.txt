@@ -1,0 +1,5 @@
+Sandstorm Eidolon {3}{R}
+Creature — Spirit
+{R}, Sacrifice Sandstorm Eidolon: Target creature can't block this turn.
+Whenever you cast a multicolored spell, you may return Sandstorm Eidolon from your graveyard to your hand.
+2/2

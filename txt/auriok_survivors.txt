@@ -1,0 +1,4 @@
+Auriok Survivors {5}{W}
+Creature — Human Soldier
+When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.
+4/6

@@ -1,0 +1,4 @@
+Veteran Cavalier {W}{W}
+Creature — Human Knight
+Vigilance (Attacking doesn't cause this creature to tap.)
+2/2

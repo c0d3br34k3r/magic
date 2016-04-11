@@ -1,0 +1,4 @@
+Conclave Naturalists {4}{G}
+Creature — Dryad
+When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.
+4/4

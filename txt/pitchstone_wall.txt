@@ -1,0 +1,5 @@
+Pitchstone Wall {2}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.
+2/5

@@ -1,0 +1,4 @@
+Goblin Psychopath {3}{R}
+Creature — Goblin Mutant
+Whenever Goblin Psychopath attacks or blocks, flip a coin. If you lose the flip, the next time it would deal combat damage this turn, it deals that damage to you instead.
+5/5

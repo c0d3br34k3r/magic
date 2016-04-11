@@ -1,0 +1,3 @@
+White Sun's Zenith {X}{W}{W}{W}
+Instant
+Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.

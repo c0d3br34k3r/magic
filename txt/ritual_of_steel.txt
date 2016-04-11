@@ -1,0 +1,5 @@
+Ritual of Steel {2}{W}
+Enchantment — Aura
+Enchant creature
+When Ritual of Steel enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +0/+2.

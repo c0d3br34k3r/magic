@@ -1,0 +1,3 @@
+Sphere of Law {3}{W}
+Enchantment
+If a red source would deal damage to you, prevent 2 of that damage.

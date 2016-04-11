@@ -1,0 +1,4 @@
+Death Watch {B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, its controller loses life equal to its power and you gain life equal to its toughness.

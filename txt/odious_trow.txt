@@ -1,0 +1,4 @@
+Odious Trow {B/G}
+Creature — Troll
+{1}{B/G}: Regenerate Odious Trow.
+1/1

@@ -1,0 +1,5 @@
+Esperzoa {2}{U}
+Artifact Creature — Jellyfish
+Flying
+At the beginning of your upkeep, return an artifact you control to its owner's hand.
+4/3

@@ -1,0 +1,4 @@
+Fireslinger {1}{R}
+Creature — Human Wizard
+{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.
+1/1

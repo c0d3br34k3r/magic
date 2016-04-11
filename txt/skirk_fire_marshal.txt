@@ -1,0 +1,5 @@
+Skirk Fire Marshal {3}{R}{R}
+Creature — Goblin
+Protection from red
+Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.
+2/2

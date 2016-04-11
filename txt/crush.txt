@@ -1,0 +1,3 @@
+Crush {R}
+Instant
+Destroy target noncreature artifact.

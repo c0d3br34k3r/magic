@@ -1,0 +1,4 @@
+Hunding Gjornersen {3}{W}{U}{U}
+Legendary Creature — Human Warrior
+Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)
+5/4

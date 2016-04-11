@@ -1,0 +1,4 @@
+Ferrovore {2}{R}
+Creature — Beast
+{R}, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.
+2/2

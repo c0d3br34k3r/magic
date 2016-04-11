@@ -1,0 +1,5 @@
+Wolfir Silverheart {3}{G}{G}
+Creature — Wolf Warrior
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.
+4/4

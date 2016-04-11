@@ -1,0 +1,4 @@
+Ferocity {1}{G}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature blocks or becomes blocked, you may put a +1/+1 counter on it.

@@ -1,0 +1,3 @@
+Whims of the Fates {5}{R}
+Sorcery
+Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)

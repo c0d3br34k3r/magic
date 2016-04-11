@@ -1,0 +1,4 @@
+Synchronous Sliver {4}{U}
+Creature — Sliver
+All Sliver creatures have vigilance.
+3/3

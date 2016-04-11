@@ -1,0 +1,6 @@
+Storm Elemental {5}{U}
+Creature — Elemental
+Flying
+{U}, Exile the top card of your library: Tap target creature with flying.
+{U}, Exile the top card of your library: If the exiled card is a snow land, Storm Elemental gets +1/+1 until end of turn.
+3/4

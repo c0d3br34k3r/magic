@@ -1,0 +1,4 @@
+Teferi's Curse {1}{U}
+Enchantment — Aura
+Enchant artifact or creature
+Enchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)

@@ -1,0 +1,4 @@
+Sanitarium Skeleton {B}
+Creature — Skeleton
+{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.
+1/2

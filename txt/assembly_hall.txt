@@ -1,0 +1,3 @@
+Assembly Hall {5}
+Artifact
+{4}, {T}: Reveal a creature card in your hand. Search your library for a card with the same name as that card, reveal it, and put it into your hand. Then shuffle your library.

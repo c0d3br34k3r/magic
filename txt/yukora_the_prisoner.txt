@@ -1,0 +1,4 @@
+Yukora, the Prisoner {2}{B}{B}
+Legendary Creature — Demon Spirit
+When Yukora, the Prisoner leaves the battlefield, sacrifice all non-Ogre creatures you control.
+5/5

@@ -1,0 +1,4 @@
+Rally the Troops {W}
+Instant
+Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step.
+Untap all creatures you control.

@@ -1,0 +1,3 @@
+Gratuitous Violence {2}{R}{R}{R}
+Enchantment
+If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.

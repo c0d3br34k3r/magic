@@ -1,0 +1,3 @@
+Cumber Stone {3}{U}
+Artifact
+Creatures your opponents control get -1/-0.

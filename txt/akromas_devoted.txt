@@ -1,0 +1,4 @@
+Akroma's Devoted {3}{W}
+Creature — Human Cleric
+Cleric creatures have vigilance.
+2/4

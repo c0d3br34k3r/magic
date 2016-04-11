@@ -1,0 +1,6 @@
+Mistcutter Hydra {X}{G}
+Creature — Hydra
+Mistcutter Hydra can't be countered.
+Haste, protection from blue
+Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.
+0/0

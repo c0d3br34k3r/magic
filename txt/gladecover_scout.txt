@@ -1,0 +1,4 @@
+Gladecover Scout {G}
+Creature — Elf Scout
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+1/1

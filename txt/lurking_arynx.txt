@@ -1,0 +1,4 @@
+Lurking Arynx {4}{G}
+Creature — Cat Beast
+Formidable — {2}{G}: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.
+3/5

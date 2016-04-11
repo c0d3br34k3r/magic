@@ -1,0 +1,5 @@
+Mark of Fury {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has haste.
+At the beginning of the end step, return Mark of Fury to its owner's hand.

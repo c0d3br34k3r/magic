@@ -1,0 +1,4 @@
+Aura Blast {1}{W}
+Instant
+Destroy target enchantment.
+Draw a card.

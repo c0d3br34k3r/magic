@@ -1,0 +1,4 @@
+Invasive Species {2}{G}
+Creature — Insect
+When Invasive Species enters the battlefield, return another permanent you control to its owner's hand.
+3/3

@@ -1,0 +1,4 @@
+Manipulate Fate {1}{U}
+Sorcery
+Search your library for three cards, exile them, then shuffle your library.
+Draw a card.

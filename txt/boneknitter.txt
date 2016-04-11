@@ -1,0 +1,5 @@
+Boneknitter {1}{B}
+Creature — Zombie Cleric
+{1}{B}: Regenerate target Zombie.
+Morph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/1

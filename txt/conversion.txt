@@ -1,0 +1,4 @@
+Conversion {2}{W}{W}
+Enchantment
+At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}.
+All Mountains are Plains.

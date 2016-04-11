@@ -1,0 +1,4 @@
+Opulent Palace
+Land
+Opulent Palace enters the battlefield tapped.
+{T}: Add {B}, {G}, or {U} to your mana pool.

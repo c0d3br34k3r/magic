@@ -1,0 +1,4 @@
+High Priest of Penance {W}{B}
+Creature — Human Cleric
+Whenever High Priest of Penance is dealt damage, you may destroy target nonland permanent.
+1/1

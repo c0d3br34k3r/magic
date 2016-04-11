@@ -1,0 +1,4 @@
+Iron Tusk Elephant {4}{W}
+Creature — Elephant
+Trample
+3/3

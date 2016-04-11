@@ -1,0 +1,6 @@
+Embodiment of Fury {3}{R}
+Creature — Elemental
+Trample
+Land creatures you control have trample.
+Landfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.
+4/3

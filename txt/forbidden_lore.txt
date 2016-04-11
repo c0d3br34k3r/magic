@@ -1,0 +1,4 @@
+Forbidden Lore {2}{G}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."

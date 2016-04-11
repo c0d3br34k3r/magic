@@ -1,0 +1,3 @@
+Jandor's Ring {6}
+Artifact
+{2}, {T}, Discard the last card you drew this turn: Draw a card.

@@ -1,0 +1,4 @@
+Force of Savagery {2}{G}
+Creature — Elemental
+Trample
+8/0

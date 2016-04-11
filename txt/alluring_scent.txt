@@ -1,0 +1,3 @@
+Alluring Scent {1}{G}{G}
+Sorcery
+All creatures able to block target creature this turn do so.

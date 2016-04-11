@@ -1,0 +1,4 @@
+Aisling Leprechaun {G}
+Creature — Faerie
+Whenever Aisling Leprechaun blocks or becomes blocked by a creature, that creature becomes green. (This effect lasts indefinitely.)
+1/1

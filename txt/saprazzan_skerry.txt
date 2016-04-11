@@ -1,0 +1,4 @@
+Saprazzan Skerry
+Land
+Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.
+{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U} to your mana pool. If there are no depletion counters on Saprazzan Skerry, sacrifice it.

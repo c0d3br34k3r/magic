@@ -1,0 +1,5 @@
+War Falcon {W}
+Creature — Bird
+Flying
+War Falcon can't attack unless you control a Knight or a Soldier.
+2/1

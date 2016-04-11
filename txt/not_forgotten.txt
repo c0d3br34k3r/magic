@@ -1,0 +1,3 @@
+Not Forgotten {1}{W}
+Sorcery
+Put target card from a graveyard on the top or bottom of its owner's library. Put a 1/1 white Spirit creature token with flying onto the battlefield.

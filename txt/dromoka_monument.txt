@@ -1,0 +1,4 @@
+Dromoka Monument {3}
+Artifact
+{T}: Add {G} or {W} to your mana pool.
+{4}{G}{W}: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn.

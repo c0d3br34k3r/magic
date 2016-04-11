@@ -1,0 +1,4 @@
+Suleiman's Legacy {W}{R}
+Enchantment
+When Suleiman's Legacy enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated.
+Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.

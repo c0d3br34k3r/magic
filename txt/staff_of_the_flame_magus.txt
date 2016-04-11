@@ -1,0 +1,3 @@
+Staff of the Flame Magus {3}
+Artifact
+Whenever you cast a red spell or a Mountain enters the battlefield under your control, you gain 1 life.

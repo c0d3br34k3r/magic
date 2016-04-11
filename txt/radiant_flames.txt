@@ -1,0 +1,3 @@
+Radiant Flames {2}{R}
+Sorcery
+Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.

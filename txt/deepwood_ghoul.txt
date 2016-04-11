@@ -1,0 +1,4 @@
+Deepwood Ghoul {2}{B}
+Creature — Zombie
+Pay 2 life: Regenerate Deepwood Ghoul.
+2/1

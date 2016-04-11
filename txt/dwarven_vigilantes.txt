@@ -1,0 +1,4 @@
+Dwarven Vigilantes {2}{R}
+Creature — Dwarf
+Whenever Dwarven Vigilantes attacks and isn't blocked, you may have it deal damage equal to its power to target creature. If you do, Dwarven Vigilantes assigns no combat damage this turn.
+2/2

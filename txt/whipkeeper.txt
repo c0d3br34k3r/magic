@@ -1,0 +1,4 @@
+Whipkeeper {2}{R}{R}
+Creature — Dwarf
+{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.
+1/1

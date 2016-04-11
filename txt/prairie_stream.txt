@@ -1,0 +1,4 @@
+Prairie Stream
+Land — Plains Island
+({T}: Add {W} or {U} to your mana pool.)
+Prairie Stream enters the battlefield tapped unless you control two or more basic lands.

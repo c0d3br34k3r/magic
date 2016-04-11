@@ -1,0 +1,4 @@
+Faith Healer {1}{W}
+Creature — Human Cleric
+Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's converted mana cost.
+1/1

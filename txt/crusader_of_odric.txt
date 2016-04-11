@@ -1,0 +1,4 @@
+Crusader of Odric {2}{W}
+Creature — Human Soldier
+Crusader of Odric's power and toughness are each equal to the number of creatures you control.
+*/*

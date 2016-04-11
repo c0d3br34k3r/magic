@@ -1,0 +1,5 @@
+Evil Eye of Urborg {4}{B}
+Creature — Eye
+Non-Eye creatures you control can't attack.
+Whenever Evil Eye of Urborg becomes blocked by a creature, destroy that creature.
+6/3

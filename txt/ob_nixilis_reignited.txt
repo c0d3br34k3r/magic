@@ -1,0 +1,6 @@
+Ob Nixilis Reignited {3}{B}{B}
+Planeswalker — Nixilis
++1: You draw a card and you lose 1 life.
+−3: Destroy target creature.
+−8: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."
+5

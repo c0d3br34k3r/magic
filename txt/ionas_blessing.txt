@@ -1,0 +1,4 @@
+Iona's Blessing {3}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2, has vigilance, and can block an additional creature.

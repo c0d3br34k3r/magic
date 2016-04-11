@@ -1,0 +1,4 @@
+Serra's Embrace {2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has flying and vigilance.

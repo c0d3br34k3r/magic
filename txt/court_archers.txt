@@ -1,0 +1,5 @@
+Court Archers {2}{G}
+Creature — Human Archer
+Reach (This creature can block creatures with flying.)
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+1/3

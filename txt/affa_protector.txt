@@ -1,0 +1,4 @@
+Affa Protector {2}{W}
+Creature — Human Soldier Ally
+Vigilance
+1/4

@@ -1,0 +1,5 @@
+Cho-Arrim Legate {2}{W}
+Creature — Human Soldier
+Protection from black
+If an opponent controls a Swamp and you control a Plains, you may cast Cho-Arrim Legate without paying its mana cost.
+1/2

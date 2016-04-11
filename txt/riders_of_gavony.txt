@@ -1,0 +1,6 @@
+Riders of Gavony {2}{W}{W}
+Creature — Human Knight
+Vigilance
+As Riders of Gavony enters the battlefield, choose a creature type.
+Human creatures you control have protection from creatures of the chosen type.
+3/3

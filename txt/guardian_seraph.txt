@@ -1,0 +1,5 @@
+Guardian Seraph {2}{W}{W}
+Creature — Angel
+Flying
+If a source an opponent controls would deal damage to you, prevent 1 of that damage.
+3/4

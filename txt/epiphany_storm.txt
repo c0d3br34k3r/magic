@@ -1,0 +1,4 @@
+Epiphany Storm {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{R}, {T}, Discard a card: Draw a card."

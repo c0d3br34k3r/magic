@@ -1,0 +1,5 @@
+Jolrael's Favor {1}{G}
+Enchantment — Aura
+Flash
+Enchant creature
+{1}{G}: Regenerate enchanted creature.

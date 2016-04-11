@@ -1,0 +1,6 @@
+Sealock Monster {3}{U}{U}
+Creature — Octopus
+Sealock Monster can't attack unless defending player controls an Island.
+{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
+5/5

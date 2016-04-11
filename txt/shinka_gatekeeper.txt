@@ -1,0 +1,4 @@
+Shinka Gatekeeper {2}{R}
+Creature — Ogre Warrior
+Whenever Shinka Gatekeeper is dealt damage, it deals that much damage to you.
+3/2

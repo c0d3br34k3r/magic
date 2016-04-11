@@ -1,0 +1,3 @@
+Spirit of Resistance {2}{W}
+Enchantment
+As long as you control a permanent of each color, prevent all damage that would be dealt to you.

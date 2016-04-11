@@ -1,0 +1,5 @@
+Riot Piker {1}{R}
+Creature — Goblin Berserker
+First strike
+Riot Piker attacks each turn if able.
+2/1

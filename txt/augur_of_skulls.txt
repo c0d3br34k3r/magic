@@ -1,0 +1,5 @@
+Augur of Skulls {1}{B}
+Creature — Skeleton Wizard
+{1}{B}: Regenerate Augur of Skulls.
+Sacrifice Augur of Skulls: Target player discards two cards. Activate this ability only during your upkeep.
+1/1

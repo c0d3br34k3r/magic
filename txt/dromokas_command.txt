@@ -1,0 +1,7 @@
+Dromoka's Command {W}{G}
+Instant
+Choose two —
+• Prevent all damage target instant or sorcery spell would deal this turn.
+• Target player sacrifices an enchantment.
+• Put a +1/+1 counter on target creature.
+• Target creature you control fights target creature you don't control.

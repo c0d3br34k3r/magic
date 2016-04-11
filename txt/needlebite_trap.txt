@@ -1,0 +1,4 @@
+Needlebite Trap {5}{B}{B}
+Instant — Trap
+If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.
+Target player loses 5 life and you gain 5 life.

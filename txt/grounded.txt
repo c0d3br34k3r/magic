@@ -1,0 +1,4 @@
+Grounded {1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature loses flying.

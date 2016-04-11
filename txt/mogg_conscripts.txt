@@ -1,0 +1,4 @@
+Mogg Conscripts {R}
+Creature — Goblin
+Mogg Conscripts can't attack unless you've cast a creature spell this turn.
+2/2

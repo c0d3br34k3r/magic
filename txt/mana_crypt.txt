@@ -1,0 +1,4 @@
+Mana Crypt {0}
+Artifact
+At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+{T}: Add {C}{C} to your mana pool.

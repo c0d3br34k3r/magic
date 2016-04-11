@@ -1,0 +1,4 @@
+Void Shatter {1}{U}{U}
+Instant
+Devoid (This card has no color.)
+Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.

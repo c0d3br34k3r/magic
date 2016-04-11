@@ -1,0 +1,4 @@
+Bone to Ash {2}{U}{U}
+Instant
+Counter target creature spell.
+Draw a card.

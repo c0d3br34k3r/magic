@@ -1,0 +1,3 @@
+Rotted Hulk {3}{B}
+Creature — Elemental
+2/5

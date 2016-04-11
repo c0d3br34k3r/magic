@@ -1,0 +1,5 @@
+Pyre Hound {3}{R}
+Creature — Elemental Hound
+Trample
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre Hound.
+2/3

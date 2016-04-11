@@ -1,0 +1,4 @@
+Isolated Chapel
+Land
+Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B} to your mana pool.

@@ -1,0 +1,5 @@
+Talonrend {4}{U}
+Creature — Elemental
+Flying
+{U/R}: Talonrend gets +1/-1 until end of turn.
+0/5

@@ -1,0 +1,4 @@
+Gnaw to the Bone {2}{G}
+Instant
+You gain 2 life for each creature card in your graveyard.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

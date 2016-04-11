@@ -1,0 +1,5 @@
+Simic Sky Swallower {5}{U}{G}
+Creature — Leviathan
+Flying, trample
+Shroud (This creature can't be the target of spells or abilities.)
+6/6

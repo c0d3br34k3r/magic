@@ -1,0 +1,5 @@
+Trap Digger {3}{W}
+Creature — Human Soldier
+{2}{W}, {T}: Put a trap counter on target land you control.
+Sacrifice a land with a trap counter on it: Trap Digger deals 3 damage to target attacking creature without flying.
+1/3

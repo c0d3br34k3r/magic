@@ -1,0 +1,4 @@
+Fangren Hunter {3}{G}{G}
+Creature — Beast
+Trample
+4/4

@@ -1,0 +1,5 @@
+Guardian Idol {2}
+Artifact
+Guardian Idol enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.

@@ -1,0 +1,5 @@
+Multani, Maro-Sorcerer {4}{G}{G}
+Legendary Creature — Elemental
+Shroud (This creature can't be the target of spells or abilities.)
+Multani, Maro-Sorcerer's power and toughness are each equal to the total number of cards in all players' hands.
+*/*

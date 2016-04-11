@@ -1,0 +1,4 @@
+Tasigur's Cruelty {5}{B}
+Sorcery
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Each opponent discards two cards.

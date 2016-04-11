@@ -1,0 +1,5 @@
+Surveilling Sprite {1}{U}
+Creature — Faerie Rogue
+Flying
+When Surveilling Sprite dies, you may draw a card.
+1/1

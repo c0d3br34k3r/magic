@@ -1,0 +1,3 @@
+Voltaic Key {1}
+Artifact
+{1}, {T}: Untap target artifact.

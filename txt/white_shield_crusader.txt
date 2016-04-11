@@ -1,0 +1,6 @@
+White Shield Crusader {W}{W}
+Creature — Human Knight
+Protection from black
+{W}: White Shield Crusader gains flying until end of turn.
+{W}{W}: White Shield Crusader gets +1/+0 until end of turn.
+2/1

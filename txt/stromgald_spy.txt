@@ -1,0 +1,4 @@
+Stromgald Spy {3}{B}
+Creature — Human Rogue
+Whenever Stromgald Spy attacks and isn't blocked, you may have defending player play with his or her hand revealed for as long as Stromgald Spy remains on the battlefield. If you do, Stromgald Spy assigns no combat damage this turn.
+2/4

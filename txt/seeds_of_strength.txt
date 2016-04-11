@@ -1,0 +1,5 @@
+Seeds of Strength {W}{G}
+Instant
+Target creature gets +1/+1 until end of turn.
+Target creature gets +1/+1 until end of turn.
+Target creature gets +1/+1 until end of turn.

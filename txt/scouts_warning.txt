@@ -1,0 +1,4 @@
+Scout's Warning {W}
+Instant
+The next creature card you play this turn can be played as though it had flash.
+Draw a card.

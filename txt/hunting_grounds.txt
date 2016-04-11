@@ -1,0 +1,3 @@
+Hunting Grounds {W}{G}
+Enchantment
+Threshold — As long as seven or more cards are in your graveyard, Hunting Grounds has "Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield."

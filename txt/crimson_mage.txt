@@ -1,0 +1,4 @@
+Crimson Mage {1}{R}
+Creature — Human Shaman
+{R}: Target creature you control gains haste until end of turn. (It can attack and {T} this turn.)
+2/1

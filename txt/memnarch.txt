@@ -1,0 +1,5 @@
+Memnarch {7}
+Legendary Artifact Creature — Wizard
+{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect lasts indefinitely.)
+{3}{U}: Gain control of target artifact. (This effect lasts indefinitely.)
+4/5

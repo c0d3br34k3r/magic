@@ -1,0 +1,4 @@
+Manta Riders {U}
+Creature — Merfolk
+{U}: Manta Riders gains flying until end of turn.
+1/1

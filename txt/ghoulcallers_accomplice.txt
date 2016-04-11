@@ -1,0 +1,4 @@
+Ghoulcaller's Accomplice {1}{B}
+Creature — Human Rogue
+{3}{B}, Exile Ghoulcaller's Accomplice from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield. Activate this ability only any time you could cast a sorcery.
+2/2

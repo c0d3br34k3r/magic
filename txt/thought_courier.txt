@@ -1,0 +1,4 @@
+Thought Courier {1}{U}
+Creature — Human Wizard
+{T}: Draw a card, then discard a card.
+1/1

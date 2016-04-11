@@ -1,0 +1,4 @@
+Phyrexian Processor {4}
+Artifact
+As Phyrexian Processor enters the battlefield, pay any amount of life.
+{4}, {T}: Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield.

@@ -1,0 +1,3 @@
+Vampiric Fury {1}{R}
+Instant
+Vampire creatures you control get +2/+0 and gain first strike until end of turn.

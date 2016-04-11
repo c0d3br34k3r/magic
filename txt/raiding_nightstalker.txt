@@ -1,0 +1,4 @@
+Raiding Nightstalker {2}{B}
+Creature — Nightstalker
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+2/2

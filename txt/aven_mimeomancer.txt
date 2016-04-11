@@ -1,0 +1,5 @@
+Aven Mimeomancer {1}{W}{U}
+Creature — Bird Wizard
+Flying
+At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature has base power and toughness 3/1 and has flying for as long as it has a feather counter on it.
+3/1

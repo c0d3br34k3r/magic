@@ -1,0 +1,5 @@
+Orzhov Euthanist {2}{B}
+Creature — Human Assassin
+Haunt (When this creature dies, exile it haunting target creature.)
+When Orzhov Euthanist enters the battlefield or the creature it haunts dies, destroy target creature that was dealt damage this turn.
+2/2

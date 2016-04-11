@@ -1,0 +1,6 @@
+Aeon Chronicler {3}{U}{U}
+Creature — Avatar
+Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.
+Suspend X—{X}{3}{U}. X can't be 0.  (Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
+*/*

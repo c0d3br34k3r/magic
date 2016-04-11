@@ -1,0 +1,3 @@
+Soul Strings {X}{B}
+Sorcery
+Return two target creature cards from your graveyard to your hand unless any player pays {X}.

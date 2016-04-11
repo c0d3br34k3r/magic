@@ -1,0 +1,4 @@
+Brawler's Plate {3}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has trample. (It can deal excess combat damage to defending player or planeswalker while attacking.)
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)

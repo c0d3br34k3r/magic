@@ -1,0 +1,4 @@
+Hearthfire Hobgoblin {R/W}{R/W}{R/W}
+Creature — Goblin Soldier
+Double strike
+2/2

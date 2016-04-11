@@ -1,0 +1,5 @@
+Thorn-Thrash Viashino {3}{R}
+Creature — Viashino Warrior
+Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)
+{G}: Thorn-Thrash Viashino gains trample until end of turn.
+2/2

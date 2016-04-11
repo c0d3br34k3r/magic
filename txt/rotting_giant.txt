@@ -1,0 +1,4 @@
+Rotting Giant {1}{B}
+Creature — Zombie Giant
+Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a card from your graveyard.
+3/3

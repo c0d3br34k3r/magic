@@ -1,0 +1,3 @@
+Martial Law {2}{W}{W}
+Enchantment
+At the beginning of your upkeep, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)

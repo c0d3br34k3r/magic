@@ -1,0 +1,4 @@
+Mire Blight {B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature is dealt damage, destroy it.

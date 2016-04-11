@@ -1,0 +1,5 @@
+Oathsworn Giant {4}{W}{W}
+Creature — Giant Soldier
+Vigilance
+Other creatures you control get +0/+2 and have vigilance.
+3/4

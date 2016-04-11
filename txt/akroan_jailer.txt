@@ -1,0 +1,4 @@
+Akroan Jailer {W}
+Creature — Human Soldier
+{2}{W}, {T}: Tap target creature.
+1/1

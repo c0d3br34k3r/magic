@@ -1,0 +1,5 @@
+Wall of Spears {3}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+First strike
+2/3

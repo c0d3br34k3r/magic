@@ -1,0 +1,4 @@
+Exiled Doomsayer {1}{W}
+Creature — Human Cleric
+All morph costs cost {2} more. (This doesn't affect the cost to cast creature spells face down.)
+1/2

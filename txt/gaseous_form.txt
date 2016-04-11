@@ -1,0 +1,4 @@
+Gaseous Form {2}{U}
+Enchantment — Aura
+Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.

@@ -1,0 +1,4 @@
+Irini Sengir {2}{B}{B}
+Legendary Creature — Vampire Dwarf
+Green enchantment spells and white enchantment spells cost {2} more to cast.
+2/2

@@ -1,0 +1,4 @@
+Thought Vessel {2}
+Artifact
+You have no maximum hand size.
+{T}: Add {C} to your mana pool.

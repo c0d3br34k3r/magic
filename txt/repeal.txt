@@ -1,0 +1,4 @@
+Repeal {X}{U}
+Instant
+Return target nonland permanent with converted mana cost X to its owner's hand.
+Draw a card.

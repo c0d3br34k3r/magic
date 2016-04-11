@@ -1,0 +1,4 @@
+Lifespinner {3}{G}
+Creature — Spirit
+{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.
+3/3

@@ -1,0 +1,4 @@
+Molten Sentry {3}{R}
+Creature — Elemental
+As Molten Sentry enters the battlefield, flip a coin. If the coin comes up heads, Molten Sentry enters the battlefield as a 5/2 creature with haste. If it comes up tails, Molten Sentry enters the battlefield as a 2/5 creature with defender.
+*/*

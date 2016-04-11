@@ -1,0 +1,4 @@
+Tel-Jilad Exile {3}{G}
+Creature — Troll Warrior
+{1}{G}: Regenerate Tel-Jilad Exile.
+2/3

@@ -1,0 +1,5 @@
+Childhood Horror {3}{B}
+Creature — Horror
+Flying
+Threshold — As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block.
+2/2

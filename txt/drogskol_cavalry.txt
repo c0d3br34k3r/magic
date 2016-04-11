@@ -1,0 +1,6 @@
+Drogskol Cavalry {5}{W}{W}
+Creature — Spirit Knight
+Flying
+Whenever another Spirit enters the battlefield under your control, you gain 2 life.
+{3}{W}: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+4/4

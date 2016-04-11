@@ -1,0 +1,5 @@
+Aven Tactician {4}{W}
+Creature — Bird Soldier
+Flying
+When Aven Tactician enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+2/3

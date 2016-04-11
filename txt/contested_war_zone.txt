@@ -1,0 +1,5 @@
+Contested War Zone
+Land
+Whenever a creature deals combat damage to you, that creature's controller gains control of Contested War Zone.
+{T}: Add {C} to your mana pool.
+{1}, {T}: Attacking creatures get +1/+0 until end of turn.

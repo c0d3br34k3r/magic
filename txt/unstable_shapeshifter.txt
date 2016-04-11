@@ -1,0 +1,4 @@
+Unstable Shapeshifter {3}{U}
+Creature — Shapeshifter
+Whenever another creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability.
+0/1

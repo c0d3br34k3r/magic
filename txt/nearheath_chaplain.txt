@@ -1,0 +1,5 @@
+Nearheath Chaplain {3}{W}
+Creature — Human Cleric
+Lifelink
+{2}{W}, Exile Nearheath Chaplain from your graveyard: Put two 1/1 white Spirit creature tokens with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.
+3/1

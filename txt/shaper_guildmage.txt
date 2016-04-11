@@ -1,0 +1,5 @@
+Shaper Guildmage {U}
+Creature — Human Wizard
+{W}, {T}: Target creature gains first strike until end of turn.
+{B}, {T}: Target creature gets +1/+0 until end of turn.
+1/1

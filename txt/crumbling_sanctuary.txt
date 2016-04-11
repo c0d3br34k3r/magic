@@ -1,0 +1,3 @@
+Crumbling Sanctuary {5}
+Artifact
+If damage would be dealt to a player, that player exiles that many cards from the top of his or her library instead.

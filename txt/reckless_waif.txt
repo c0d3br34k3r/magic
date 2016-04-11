@@ -1,0 +1,9 @@
+Reckless Waif {R}
+Creature — Human Rogue Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.
+1/1
+* DOUBLE-FACED *
+Merciless Predator
+(R) Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.
+3/2

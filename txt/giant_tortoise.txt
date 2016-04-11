@@ -1,0 +1,4 @@
+Giant Tortoise {1}{U}
+Creature — Turtle
+Giant Tortoise gets +0/+3 as long as it's untapped.
+1/1

@@ -1,0 +1,5 @@
+Sustainer of the Realm {2}{W}{W}
+Creature — Angel
+Flying
+Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.
+2/3

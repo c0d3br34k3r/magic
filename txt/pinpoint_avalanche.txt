@@ -1,0 +1,3 @@
+Pinpoint Avalanche {3}{R}{R}
+Instant
+Pinpoint Avalanche deals 4 damage to target creature. The damage can't be prevented.

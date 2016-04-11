@@ -1,0 +1,6 @@
+Oona's Blackguard {1}{B}
+Creature — Faerie Rogue
+Flying
+Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.
+1/1

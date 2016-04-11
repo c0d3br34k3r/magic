@@ -1,0 +1,4 @@
+Veteran Bodyguard {3}{W}{W}
+Creature — Human
+As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+2/5

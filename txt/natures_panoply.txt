@@ -1,0 +1,4 @@
+Nature's Panoply {G}
+Instant
+Strive — Nature's Panoply costs {2}{G} more to cast for each target beyond the first.
+Choose any number of target creatures. Put a +1/+1 counter on each of them.

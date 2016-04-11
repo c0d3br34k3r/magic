@@ -1,0 +1,5 @@
+Werebear {1}{G}
+Creature — Human Bear Druid
+{T}: Add {G} to your mana pool.
+Threshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
+1/1

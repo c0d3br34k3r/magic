@@ -1,0 +1,4 @@
+Tideshaper Mystic {U}
+Creature — Merfolk Wizard
+{T}: Target land becomes the basic land type of your choice until end of turn. Activate this ability only during your turn.
+1/1

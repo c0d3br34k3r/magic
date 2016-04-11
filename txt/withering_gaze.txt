@@ -1,0 +1,3 @@
+Withering Gaze {2}{U}
+Sorcery
+Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.

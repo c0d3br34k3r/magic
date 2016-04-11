@@ -1,0 +1,4 @@
+Mystic Gate
+Land
+{T}: Add {C} to your mana pool.
+{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U} to your mana pool.

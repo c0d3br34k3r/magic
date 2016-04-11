@@ -1,0 +1,3 @@
+Attrition {1}{B}{B}
+Enchantment
+{B}, Sacrifice a creature: Destroy target nonblack creature.

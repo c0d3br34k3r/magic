@@ -1,0 +1,5 @@
+Firewake Sliver {1}{R}{G}
+Creature — Sliver
+All Sliver creatures have haste.
+All Slivers have "{1}, Sacrifice this permanent: Target Sliver creature gets +2/+2 until end of turn."
+1/1

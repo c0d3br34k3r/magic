@@ -1,0 +1,4 @@
+Pyrohemia {2}{R}{R}
+Enchantment
+At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pyrohemia.
+{R}: Pyrohemia deals 1 damage to each creature and each player.

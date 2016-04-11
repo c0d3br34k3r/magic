@@ -1,0 +1,4 @@
+Brain Maggot {1}{B}
+Enchantment Creature — Insect
+When Brain Maggot enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.
+1/1

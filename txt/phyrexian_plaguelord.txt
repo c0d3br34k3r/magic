@@ -1,0 +1,5 @@
+Phyrexian Plaguelord {3}{B}{B}
+Creature — Carrier
+{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.
+Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+4/4

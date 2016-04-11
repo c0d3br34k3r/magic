@@ -1,0 +1,4 @@
+Zhang Liao, Hero of Hefei {4}{B}{B}
+Legendary Creature — Human Soldier
+Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card.
+3/3

@@ -1,0 +1,3 @@
+Scouting Trek {1}{G}
+Sorcery
+Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it.

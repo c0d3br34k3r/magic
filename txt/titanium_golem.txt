@@ -1,0 +1,4 @@
+Titanium Golem {5}
+Artifact Creature — Golem
+{1}{W}: Titanium Golem gains first strike until end of turn.
+3/3

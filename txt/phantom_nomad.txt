@@ -1,0 +1,5 @@
+Phantom Nomad {1}{W}
+Creature — Spirit Nomad
+Phantom Nomad enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad.
+0/0

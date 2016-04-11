@@ -1,0 +1,3 @@
+Hero's Downfall {1}{B}{B}
+Instant
+Destroy target creature or planeswalker.

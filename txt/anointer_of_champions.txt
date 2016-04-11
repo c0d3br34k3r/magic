@@ -1,0 +1,4 @@
+Anointer of Champions {W}
+Creature — Human Cleric
+{T}: Target attacking creature gets +1/+1 until end of turn.
+1/1

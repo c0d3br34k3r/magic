@@ -1,0 +1,4 @@
+Augury Adept {1}{W/U}{W/U}
+Creature — Kithkin Wizard
+Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its converted mana cost.
+2/2

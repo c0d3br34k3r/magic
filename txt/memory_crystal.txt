@@ -1,0 +1,3 @@
+Memory Crystal {3}
+Artifact
+Buyback costs cost {2} less.

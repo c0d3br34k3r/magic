@@ -1,0 +1,5 @@
+Forgotten Ancient {3}{G}
+Creature — Elemental
+Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.
+At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+0/3

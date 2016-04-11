@@ -1,0 +1,4 @@
+Mortus Strider {1}{U}{B}
+Creature — Skeleton
+When Mortus Strider dies, return it to its owner's hand.
+1/1

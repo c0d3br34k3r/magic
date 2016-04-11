@@ -1,0 +1,10 @@
+Ravenous Demon {3}{B}{B}
+Creature — Demon
+Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.
+4/4
+* DOUBLE-FACED *
+Archdemon of Greed
+(B) Creature — Demon
+Flying, trample
+At the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.
+9/9

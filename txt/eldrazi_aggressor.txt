@@ -1,0 +1,5 @@
+Eldrazi Aggressor {2}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Eldrazi Aggressor has haste as long as you control another colorless creature.
+2/3

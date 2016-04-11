@@ -1,0 +1,6 @@
+Borborygmos Enraged {4}{R}{R}{G}{G}
+Legendary Creature — Cyclops
+Trample
+Whenever Borborygmos Enraged deals combat damage to a player, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+Discard a land card: Borborygmos Enraged deals 3 damage to target creature or player.
+7/6

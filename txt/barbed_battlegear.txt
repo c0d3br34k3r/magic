@@ -1,0 +1,4 @@
+Barbed Battlegear {3}
+Artifact — Equipment
+Equipped creature gets +4/-1.
+Equip {2}

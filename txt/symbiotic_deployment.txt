@@ -1,0 +1,4 @@
+Symbiotic Deployment {2}{G}
+Enchantment
+Skip your draw step.
+{1}, Tap two untapped creatures you control: Draw a card.

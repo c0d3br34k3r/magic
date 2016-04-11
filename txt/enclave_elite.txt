@@ -1,0 +1,6 @@
+Enclave Elite {2}{U}
+Creature — Merfolk Soldier
+Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+2/2

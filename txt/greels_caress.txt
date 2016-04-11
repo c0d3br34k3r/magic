@@ -1,0 +1,5 @@
+Greel's Caress {1}{B}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets -3/-0.

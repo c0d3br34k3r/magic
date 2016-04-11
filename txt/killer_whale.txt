@@ -1,0 +1,4 @@
+Killer Whale {3}{U}{U}
+Creature — Whale
+{U}: Killer Whale gains flying until end of turn.
+3/5

@@ -1,0 +1,5 @@
+Jötun Owl Keeper {2}{W}
+Creature — Giant
+Cumulative upkeep {W} or {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Jötun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.
+3/3

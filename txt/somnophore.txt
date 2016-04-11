@@ -1,0 +1,5 @@
+Somnophore {2}{U}{U}
+Creature — Illusion
+Flying
+Whenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield.
+2/2

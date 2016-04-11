@@ -1,0 +1,4 @@
+Arcum's Weathervane {2}
+Artifact
+{2}, {T}: Target snow land is no longer snow.
+{2}, {T}: Target nonsnow basic land becomes snow.

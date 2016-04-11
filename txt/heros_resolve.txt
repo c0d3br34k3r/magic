@@ -1,0 +1,4 @@
+Hero's Resolve {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+5.

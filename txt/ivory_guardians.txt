@@ -1,0 +1,5 @@
+Ivory Guardians {4}{W}{W}
+Creature — Giant Cleric
+Protection from red
+Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.
+3/3

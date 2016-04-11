@@ -1,0 +1,4 @@
+Kessig Cagebreakers {4}{G}
+Creature — Human Rogue
+Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.
+3/4

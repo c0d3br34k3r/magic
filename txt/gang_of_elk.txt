@@ -1,0 +1,4 @@
+Gang of Elk {5}{G}
+Creature — Elk Beast
+Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.
+5/4

@@ -1,0 +1,4 @@
+Stalking Tiger {3}{G}
+Creature — Cat
+Stalking Tiger can't be blocked by more than one creature.
+3/3

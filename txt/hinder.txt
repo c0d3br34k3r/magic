@@ -1,0 +1,3 @@
+Hinder {1}{U}{U}
+Instant
+Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.

@@ -1,0 +1,4 @@
+Orzhova, the Church of Deals
+Land
+{T}: Add {C} to your mana pool.
+{3}{W}{B}, {T}: Target player loses 1 life and you gain 1 life.

@@ -1,0 +1,5 @@
+Wu Scout {1}{U}
+Creature — Human Soldier Scout
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Wu Scout enters the battlefield, look at target opponent's hand.
+1/1

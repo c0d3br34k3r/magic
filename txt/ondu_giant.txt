@@ -1,0 +1,4 @@
+Ondu Giant {3}{G}
+Creature — Giant Druid
+When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+2/4

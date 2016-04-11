@@ -1,0 +1,4 @@
+Evincar's Justice {2}{B}{B}
+Sorcery
+Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Evincar's Justice deals 2 damage to each creature and each player.

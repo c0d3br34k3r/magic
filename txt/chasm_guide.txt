@@ -1,0 +1,4 @@
+Chasm Guide {3}{R}
+Creature — Goblin Scout Ally
+Rally — Whenever Chasm Guide or another Ally enters the battlefield under your control, creatures you control gain haste until end of turn.
+3/2

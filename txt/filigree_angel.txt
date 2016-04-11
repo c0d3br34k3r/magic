@@ -1,0 +1,5 @@
+Filigree Angel {5}{W}{W}{U}
+Artifact Creature — Angel
+Flying
+When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+4/4

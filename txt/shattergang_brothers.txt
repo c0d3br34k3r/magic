@@ -1,0 +1,6 @@
+Shattergang Brothers {1}{B}{R}{G}
+Legendary Creature — Goblin Artificer
+{2}{B}, Sacrifice a creature: Each other player sacrifices a creature.
+{2}{R}, Sacrifice an artifact: Each other player sacrifices an artifact.
+{2}{G}, Sacrifice an enchantment: Each other player sacrifices an enchantment.
+3/3

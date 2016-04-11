@@ -1,0 +1,5 @@
+Resounding Scream {2}{B}
+Sorcery
+Target player discards a card at random.
+Cycling {5}{U}{B}{R} ({5}{U}{B}{R}, Discard this card: Draw a card.)
+When you cycle Resounding Scream, target player discards two cards at random.

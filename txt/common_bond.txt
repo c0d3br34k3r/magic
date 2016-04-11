@@ -1,0 +1,4 @@
+Common Bond {1}{W}{G}
+Instant
+Put a +1/+1 counter on target creature.
+Put a +1/+1 counter on target creature.

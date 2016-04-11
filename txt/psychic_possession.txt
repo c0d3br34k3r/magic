@@ -1,0 +1,5 @@
+Psychic Possession {2}{U}{U}
+Enchantment — Aura
+Enchant opponent
+Skip your draw step.
+Whenever enchanted opponent draws a card, you may draw a card.

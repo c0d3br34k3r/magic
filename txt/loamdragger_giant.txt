@@ -1,0 +1,3 @@
+Loamdragger Giant {4}{R/G}{R/G}{R/G}
+Creature — Giant Warrior
+7/6

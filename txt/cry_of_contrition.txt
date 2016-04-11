@@ -1,0 +1,5 @@
+Cry of Contrition {B}
+Sorcery
+Target player discards a card.
+Haunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Cry of Contrition haunts dies, target player discards a card.

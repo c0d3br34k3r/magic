@@ -1,0 +1,4 @@
+Rot Shambler {1}{G}
+Creature — Fungus
+Whenever another creature you control dies, put a +1/+1 counter on Rot Shambler.
+1/1

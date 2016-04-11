@@ -1,0 +1,4 @@
+Lance {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has first strike.

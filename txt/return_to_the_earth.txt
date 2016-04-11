@@ -1,0 +1,3 @@
+Return to the Earth {3}{G}
+Instant
+Destroy target artifact, enchantment, or creature with flying.

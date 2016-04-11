@@ -1,0 +1,5 @@
+Jareth, Leonine Titan {3}{W}{W}{W}
+Legendary Creature — Cat Giant
+Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.
+{W}: Jareth gains protection from the color of your choice until end of turn.
+4/7

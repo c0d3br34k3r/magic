@@ -1,0 +1,5 @@
+Tattoo Ward {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.
+Sacrifice Tattoo Ward: Destroy target enchantment.

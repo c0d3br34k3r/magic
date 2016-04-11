@@ -1,0 +1,4 @@
+Flame-Kin Zealot {1}{W}{R}{R}
+Creature — Elemental Berserker
+When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn.
+2/2

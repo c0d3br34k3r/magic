@@ -1,0 +1,5 @@
+Midnight Banshee {3}{B}{B}{B}
+Creature — Spirit
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+At the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.
+5/5

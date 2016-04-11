@@ -1,0 +1,5 @@
+Oni of Wild Places {5}{R}
+Creature — Demon Spirit
+Haste
+At the beginning of your upkeep, return a red creature you control to its owner's hand.
+6/5

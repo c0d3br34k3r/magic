@@ -1,0 +1,4 @@
+Village Cannibals {2}{B}
+Creature — Human
+Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.
+2/2

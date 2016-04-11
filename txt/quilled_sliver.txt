@@ -1,0 +1,4 @@
+Quilled Sliver {1}{W}
+Creature — Sliver
+All Slivers have "{T}: This permanent deals 1 damage to target attacking or blocking creature."
+1/1

@@ -1,0 +1,3 @@
+Gruul Signet {2}
+Artifact
+{1}, {T}: Add {R}{G} to your mana pool.

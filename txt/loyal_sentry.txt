@@ -1,0 +1,4 @@
+Loyal Sentry {W}
+Creature — Human Soldier
+When Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry.
+1/1

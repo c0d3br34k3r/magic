@@ -1,0 +1,4 @@
+Devout Harpist {W}
+Creature — Human
+{T}: Destroy target Aura attached to a creature.
+1/1

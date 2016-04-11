@@ -1,0 +1,5 @@
+Blood-Toll Harpy {2}{B}
+Creature — Harpy
+Flying
+When Blood-Toll Harpy enters the battlefield, each player loses 1 life.
+2/1

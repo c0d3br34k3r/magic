@@ -1,0 +1,3 @@
+Minotaur Warrior {2}{R}
+Creature — Minotaur Warrior
+2/3

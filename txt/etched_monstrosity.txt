@@ -1,0 +1,5 @@
+Etched Monstrosity {5}
+Artifact Creature — Golem
+Etched Monstrosity enters the battlefield with five -1/-1 counters on it.
+{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
+10/10

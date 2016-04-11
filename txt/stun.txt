@@ -1,0 +1,4 @@
+Stun {1}{R}
+Instant
+Target creature can't block this turn.
+Draw a card.

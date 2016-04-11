@@ -1,0 +1,4 @@
+Sadistic Augermage {2}{B}
+Creature — Human Wizard
+When Sadistic Augermage dies, each player puts a card from his or her hand on top of his or her library.
+3/1

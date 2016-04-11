@@ -1,0 +1,5 @@
+Myr Prototype {5}
+Artifact Creature — Myr
+At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.
+Myr Prototype can't attack or block unless you pay {1} for each +1/+1 counter on it.
+2/2

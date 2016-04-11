@@ -1,0 +1,5 @@
+Fiend Hunter {1}{W}{W}
+Creature — Human Cleric
+When Fiend Hunter enters the battlefield, you may exile another target creature.
+When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+1/3

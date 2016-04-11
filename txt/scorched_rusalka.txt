@@ -1,0 +1,4 @@
+Scorched Rusalka {R}
+Creature — Spirit
+{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.
+1/1

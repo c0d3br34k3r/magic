@@ -1,0 +1,5 @@
+Ovinomancer {2}{U}
+Creature — Human Wizard
+When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.
+{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.
+0/1

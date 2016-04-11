@@ -1,0 +1,3 @@
+Shadowblood Ridge
+Land
+{1}, {T}: Add {B}{R} to your mana pool.

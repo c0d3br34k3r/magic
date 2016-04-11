@@ -1,0 +1,3 @@
+Lifegift {2}{G}
+Enchantment
+Whenever a land enters the battlefield, you may gain 1 life.

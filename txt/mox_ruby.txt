@@ -1,0 +1,3 @@
+Mox Ruby {0}
+Artifact
+{T}: Add {R} to your mana pool.

@@ -1,0 +1,5 @@
+Septic Rats {1}{B}{B}
+Creature — Rat
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 until end of turn.
+2/2

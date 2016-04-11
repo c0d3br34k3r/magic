@@ -1,0 +1,4 @@
+Ondu War Cleric {1}{W}
+Creature — Human Cleric Ally
+Cohort — {T}, Tap an untapped Ally you control: You gain 2 life.
+2/2

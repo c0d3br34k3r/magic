@@ -1,0 +1,3 @@
+Exquisite Blood {4}{B}
+Enchantment
+Whenever an opponent loses life, you gain that much life.

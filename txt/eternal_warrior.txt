@@ -1,0 +1,4 @@
+Eternal Warrior {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has vigilance.

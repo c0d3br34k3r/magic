@@ -1,0 +1,5 @@
+Marker Beetles {1}{G}{G}
+Creature — Insect
+When Marker Beetles dies, target creature gets +1/+1 until end of turn.
+{2}, Sacrifice Marker Beetles: Draw a card.
+2/3

@@ -1,0 +1,4 @@
+Esper Cormorants {2}{W}{U}
+Artifact Creature — Bird
+Flying
+3/3

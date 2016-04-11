@@ -1,0 +1,6 @@
+Faceless Devourer {2}{B}
+Creature — Nightmare Horror
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+When Faceless Devourer enters the battlefield, exile another target creature with shadow.
+When Faceless Devourer leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+2/1

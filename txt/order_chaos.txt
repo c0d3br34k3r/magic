@@ -1,0 +1,7 @@
+Order {3}{W}
+Instant
+Exile target attacking creature.
+* SPLIT *
+Chaos {2}{R}
+Instant
+Creatures can't block this turn.

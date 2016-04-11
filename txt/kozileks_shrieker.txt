@@ -1,0 +1,5 @@
+Kozilek's Shrieker {2}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{C}: Kozilek's Shrieker gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. {C} represents colorless mana.)
+3/2

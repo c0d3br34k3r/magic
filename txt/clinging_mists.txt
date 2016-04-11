@@ -1,0 +1,4 @@
+Clinging Mists {2}{G}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Fateful hour — If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.

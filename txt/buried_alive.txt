@@ -1,0 +1,3 @@
+Buried Alive {2}{B}
+Sorcery
+Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.

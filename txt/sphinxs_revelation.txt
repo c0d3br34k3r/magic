@@ -1,0 +1,3 @@
+Sphinx's Revelation {X}{W}{U}{U}
+Instant
+You gain X life and draw X cards.

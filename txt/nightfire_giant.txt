@@ -1,0 +1,5 @@
+Nightfire Giant {4}{B}
+Creature — Zombie Giant
+Nightfire Giant gets +1/+1 as long as you control a Mountain.
+{4}{R}: Nightfire Giant deals 2 damage to target creature or player.
+4/3

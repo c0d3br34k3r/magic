@@ -1,0 +1,3 @@
+Asphyxiate {1}{B}{B}
+Sorcery
+Destroy target untapped creature.

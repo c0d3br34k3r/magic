@@ -1,0 +1,4 @@
+Opal Acrolith {2}{W}
+Enchantment
+Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.
+{0}: Opal Acrolith becomes an enchantment.

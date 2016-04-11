@@ -1,0 +1,5 @@
+Bound by Moonsilver {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack, block, or transform.
+Sacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate this ability only any time you could cast a sorcery and only once each turn.

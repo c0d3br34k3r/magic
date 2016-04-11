@@ -1,0 +1,4 @@
+River Bear {3}{G}
+Creature — Bear
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+3/3

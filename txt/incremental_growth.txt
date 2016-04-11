@@ -1,0 +1,3 @@
+Incremental Growth {3}{G}{G}
+Sorcery
+Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.

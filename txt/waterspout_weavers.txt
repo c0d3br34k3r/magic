@@ -1,0 +1,4 @@
+Waterspout Weavers {3}{U}{U}
+Creature — Merfolk Wizard
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Waterspout Weavers, you may reveal it. If you do, each creature you control gains flying until end of turn.
+3/3

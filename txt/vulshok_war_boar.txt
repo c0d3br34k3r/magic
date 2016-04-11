@@ -1,0 +1,4 @@
+Vulshok War Boar {2}{R}{R}
+Creature — Boar Beast
+When Vulshok War Boar enters the battlefield, sacrifice it unless you sacrifice an artifact.
+5/5

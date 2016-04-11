@@ -1,0 +1,3 @@
+Mind Slash {1}{B}{B}
+Enchantment
+{B}, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.

@@ -1,0 +1,4 @@
+Lethal Vapors {2}{B}{B}
+Enchantment
+Whenever a creature enters the battlefield, destroy it.
+{0}: Destroy Lethal Vapors. You skip your next turn. Any player may activate this ability.

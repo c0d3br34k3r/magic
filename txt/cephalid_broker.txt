@@ -1,0 +1,4 @@
+Cephalid Broker {3}{U}
+Creature — Cephalid
+{T}: Target player draws two cards, then discards two cards.
+2/2

@@ -1,0 +1,4 @@
+Shrouded Serpent {4}{U}{U}{U}
+Creature — Serpent
+Whenever Shrouded Serpent attacks, defending player may pay {4}. If he or she doesn't, Shrouded Serpent can't be blocked this turn.
+4/4

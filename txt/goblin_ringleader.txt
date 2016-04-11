@@ -1,0 +1,5 @@
+Goblin Ringleader {3}{R}
+Creature — Goblin
+Haste
+When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.
+2/2

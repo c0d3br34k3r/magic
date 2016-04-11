@@ -1,0 +1,5 @@
+Seafloor Debris
+Land
+Seafloor Debris enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.

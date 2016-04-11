@@ -1,0 +1,5 @@
+Wall of Diffusion {1}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.
+0/5

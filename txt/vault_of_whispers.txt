@@ -1,0 +1,4 @@
+Vault of Whispers
+Artifact Land
+(Vault of Whispers isn't a spell.)
+{T}: Add {B} to your mana pool.

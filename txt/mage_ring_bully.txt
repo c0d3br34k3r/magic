@@ -1,0 +1,5 @@
+Mage-Ring Bully {1}{R}
+Creature — Human Warrior
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Mage-Ring Bully attacks each turn if able.
+2/2

@@ -1,0 +1,4 @@
+Panic Spellbomb {1}
+Artifact
+{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.
+When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.

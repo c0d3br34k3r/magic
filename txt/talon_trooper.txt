@@ -1,0 +1,4 @@
+Talon Trooper {1}{W}{U}
+Creature — Bird Scout
+Flying
+2/3

@@ -1,0 +1,3 @@
+Seal of Removal {U}
+Enchantment
+Sacrifice Seal of Removal: Return target creature to its owner's hand.

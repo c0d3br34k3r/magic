@@ -1,0 +1,4 @@
+Ramses Overdark {2}{U}{U}{B}{B}
+Legendary Creature — Human Assassin
+{T}: Destroy target enchanted creature.
+4/3

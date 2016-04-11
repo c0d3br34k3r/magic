@@ -1,0 +1,5 @@
+Furnace Spirit {2}{R}
+Creature — Spirit
+Haste
+{R}: Furnace Spirit gets +1/+0 until end of turn.
+1/1

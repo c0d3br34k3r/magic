@@ -1,0 +1,4 @@
+Midnight Guard {2}{W}
+Creature — Human Soldier
+Whenever another creature enters the battlefield, untap Midnight Guard.
+2/3

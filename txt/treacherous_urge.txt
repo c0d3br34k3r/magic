@@ -1,0 +1,3 @@
+Treacherous Urge {4}{B}
+Instant
+Target opponent reveals his or her hand. You may put a creature card from it onto the battlefield under your control. That creature gains haste. Sacrifice it at the beginning of the next end step.

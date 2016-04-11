@@ -1,0 +1,5 @@
+Myriad Landscape
+Land
+Myriad Landscape enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{2}, {T}, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.

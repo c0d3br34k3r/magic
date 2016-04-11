@@ -1,0 +1,5 @@
+Kobold Overlord {1}{R}
+Creature — Kobold
+First strike
+Other Kobold creatures you control have first strike.
+1/2

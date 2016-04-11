@@ -1,0 +1,4 @@
+Tajuru Preserver {1}{G}
+Creature — Elf Shaman
+Spells and abilities your opponents control can't cause you to sacrifice permanents.
+2/1

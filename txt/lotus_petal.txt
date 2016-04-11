@@ -1,0 +1,3 @@
+Lotus Petal {0}
+Artifact
+{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.

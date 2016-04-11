@@ -1,0 +1,5 @@
+Calciderm {2}{W}{W}
+Creature — Beast
+Shroud (This creature can't be the target of spells or abilities.)
+Vanishing 4 (This permanent enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+5/5

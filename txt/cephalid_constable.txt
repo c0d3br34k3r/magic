@@ -1,0 +1,4 @@
+Cephalid Constable {1}{U}{U}
+Creature — Cephalid Wizard
+Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.
+1/1

@@ -1,0 +1,4 @@
+Accorder's Shield {0}
+Artifact — Equipment
+Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)

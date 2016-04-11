@@ -1,0 +1,5 @@
+Merrow Levitator {3}{U}
+Creature — Merfolk Wizard
+{T}: Target creature gains flying until end of turn.
+Whenever you cast a blue spell, you may untap Merrow Levitator.
+2/3

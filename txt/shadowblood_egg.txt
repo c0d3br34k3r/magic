@@ -1,0 +1,3 @@
+Shadowblood Egg {1}
+Artifact
+{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R} to your mana pool. Draw a card.

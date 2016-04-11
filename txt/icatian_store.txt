@@ -1,0 +1,6 @@
+Icatian Store
+Land
+Icatian Store enters the battlefield tapped.
+You may choose not to untap Icatian Store during your untap step.
+At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.

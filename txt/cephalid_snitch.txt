@@ -1,0 +1,4 @@
+Cephalid Snitch {1}{U}
+Creature — Cephalid Wizard
+Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Govern the Guildless {5}{U}
+Sorcery
+Gain control of target monocolored creature.
+Forecast — {1}{U}, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. (Activate this ability only during your upkeep and only once each turn.)

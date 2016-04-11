@@ -1,0 +1,4 @@
+Flux {2}{U}
+Sorcery
+Each player discards any number of cards, then draws that many cards.
+Draw a card.

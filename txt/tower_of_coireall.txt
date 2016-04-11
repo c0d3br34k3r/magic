@@ -1,0 +1,3 @@
+Tower of Coireall {2}
+Artifact
+{T}: Target creature can't be blocked by Walls this turn.

@@ -1,0 +1,4 @@
+Krark-Clan Ogre {3}{R}{R}
+Creature — Ogre
+{R}, Sacrifice an artifact: Target creature can't block this turn.
+3/3

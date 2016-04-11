@@ -1,0 +1,4 @@
+Northern Paladin {2}{W}{W}
+Creature — Human Knight
+{W}{W}, {T}: Destroy target black permanent.
+3/3

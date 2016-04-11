@@ -1,0 +1,4 @@
+Wildslayer Elves {3}{G}
+Creature — Elf Warrior
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+3/3

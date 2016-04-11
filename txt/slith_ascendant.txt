@@ -1,0 +1,5 @@
+Slith Ascendant {1}{W}{W}
+Creature — Slith
+Flying
+Whenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it.
+1/1

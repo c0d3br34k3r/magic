@@ -1,0 +1,4 @@
+Soldier of Fortune {R}
+Creature — Human Mercenary
+{R}, {T}: Target player shuffles his or her library.
+1/1

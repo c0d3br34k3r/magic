@@ -1,0 +1,3 @@
+Undermine {U}{U}{B}
+Instant
+Counter target spell. Its controller loses 3 life.

@@ -1,0 +1,3 @@
+Penance {2}{W}
+Enchantment
+Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage this turn, prevent that damage.

@@ -1,0 +1,5 @@
+Hunted Troll {2}{G}{G}
+Creature — Troll Warrior
+When Hunted Troll enters the battlefield, target opponent puts four 1/1 blue Faerie creature tokens with flying onto the battlefield.
+{G}: Regenerate Hunted Troll.
+8/4

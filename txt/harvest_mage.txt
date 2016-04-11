@@ -1,0 +1,4 @@
+Harvest Mage {G}
+Creature — Human Spellshaper
+{G}, {T}, Discard a card: Until end of turn, if you tap a land for mana, it produces one mana of a color of your choice instead of any other type and amount.
+1/1

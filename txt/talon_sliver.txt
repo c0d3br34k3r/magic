@@ -1,0 +1,4 @@
+Talon Sliver {1}{W}
+Creature — Sliver
+All Sliver creatures have first strike.
+1/1

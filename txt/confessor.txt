@@ -1,0 +1,4 @@
+Confessor {W}
+Creature — Human Cleric
+Whenever a player discards a card, you may gain 1 life.
+1/1

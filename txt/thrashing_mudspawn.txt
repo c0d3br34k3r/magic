@@ -1,0 +1,5 @@
+Thrashing Mudspawn {3}{B}{B}
+Creature — Beast
+Whenever Thrashing Mudspawn is dealt damage, you lose that much life.
+Morph {1}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+4/4

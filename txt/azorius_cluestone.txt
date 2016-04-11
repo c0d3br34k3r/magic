@@ -1,0 +1,4 @@
+Azorius Cluestone {3}
+Artifact
+{T}: Add {W} or {U} to your mana pool.
+{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.

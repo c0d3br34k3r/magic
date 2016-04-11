@@ -1,0 +1,5 @@
+Nettling Curse {2}{B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature attacks or blocks, its controller loses 3 life.
+{1}{R}: Enchanted creature attacks this turn if able.

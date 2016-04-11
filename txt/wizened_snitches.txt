@@ -1,0 +1,5 @@
+Wizened Snitches {3}{U}
+Creature — Faerie Rogue
+Flying
+Players play with the top card of their libraries revealed.
+1/3

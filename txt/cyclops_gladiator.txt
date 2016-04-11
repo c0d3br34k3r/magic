@@ -1,0 +1,4 @@
+Cyclops Gladiator {1}{R}{R}{R}
+Creature — Cyclops Warrior
+Whenever Cyclops Gladiator attacks, you may have it deal damage equal to its power to target creature defending player controls. If you do, that creature deals damage equal to its power to Cyclops Gladiator.
+4/4

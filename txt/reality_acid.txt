@@ -1,0 +1,5 @@
+Reality Acid {2}{U}
+Enchantment — Aura
+Enchant permanent
+Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Reality Acid leaves the battlefield, enchanted permanent's controller sacrifices it.

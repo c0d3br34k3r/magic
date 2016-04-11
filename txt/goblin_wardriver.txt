@@ -1,0 +1,4 @@
+Goblin Wardriver {R}{R}
+Creature — Goblin Warrior
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+2/2

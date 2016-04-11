@@ -1,0 +1,4 @@
+Fauna Shaman {1}{G}
+Creature — Elf Shaman
+{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, and put it into your hand. Then shuffle your library.
+2/2

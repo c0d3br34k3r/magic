@@ -1,0 +1,4 @@
+Skarrg, the Rage Pits
+Land
+{T}: Add {C} to your mana pool.
+{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.

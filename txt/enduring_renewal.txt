@@ -1,0 +1,5 @@
+Enduring Renewal {2}{W}{W}
+Enchantment
+Play with your hand revealed.
+If you would draw a card, reveal the top card of your library instead. If it's a creature card, put it into your graveyard. Otherwise, draw a card.
+Whenever a creature is put into your graveyard from the battlefield, return it to your hand.

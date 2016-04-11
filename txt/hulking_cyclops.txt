@@ -1,0 +1,4 @@
+Hulking Cyclops {3}{R}{R}
+Creature — Cyclops
+Hulking Cyclops can't block.
+5/5

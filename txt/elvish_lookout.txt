@@ -1,0 +1,4 @@
+Elvish Lookout {G}
+Creature — Elf
+Shroud (This creature can't be the target of spells or abilities.)
+1/1

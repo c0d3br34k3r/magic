@@ -1,0 +1,4 @@
+Llanowar Vanguard {2}{G}
+Creature — Dryad
+{T}: Llanowar Vanguard gets +0/+4 until end of turn.
+1/1

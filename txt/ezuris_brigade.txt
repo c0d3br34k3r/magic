@@ -1,0 +1,4 @@
+Ezuri's Brigade {2}{G}{G}
+Creature — Elf Warrior
+Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.
+4/4

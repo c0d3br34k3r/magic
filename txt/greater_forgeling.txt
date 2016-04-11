@@ -1,0 +1,4 @@
+Greater Forgeling {3}{R}{R}
+Creature — Elemental
+{1}{R}: Greater Forgeling gets +3/-3 until end of turn.
+3/4

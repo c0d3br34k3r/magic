@@ -1,0 +1,4 @@
+Bloodfire Kavu {2}{R}{R}
+Creature — Kavu
+{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.
+2/2

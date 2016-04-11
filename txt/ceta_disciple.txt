@@ -1,0 +1,5 @@
+Ceta Disciple {U}
+Creature — Merfolk Wizard
+{R}, {T}: Target creature gets +2/+0 until end of turn.
+{G}, {T}: Add one mana of any color to your mana pool.
+1/1

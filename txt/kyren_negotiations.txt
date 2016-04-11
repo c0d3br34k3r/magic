@@ -1,0 +1,3 @@
+Kyren Negotiations {2}{R}{R}
+Enchantment
+Tap an untapped creature you control: Kyren Negotiations deals 1 damage to target player.

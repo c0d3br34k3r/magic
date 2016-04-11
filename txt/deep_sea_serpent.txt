@@ -1,0 +1,4 @@
+Deep-Sea Serpent {4}{U}{U}
+Creature — Serpent
+Deep-Sea Serpent can't attack unless defending player controls an Island.
+5/5

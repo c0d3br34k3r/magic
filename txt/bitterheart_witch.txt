@@ -1,0 +1,5 @@
+Bitterheart Witch {4}{B}
+Creature — Human Shaman
+Deathtouch
+When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.
+1/2

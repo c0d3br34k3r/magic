@@ -1,0 +1,5 @@
+Mad Prophet {3}{R}
+Creature — Human Shaman
+Haste
+{T}, Discard a card: Draw a card.
+2/2

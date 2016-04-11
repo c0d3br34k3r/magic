@@ -1,0 +1,5 @@
+Warren Instigator {R}{R}
+Creature — Goblin Berserker
+Double strike
+Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.
+1/1

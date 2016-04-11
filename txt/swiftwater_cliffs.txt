@@ -1,0 +1,5 @@
+Swiftwater Cliffs
+Land
+Swiftwater Cliffs enters the battlefield tapped.
+When Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R} to your mana pool.

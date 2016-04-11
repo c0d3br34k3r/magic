@@ -1,0 +1,5 @@
+Aven Fleetwing {3}{U}
+Creature — Bird Soldier
+Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+2/2

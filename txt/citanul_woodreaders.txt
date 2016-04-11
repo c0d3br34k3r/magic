@@ -1,0 +1,5 @@
+Citanul Woodreaders {2}{G}
+Creature — Human Druid
+Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+When Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.
+1/4

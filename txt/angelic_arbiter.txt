@@ -1,0 +1,6 @@
+Angelic Arbiter {5}{W}{W}
+Creature — Angel
+Flying
+Each opponent who cast a spell this turn can't attack with creatures.
+Each opponent who attacked with a creature this turn can't cast spells.
+5/6

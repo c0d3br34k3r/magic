@@ -1,0 +1,5 @@
+Illusionary Terrain {U}{U}
+Enchantment
+Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+As Illusionary Terrain enters the battlefield, choose two basic land types.
+Basic lands of the first chosen type are the second chosen type.

@@ -1,0 +1,4 @@
+Filthy Cur {1}{B}
+Creature — Hound
+Whenever Filthy Cur is dealt damage, you lose that much life.
+2/2

@@ -1,0 +1,5 @@
+Soulsworn Spirit {3}{U}
+Creature — Spirit
+Soulsworn Spirit can't be blocked.
+When Soulsworn Spirit enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+2/1

@@ -1,0 +1,6 @@
+Taniwha {3}{U}{U}
+Legendary Creature — Serpent
+Trample
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+At the beginning of your upkeep, all lands you control phase out. (They phase in before you untap during your next untap step.)
+7/7

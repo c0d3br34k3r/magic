@@ -1,0 +1,3 @@
+Wild Swing {3}{R}
+Sorcery
+Choose three target nonenchantment permanents. Destroy one of them at random.

@@ -1,0 +1,5 @@
+Maelstrom Archangel {W}{U}{B}{R}{G}
+Creature — Angel
+Flying
+Whenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.
+5/5

@@ -1,0 +1,6 @@
+Siren of the Fanged Coast {3}{U}{U}
+Creature — Siren
+Flying
+Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)
+When Siren of the Fanged Coast enters the battlefield, if tribute wasn't paid, gain control of target creature.
+1/1

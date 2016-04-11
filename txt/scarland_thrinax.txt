@@ -1,0 +1,4 @@
+Scarland Thrinax {B}{R}{G}
+Creature — Lizard
+Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.
+2/2

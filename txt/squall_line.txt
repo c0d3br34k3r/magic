@@ -1,0 +1,3 @@
+Squall Line {X}{G}{G}
+Instant
+Squall Line deals X damage to each creature with flying and each player.

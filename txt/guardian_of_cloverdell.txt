@@ -1,0 +1,5 @@
+Guardian of Cloverdell {5}{G}{G}
+Creature — Treefolk Shaman
+When Guardian of Cloverdell enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.
+{G}, Sacrifice a Kithkin: You gain 1 life.
+4/5

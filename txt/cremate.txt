@@ -1,0 +1,4 @@
+Cremate {B}
+Instant
+Exile target card from a graveyard.
+Draw a card.

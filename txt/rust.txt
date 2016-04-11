@@ -1,0 +1,3 @@
+Rust {G}
+Instant
+Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)

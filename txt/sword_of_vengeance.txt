@@ -1,0 +1,4 @@
+Sword of Vengeance {3}
+Artifact — Equipment
+Equipped creature gets +2/+0 and has first strike, vigilance, trample, and haste.
+Equip {3}

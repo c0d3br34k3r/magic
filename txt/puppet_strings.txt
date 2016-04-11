@@ -1,0 +1,3 @@
+Puppet Strings {3}
+Artifact
+{2}, {T}: You may tap or untap target creature.

@@ -1,0 +1,5 @@
+Decomposition {1}{G}
+Enchantment — Aura
+Enchant black creature
+Enchanted creature has "Cumulative upkeep—Pay 1 life." (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)
+When enchanted creature dies, its controller loses 2 life.

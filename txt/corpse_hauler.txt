@@ -1,0 +1,4 @@
+Corpse Hauler {1}{B}
+Creature — Human Rogue
+{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.
+2/1

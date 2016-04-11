@@ -1,0 +1,5 @@
+Harsh Deceiver {3}{W}
+Creature — Spirit
+{1}: Look at the top card of your library.
+{2}: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability only once each turn.
+1/4

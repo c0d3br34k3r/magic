@@ -1,0 +1,5 @@
+Wasteland Viper {G}
+Creature — Snake
+Deathtouch
+Bloodrush — {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.
+1/2

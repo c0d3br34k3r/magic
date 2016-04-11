@@ -1,0 +1,5 @@
+Skirk Volcanist {3}{R}
+Creature — Goblin
+Morph—Sacrifice two Mountains. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Skirk Volcanist is turned face up, it deals 3 damage divided as you choose among one, two, or three target creatures.
+3/1

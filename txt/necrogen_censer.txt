@@ -1,0 +1,4 @@
+Necrogen Censer {3}
+Artifact
+Necrogen Censer enters the battlefield with two charge counters on it.
+{T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.

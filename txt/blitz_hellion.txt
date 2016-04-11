@@ -1,0 +1,5 @@
+Blitz Hellion {3}{R}{G}
+Creature — Hellion
+Trample, haste
+At the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.
+7/7

@@ -1,0 +1,5 @@
+Sphinx's Disciple {3}{U}{U}
+Creature — Human Wizard
+Flying
+Inspired — Whenever Sphinx's Disciple becomes untapped, draw a card.
+2/2

@@ -1,0 +1,4 @@
+Crypt Rats {2}{B}
+Creature — Rat
+{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+1/1

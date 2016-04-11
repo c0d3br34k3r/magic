@@ -1,0 +1,4 @@
+Sickening Dreams {1}{B}
+Sorcery
+As an additional cost to cast Sickening Dreams, discard X cards.
+Sickening Dreams deals X damage to each creature and each player.

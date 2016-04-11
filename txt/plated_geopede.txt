@@ -1,0 +1,5 @@
+Plated Geopede {1}{R}
+Creature — Insect
+First strike
+Landfall — Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+1/1

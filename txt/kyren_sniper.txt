@@ -1,0 +1,4 @@
+Kyren Sniper {2}{R}
+Creature — Goblin
+At the beginning of your upkeep, you may have Kyren Sniper deal 1 damage to target player.
+1/1

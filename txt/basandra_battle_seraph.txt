@@ -1,0 +1,6 @@
+Basandra, Battle Seraph {3}{W}{R}
+Legendary Creature — Angel
+Flying
+Players can't cast spells during combat.
+{R}: Target creature attacks this turn if able.
+4/4

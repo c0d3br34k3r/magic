@@ -1,0 +1,4 @@
+Ravenous Baloth {2}{G}{G}
+Creature — Beast
+Sacrifice a Beast: You gain 4 life.
+4/4

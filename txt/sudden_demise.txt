@@ -1,0 +1,3 @@
+Sudden Demise {X}{R}
+Sorcery
+Choose a color. Sudden Demise deals X damage to each creature of the chosen color.

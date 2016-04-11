@@ -1,0 +1,4 @@
+Wolf Pack {6}{G}{G}
+Creature — Wolf
+You may have Wolf Pack assign its combat damage as though it weren't blocked.
+7/6

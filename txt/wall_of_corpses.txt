@@ -1,0 +1,5 @@
+Wall of Corpses {1}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+{B}, Sacrifice Wall of Corpses: Destroy target creature Wall of Corpses is blocking.
+0/2

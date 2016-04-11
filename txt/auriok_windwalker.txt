@@ -1,0 +1,5 @@
+Auriok Windwalker {3}{W}
+Creature — Human Wizard
+Flying
+{T}: Attach target Equipment you control to target creature you control.
+2/3

@@ -1,0 +1,4 @@
+Spell Burst {X}{U}
+Instant
+Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Counter target spell with converted mana cost X.

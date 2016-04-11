@@ -1,0 +1,5 @@
+Gallows Warden {4}{W}
+Creature — Spirit
+Flying
+Other Spirit creatures you control get +0/+1.
+3/3

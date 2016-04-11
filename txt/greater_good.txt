@@ -1,0 +1,3 @@
+Greater Good {2}{G}{G}
+Enchantment
+Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.

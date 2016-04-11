@@ -1,0 +1,3 @@
+Gleam of Battle {4}{W}{R}
+Enchantment
+Whenever a creature you control attacks, put a +1/+1 counter on it.

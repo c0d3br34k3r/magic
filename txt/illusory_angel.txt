@@ -1,0 +1,5 @@
+Illusory Angel {2}{U}
+Creature — Angel Illusion
+Flying
+Cast Illusory Angel only if you've cast another spell this turn.
+4/4

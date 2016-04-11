@@ -1,0 +1,4 @@
+Silverchase Fox {1}{W}
+Creature — Fox
+{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.
+2/2

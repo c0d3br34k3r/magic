@@ -1,0 +1,5 @@
+Processor Assault {1}{R}
+Sorcery
+Devoid (This card has no color.)
+As an additional cost to cast Processor Assault, put a card an opponent owns from exile into that player's graveyard.
+Processor Assault deals 5 damage to target creature.

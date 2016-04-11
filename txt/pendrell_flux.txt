@@ -1,0 +1,4 @@
+Pendrell Flux {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost."

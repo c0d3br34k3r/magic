@@ -1,0 +1,5 @@
+Villainous Ogre {2}{B}
+Creature — Ogre Warrior
+Villainous Ogre can't block.
+As long as you control a Demon, Villainous Ogre has "{B}: Regenerate Villainous Ogre."
+3/2

@@ -1,0 +1,4 @@
+Radiant Kavu {W}{R}{G}
+Creature — Kavu
+{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.
+3/3

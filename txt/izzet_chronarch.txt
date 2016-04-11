@@ -1,0 +1,4 @@
+Izzet Chronarch {3}{U}{R}
+Creature — Human Wizard
+When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+2/2

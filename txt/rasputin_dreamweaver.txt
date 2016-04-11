@@ -1,0 +1,8 @@
+Rasputin Dreamweaver {4}{W}{U}
+Legendary Creature — Human Wizard
+Rasputin Dreamweaver enters the battlefield with seven dream counters on it.
+Remove a dream counter from Rasputin: Add {C} to your mana pool.
+Remove a dream counter from Rasputin: Prevent the next 1 damage that would be dealt to Rasputin this turn.
+At the beginning of your upkeep, if Rasputin started the turn untapped, put a dream counter on it.
+Rasputin can't have more than seven dream counters on it.
+4/1

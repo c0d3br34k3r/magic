@@ -1,0 +1,4 @@
+Pyrokinesis {4}{R}{R}
+Instant
+You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.
+Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.

@@ -1,0 +1,3 @@
+Goblin War Strike {R}
+Sorcery
+Goblin War Strike deals damage equal to the number of Goblins you control to target player.

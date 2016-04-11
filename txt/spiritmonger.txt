@@ -1,0 +1,6 @@
+Spiritmonger {3}{B}{G}
+Creature — Beast
+Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.
+{B}: Regenerate Spiritmonger.
+{G}: Spiritmonger becomes the color of your choice until end of turn.
+6/6

@@ -1,0 +1,6 @@
+Inkwell Leviathan {7}{U}{U}
+Artifact Creature — Leviathan
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Trample
+Shroud (This creature can't be the target of spells or abilities.)
+7/11

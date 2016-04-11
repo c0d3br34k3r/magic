@@ -1,0 +1,3 @@
+Mercadia's Downfall {2}{R}
+Instant
+Each attacking creature gets +1/+0 until end of turn for each nonbasic land defending player controls.

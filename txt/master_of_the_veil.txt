@@ -1,0 +1,5 @@
+Master of the Veil {2}{U}{U}
+Creature — Human Wizard
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Master of the Veil is turned face up, you may turn target creature with a morph ability face down.
+2/3

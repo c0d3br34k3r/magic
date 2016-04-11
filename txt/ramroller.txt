@@ -1,0 +1,5 @@
+Ramroller {3}
+Artifact Creature — Juggernaut
+Ramroller attacks each turn if able.
+Ramroller gets +2/+0 as long as you control another artifact.
+2/3

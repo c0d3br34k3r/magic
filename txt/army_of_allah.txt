@@ -1,0 +1,3 @@
+Army of Allah {1}{W}{W}
+Instant
+Attacking creatures get +2/+0 until end of turn.

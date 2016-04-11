@@ -1,0 +1,5 @@
+Goblin Piledriver {1}{R}
+Creature — Goblin Warrior
+Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)
+Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.
+1/2

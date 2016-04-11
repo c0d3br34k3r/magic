@@ -1,0 +1,4 @@
+Lovisa Coldeyes {3}{R}{R}
+Legendary Creature — Human
+Each creature that's a Barbarian, a Warrior, or a Berserker gets +2/+2 and has haste.
+3/3

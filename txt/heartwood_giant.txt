@@ -1,0 +1,4 @@
+Heartwood Giant {3}{G}{G}
+Creature — Giant
+{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.
+4/4

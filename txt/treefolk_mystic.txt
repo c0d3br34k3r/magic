@@ -1,0 +1,4 @@
+Treefolk Mystic {3}{G}
+Creature — Treefolk
+Whenever Treefolk Mystic blocks or becomes blocked by a creature, destroy all Auras attached to that creature.
+2/4

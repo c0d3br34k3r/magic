@@ -1,0 +1,4 @@
+Vengeful Dead {3}{B}
+Creature — Zombie
+Whenever Vengeful Dead or another Zombie dies, each opponent loses 1 life.
+3/2

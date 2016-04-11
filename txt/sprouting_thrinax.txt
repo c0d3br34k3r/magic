@@ -1,0 +1,4 @@
+Sprouting Thrinax {B}{R}{G}
+Creature — Lizard
+When Sprouting Thrinax dies, put three 1/1 green Saproling creature tokens onto the battlefield.
+3/3

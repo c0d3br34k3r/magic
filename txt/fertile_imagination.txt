@@ -1,0 +1,3 @@
+Fertile Imagination {2}{G}{G}
+Sorcery
+Choose a card type. Target opponent reveals his or her hand. Put two 1/1 green Saproling creature tokens onto the battlefield for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)

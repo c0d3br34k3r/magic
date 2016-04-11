@@ -1,0 +1,4 @@
+Tamanoa {W}{R}{G}
+Creature — Spirit
+Whenever a noncreature source you control deals damage, you gain that much life.
+2/4

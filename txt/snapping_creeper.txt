@@ -1,0 +1,4 @@
+Snapping Creeper {2}{G}
+Creature — Plant
+Landfall — Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.
+2/3

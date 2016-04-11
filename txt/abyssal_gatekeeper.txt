@@ -1,0 +1,4 @@
+Abyssal Gatekeeper {1}{B}
+Creature — Horror
+When Abyssal Gatekeeper dies, each player sacrifices a creature.
+1/1

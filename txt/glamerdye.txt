@@ -1,0 +1,4 @@
+Glamerdye {1}{U}
+Instant
+Change the text of target spell or permanent by replacing all instances of one color word with another.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)

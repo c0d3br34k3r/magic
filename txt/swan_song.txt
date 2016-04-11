@@ -1,0 +1,3 @@
+Swan Song {U}
+Instant
+Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.

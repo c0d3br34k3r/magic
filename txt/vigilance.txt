@@ -1,0 +1,4 @@
+Vigilance {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has vigilance. (Attacking doesn't cause it to tap.)

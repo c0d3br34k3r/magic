@@ -1,0 +1,5 @@
+Drana, Kalastria Bloodchief {3}{B}{B}
+Legendary Creature — Vampire Shaman
+Flying
+{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
+4/4

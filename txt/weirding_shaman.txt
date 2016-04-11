@@ -1,0 +1,4 @@
+Weirding Shaman {1}{B}
+Creature — Goblin Shaman
+{3}{B}, Sacrifice a Goblin: Put two 1/1 black Goblin Rogue creature tokens onto the battlefield.
+2/1

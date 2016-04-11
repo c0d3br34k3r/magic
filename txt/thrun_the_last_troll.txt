@@ -1,0 +1,6 @@
+Thrun, the Last Troll {2}{G}{G}
+Legendary Creature — Troll Shaman
+Thrun, the Last Troll can't be countered.
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+{1}{G}: Regenerate Thrun.
+4/4

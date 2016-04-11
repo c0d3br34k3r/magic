@@ -1,0 +1,3 @@
+Commune with Lava {X}{R}{R}
+Instant
+Exile the top X cards of your library. Until the end of your next turn, you may play those cards.

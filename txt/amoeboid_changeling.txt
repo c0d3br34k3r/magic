@@ -1,0 +1,6 @@
+Amoeboid Changeling {1}{U}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{T}: Target creature gains all creature types until end of turn.
+{T}: Target creature loses all creature types until end of turn.
+1/1

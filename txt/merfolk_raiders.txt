@@ -1,0 +1,5 @@
+Merfolk Raiders {1}{U}
+Creature — Merfolk Soldier
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+2/3

@@ -1,0 +1,4 @@
+Tower Gargoyle {1}{W}{U}{B}
+Artifact Creature — Gargoyle
+Flying
+4/4

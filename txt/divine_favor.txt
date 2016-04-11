@@ -1,0 +1,5 @@
+Divine Favor {1}{W}
+Enchantment — Aura
+Enchant creature
+When Divine Favor enters the battlefield, you gain 3 life.
+Enchanted creature gets +1/+3.

@@ -1,0 +1,4 @@
+Hero of Goma Fada {4}{W}
+Creature — Human Knight Ally
+Rally — Whenever Hero of Goma Fada or another Ally enters the battlefield under your control, creatures you control gain indestructible until end of turn.
+4/3

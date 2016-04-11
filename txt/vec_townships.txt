@@ -1,0 +1,4 @@
+Vec Townships
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.

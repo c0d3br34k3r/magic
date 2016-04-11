@@ -1,0 +1,3 @@
+Joraga Invocation {4}{G}{G}
+Sorcery
+Each creature you control gets +3/+3 until end of turn and must be blocked this turn if able.

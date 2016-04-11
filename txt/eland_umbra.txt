@@ -1,0 +1,5 @@
+Eland Umbra {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +0/+4.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

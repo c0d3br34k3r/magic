@@ -1,0 +1,5 @@
+Skull Collector {1}{B}{B}
+Creature — Ogre Warrior
+At the beginning of your upkeep, return a black creature you control to its owner's hand.
+{1}{B}: Regenerate Skull Collector.
+3/3

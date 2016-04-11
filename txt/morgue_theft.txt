@@ -1,0 +1,4 @@
+Morgue Theft {1}{B}
+Sorcery
+Return target creature card from your graveyard to your hand.
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

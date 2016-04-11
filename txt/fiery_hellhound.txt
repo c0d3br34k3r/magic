@@ -1,0 +1,4 @@
+Fiery Hellhound {1}{R}{R}
+Creature — Elemental Hound
+{R}: Fiery Hellhound gets +1/+0 until end of turn.
+2/2

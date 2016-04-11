@@ -1,0 +1,3 @@
+Debt of Loyalty {1}{W}{W}
+Instant
+Regenerate target creature. You gain control of that creature if it regenerates this way.

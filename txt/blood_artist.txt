@@ -1,0 +1,4 @@
+Blood Artist {1}{B}
+Creature — Vampire
+Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
+0/1

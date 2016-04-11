@@ -1,0 +1,6 @@
+Blood Tyrant {4}{U}{B}{R}
+Creature — Vampire
+Flying, trample
+At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.
+Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.
+5/5

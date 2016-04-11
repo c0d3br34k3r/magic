@@ -1,0 +1,4 @@
+Furnace Brood {3}{R}
+Creature — Elemental
+{R}: Target creature can't be regenerated this turn.
+3/3

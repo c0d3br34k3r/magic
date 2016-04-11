@@ -1,0 +1,3 @@
+Hunt Down {G}
+Sorcery
+Target creature blocks target creature this turn if able.

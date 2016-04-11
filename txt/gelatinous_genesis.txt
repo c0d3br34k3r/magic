@@ -1,0 +1,3 @@
+Gelatinous Genesis {X}{X}{G}
+Sorcery
+Put X X/X green Ooze creature tokens onto the battlefield.

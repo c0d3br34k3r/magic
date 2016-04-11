@@ -1,0 +1,5 @@
+Necrologia {3}{B}{B}
+Instant
+Cast Necrologia only during your end step.
+As an additional cost to cast Necrologia, pay X life.
+Draw X cards.

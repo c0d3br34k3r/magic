@@ -1,0 +1,3 @@
+Utter End {2}{W}{B}
+Instant
+Exile target nonland permanent.

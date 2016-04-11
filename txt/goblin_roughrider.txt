@@ -1,0 +1,3 @@
+Goblin Roughrider {2}{R}
+Creature — Goblin Knight
+3/2

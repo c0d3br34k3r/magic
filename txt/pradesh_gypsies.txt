@@ -1,0 +1,4 @@
+Pradesh Gypsies {2}{G}
+Creature — Human Nomad
+{1}{G}, {T}: Target creature gets -2/-0 until end of turn.
+1/1

@@ -1,0 +1,5 @@
+Sunhome Enforcer {2}{W}{R}
+Creature — Giant Soldier
+Whenever Sunhome Enforcer deals combat damage, you gain that much life.
+{1}{R}: Sunhome Enforcer gets +1/+0 until end of turn.
+2/4

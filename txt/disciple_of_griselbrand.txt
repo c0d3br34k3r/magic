@@ -1,0 +1,4 @@
+Disciple of Griselbrand {1}{B}
+Creature — Human Cleric
+{1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
+1/1

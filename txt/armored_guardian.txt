@@ -1,0 +1,5 @@
+Armored Guardian {3}{W}{U}
+Creature — Cat Soldier
+{1}{W}{W}: Target creature you control gains protection from the color of your choice until end of turn.
+{1}{U}{U}: Armored Guardian gains shroud until end of turn. (It can't be the target of spells or abilities.)
+2/5

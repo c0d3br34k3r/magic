@@ -1,0 +1,5 @@
+Kezzerdrix {2}{B}{B}
+Creature — Rabbit Beast
+First strike
+At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.
+4/4

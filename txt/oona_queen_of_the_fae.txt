@@ -1,0 +1,5 @@
+Oona, Queen of the Fae {3}{U/B}{U/B}{U/B}
+Legendary Creature — Faerie Wizard
+Flying
+{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+5/5

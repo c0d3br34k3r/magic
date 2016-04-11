@@ -1,0 +1,3 @@
+Conch Horn {2}
+Artifact
+{1}, {T}, Sacrifice Conch Horn: Draw two cards, then put a card from your hand on top of your library.

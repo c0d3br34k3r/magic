@@ -1,0 +1,4 @@
+Alms Beast {2}{W}{B}
+Creature — Beast
+Creatures blocking or blocked by Alms Beast have lifelink.
+6/6

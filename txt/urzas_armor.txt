@@ -1,0 +1,3 @@
+Urza's Armor {6}
+Artifact
+If a source would deal damage to you, prevent 1 of that damage.

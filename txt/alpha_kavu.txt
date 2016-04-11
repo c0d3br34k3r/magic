@@ -1,0 +1,4 @@
+Alpha Kavu {2}{G}
+Creature — Kavu
+{1}{G}: Target Kavu creature gets -1/+1 until end of turn.
+2/2

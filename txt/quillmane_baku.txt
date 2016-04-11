@@ -1,0 +1,5 @@
+Quillmane Baku {4}{U}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.
+{1}, {T}, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand.
+3/3

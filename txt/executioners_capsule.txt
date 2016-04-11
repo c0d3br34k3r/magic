@@ -1,0 +1,3 @@
+Executioner's Capsule {B}
+Artifact
+{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.

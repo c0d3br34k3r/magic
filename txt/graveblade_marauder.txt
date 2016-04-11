@@ -1,0 +1,5 @@
+Graveblade Marauder {2}{B}
+Creature — Human Warrior
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever Graveblade Marauder deals combat damage to a player, that player loses life equal to the number of creature cards in your graveyard.
+1/4

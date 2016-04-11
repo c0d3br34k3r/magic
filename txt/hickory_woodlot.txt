@@ -1,0 +1,4 @@
+Hickory Woodlot
+Land
+Hickory Woodlot enters the battlefield tapped with two depletion counters on it.
+{T}, Remove a depletion counter from Hickory Woodlot: Add {G}{G} to your mana pool. If there are no depletion counters on Hickory Woodlot, sacrifice it.

@@ -1,0 +1,3 @@
+Last Breath {1}{W}
+Instant
+Exile target creature with power 2 or less. Its controller gains 4 life.

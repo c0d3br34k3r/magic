@@ -1,0 +1,4 @@
+Dwarven Berserker {1}{R}
+Creature — Dwarf Berserker
+Whenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.
+1/1

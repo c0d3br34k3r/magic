@@ -1,0 +1,5 @@
+Evermind
+(U) Instant — Arcane
+(Nonexistent mana costs can't be paid.)
+Draw a card.
+Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)

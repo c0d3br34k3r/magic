@@ -1,0 +1,5 @@
+Loyal Gyrfalcon {3}{W}
+Creature — Bird
+Defender, flying
+Whenever you cast a white spell, Loyal Gyrfalcon loses defender until end of turn.
+3/3

@@ -1,0 +1,4 @@
+Minamo, School at Water's Edge
+Legendary Land
+{T}: Add {U} to your mana pool.
+{U}, {T}: Untap target legendary permanent.

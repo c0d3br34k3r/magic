@@ -1,0 +1,3 @@
+Cranial Archive {2}
+Artifact
+{2}, Exile Cranial Archive: Target player shuffles his or her graveyard into his or her library. Draw a card.

@@ -1,0 +1,5 @@
+Silent Sentinel {5}{W}{W}
+Creature — Archon
+Flying
+Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.
+4/6

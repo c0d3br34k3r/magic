@@ -1,0 +1,5 @@
+Elder Land Wurm {4}{W}{W}{W}
+Creature — Dragon Wurm
+Defender, trample
+When Elder Land Wurm blocks, it loses defender.
+5/5

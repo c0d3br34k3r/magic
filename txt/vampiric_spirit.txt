@@ -1,0 +1,5 @@
+Vampiric Spirit {2}{B}{B}
+Creature — Spirit
+Flying
+When Vampiric Spirit enters the battlefield, you lose 4 life.
+4/3

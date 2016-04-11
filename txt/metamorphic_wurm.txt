@@ -1,0 +1,4 @@
+Metamorphic Wurm {3}{G}{G}
+Creature — Elephant Wurm
+Threshold — Metamorphic Wurm gets +4/+4 as long as seven or more cards are in your graveyard.
+3/3

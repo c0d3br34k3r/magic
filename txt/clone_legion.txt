@@ -1,0 +1,3 @@
+Clone Legion {7}{U}{U}
+Sorcery
+For each creature target player controls, put a token onto the battlefield that's a copy of that creature.

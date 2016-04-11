@@ -1,0 +1,5 @@
+Haazda Shield Mate {2}{W}
+Creature — Human Soldier
+At the beginning of your upkeep, sacrifice Haazda Shield Mate unless you pay {W}{W}.
+{W}: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+1/1

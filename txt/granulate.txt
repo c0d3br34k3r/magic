@@ -1,0 +1,3 @@
+Granulate {2}{R}{R}
+Sorcery
+Destroy each nonland artifact with converted mana cost 4 or less.

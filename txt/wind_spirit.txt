@@ -1,0 +1,5 @@
+Wind Spirit {4}{U}
+Creature — Elemental Spirit
+Flying
+Menace (This creature can't be blocked except by two or more creatures.)
+3/2

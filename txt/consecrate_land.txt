@@ -1,0 +1,4 @@
+Consecrate Land {W}
+Enchantment — Aura
+Enchant land
+Enchanted land has indestructible and can't be enchanted by other Auras.

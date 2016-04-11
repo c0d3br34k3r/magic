@@ -1,0 +1,4 @@
+Viashino Skeleton {3}{R}
+Creature — Viashino Skeleton
+{1}{B}, Discard a card: Regenerate Viashino Skeleton.
+2/1

@@ -1,0 +1,4 @@
+Argothian Treefolk {3}{G}{G}
+Creature — Treefolk
+Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.
+3/5

@@ -1,0 +1,4 @@
+Seasoned Tactician {2}{W}
+Creature — Human Advisor
+{3}, Exile the top four cards of your library: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+1/3

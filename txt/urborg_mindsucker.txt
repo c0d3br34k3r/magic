@@ -1,0 +1,4 @@
+Urborg Mindsucker {2}{B}
+Creature — Horror
+{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.
+2/2

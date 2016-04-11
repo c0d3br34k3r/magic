@@ -1,0 +1,4 @@
+Nevinyrral's Disk {4}
+Artifact
+Nevinyrral's Disk enters the battlefield tapped.
+{1}, {T}: Destroy all artifacts, creatures, and enchantments.

@@ -1,0 +1,4 @@
+Ashen Firebeast {6}{R}{R}
+Creature — Elemental Beast
+{1}{R}: Ashen Firebeast deals 1 damage to each creature without flying.
+6/6

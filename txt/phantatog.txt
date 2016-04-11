@@ -1,0 +1,5 @@
+Phantatog {1}{W}{U}
+Creature — Atog
+Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn.
+Discard a card: Phantatog gets +1/+1 until end of turn.
+1/2

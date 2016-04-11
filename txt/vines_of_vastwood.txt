@@ -1,0 +1,4 @@
+Vines of Vastwood {G}
+Instant
+Kicker {G} (You may pay an additional {G} as you cast this spell.)
+Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.

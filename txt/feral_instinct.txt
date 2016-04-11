@@ -1,0 +1,4 @@
+Feral Instinct {1}{G}
+Instant
+Target creature gets +1/+1 until end of turn.
+Draw a card at the beginning of the next turn's upkeep.

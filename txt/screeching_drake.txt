@@ -1,0 +1,5 @@
+Screeching Drake {3}{U}
+Creature — Drake
+Flying
+When Screeching Drake enters the battlefield, draw a card, then discard a card.
+2/2

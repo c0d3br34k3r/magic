@@ -1,0 +1,3 @@
+Viridian Revel {1}{G}{G}
+Enchantment
+Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card.

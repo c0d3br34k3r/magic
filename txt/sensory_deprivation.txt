@@ -1,0 +1,4 @@
+Sensory Deprivation {U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -3/-0.

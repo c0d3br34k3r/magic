@@ -1,0 +1,4 @@
+Marsh Threader {1}{W}
+Creature — Kor Scout
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+2/1

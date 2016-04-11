@@ -1,0 +1,4 @@
+Sultai Flayer {3}{G}
+Creature — Naga Shaman
+Whenever a creature you control with toughness 4 or greater dies, you gain 4 life.
+3/4

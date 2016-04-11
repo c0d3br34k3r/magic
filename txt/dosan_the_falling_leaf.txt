@@ -1,0 +1,4 @@
+Dosan the Falling Leaf {1}{G}{G}
+Legendary Creature — Human Monk
+Players can cast spells only during their own turns.
+2/2

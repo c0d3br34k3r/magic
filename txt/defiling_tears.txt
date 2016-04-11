@@ -1,0 +1,3 @@
+Defiling Tears {2}{B}
+Instant
+Until end of turn, target creature becomes black, gets +1/-1, and gains "{B}: Regenerate this creature."

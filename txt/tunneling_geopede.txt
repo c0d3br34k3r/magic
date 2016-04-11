@@ -1,0 +1,4 @@
+Tunneling Geopede {2}{R}
+Creature — Insect
+Landfall — Whenever a land enters the battlefield under your control, Tunneling Geopede deals 1 damage to each opponent.
+3/2

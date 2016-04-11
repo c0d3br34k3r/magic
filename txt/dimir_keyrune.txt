@@ -1,0 +1,4 @@
+Dimir Keyrune {3}
+Artifact
+{T}: Add {U} or {B} to your mana pool.
+{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.

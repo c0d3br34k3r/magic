@@ -1,0 +1,5 @@
+Vexing Beetle {4}{G}
+Creature — Insect
+Vexing Beetle can't be countered.
+Vexing Beetle gets +3/+3 as long as no opponent controls a creature.
+3/3

@@ -1,0 +1,4 @@
+Last Laugh {2}{B}{B}
+Enchantment
+Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player.
+When no creatures are on the battlefield, sacrifice Last Laugh.

@@ -1,0 +1,4 @@
+Selesnya Evangel {W}{G}
+Creature — Elf Shaman
+{1}, {T}, Tap an untapped creature you control: Put a 1/1 green Saproling creature token onto the battlefield.
+1/2

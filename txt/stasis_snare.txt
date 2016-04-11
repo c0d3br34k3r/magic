@@ -1,0 +1,4 @@
+Stasis Snare {1}{W}{W}
+Enchantment
+Flash (You may cast this spell any time you could cast an instant.)
+When Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)

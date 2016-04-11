@@ -1,0 +1,4 @@
+Blistercoil Weird {U/R}
+Creature — Weird
+Whenever you cast an instant or sorcery spell, Blistercoil Weird gets +1/+1 until end of turn. Untap it.
+1/1

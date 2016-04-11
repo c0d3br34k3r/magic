@@ -1,0 +1,4 @@
+Venom {1}{G}{G}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.

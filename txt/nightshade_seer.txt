@@ -1,0 +1,4 @@
+Nightshade Seer {3}{B}
+Creature — Human Wizard
+{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.
+1/1

@@ -1,0 +1,3 @@
+Seismic Spike {2}{R}{R}
+Sorcery
+Destroy target land. Add {R}{R} to your mana pool.

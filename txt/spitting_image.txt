@@ -1,0 +1,4 @@
+Spitting Image {4}{G/U}{G/U}
+Sorcery
+Put a token that's a copy of target creature onto the battlefield.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)

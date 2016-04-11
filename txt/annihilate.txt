@@ -1,0 +1,4 @@
+Annihilate {3}{B}{B}
+Instant
+Destroy target nonblack creature. It can't be regenerated.
+Draw a card.

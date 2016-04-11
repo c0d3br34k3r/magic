@@ -1,0 +1,6 @@
+Auntie's Snitch {2}{B}
+Creature — Goblin Rogue
+Auntie's Snitch can't block.
+Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.
+3/1

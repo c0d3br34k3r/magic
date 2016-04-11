@@ -1,0 +1,5 @@
+Brighthearth Banneret {1}{R}
+Creature — Elemental Warrior
+Elemental spells and Warrior spells you cast cost {1} less to cast.
+Reinforce 1—{1}{R} ({1}{R}, Discard this card: Put a +1/+1 counter on target creature.)
+1/1

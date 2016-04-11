@@ -1,0 +1,4 @@
+Lim-Dûl's Cohort {1}{B}{B}
+Creature — Zombie
+Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.
+2/3

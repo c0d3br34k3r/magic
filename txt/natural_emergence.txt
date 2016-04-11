@@ -1,0 +1,4 @@
+Natural Emergence {2}{R}{G}
+Enchantment
+When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand.
+Lands you control are 2/2 creatures with first strike. They're still lands.

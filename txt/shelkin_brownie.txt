@@ -1,0 +1,4 @@
+Shelkin Brownie {1}{G}
+Creature — Ouphe
+{T}: Target creature loses all "bands with other" abilities until end of turn.
+1/1

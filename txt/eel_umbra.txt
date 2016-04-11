@@ -1,0 +1,6 @@
+Eel Umbra {1}{U}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +1/+1.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

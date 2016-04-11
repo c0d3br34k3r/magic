@@ -1,0 +1,4 @@
+Shepherd of the Lost {4}{W}
+Creature — Angel
+Flying, first strike, vigilance
+3/3

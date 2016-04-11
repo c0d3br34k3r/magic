@@ -1,0 +1,3 @@
+Miming Slime {2}{G}
+Sorcery
+Put an X/X green Ooze creature token onto the battlefield, where X is the greatest power among creatures you control.

@@ -1,0 +1,4 @@
+Ritual of Subdual {4}{G}{G}
+Enchantment
+Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+If a land is tapped for mana, it produces colorless mana instead of any other type.

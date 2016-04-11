@@ -1,0 +1,4 @@
+Curse of Stalked Prey {1}{R}
+Enchantment — Aura Curse
+Enchant player
+Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.

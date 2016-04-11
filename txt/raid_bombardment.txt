@@ -1,0 +1,3 @@
+Raid Bombardment {2}{R}
+Enchantment
+Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.

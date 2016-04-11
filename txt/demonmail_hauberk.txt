@@ -1,0 +1,4 @@
+Demonmail Hauberk {4}
+Artifact — Equipment
+Equipped creature gets +4/+2.
+Equip—Sacrifice a creature.

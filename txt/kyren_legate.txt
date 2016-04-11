@@ -1,0 +1,5 @@
+Kyren Legate {1}{R}
+Creature — Goblin
+Haste
+If an opponent controls a Plains and you control a Mountain, you may cast Kyren Legate without paying its mana cost.
+1/1

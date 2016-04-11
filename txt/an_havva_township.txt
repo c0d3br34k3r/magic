@@ -1,0 +1,5 @@
+An-Havva Township
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Add {G} to your mana pool.
+{2}, {T}: Add {R} or {W} to your mana pool.

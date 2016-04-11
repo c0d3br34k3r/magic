@@ -1,0 +1,5 @@
+Crown of Flames {R}
+Enchantment — Aura
+Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.
+{R}: Return Crown of Flames to its owner's hand.

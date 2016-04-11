@@ -1,0 +1,4 @@
+Petrified Field
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice Petrified Field: Return target land card from your graveyard to your hand.

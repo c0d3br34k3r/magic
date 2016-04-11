@@ -1,0 +1,4 @@
+Breaching Leviathan {7}{U}{U}
+Creature — Leviathan
+When Breaching Leviathan enters the battlefield, if you cast it from your hand, tap all nonblue creatures. Those creatures don't untap during their controllers' next untap steps.
+9/9

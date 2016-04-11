@@ -1,0 +1,4 @@
+Death of a Thousand Stings {4}{B}
+Instant — Arcane
+Target player loses 1 life and you gain 1 life.
+At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Death of a Thousand Stings from your graveyard to your hand.

@@ -1,0 +1,4 @@
+Centaur Rootcaster {3}{G}
+Creature — Centaur Druid
+Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+2/2

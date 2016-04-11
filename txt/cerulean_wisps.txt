@@ -1,0 +1,4 @@
+Cerulean Wisps {U}
+Instant
+Target creature becomes blue until end of turn. Untap that creature.
+Draw a card.

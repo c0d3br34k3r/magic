@@ -1,0 +1,5 @@
+Scarwood Hag {1}{G}
+Creature — Hag
+{G}{G}{G}{G}, {T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)
+{T}: Target creature loses forestwalk until end of turn.
+1/1

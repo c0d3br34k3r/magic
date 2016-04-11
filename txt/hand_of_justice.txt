@@ -1,0 +1,4 @@
+Hand of Justice {5}{W}
+Creature — Avatar
+{T}, Tap three untapped white creatures you control: Destroy target creature.
+2/6

@@ -1,0 +1,5 @@
+Ghastly Remains {B}{B}{B}
+Creature — Zombie
+Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)
+At the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.
+0/0

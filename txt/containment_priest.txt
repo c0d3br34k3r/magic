@@ -1,0 +1,5 @@
+Containment Priest {1}{W}
+Creature — Human Cleric
+Flash
+If a nontoken creature would enter the battlefield and it wasn't cast, exile it instead.
+2/2

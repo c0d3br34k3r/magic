@@ -1,0 +1,5 @@
+Serendib Efreet {2}{U}
+Creature — Efreet
+Flying
+At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
+3/4

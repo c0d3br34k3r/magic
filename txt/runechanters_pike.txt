@@ -1,0 +1,4 @@
+Runechanter's Pike {2}
+Artifact — Equipment
+Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.
+Equip {2}

@@ -1,0 +1,5 @@
+Ojutai, Soul of Winter {5}{W}{U}
+Legendary Creature — Dragon
+Flying, vigilance
+Whenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step.
+5/6

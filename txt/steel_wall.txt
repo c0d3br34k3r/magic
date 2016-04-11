@@ -1,0 +1,4 @@
+Steel Wall {1}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+0/4

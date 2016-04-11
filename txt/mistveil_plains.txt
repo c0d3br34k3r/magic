@@ -1,0 +1,5 @@
+Mistveil Plains
+Land — Plains
+({T}: Add {W} to your mana pool.)
+Mistveil Plains enters the battlefield tapped.
+{W}, {T}: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents.

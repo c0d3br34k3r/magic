@@ -1,0 +1,4 @@
+Tin Street Market {4}{R}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}, Discard a card: Draw a card."

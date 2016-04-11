@@ -1,0 +1,4 @@
+Dream Stalker {1}{U}
+Creature — Illusion
+When Dream Stalker enters the battlefield, return a permanent you control to its owner's hand.
+1/5

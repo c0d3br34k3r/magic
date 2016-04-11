@@ -1,0 +1,4 @@
+Darba {3}{G}
+Creature — Bird Beast
+At the beginning of your upkeep, sacrifice Darba unless you pay {G}{G}.
+5/4

@@ -1,0 +1,3 @@
+Jade Monolith {4}
+Artifact
+{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.

@@ -1,0 +1,4 @@
+Darkheart Sliver {B}{G}
+Creature — Sliver
+All Slivers have "Sacrifice this permanent: You gain 3 life."
+2/2

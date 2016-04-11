@@ -1,0 +1,5 @@
+Sentinel of the Eternal Watch {5}{W}
+Creature — Giant Soldier
+Vigilance (Attacking doesn't cause this creature to tap.)
+At the beginning of combat on each opponent's turn, tap target creature that player controls.
+4/6

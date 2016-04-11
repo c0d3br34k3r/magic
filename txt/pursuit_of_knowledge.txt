@@ -1,0 +1,4 @@
+Pursuit of Knowledge {3}{W}
+Enchantment
+If you would draw a card, you may put a study counter on Pursuit of Knowledge instead.
+Remove three study counters from Pursuit of Knowledge, Sacrifice Pursuit of Knowledge: Draw seven cards.

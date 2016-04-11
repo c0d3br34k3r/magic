@@ -1,0 +1,4 @@
+Symbiotic Wurm {5}{G}{G}{G}
+Creature — Wurm
+When Symbiotic Wurm dies, put seven 1/1 green Insect creature tokens onto the battlefield.
+7/7

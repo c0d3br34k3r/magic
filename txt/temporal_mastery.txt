@@ -1,0 +1,4 @@
+Temporal Mastery {5}{U}{U}
+Sorcery
+Take an extra turn after this one. Exile Temporal Mastery.
+Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)

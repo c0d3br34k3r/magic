@@ -1,0 +1,5 @@
+Hypersonic Dragon {3}{U}{R}
+Creature — Dragon
+Flying, haste
+You may cast sorcery cards as though they had flash. (You may cast them any time you could cast an instant.)
+4/4

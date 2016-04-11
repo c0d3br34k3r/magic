@@ -1,0 +1,6 @@
+Savage Firecat {3}{R}{R}
+Creature — Elemental Cat
+Trample
+Savage Firecat enters the battlefield with seven +1/+1 counters on it.
+Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.
+0/0

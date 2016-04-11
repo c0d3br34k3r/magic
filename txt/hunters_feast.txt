@@ -1,0 +1,3 @@
+Hunters' Feast {3}{G}
+Sorcery
+Any number of target players each gain 6 life.

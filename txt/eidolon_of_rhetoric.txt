@@ -1,0 +1,4 @@
+Eidolon of Rhetoric {2}{W}
+Enchantment Creature — Spirit
+Each player can't cast more than one spell each turn.
+1/4

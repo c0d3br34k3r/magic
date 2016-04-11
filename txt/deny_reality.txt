@@ -1,0 +1,4 @@
+Deny Reality {3}{U}{B}
+Sorcery
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Return target permanent to its owner's hand.

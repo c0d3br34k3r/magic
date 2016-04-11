@@ -1,0 +1,4 @@
+Akki Underminer {3}{R}
+Creature — Goblin Rogue Shaman
+Whenever Akki Underminer deals combat damage to a player, that player sacrifices a permanent.
+1/1

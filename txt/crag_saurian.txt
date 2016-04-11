@@ -1,0 +1,4 @@
+Crag Saurian {R}{R}{R}
+Creature — Lizard
+Whenever a source deals damage to Crag Saurian, that source's controller gains control of Crag Saurian.
+4/4

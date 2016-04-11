@@ -1,0 +1,4 @@
+Forbid {1}{U}{U}
+Instant
+Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Counter target spell.

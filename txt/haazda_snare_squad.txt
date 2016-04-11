@@ -1,0 +1,4 @@
+Haazda Snare Squad {2}{W}
+Creature — Human Soldier
+Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.
+1/4

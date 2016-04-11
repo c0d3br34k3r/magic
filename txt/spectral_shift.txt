@@ -1,0 +1,6 @@
+Spectral Shift {1}{U}
+Instant
+Choose one —
+• Change the text of target spell or permanent by replacing all instances of one basic land type with another. (This effects last indefinitely.)
+• Change the text of target spell or permanent by replacing all instances of one color word with another. (This effects last indefinitely.)
+Entwine {2} (Choose both if you pay the entwine cost.)

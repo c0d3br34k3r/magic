@@ -1,0 +1,3 @@
+Interpret the Signs {5}{U}
+Sorcery
+Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)

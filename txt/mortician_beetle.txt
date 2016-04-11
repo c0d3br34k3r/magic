@@ -1,0 +1,4 @@
+Mortician Beetle {B}
+Creature — Insect
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.
+1/1

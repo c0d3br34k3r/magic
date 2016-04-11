@@ -1,0 +1,5 @@
+Guan Yu, Sainted Warrior {3}{W}{W}
+Legendary Creature — Human Soldier Warrior
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library.
+3/5

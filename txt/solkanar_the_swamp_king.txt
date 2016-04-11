@@ -1,0 +1,5 @@
+Sol'kanar the Swamp King {2}{U}{B}{R}
+Legendary Creature — Demon
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Whenever a player casts a black spell, you gain 1 life.
+5/5

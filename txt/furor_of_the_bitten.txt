@@ -1,0 +1,4 @@
+Furor of the Bitten {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.

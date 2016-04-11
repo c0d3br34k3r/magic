@@ -1,0 +1,5 @@
+Ulrich's Kindred {2}{R}
+Creature — Wolf
+Trample
+{3}{G}: Target attacking Wolf or Werewolf gains indestructible until end of turn.
+3/2

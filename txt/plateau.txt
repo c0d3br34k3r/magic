@@ -1,0 +1,3 @@
+Plateau
+Land — Mountain Plains
+({T}: Add {R} or {W} to your mana pool.)

@@ -1,0 +1,4 @@
+Nessian Game Warden {3}{G}{G}
+Creature — Beast
+When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+4/5

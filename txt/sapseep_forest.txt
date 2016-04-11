@@ -1,0 +1,5 @@
+Sapseep Forest
+Land — Forest
+({T}: Add {G} to your mana pool.)
+Sapseep Forest enters the battlefield tapped.
+{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.

@@ -1,0 +1,4 @@
+Necrotic Ooze {2}{B}{B}
+Creature — Ooze
+As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.
+4/3

@@ -1,0 +1,3 @@
+Seashell Cameo {3}
+Artifact
+{T}: Add {W} or {U} to your mana pool.

@@ -1,0 +1,4 @@
+Temporal Extortion {B}{B}{B}{B}
+Sorcery
+When you cast Temporal Extortion, any player may pay half his or her life, rounded up. If a player does, counter Temporal Extortion.
+Take an extra turn after this one.

@@ -1,0 +1,5 @@
+Resounding Wave {2}{U}
+Instant
+Return target permanent to its owner's hand.
+Cycling {5}{W}{U}{B} ({5}{W}{U}{B}, Discard this card: Draw a card.)
+When you cycle Resounding Wave, return two target permanents to their owners' hands.

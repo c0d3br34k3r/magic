@@ -1,0 +1,5 @@
+Stingmoggie {3}{R}
+Creature — Elemental
+Stingmoggie enters the battlefield with two +1/+1 counters on it.
+{3}{R}, Remove a +1/+1 counter from Stingmoggie: Destroy target artifact or land.
+0/0

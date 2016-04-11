@@ -1,0 +1,3 @@
+Karmic Justice {2}{W}
+Enchantment
+Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.

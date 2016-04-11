@@ -1,0 +1,6 @@
+Mystic Confluence {3}{U}{U}
+Instant
+Choose three. You may choose the same mode more than once.
+• Counter target spell unless its controller pays {3}.
+• Return target creature to its owner's hand.
+• Draw a card.

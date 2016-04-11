@@ -1,0 +1,4 @@
+Shivan Gorge
+Legendary Land
+{T}: Add {C} to your mana pool.
+{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.

@@ -1,0 +1,5 @@
+Warden of the Wall {3}
+Artifact
+Warden of the Wall enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.

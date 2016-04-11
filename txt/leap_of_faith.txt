@@ -1,0 +1,3 @@
+Leap of Faith {2}{W}
+Instant
+Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn.

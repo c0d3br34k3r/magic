@@ -1,0 +1,4 @@
+Goblin Balloon Brigade {R}
+Creature — Goblin Warrior
+{R}: Goblin Balloon Brigade gains flying until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Jace's Archivist {1}{U}{U}
+Creature — Vedalken Wizard
+{U}, {T}: Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.
+2/2

@@ -1,0 +1,3 @@
+Wake of Destruction {3}{R}{R}{R}
+Sorcery
+Destroy target land and all other lands with the same name as that land.

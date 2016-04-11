@@ -1,0 +1,5 @@
+Marauding Knight {2}{B}{B}
+Creature — Zombie Knight
+Protection from white
+Marauding Knight gets +1/+1 for each Plains your opponents control.
+2/2

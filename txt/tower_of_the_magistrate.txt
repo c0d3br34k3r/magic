@@ -1,0 +1,4 @@
+Tower of the Magistrate
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Target creature gains protection from artifacts until end of turn.

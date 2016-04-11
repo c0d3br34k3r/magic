@@ -1,0 +1,4 @@
+Verduran Enchantress {1}{G}{G}
+Creature — Human Druid
+Whenever you cast an enchantment spell, you may draw a card.
+0/2

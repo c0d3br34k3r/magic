@@ -1,0 +1,5 @@
+Ghost-Lit Warder {1}{U}
+Creature — Spirit
+{3}{U}, {T}: Counter target spell unless its controller pays {2}.
+Channel — {3}{U}, Discard Ghost-Lit Warder: Counter target spell unless its controller pays {4}.
+1/1

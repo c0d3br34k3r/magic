@@ -1,0 +1,3 @@
+Fomori Nomad {4}{R}
+Creature — Nomad Giant
+4/4

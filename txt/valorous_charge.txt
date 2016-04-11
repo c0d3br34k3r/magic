@@ -1,0 +1,3 @@
+Valorous Charge {1}{W}{W}
+Sorcery
+White creatures get +2/+0 until end of turn.

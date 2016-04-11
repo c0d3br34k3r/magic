@@ -1,0 +1,4 @@
+Runed Arch {3}
+Artifact
+Runed Arch enters the battlefield tapped.
+{X}, {T}, Sacrifice Runed Arch: X target creatures with power 2 or less can't be blocked this turn.

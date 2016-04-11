@@ -1,0 +1,4 @@
+Seer's Lantern {3}
+Artifact
+{T}: Add {C} to your mana pool. ({C} represents colorless mana.)
+{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)

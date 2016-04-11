@@ -1,0 +1,3 @@
+Searing Meditation {1}{W}{R}
+Enchantment
+Whenever you gain life, you may pay {2}. If you do, Searing Meditation deals 2 damage to target creature or player.

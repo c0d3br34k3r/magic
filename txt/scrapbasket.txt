@@ -1,0 +1,4 @@
+Scrapbasket {4}
+Artifact Creature — Scarecrow
+{1}: Scrapbasket becomes all colors until end of turn.
+3/2

@@ -1,0 +1,4 @@
+Zo-Zu the Punisher {1}{R}{R}
+Legendary Creature — Goblin Warrior
+Whenever a land enters the battlefield, Zo-Zu the Punisher deals 2 damage to that land's controller.
+2/2

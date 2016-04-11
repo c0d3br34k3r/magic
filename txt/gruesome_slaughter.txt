@@ -1,0 +1,3 @@
+Gruesome Slaughter {6}
+Sorcery
+Until end of turn, colorless creatures you control gain "{T}: This creature deals damage equal to its power to target creature."

@@ -1,0 +1,3 @@
+Honor of the Pure {1}{W}
+Enchantment
+White creatures you control get +1/+1.

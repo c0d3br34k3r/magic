@@ -1,0 +1,4 @@
+Felhide Brawler {1}{B}
+Creature — Minotaur
+Felhide Brawler can't block unless you control another Minotaur.
+2/2

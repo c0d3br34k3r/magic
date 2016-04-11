@@ -1,0 +1,6 @@
+Master of Cruelties {3}{B}{R}
+Creature — Demon
+First strike, deathtouch
+Master of Cruelties can only attack alone.
+Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.
+1/4

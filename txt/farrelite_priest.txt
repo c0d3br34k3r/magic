@@ -1,0 +1,4 @@
+Farrelite Priest {1}{W}{W}
+Creature — Human Cleric
+{1}: Add {W} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Farrelite Priest at the beginning of the next end step.
+1/3

@@ -1,0 +1,5 @@
+Rust Tick {3}
+Artifact Creature — Insect
+You may choose not to untap Rust Tick during your untap step.
+{1}, {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.
+1/3

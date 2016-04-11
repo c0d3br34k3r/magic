@@ -1,0 +1,4 @@
+Quillspike {2}{B/G}
+Creature — Beast
+{B/G}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Spatial Contortion {1}{C}
+Instant
+({C} represents colorless mana.)
+Target creature gets +3/-3 until end of turn.

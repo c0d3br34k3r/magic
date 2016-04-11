@@ -1,0 +1,6 @@
+Blessing of Leeches {2}{B}
+Enchantment — Aura
+Flash
+Enchant creature
+At the beginning of your upkeep, you lose 1 life.
+{0}: Regenerate enchanted creature.

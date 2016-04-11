@@ -1,0 +1,4 @@
+Mirran Crusader {1}{W}{W}
+Creature — Human Knight
+Double strike, protection from black and from green
+2/2

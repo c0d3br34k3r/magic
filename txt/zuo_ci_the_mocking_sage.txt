@@ -1,0 +1,5 @@
+Zuo Ci, the Mocking Sage {1}{G}{G}
+Legendary Creature — Human Advisor
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Zuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship.
+1/2

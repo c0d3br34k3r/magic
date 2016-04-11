@@ -1,0 +1,3 @@
+Wheel of Torture {3}
+Artifact
+At the beginning of each opponent's upkeep, Wheel of Torture deals X damage to that player, where X is 3 minus the number of cards in his or her hand.

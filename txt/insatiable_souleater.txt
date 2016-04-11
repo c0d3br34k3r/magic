@@ -1,0 +1,4 @@
+Insatiable Souleater {4}
+Artifact Creature — Beast
+{G/P}: Insatiable Souleater gains trample until end of turn. ({G/P} can be paid with either {G} or 2 life.)
+5/1

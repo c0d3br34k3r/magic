@@ -1,0 +1,5 @@
+Ironfist Crusher {4}{W}
+Creature — Human Soldier
+Ironfist Crusher can block any number of creatures.
+Morph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+2/4

@@ -1,0 +1,4 @@
+Spellwild Ouphe {1}{G}
+Creature — Ouphe
+Spells that target Spellwild Ouphe cost {2} less to cast.
+1/3

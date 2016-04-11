@@ -1,0 +1,4 @@
+Mogg Alarm {1}{R}{R}
+Sorcery
+You may sacrifice two Mountains rather than pay Mogg Alarm's mana cost.
+Put two 1/1 red Goblin creature tokens onto the battlefield.

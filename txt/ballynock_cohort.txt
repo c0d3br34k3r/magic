@@ -1,0 +1,5 @@
+Ballynock Cohort {2}{W}
+Creature — Kithkin Soldier
+First strike
+Ballynock Cohort gets +1/+1 as long as you control another white creature.
+2/2

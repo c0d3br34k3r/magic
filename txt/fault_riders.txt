@@ -1,0 +1,4 @@
+Fault Riders {2}{R}
+Creature — Human Soldier
+Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Activate this ability only once each turn.
+2/2

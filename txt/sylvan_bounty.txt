@@ -1,0 +1,4 @@
+Sylvan Bounty {5}{G}
+Instant
+Target player gains 8 life.
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)

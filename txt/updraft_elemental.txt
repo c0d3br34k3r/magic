@@ -1,0 +1,4 @@
+Updraft Elemental {2}{U}
+Creature — Elemental
+Flying
+1/4

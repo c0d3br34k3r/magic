@@ -1,0 +1,3 @@
+Colossal Might {R}{G}
+Instant
+Target creature gets +4/+2 and gains trample until end of turn.

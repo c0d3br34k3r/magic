@@ -1,0 +1,4 @@
+Mogg Bombers {3}{R}
+Creature — Goblin
+When another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.
+3/4

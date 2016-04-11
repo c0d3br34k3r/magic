@@ -1,0 +1,3 @@
+Wallop {1}{G}
+Sorcery
+Destroy target blue or black creature with flying.

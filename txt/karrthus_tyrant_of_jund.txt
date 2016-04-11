@@ -1,0 +1,6 @@
+Karrthus, Tyrant of Jund {4}{B}{R}{G}
+Legendary Creature — Dragon
+Flying, haste
+When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.
+Other Dragon creatures you control have haste.
+7/7

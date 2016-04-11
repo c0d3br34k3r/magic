@@ -1,0 +1,3 @@
+Foresee {3}{U}
+Sorcery
+Scry 4, then draw two cards. (To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)

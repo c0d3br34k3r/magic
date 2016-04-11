@@ -1,0 +1,5 @@
+Thundering Tanadon {4}{G/P}{G/P}
+Artifact Creature — Beast
+({G/P} can be paid with either {G} or 2 life.)
+Trample
+5/4

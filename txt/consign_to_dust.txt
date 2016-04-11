@@ -1,0 +1,4 @@
+Consign to Dust {2}{G}
+Instant
+Strive — Consign to Dust costs {2}{G} more to cast for each target beyond the first.
+Destroy any number of target artifacts and/or enchantments.

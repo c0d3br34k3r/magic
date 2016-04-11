@@ -1,0 +1,4 @@
+Needleshot Gourna {4}{G}{G}
+Creature — Beast
+Reach (This creature can block creatures with flying.)
+3/6

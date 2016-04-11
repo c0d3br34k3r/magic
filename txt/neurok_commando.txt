@@ -1,0 +1,5 @@
+Neurok Commando {1}{U}{U}
+Creature — Human Rogue
+Shroud (This creature can't be the target of spells or abilities.)
+Whenever Neurok Commando deals combat damage to a player, you may draw a card.
+2/1

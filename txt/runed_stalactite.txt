@@ -1,0 +1,4 @@
+Runed Stalactite {1}
+Artifact — Equipment
+Equipped creature gets +1/+1 and is every creature type.
+Equip {2}

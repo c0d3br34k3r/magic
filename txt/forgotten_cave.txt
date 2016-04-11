@@ -1,0 +1,5 @@
+Forgotten Cave
+Land
+Forgotten Cave enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+Cycling {R} ({R}, Discard this card: Draw a card.)

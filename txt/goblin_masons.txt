@@ -1,0 +1,4 @@
+Goblin Masons {1}{R}
+Creature — Goblin
+When Goblin Masons dies, destroy target Wall.
+2/1

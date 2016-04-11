@@ -1,0 +1,3 @@
+Banishing Knack {U}
+Instant
+Until end of turn, target creature gains "{T}: Return target nonland permanent to its owner's hand."

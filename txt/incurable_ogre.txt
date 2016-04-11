@@ -1,0 +1,3 @@
+Incurable Ogre {3}{R}
+Creature — Ogre Mutant
+5/1

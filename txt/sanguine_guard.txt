@@ -1,0 +1,5 @@
+Sanguine Guard {1}{B}{B}
+Creature — Zombie Knight
+First strike
+{1}{B}: Regenerate Sanguine Guard.
+2/2

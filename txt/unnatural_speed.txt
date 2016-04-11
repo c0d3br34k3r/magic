@@ -1,0 +1,3 @@
+Unnatural Speed {R}
+Instant — Arcane
+Target creature gains haste until end of turn.

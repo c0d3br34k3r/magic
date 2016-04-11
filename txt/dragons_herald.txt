@@ -1,0 +1,4 @@
+Dragon's Herald {R}
+Creature — Goblin Shaman
+{2}{R}, {T}, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it onto the battlefield. Then shuffle your library.
+1/1

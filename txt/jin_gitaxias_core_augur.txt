@@ -1,0 +1,6 @@
+Jin-Gitaxias, Core Augur {8}{U}{U}
+Legendary Creature — Praetor
+Flash
+At the beginning of your end step, draw seven cards.
+Each opponent's maximum hand size is reduced by seven.
+5/4

@@ -1,0 +1,4 @@
+Curse Artifact {2}{B}{B}
+Enchantment — Aura
+Enchant artifact
+At the beginning of the upkeep of enchanted artifact's controller, Curse Artifact deals 2 damage to that player unless he or she sacrifices that artifact.

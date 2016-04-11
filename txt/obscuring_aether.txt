@@ -1,0 +1,4 @@
+Obscuring Æther {G}
+Enchantment
+Face-down creature spells you cast cost {1} less to cast.
+{1}{G}: Turn Obscuring Æther face down. (It becomes a 2/2 creature.)

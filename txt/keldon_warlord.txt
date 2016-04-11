@@ -1,0 +1,4 @@
+Keldon Warlord {2}{R}{R}
+Creature — Human Barbarian
+Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+*/*

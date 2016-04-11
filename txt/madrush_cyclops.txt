@@ -1,0 +1,4 @@
+Madrush Cyclops {1}{B}{R}{G}
+Creature — Cyclops Warrior
+Creatures you control have haste.
+3/4

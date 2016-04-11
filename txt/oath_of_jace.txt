@@ -1,0 +1,4 @@
+Oath of Jace {2}{U}
+Legendary Enchantment
+When Oath of Jace enters the battlefield, draw three cards, then discard two cards.
+At the beginning of your upkeep, scry X, where X is the number of planeswalkers you control.

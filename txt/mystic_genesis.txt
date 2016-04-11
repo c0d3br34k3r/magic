@@ -1,0 +1,3 @@
+Mystic Genesis {2}{U}{U}{G}
+Instant
+Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.

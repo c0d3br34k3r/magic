@@ -1,0 +1,5 @@
+Knight of Dawn {1}{W}{W}
+Creature — Human Knight
+First strike
+{W}{W}: Knight of Dawn gains protection from the color of your choice until end of turn.
+2/2

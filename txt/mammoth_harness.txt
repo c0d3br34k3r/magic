@@ -1,0 +1,5 @@
+Mammoth Harness {3}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature loses flying.
+Whenever enchanted creature blocks or becomes blocked by a creature, the other creature gains first strike until end of turn.

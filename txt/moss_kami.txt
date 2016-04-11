@@ -1,0 +1,4 @@
+Moss Kami {5}{G}
+Creature — Spirit
+Trample
+5/5

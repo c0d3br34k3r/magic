@@ -1,0 +1,3 @@
+Traveler's Amulet {1}
+Artifact
+{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.

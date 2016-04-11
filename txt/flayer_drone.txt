@@ -1,0 +1,6 @@
+Flayer Drone {1}{B}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+First strike
+Whenever another colorless creature enters the battlefield under your control, target opponent loses 1 life.
+3/1

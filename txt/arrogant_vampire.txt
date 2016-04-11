@@ -1,0 +1,4 @@
+Arrogant Vampire {3}{B}{B}
+Creature — Vampire
+Flying
+4/3

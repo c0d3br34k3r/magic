@@ -1,0 +1,5 @@
+Birds of Paradise {G}
+Creature — Bird
+Flying
+{T}: Add one mana of any color to your mana pool.
+0/1

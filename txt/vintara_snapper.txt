@@ -1,0 +1,4 @@
+Vintara Snapper {G}{G}
+Creature — Turtle
+Vintara Snapper has shroud as long as you control no untapped lands. (It can't be the target of spells or abilities.)
+2/2

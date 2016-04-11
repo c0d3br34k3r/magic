@@ -1,0 +1,4 @@
+Grixis Illusionist {U}
+Creature — Human Wizard
+{T}: Target land you control becomes the basic land type of your choice until end of turn.
+1/1

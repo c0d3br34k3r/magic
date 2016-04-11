@@ -1,0 +1,5 @@
+Consult the Necrosages {1}{U}{B}
+Sorcery
+Choose one —
+• Target player draws two cards.
+• Target player discards two cards.

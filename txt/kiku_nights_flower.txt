@@ -1,0 +1,4 @@
+Kiku, Night's Flower {B}{B}
+Legendary Creature — Human Assassin
+{2}{B}{B}, {T}: Target creature deals damage to itself equal to its power.
+1/1

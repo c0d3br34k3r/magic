@@ -1,0 +1,4 @@
+Goblin Lackey {R}
+Creature — Goblin
+Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
+1/1

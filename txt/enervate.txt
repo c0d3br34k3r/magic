@@ -1,0 +1,4 @@
+Enervate {1}{U}
+Instant
+Tap target artifact, creature, or land.
+Draw a card at the beginning of the next turn's upkeep.

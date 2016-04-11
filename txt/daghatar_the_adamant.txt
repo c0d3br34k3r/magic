@@ -1,0 +1,6 @@
+Daghatar the Adamant {3}{W}
+Legendary Creature — Human Warrior
+Vigilance
+Daghatar the Adamant enters the battlefield with four +1/+1 counters on it.
+{1}{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature.
+0/0

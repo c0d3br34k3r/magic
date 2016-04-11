@@ -1,0 +1,4 @@
+Pulse Tracker {B}
+Creature — Vampire Rogue
+Whenever Pulse Tracker attacks, each opponent loses 1 life.
+1/1

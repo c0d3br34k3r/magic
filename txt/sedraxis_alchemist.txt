@@ -1,0 +1,4 @@
+Sedraxis Alchemist {2}{B}
+Creature — Zombie Wizard
+When Sedraxis Alchemist enters the battlefield, if you control a blue permanent, return target nonland permanent to its owner's hand.
+2/2

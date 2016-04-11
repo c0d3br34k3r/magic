@@ -1,0 +1,5 @@
+Blazing Torch {1}
+Artifact — Equipment
+Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

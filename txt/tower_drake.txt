@@ -1,0 +1,5 @@
+Tower Drake {2}{U}
+Creature — Drake
+Flying
+{W}: Tower Drake gets +0/+1 until end of turn.
+2/1

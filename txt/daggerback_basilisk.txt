@@ -1,0 +1,4 @@
+Daggerback Basilisk {2}{G}
+Creature — Basilisk
+Deathtouch
+2/2

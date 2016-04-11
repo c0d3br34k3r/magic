@@ -1,0 +1,6 @@
+Basalt Gargoyle {2}{R}
+Creature — Gargoyle
+Flying
+Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+{R}: Basalt Gargoyle gets +0/+1 until end of turn.
+3/2

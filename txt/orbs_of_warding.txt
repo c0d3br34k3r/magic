@@ -1,0 +1,4 @@
+Orbs of Warding {5}
+Artifact
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+If a creature would deal damage to you, prevent 1 of that damage.

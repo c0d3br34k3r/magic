@@ -1,0 +1,4 @@
+Spidersilk Net {0}
+Artifact — Equipment
+Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

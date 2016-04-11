@@ -1,0 +1,5 @@
+Kavu Monarch {2}{R}{R}
+Creature — Kavu
+Kavu creatures have trample.
+Whenever another Kavu enters the battlefield, put a +1/+1 counter on Kavu Monarch.
+3/3

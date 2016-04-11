@@ -1,0 +1,4 @@
+Ogre Enforcer {3}{R}{R}
+Creature — Ogre
+Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.
+4/4

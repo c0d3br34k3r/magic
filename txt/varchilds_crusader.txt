@@ -1,0 +1,4 @@
+Varchild's Crusader {3}{R}
+Creature — Human Knight
+{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.
+3/2

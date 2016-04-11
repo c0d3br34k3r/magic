@@ -1,0 +1,3 @@
+Heroes' Reunion {W}{G}
+Instant
+Target player gains 7 life.

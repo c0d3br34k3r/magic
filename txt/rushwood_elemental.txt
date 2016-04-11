@@ -1,0 +1,5 @@
+Rushwood Elemental {G}{G}{G}{G}{G}
+Creature — Elemental
+Trample
+At the beginning of your upkeep, you may put a +1/+1 counter on Rushwood Elemental.
+4/4

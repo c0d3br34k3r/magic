@@ -1,0 +1,3 @@
+Cloven Casting {5}{U}{R}
+Enchantment
+Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.

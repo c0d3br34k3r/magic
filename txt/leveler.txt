@@ -1,0 +1,4 @@
+Leveler {5}
+Artifact Creature — Juggernaut
+When Leveler enters the battlefield, exile all cards from your library.
+10/10

@@ -1,0 +1,4 @@
+Grizzled Wolverine {1}{R}{R}
+Creature — Wolverine
+{R}: Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.
+2/2

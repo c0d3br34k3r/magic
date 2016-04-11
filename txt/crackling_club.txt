@@ -1,0 +1,5 @@
+Crackling Club {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0.
+Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.

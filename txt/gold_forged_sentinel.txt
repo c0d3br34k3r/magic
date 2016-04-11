@@ -1,0 +1,4 @@
+Gold-Forged Sentinel {6}
+Artifact Creature — Chimera
+Flying
+4/4

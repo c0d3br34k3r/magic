@@ -1,0 +1,5 @@
+Shield Sphere {0}
+Artifact Creature — Wall
+Defender
+Whenever Shield Sphere blocks, put a -0/-1 counter on it.
+0/6

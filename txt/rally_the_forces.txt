@@ -1,0 +1,3 @@
+Rally the Forces {2}{R}
+Instant
+Attacking creatures get +1/+0 and gain first strike until end of turn.

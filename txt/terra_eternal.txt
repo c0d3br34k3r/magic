@@ -1,0 +1,3 @@
+Terra Eternal {2}{W}
+Enchantment
+All lands have indestructible.

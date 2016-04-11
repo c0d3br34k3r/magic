@@ -1,0 +1,4 @@
+Kederekt Parasite {B}
+Creature — Horror
+Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.
+1/1

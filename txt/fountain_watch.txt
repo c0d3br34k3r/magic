@@ -1,0 +1,4 @@
+Fountain Watch {3}{W}{W}
+Creature — Human Cleric
+Artifacts and enchantments you control have shroud. (They can't be the targets of spells or abilities.)
+2/4

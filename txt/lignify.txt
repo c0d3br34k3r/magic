@@ -1,0 +1,4 @@
+Lignify {1}{G}
+Tribal Enchantment — Treefolk Aura
+Enchant creature
+Enchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.

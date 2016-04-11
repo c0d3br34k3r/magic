@@ -1,0 +1,3 @@
+Blood Moon {2}{R}
+Enchantment
+Nonbasic lands are Mountains.

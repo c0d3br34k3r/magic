@@ -1,0 +1,4 @@
+Tundra Wolves {W}
+Creature — Wolf
+First strike (This creature deals combat damage before creatures without first strike.)
+1/1

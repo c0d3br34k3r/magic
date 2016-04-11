@@ -1,0 +1,4 @@
+Rancid Earth {1}{B}{B}
+Sorcery
+Destroy target land.
+Threshold — If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.

@@ -1,0 +1,4 @@
+Slaughterhouse Bouncer {4}{B}
+Creature — Ogre Warrior
+Hellbent — When Slaughterhouse Bouncer dies, if you have no cards in hand, target creature gets -3/-3 until end of turn.
+3/3

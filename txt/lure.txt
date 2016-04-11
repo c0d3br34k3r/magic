@@ -1,0 +1,4 @@
+Lure {1}{G}{G}
+Enchantment — Aura
+Enchant creature
+All creatures able to block enchanted creature do so.

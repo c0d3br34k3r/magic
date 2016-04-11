@@ -1,0 +1,3 @@
+Ætherspouts {3}{U}{U}
+Instant
+For each attacking creature, its owner puts it on the top or bottom of his or her library.

@@ -1,0 +1,4 @@
+Mind Maggots {3}{B}
+Creature — Insect
+When Mind Maggots enters the battlefield, discard any number of creature cards. For each card discarded this way, put two +1/+1 counters on Mind Maggots.
+2/2

@@ -1,0 +1,5 @@
+Gustrider Exuberant {2}{W}
+Creature — Human Wizard
+Flying
+Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.
+1/2

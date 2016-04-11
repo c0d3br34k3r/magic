@@ -1,0 +1,3 @@
+Dreadbore {B}{R}
+Sorcery
+Destroy target creature or planeswalker.

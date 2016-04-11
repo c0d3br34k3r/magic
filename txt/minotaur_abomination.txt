@@ -1,0 +1,3 @@
+Minotaur Abomination {4}{B}{B}
+Creature — Zombie Minotaur
+4/6

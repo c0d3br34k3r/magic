@@ -1,0 +1,4 @@
+Mistral Charger {1}{W}
+Creature — Pegasus
+Flying
+2/1

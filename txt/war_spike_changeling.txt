@@ -1,0 +1,5 @@
+War-Spike Changeling {3}{R}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{R}: War-Spike Changeling gains first strike until end of turn.
+3/3

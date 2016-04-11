@@ -1,0 +1,3 @@
+Mystic Denial {1}{U}{U}
+Instant
+Counter target creature or sorcery spell.

@@ -1,0 +1,4 @@
+Kozilek's Pathfinder {6}
+Creature — Eldrazi
+{C}: Target creature can't block Kozilek's Pathfinder this turn. ({C} represents colorless mana.)
+5/5

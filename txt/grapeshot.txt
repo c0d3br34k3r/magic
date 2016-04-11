@@ -1,0 +1,4 @@
+Grapeshot {1}{R}
+Sorcery
+Grapeshot deals 1 damage to target creature or player.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)

@@ -1,0 +1,5 @@
+Soulsworn Jury {2}{W}
+Creature — Spirit
+Defender (This creature can't attack.)
+{1}{U}, Sacrifice Soulsworn Jury: Counter target creature spell.
+1/4

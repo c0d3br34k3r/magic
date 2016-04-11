@@ -1,0 +1,5 @@
+Wake of Vultures {3}{B}
+Creature — Bird
+Flying
+{1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.
+3/1

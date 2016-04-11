@@ -1,0 +1,5 @@
+Ghastlord of Fugue {U/B}{U/B}{U/B}{U/B}{U/B}
+Creature — Spirit Avatar
+Ghastlord of Fugue can't be blocked.
+Whenever Ghastlord of Fugue deals combat damage to a player, that player reveals his or her hand. You choose a card from it. That player exiles that card.
+4/4

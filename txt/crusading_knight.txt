@@ -1,0 +1,5 @@
+Crusading Knight {2}{W}{W}
+Creature — Human Knight
+Protection from black
+Crusading Knight gets +1/+1 for each Swamp your opponents control.
+2/2

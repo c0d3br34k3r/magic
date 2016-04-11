@@ -1,0 +1,4 @@
+Fire Ants {2}{R}
+Creature — Insect
+{T}: Fire Ants deals 1 damage to each other creature without flying.
+2/1

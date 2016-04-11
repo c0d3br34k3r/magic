@@ -1,0 +1,5 @@
+Leyline of Punishment {2}{R}{R}
+Enchantment
+If Leyline of Punishment is in your opening hand, you may begin the game with it on the battlefield.
+Players can't gain life.
+Damage can't be prevented.

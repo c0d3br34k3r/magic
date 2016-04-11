@@ -1,0 +1,4 @@
+Constricting Tendrils {U}
+Instant
+Target creature gets -3/-0 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)

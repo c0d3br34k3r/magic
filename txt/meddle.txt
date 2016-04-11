@@ -1,0 +1,3 @@
+Meddle {1}{U}
+Instant
+If target spell has only one target and that target is a creature, change that spell's target to another creature.

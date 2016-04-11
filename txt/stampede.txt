@@ -1,0 +1,3 @@
+Stampede {1}{G}{G}
+Instant
+Attacking creatures get +1/+0 and gain trample until end of turn.

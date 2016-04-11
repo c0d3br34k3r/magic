@@ -1,0 +1,4 @@
+Scalding Salamander {2}{R}
+Creature — Salamander
+Whenever Scalding Salamander attacks, you may have it deal 1 damage to each creature without flying defending player controls.
+2/1

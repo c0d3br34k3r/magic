@@ -1,0 +1,4 @@
+Dovescape {3}{W/U}{W/U}{W/U}
+Enchantment
+({W/U} can be paid with either {W} or {U}.)
+Whenever a player casts a noncreature spell, counter that spell. That player puts X 1/1 white and blue Bird creature tokens with flying onto the battlefield, where X is the spell's converted mana cost.

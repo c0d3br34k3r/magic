@@ -1,0 +1,4 @@
+Zulaport Chainmage {3}{B}
+Creature — Human Shaman Ally
+Cohort — {T}, Tap an untapped Ally you control: Target opponent loses 2 life.
+4/2

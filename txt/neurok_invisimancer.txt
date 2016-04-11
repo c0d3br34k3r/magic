@@ -1,0 +1,5 @@
+Neurok Invisimancer {1}{U}{U}
+Creature — Human Wizard
+Neurok Invisimancer can't be blocked.
+When Neurok Invisimancer enters the battlefield, target creature can't be blocked this turn.
+2/1

@@ -1,0 +1,7 @@
+Heliod, God of the Sun {3}{W}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+Other creatures you control have vigilance.
+{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield.
+5/6

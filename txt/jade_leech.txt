@@ -1,0 +1,4 @@
+Jade Leech {2}{G}{G}
+Creature — Leech
+Green spells you cast cost {G} more to cast.
+5/5

@@ -1,0 +1,3 @@
+Spitting Earth {1}{R}
+Sorcery
+Spitting Earth deals damage to target creature equal to the number of Mountains you control.

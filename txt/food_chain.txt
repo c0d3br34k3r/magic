@@ -1,0 +1,3 @@
+Food Chain {2}{G}
+Enchantment
+Exile a creature you control: Add X mana of any one color to your mana pool, where X is the exiled creature's converted mana cost plus one. Spend this mana only to cast creature spells.

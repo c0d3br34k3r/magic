@@ -1,0 +1,4 @@
+Eyeblight Assassin {2}{B}
+Creature — Elf Assassin
+When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.
+2/2

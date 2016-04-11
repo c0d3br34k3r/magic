@@ -1,0 +1,3 @@
+Chastise {3}{W}
+Instant
+Destroy target attacking creature. You gain life equal to its power.

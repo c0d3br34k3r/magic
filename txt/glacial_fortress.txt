@@ -1,0 +1,4 @@
+Glacial Fortress
+Land
+Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U} to your mana pool.

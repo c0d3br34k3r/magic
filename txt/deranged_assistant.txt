@@ -1,0 +1,4 @@
+Deranged Assistant {1}{U}
+Creature — Human Wizard
+{T}, Put the top card of your library into your graveyard: Add {C} to your mana pool.
+1/1

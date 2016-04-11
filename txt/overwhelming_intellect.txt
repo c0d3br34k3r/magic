@@ -1,0 +1,3 @@
+Overwhelming Intellect {4}{U}{U}
+Instant
+Counter target creature spell. Draw cards equal to that spell's converted mana cost.

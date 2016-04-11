@@ -1,0 +1,6 @@
+Stoic Ephemera {2}{W}
+Creature — Spirit
+Defender (This creature can't attack.)
+Flying
+When Stoic Ephemera blocks, sacrifice it at end of combat.
+5/5

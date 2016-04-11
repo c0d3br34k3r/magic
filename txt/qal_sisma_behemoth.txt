@@ -1,0 +1,4 @@
+Qal Sisma Behemoth {2}{R}
+Creature — Ogre Warrior
+Qal Sisma Behemoth can't attack or block unless you pay {2}.
+5/5

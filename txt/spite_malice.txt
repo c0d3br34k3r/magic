@@ -1,0 +1,7 @@
+Spite {3}{U}
+Instant
+Counter target noncreature spell.
+* SPLIT *
+Malice {3}{B}
+Instant
+Destroy target nonblack creature. It can't be regenerated.

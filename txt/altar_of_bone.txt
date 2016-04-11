@@ -1,0 +1,4 @@
+Altar of Bone {W}{G}
+Sorcery
+As an additional cost to cast Altar of Bone, sacrifice a creature.
+Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.

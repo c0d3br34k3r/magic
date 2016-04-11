@@ -1,0 +1,3 @@
+Muck Rats {B}
+Creature — Rat
+1/1

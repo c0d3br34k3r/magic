@@ -1,0 +1,4 @@
+Clever Impersonator {2}{U}{U}
+Creature — Shapeshifter
+You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.
+0/0

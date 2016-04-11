@@ -1,0 +1,5 @@
+Branded Brawlers {R}
+Creature — Human Soldier
+Branded Brawlers can't attack if defending player controls an untapped land.
+Branded Brawlers can't block if you control an untapped land.
+2/2

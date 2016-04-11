@@ -1,0 +1,4 @@
+Horseshoe Crab {2}{U}
+Creature — Crab
+{U}: Untap Horseshoe Crab.
+1/3

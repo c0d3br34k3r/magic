@@ -1,0 +1,5 @@
+Root Sliver {3}{G}
+Creature — Sliver
+Root Sliver can't be countered.
+Sliver spells can't be countered by spells or abilities.
+2/2

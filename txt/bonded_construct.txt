@@ -1,0 +1,4 @@
+Bonded Construct {1}
+Artifact Creature — Construct
+Bonded Construct can't attack alone.
+2/1

@@ -1,0 +1,4 @@
+Chrome Steed {4}
+Artifact Creature — Horse
+Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.
+2/2

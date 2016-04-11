@@ -1,0 +1,5 @@
+Elvish Harbinger {2}{G}
+Creature — Elf Druid
+When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.
+{T}: Add one mana of any color to your mana pool.
+1/2

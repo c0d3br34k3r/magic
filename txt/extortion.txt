@@ -1,0 +1,3 @@
+Extortion {3}{B}{B}
+Sorcery
+Look at target player's hand and choose up to two cards from it. That player discards those cards.

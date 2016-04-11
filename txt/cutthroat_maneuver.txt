@@ -1,0 +1,3 @@
+Cutthroat Maneuver {3}{B}
+Instant
+Up to two target creatures each get +1/+1 and gain lifelink until end of turn.

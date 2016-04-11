@@ -1,0 +1,5 @@
+Hellrider {2}{R}{R}
+Creature — Devil
+Haste
+Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.
+3/3

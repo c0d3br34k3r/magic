@@ -1,0 +1,5 @@
+Celestial Kirin {2}{W}{W}
+Legendary Creature — Kirin Spirit
+Flying
+Whenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's converted mana cost.
+3/3

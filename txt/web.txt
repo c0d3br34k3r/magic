@@ -1,0 +1,4 @@
+Web {G}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)

@@ -1,0 +1,4 @@
+Saprazzan Outrigger {3}{U}
+Creature — Merfolk
+When Saprazzan Outrigger attacks or blocks, put it on top of its owner's library at end of combat.
+5/5

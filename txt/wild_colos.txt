@@ -1,0 +1,4 @@
+Wild Colos {2}{R}
+Creature — Goat Beast
+Haste
+2/2

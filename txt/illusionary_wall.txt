@@ -1,0 +1,5 @@
+Illusionary Wall {4}{U}
+Creature — Illusion Wall
+Defender, flying, first strike
+Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+7/4

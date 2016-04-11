@@ -1,0 +1,5 @@
+Sabertooth Alley Cat {1}{R}{R}
+Creature — Cat
+Sabertooth Alley Cat attacks each turn if able.
+{1}{R}: Creatures without defender can't block Sabertooth Alley Cat this turn.
+2/1

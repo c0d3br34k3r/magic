@@ -1,0 +1,4 @@
+Vengeful Dreams {W}{W}
+Instant
+As an additional cost to cast Vengeful Dreams, discard X cards.
+Exile X target attacking creatures.

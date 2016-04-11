@@ -1,0 +1,5 @@
+Flayer Husk {1}
+Artifact — Equipment
+Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +1/+1.
+Equip {2}

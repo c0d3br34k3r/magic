@@ -1,0 +1,4 @@
+Soratami Cloud Chariot {5}
+Artifact
+{2}: Target creature you control gains flying until end of turn.
+{2}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.

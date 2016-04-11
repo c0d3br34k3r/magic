@@ -1,0 +1,4 @@
+Frenzied Goblin {R}
+Creature — Goblin Berserker
+Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.
+1/1

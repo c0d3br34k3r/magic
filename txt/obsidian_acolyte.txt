@@ -1,0 +1,5 @@
+Obsidian Acolyte {1}{W}
+Creature — Human Cleric
+Protection from black
+{W}: Target creature gains protection from black until end of turn.
+1/1

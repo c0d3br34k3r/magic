@@ -1,0 +1,3 @@
+Earthquake {X}{R}
+Sorcery
+Earthquake deals X damage to each creature without flying and each player.

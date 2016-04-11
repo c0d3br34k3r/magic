@@ -1,0 +1,6 @@
+Athreos, God of Passage {1}{W}{B}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to white and black is less than seven, Athreos isn't a creature.
+Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+5/4

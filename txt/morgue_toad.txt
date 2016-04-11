@@ -1,0 +1,4 @@
+Morgue Toad {2}{B}
+Creature — Frog
+Sacrifice Morgue Toad: Add {U}{R} to your mana pool.
+2/2

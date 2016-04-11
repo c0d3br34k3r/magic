@@ -1,0 +1,5 @@
+Sengir Vampire {3}{B}{B}
+Creature — Vampire
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+4/4

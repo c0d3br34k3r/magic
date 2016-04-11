@@ -1,0 +1,4 @@
+Cabal Slaver {2}{B}
+Creature — Human Cleric
+Whenever a Goblin deals combat damage to a player, that player discards a card.
+2/1

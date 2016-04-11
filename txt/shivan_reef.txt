@@ -1,0 +1,4 @@
+Shivan Reef
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.

@@ -1,0 +1,4 @@
+Master Thief {2}{U}{U}
+Creature — Human Rogue
+When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.
+2/2

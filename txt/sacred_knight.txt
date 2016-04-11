@@ -1,0 +1,4 @@
+Sacred Knight {3}{W}
+Creature — Human Knight
+Sacred Knight can't be blocked by black and/or red creatures.
+3/2

@@ -1,0 +1,3 @@
+Obelisk of Undoing {1}
+Artifact
+{6}, {T}: Return target permanent you both own and control to your hand.

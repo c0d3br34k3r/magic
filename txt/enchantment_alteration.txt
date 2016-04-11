@@ -1,0 +1,3 @@
+Enchantment Alteration {U}
+Instant
+Attach target Aura attached to a creature or land to another permanent of that type.

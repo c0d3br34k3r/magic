@@ -1,0 +1,4 @@
+Devout Witness {2}{W}
+Creature — Human Spellshaper
+{1}{W}, {T}, Discard a card: Destroy target artifact or enchantment.
+2/2

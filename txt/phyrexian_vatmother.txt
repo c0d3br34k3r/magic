@@ -1,0 +1,5 @@
+Phyrexian Vatmother {2}{B}{B}
+Creature — Horror
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+At the beginning of your upkeep, you get a poison counter.
+4/5

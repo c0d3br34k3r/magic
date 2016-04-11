@@ -1,0 +1,7 @@
+Rough {1}{R}
+Sorcery
+Rough deals 2 damage to each creature without flying.
+* SPLIT *
+Tumble {5}{R}
+Sorcery
+Tumble deals 6 damage to each creature with flying.

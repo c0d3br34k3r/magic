@@ -1,0 +1,4 @@
+Unnatural Endurance {B}
+Instant
+Devoid (This card has no color.)
+Target creature gets +2/+0 until end of turn. Regenerate it.

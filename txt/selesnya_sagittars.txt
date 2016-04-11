@@ -1,0 +1,5 @@
+Selesnya Sagittars {3}{W}{G}
+Creature — Elf Archer
+Reach (This creature can block creatures with flying.)
+Selesnya Sagittars can block an additional creature each combat.
+2/5

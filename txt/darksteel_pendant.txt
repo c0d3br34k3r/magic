@@ -1,0 +1,4 @@
+Darksteel Pendant {2}
+Artifact
+Indestructible (Effects that say "destroy" don't destroy this artifact.)
+{1}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)

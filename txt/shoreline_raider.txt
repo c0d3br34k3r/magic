@@ -1,0 +1,4 @@
+Shoreline Raider {2}{U}
+Creature — Merfolk
+Protection from Kavu
+2/2

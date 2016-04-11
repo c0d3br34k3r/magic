@@ -1,0 +1,4 @@
+Healer of the Pride {3}{W}
+Creature — Cat Cleric
+Whenever another creature enters the battlefield under your control, you gain 2 life.
+2/3

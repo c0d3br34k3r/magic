@@ -1,0 +1,4 @@
+Nim Lasher {2}{B}
+Creature — Zombie
+Nim Lasher gets +1/+0 for each artifact you control.
+1/1

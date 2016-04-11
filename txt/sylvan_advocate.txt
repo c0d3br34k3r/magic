@@ -1,0 +1,5 @@
+Sylvan Advocate {1}{G}
+Creature — Elf Druid Ally
+Vigilance
+As long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.
+2/3

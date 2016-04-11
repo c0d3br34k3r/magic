@@ -1,0 +1,5 @@
+Cloud Crusader {2}{W}{W}
+Creature — Human Knight
+Flying
+First strike (This creature deals combat damage before creatures without first strike.)
+2/3

@@ -1,0 +1,5 @@
+Vryn Wingmare {2}{W}
+Creature — Pegasus
+Flying
+Noncreature spells cost {1} more to cast.
+2/1

@@ -1,0 +1,6 @@
+Vine Dryad {3}{G}
+Creature — Dryad
+Flash
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+You may exile a green card from your hand rather than pay Vine Dryad's mana cost.
+1/3

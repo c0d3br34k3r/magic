@@ -1,0 +1,4 @@
+Solfatara {2}{R}
+Instant
+Target player can't play land cards this turn.
+Draw a card at the beginning of the next turn's upkeep.

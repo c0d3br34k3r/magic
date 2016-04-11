@@ -1,0 +1,3 @@
+Grasp of Fate {1}{W}{W}
+Enchantment
+When Grasp of Fate enters the battlefield, for each opponent, exile up to one target nonland permanent that player controls until Grasp of Fate leaves the battlefield. (Those permanents return under their owners' control.)

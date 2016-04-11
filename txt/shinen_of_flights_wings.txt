@@ -1,0 +1,5 @@
+Shinen of Flight's Wings {4}{U}
+Creature — Spirit
+Flying
+Channel — {U}, Discard Shinen of Flight's Wings: Target creature gains flying until end of turn.
+3/3

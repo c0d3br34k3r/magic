@@ -1,0 +1,5 @@
+Mirrodin's Core
+Land
+{T}: Add {C} to your mana pool.
+{T}: Put a charge counter on Mirrodin's Core.
+{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.

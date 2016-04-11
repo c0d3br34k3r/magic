@@ -1,0 +1,5 @@
+Heart Wolf {3}{R}
+Creature — Wolf
+First strike
+{T}: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate this ability only during combat.
+2/2

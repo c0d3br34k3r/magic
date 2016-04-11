@@ -1,0 +1,4 @@
+Corrosive Mentor {2}{B}
+Creature — Elemental Rogue
+Black creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)
+1/3

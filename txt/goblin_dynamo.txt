@@ -1,0 +1,5 @@
+Goblin Dynamo {5}{R}{R}
+Creature — Goblin Mutant
+{T}: Goblin Dynamo deals 1 damage to target creature or player.
+{X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.
+4/4

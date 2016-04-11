@@ -1,0 +1,3 @@
+Gather Specimens {3}{U}{U}{U}
+Instant
+If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead.

@@ -1,0 +1,5 @@
+Insolent Neonate {R}
+Creature — Vampire
+Menace (This creature can't be blocked except by two or more creatures.)
+Discard a card, Sacrifice Insolent Neonate: Draw a card.
+1/1

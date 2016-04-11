@@ -1,0 +1,5 @@
+Ulamog's Crusher {8}
+Creature — Eldrazi
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Ulamog's Crusher attacks each turn if able.
+8/8

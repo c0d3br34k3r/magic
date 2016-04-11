@@ -1,0 +1,6 @@
+Chromium {2}{W}{W}{U}{U}{B}{B}
+Legendary Creature — Elder Dragon
+Flying
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.
+7/7

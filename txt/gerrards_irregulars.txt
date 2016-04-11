@@ -1,0 +1,4 @@
+Gerrard's Irregulars {4}{R}
+Creature — Human Soldier
+Trample, haste
+4/2

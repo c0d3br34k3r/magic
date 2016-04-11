@@ -1,0 +1,4 @@
+Myr Quadropod {4}
+Artifact Creature — Myr
+{3}: Switch Myr Quadropod's power and toughness until end of turn.
+1/4

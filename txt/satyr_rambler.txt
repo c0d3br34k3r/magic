@@ -1,0 +1,4 @@
+Satyr Rambler {1}{R}
+Creature — Satyr
+Trample
+2/1

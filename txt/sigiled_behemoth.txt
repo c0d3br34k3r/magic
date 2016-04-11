@@ -1,0 +1,4 @@
+Sigiled Behemoth {4}{W}{G}
+Creature — Beast
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+5/4

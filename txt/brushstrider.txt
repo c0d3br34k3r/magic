@@ -1,0 +1,4 @@
+Brushstrider {1}{G}
+Creature — Beast
+Vigilance
+3/1

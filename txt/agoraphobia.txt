@@ -1,0 +1,5 @@
+Agoraphobia {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -5/-0.
+{2}{U}: Return Agoraphobia to its owner's hand.

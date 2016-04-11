@@ -1,0 +1,5 @@
+Luminate Primordial {5}{W}{W}
+Creature — Avatar
+Vigilance
+When Luminate Primordial enters the battlefield, for each opponent, exile up to one target creature that player controls and that player gains life equal to its power.
+4/7

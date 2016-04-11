@@ -1,0 +1,3 @@
+Ritual of Restoration {W}
+Sorcery
+Return target artifact card from your graveyard to your hand.

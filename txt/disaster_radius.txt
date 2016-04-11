@@ -1,0 +1,4 @@
+Disaster Radius {5}{R}{R}
+Sorcery
+As an additional cost to cast Disaster Radius, reveal a creature card from your hand.
+Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.

@@ -1,0 +1,4 @@
+Ondu Champion {2}{R}{R}
+Creature — Minotaur Warrior Ally
+Rally — Whenever Ondu Champion or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.
+4/3

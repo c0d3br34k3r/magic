@@ -1,0 +1,5 @@
+Quickening Licid {1}{W}
+Creature — Licid
+{1}{W}, {T}: Quickening Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect.
+Enchanted creature has first strike.
+1/1

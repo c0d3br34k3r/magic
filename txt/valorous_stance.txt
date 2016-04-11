@@ -1,0 +1,5 @@
+Valorous Stance {1}{W}
+Instant
+Choose one —
+• Target creature gains indestructible until end of turn.
+• Destroy target creature with toughness 4 or greater.

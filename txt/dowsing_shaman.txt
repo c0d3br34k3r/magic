@@ -1,0 +1,4 @@
+Dowsing Shaman {4}{G}
+Creature — Centaur Shaman
+{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.
+3/4

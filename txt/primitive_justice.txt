@@ -1,0 +1,4 @@
+Primitive Justice {1}{R}
+Sorcery
+As an additional cost to cast Primitive Justice, you may pay {1}{R} and/or {1}{G} any number of times.
+Destroy target artifact. For each additional {1}{R} you paid, destroy another target artifact. For each additional {1}{G} you paid, destroy another target artifact, and you gain 1 life.

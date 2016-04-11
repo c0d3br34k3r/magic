@@ -1,0 +1,5 @@
+Phyrexian Juggernaut {6}
+Artifact Creature — Juggernaut
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Phyrexian Juggernaut attacks each turn if able.
+5/5

@@ -1,0 +1,3 @@
+Spiritual Sanctuary {2}{W}{W}
+Enchantment
+At the beginning of each player's upkeep, if that player controls a Plains, he or she gains 1 life.

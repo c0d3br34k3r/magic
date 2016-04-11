@@ -1,0 +1,6 @@
+Abomination of Gudul {3}{U}{B}{G}
+Creature — Horror
+Flying
+Whenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+3/4

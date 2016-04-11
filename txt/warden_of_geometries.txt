@@ -1,0 +1,5 @@
+Warden of Geometries {4}
+Creature — Eldrazi Drone
+Vigilance
+{T}: Add {C} to your mana pool. ({C} represents colorless mana.)
+2/3

@@ -1,0 +1,5 @@
+Mantis Engine {5}
+Artifact Creature — Insect
+{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+{2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+3/3

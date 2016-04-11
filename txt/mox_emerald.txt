@@ -1,0 +1,3 @@
+Mox Emerald {0}
+Artifact
+{T}: Add {G} to your mana pool.

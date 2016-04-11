@@ -1,0 +1,3 @@
+Ice Cave {3}{U}{U}
+Enchantment
+Whenever a player casts a spell, any other player may pay that spell's mana cost. If a player does, counter the spell. (Mana cost includes color.)

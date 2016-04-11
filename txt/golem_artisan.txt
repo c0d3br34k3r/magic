@@ -1,0 +1,5 @@
+Golem Artisan {5}
+Artifact Creature — Golem
+{2}: Target artifact creature gets +1/+1 until end of turn.
+{2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.
+3/3

@@ -1,0 +1,5 @@
+Flowstone Mauler {4}{R}{R}
+Creature — Beast
+Trample
+{R}: Flowstone Mauler gets +1/-1 until end of turn.
+4/5

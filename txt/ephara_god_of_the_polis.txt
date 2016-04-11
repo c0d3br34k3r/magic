@@ -1,0 +1,6 @@
+Ephara, God of the Polis {2}{W}{U}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to white and blue is less than seven, Ephara isn't a creature.
+At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card.
+6/5

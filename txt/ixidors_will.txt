@@ -1,0 +1,3 @@
+Ixidor's Will {2}{U}
+Instant
+Counter target spell unless its controller pays {2} for each Wizard on the battlefield.

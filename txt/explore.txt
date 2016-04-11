@@ -1,0 +1,4 @@
+Explore {1}{G}
+Sorcery
+You may play an additional land this turn.
+Draw a card.

@@ -1,0 +1,4 @@
+Battle Brawler {1}{B}
+Creature — Orc Warrior
+As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.
+2/2

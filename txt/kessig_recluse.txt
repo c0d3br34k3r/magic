@@ -1,0 +1,5 @@
+Kessig Recluse {2}{G}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/3

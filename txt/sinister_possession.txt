@@ -1,0 +1,4 @@
+Sinister Possession {B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature attacks or blocks, its controller loses 2 life.

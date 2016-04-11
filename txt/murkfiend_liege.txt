@@ -1,0 +1,6 @@
+Murkfiend Liege {2}{G/U}{G/U}{G/U}
+Creature — Horror
+Other green creatures you control get +1/+1.
+Other blue creatures you control get +1/+1.
+Untap all green and/or blue creatures you control during each other player's untap step.
+4/4

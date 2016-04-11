@@ -1,0 +1,4 @@
+Merfolk Thaumaturgist {2}{U}
+Creature — Merfolk Wizard
+{T}: Switch target creature's power and toughness until end of turn.
+1/2

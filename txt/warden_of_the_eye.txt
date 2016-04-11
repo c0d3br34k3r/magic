@@ -1,0 +1,4 @@
+Warden of the Eye {2}{W}{U}{R}
+Creature — Djinn Wizard
+When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.
+3/3

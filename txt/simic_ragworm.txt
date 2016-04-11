@@ -1,0 +1,4 @@
+Simic Ragworm {3}{G}
+Creature — Worm
+{U}: Untap Simic Ragworm.
+3/3

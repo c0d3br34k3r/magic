@@ -1,0 +1,4 @@
+Godtracker of Jund {1}{R}{G}
+Creature — Elf Shaman
+Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.
+2/2

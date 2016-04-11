@@ -1,0 +1,5 @@
+Jungle Weaver {5}{G}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Cycling {2} ({2}, Discard this card: Draw a card.)
+5/6

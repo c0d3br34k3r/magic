@@ -1,0 +1,4 @@
+Staunch-Hearted Warrior {3}{G}
+Creature — Human Warrior
+Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior.
+2/2

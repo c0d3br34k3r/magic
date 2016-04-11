@@ -1,0 +1,4 @@
+Sages of the Anima {3}{U}{G}
+Creature — Elf Wizard
+If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+3/4

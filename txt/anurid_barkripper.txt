@@ -1,0 +1,4 @@
+Anurid Barkripper {1}{G}{G}
+Creature — Frog Beast
+Threshold — Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.
+2/2

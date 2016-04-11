@@ -1,0 +1,5 @@
+Aspect of Mongoose {1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)
+When Aspect of Mongoose is put into a graveyard from the battlefield, return Aspect of Mongoose to its owner's hand.

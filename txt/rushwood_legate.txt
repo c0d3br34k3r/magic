@@ -1,0 +1,4 @@
+Rushwood Legate {2}{G}
+Creature — Dryad
+If an opponent controls an Island and you control a Forest, you may cast Rushwood Legate without paying its mana cost.
+2/1

@@ -1,0 +1,4 @@
+Topan Ascetic {2}{G}
+Creature — Human Monk
+Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of turn.
+2/2

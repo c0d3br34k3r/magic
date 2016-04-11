@@ -1,0 +1,4 @@
+Contempt {1}{U}
+Enchantment — Aura
+Enchant creature
+When enchanted creature attacks, return it and Contempt to their owners' hands at end of combat.

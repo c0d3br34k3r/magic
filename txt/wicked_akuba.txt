@@ -1,0 +1,4 @@
+Wicked Akuba {B}{B}
+Creature — Spirit
+{B}: Target player dealt damage by Wicked Akuba this turn loses 1 life.
+2/2

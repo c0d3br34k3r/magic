@@ -1,0 +1,3 @@
+Swirling Sandstorm {3}{R}
+Sorcery
+Threshold — Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.

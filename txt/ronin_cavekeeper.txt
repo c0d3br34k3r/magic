@@ -1,0 +1,4 @@
+Ronin Cavekeeper {5}{R}
+Creature — Human Samurai
+Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+4/3

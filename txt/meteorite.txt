@@ -1,0 +1,4 @@
+Meteorite {5}
+Artifact
+When Meteorite enters the battlefield, it deals 2 damage to target creature or player.
+{T}: Add one mana of any color to your mana pool.

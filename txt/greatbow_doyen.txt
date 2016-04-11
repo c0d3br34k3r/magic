@@ -1,0 +1,5 @@
+Greatbow Doyen {4}{G}
+Creature — Elf Archer
+Other Archer creatures you control get +1/+1.
+Whenever an Archer you control deals damage to a creature, that Archer deals that much damage to that creature's controller.
+2/4

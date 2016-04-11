@@ -1,0 +1,5 @@
+Graypelt Hunter {3}{G}
+Creature — Human Warrior Ally
+Trample
+Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.
+2/2

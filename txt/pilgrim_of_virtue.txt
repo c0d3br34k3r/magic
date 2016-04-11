@@ -1,0 +1,5 @@
+Pilgrim of Virtue {2}{W}
+Creature — Human Cleric
+Protection from black
+{W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.
+1/3

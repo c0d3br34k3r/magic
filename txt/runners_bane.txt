@@ -1,0 +1,5 @@
+Runner's Bane {1}{U}
+Enchantment — Aura
+Enchant creature with power 3 or less
+When Runner's Bane enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.

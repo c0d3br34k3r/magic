@@ -1,0 +1,9 @@
+Jushi Apprentice {1}{U}
+Creature — Human Wizard
+{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice.
+1/2
+* FLIP *
+Tomoya the Revealer {1}{U}
+Legendary Creature — Human Wizard
+{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.
+2/3

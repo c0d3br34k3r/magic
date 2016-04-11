@@ -1,0 +1,3 @@
+Rush of Adrenaline {R}
+Instant
+Target creature gets +2/+1 and gains trample until end of turn.

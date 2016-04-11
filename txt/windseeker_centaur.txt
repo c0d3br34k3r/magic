@@ -1,0 +1,4 @@
+Windseeker Centaur {1}{R}{R}
+Creature — Centaur
+Vigilance
+2/2

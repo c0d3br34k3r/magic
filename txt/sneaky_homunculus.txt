@@ -1,0 +1,4 @@
+Sneaky Homunculus {1}{U}
+Creature — Homunculus Illusion
+Sneaky Homunculus can't block or be blocked by creatures with power 2 or greater.
+1/1

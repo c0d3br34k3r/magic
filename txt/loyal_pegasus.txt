@@ -1,0 +1,5 @@
+Loyal Pegasus {W}
+Creature — Pegasus
+Flying
+Loyal Pegasus can't attack or block alone.
+2/1

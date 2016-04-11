@@ -1,0 +1,3 @@
+Rats' Feast {X}{B}
+Sorcery
+Exile X target cards from a single graveyard.

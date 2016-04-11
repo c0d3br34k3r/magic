@@ -1,0 +1,5 @@
+Samurai of the Pale Curtain {W}{W}
+Creature — Fox Samurai
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+If a permanent would be put into a graveyard, exile it instead.
+2/2

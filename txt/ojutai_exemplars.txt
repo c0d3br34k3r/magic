@@ -1,0 +1,7 @@
+Ojutai Exemplars {2}{W}{W}
+Creature — Human Monk
+Whenever you cast a noncreature spell, choose one —
+• Tap target creature.
+• Ojutai Exemplars gains first strike and lifelink until end of turn.
+• Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner's control.
+4/4

@@ -1,0 +1,5 @@
+Kumano's Blessing {2}{R}
+Enchantment — Aura
+Flash
+Enchant creature
+If a creature dealt damage by enchanted creature this turn would die, exile it instead.

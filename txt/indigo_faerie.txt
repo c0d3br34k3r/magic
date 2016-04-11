@@ -1,0 +1,5 @@
+Indigo Faerie {1}{U}
+Creature — Faerie Wizard
+Flying
+{U}: Target permanent becomes blue in addition to its other colors until end of turn.
+1/1

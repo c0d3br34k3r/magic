@@ -1,0 +1,5 @@
+Spincrusher {2}
+Artifact Creature — Construct
+Whenever Spincrusher blocks, put a +1/+1 counter on it.
+Remove a +1/+1 counter from Spincrusher: Spincrusher can't be blocked this turn.
+0/2

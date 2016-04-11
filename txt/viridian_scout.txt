@@ -1,0 +1,4 @@
+Viridian Scout {3}{G}
+Creature — Elf Warrior Scout
+{2}{G}, Sacrifice Viridian Scout: Viridian Scout deals 2 damage to target creature with flying.
+1/2

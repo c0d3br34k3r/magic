@@ -1,0 +1,3 @@
+Tribute to the Wild {1}{G}
+Instant
+Each opponent sacrifices an artifact or enchantment.

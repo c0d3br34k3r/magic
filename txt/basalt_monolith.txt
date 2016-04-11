@@ -1,0 +1,5 @@
+Basalt Monolith {3}
+Artifact
+Basalt Monolith doesn't untap during your untap step.
+{T}: Add {C}{C}{C} to your mana pool.
+{3}: Untap Basalt Monolith.

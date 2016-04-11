@@ -1,0 +1,4 @@
+Jalira, Master Polymorphist {3}{U}
+Legendary Creature — Human Wizard
+{2}{U}, {T}, Sacrifice another creature: Reveal cards from the top of your library until you reveal a nonlegendary creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+2/2

@@ -1,0 +1,4 @@
+Takenuma Bleeder {2}{B}
+Creature — Ogre Shaman
+Whenever Takenuma Bleeder attacks or blocks, you lose 1 life if you don't control a Demon.
+3/3

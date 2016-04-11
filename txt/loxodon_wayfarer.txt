@@ -1,0 +1,3 @@
+Loxodon Wayfarer {2}{W}
+Creature — Elephant Monk
+1/5

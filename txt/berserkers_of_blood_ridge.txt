@@ -1,0 +1,4 @@
+Berserkers of Blood Ridge {4}{R}
+Creature — Human Berserker
+Berserkers of Blood Ridge attacks each turn if able.
+4/4

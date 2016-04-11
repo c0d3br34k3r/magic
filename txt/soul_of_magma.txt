@@ -1,0 +1,4 @@
+Soul of Magma {3}{R}{R}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, Soul of Magma deals 1 damage to target creature.
+2/2

@@ -1,0 +1,5 @@
+Seshiro the Anointed {4}{G}{G}
+Legendary Creature — Snake Monk
+Other Snake creatures you control get +2/+2.
+Whenever a Snake you control deals combat damage to a player, you may draw a card.
+3/4

@@ -1,0 +1,5 @@
+Sibsig Muckdraggers {8}{B}
+Creature — Zombie
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand.
+3/6

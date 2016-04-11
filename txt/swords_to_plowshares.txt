@@ -1,0 +1,3 @@
+Swords to Plowshares {W}
+Instant
+Exile target creature. Its controller gains life equal to its power.

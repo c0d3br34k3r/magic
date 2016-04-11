@@ -1,0 +1,4 @@
+Gigantoplasm {3}{U}
+Creature — Shapeshifter
+You may have Gigantoplasm enter the battlefield as a copy of any creature on the battlefield except it gains "{X}: This creature has base power and toughness X/X."
+0/0

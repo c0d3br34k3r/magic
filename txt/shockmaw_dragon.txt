@@ -1,0 +1,5 @@
+Shockmaw Dragon {4}{R}{R}
+Creature — Dragon
+Flying
+Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.
+4/4

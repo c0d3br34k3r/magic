@@ -1,0 +1,4 @@
+Avacyn's Pilgrim {G}
+Creature — Human Monk
+{T}: Add {W} to your mana pool.
+1/1

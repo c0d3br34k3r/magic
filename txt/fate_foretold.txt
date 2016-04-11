@@ -1,0 +1,5 @@
+Fate Foretold {1}{U}
+Enchantment — Aura
+Enchant creature
+When Fate Foretold enters the battlefield, draw a card.
+When enchanted creature dies, its controller draws a card.

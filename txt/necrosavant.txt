@@ -1,0 +1,4 @@
+Necrosavant {3}{B}{B}{B}
+Creature — Zombie Giant
+{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
+5/5

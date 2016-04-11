@@ -1,0 +1,3 @@
+Expedition Envoy {W}
+Creature — Human Scout Ally
+2/1

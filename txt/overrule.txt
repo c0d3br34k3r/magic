@@ -1,0 +1,3 @@
+Overrule {X}{W}{U}
+Instant
+Counter target spell unless its controller pays {X}. You gain X life.

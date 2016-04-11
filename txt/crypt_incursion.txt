@@ -1,0 +1,3 @@
+Crypt Incursion {2}{B}
+Instant
+Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.

@@ -1,0 +1,3 @@
+Imp's Mischief {1}{B}
+Instant
+Change the target of target spell with a single target. You lose life equal to that spell's converted mana cost.

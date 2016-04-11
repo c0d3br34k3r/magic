@@ -1,0 +1,3 @@
+Turn to Dust {G}
+Instant
+Destroy target Equipment. Add {G} to your mana pool.

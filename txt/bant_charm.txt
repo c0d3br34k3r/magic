@@ -1,0 +1,6 @@
+Bant Charm {W}{U}{G}
+Instant
+Choose one —
+• Destroy target artifact.
+• Put target creature on the bottom of its owner's library.
+• Counter target instant spell.

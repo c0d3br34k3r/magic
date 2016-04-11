@@ -1,0 +1,5 @@
+Blighted Agent {1}{U}
+Creature — Human Rogue
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Blighted Agent can't be blocked.
+1/1

@@ -1,0 +1,4 @@
+Crystal Golem {4}
+Artifact Creature — Golem
+At the beginning of your end step, Crystal Golem phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)
+3/3

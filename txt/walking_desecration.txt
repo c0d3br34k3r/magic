@@ -1,0 +1,4 @@
+Walking Desecration {2}{B}
+Creature — Zombie
+{B}, {T}: Creatures of the creature type of your choice attack this turn if able.
+1/1

@@ -1,0 +1,4 @@
+Woolly Mammoths {1}{G}{G}
+Creature — Elephant
+Woolly Mammoths has trample as long as you control a snow land.
+3/2

@@ -1,0 +1,5 @@
+Skyshroud Elf {1}{G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool.
+{1}: Add {R} or {W} to your mana pool.
+1/1

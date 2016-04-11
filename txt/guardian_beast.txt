@@ -1,0 +1,4 @@
+Guardian Beast {3}{B}
+Creature — Beast
+As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.
+2/4

@@ -1,0 +1,4 @@
+Midsummer Revel {3}{G}{G}
+Enchantment
+At the beginning of your upkeep, you may put a verse counter on Midsummer Revel.
+{G}, Sacrifice Midsummer Revel: Put X 3/3 green Beast creature tokens onto the battlefield, where X is the number of verse counters on Midsummer Revel.

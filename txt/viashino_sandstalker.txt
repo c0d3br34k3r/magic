@@ -1,0 +1,5 @@
+Viashino Sandstalker {1}{R}{R}
+Creature — Viashino Warrior
+Haste (This creature can attack the turn it comes under your control.)
+At the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)
+4/2

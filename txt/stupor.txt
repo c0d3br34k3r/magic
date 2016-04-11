@@ -1,0 +1,3 @@
+Stupor {2}{B}
+Sorcery
+Target opponent discards a card at random, then discards a card.

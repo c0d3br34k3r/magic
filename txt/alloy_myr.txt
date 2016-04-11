@@ -1,0 +1,4 @@
+Alloy Myr {3}
+Artifact Creature — Myr
+{T}: Add one mana of any color to your mana pool.
+2/2

@@ -1,0 +1,4 @@
+Vorrac Battlehorns {2}
+Artifact — Equipment
+Equipped creature has trample and can't be blocked by more than one creature.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)

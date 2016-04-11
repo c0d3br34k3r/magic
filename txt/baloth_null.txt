@@ -1,0 +1,4 @@
+Baloth Null {4}{B}{G}
+Creature — Zombie Beast
+When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.
+4/5

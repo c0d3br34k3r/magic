@@ -1,0 +1,6 @@
+Colossus of Sardia {9}
+Artifact Creature — Golem
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+Colossus of Sardia doesn't untap during your untap step.
+{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+9/9

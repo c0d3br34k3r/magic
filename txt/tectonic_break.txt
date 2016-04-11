@@ -1,0 +1,3 @@
+Tectonic Break {X}{R}{R}
+Sorcery
+Each player sacrifices X lands.

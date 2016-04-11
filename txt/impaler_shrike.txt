@@ -1,0 +1,5 @@
+Impaler Shrike {2}{U}{U}
+Creature — Bird
+Flying
+Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.
+3/1

@@ -1,0 +1,5 @@
+Leaden Fists {2}{U}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +3/+3 and doesn't untap during its controller's untap step.

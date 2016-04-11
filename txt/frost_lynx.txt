@@ -1,0 +1,4 @@
+Frost Lynx {2}{U}
+Creature — Elemental Cat
+When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+2/2

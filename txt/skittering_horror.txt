@@ -1,0 +1,4 @@
+Skittering Horror {2}{B}
+Creature — Horror
+When you cast a creature spell, sacrifice Skittering Horror.
+4/3

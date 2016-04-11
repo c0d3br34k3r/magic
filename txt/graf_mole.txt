@@ -1,0 +1,4 @@
+Graf Mole {2}{G}
+Creature — Mole Beast
+Whenever you sacrifice a Clue, you gain 3 life.
+2/4

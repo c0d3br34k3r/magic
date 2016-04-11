@@ -1,0 +1,4 @@
+Cliff Threader {1}{W}
+Creature — Kor Scout
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+2/1

@@ -1,0 +1,4 @@
+Engineered Plague {2}{B}
+Enchantment
+As Engineered Plague enters the battlefield, choose a creature type.
+All creatures of the chosen type get -1/-1.

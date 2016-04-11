@@ -1,0 +1,3 @@
+Gem of Becoming {3}
+Artifact
+{3}, {T}, Sacrifice Gem of Becoming: Search your library for an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.

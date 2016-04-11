@@ -1,0 +1,5 @@
+Mistvein Borderpost {1}{U}{B}
+Artifact
+You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.
+Mistvein Borderpost enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.

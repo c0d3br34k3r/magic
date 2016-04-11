@@ -1,0 +1,3 @@
+Inner Fire {3}{R}
+Sorcery
+Add {R} to your mana pool for each card in your hand.

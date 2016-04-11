@@ -1,0 +1,5 @@
+Butcher of Malakir {5}{B}{B}
+Creature — Vampire Warrior
+Flying
+Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.
+5/4

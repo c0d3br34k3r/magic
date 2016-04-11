@@ -1,0 +1,6 @@
+Chaos Charm {R}
+Instant
+Choose one —
+• Destroy target Wall.
+• Chaos Charm deals 1 damage to target creature.
+• Target creature gains haste until end of turn.

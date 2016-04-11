@@ -1,0 +1,4 @@
+Rottenheart Ghoul {3}{B}
+Creature — Zombie
+When Rottenheart Ghoul dies, target player discards a card.
+2/4

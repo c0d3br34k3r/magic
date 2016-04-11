@@ -1,0 +1,4 @@
+Earthblighter {1}{B}
+Creature — Human Cleric
+{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.
+1/1

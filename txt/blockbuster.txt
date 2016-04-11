@@ -1,0 +1,3 @@
+Blockbuster {3}{R}{R}
+Enchantment
+{1}{R}, Sacrifice Blockbuster: Blockbuster deals 3 damage to each tapped creature and each player.

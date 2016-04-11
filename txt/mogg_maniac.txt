@@ -1,0 +1,4 @@
+Mogg Maniac {1}{R}
+Creature — Goblin
+Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.
+1/1

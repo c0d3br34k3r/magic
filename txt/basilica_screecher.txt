@@ -1,0 +1,5 @@
+Basilica Screecher {1}{B}
+Creature — Bat
+Flying
+Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
+1/2

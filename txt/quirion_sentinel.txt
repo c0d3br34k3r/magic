@@ -1,0 +1,4 @@
+Quirion Sentinel {1}{G}
+Creature — Elf Druid
+When Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.
+2/1

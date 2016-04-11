@@ -1,0 +1,4 @@
+Disappear {2}{U}{U}
+Enchantment — Aura
+Enchant creature
+{U}: Return enchanted creature and Disappear to their owners' hands.

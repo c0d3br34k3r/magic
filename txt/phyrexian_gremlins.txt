@@ -1,0 +1,5 @@
+Phyrexian Gremlins {2}{B}
+Creature — Gremlin
+You may choose not to untap Phyrexian Gremlins during your untap step.
+{T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Phyrexian Gremlins remains tapped.
+1/1

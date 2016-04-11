@@ -1,0 +1,4 @@
+Phyrexian Tower
+Legendary Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice a creature: Add {B}{B} to your mana pool.

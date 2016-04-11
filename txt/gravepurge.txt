@@ -1,0 +1,4 @@
+Gravepurge {2}{B}
+Instant
+Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.

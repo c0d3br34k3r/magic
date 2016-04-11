@@ -1,0 +1,4 @@
+Trailblazer's Boots {2}
+Artifact — Equipment
+Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.)
+Equip {2}

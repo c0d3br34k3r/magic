@@ -1,0 +1,5 @@
+Kingfisher {3}{U}
+Creature — Bird
+Flying
+When Kingfisher dies, draw a card.
+2/2

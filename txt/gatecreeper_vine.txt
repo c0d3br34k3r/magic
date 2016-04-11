@@ -1,0 +1,5 @@
+Gatecreeper Vine {1}{G}
+Creature — Plant
+Defender
+When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.
+0/2

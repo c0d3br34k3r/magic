@@ -1,0 +1,3 @@
+Veil of Birds {U}
+Enchantment
+When an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying.

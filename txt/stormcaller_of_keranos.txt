@@ -1,0 +1,5 @@
+Stormcaller of Keranos {2}{R}
+Creature — Human Shaman
+Haste
+{1}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+2/2

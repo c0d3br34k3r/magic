@@ -1,0 +1,4 @@
+Talus Paladin {3}{W}
+Creature — Human Knight Ally
+Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.
+2/3

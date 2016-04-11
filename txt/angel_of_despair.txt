@@ -1,0 +1,5 @@
+Angel of Despair {3}{W}{W}{B}{B}
+Creature — Angel
+Flying
+When Angel of Despair enters the battlefield, destroy target permanent.
+5/5

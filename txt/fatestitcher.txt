@@ -1,0 +1,5 @@
+Fatestitcher {3}{U}
+Creature — Zombie Wizard
+{T}: You may tap or untap another target permanent.
+Unearth {U} ({U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+1/2

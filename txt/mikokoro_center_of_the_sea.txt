@@ -1,0 +1,4 @@
+Mikokoro, Center of the Sea
+Legendary Land
+{T}: Add {C} to your mana pool.
+{2}, {T}: Each player draws a card.

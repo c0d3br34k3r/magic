@@ -1,0 +1,5 @@
+Lotus-Eye Mystics {3}{W}
+Creature — Human Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand.
+3/2

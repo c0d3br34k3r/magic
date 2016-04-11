@@ -1,0 +1,5 @@
+Reckless Wurm {3}{R}{R}
+Creature — Wurm
+Trample
+Madness {2}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+4/4

@@ -1,0 +1,4 @@
+Ashcoat Bear {1}{G}
+Creature — Bear
+Flash (You may cast this spell any time you could cast an instant.)
+2/2

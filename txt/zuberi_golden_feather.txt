@@ -1,0 +1,5 @@
+Zuberi, Golden Feather {4}{W}
+Legendary Creature — Griffin
+Flying
+Other Griffin creatures get +1/+1.
+3/3

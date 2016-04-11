@@ -1,0 +1,3 @@
+Sanctimony {1}{W}
+Enchantment
+Whenever an opponent taps a Mountain for mana, you may gain 1 life.

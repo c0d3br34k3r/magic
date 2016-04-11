@@ -1,0 +1,4 @@
+Scrapdiver Serpent {5}{U}{U}
+Creature — Serpent
+Scrapdiver Serpent can't be blocked as long as defending player controls an artifact.
+5/5

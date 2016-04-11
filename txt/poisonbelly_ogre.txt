@@ -1,0 +1,4 @@
+Poisonbelly Ogre {4}{B}
+Creature — Ogre Warrior
+Whenever another creature enters the battlefield, its controller loses 1 life.
+3/3

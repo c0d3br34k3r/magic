@@ -1,0 +1,4 @@
+Essence Sliver {3}{W}
+Creature — Sliver
+Whenever a Sliver deals damage, its controller gains that much life.
+3/3

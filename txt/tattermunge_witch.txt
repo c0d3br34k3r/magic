@@ -1,0 +1,4 @@
+Tattermunge Witch {1}{R/G}
+Creature — Goblin Shaman
+{R}{G}: Each blocked creature gets +1/+0 and gains trample until end of turn.
+2/1

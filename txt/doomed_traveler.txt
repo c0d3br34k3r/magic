@@ -1,0 +1,4 @@
+Doomed Traveler {W}
+Creature — Human Soldier
+When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+1/1

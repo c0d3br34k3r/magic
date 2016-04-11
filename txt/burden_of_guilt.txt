@@ -1,0 +1,4 @@
+Burden of Guilt {W}
+Enchantment — Aura
+Enchant creature
+{1}: Tap enchanted creature.

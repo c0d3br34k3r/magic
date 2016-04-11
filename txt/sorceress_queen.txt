@@ -1,0 +1,4 @@
+Sorceress Queen {1}{B}{B}
+Creature — Human Wizard
+{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
+1/1

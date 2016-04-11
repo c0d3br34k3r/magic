@@ -1,0 +1,5 @@
+Conclave's Blessing {3}{W}
+Enchantment — Aura
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Enchant creature
+Enchanted creature gets +0/+2 for each other creature you control.

@@ -1,0 +1,4 @@
+People of the Woods {G}{G}
+Creature — Human
+People of the Woods's toughness is equal to the number of Forests you control.
+1/*

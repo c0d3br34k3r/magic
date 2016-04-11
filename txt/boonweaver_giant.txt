@@ -1,0 +1,4 @@
+Boonweaver Giant {6}{W}
+Creature — Giant Monk
+When Boonweaver Giant enters the battlefield, you may search your graveyard, hand, and/or library for an Aura card and put it onto the battlefield attached to Boonweaver Giant. If you search your library this way, shuffle it.
+4/4

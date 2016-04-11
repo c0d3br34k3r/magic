@@ -1,0 +1,5 @@
+Tattermunge Duo {2}{R/G}
+Creature — Goblin Warrior Shaman
+Whenever you cast a red spell, Tattermunge Duo gets +1/+1 until end of turn.
+Whenever you cast a green spell, Tattermunge Duo gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)
+2/3

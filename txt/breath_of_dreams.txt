@@ -1,0 +1,4 @@
+Breath of Dreams {2}{U}{U}
+Enchantment
+Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Green creatures have "Cumulative upkeep {1}."

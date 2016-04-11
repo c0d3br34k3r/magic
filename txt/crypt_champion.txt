@@ -1,0 +1,6 @@
+Crypt Champion {3}{B}
+Creature — Zombie
+Double strike
+When Crypt Champion enters the battlefield, each player puts a creature card with converted mana cost 3 or less from his or her graveyard onto the battlefield.
+When Crypt Champion enters the battlefield, sacrifice it unless {R} was spent to cast it.
+2/2

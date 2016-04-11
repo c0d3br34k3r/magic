@@ -1,0 +1,3 @@
+Path of Anger's Flame {2}{R}
+Instant — Arcane
+Creatures you control get +2/+0 until end of turn.

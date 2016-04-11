@@ -1,0 +1,5 @@
+Vampire Outcasts {2}{B}{B}
+Creature — Vampire
+Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+2/2

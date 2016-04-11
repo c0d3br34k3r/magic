@@ -1,0 +1,4 @@
+Matopi Golem {5}
+Artifact Creature — Golem
+{1}: Regenerate Matopi Golem. When it regenerates this way, put a -1/-1 counter on it.
+3/3

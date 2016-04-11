@@ -1,0 +1,4 @@
+Viseling {4}
+Artifact Creature — Construct
+At the beginning of each opponent's upkeep, Viseling deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+2/2

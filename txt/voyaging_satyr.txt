@@ -1,0 +1,4 @@
+Voyaging Satyr {1}{G}
+Creature — Satyr Druid
+{T}: Untap target land.
+1/2

@@ -1,0 +1,4 @@
+Belbe's Portal {5}
+Artifact
+As Belbe's Portal enters the battlefield, choose a creature type.
+{3}, {T}: You may put a creature card of the chosen type from your hand onto the battlefield.

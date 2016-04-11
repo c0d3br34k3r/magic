@@ -1,0 +1,5 @@
+Wall of Tanglecord {2}
+Artifact Creature — Wall
+Defender
+{G}: Wall of Tanglecord gains reach until end of turn. (It can block creatures with flying.)
+0/6

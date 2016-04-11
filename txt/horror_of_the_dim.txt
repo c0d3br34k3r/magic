@@ -1,0 +1,4 @@
+Horror of the Dim {4}{B}
+Creature — Horror
+{U}: Horror of the Dim gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+3/4

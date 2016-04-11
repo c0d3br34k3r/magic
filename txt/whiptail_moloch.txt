@@ -1,0 +1,4 @@
+Whiptail Moloch {4}{R}
+Creature — Lizard
+When Whiptail Moloch enters the battlefield, it deals 3 damage to target creature you control.
+6/3

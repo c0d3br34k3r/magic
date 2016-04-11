@@ -1,0 +1,5 @@
+Crushing Vines {2}{G}
+Instant
+Choose one —
+• Destroy target creature with flying.
+• Destroy target artifact.

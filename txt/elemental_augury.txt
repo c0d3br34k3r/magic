@@ -1,0 +1,3 @@
+Elemental Augury {U}{B}{R}
+Enchantment
+{3}: Look at the top three cards of target player's library, then put them back in any order.

@@ -1,0 +1,3 @@
+Imperial Edict {1}{B}
+Sorcery
+Target opponent chooses a creature he or she controls. Destroy it.

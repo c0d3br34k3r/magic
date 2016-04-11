@@ -1,0 +1,3 @@
+Mana Echoes {2}{R}{R}
+Enchantment
+Whenever a creature enters the battlefield, you may add an amount of {C} to your mana pool equal to the number of creatures you control that share a creature type with it.

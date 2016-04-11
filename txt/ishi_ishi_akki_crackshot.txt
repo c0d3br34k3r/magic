@@ -1,0 +1,4 @@
+Ishi-Ishi, Akki Crackshot {1}{R}
+Legendary Creature — Goblin Warrior
+Whenever an opponent casts a Spirit or Arcane spell, Ishi-Ishi, Akki Crackshot deals 2 damage to that player.
+1/1

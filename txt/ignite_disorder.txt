@@ -1,0 +1,3 @@
+Ignite Disorder {1}{R}
+Instant
+Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.

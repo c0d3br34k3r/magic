@@ -1,0 +1,4 @@
+Predatory Urge {3}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."

@@ -1,0 +1,4 @@
+Goretusk Firebeast {5}{R}
+Creature — Elemental Boar Beast
+When Goretusk Firebeast enters the battlefield, it deals 4 damage to target player.
+2/2

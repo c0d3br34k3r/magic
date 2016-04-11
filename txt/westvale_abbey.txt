@@ -1,0 +1,10 @@
+Westvale Abbey
+Land
+{T}: Add {C} to your mana pool.
+{5}, {T}, Pay 1 life: Put a 1/1 white and black Human Cleric creature token onto the battlefield.
+{5}, {T}, Sacrifice five creatures: Transform Westvale Abbey, then untap it.
+* DOUBLE-FACED *
+Ormendahl, Profane Prince
+Legendary Creature — Demon
+Flying, lifelink, indestructible, haste
+9/7

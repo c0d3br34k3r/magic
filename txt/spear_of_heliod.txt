@@ -1,0 +1,4 @@
+Spear of Heliod {1}{W}{W}
+Legendary Enchantment Artifact
+Creatures you control get +1/+1.
+{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn.

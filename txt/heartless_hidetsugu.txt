@@ -1,0 +1,4 @@
+Heartless Hidetsugu {3}{R}{R}
+Legendary Creature — Ogre Shaman
+{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.
+4/3

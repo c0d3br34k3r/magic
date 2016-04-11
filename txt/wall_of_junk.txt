@@ -1,0 +1,5 @@
+Wall of Junk {2}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+When Wall of Junk blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)
+0/7

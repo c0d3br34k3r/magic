@@ -1,0 +1,5 @@
+Molting Harpy {B}
+Creature — Harpy Mercenary
+Flying
+At the beginning of your upkeep, sacrifice Molting Harpy unless you pay {2}.
+2/1

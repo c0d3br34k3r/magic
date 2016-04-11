@@ -1,0 +1,3 @@
+Rakdos Signet {2}
+Artifact
+{1}, {T}: Add {B}{R} to your mana pool.

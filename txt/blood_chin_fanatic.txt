@@ -1,0 +1,4 @@
+Blood-Chin Fanatic {1}{B}{B}
+Creature — Orc Warrior
+{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.
+3/3

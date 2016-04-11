@@ -1,0 +1,4 @@
+Swirling Spriggan {2}{G}{G}
+Creature — Goblin Shaman
+{G/U}{G/U}: Target creature you control becomes the color or colors of your choice until end of turn.
+3/3

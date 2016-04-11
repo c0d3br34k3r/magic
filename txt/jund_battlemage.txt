@@ -1,0 +1,5 @@
+Jund Battlemage {2}{R}
+Creature — Human Shaman
+{B}, {T}: Target player loses 1 life.
+{G}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+2/2

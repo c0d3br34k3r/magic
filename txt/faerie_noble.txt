@@ -1,0 +1,6 @@
+Faerie Noble {2}{G}
+Creature — Faerie
+Flying
+Other Faerie creatures you control get +0/+1.
+{T}: Other Faerie creatures you control get +1/+0 until end of turn.
+1/2

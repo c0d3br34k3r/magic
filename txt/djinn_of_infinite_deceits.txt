@@ -1,0 +1,5 @@
+Djinn of Infinite Deceits {4}{U}{U}
+Creature — Djinn
+Flying
+{T}: Exchange control of two target nonlegendary creatures. You can't activate this ability during combat.
+2/7

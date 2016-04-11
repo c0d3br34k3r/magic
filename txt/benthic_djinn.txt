@@ -1,0 +1,5 @@
+Benthic Djinn {2}{U}{B}
+Creature — Djinn
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+At the beginning of your upkeep, you lose 2 life.
+5/3

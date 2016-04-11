@@ -1,0 +1,4 @@
+Manic Vandal {2}{R}
+Creature — Human Warrior
+When Manic Vandal enters the battlefield, destroy target artifact.
+2/2

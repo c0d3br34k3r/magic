@@ -1,0 +1,4 @@
+Whip Sergeant {2}{R}
+Creature — Human Soldier
+{R}: Target creature gains haste until end of turn. (It can attack this turn.)
+2/1

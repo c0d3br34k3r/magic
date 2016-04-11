@@ -1,0 +1,4 @@
+Fire Servant {3}{R}{R}
+Creature — Elemental
+If a red instant or sorcery spell you control would deal damage, it deals double that damage instead.
+4/3

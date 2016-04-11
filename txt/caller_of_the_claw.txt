@@ -1,0 +1,5 @@
+Caller of the Claw {2}{G}
+Creature — Elf
+Flash
+When Caller of the Claw enters the battlefield, put a 2/2 green Bear creature token onto the battlefield for each nontoken creature put into your graveyard from the battlefield this turn.
+2/2

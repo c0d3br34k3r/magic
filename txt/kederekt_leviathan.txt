@@ -1,0 +1,5 @@
+Kederekt Leviathan {6}{U}{U}
+Creature — Leviathan
+When Kederekt Leviathan enters the battlefield, return all other nonland permanents to their owners' hands.
+Unearth {6}{U} ({6}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+5/5

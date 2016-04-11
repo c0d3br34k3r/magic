@@ -1,0 +1,5 @@
+Battering Craghorn {2}{R}{R}
+Creature — Goat Beast
+First strike
+Morph {1}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+3/1

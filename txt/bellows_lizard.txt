@@ -1,0 +1,4 @@
+Bellows Lizard {R}
+Creature — Lizard
+{1}{R}: Bellows Lizard gets +1/+0 until end of turn.
+1/1

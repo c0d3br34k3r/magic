@@ -1,0 +1,3 @@
+Cleanfall {2}{W}
+Sorcery — Arcane
+Destroy all enchantments.

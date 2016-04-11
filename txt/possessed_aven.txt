@@ -1,0 +1,5 @@
+Possessed Aven {2}{U}{U}
+Creature — Bird Soldier Horror
+Flying
+Threshold — As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target blue creature."
+3/3

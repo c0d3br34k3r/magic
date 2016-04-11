@@ -1,0 +1,5 @@
+Shrieking Specter {5}{B}
+Creature — Specter
+Flying
+Whenever Shrieking Specter attacks, defending player discards a card.
+2/2

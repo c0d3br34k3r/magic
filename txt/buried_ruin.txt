@@ -1,0 +1,4 @@
+Buried Ruin
+Land
+{T}: Add {C} to your mana pool.
+{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.

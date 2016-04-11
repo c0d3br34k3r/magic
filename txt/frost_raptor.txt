@@ -1,0 +1,5 @@
+Frost Raptor {2}{U}
+Snow Creature — Bird
+Flying
+{S}{S}: Frost Raptor gains shroud until end of turn. ({S} can be paid with one mana from a snow permanent. A creature with shroud can't be the target of spells or abilities.)
+2/2

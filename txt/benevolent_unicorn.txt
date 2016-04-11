@@ -1,0 +1,4 @@
+Benevolent Unicorn {1}{W}
+Creature — Unicorn
+If a spell would deal damage to a creature or player, it deals that much damage minus 1 to that creature or player instead.
+1/2

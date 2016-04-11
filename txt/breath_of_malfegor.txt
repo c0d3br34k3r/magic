@@ -1,0 +1,3 @@
+Breath of Malfegor {3}{B}{R}
+Instant
+Breath of Malfegor deals 5 damage to each opponent.

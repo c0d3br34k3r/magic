@@ -1,0 +1,4 @@
+Stomping Ground
+Land — Mountain Forest
+({T}: Add {R} or {G} to your mana pool.)
+As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.

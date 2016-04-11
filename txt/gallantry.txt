@@ -1,0 +1,4 @@
+Gallantry {1}{W}
+Instant
+Target blocking creature gets +4/+4 until end of turn.
+Draw a card.

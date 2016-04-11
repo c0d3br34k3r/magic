@@ -1,0 +1,4 @@
+Vhati il-Dal {2}{B}{G}
+Legendary Creature — Human Warrior
+{T}: Until end of turn, target creature has base power 1 or base toughness 1.
+3/3

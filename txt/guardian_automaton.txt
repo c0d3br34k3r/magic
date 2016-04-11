@@ -1,0 +1,4 @@
+Guardian Automaton {4}
+Artifact Creature — Construct
+When Guardian Automaton dies, you gain 3 life.
+3/3

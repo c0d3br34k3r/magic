@@ -1,0 +1,4 @@
+Satyr Piper {2}{G}
+Creature — Satyr Rogue
+{3}{G}: Target creature must be blocked this turn if able.
+2/1

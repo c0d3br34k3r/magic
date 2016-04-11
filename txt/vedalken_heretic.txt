@@ -1,0 +1,4 @@
+Vedalken Heretic {U}{G}
+Creature — Vedalken Rogue
+Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.
+1/1

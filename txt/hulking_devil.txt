@@ -1,0 +1,3 @@
+Hulking Devil {3}{R}
+Creature — Devil
+5/2

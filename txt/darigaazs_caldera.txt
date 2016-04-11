@@ -1,0 +1,4 @@
+Darigaaz's Caldera
+Land — Lair
+When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {B}, {R}, or {G} to your mana pool.

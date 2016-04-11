@@ -1,0 +1,4 @@
+Alluring Siren {1}{U}
+Creature — Siren
+{T}: Target creature an opponent controls attacks you this turn if able.
+1/1

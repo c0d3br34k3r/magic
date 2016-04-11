@@ -1,0 +1,5 @@
+Spore Flower {G}{G}
+Creature — Fungus
+At the beginning of your upkeep, put a spore counter on Spore Flower.
+Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.
+0/1

@@ -1,0 +1,6 @@
+Thundercloud Elemental {5}{U}{U}
+Creature — Elemental
+Flying
+{3}{U}: Tap all creatures with toughness 2 or less.
+{3}{U}: All other creatures lose flying until end of turn.
+3/4

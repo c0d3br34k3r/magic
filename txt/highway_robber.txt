@@ -1,0 +1,4 @@
+Highway Robber {2}{B}{B}
+Creature — Human Mercenary
+When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+2/2

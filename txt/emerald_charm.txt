@@ -1,0 +1,6 @@
+Emerald Charm {G}
+Instant
+Choose one —
+• Untap target permanent.
+• Destroy target non-Aura enchantment.
+• Target creature loses flying until end of turn.

@@ -1,0 +1,4 @@
+Feedback {2}{U}
+Enchantment — Aura
+Enchant enchantment
+At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.

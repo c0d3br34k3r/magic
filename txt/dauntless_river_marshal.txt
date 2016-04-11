@@ -1,0 +1,5 @@
+Dauntless River Marshal {1}{W}
+Creature — Human Soldier
+Dauntless River Marshal gets +1/+1 as long as you control an Island.
+{3}{U}: Tap target creature.
+2/1

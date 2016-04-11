@@ -1,0 +1,4 @@
+Coral Net {U}
+Enchantment — Aura
+Enchant green or white creature
+Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you discard a card."

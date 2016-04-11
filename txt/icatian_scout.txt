@@ -1,0 +1,4 @@
+Icatian Scout {W}
+Creature — Human Soldier Scout
+{1}, {T}: Target creature gains first strike until end of turn.
+1/1

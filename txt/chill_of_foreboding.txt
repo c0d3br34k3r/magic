@@ -1,0 +1,4 @@
+Chill of Foreboding {2}{U}
+Sorcery
+Each player puts the top five cards of his or her library into his or her graveyard.
+Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

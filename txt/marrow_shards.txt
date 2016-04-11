@@ -1,0 +1,4 @@
+Marrow Shards {W/P}
+Instant
+({W/P} can be paid with either {W} or 2 life.)
+Marrow Shards deals 1 damage to each attacking creature.

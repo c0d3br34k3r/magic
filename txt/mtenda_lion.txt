@@ -1,0 +1,4 @@
+Mtenda Lion {G}
+Creature — Cat
+Whenever Mtenda Lion attacks, defending player may pay {U}. If that player does, prevent all combat damage that would be dealt by Mtenda Lion this turn.
+2/1

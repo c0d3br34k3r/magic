@@ -1,0 +1,5 @@
+Meandering Towershell {3}{G}{G}
+Creature — Turtle
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.
+5/9

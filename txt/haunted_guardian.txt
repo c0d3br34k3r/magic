@@ -1,0 +1,4 @@
+Haunted Guardian {2}
+Artifact Creature — Construct
+Defender, first strike
+2/1

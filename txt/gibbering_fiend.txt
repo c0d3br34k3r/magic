@@ -1,0 +1,5 @@
+Gibbering Fiend {1}{R}
+Creature — Devil
+When Gibbering Fiend enters the battlefield, it deals 1 damage to each opponent.
+Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, Gibbering Fiend deals 1 damage to that player.
+2/1

@@ -1,0 +1,4 @@
+Dream Fighter {2}{U}
+Creature — Human Soldier
+Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)
+1/1

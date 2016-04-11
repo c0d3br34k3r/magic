@@ -1,0 +1,5 @@
+Deputy of Acquittals {W}{U}
+Creature — Human Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+When Deputy of Acquittals enters the battlefield, you may return another target creature you control to its owner's hand.
+2/2

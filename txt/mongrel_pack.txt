@@ -1,0 +1,4 @@
+Mongrel Pack {3}{G}
+Creature — Hound
+When Mongrel Pack dies during combat, put four 1/1 green Hound creature tokens onto the battlefield.
+4/1

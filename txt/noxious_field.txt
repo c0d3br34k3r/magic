@@ -1,0 +1,4 @@
+Noxious Field {1}{B}{B}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}: This land deals 1 damage to each creature and each player."

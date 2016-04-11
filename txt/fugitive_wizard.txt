@@ -1,0 +1,3 @@
+Fugitive Wizard {U}
+Creature — Human Wizard
+1/1

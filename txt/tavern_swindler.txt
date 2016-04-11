@@ -1,0 +1,4 @@
+Tavern Swindler {1}{B}
+Creature — Human Rogue
+{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+2/2

@@ -1,0 +1,5 @@
+Æther Membrane {1}{R}{R}
+Creature — Wall
+Defender; reach (This creature can block creatures with flying.)
+Whenever Æther Membrane blocks a creature, return that creature to its owner's hand at end of combat.
+0/5

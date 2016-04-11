@@ -1,0 +1,3 @@
+Invigorating Falls {2}{G}{G}
+Sorcery
+You gain life equal to the number of creature cards in all graveyards.

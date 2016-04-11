@@ -1,0 +1,3 @@
+Amulet of Unmaking {5}
+Artifact
+{5}, {T}, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery.

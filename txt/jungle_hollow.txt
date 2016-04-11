@@ -1,0 +1,5 @@
+Jungle Hollow
+Land
+Jungle Hollow enters the battlefield tapped.
+When Jungle Hollow enters the battlefield, you gain 1 life.
+{T}: Add {B} or {G} to your mana pool.

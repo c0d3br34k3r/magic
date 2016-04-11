@@ -1,0 +1,4 @@
+Tolarian Serpent {5}{U}{U}
+Creature — Serpent
+At the beginning of your upkeep, put the top seven cards of your library into your graveyard.
+7/7

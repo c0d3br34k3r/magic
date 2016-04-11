@@ -1,0 +1,4 @@
+Pierce Strider {4}
+Artifact Creature — Construct
+When Pierce Strider enters the battlefield, target opponent loses 3 life.
+3/3

@@ -1,0 +1,4 @@
+Jackal Familiar {R}
+Creature — Hound
+Jackal Familiar can't attack or block alone.
+2/2

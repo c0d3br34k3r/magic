@@ -1,0 +1,4 @@
+Vile Deacon {2}{B}{B}
+Creature — Human Cleric
+Whenever Vile Deacon attacks, it gets +X/+X until end of turn, where X is the number of Clerics on the battlefield.
+2/2

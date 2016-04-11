@@ -1,0 +1,5 @@
+Thalakos Scout {2}{U}
+Creature — Thalakos Soldier Scout
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Discard a card: Return Thalakos Scout to its owner's hand.
+2/1

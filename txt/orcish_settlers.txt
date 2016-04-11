@@ -1,0 +1,4 @@
+Orcish Settlers {1}{R}
+Creature — Orc
+{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.
+1/1

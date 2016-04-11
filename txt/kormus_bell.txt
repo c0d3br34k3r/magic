@@ -1,0 +1,3 @@
+Kormus Bell {4}
+Artifact
+All Swamps are 1/1 black creatures that are still lands.

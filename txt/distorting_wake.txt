@@ -1,0 +1,3 @@
+Distorting Wake {X}{U}{U}{U}
+Sorcery
+Return X target nonland permanents to their owners' hands.

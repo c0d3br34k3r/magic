@@ -1,0 +1,3 @@
+Wielding the Green Dragon {1}{G}
+Sorcery
+Target creature gets +4/+4 until end of turn.

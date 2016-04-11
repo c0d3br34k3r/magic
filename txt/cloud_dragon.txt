@@ -1,0 +1,5 @@
+Cloud Dragon {5}{U}
+Creature — Illusion Dragon
+Flying
+Cloud Dragon can block only creatures with flying.
+5/4

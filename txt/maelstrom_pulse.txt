@@ -1,0 +1,3 @@
+Maelstrom Pulse {1}{B}{G}
+Sorcery
+Destroy target nonland permanent and all other permanents with the same name as that permanent.

@@ -1,0 +1,4 @@
+Ratchet Bomb {2}
+Artifact
+{T}: Put a charge counter on Ratchet Bomb.
+{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.

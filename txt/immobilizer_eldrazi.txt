@@ -1,0 +1,5 @@
+Immobilizer Eldrazi {1}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{2}{C}: Each creature with toughness greater than its power can't block this turn. ({C} represents colorless mana.)
+2/1

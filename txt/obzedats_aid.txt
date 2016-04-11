@@ -1,0 +1,3 @@
+Obzedat's Aid {3}{W}{B}
+Sorcery
+Return target permanent card from your graveyard to the battlefield.

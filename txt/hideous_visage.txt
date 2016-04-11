@@ -1,0 +1,3 @@
+Hideous Visage {2}{B}
+Sorcery
+Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)

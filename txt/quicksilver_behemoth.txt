@@ -1,0 +1,5 @@
+Quicksilver Behemoth {6}{U}
+Creature — Beast
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)
+4/5

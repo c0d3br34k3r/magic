@@ -1,0 +1,5 @@
+Looter il-Kor {1}{U}
+Creature — Kor Rogue
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Looter il-Kor deals damage to an opponent, draw a card, then discard a card.
+1/1

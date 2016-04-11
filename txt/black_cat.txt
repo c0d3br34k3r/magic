@@ -1,0 +1,4 @@
+Black Cat {1}{B}
+Creature — Zombie Cat
+When Black Cat dies, target opponent discards a card at random.
+1/1

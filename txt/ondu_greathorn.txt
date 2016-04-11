@@ -1,0 +1,5 @@
+Ondu Greathorn {3}{W}
+Creature — Beast
+First strike
+Landfall — Whenever a land enters the battlefield under your control, Ondu Greathorn gets +2/+2 until end of turn.
+2/3

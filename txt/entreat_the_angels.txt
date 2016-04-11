@@ -1,0 +1,4 @@
+Entreat the Angels {X}{X}{W}{W}{W}
+Sorcery
+Put X 4/4 white Angel creature tokens with flying onto the battlefield.
+Miracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)

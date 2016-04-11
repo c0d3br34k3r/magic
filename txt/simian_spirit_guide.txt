@@ -1,0 +1,4 @@
+Simian Spirit Guide {2}{R}
+Creature — Ape Spirit
+Exile Simian Spirit Guide from your hand: Add {R} to your mana pool.
+2/2

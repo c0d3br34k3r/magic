@@ -1,0 +1,5 @@
+Blazing Specter {2}{B}{R}
+Creature — Specter
+Flying, haste
+Whenever Blazing Specter deals combat damage to a player, that player discards a card.
+2/2

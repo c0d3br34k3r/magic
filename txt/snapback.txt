@@ -1,0 +1,4 @@
+Snapback {1}{U}
+Instant
+You may exile a blue card from your hand rather than pay Snapback's mana cost.
+Return target creature to its owner's hand.

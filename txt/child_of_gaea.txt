@@ -1,0 +1,6 @@
+Child of Gaea {3}{G}{G}{G}
+Creature — Elemental
+Trample
+At the beginning of your upkeep, sacrifice Child of Gaea unless you pay {G}{G}.
+{1}{G}: Regenerate Child of Gaea.
+7/7

@@ -1,0 +1,6 @@
+Graven Dominator {4}{W}{W}
+Creature — Gargoyle
+Flying
+Haunt (When this creature dies, exile it haunting target creature.)
+When Graven Dominator enters the battlefield or the creature it haunts dies, each other creature has base power and toughness 1/1 until end of turn.
+4/4

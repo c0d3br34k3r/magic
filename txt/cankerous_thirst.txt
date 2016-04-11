@@ -1,0 +1,3 @@
+Cankerous Thirst {3}{B/G}
+Instant
+If {B} was spent to cast Cankerous Thirst, you may have target creature get -3/-3 until end of turn. If {G} was spent to cast Cankerous Thirst, you may have target creature get +3/+3 until end of turn. (Do both if {B}{G} was spent.)

@@ -1,0 +1,5 @@
+Ryusei, the Falling Star {5}{R}
+Legendary Creature — Dragon Spirit
+Flying
+When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+5/5

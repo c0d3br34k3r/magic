@@ -1,0 +1,6 @@
+Jeskai Barricade {1}{W}
+Creature — Wall
+Flash (You may cast this spell any time you could cast an instant.)
+Defender
+When Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.
+0/4

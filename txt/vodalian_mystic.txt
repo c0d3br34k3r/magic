@@ -1,0 +1,4 @@
+Vodalian Mystic {1}{U}
+Creature — Merfolk Wizard
+{T}: Target instant or sorcery spell becomes the color of your choice.
+1/1

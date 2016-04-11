@@ -1,0 +1,3 @@
+Open the Vaults {4}{W}{W}
+Sorcery
+Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.)

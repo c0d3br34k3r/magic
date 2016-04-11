@@ -1,0 +1,4 @@
+Dutiful Thrull {W}
+Creature — Thrull
+{B}: Regenerate Dutiful Thrull.
+1/1

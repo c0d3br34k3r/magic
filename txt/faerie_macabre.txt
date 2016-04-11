@@ -1,0 +1,5 @@
+Faerie Macabre {1}{B}{B}
+Creature — Faerie Rogue
+Flying
+Discard Faerie Macabre: Exile up to two target cards from graveyards.
+2/2

@@ -1,0 +1,5 @@
+Thunderscape Familiar {1}{R}
+Creature — Kavu
+First strike
+Black spells and green spells you cast cost {1} less to cast.
+1/1

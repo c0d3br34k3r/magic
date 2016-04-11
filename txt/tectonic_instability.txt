@@ -1,0 +1,3 @@
+Tectonic Instability {2}{R}
+Enchantment
+Whenever a land enters the battlefield, tap all lands its controller controls.

@@ -1,0 +1,9 @@
+Solitary Hunter {3}{G}
+Creature — Human Warrior Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Solitary Hunter.
+3/4
+* DOUBLE-FACED *
+One of the Pack
+Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform One of the Pack.
+5/6

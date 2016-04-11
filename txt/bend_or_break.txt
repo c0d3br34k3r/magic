@@ -1,0 +1,3 @@
+Bend or Break {3}{R}
+Sorcery
+Each player separates all nontoken lands he or she controls into two piles. For each player, one of his or her piles is chosen by one of his or her opponents of his or her choice. Destroy all lands in the chosen piles. Tap all lands in the other piles.

@@ -1,0 +1,3 @@
+Necromancer's Stockpile {1}{B}
+Enchantment
+{1}{B}, Discard a creature card: Draw a card. If the discarded card was a Zombie card, put a 2/2 black Zombie creature token onto the battlefield tapped.

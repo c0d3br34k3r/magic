@@ -1,0 +1,5 @@
+Sunhome Guildmage {W}{R}
+Creature — Human Wizard
+{1}{R}{W}: Creatures you control get +1/+0 until end of turn.
+{2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.
+2/2

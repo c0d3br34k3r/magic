@@ -1,0 +1,5 @@
+Rhys the Exiled {2}{G}
+Legendary Creature — Elf Warrior
+Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you control.
+{B}, Sacrifice an Elf: Regenerate Rhys the Exiled.
+3/2

@@ -1,0 +1,4 @@
+Daily Regimen {W}
+Enchantment — Aura
+Enchant creature
+{1}{W}: Put a +1/+1 counter on enchanted creature.

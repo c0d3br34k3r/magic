@@ -1,0 +1,4 @@
+Oraxid {3}{U}
+Creature — Crab Beast
+Protection from red
+2/3

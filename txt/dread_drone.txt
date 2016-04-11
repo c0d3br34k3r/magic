@@ -1,0 +1,4 @@
+Dread Drone {4}{B}
+Creature — Eldrazi Drone
+When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."
+4/1

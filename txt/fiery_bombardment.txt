@@ -1,0 +1,3 @@
+Fiery Bombardment {1}{R}
+Enchantment
+Chroma — {2}, Sacrifice a creature: Fiery Bombardment deals damage to target creature or player equal to the number of red mana symbols in the sacrificed creature's mana cost.

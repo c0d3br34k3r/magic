@@ -1,0 +1,4 @@
+Guided Strike {1}{W}
+Instant
+Target creature gets +1/+0 and gains first strike until end of turn.
+Draw a card.

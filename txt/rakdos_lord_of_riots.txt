@@ -1,0 +1,6 @@
+Rakdos, Lord of Riots {B}{B}{R}{R}
+Legendary Creature — Demon
+You can't cast Rakdos, Lord of Riots unless an opponent lost life this turn.
+Flying, trample
+Creature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.
+6/6

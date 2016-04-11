@@ -1,0 +1,4 @@
+Metathran Zombie {1}{U}
+Creature — Metathran Zombie
+{B}: Regenerate Metathran Zombie.
+1/1

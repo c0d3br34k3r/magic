@@ -1,0 +1,5 @@
+Angelic Overseer {3}{W}{W}
+Creature — Angel
+Flying
+As long as you control a Human, Angelic Overseer has hexproof and indestructible.
+5/3

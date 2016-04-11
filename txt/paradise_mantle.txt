@@ -1,0 +1,4 @@
+Paradise Mantle {0}
+Artifact — Equipment
+Equipped creature has "{T}: Add one mana of any color to your mana pool."
+Equip {1}

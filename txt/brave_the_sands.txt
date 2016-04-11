@@ -1,0 +1,4 @@
+Brave the Sands {1}{W}
+Enchantment
+Creatures you control have vigilance.
+Each creature you control can block an additional creature each combat.

@@ -1,0 +1,4 @@
+Tears of Valakut {1}{R}
+Instant
+Tears of Valakut can't be countered by spells or abilities.
+Tears of Valakut deals 5 damage to target creature with flying.

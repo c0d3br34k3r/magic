@@ -1,0 +1,6 @@
+Avacyn, Guardian Angel {2}{W}{W}{W}
+Legendary Creature — Angel
+Flying, vigilance
+{1}{W}: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice.
+{5}{W}{W}: Prevent all damage that would be dealt to target player this turn by sources of the color of your choice.
+5/4

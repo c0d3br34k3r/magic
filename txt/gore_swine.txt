@@ -1,0 +1,3 @@
+Gore Swine {2}{R}
+Creature — Boar
+4/1

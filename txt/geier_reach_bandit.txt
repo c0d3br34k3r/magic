@@ -1,0 +1,11 @@
+Geier Reach Bandit {2}{R}
+Creature — Human Rogue Werewolf
+Haste
+At the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.
+3/2
+* DOUBLE-FACED *
+Vildin-Pack Alpha
+Creature — Werewolf
+Whenever a Werewolf enters the battlefield under your control, you may transform it.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Vildin-Pack Alpha.
+4/3

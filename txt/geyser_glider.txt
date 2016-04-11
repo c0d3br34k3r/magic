@@ -1,0 +1,4 @@
+Geyser Glider {3}{R}{R}
+Creature — Elemental Beast
+Landfall — Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+4/4

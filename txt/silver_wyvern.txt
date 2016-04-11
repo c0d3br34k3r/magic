@@ -1,0 +1,5 @@
+Silver Wyvern {3}{U}{U}
+Creature — Drake
+Flying
+{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.
+4/3

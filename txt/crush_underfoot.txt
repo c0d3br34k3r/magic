@@ -1,0 +1,3 @@
+Crush Underfoot {1}{R}
+Tribal Instant — Giant
+Choose a Giant creature you control. It deals damage equal to its power to target creature.

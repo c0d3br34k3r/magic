@@ -1,0 +1,6 @@
+Slipstream Serpent {7}{U}
+Creature — Serpent
+Slipstream Serpent can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Slipstream Serpent.
+Morph {5}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+6/6

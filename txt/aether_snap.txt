@@ -1,0 +1,3 @@
+Æther Snap {3}{B}{B}
+Sorcery
+Remove all counters from all permanents and exile all tokens.

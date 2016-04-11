@@ -1,0 +1,5 @@
+Eldrazi Displacer {2}{W}
+Creature — Eldrazi
+Devoid (This card has no color.)
+{2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. ({C} represents colorless mana.)
+3/3

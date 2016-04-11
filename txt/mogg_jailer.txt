@@ -1,0 +1,4 @@
+Mogg Jailer {1}{R}
+Creature — Goblin
+Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.
+2/2

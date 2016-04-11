@@ -1,0 +1,4 @@
+Shared Triumph {1}{W}
+Enchantment
+As Shared Triumph enters the battlefield, choose a creature type.
+Creatures of the chosen type get +1/+1.

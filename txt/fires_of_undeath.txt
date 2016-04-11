@@ -1,0 +1,4 @@
+Fires of Undeath {2}{R}
+Instant
+Fires of Undeath deals 2 damage to target creature or player.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

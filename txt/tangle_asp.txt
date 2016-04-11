@@ -1,0 +1,4 @@
+Tangle Asp {1}{G}
+Creature — Snake
+Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.
+1/2

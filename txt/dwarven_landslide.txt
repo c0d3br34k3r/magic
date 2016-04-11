@@ -1,0 +1,4 @@
+Dwarven Landslide {3}{R}
+Sorcery
+Kicker—{2}{R}, Sacrifice a land. (You may pay {2}{R} and sacrifice a land in addition to any other costs as you cast this spell.)
+Destroy target land. If Dwarven Landslide was kicked, destroy another target land.

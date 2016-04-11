@@ -1,0 +1,4 @@
+Zombie Outlander {U}{B}
+Creature — Zombie Scout
+Protection from green
+2/2

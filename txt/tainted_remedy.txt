@@ -1,0 +1,3 @@
+Tainted Remedy {2}{B}
+Enchantment
+If an opponent would gain life, that player loses that much life instead.

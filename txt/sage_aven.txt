@@ -1,0 +1,5 @@
+Sage Aven {3}{U}
+Creature — Bird Wizard
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.
+1/3

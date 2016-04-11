@@ -1,0 +1,4 @@
+Sea Gate Wreckage
+Land
+{T}: Add {C} to your mana pool. ({C} represents colorless mana.)
+{2}{C}, {T}: Draw a card. Activate this ability only if you have no cards in hand.

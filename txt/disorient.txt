@@ -1,0 +1,3 @@
+Disorient {3}{U}
+Instant
+Target creature gets -7/-0 until end of turn.

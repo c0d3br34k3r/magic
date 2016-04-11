@@ -1,0 +1,4 @@
+Elvish Pathcutter {3}{G}
+Creature — Elf Scout
+{2}{G}: Target Elf creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)
+1/2

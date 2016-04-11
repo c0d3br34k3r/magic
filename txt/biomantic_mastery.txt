@@ -1,0 +1,3 @@
+Biomantic Mastery {4}{G/U}{G/U}{G/U}
+Sorcery
+Draw a card for each creature target player controls, then draw a card for each creature another target player controls.

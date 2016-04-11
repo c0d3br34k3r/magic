@@ -1,0 +1,5 @@
+Oyobi, Who Split the Heavens {6}{W}
+Legendary Creature — Spirit
+Flying
+Whenever you cast a Spirit or Arcane spell, put a 3/3 white Spirit creature token with flying onto the battlefield.
+3/6

@@ -1,0 +1,5 @@
+Grotesque Hybrid {4}{B}
+Creature — Zombie
+Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.
+3/3

@@ -1,0 +1,4 @@
+Gustcloak Runner {W}
+Creature — Human Soldier
+Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.
+1/1

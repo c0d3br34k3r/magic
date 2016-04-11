@@ -1,0 +1,5 @@
+Carnage Gladiator {2}{B}{R}
+Creature — Skeleton Warrior
+Whenever a creature blocks, that creature's controller loses 1 life.
+{1}{B}{R}: Regenerate Carnage Gladiator.
+4/2

@@ -1,0 +1,4 @@
+Myr Superion {2}
+Artifact Creature — Myr
+Spend only mana produced by creatures to cast Myr Superion.
+5/6

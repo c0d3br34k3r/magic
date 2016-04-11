@@ -1,0 +1,4 @@
+Havengul Skaab {5}{U}
+Creature — Zombie Horror
+Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.
+4/5

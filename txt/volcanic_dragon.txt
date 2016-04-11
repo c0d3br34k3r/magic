@@ -1,0 +1,5 @@
+Volcanic Dragon {4}{R}{R}
+Creature — Dragon
+Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+4/4

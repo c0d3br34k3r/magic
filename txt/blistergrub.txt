@@ -1,0 +1,5 @@
+Blistergrub {2}{B}
+Creature — Horror
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+When Blistergrub dies, each opponent loses 2 life.
+2/2

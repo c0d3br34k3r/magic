@@ -1,0 +1,5 @@
+Glint Hawk {W}
+Creature — Bird
+Flying
+When Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.
+2/2

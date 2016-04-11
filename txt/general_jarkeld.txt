@@ -1,0 +1,4 @@
+General Jarkeld {3}{W}
+Legendary Creature — Human Soldier
+{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.
+1/2

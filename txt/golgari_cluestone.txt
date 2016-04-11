@@ -1,0 +1,4 @@
+Golgari Cluestone {3}
+Artifact
+{T}: Add {B} or {G} to your mana pool.
+{B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card.

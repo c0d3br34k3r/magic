@@ -1,0 +1,3 @@
+Defensive Maneuvers {3}{W}
+Instant
+Creatures of the creature type of your choice get +0/+4 until end of turn.

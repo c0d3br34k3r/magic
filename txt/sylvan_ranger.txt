@@ -1,0 +1,4 @@
+Sylvan Ranger {1}{G}
+Creature — Elf Scout
+When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+1/1

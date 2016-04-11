@@ -1,0 +1,5 @@
+Kokusho, the Evening Star {4}{B}{B}
+Legendary Creature — Dragon Spirit
+Flying
+When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.
+5/5

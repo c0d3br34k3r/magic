@@ -1,0 +1,4 @@
+Electrolyze {1}{U}{R}
+Instant
+Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.

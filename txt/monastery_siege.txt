@@ -1,0 +1,5 @@
+Monastery Siege {2}{U}
+Enchantment
+As Monastery Siege enters the battlefield, choose Khans or Dragons.
+• Khans — At the beginning of your draw step, draw an additional card, then discard a card.
+• Dragons — Spells your opponents cast that target you or a permanent you control cost {2} more to cast.

@@ -1,0 +1,6 @@
+Lightning Serpent {X}{R}
+Creature — Elemental Serpent
+Trample, haste
+Lightning Serpent enters the battlefield with X +1/+0 counters on it.
+At the beginning of the end step, sacrifice Lightning Serpent.
+2/1

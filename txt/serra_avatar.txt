@@ -1,0 +1,5 @@
+Serra Avatar {4}{W}{W}{W}
+Creature — Avatar
+Serra Avatar's power and toughness are each equal to your life total.
+When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.
+*/*

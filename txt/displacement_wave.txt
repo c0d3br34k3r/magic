@@ -1,0 +1,3 @@
+Displacement Wave {X}{U}{U}
+Sorcery
+Return all nonland permanents with converted mana cost X or less to their owners' hands.

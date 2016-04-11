@@ -1,0 +1,4 @@
+Teleport {U}{U}{U}
+Instant
+Cast Teleport only during the declare attackers step.
+Target creature can't be blocked this turn.

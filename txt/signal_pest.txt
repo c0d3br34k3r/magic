@@ -1,0 +1,5 @@
+Signal Pest {1}
+Artifact Creature — Pest
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Signal Pest can't be blocked except by creatures with flying or reach.
+0/1

@@ -1,0 +1,4 @@
+Harness by Force {1}{R}{R}
+Sorcery
+Strive — Harness by Force costs {2}{R} more to cast for each target beyond the first.
+Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.

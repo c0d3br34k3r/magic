@@ -1,0 +1,4 @@
+Seedtime {1}{G}
+Instant
+Cast Seedtime only during your turn.
+Take an extra turn after this one if an opponent cast a blue spell this turn.

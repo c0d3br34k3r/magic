@@ -1,0 +1,4 @@
+Soldevi Sentry {1}
+Artifact Creature — Soldier
+{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.
+1/1

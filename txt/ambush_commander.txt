@@ -1,0 +1,5 @@
+Ambush Commander {3}{G}{G}
+Creature — Elf
+Forests you control are 1/1 green Elf creatures that are still lands.
+{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.
+2/2

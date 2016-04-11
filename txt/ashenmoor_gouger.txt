@@ -1,0 +1,4 @@
+Ashenmoor Gouger {B/R}{B/R}{B/R}
+Creature — Elemental Warrior
+Ashenmoor Gouger can't block.
+4/4

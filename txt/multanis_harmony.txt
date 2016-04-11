@@ -1,0 +1,4 @@
+Multani's Harmony {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{T}: Add one mana of any color to your mana pool."

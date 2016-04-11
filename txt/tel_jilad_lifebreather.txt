@@ -1,0 +1,4 @@
+Tel-Jilad Lifebreather {4}{G}
+Creature — Troll Shaman
+{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+3/2

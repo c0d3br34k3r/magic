@@ -1,0 +1,5 @@
+Ratcatcher {4}{B}{B}
+Creature — Ogre Rogue
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may search your library for a Rat card, reveal it, and put it into your hand. If you do, shuffle your library.
+4/4

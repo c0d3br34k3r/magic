@@ -1,0 +1,5 @@
+Maul Splicer {6}{G}
+Creature — Human Artificer
+When Maul Splicer enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.
+Golem creatures you control have trample.
+1/1

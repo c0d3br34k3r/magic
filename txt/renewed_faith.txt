@@ -1,0 +1,5 @@
+Renewed Faith {2}{W}
+Instant
+You gain 6 life.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Renewed Faith, you may gain 2 life.

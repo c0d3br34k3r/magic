@@ -1,0 +1,4 @@
+Quill-Slinger Boggart {3}{B}
+Creature — Goblin Warrior
+Whenever a player casts a Kithkin spell, you may have target player lose 1 life.
+3/2

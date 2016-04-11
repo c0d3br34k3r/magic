@@ -1,0 +1,5 @@
+Gaea's Blessing {1}{G}
+Sorcery
+Target player shuffles up to three target cards from his or her graveyard into his or her library.
+Draw a card.
+When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.

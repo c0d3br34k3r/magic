@@ -1,0 +1,4 @@
+Traumatic Visions {3}{U}{U}
+Instant
+Counter target spell.
+Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)

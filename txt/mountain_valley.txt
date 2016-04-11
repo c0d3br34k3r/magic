@@ -1,0 +1,4 @@
+Mountain Valley
+Land
+Mountain Valley enters the battlefield tapped.
+{T}, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.

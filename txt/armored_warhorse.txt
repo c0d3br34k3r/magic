@@ -1,0 +1,3 @@
+Armored Warhorse {W}{W}
+Creature — Horse
+2/3

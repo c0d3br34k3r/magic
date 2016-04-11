@@ -1,0 +1,5 @@
+Champion of Lambholt {1}{G}{G}
+Creature — Human Warrior
+Creatures with power less than Champion of Lambholt's power can't block creatures you control.
+Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.
+1/1

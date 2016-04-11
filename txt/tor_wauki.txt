@@ -1,0 +1,4 @@
+Tor Wauki {2}{B}{B}{R}
+Legendary Creature — Human Archer
+{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.
+3/3

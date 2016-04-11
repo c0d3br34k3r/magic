@@ -1,0 +1,3 @@
+Demon's Grasp {4}{B}
+Sorcery
+Target creature gets -5/-5 until end of turn.

@@ -1,0 +1,4 @@
+Mind Swords {1}{B}
+Sorcery
+If you control a Swamp, you may sacrifice a creature rather than pay Mind Swords's mana cost.
+Each player exiles two cards from his or her hand.

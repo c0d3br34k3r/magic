@@ -1,0 +1,4 @@
+Duergar Mine-Captain {2}{R/W}
+Creature — Dwarf Soldier
+{1}{R/W}, {Q}: Attacking creatures get +1/+0 until end of turn. ({Q} is the untap symbol.)
+2/1

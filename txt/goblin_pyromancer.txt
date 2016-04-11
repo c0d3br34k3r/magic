@@ -1,0 +1,5 @@
+Goblin Pyromancer {3}{R}
+Creature — Goblin Wizard
+When Goblin Pyromancer enters the battlefield, Goblin creatures get +3/+0 until end of turn.
+At the beginning of the end step, destroy all Goblins.
+2/2

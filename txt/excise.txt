@@ -1,0 +1,3 @@
+Excise {X}{W}
+Instant
+Exile target attacking creature unless its controller pays {X}.

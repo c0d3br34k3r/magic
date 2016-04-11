@@ -1,0 +1,4 @@
+Seton, Krosan Protector {G}{G}{G}
+Legendary Creature — Centaur Druid
+Tap an untapped Druid you control: Add {G} to your mana pool.
+2/2

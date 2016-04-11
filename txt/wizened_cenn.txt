@@ -1,0 +1,4 @@
+Wizened Cenn {W}{W}
+Creature — Kithkin Cleric
+Other Kithkin creatures you control get +1/+1.
+2/2

@@ -1,0 +1,4 @@
+Elvish Vanguard {1}{G}
+Creature — Elf Warrior
+Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard.
+1/1

@@ -1,0 +1,3 @@
+Claws of Gix {0}
+Artifact
+{1}, Sacrifice a permanent: You gain 1 life.

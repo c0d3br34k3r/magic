@@ -1,0 +1,4 @@
+Viridian Claw {2}
+Artifact — Equipment
+Equipped creature gets +1/+0 and has first strike.
+Equip {1}

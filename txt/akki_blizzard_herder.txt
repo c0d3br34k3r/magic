@@ -1,0 +1,4 @@
+Akki Blizzard-Herder {1}{R}
+Creature — Goblin Shaman
+When Akki Blizzard-Herder dies, each player sacrifices a land.
+1/1

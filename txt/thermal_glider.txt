@@ -1,0 +1,4 @@
+Thermal Glider {2}{W}
+Creature — Human Rebel
+Flying, protection from red
+2/1

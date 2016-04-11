@@ -1,0 +1,5 @@
+Shinen of Fear's Chill {4}{B}
+Creature — Spirit
+Shinen of Fear's Chill can't block.
+Channel — {1}{B}, Discard Shinen of Fear's Chill: Target creature can't block this turn.
+3/2

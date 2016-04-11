@@ -1,0 +1,4 @@
+Anowon, the Ruin Sage {3}{B}{B}
+Legendary Creature — Vampire Shaman
+At the beginning of your upkeep, each player sacrifices a non-Vampire creature.
+4/3

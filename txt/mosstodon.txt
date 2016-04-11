@@ -1,0 +1,4 @@
+Mosstodon {4}{G}
+Creature — Plant Elephant
+{1}: Target creature with power 5 or greater gains trample until end of turn.
+5/3

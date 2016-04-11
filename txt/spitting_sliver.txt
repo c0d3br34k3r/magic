@@ -1,0 +1,4 @@
+Spitting Sliver {4}{B}
+Creature — Sliver
+All Sliver creatures have first strike.
+3/3

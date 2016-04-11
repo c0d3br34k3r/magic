@@ -1,0 +1,5 @@
+Vine Trellis {1}{G}
+Creature — Plant Wall
+Defender (This creature can't attack.)
+{T}: Add {G} to your mana pool.
+0/4

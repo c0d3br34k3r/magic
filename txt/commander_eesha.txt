@@ -1,0 +1,4 @@
+Commander Eesha {2}{W}{W}
+Legendary Creature — Bird Soldier
+Flying, protection from creatures
+2/4

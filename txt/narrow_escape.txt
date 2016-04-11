@@ -1,0 +1,3 @@
+Narrow Escape {2}{W}
+Instant
+Return target permanent you control to its owner's hand. You gain 4 life.

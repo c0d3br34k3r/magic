@@ -1,0 +1,4 @@
+Coiled Tinviper {3}
+Artifact Creature — Snake
+First strike
+2/1

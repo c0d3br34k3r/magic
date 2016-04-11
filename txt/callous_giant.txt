@@ -1,0 +1,4 @@
+Callous Giant {4}{R}{R}
+Creature — Giant
+If a source would deal 3 or less damage to Callous Giant, prevent that damage.
+4/4

@@ -1,0 +1,5 @@
+Genju of the Spires {R}
+Enchantment — Aura
+Enchant Mountain
+{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.
+When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.

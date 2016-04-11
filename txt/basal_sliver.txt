@@ -1,0 +1,4 @@
+Basal Sliver {2}{B}
+Creature — Sliver
+All Slivers have "Sacrifice this permanent: Add {B}{B} to your mana pool."
+2/2

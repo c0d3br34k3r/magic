@@ -1,0 +1,5 @@
+Cessation {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack.
+When Cessation is put into a graveyard from the battlefield, return Cessation to its owner's hand.

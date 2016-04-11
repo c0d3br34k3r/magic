@@ -1,0 +1,5 @@
+Overgrown Battlement {1}{G}
+Creature — Wall
+Defender
+{T}: Add {G} to your mana pool for each creature with defender you control.
+0/4

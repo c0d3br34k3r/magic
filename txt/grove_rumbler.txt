@@ -1,0 +1,5 @@
+Grove Rumbler {2}{R}{G}
+Creature — Elemental
+Trample
+Landfall — Whenever a land enters the battlefield under your control, Grove Rumbler gets +2/+2 until end of turn.
+3/3

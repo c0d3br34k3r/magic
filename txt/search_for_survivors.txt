@@ -1,0 +1,3 @@
+Search for Survivors {2}{R}
+Sorcery
+Reorder your graveyard at random. An opponent chooses a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, exile it.

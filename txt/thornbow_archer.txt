@@ -1,0 +1,4 @@
+Thornbow Archer {B}
+Creature — Elf Archer
+Whenever Thornbow Archer attacks, each opponent who doesn't control an Elf loses 1 life.
+1/2

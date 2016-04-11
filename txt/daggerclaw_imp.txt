@@ -1,0 +1,5 @@
+Daggerclaw Imp {2}{B}
+Creature — Imp
+Flying
+Daggerclaw Imp can't block.
+3/1

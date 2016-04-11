@@ -1,0 +1,5 @@
+Sun Ce, Young Conquerer {3}{U}{U}
+Legendary Creature — Human Soldier
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.
+3/3

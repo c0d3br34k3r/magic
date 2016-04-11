@@ -1,0 +1,4 @@
+Magus of the Bazaar {1}{U}
+Creature — Human Wizard
+{T}: Draw two cards, then discard three cards.
+0/1

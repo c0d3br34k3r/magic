@@ -1,0 +1,4 @@
+Beast of Burden {6}
+Artifact Creature — Golem
+Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+*/*

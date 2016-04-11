@@ -1,0 +1,3 @@
+Loreseeker's Stone {6}
+Artifact
+{3}, {T}: Draw three cards. This ability costs {1} more to activate for each card in your hand.

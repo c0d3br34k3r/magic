@@ -1,0 +1,9 @@
+Caravan Escort {W}
+Creature — Human Knight
+Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+2/2
+LEVEL 5+
+5/5
+First strike
+1/1

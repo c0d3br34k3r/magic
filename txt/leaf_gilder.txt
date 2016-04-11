@@ -1,0 +1,4 @@
+Leaf Gilder {1}{G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool.
+2/1

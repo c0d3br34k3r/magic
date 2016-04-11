@@ -1,0 +1,6 @@
+Warmonger Hellkite {4}{R}{R}
+Creature — Dragon
+Flying
+All creatures attack each combat if able.
+{1}{R}: Attacking creatures get +1/+0 until end of turn.
+5/5

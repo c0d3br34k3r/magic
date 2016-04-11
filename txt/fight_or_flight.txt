@@ -1,0 +1,3 @@
+Fight or Flight {3}{W}
+Enchantment
+At the beginning of combat on each opponent's turn, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.

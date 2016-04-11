@@ -1,0 +1,3 @@
+Spare from Evil {1}{W}
+Instant
+Creatures you control gain protection from non-Human creatures until end of turn.

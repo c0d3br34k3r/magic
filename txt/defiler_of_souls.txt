@@ -1,0 +1,5 @@
+Defiler of Souls {3}{B}{B}{R}
+Creature — Demon
+Flying
+At the beginning of each player's upkeep, that player sacrifices a monocolored creature.
+5/5

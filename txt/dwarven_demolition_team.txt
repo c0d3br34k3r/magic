@@ -1,0 +1,4 @@
+Dwarven Demolition Team {2}{R}
+Creature — Dwarf
+{T}: Destroy target Wall.
+1/1

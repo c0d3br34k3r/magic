@@ -1,0 +1,4 @@
+Salvage Scout {W}
+Creature — Human Scout
+{W}, Sacrifice Salvage Scout: Return target artifact card from your graveyard to your hand.
+1/1

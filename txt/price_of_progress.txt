@@ -1,0 +1,3 @@
+Price of Progress {1}{R}
+Instant
+Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.

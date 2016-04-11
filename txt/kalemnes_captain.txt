@@ -1,0 +1,6 @@
+Kalemne's Captain {3}{W}{W}
+Creature — Giant Soldier
+Vigilance
+{5}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Kalemne's Captain becomes monstrous, exile all artifacts and enchantments.
+5/5

@@ -1,0 +1,5 @@
+Thrull Retainer {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice Thrull Retainer: Regenerate enchanted creature.

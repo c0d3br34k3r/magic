@@ -1,0 +1,4 @@
+Phyrexian Rager {2}{B}
+Creature — Horror
+When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+2/2

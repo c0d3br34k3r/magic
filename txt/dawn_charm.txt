@@ -1,0 +1,6 @@
+Dawn Charm {1}{W}
+Instant
+Choose one —
+• Prevent all combat damage that would be dealt this turn.
+• Regenerate target creature.
+• Counter target spell that targets you.

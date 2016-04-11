@@ -1,0 +1,5 @@
+Darksteel Garrison {2}
+Artifact — Fortification
+Fortified land has indestructible.
+Whenever fortified land becomes tapped, target creature gets +1/+1 until end of turn.
+Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the land leaves.)

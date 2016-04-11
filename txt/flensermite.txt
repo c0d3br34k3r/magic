@@ -1,0 +1,5 @@
+Flensermite {1}{B}
+Creature — Gremlin
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/1

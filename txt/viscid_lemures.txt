@@ -1,0 +1,4 @@
+Viscid Lemures {4}{B}
+Creature — Spirit
+{0}: Viscid Lemures gets -1/-0 and gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)
+4/3

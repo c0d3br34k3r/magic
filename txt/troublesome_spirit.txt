@@ -1,0 +1,5 @@
+Troublesome Spirit {2}{U}{U}
+Creature — Spirit
+Flying
+At the beginning of your end step, tap all lands you control.
+3/4

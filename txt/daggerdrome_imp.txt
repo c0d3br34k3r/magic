@@ -1,0 +1,5 @@
+Daggerdrome Imp {1}{B}
+Creature — Imp
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/1

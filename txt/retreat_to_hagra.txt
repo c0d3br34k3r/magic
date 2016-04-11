@@ -1,0 +1,5 @@
+Retreat to Hagra {2}{B}
+Enchantment
+Landfall — Whenever a land enters the battlefield under your control, choose one —
+• Target creature gets +1/+0 and gains deathtouch until end of turn.
+• Each opponent loses 1 life and you gain 1 life.

@@ -1,0 +1,4 @@
+Fiery Conclusion {1}{R}
+Instant
+As an additional cost to cast Fiery Conclusion, sacrifice a creature.
+Fiery Conclusion deals 5 damage to target creature.

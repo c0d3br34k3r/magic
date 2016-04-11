@@ -1,0 +1,4 @@
+Necrotic Sliver {1}{W}{B}
+Creature — Sliver
+All Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."
+2/2

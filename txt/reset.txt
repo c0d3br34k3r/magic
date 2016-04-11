@@ -1,0 +1,4 @@
+Reset {U}{U}
+Instant
+Cast Reset only during an opponent's turn after his or her upkeep step.
+Untap all lands you control.

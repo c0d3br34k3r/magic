@@ -1,0 +1,3 @@
+Stone Calendar {5}
+Artifact
+Spells you cast cost up to {1} less to cast.

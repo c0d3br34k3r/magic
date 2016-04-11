@@ -1,0 +1,6 @@
+Furnace Dragon {6}{R}{R}{R}
+Creature — Dragon
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.
+5/5

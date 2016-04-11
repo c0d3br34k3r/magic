@@ -1,0 +1,5 @@
+Advance Scout {1}{W}
+Creature — Human Soldier Scout
+First strike
+{W}: Target creature gains first strike until end of turn.
+1/1

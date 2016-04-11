@@ -1,0 +1,4 @@
+Burrenton Shield-Bearers {4}{W}
+Creature — Kithkin Soldier
+Whenever Burrenton Shield-Bearers attacks, target creature gets +0/+3 until end of turn.
+3/3

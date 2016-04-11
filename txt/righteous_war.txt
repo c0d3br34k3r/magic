@@ -1,0 +1,4 @@
+Righteous War {1}{W}{B}
+Enchantment
+White creatures you control have protection from black.
+Black creatures you control have protection from white.

@@ -1,0 +1,6 @@
+Wall of Nets {1}{W}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+At end of combat, exile all creatures blocked by Wall of Nets.
+When Wall of Nets leaves the battlefield, return all cards exiled with Wall of Nets to the battlefield under their owners' control.
+0/7

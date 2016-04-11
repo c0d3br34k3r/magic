@@ -1,0 +1,4 @@
+Sporecap Spider {2}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+1/5

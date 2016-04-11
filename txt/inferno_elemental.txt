@@ -1,0 +1,4 @@
+Inferno Elemental {4}{R}{R}
+Creature — Elemental
+Whenever Inferno Elemental blocks or becomes blocked by a creature, Inferno Elemental deals 3 damage to that creature.
+4/4

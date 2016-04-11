@@ -1,0 +1,3 @@
+Trap Essence {U}{R}{G}
+Instant
+Counter target creature spell. Put two +1/+1 counters on up to one target creature.

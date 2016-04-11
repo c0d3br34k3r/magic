@@ -1,0 +1,4 @@
+Gwendlyn Di Corci {U}{B}{B}{R}
+Legendary Creature — Human Rogue
+{T}: Target player discards a card at random. Activate this ability only during your turn.
+3/5

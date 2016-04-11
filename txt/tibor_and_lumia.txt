@@ -1,0 +1,5 @@
+Tibor and Lumia {2}{U}{R}
+Legendary Creature — Human Wizard
+Whenever you cast a blue spell, target creature gains flying until end of turn.
+Whenever you cast a red spell, Tibor and Lumia deals 1 damage to each creature without flying.
+3/3

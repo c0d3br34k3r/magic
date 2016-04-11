@@ -1,0 +1,4 @@
+Transgress the Mind {1}{B}
+Sorcery
+Devoid (This card has no color.)
+Target player reveals his or her hand. You choose a card from it with converted mana cost 3 or greater and exile that card.

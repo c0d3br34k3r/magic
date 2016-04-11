@@ -1,0 +1,3 @@
+Deadly Wanderings {3}{B}{B}
+Enchantment
+As long as you control exactly one creature, that creature gets +2/+0 and has deathtouch and lifelink.

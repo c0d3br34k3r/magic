@@ -1,0 +1,4 @@
+Dreamstone Hedron {6}
+Artifact
+{T}: Add {C}{C}{C} to your mana pool.
+{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.

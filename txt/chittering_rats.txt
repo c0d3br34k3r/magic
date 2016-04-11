@@ -1,0 +1,4 @@
+Chittering Rats {1}{B}{B}
+Creature — Rat
+When Chittering Rats enters the battlefield, target opponent puts a card from his or her hand on top of his or her library.
+2/2

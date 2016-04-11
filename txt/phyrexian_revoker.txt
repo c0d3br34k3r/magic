@@ -1,0 +1,5 @@
+Phyrexian Revoker {2}
+Artifact Creature — Horror
+As Phyrexian Revoker enters the battlefield, name a nonland card.
+Activated abilities of sources with the chosen name can't be activated.
+2/1

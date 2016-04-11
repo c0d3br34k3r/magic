@@ -1,0 +1,4 @@
+Resupply {5}{W}
+Instant
+You gain 6 life.
+Draw a card.

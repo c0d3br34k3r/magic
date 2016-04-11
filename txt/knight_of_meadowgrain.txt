@@ -1,0 +1,5 @@
+Knight of Meadowgrain {W}{W}
+Creature — Kithkin Knight
+First strike
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+2/2

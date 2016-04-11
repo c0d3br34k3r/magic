@@ -1,0 +1,3 @@
+Watchwolf {W}{G}
+Creature — Wolf
+3/3

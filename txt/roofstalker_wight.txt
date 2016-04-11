@@ -1,0 +1,4 @@
+Roofstalker Wight {1}{B}
+Creature — Zombie
+{1}{U}: Roofstalker Wight gains flying until end of turn.
+2/1

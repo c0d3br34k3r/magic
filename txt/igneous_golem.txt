@@ -1,0 +1,4 @@
+Igneous Golem {5}
+Artifact Creature — Golem
+{2}: Igneous Golem gains trample until end of turn.
+3/4

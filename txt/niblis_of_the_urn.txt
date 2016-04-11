@@ -1,0 +1,5 @@
+Niblis of the Urn {1}{W}
+Creature — Spirit
+Flying
+Whenever Niblis of the Urn attacks, you may tap target creature.
+1/1

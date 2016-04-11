@@ -1,0 +1,5 @@
+Lieutenant Kirtar {1}{W}{W}
+Legendary Creature — Bird Soldier
+Flying
+{1}{W}, Sacrifice Lieutenant Kirtar: Exile target attacking creature.
+2/2

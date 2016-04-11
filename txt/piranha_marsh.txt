@@ -1,0 +1,5 @@
+Piranha Marsh
+Land
+Piranha Marsh enters the battlefield tapped.
+When Piranha Marsh enters the battlefield, target player loses 1 life.
+{T}: Add {B} to your mana pool.

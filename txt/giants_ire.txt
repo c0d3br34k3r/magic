@@ -1,0 +1,3 @@
+Giant's Ire {3}{R}
+Tribal Sorcery — Giant
+Giant's Ire deals 4 damage to target player. If you control a Giant, draw a card.

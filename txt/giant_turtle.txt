@@ -1,0 +1,4 @@
+Giant Turtle {1}{G}{G}
+Creature — Turtle
+Giant Turtle can't attack if it attacked during your last turn.
+2/4

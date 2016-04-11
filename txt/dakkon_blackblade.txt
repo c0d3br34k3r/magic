@@ -1,0 +1,4 @@
+Dakkon Blackblade {2}{W}{U}{U}{B}
+Legendary Creature — Human Warrior
+Dakkon Blackblade's power and toughness are each equal to the number of lands you control.
+*/*

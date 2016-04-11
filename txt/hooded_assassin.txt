@@ -1,0 +1,6 @@
+Hooded Assassin {2}{B}
+Creature — Human Assassin
+When Hooded Assassin enters the battlefield, choose one —
+• Put a +1/+1 counter on Hooded Assassin.
+• Destroy target creature that was dealt damage this turn.
+1/2

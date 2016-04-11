@@ -1,0 +1,4 @@
+Empty the Pits {X}{X}{B}{B}{B}{B}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Put X 2/2 black Zombie creature tokens onto the battlefield tapped.

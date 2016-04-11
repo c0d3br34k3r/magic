@@ -1,0 +1,4 @@
+Tomb of the Spirit Dragon
+Land
+{T}: Add {C} to your mana pool.
+{2}, {T}: You gain 1 life for each colorless creature you control.

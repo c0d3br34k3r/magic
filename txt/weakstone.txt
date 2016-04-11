@@ -1,0 +1,3 @@
+Weakstone {4}
+Artifact
+Attacking creatures get -1/-0.

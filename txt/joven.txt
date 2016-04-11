@@ -1,0 +1,4 @@
+Joven {3}{R}{R}
+Legendary Creature — Human Rogue
+{R}{R}{R}, {T}: Destroy target noncreature artifact.
+3/3

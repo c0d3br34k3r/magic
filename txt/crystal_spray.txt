@@ -1,0 +1,4 @@
+Crystal Spray {2}{U}
+Instant
+Change the text of target spell or permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.
+Draw a card.

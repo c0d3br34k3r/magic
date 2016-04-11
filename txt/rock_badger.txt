@@ -1,0 +1,4 @@
+Rock Badger {4}{R}
+Creature — Badger Beast
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+3/3

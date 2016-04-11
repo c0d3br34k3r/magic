@@ -1,0 +1,5 @@
+Cosmic Larva {1}{R}{R}
+Creature — Beast
+Trample
+At the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two lands.
+7/6

@@ -1,0 +1,3 @@
+Strongarm Tactics {1}{B}
+Sorcery
+Each player discards a card. Then each player who didn't discard a creature card this way loses 4 life.

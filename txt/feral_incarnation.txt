@@ -1,0 +1,4 @@
+Feral Incarnation {8}{G}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Put three 3/3 green Beast creature tokens onto the battlefield.

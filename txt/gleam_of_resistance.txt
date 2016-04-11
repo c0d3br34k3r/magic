@@ -1,0 +1,4 @@
+Gleam of Resistance {4}{W}
+Instant
+Creatures you control get +1/+2 until end of turn. Untap those creatures.
+Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)

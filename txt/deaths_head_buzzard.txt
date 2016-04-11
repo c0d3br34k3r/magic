@@ -1,0 +1,5 @@
+Death's-Head Buzzard {1}{B}{B}
+Creature — Bird
+Flying
+When Death's-Head Buzzard dies, all creatures get -1/-1 until end of turn.
+2/1

@@ -1,0 +1,4 @@
+Hallowed Moonlight {1}{W}
+Instant
+Until end of turn, if a creature would enter the battlefield and it wasn't cast, exile it instead.
+Draw a card.

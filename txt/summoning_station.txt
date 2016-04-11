@@ -1,0 +1,4 @@
+Summoning Station {7}
+Artifact
+{T}: Put a 2/2 colorless Pincher creature token onto the battlefield.
+Whenever an artifact is put into a graveyard from the battlefield, you may untap Summoning Station.

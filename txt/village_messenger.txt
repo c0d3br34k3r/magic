@@ -1,0 +1,11 @@
+Village Messenger {R}
+Creature — Human Werewolf
+Haste
+At the beginning of each upkeep, if no spells were cast last turn, transform Village Messenger.
+1/1
+* DOUBLE-FACED *
+Moonrise Intruder
+Creature — Werewolf
+Menace (This creature can't be blocked except by two or more creatures.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonrise Intruder.
+2/2

@@ -1,0 +1,6 @@
+Damia, Sage of Stone {4}{U}{B}{G}
+Legendary Creature — Gorgon Wizard
+Deathtouch
+Skip your draw step.
+At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.
+4/4

@@ -1,0 +1,5 @@
+Gerrard Capashen {3}{W}{W}
+Legendary Creature — Human Soldier
+At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.
+{3}{W}: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.
+3/4

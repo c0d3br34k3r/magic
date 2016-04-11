@@ -1,0 +1,4 @@
+Gather the Townsfolk {1}{W}
+Sorcery
+Put two 1/1 white Human creature tokens onto the battlefield.
+Fateful hour — If you have 5 or less life, put five of those tokens onto the battlefield instead.

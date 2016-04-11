@@ -1,0 +1,5 @@
+Mystic Familiar {1}{W}
+Creature — Bird
+Flying
+Threshold — As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.
+1/2

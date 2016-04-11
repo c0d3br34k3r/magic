@@ -1,0 +1,5 @@
+Shu Yun, the Silent Tempest {2}{U}
+Legendary Creature — Human Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn.
+3/2

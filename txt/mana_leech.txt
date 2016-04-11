@@ -1,0 +1,5 @@
+Mana Leech {2}{B}
+Creature — Leech
+You may choose not to untap Mana Leech during your untap step.
+{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.
+1/1

@@ -1,0 +1,4 @@
+Wild Beastmaster {2}{G}
+Creature — Human Shaman
+Whenever Wild Beastmaster attacks, each other creature you control gets +X/+X until end of turn, where X is Wild Beastmaster's power.
+1/1

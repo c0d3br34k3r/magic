@@ -1,0 +1,4 @@
+Reality Anchor {1}{G}
+Instant
+Target creature loses shadow until end of turn.
+Draw a card.

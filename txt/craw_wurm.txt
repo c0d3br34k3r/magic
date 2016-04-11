@@ -1,0 +1,3 @@
+Craw Wurm {4}{G}{G}
+Creature — Wurm
+6/4

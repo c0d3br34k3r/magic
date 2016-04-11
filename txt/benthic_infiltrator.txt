@@ -1,0 +1,6 @@
+Benthic Infiltrator {2}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+Benthic Infiltrator can't be blocked.
+1/4

@@ -1,0 +1,5 @@
+Skeletal Kathari {4}{B}
+Creature — Bird Skeleton
+Flying
+{B}, Sacrifice a creature: Regenerate Skeletal Kathari.
+3/2

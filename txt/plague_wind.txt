@@ -1,0 +1,3 @@
+Plague Wind {7}{B}{B}
+Sorcery
+Destroy all creatures you don't control. They can't be regenerated.

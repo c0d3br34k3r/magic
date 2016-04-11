@@ -1,0 +1,4 @@
+Goblin Raider {1}{R}
+Creature — Goblin Warrior
+Goblin Raider can't block.
+2/2

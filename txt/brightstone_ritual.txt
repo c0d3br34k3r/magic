@@ -1,0 +1,3 @@
+Brightstone Ritual {R}
+Instant
+Add {R} to your mana pool for each Goblin on the battlefield.

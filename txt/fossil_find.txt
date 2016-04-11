@@ -1,0 +1,3 @@
+Fossil Find {R/G}
+Sorcery
+Return a card at random from your graveyard to your hand, then reorder your graveyard as you choose.

@@ -1,0 +1,5 @@
+Impetuous Sunchaser {1}{R}
+Creature — Human Soldier
+Flying, haste
+Impetuous Sunchaser attacks each turn if able.
+1/1

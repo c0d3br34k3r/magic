@@ -1,0 +1,4 @@
+Soliton {5}
+Artifact Creature — Construct
+{U}: Untap Soliton.
+3/4

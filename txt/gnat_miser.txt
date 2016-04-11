@@ -1,0 +1,4 @@
+Gnat Miser {B}
+Creature — Rat Shaman
+Each opponent's maximum hand size is reduced by one.
+1/1

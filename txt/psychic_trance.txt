@@ -1,0 +1,3 @@
+Psychic Trance {2}{U}{U}
+Instant
+Until end of turn, Wizards you control gain "{T}: Counter target spell."

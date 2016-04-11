@@ -1,0 +1,4 @@
+Leshrac's Rite {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has swampwalk. (It can't be blocked as long as defending player controls a Swamp.)

@@ -1,0 +1,5 @@
+Orzhov Guildmage {W/B}{W/B}
+Creature — Human Wizard
+{2}{W}: Target player gains 1 life.
+{2}{B}: Each player loses 1 life.
+2/2

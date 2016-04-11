@@ -1,0 +1,4 @@
+Fyndhorn Elder {2}{G}
+Creature — Elf Druid
+{T}: Add {G}{G} to your mana pool.
+1/1

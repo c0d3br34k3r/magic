@@ -1,0 +1,5 @@
+Ogre Jailbreaker {3}{B}
+Creature — Ogre Rogue
+Defender
+Ogre Jailbreaker can attack as though it didn't have defender as long as you control a Gate.
+4/4

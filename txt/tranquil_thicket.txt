@@ -1,0 +1,5 @@
+Tranquil Thicket
+Land
+Tranquil Thicket enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+Cycling {G} ({G}, Discard this card: Draw a card.)

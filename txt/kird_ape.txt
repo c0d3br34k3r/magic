@@ -1,0 +1,4 @@
+Kird Ape {R}
+Creature — Ape
+Kird Ape gets +1/+2 as long as you control a Forest.
+1/1

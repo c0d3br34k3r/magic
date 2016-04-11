@@ -1,0 +1,7 @@
+Demonic Pact {2}{B}{B}
+Enchantment
+At the beginning of your upkeep, choose one that hasn't been chosen —
+• Demonic Pact deals 4 damage to target creature or player and you gain 4 life.
+• Target opponent discards two cards.
+• Draw two cards.
+• You lose the game.

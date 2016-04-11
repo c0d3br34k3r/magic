@@ -1,0 +1,5 @@
+Unyaro Griffin {3}{W}
+Creature — Griffin
+Flying
+Sacrifice Unyaro Griffin: Counter target red instant or sorcery spell.
+2/2

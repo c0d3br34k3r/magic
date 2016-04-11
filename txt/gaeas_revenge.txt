@@ -1,0 +1,6 @@
+Gaea's Revenge {5}{G}{G}
+Creature — Elemental
+Gaea's Revenge can't be countered.
+Haste
+Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.
+8/5

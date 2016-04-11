@@ -1,0 +1,4 @@
+Wight of Precinct Six {1}{B}
+Creature — Zombie
+Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.
+1/1

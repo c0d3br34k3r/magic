@@ -1,0 +1,4 @@
+Mangara of Corondor {1}{W}{W}
+Legendary Creature — Human Wizard
+{T}: Exile Mangara of Corondor and target permanent.
+1/1

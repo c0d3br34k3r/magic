@@ -1,0 +1,4 @@
+Coast Watcher {1}{U}
+Creature — Bird Soldier
+Flying, protection from green
+1/1

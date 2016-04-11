@@ -1,0 +1,3 @@
+Gaze of Granite {X}{B}{B}{G}
+Sorcery
+Destroy each nonland permanent with converted mana cost X or less.

@@ -1,0 +1,4 @@
+Trickster Mage {U}
+Creature — Human Spellshaper
+{U}, {T}, Discard a card: You may tap or untap target artifact, creature, or land.
+1/1

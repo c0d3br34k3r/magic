@@ -1,0 +1,4 @@
+Kozilek's Channeler {5}
+Creature — Eldrazi
+{T}: Add {C}{C} to your mana pool.
+4/4

@@ -1,0 +1,5 @@
+Isperia's Skywatch {5}{U}
+Creature — Vedalken Knight
+Flying
+When Isperia's Skywatch enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+3/3

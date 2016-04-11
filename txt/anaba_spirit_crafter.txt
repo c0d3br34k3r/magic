@@ -1,0 +1,4 @@
+Anaba Spirit Crafter {2}{R}{R}
+Creature — Minotaur Shaman
+Minotaur creatures get +1/+0.
+1/3

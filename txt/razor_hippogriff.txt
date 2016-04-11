@@ -1,0 +1,5 @@
+Razor Hippogriff {3}{W}{W}
+Creature — Hippogriff
+Flying
+When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.
+3/3

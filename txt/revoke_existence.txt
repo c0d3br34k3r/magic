@@ -1,0 +1,3 @@
+Revoke Existence {1}{W}
+Sorcery
+Exile target artifact or enchantment.

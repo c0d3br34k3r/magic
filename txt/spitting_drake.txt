@@ -1,0 +1,5 @@
+Spitting Drake {3}{R}
+Creature — Drake
+Flying
+{R}: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+2/2

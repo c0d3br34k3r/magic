@@ -1,0 +1,3 @@
+Sungrass Egg {1}
+Artifact
+{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W} to your mana pool. Draw a card.

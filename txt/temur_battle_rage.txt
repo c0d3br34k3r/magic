@@ -1,0 +1,4 @@
+Temur Battle Rage {1}{R}
+Instant
+Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.

@@ -1,0 +1,4 @@
+Wanderguard Sentry {4}{U}
+Creature — Drone
+When Wanderguard Sentry enters the battlefield, look at target opponent's hand.
+3/3

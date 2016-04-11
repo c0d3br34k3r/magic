@@ -1,0 +1,3 @@
+Drain Power {U}{U}
+Sorcery
+Target player activates a mana ability of each land he or she controls. Then put all mana from that player's mana pool into yours.

@@ -1,0 +1,5 @@
+Phyrexian Battleflies {B}
+Creature — Insect
+Flying
+{B}: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+0/1

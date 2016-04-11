@@ -1,0 +1,6 @@
+Vault Skirge {1}{B/P}
+Artifact Creature — Imp
+({B/P} can be paid with either {B} or 2 life.)
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/1

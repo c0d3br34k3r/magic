@@ -1,0 +1,4 @@
+Keeper of the Beasts {G}{G}
+Creature — Human Wizard
+{G}, {T}: Choose target opponent who controlled more creatures than you did as you activated this ability. Put a 2/2 green Beast creature token onto the battlefield.
+1/2

@@ -1,0 +1,4 @@
+Enlightened Ascetic {1}{W}
+Creature — Cat Monk
+When Enlightened Ascetic enters the battlefield, you may destroy target enchantment.
+1/1

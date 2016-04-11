@@ -1,0 +1,5 @@
+Deathpact Angel {3}{W}{B}{B}
+Creature — Angel
+Flying
+When Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has "{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
+5/5

@@ -1,0 +1,3 @@
+Word of Binding {X}{B}{B}
+Sorcery
+Tap X target creatures.

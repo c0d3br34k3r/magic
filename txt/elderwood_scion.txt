@@ -1,0 +1,6 @@
+Elderwood Scion {3}{W}{G}
+Creature — Elemental
+Trample, lifelink
+Spells you cast that target Elderwood Scion cost {2} less to cast.
+Spells your opponents cast that target Elderwood Scion cost {2} more to cast.
+4/4

@@ -1,0 +1,4 @@
+Arcane Sanctum
+Land
+Arcane Sanctum enters the battlefield tapped.
+{T}: Add {W}, {U}, or {B} to your mana pool.

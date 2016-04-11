@@ -1,0 +1,4 @@
+Saprazzan Breaker {4}{U}
+Creature — Beast
+{U}: Put the top card of your library into your graveyard. If that card is a land card, Saprazzan Breaker can't be blocked this turn.
+3/3

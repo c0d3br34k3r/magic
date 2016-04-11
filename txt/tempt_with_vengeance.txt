@@ -1,0 +1,3 @@
+Tempt with Vengeance {X}{R}
+Sorcery
+Tempting offer — Put X 1/1 red Elemental creature tokens with haste onto the battlefield. Each opponent may put X 1/1 red Elemental creature tokens with haste onto the battlefield. For each player who does, put X 1/1 red Elemental creature tokens with haste onto the battlefield.

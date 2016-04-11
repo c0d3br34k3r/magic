@@ -1,0 +1,5 @@
+Spiketail Drake {3}{U}{U}
+Creature — Drake
+Flying
+Sacrifice Spiketail Drake: Counter target spell unless its controller pays {3}.
+3/3

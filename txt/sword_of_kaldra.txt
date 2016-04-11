@@ -1,0 +1,5 @@
+Sword of Kaldra {4}
+Legendary Artifact — Equipment
+Equipped creature gets +5/+5.
+Whenever equipped creature deals damage to a creature, exile that creature.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)

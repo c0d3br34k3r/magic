@@ -1,0 +1,4 @@
+Wei Assassins {3}{B}{B}
+Creature — Human Soldier Assassin
+When Wei Assassins enters the battlefield, target opponent chooses a creature he or she controls. Destroy it.
+3/2

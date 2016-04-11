@@ -1,0 +1,4 @@
+Jhovall Queen {4}{W}{W}
+Creature — Cat Rebel
+Vigilance
+4/7

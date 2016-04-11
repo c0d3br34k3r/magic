@@ -1,0 +1,4 @@
+Sandsower {3}{W}
+Creature — Spirit
+Tap three untapped creatures you control: Tap target creature.
+1/3

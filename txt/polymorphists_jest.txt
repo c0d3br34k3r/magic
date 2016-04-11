@@ -1,0 +1,3 @@
+Polymorphist's Jest {1}{U}{U}
+Instant
+Until end of turn, each creature target player controls loses all abilities and becomes a blue Frog with base power and toughness 1/1.

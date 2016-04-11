@@ -1,0 +1,4 @@
+Selfless Cathar {W}
+Creature — Human Cleric
+{1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
+1/1

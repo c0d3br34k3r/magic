@@ -1,0 +1,4 @@
+Burrowing {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)

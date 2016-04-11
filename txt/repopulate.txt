@@ -1,0 +1,4 @@
+Repopulate {1}{G}
+Instant
+Shuffle all creature cards from target player's graveyard into that player's library.
+Cycling {2} ({2}, Discard this card: Draw a card.)

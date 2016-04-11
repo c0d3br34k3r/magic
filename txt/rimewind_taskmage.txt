@@ -1,0 +1,4 @@
+Rimewind Taskmage {1}{U}
+Creature — Human Wizard
+{1}, {T}: You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents.
+1/2

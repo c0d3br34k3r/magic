@@ -1,0 +1,5 @@
+Sidar Jabari {3}{W}
+Legendary Creature — Human Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Whenever Sidar Jabari attacks, tap target creature defending player controls.
+2/2

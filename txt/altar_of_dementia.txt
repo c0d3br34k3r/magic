@@ -1,0 +1,3 @@
+Altar of Dementia {2}
+Artifact
+Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of his or her library into his or her graveyard.

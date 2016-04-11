@@ -1,0 +1,4 @@
+Meng Huo, Barbarian King {3}{G}{G}
+Legendary Creature — Human Barbarian Soldier
+Other green creatures you control get +1/+1.
+4/4

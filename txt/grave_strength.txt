@@ -1,0 +1,3 @@
+Grave Strength {1}{B}
+Sorcery
+Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard.

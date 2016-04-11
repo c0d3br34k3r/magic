@@ -1,0 +1,6 @@
+Hellkite Tyrant {4}{R}{R}
+Creature — Dragon
+Flying, trample
+Whenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls.
+At the beginning of your upkeep, if you control twenty or more artifacts, you win the game.
+6/5

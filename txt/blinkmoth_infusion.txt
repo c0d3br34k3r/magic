@@ -1,0 +1,4 @@
+Blinkmoth Infusion {12}{U}{U}
+Instant
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Untap all artifacts.

@@ -1,0 +1,4 @@
+Grixis Panorama
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.

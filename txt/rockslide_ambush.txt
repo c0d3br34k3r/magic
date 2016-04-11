@@ -1,0 +1,3 @@
+Rockslide Ambush {1}{R}
+Sorcery
+Rockslide Ambush deals damage to target creature equal to the number of Mountains you control.

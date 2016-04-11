@@ -1,0 +1,4 @@
+Earthbrawn {1}{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Reinforce 1—{1}{G} ({1}{G}, Discard this card: Put a +1/+1 counter on target creature.)

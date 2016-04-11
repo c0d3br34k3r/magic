@@ -1,0 +1,3 @@
+War Cadence {2}{R}
+Enchantment
+{X}{R}: This turn, creatures can't block unless their controller pays {X} for each blocking creature he or she controls.

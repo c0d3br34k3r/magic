@@ -1,0 +1,3 @@
+Punish the Enemy {4}{R}
+Instant
+Punish the Enemy deals 3 damage to target player and 3 damage to target creature.

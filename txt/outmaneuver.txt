@@ -1,0 +1,3 @@
+Outmaneuver {X}{R}
+Instant
+X target blocked creatures assign their combat damage this turn as though they weren't blocked.

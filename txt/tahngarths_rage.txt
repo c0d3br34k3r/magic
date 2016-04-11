@@ -1,0 +1,4 @@
+Tahngarth's Rage {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+0 as long as it's attacking. Otherwise, it gets -2/-1.

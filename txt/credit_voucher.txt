@@ -1,0 +1,3 @@
+Credit Voucher {2}
+Artifact
+{2}, {T}, Sacrifice Credit Voucher: Shuffle any number of cards from your hand into your library, then draw that many cards.

@@ -1,0 +1,5 @@
+Mountain Yeti {2}{R}{R}
+Creature — Yeti
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+Protection from white
+3/3

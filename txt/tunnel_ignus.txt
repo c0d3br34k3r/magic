@@ -1,0 +1,4 @@
+Tunnel Ignus {1}{R}
+Creature — Elemental
+Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under his or her control this turn, Tunnel Ignus deals 3 damage to that player.
+2/1

@@ -1,0 +1,4 @@
+Neverending Torment {4}{B}{B}
+Sorcery
+Search target player's library for X cards, where X is the number of cards in your hand, and exile them. Then that player shuffles his or her library.
+Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)

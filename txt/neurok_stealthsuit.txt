@@ -1,0 +1,5 @@
+Neurok Stealthsuit {2}
+Artifact — Equipment
+Equipped creature has shroud. (It can't be the target of spells or abilities.)
+{U}{U}: Attach Neurok Stealthsuit to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

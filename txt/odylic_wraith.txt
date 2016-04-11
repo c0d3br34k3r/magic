@@ -1,0 +1,5 @@
+Odylic Wraith {3}{B}
+Creature — Wraith
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Whenever Odylic Wraith deals damage to a player, that player discards a card.
+2/2

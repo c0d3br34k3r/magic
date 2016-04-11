@@ -1,0 +1,4 @@
+Thunder Spirit {1}{W}{W}
+Creature — Elemental Spirit
+Flying, first strike
+2/2

@@ -1,0 +1,7 @@
+Deceiver Exarch {2}{U}
+Creature — Cleric
+Flash (You may cast this spell any time you could cast an instant.)
+When Deceiver Exarch enters the battlefield, choose one —
+• Untap target permanent you control.
+• Tap target permanent an opponent controls.
+1/4

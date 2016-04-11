@@ -1,0 +1,3 @@
+Searing Flesh {6}{R}
+Sorcery
+Searing Flesh deals 7 damage to target opponent.

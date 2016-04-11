@@ -1,0 +1,4 @@
+Sylvan Safekeeper {G}
+Creature — Human Wizard
+Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)
+1/1

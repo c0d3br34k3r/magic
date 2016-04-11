@@ -1,0 +1,3 @@
+Golgothian Sylex {4}
+Artifact
+{1}, {T}: Each nontoken permanent originally printed in the Antiquities expansion is sacrificed by its controller.

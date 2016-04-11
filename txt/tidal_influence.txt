@@ -1,0 +1,8 @@
+Tidal Influence {2}{U}
+Enchantment
+Cast Tidal Influence only if no permanents named Tidal Influence are on the battlefield.
+Tidal Influence enters the battlefield with a tide counter on it.
+At the beginning of your upkeep, put a tide counter on Tidal Influence.
+As long as there is exactly one tide counter on Tidal Influence, all blue creatures get -2/-0.
+As long as there are exactly three tide counters on Tidal Influence, all blue creatures get +2/+0.
+Whenever there are four tide counters on Tidal Influence, remove all tide counters from it.

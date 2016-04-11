@@ -1,0 +1,4 @@
+Hematite Golem {4}
+Artifact Creature — Golem
+{1}{R}: Hematite Golem gets +2/+0 until end of turn.
+1/4

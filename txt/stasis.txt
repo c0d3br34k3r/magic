@@ -1,0 +1,4 @@
+Stasis {1}{U}
+Enchantment
+Players skip their untap steps.
+At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.

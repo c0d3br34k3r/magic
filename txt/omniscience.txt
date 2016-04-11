@@ -1,0 +1,3 @@
+Omniscience {7}{U}{U}{U}
+Enchantment
+You may cast nonland cards from your hand without paying their mana costs.

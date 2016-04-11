@@ -1,0 +1,3 @@
+Syphon Mind {3}{B}
+Sorcery
+Each other player discards a card. You draw a card for each card discarded this way.

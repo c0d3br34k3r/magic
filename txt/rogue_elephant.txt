@@ -1,0 +1,4 @@
+Rogue Elephant {G}
+Creature — Elephant
+When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.
+3/3

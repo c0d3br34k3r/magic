@@ -1,0 +1,5 @@
+Stormchaser Mage {U}{R}
+Creature — Human Wizard
+Flying, haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+1/3

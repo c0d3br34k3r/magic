@@ -1,0 +1,4 @@
+Tyrranax {4}{G}{G}
+Creature — Beast
+{1}{G}: Tyrranax gets -1/+1 until end of turn.
+5/4

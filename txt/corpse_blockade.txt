@@ -1,0 +1,5 @@
+Corpse Blockade {2}{B}
+Creature — Zombie
+Defender
+Sacrifice another creature: Corpse Blockade gains deathtouch until end of turn.
+1/4

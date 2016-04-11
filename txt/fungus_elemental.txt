@@ -1,0 +1,4 @@
+Fungus Elemental {3}{G}
+Creature — Fungus Elemental
+{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.
+3/3

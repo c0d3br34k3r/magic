@@ -1,0 +1,4 @@
+Dripping-Tongue Zubera {1}{G}
+Creature — Zubera Spirit
+When Dripping-Tongue Zubera dies, put a 1/1 colorless Spirit creature token onto the battlefield for each Zubera that died this turn.
+1/2

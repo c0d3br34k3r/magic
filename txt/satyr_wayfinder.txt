@@ -1,0 +1,4 @@
+Satyr Wayfinder {1}{G}
+Creature — Satyr
+When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.
+1/1

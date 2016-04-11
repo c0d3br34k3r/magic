@@ -1,0 +1,6 @@
+Brood Butcher {3}{B}{G}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+When Brood Butcher enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
+3/3

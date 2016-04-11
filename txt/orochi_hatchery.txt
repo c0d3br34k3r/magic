@@ -1,0 +1,4 @@
+Orochi Hatchery {X}{X}
+Artifact
+Orochi Hatchery enters the battlefield with X charge counters on it.
+{5}, {T}: Put a 1/1 green Snake creature token onto the battlefield for each charge counter on Orochi Hatchery.

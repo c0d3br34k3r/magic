@@ -1,0 +1,3 @@
+Moonlit Wake {2}{W}
+Enchantment
+Whenever a creature dies, you gain 1 life.

@@ -1,0 +1,4 @@
+Leonin Squire {1}{W}
+Creature — Cat Soldier
+When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+2/2

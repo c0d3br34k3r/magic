@@ -1,0 +1,4 @@
+Spin Engine {3}
+Artifact Creature — Construct
+{R}: Target creature can't block Spin Engine this turn.
+3/1

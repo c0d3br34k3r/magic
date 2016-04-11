@@ -1,0 +1,3 @@
+Great Wall {2}{W}
+Enchantment
+Creatures with plainswalk can be blocked as though they didn't have plainswalk.

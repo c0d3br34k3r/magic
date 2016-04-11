@@ -1,0 +1,5 @@
+Thistledown Duo {2}{W/U}
+Creature — Kithkin Soldier Wizard
+Whenever you cast a white spell, Thistledown Duo gets +1/+1 until end of turn.
+Whenever you cast a blue spell, Thistledown Duo gains flying until end of turn.
+2/2

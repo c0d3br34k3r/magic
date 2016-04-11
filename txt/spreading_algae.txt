@@ -1,0 +1,5 @@
+Spreading Algae {G}
+Enchantment — Aura
+Enchant Swamp
+When enchanted land becomes tapped, destroy it.
+When Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand.

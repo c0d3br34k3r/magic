@@ -1,0 +1,3 @@
+Blazing Salvo {R}
+Instant
+Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.

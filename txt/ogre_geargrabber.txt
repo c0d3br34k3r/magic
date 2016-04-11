@@ -1,0 +1,4 @@
+Ogre Geargrabber {4}{R}{R}
+Creature — Ogre Warrior
+Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.
+4/4

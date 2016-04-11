@@ -1,0 +1,4 @@
+Smoldering Efreet {1}{R}
+Creature — Efreet Monk
+When Smoldering Efreet dies, it deals 2 damage to you.
+2/2

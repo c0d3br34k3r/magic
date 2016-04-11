@@ -1,0 +1,4 @@
+Hedron Matrix {4}
+Artifact — Equipment
+Equipped creature gets +X/+X, where X is its converted mana cost.
+Equip {4}

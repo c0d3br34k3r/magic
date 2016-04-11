@@ -1,0 +1,5 @@
+Magebane Armor {3}
+Artifact — Equipment
+Equipped creature gets +2/+4 and loses flying.
+Prevent all noncombat damage that would be dealt to equipped creature.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

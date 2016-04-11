@@ -1,0 +1,4 @@
+Imperiosaur {2}{G}{G}
+Creature — Lizard
+Spend only mana produced by basic lands to cast Imperiosaur.
+5/5

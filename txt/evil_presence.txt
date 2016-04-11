@@ -1,0 +1,4 @@
+Evil Presence {B}
+Enchantment — Aura
+Enchant land
+Enchanted land is a Swamp.

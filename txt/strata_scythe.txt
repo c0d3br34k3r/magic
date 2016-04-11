@@ -1,0 +1,5 @@
+Strata Scythe {3}
+Artifact — Equipment
+Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.
+Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.
+Equip {3}

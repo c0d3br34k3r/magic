@@ -1,0 +1,4 @@
+Prowler's Helm {2}
+Artifact — Equipment
+Equipped creature can't be blocked except by Walls.
+Equip {2}

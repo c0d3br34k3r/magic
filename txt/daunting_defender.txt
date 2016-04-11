@@ -1,0 +1,4 @@
+Daunting Defender {4}{W}
+Creature — Human Cleric
+If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.
+3/3

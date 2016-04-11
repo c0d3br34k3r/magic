@@ -1,0 +1,4 @@
+Irresistible Prey {G}
+Sorcery
+Target creature must be blocked this turn if able.
+Draw a card.

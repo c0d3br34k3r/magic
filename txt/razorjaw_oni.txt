@@ -1,0 +1,4 @@
+Razorjaw Oni {3}{B}
+Creature — Demon Spirit
+Black creatures can't block.
+4/5

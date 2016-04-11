@@ -1,0 +1,4 @@
+Keeper of Progenitus {3}{G}
+Creature — Elf Druid
+Whenever a player taps a Mountain, Forest, or Plains for mana, that player adds one mana to his or her mana pool of any type that land produced.
+1/3

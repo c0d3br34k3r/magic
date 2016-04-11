@@ -1,0 +1,3 @@
+Dromoka's Gift {4}{G}
+Instant
+Bolster 4. (Choose a creature with the least toughness among creatures you control and put four +1/+1 counters on it.)

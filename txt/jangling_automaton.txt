@@ -1,0 +1,4 @@
+Jangling Automaton {3}
+Artifact Creature — Construct
+Whenever Jangling Automaton attacks, untap all creatures defending player controls.
+3/2

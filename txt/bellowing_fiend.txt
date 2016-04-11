@@ -1,0 +1,5 @@
+Bellowing Fiend {4}{B}
+Creature — Spirit
+Flying
+Whenever Bellowing Fiend deals damage to a creature, Bellowing Fiend deals 3 damage to that creature's controller and 3 damage to you.
+3/3

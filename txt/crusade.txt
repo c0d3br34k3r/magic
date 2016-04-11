@@ -1,0 +1,3 @@
+Crusade {W}{W}
+Enchantment
+White creatures get +1/+1.

@@ -1,0 +1,3 @@
+Light from Within {2}{W}{W}
+Enchantment
+Chroma — Each creature you control gets +1/+1 for each white mana symbol in its mana cost.

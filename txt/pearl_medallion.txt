@@ -1,0 +1,3 @@
+Pearl Medallion {2}
+Artifact
+White spells you cast cost {1} less to cast.

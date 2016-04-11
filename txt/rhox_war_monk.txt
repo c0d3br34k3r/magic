@@ -1,0 +1,4 @@
+Rhox War Monk {W}{U}{G}
+Creature — Rhino Monk
+Lifelink
+3/4

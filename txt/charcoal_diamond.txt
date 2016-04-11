@@ -1,0 +1,4 @@
+Charcoal Diamond {2}
+Artifact
+Charcoal Diamond enters the battlefield tapped.
+{T}: Add {B} to your mana pool.

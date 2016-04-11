@@ -1,0 +1,4 @@
+Storm Crow {1}{U}
+Creature — Bird
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+1/2

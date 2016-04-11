@@ -1,0 +1,5 @@
+Seton's Desire {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Threshold — As long as seven or more cards are in your graveyard, all creatures able to block enchanted creature do so.

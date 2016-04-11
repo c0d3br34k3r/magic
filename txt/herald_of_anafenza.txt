@@ -1,0 +1,5 @@
+Herald of Anafenza {W}
+Creature — Human Soldier
+Outlast {2}{W} ({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Whenever you activate Herald of Anafenza's outlast ability, put a 1/1 white Warrior creature token onto the battlefield.
+1/2

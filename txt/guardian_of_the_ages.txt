@@ -1,0 +1,5 @@
+Guardian of the Ages {7}
+Artifact Creature — Golem
+Defender (This creature can't attack.)
+When a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.
+7/7

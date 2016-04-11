@@ -1,0 +1,4 @@
+Su-Chi {4}
+Artifact Creature — Construct
+When Su-Chi dies, add {C}{C}{C}{C} to your mana pool.
+4/4

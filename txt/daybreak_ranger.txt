@@ -1,0 +1,11 @@
+Daybreak Ranger {2}{G}
+Creature — Human Archer Werewolf
+{T}: Daybreak Ranger deals 2 damage to target creature with flying.
+At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.
+2/2
+* DOUBLE-FACED *
+Nightfall Predator
+(G) Creature — Werewolf
+{R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.
+4/4

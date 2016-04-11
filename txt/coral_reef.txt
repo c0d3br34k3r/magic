@@ -1,0 +1,5 @@
+Coral Reef {U}{U}
+Enchantment
+Coral Reef enters the battlefield with four polyp counters on it.
+Sacrifice an Island: Put two polyp counters on Coral Reef.
+{U}, Tap an untapped blue creature you control, Remove a polyp counter from Coral Reef: Put a +0/+1 counter on target creature.

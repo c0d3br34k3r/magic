@@ -1,0 +1,5 @@
+Phantasmal Dragon {2}{U}{U}
+Creature — Dragon Illusion
+Flying
+When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.
+5/5

@@ -1,0 +1,4 @@
+Brainwash {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack unless its controller pays {3}.

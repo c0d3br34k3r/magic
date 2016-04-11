@@ -1,0 +1,5 @@
+Mystic Crusader {1}{W}{W}
+Creature — Human Nomad Mystic
+Protection from black and from red
+Threshold — As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.
+2/1

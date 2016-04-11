@@ -1,0 +1,3 @@
+Thraben Purebloods {4}{W}
+Creature — Hound
+3/5

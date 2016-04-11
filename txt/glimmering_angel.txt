@@ -1,0 +1,5 @@
+Glimmering Angel {3}{W}
+Creature — Angel
+Flying
+{U}: Glimmering Angel gains shroud until end of turn. (It can't be the target of spells or abilities.)
+2/2

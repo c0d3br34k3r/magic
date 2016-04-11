@@ -1,0 +1,5 @@
+Furnace Whelp {2}{R}{R}
+Creature — Dragon
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Furnace Whelp gets +1/+0 until end of turn.
+2/2

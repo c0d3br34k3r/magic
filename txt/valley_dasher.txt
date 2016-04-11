@@ -1,0 +1,5 @@
+Valley Dasher {1}{R}
+Creature — Human Berserker
+Haste
+Valley Dasher attacks each turn if able.
+2/2

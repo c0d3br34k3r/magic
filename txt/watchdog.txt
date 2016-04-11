@@ -1,0 +1,5 @@
+Watchdog {3}
+Artifact Creature — Hound
+Watchdog blocks each turn if able.
+As long as Watchdog is untapped, all creatures attacking you get -1/-0.
+1/2

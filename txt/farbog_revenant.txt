@@ -1,0 +1,5 @@
+Farbog Revenant {2}{B}
+Creature — Spirit
+Skulk (This creature can't be blocked by creatures with greater power.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+1/3

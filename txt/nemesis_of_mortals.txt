@@ -1,0 +1,5 @@
+Nemesis of Mortals {4}{G}{G}
+Creature — Snake
+Nemesis of Mortals costs {1} less to cast for each creature card in your graveyard.
+{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)
+5/5

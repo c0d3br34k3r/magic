@@ -1,0 +1,5 @@
+Moonwing Moth {1}{W}{W}
+Creature — Insect
+Flying
+{W}: Moonwing Moth gets +0/+1 until end of turn.
+2/1

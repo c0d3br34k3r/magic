@@ -1,0 +1,3 @@
+Heat Shimmer {2}{R}
+Sorcery
+Put a token that's a copy of target creature onto the battlefield. That token has haste and "At the beginning of the end step, exile this permanent."

@@ -1,0 +1,4 @@
+Breeding Pit {3}{B}
+Enchantment
+At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.
+At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.

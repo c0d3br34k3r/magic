@@ -1,0 +1,4 @@
+Cinder Seer {3}{R}
+Creature — Human Wizard
+{2}{R}, {T}: Reveal any number of red cards in your hand. Cinder Seer deals X damage to target creature or player, where X is the number of cards revealed this way.
+1/1

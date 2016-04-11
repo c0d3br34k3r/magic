@@ -1,0 +1,3 @@
+Scourglass {3}{W}{W}
+Artifact
+{T}, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Activate this ability only during your upkeep.

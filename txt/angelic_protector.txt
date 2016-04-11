@@ -1,0 +1,5 @@
+Angelic Protector {3}{W}
+Creature — Angel
+Flying
+Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.
+2/2

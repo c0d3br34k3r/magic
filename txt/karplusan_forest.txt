@@ -1,0 +1,4 @@
+Karplusan Forest
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.

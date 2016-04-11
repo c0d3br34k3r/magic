@@ -1,0 +1,4 @@
+Leonin Arbiter {1}{W}
+Creature — Cat Cleric
+Players can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Moaning Spirit {2}{B}
+Creature — Spirit
+Flying
+2/1

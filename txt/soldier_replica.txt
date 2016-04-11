@@ -1,0 +1,4 @@
+Soldier Replica {3}
+Artifact Creature — Soldier
+{1}{W}, Sacrifice Soldier Replica: Soldier Replica deals 3 damage to target attacking or blocking creature.
+1/3

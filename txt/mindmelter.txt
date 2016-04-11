@@ -1,0 +1,6 @@
+Mindmelter {1}{U}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Mindmelter can't be blocked.
+{3}{C}: Target opponent exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery. ({C} represents colorless mana.)
+2/2

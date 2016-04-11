@@ -1,0 +1,4 @@
+Earthlore {G}
+Enchantment — Aura
+Enchant land you control
+Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate this ability only if enchanted land is untapped.

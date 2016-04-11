@@ -1,0 +1,4 @@
+Bloodrock Cyclops {2}{R}
+Creature — Cyclops
+Bloodrock Cyclops attacks each turn if able.
+3/3

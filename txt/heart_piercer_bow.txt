@@ -1,0 +1,4 @@
+Heart-Piercer Bow {2}
+Artifact — Equipment
+Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
+Equip {1}

@@ -1,0 +1,4 @@
+Gravebane Zombie {3}{B}
+Creature — Zombie
+If Gravebane Zombie would die, put Gravebane Zombie on top of its owner's library instead.
+3/2

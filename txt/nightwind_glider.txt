@@ -1,0 +1,4 @@
+Nightwind Glider {2}{W}
+Creature — Human Rebel
+Flying, protection from black
+2/1

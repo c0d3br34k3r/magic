@@ -1,0 +1,3 @@
+Mana Maze {1}{U}
+Enchantment
+Players can't cast spells that share a color with the spell most recently cast this turn.

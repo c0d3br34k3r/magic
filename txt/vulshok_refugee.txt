@@ -1,0 +1,4 @@
+Vulshok Refugee {1}{R}{R}
+Creature — Human Warrior
+Protection from red
+3/2

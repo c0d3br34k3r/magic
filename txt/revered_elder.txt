@@ -1,0 +1,4 @@
+Revered Elder {2}{W}
+Creature — Human Cleric
+{1}: Prevent the next 1 damage that would be dealt to Revered Elder this turn.
+1/2

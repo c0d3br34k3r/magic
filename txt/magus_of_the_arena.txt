@@ -1,0 +1,4 @@
+Magus of the Arena {4}{R}{R}
+Creature — Human Wizard
+{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. (Each deals damage equal to its power to the other.)
+5/5

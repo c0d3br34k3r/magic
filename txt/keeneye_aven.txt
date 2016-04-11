@@ -1,0 +1,5 @@
+Keeneye Aven {3}{U}
+Creature — Bird Soldier
+Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)
+2/3

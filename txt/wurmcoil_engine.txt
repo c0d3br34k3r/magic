@@ -1,0 +1,5 @@
+Wurmcoil Engine {6}
+Artifact Creature — Wurm
+Deathtouch, lifelink
+When Wurmcoil Engine dies, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.
+6/6

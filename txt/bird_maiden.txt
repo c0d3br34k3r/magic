@@ -1,0 +1,4 @@
+Bird Maiden {2}{R}
+Creature — Human Bird
+Flying
+1/2

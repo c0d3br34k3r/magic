@@ -1,0 +1,3 @@
+Tyrannize {3}{B/R}{B/R}
+Sorcery
+Target player discards his or her hand unless he or she pays 7 life.

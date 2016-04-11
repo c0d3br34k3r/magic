@@ -1,0 +1,5 @@
+Mana Skimmer {3}{B}
+Creature — Leech
+Flying
+Whenever Mana Skimmer deals damage to a player, tap target land that player controls. That land doesn't untap during its controller's next untap step.
+2/2

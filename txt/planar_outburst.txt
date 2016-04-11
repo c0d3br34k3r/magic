@@ -1,0 +1,4 @@
+Planar Outburst {3}{W}{W}
+Sorcery
+Destroy all nonland creatures.
+Awaken 4—{5}{W}{W}{W} (If you cast this spell for {5}{W}{W}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)

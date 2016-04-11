@@ -1,0 +1,5 @@
+Screams from Within {1}{B}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -1/-1.
+When enchanted creature dies, return Screams from Within from your graveyard to the battlefield.

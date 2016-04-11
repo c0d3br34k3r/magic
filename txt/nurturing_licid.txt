@@ -1,0 +1,5 @@
+Nurturing Licid {1}{G}
+Creature — Licid
+{G}, {T}: Nurturing Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect.
+{G}: Regenerate enchanted creature.
+1/1

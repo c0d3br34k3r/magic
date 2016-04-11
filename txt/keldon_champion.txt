@@ -1,0 +1,6 @@
+Keldon Champion {2}{R}{R}
+Creature — Human Barbarian
+Haste
+Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Keldon Champion enters the battlefield, it deals 3 damage to target player.
+3/2

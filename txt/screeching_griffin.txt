@@ -1,0 +1,5 @@
+Screeching Griffin {3}{W}
+Creature — Griffin
+Flying
+{R}: Target creature can't block Screeching Griffin this turn.
+2/2

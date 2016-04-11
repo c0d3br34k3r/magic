@@ -1,0 +1,5 @@
+Magister Sphinx {4}{W}{U}{B}
+Artifact Creature — Sphinx
+Flying
+When Magister Sphinx enters the battlefield, target player's life total becomes 10.
+5/5

@@ -1,0 +1,4 @@
+Murderous Cut {4}{B}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Destroy target creature.

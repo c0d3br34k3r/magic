@@ -1,0 +1,4 @@
+Wu Longbowman {2}{U}
+Creature — Human Soldier Archer
+{T}: Wu Longbowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+1/1

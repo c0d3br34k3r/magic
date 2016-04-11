@@ -1,0 +1,4 @@
+Blasted Landscape
+Land
+{T}: Add {C} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)

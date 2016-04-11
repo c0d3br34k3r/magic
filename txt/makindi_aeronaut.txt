@@ -1,0 +1,4 @@
+Makindi Aeronaut {1}{W}
+Creature — Kor Scout Ally
+Flying
+1/3

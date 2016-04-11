@@ -1,0 +1,4 @@
+Metathran Elite {1}{U}{U}
+Creature — Metathran Soldier
+Metathran Elite can't be blocked as long as it's enchanted.
+2/3

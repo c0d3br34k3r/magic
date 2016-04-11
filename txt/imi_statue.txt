@@ -1,0 +1,3 @@
+Imi Statue {3}
+Artifact
+Players can't untap more than one artifact during their untap steps.

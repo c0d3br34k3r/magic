@@ -1,0 +1,3 @@
+Titanic Ultimatum {W}{W}{R}{R}{G}{G}{G}
+Sorcery
+Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.

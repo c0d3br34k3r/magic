@@ -1,0 +1,4 @@
+Kitsune Riftwalker {1}{W}{W}
+Creature — Fox Wizard
+Protection from Spirits and from Arcane
+2/1

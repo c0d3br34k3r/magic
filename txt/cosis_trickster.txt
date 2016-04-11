@@ -1,0 +1,4 @@
+Cosi's Trickster {U}
+Creature — Merfolk Wizard
+Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.
+1/1

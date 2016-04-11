@@ -1,0 +1,5 @@
+Champion of Stray Souls {4}{B}{B}
+Creature — Skeleton Warrior
+{3}{B}{B}, {T}, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield.
+{5}{B}{B}: Put Champion of Stray Souls on top of your library from your graveyard.
+4/4

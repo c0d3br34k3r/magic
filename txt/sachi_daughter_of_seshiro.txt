@@ -1,0 +1,5 @@
+Sachi, Daughter of Seshiro {2}{G}{G}
+Legendary Creature — Snake Shaman
+Other Snake creatures you control get +0/+1.
+Shamans you control have "{T}: Add {G}{G} to your mana pool."
+1/3

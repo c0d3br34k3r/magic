@@ -1,0 +1,3 @@
+Quenchable Fire {3}{R}
+Sorcery
+Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays {U} before that step.

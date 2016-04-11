@@ -1,0 +1,5 @@
+Sandstone Bridge
+Land
+Sandstone Bridge enters the battlefield tapped.
+When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and gains vigilance until end of turn.
+{T}: Add {W} to your mana pool.

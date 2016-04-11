@@ -1,0 +1,4 @@
+Mindclaw Shaman {4}{R}
+Creature — Viashino Shaman
+When Mindclaw Shaman enters the battlefield, target opponent reveals his or her hand. You may cast an instant or sorcery card from it without paying its mana cost.
+2/2

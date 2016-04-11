@@ -1,0 +1,4 @@
+Evangel of Heliod {4}{W}{W}
+Creature — Human Cleric
+When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+1/3

@@ -1,0 +1,3 @@
+Donate {2}{U}
+Sorcery
+Target player gains control of target permanent you control.

@@ -1,0 +1,4 @@
+Timely Hordemate {3}{W}
+Creature — Human Warrior
+Raid — When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+3/2

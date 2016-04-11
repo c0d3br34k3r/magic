@@ -1,0 +1,4 @@
+Abbey Gargoyles {2}{W}{W}{W}
+Creature — Gargoyle
+Flying, protection from red
+3/4

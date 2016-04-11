@@ -1,0 +1,4 @@
+Treacherous Link {1}{B}
+Enchantment — Aura
+Enchant creature
+All damage that would be dealt to enchanted creature is dealt to its controller instead.

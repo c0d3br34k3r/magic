@@ -1,0 +1,3 @@
+Clarion Ultimatum {W}{W}{W}{U}{U}{G}{G}
+Sorcery
+Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards onto the battlefield tapped, then shuffle your library.

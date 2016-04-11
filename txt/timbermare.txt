@@ -1,0 +1,6 @@
+Timbermare {3}{G}
+Creature — Elemental Horse
+Haste
+Echo {5}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Timbermare enters the battlefield, tap all other creatures.
+5/5

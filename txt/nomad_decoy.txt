@@ -1,0 +1,5 @@
+Nomad Decoy {2}{W}
+Creature — Human Nomad
+{W}, {T}: Tap target creature.
+Threshold — {W}{W}, {T}: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.
+1/2

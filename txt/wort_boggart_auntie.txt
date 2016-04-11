@@ -1,0 +1,5 @@
+Wort, Boggart Auntie {2}{B}{R}
+Legendary Creature — Goblin Shaman
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may return target Goblin card from your graveyard to your hand.
+3/3

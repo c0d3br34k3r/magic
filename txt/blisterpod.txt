@@ -1,0 +1,5 @@
+Blisterpod {G}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+When Blisterpod dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+1/1

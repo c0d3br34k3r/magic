@@ -1,0 +1,3 @@
+War Horn {3}
+Artifact
+Attacking creatures you control get +1/+0.

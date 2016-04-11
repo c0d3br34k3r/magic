@@ -1,0 +1,4 @@
+Soul Burn {X}{2}{B}
+Sorcery
+Spend only black and/or red mana on X.
+Soul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.

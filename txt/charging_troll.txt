@@ -1,0 +1,5 @@
+Charging Troll {2}{W}{G}
+Creature — Troll
+Vigilance
+{G}: Regenerate Charging Troll.
+3/3

@@ -1,0 +1,5 @@
+Devout Lightcaster {W}{W}{W}
+Creature — Kor Cleric
+Protection from black
+When Devout Lightcaster enters the battlefield, exile target black permanent.
+2/2

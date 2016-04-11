@@ -1,0 +1,3 @@
+Psychic Intrusion {3}{U}{B}
+Sorcery
+Target opponent reveals his or her hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.

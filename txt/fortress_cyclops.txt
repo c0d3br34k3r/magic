@@ -1,0 +1,5 @@
+Fortress Cyclops {3}{W}{R}
+Creature — Cyclops Soldier
+Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.
+Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.
+3/3

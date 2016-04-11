@@ -1,0 +1,4 @@
+Blessed Orator {3}{W}
+Creature — Human Cleric
+Other creatures you control get +0/+1.
+1/4

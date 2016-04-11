@@ -1,0 +1,3 @@
+Echoing Ruin {1}{R}
+Sorcery
+Destroy target artifact and all other artifacts with the same name as that artifact.

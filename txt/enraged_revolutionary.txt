@@ -1,0 +1,4 @@
+Enraged Revolutionary {2}{R}
+Creature — Human Warrior
+Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+2/1

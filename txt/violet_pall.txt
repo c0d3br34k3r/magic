@@ -1,0 +1,3 @@
+Violet Pall {4}{B}
+Tribal Instant — Faerie
+Destroy target nonblack creature. Put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.

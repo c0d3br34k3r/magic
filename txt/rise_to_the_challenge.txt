@@ -1,0 +1,3 @@
+Rise to the Challenge {1}{R}
+Instant
+Target creature gets +2/+0 and gains first strike until end of turn.

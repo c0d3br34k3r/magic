@@ -1,0 +1,12 @@
+Scorned Villager {1}{G}
+Creature — Human Werewolf
+{T}: Add {G} to your mana pool.
+At the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.
+1/1
+* DOUBLE-FACED *
+Moonscarred Werewolf
+(G) Creature — Werewolf
+Vigilance
+{T}: Add {G}{G} to your mana pool.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.
+2/2

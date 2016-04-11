@@ -1,0 +1,5 @@
+Sparring Collar {2}
+Artifact — Equipment
+Equipped creature has first strike.
+{R}{R}: Attach Sparring Collar to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

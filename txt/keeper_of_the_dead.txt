@@ -1,0 +1,4 @@
+Keeper of the Dead {B}{B}
+Creature — Human Wizard
+{B}, {T}: Choose target opponent who had at least two fewer creature cards in his or her graveyard than you did as you activated this ability. Destroy target nonblack creature he or she controls.
+1/2

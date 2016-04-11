@@ -1,0 +1,6 @@
+Voice of All {2}{W}{W}
+Creature — Angel
+Flying
+As Voice of All enters the battlefield, choose a color.
+Voice of All has protection from the chosen color.
+2/2

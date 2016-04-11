@@ -1,0 +1,5 @@
+Defender of Chaos {2}{R}
+Creature — Human Knight
+Flash
+Protection from white
+2/1

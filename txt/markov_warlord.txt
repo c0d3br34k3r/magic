@@ -1,0 +1,5 @@
+Markov Warlord {5}{R}
+Creature — Vampire Warrior
+Haste
+When Markov Warlord enters the battlefield, up to two target creatures can't block this turn.
+4/4

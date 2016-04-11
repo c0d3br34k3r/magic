@@ -1,0 +1,3 @@
+Piety {2}{W}
+Instant
+Blocking creatures get +0/+3 until end of turn.

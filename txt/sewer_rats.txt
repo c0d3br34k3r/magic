@@ -1,0 +1,4 @@
+Sewer Rats {B}
+Creature — Rat
+{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.
+1/1

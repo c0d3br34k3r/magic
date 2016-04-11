@@ -1,0 +1,4 @@
+Kiln Fiend {1}{R}
+Creature — Elemental Beast
+Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.
+1/2

@@ -1,0 +1,4 @@
+Fleetfeather Sandals {2}
+Artifact — Equipment
+Equipped creature has flying and haste.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

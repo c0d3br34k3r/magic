@@ -1,0 +1,6 @@
+Quirion Elves {1}{G}
+Creature — Elf Druid
+As Quirion Elves enters the battlefield, choose a color.
+{T}: Add {G} to your mana pool.
+{T}: Add one mana of the chosen color to your mana pool.
+1/1

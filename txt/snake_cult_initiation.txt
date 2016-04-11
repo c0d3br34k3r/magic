@@ -1,0 +1,4 @@
+Snake Cult Initiation {3}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has poisonous 3. (Whenever it deals combat damage to a player, that player gets three poison counters. A player with ten or more poison counters loses the game.)

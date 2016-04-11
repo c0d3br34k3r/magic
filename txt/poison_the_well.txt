@@ -1,0 +1,3 @@
+Poison the Well {2}{B/R}{B/R}
+Sorcery
+Destroy target land. Poison the Well deals 2 damage to that land's controller.

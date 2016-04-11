@@ -1,0 +1,4 @@
+Kei Takahashi {2}{W}{G}
+Legendary Creature — Human Cleric
+{T}: Prevent the next 2 damage that would be dealt to target creature this turn.
+2/2

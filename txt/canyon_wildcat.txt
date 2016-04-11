@@ -1,0 +1,4 @@
+Canyon Wildcat {1}{R}
+Creature — Cat
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+2/1

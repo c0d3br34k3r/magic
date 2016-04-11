@@ -1,0 +1,4 @@
+Nezumi Shadow-Watcher {B}
+Creature — Rat Warrior
+Sacrifice Nezumi Shadow-Watcher: Destroy target Ninja.
+1/1

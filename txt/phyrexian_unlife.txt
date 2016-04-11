@@ -1,0 +1,4 @@
+Phyrexian Unlife {2}{W}
+Enchantment
+You don't lose the game for having 0 or less life.
+As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)

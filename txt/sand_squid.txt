@@ -1,0 +1,6 @@
+Sand Squid {3}{U}
+Creature — Squid Beast
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+You may choose not to untap Sand Squid during your untap step.
+{T}: Tap target creature. That creature doesn't untap during its controller's untap step for as long as Sand Squid remains tapped.
+2/2

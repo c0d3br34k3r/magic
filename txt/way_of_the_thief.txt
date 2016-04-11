@@ -1,0 +1,5 @@
+Way of the Thief {3}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Enchanted creature can't be blocked as long as you control a Gate.

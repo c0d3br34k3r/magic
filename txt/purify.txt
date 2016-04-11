@@ -1,0 +1,3 @@
+Purify {3}{W}{W}
+Sorcery
+Destroy all artifacts and enchantments.

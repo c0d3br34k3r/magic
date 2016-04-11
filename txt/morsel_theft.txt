@@ -1,0 +1,4 @@
+Morsel Theft {2}{B}{B}
+Tribal Sorcery — Rogue
+Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.

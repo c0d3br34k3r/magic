@@ -1,0 +1,4 @@
+Scrap {2}{R}
+Instant
+Destroy target artifact.
+Cycling {2} ({2}, Discard this card: Draw a card.)

@@ -1,0 +1,4 @@
+Fortified Rampart {1}{W}
+Creature — Wall
+Defender
+0/6

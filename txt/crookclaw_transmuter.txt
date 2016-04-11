@@ -1,0 +1,6 @@
+Crookclaw Transmuter {3}{U}
+Creature — Bird Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn.
+3/1

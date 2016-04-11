@@ -1,0 +1,5 @@
+Leering Gargoyle {1}{W}{U}
+Creature — Gargoyle
+Flying
+{T}: Leering Gargoyle gets -2/+2 and loses flying until end of turn.
+2/2

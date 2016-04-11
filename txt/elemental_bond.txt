@@ -1,0 +1,3 @@
+Elemental Bond {2}{G}
+Enchantment
+Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card.

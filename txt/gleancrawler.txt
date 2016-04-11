@@ -1,0 +1,6 @@
+Gleancrawler {3}{B/G}{B/G}{B/G}
+Creature — Insect Horror
+({B/G} can be paid with either {B} or {G}.)
+Trample
+At the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
+6/6

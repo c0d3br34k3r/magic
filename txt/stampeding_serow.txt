@@ -1,0 +1,5 @@
+Stampeding Serow {2}{G}{G}
+Creature — Antelope Beast
+Trample
+At the beginning of your upkeep, return a green creature you control to its owner's hand.
+5/4

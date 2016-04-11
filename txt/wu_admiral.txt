@@ -1,0 +1,4 @@
+Wu Admiral {4}{U}
+Creature — Human Soldier
+Wu Admiral gets +1/+1 as long as an opponent controls an Island.
+3/3

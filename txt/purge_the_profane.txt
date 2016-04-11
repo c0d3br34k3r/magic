@@ -1,0 +1,3 @@
+Purge the Profane {2}{W}{B}
+Sorcery
+Target opponent discards two cards and you gain 2 life.

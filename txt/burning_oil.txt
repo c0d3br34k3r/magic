@@ -1,0 +1,4 @@
+Burning Oil {1}{R}
+Instant
+Burning Oil deals 3 damage to target attacking or blocking creature.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

@@ -1,0 +1,3 @@
+Spell Rupture {1}{U}
+Instant
+Counter target spell unless its controller pays {X}, where X is the greatest power among creatures you control.

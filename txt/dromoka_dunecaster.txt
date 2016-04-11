@@ -1,0 +1,4 @@
+Dromoka Dunecaster {W}
+Creature — Human Wizard
+{1}{W}, {T}: Tap target creature without flying.
+0/2

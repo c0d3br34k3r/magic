@@ -1,0 +1,6 @@
+Ornitharch {3}{W}{W}
+Creature — Archon
+Flying
+Tribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)
+When Ornitharch enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield.
+3/3

@@ -1,0 +1,4 @@
+Gauntlet of Might {4}
+Artifact
+Red creatures get +1/+1.
+Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces).

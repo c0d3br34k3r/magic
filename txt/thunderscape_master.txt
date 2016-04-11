@@ -1,0 +1,5 @@
+Thunderscape Master {2}{R}{R}
+Creature — Human Wizard
+{B}{B}, {T}: Target player loses 2 life and you gain 2 life.
+{G}{G}, {T}: Creatures you control get +2/+2 until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Last Caress {2}{B}
+Sorcery
+Target player loses 1 life and you gain 1 life.
+Draw a card.

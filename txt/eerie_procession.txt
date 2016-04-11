@@ -1,0 +1,3 @@
+Eerie Procession {2}{U}
+Sorcery — Arcane
+Search your library for an Arcane card, reveal that card, and put it into your hand. Then shuffle your library.

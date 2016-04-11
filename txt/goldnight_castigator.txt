@@ -1,0 +1,6 @@
+Goldnight Castigator {2}{R}{R}
+Creature — Angel
+Flying, haste
+If a source would deal damage to you, it deals double that damage to you instead.
+If a source would deal damage to Goldnight Castigator, it deals double that damage to Goldnight Castigator instead.
+4/9

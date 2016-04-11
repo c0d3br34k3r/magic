@@ -1,0 +1,4 @@
+Vigorous Charge {G}
+Instant
+Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target creature gains trample until end of turn. Whenever that creature deals combat damage this turn, if Vigorous Charge was kicked, you gain life equal to that damage.

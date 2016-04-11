@@ -1,0 +1,4 @@
+Krovikan Vampire {3}{B}{B}
+Creature — Vampire
+At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.
+3/3

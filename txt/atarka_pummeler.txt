@@ -1,0 +1,4 @@
+Atarka Pummeler {4}{R}
+Creature — Ogre Warrior
+Formidable — {3}{R}{R}: Creatures you control gain menace until end of turn. Activate this ability only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)
+4/5

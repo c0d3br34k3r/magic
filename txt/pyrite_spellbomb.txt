@@ -1,0 +1,4 @@
+Pyrite Spellbomb {1}
+Artifact
+{R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.
+{1}, Sacrifice Pyrite Spellbomb: Draw a card.

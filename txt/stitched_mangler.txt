@@ -1,0 +1,5 @@
+Stitched Mangler {2}{U}
+Creature — Zombie Horror
+Stitched Mangler enters the battlefield tapped.
+When Stitched Mangler enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+2/3

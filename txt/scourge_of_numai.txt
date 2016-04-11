@@ -1,0 +1,4 @@
+Scourge of Numai {3}{B}
+Creature — Demon Spirit
+At the beginning of your upkeep, you lose 2 life if you don't control an Ogre.
+4/4

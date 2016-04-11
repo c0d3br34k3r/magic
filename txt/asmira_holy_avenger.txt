@@ -1,0 +1,5 @@
+Asmira, Holy Avenger {2}{W}{G}
+Legendary Creature — Human Cleric
+Flying
+At the beginning of each end step, put a +1/+1 counter on Asmira, Holy Avenger for each creature put into your graveyard from the battlefield this turn.
+2/3

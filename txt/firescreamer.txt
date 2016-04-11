@@ -1,0 +1,4 @@
+Firescreamer {3}{B}
+Creature — Kavu
+{R}: Firescreamer gets +1/+0 until end of turn.
+2/2

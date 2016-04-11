@@ -1,0 +1,4 @@
+Wake the Dead {X}{B}{B}
+Instant
+Cast Wake the Dead only during combat on an opponent's turn.
+Return X target creature cards from your graveyard to the battlefield. Sacrifice those creatures at the beginning of the next end step.

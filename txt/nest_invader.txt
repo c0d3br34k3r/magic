@@ -1,0 +1,4 @@
+Nest Invader {1}{G}
+Creature — Eldrazi Drone
+When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+2/2

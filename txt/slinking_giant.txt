@@ -1,0 +1,5 @@
+Slinking Giant {2}{R}{R}
+Creature — Giant Rogue
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Slinking Giant blocks or becomes blocked, it gets -3/-0 until end of turn.
+4/4

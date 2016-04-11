@@ -1,0 +1,4 @@
+Volrath the Fallen {3}{B}{B}{B}
+Legendary Creature — Shapeshifter
+{1}{B}, Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card's converted mana cost.
+6/4

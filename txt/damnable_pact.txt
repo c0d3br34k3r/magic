@@ -1,0 +1,3 @@
+Damnable Pact {X}{B}{B}
+Sorcery
+Target player draws X cards and loses X life.

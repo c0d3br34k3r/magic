@@ -1,0 +1,4 @@
+Telepathic Spies {2}{U}
+Creature — Human Wizard
+When Telepathic Spies enters the battlefield, look at target opponent's hand.
+2/2

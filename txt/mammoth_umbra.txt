@@ -1,0 +1,5 @@
+Mammoth Umbra {4}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3 and has vigilance.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

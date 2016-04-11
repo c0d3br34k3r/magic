@@ -1,0 +1,4 @@
+Flame Jet {1}{R}
+Sorcery
+Flame Jet deals 3 damage to target player.
+Cycling {2} ({2}, Discard this card: Draw a card.)

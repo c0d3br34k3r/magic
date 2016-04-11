@@ -1,0 +1,4 @@
+Mad Dog {1}{R}
+Creature — Hound
+At the beginning of your end step, if Mad Dog didn't attack or come under your control this turn, sacrifice it.
+2/2

@@ -1,0 +1,5 @@
+Boros Recruit {R/W}
+Creature — Goblin Soldier
+({R/W} can be paid with either {R} or {W}.)
+First strike
+1/1

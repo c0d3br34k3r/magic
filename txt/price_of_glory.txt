@@ -1,0 +1,3 @@
+Price of Glory {2}{R}
+Enchantment
+Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.

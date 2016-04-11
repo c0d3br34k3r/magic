@@ -1,0 +1,4 @@
+Stoke the Flames {2}{R}{R}
+Instant
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Stoke the Flames deals 4 damage to target creature or player.

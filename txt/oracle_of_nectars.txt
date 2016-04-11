@@ -1,0 +1,4 @@
+Oracle of Nectars {2}{G/W}
+Creature — Elf Cleric
+{X}, {T}: You gain X life.
+2/2

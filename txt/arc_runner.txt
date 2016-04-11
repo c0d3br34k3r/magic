@@ -1,0 +1,5 @@
+Arc Runner {2}{R}
+Creature — Elemental Ox
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Arc Runner.
+5/1

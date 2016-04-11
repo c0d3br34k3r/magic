@@ -1,0 +1,3 @@
+Thumbscrews {2}
+Artifact
+At the beginning of your upkeep, if you have five or more cards in hand, Thumbscrews deals 1 damage to target opponent.

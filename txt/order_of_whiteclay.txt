@@ -1,0 +1,4 @@
+Order of Whiteclay {1}{W}{W}
+Creature — Kithkin Cleric
+{1}{W}{W}, {Q}: Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. ({Q} is the untap symbol.)
+1/4

@@ -1,0 +1,5 @@
+Battleflight Eagle {4}{W}
+Creature — Bird
+Flying
+When Battleflight Eagle enters the battlefield, target creature gets +2/+2 and gains flying until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Fate Unraveler {3}{B}
+Enchantment Creature — Hag
+Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player.
+3/4

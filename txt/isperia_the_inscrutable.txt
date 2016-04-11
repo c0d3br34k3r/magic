@@ -1,0 +1,5 @@
+Isperia the Inscrutable {1}{W}{W}{U}{U}
+Legendary Creature — Sphinx
+Flying
+Whenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
+3/6

@@ -1,0 +1,5 @@
+Darksteel Gargoyle {7}
+Artifact Creature — Gargoyle
+Flying
+Indestructible (Damage and effects that say "destroy" don't destroy this creature.)
+3/3

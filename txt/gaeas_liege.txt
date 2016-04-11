@@ -1,0 +1,5 @@
+Gaea's Liege {3}{G}{G}{G}
+Creature — Avatar
+As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.
+{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+*/*

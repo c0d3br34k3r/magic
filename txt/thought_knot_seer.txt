@@ -1,0 +1,6 @@
+Thought-Knot Seer {3}{C}
+Creature — Eldrazi
+({C} represents colorless mana.)
+When Thought-Knot Seer enters the battlefield, target opponent reveals his or her hand. You choose a nonland card from it and exile that card.
+When Thought-Knot Seer leaves the battlefield, target opponent draws a card.
+4/4

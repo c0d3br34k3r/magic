@@ -1,0 +1,6 @@
+Devouring Strossus {5}{B}{B}{B}
+Creature — Horror
+Flying, trample
+At the beginning of your upkeep, sacrifice a creature.
+Sacrifice a creature: Regenerate Devouring Strossus.
+9/9

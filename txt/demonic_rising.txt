@@ -1,0 +1,3 @@
+Demonic Rising {3}{B}{B}
+Enchantment
+At the beginning of your end step, if you control exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield.

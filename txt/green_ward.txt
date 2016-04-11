@@ -1,0 +1,4 @@
+Green Ward {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from green. This effect doesn't remove Green Ward.

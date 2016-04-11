@@ -1,0 +1,4 @@
+Unstable Footing {R}
+Instant
+Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.

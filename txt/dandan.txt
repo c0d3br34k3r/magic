@@ -1,0 +1,5 @@
+Dandân {U}{U}
+Creature — Fish
+Dandân can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Dandân.
+4/1

@@ -1,0 +1,4 @@
+Riftstone Portal
+Land
+{T}: Add {C} to your mana pool.
+As long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."

@@ -1,0 +1,5 @@
+Ophidian Eye {2}{U}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.

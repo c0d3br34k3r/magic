@@ -1,0 +1,4 @@
+Martyr of Ashes {R}
+Creature — Human Shaman
+{2}, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.
+1/1

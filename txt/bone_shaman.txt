@@ -1,0 +1,4 @@
+Bone Shaman {2}{R}{R}
+Creature — Giant Shaman
+{B}: Until end of turn, Bone Shaman gains "Creatures dealt damage by Bone Shaman this turn can't be regenerated this turn."
+3/3

@@ -1,0 +1,6 @@
+Lotleth Troll {B}{G}
+Creature — Zombie Troll
+Trample
+Discard a creature card: Put a +1/+1 counter on Lotleth Troll.
+{B}: Regenerate Lotleth Troll.
+2/1

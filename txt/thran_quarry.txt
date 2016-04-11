@@ -1,0 +1,4 @@
+Thran Quarry
+Land
+At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.
+{T}: Add one mana of any color to your mana pool.

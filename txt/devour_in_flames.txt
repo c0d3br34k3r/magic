@@ -1,0 +1,4 @@
+Devour in Flames {2}{R}
+Sorcery
+As an additional cost to cast Devour in Flames, return a land you control to its owner's hand.
+Devour in Flames deals 5 damage to target creature or planeswalker.

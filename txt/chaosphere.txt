@@ -1,0 +1,4 @@
+Chaosphere {2}{R}
+World Enchantment
+Creatures with flying can block only creatures with flying.
+Creatures without flying have reach. (They can block creatures with flying.)

@@ -1,0 +1,4 @@
+Comet Storm {X}{R}{R}
+Instant
+Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.

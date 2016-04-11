@@ -1,0 +1,4 @@
+Crash of Rhinos {6}{G}{G}
+Creature — Rhino
+Trample
+8/4

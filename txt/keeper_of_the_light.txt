@@ -1,0 +1,4 @@
+Keeper of the Light {W}{W}
+Creature — Human Wizard
+{W}, {T}: Choose target opponent who had more life than you did as you activated this ability. You gain 3 life.
+1/2

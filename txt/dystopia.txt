@@ -1,0 +1,4 @@
+Dystopia {1}{B}{B}
+Enchantment
+Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+At the beginning of each player's upkeep, that player sacrifices a green or white permanent.

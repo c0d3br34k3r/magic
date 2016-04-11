@@ -1,0 +1,4 @@
+Brood Keeper {3}{R}
+Creature — Human Shaman
+Whenever an Aura becomes attached to Brood Keeper, put a 2/2 red Dragon creature token with flying onto the battlefield. It has "{R}: This creature gets +1/+0 until end of turn."
+2/3

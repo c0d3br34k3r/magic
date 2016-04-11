@@ -1,0 +1,4 @@
+Nim Abomination {2}{B}
+Creature — Zombie
+At the beginning of your end step, if Nim Abomination is untapped, you lose 3 life.
+3/4

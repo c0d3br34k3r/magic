@@ -1,0 +1,5 @@
+Hammer of Ruin {2}
+Artifact — Equipment
+Equipped creature gets +2/+0.
+Whenever equipped creature deals combat damage to a player, you may destroy target Equipment that player controls.
+Equip {2}

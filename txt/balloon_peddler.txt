@@ -1,0 +1,4 @@
+Balloon Peddler {2}{U}
+Creature — Human Spellshaper
+{U}, {T}, Discard a card: Target creature gains flying until end of turn.
+2/2

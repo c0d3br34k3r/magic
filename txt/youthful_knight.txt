@@ -1,0 +1,4 @@
+Youthful Knight {1}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+2/1

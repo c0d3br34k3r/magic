@@ -1,0 +1,5 @@
+Sleeper Agent {B}
+Creature — Minion
+When Sleeper Agent enters the battlefield, target opponent gains control of it.
+At the beginning of your upkeep, Sleeper Agent deals 2 damage to you.
+3/3

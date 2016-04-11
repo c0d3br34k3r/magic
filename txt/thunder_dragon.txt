@@ -1,0 +1,5 @@
+Thunder Dragon {5}{R}{R}
+Creature — Dragon
+Flying
+When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.
+5/5

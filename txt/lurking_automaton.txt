@@ -1,0 +1,5 @@
+Lurking Automaton {5}
+Artifact Creature — Construct
+Reveal Lurking Automaton as you draft it and note how many cards you've drafted this draft round, including Lurking Automaton.
+Lurking Automaton enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Lurking Automaton.
+0/0

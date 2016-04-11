@@ -1,0 +1,3 @@
+Crushing Pain {1}{R}
+Instant — Arcane
+Crushing Pain deals 6 damage to target creature that was dealt damage this turn.

@@ -1,0 +1,5 @@
+Wandering Eye {2}{U}
+Creature — Illusion
+Flying
+Players play with their hands revealed.
+1/3

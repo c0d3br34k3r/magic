@@ -1,0 +1,4 @@
+Stern Proctor {U}{U}
+Creature — Human Wizard
+When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand.
+1/2

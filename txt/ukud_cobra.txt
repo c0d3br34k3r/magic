@@ -1,0 +1,4 @@
+Ukud Cobra {3}{B}
+Creature — Snake
+Deathtouch
+2/5

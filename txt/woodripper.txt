@@ -1,0 +1,5 @@
+Woodripper {3}{G}{G}
+Creature — Beast
+Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+{1}, Remove a fade counter from Woodripper: Destroy target artifact.
+4/6

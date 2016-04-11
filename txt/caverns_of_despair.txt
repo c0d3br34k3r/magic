@@ -1,0 +1,4 @@
+Caverns of Despair {2}{R}{R}
+World Enchantment
+No more than two creatures can attack each combat.
+No more than two creatures can block each combat.

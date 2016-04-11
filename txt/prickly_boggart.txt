@@ -1,0 +1,4 @@
+Prickly Boggart {B}
+Creature — Goblin Rogue
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+1/1

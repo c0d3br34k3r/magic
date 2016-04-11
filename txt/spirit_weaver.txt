@@ -1,0 +1,4 @@
+Spirit Weaver {1}{W}
+Creature — Human Wizard
+{2}: Target green or blue creature gets +0/+1 until end of turn.
+2/1

@@ -1,0 +1,4 @@
+Akki Raider {1}{R}
+Creature — Goblin Warrior
+Whenever a land is put into a graveyard from the battlefield, Akki Raider gets +1/+0 until end of turn.
+2/1

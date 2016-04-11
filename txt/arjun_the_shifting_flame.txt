@@ -1,0 +1,5 @@
+Arjun, the Shifting Flame {4}{U}{R}
+Legendary Creature — Sphinx Wizard
+Flying
+Whenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards.
+5/5

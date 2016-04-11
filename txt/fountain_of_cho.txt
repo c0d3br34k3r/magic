@@ -1,0 +1,5 @@
+Fountain of Cho
+Land
+Fountain of Cho enters the battlefield tapped.
+{T}: Put a storage counter on Fountain of Cho.
+{T}, Remove any number of storage counters from Fountain of Cho: Add {W} to your mana pool for each storage counter removed this way.

@@ -1,0 +1,4 @@
+Mana Cache {1}{R}{R}
+Enchantment
+At the beginning of each player's end step, put a charge counter on Mana Cache for each untapped land that player controls.
+Remove a charge counter from Mana Cache: Add {C} to your mana pool. Any player may activate this ability but only during his or her turn before the end step.

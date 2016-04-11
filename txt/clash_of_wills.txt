@@ -1,0 +1,3 @@
+Clash of Wills {X}{U}
+Instant
+Counter target spell unless its controller pays {X}.

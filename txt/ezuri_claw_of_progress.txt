@@ -1,0 +1,5 @@
+Ezuri, Claw of Progress {2}{U}{G}
+Legendary Creature — Elf Warrior
+Whenever a creature with power 2 or less enters the battlefield under your control, you get an experience counter.
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have.
+3/3

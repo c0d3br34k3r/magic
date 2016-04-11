@@ -1,0 +1,4 @@
+Unmask {3}{B}
+Sorcery
+You may exile a black card from your hand rather than pay Unmask's mana cost.
+Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.

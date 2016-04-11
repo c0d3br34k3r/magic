@@ -1,0 +1,5 @@
+Necrogen Scudder {2}{B}
+Creature — Horror
+Flying
+When Necrogen Scudder enters the battlefield, you lose 3 life.
+3/3

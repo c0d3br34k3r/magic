@@ -1,0 +1,4 @@
+Raging Cougar {2}{R}
+Creature — Cat
+Haste
+2/2

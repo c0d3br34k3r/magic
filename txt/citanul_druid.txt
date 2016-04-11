@@ -1,0 +1,4 @@
+Citanul Druid {1}{G}
+Creature — Human Druid
+Whenever an opponent casts an artifact spell, put a +1/+1 counter on Citanul Druid.
+1/1

@@ -1,0 +1,5 @@
+Deathbellow Raider {1}{R}
+Creature — Minotaur Berserker
+Deathbellow Raider attacks each turn if able.
+{2}{B}: Regenerate Deathbellow Raider.
+2/3

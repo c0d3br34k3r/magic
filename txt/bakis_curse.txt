@@ -1,0 +1,3 @@
+Baki's Curse {2}{U}{U}
+Sorcery
+Baki's Curse deals 2 damage to each creature for each Aura attached to that creature.

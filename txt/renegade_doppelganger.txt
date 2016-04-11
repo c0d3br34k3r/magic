@@ -1,0 +1,4 @@
+Renegade Doppelganger {1}{U}
+Creature — Shapeshifter
+Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)
+0/1

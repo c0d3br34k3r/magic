@@ -1,0 +1,6 @@
+Thallid Germinator {2}{G}
+Creature — Fungus
+At the beginning of your upkeep, put a spore counter on Thallid Germinator.
+Remove three spore counters from Thallid Germinator: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+2/2

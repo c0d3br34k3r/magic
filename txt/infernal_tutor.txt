@@ -1,0 +1,4 @@
+Infernal Tutor {1}{B}
+Sorcery
+Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle your library.
+Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle your library.

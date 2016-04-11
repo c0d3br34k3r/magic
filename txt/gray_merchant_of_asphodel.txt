@@ -1,0 +1,4 @@
+Gray Merchant of Asphodel {3}{B}{B}
+Creature — Zombie
+When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+2/4

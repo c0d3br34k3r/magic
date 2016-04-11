@@ -1,0 +1,7 @@
+Dragon Tyrant {8}{R}{R}
+Creature — Dragon
+Flying, trample
+Double strike (This creature deals both first-strike and regular combat damage.)
+At the beginning of your upkeep, sacrifice Dragon Tyrant unless you pay {R}{R}{R}{R}.
+{R}: Dragon Tyrant gets +1/+0 until end of turn.
+6/6

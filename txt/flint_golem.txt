@@ -1,0 +1,4 @@
+Flint Golem {4}
+Artifact Creature — Golem
+Whenever Flint Golem becomes blocked, defending player puts the top three cards of his or her library into his or her graveyard.
+2/3

@@ -1,0 +1,4 @@
+Feral Shadow {2}{B}
+Creature — Nightstalker
+Flying
+2/1

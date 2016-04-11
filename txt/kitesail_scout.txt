@@ -1,0 +1,4 @@
+Kitesail Scout {W}
+Creature — Kor Scout
+Flying
+1/1

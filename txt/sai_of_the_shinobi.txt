@@ -1,0 +1,5 @@
+Sai of the Shinobi {1}
+Artifact — Equipment
+Equipped creature gets +1/+1.
+Whenever a creature enters the battlefield under your control, you may attach Sai of the Shinobi to it.
+Equip {2}

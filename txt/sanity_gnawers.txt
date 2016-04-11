@@ -1,0 +1,4 @@
+Sanity Gnawers {1}{B}{R}
+Creature — Rat
+When Sanity Gnawers enters the battlefield, target player discards a card at random.
+1/1

@@ -1,0 +1,4 @@
+Rootwater Hunter {2}{U}
+Creature — Merfolk
+{T}: Rootwater Hunter deals 1 damage to target creature or player.
+1/1

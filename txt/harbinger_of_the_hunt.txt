@@ -1,0 +1,6 @@
+Harbinger of the Hunt {3}{R}{G}
+Creature — Dragon
+Flying
+{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
+{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.
+5/3

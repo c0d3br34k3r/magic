@@ -1,0 +1,3 @@
+Invert the Skies {3}{G/U}
+Instant
+Creatures your opponents control lose flying until end of turn if {G} was spent to cast Invert the Skies, and creatures you control gain flying until end of turn if {U} was spent to cast it. (Do both if {G}{U} was spent.)

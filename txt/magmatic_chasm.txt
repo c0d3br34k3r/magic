@@ -1,0 +1,3 @@
+Magmatic Chasm {1}{R}
+Sorcery
+Creatures without flying can't block this turn.

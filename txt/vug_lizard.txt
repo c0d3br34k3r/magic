@@ -1,0 +1,5 @@
+Vug Lizard {1}{R}{R}
+Creature — Lizard
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+Echo {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+3/4

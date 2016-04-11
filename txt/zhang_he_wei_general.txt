@@ -1,0 +1,5 @@
+Zhang He, Wei General {3}{B}{B}
+Legendary Creature — Human Soldier
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.
+4/2

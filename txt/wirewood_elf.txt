@@ -1,0 +1,4 @@
+Wirewood Elf {1}{G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool.
+1/2

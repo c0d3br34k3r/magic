@@ -1,0 +1,3 @@
+Borrowing the East Wind {X}{G}{G}
+Sorcery
+Borrowing the East Wind deals X damage to each creature with horsemanship and each player.

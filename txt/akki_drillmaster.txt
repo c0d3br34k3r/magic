@@ -1,0 +1,4 @@
+Akki Drillmaster {2}{R}
+Creature — Goblin Shaman
+{T}: Target creature gains haste until end of turn.
+2/2

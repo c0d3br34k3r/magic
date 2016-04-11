@@ -1,0 +1,4 @@
+Kris Mage {R}
+Creature — Human Spellshaper
+{R}, {T}, Discard a card: Kris Mage deals 1 damage to target creature or player.
+1/1

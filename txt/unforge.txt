@@ -1,0 +1,3 @@
+Unforge {2}{R}
+Instant
+Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.

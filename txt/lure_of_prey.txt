@@ -1,0 +1,4 @@
+Lure of Prey {2}{G}{G}
+Instant
+Cast Lure of Prey only if an opponent cast a creature spell this turn.
+You may put a green creature card from your hand onto the battlefield.

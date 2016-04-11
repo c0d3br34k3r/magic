@@ -1,0 +1,5 @@
+Subterranean Hangar
+Land
+Subterranean Hangar enters the battlefield tapped.
+{T}: Put a storage counter on Subterranean Hangar.
+{T}, Remove any number of storage counters from Subterranean Hangar: Add {B} to your mana pool for each storage counter removed this way.

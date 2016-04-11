@@ -1,0 +1,4 @@
+Nacatl Outlander {R}{G}
+Creature — Cat Scout
+Protection from blue
+2/2

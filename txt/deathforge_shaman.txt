@@ -1,0 +1,5 @@
+Deathforge Shaman {4}{R}
+Creature — Ogre Shaman
+Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)
+When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.
+4/3

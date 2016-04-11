@@ -1,0 +1,4 @@
+Thwart {2}{U}{U}
+Instant
+You may return three Islands you control to their owner's hand rather than pay Thwart's mana cost.
+Counter target spell.

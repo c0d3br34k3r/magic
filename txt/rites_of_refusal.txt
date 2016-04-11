@@ -1,0 +1,3 @@
+Rites of Refusal {1}{U}
+Instant
+Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.

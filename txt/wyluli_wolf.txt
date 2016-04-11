@@ -1,0 +1,4 @@
+Wyluli Wolf {1}{G}
+Creature — Wolf
+{T}: Target creature gets +1/+1 until end of turn.
+1/1

@@ -1,0 +1,3 @@
+Suffocating Blast {1}{U}{U}{R}
+Instant
+Counter target spell and Suffocating Blast deals 3 damage to target creature.

@@ -1,0 +1,4 @@
+Æthertow {3}{W/U}
+Instant
+Put target attacking or blocking creature on top of its owner's library.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)

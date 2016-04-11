@@ -1,0 +1,4 @@
+Ouphe Vandals {2}{G}
+Creature — Ouphe Rogue
+{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. (Mana abilities can't be targeted.)
+2/2

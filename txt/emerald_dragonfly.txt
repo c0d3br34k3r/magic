@@ -1,0 +1,5 @@
+Emerald Dragonfly {1}{G}
+Creature — Insect
+Flying
+{G}{G}: Emerald Dragonfly gains first strike until end of turn.
+1/1

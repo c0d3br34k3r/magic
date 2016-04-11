@@ -1,0 +1,4 @@
+Diabolic Machine {7}
+Artifact Creature — Construct
+{3}: Regenerate Diabolic Machine.
+4/4

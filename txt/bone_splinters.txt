@@ -1,0 +1,4 @@
+Bone Splinters {B}
+Sorcery
+As an additional cost to cast Bone Splinters, sacrifice a creature.
+Destroy target creature.

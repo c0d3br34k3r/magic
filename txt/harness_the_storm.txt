@@ -1,0 +1,3 @@
+Harness the Storm {2}{R}
+Enchantment
+Whenever you cast an instant or sorcery spell from your hand, you may cast target card with the same name as that spell from your graveyard. (You still pay its costs.)

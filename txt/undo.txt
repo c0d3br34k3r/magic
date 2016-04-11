@@ -1,0 +1,3 @@
+Undo {1}{U}{U}
+Sorcery
+Return two target creatures to their owners' hands.

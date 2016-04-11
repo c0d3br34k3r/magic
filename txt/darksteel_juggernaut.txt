@@ -1,0 +1,6 @@
+Darksteel Juggernaut {5}
+Artifact Creature — Juggernaut
+Indestructible
+Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+Darksteel Juggernaut attacks each turn if able.
+*/*

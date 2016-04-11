@@ -1,0 +1,6 @@
+Dimir Guildmage {U/B}{U/B}
+Creature — Human Wizard
+({U/B} can be paid with either {U} or {B}.)
+{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+2/2

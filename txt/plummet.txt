@@ -1,0 +1,3 @@
+Plummet {1}{G}
+Instant
+Destroy target creature with flying.

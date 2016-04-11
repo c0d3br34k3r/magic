@@ -1,0 +1,5 @@
+Peregrine Griffin {4}{W}
+Creature — Griffin
+Flying
+First strike (This creature deals combat damage before creatures without first strike.)
+2/4

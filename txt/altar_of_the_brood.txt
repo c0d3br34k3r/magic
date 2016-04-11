@@ -1,0 +1,3 @@
+Altar of the Brood {1}
+Artifact
+Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.

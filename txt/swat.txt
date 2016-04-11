@@ -1,0 +1,4 @@
+Swat {1}{B}{B}
+Instant
+Destroy target creature with power 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)

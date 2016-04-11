@@ -1,0 +1,5 @@
+Bounty Hunter {2}{B}{B}
+Creature — Human Archer Minion
+{T}: Put a bounty counter on target nonblack creature.
+{T}: Destroy target creature with a bounty counter on it.
+2/2

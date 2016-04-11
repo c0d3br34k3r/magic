@@ -1,0 +1,5 @@
+Havenwood Battleground
+Land
+Havenwood Battleground enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.

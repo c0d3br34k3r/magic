@@ -1,0 +1,4 @@
+Army of the Damned {5}{B}{B}{B}
+Sorcery
+Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.
+Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

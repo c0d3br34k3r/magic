@@ -1,0 +1,4 @@
+Hulking Ogre {2}{R}
+Creature — Ogre
+Hulking Ogre can't block.
+3/3

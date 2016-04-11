@@ -1,0 +1,3 @@
+Gloomlance {3}{B}{B}
+Sorcery
+Destroy target creature. If that creature was green or white, its controller discards a card.

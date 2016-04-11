@@ -1,0 +1,4 @@
+Bearer of the Heavens {7}{R}
+Creature — Giant
+When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step.
+10/10

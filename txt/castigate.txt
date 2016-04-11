@@ -1,0 +1,3 @@
+Castigate {W}{B}
+Sorcery
+Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.

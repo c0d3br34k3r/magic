@@ -1,0 +1,4 @@
+Dragonlord's Servant {1}{R}
+Creature — Goblin Shaman
+Dragon spells you cast cost {1} less to cast.
+1/3

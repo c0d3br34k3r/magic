@@ -1,0 +1,5 @@
+Fathom Seer {1}{U}
+Creature — Illusion
+Morph—Return two Islands you control to their owner's hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Fathom Seer is turned face up, draw two cards.
+1/3

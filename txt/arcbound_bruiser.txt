@@ -1,0 +1,4 @@
+Arcbound Bruiser {5}
+Artifact Creature — Golem
+Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+0/0

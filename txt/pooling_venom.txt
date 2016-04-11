@@ -1,0 +1,5 @@
+Pooling Venom {1}{B}
+Enchantment — Aura
+Enchant land
+Whenever enchanted land becomes tapped, its controller loses 2 life.
+{3}{B}: Destroy enchanted land.

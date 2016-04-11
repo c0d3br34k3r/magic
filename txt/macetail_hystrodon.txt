@@ -1,0 +1,5 @@
+Macetail Hystrodon {6}{R}
+Creature — Beast
+First strike, haste
+Cycling {3} ({3}, Discard this card: Draw a card.)
+4/4

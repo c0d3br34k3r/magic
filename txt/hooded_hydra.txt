@@ -1,0 +1,7 @@
+Hooded Hydra {X}{G}{G}
+Creature — Snake Hydra
+Hooded Hydra enters the battlefield with X +1/+1 counters on it.
+When Hooded Hydra dies, put a 1/1 green Snake creature token onto the battlefield for each +1/+1 counter on it.
+Morph {3}{G}{G}
+As Hooded Hydra is turned face up, put five +1/+1 counters on it.
+0/0

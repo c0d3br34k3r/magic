@@ -1,0 +1,4 @@
+Claws of Wirewood {3}{G}
+Sorcery
+Claws of Wirewood deals 3 damage to each creature with flying and each player.
+Cycling {2} ({2}, Discard this card: Draw a card.)

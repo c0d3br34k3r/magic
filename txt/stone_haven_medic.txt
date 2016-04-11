@@ -1,0 +1,4 @@
+Stone Haven Medic {1}{W}
+Creature — Kor Cleric
+{W}, {T}: You gain 1 life.
+1/3

@@ -1,0 +1,7 @@
+Voidstone Gargoyle {3}{W}{W}
+Creature — Gargoyle
+Flying
+As Voidstone Gargoyle enters the battlefield, name a nonland card.
+The named card can't be cast.
+Activated abilities of sources with the chosen name can't be activated.
+3/3

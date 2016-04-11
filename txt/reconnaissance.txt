@@ -1,0 +1,3 @@
+Reconnaissance {W}
+Enchantment
+{0}: Remove target attacking creature you control from combat and untap it.

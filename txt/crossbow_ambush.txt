@@ -1,0 +1,3 @@
+Crossbow Ambush {G}
+Instant
+Creatures you control gain reach until end of turn. (They can block creatures with flying.)

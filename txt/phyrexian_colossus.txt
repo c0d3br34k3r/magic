@@ -1,0 +1,6 @@
+Phyrexian Colossus {7}
+Artifact Creature — Golem
+Phyrexian Colossus doesn't untap during your untap step.
+Pay 8 life: Untap Phyrexian Colossus.
+Phyrexian Colossus can't be blocked except by three or more creatures.
+8/8

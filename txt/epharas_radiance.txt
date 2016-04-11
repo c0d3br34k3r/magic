@@ -1,0 +1,4 @@
+Ephara's Radiance {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{1}{W}, {T}: You gain 3 life."

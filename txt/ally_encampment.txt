@@ -1,0 +1,5 @@
+Ally Encampment
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast an Ally spell.
+{1}, {T}, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.

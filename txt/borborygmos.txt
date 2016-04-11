@@ -1,0 +1,5 @@
+Borborygmos {3}{R}{R}{G}{G}
+Legendary Creature — Cyclops
+Trample
+Whenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.
+6/7

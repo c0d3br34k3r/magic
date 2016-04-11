@@ -1,0 +1,5 @@
+Abundant Growth {G}
+Enchantment — Aura
+Enchant land
+When Abundant Growth enters the battlefield, draw a card.
+Enchanted land has "{T}: Add one mana of any color to your mana pool."

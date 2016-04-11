@@ -1,0 +1,5 @@
+Barbed Shocker {3}{R}
+Creature — Insect
+Trample, haste
+Whenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.
+2/2

@@ -1,0 +1,4 @@
+Bronze Bombshell {4}
+Artifact Creature — Construct
+When a player other than Bronze Bombshell's owner controls it, that player sacrifices it. If the player does, Bronze Bombshell deals 7 damage to him or her.
+4/1

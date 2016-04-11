@@ -1,0 +1,4 @@
+Hydromorph Guardian {2}{U}
+Creature — Elemental
+{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.
+2/2

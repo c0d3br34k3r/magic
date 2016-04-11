@@ -1,0 +1,6 @@
+Thoughtweft Trio {2}{W}{W}
+Creature — Kithkin Soldier
+First strike, vigilance
+Champion a Kithkin (When this enters the battlefield, sacrifice it unless you exile another Kithkin you control. When this leaves the battlefield, that card returns to the battlefield.)
+Thoughtweft Trio can block any number of creatures.
+5/5

@@ -1,0 +1,4 @@
+Arena Athlete {1}{R}
+Creature — Human
+Heroic — Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.
+2/1

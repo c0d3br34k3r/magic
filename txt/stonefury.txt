@@ -1,0 +1,3 @@
+Stonefury {3}{R}{R}
+Instant
+Stonefury deals damage to target creature equal to the number of lands you control.

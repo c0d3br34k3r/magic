@@ -1,0 +1,4 @@
+Bane of Bala Ged {7}
+Creature — Eldrazi
+Whenever Bane of Bala Ged attacks, defending player exiles two permanents he or she controls.
+7/5

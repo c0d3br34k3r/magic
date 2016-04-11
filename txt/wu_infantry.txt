@@ -1,0 +1,3 @@
+Wu Infantry {1}{U}
+Creature — Human Soldier
+2/1

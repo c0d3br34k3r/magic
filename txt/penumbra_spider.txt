@@ -1,0 +1,5 @@
+Penumbra Spider {2}{G}{G}
+Creature — Spider
+Reach
+When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+2/4

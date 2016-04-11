@@ -1,0 +1,3 @@
+Mirror Universe {6}
+Artifact
+{T}, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep.

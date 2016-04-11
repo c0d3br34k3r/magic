@@ -1,0 +1,3 @@
+Bramblecrush {2}{G}{G}
+Sorcery
+Destroy target noncreature permanent.

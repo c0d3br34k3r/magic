@@ -1,0 +1,4 @@
+Arms Dealer {2}{R}
+Creature — Goblin Rogue
+{1}{R}, Sacrifice a Goblin: Arms Dealer deals 4 damage to target creature.
+1/1

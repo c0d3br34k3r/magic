@@ -1,0 +1,3 @@
+Phosphorescent Feast {2}{G}{G}{G}
+Sorcery
+Chroma — Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.

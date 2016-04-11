@@ -1,0 +1,4 @@
+Skeletal Wurm {7}{B}
+Creature — Skeleton Wurm
+{B}: Regenerate Skeletal Wurm.
+7/6

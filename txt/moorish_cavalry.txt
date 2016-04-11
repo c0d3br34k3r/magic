@@ -1,0 +1,4 @@
+Moorish Cavalry {2}{W}{W}
+Creature — Human Knight
+Trample
+3/3

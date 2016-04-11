@@ -1,0 +1,4 @@
+Mogg Fanatic {R}
+Creature — Goblin
+Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+1/1

@@ -1,0 +1,4 @@
+Curse of Thirst {4}{B}
+Enchantment — Aura Curse
+Enchant player
+At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.

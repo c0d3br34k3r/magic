@@ -1,0 +1,4 @@
+Palace Guard {2}{W}
+Creature — Human Soldier
+Palace Guard can block any number of creatures.
+1/4

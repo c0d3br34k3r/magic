@@ -1,0 +1,5 @@
+Indulgent Tormentor {3}{B}{B}
+Creature — Demon
+Flying
+At the beginning of your upkeep, draw a card unless target opponent sacrifices a creature or pays 3 life.
+5/3

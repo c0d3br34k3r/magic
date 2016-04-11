@@ -1,0 +1,5 @@
+Tolaria West
+Land
+Tolaria West enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+Transmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)

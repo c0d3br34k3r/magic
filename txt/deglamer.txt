@@ -1,0 +1,3 @@
+Deglamer {1}{G}
+Instant
+Choose target artifact or enchantment. Its owner shuffles it into his or her library.

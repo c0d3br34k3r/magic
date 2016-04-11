@@ -1,0 +1,5 @@
+Beastcaller Savant {1}{G}
+Creature — Elf Shaman Ally
+Haste
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.
+1/1

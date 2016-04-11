@@ -1,0 +1,3 @@
+Well of Lost Dreams {4}
+Artifact
+Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.

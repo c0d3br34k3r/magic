@@ -1,0 +1,3 @@
+Planar Gate {6}
+Artifact
+Creature spells you cast cost up to {2} less to cast.

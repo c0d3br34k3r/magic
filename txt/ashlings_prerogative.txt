@@ -1,0 +1,5 @@
+Ashling's Prerogative {1}{R}
+Enchantment
+As Ashling's Prerogative enters the battlefield, choose odd or even. (Zero is even.)
+Each creature with converted mana cost of the chosen value has haste.
+Each creature without converted mana cost of the chosen value enters the battlefield tapped.

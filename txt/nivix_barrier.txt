@@ -1,0 +1,6 @@
+Nivix Barrier {3}{U}
+Creature — Illusion Wall
+Flash (You may cast this spell any time you could cast an instant.)
+Defender (This creature can't attack.)
+When Nivix Barrier enters the battlefield, target attacking creature gets -4/-0 until end of turn.
+0/4

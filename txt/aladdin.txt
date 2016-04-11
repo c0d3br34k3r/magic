@@ -1,0 +1,4 @@
+Aladdin {2}{R}{R}
+Creature — Human Rogue
+{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.
+1/1

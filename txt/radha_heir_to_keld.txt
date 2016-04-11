@@ -1,0 +1,5 @@
+Radha, Heir to Keld {R}{G}
+Legendary Creature — Elf Warrior
+Whenever Radha, Heir to Keld attacks, you may add {R}{R} to your mana pool.
+{T}: Add {G} to your mana pool.
+2/2

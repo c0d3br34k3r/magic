@@ -1,0 +1,5 @@
+Helix Pinnacle {G}
+Enchantment
+Shroud (This enchantment can't be the target of spells or abilities.)
+{X}: Put X tower counters on Helix Pinnacle.
+At the beginning of your upkeep, if there are 100 or more tower counters on Helix Pinnacle, you win the game.

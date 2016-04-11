@@ -1,0 +1,5 @@
+Waxmane Baku {2}{W}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.
+{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures.
+2/2

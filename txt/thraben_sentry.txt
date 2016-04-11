@@ -1,0 +1,10 @@
+Thraben Sentry {3}{W}
+Creature — Human Soldier
+Vigilance
+Whenever another creature you control dies, you may transform Thraben Sentry.
+2/2
+* DOUBLE-FACED *
+Thraben Militia
+(W) Creature — Human Soldier
+Trample
+5/4

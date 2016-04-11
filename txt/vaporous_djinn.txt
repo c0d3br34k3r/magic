@@ -1,0 +1,5 @@
+Vaporous Djinn {2}{U}{U}
+Creature — Djinn
+Flying
+At the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)
+3/4

@@ -1,0 +1,4 @@
+Triton Shorestalker {U}
+Creature — Merfolk Rogue
+Triton Shorestalker can't be blocked.
+1/1

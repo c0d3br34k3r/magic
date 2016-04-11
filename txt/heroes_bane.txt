@@ -1,0 +1,5 @@
+Heroes' Bane {3}{G}{G}
+Creature — Hydra
+Heroes' Bane enters the battlefield with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.
+0/0

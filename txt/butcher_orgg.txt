@@ -1,0 +1,4 @@
+Butcher Orgg {4}{R}{R}{R}
+Creature — Orgg
+You may assign Butcher Orgg's combat damage divided as you choose among defending player and/or any number of creatures he or she controls.
+6/6

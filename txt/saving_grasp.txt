@@ -1,0 +1,4 @@
+Saving Grasp {U}
+Instant
+Return target creature you own to your hand.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

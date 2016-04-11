@@ -1,0 +1,4 @@
+Wilderness Hypnotist {2}{U}{U}
+Creature — Merfolk Wizard
+{T}: Target red or green creature gets -2/-0 until end of turn.
+1/3

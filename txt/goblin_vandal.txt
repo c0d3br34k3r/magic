@@ -1,0 +1,4 @@
+Goblin Vandal {R}
+Creature — Goblin Rogue
+Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+1/1

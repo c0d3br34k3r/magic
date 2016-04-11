@@ -1,0 +1,4 @@
+Grinning Ignus {2}{R}
+Creature — Elemental
+{R}, Return Grinning Ignus to its owner's hand: Add {C}{C}{R} to your mana pool. Activate this ability only any time you could cast a sorcery.
+2/2

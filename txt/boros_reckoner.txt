@@ -1,0 +1,5 @@
+Boros Reckoner {R/W}{R/W}{R/W}
+Creature — Minotaur Wizard
+Whenever Boros Reckoner is dealt damage, it deals that much damage to target creature or player.
+{R/W}: Boros Reckoner gains first strike until end of turn.
+3/3

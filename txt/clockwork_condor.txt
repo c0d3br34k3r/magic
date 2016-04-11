@@ -1,0 +1,6 @@
+Clockwork Condor {4}
+Artifact Creature — Bird
+Flying
+Clockwork Condor enters the battlefield with three +1/+1 counters on it.
+Whenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat.
+0/0

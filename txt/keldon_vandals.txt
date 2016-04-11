@@ -1,0 +1,5 @@
+Keldon Vandals {2}{R}
+Creature — Human Rogue
+Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Keldon Vandals enters the battlefield, destroy target artifact.
+4/1

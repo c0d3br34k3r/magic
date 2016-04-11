@@ -1,0 +1,3 @@
+Aura Fracture {2}{W}
+Enchantment
+Sacrifice a land: Destroy target enchantment.

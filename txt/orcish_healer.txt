@@ -1,0 +1,6 @@
+Orcish Healer {R}{R}
+Creature — Orc Cleric
+{R}{R}, {T}: Target creature can't be regenerated this turn.
+{B}{B}{R}, {T}: Regenerate target black or green creature.
+{R}{G}{G}, {T}: Regenerate target black or green creature.
+1/1

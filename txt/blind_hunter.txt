@@ -1,0 +1,6 @@
+Blind Hunter {2}{W}{B}
+Creature — Bat
+Flying
+Haunt (When this creature dies, exile it haunting target creature.)
+When Blind Hunter enters the battlefield or the creature it haunts dies, target player loses 2 life and you gain 2 life.
+2/2

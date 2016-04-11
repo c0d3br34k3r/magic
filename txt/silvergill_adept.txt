@@ -1,0 +1,5 @@
+Silvergill Adept {1}{U}
+Creature — Merfolk Wizard
+As an additional cost to cast Silvergill Adept, reveal a Merfolk card from your hand or pay {3}.
+When Silvergill Adept enters the battlefield, draw a card.
+2/1

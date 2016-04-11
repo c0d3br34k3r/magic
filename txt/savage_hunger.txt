@@ -1,0 +1,5 @@
+Savage Hunger {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 and has trample.
+Cycling {2} ({2}, Discard this card: Draw a card.)

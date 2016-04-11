@@ -1,0 +1,4 @@
+Deviant Glee {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1 and has "{R}: This creature gains trample until end of turn."

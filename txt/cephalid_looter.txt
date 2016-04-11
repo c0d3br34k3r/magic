@@ -1,0 +1,4 @@
+Cephalid Looter {2}{U}
+Creature — Cephalid Rogue
+{T}: Target player draws a card, then discards a card.
+2/1

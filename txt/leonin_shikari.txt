@@ -1,0 +1,4 @@
+Leonin Shikari {1}{W}
+Creature — Cat Soldier
+You may activate equip abilities any time you could cast an instant.
+2/2

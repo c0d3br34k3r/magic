@@ -1,0 +1,3 @@
+Hivestone {2}
+Artifact
+Creatures you control are Slivers in addition to their other creature types.

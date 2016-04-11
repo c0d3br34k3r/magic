@@ -1,0 +1,3 @@
+Flash Counter {1}{U}
+Instant
+Counter target instant spell.

@@ -1,0 +1,3 @@
+Temporal Spring {1}{U}{G}
+Sorcery
+Put target permanent on top of its owner's library.

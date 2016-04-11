@@ -1,0 +1,4 @@
+Boggart Forager {R}
+Creature — Goblin Rogue
+{R}, Sacrifice Boggart Forager: Target player shuffles his or her library.
+1/1

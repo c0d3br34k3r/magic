@@ -1,0 +1,4 @@
+Minotaur Explorer {1}{R}
+Creature — Minotaur Scout
+When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.
+3/3

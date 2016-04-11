@@ -1,0 +1,5 @@
+One-Eyed Scarecrow {3}
+Artifact Creature — Scarecrow
+Defender
+Creatures with flying your opponents control get -1/-0.
+2/3

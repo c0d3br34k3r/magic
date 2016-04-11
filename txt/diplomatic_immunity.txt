@@ -1,0 +1,5 @@
+Diplomatic Immunity {1}{U}
+Enchantment — Aura
+Enchant creature
+Shroud (A permanent with shroud can't be the target of spells or abilities.)
+Enchanted creature has shroud.

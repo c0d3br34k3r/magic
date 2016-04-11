@@ -1,0 +1,6 @@
+Dimir Charm {U}{B}
+Instant
+Choose one —
+• Counter target sorcery spell.
+• Destroy target creature with power 2 or less.
+• Look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.

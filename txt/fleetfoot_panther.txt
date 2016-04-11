@@ -1,0 +1,5 @@
+Fleetfoot Panther {1}{W}{G}
+Creature — Cat
+Flash
+When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.
+3/4

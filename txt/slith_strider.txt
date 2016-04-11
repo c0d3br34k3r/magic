@@ -1,0 +1,5 @@
+Slith Strider {1}{U}{U}
+Creature — Slith
+Whenever Slith Strider becomes blocked, draw a card.
+Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.
+1/1

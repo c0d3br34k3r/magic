@@ -1,0 +1,5 @@
+Thunderscape Apprentice {R}
+Creature — Human Wizard
+{B}, {T}: Target player loses 1 life.
+{G}, {T}: Target creature gets +1/+1 until end of turn.
+1/1

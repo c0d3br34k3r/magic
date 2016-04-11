@@ -1,0 +1,3 @@
+Simoon {R}{G}
+Instant
+Simoon deals 1 damage to each creature target opponent controls.

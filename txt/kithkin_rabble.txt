@@ -1,0 +1,5 @@
+Kithkin Rabble {3}{W}
+Creature — Kithkin
+Vigilance
+Kithkin Rabble's power and toughness are each equal to the number of white permanents you control.
+*/*

@@ -1,0 +1,5 @@
+Cage of Hands {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block.
+{1}{W}: Return Cage of Hands to its owner's hand.

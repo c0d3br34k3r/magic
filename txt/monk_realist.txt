@@ -1,0 +1,4 @@
+Monk Realist {1}{W}
+Creature — Human Monk Cleric
+When Monk Realist enters the battlefield, destroy target enchantment.
+1/1

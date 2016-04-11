@@ -1,0 +1,5 @@
+Kazandu Refuge
+Land
+Kazandu Refuge enters the battlefield tapped.
+When Kazandu Refuge enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.

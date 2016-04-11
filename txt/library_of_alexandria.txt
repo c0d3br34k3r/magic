@@ -1,0 +1,4 @@
+Library of Alexandria
+Land
+{T}: Add {C} to your mana pool.
+{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.

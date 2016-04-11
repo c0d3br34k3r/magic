@@ -1,0 +1,4 @@
+Reassembling Skeleton {1}{B}
+Creature — Skeleton Warrior
+{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+1/1

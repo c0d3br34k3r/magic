@@ -1,0 +1,4 @@
+Fishliver Oil {1}{U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)

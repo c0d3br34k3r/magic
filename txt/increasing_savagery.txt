@@ -1,0 +1,4 @@
+Increasing Savagery {2}{G}{G}
+Sorcery
+Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

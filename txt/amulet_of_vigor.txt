@@ -1,0 +1,3 @@
+Amulet of Vigor {1}
+Artifact
+Whenever a permanent enters the battlefield tapped and under your control, untap it.

@@ -1,0 +1,4 @@
+Dralnu's Crusade {1}{B}{R}
+Enchantment
+Goblin creatures get +1/+1.
+All Goblins are black and are Zombies in addition to their other creature types.

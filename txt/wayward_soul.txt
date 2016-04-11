@@ -1,0 +1,5 @@
+Wayward Soul {2}{U}{U}
+Creature — Spirit
+Flying
+{U}: Put Wayward Soul on top of its owner's library.
+3/2

@@ -1,0 +1,10 @@
+Enclave Cryptologist {U}
+Creature — Merfolk Wizard
+Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+0/1
+{T}: Draw a card, then discard a card.
+LEVEL 3+
+0/1
+{T}: Draw a card.
+0/1

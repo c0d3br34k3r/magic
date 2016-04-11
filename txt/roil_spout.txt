@@ -1,0 +1,4 @@
+Roil Spout {1}{W}{U}
+Sorcery
+Put target creature on top of its owner's library.
+Awaken 4—{4}{W}{U} (If you cast this spell for {4}{W}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)

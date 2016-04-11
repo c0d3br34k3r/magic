@@ -1,0 +1,4 @@
+Karplusan Strider {3}{G}
+Creature — Yeti
+Karplusan Strider can't be the target of blue or black spells.
+3/4

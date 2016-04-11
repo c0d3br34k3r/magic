@@ -1,0 +1,4 @@
+Pin to the Earth {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -6/-0.

@@ -1,0 +1,5 @@
+Wardscale Dragon {4}{W}{W}
+Creature — Dragon
+Flying
+As long as Wardscale Dragon is attacking, defending player can't cast spells.
+4/4

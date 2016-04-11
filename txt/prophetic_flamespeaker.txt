@@ -1,0 +1,5 @@
+Prophetic Flamespeaker {1}{R}{R}
+Creature — Human Shaman
+Double strike, trample
+Whenever Prophetic Flamespeaker deals combat damage to a player, exile the top card of your library. You may play it this turn.
+1/3

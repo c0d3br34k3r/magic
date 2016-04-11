@@ -1,0 +1,3 @@
+Avenging Arrow {2}{W}
+Instant
+Destroy target creature that dealt damage this turn.

@@ -1,0 +1,3 @@
+Brutal Suppression {R}
+Enchantment
+Activated abilities of nontoken Rebels cost an additional "Sacrifice a land" to activate.

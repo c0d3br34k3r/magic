@@ -1,0 +1,5 @@
+Tombstalker {6}{B}{B}
+Creature — Demon
+Flying
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+5/5

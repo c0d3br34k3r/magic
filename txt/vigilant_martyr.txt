@@ -1,0 +1,5 @@
+Vigilant Martyr {W}
+Creature — Human Cleric
+Sacrifice Vigilant Martyr: Regenerate target creature.
+{W}{W}, {T}, Sacrifice Vigilant Martyr: Counter target spell that targets an enchantment.
+1/1

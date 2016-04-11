@@ -1,0 +1,4 @@
+Seething Pathblazer {2}{R}
+Creature — Elemental Warrior
+Sacrifice an Elemental: Seething Pathblazer gets +2/+0 and gains first strike until end of turn.
+2/2

@@ -1,0 +1,4 @@
+Revered Dead {1}{W}
+Creature — Spirit Soldier
+{W}: Regenerate Revered Dead.
+1/1

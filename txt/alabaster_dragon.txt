@@ -1,0 +1,5 @@
+Alabaster Dragon {4}{W}{W}
+Creature — Dragon
+Flying
+When Alabaster Dragon dies, shuffle it into its owner's library.
+4/4

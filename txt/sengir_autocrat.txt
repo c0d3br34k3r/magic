@@ -1,0 +1,5 @@
+Sengir Autocrat {3}{B}
+Creature — Human
+When Sengir Autocrat enters the battlefield, put three 0/1 black Serf creature tokens onto the battlefield.
+When Sengir Autocrat leaves the battlefield, exile all Serf tokens.
+2/2

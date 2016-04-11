@@ -1,0 +1,4 @@
+Wojek Halberdiers {W}{R}
+Creature — Human Soldier
+Battalion — Whenever Wojek Halberdiers and at least two other creatures attack, Wojek Halberdiers gains first strike until end of turn.
+3/2

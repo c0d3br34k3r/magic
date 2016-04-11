@@ -1,0 +1,3 @@
+First Volley {1}{R}
+Instant — Arcane
+First Volley deals 1 damage to target creature and 1 damage to that creature's controller.

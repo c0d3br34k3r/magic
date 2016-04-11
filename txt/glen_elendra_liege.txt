@@ -1,0 +1,6 @@
+Glen Elendra Liege {1}{U/B}{U/B}{U/B}
+Creature — Faerie Knight
+Flying
+Other blue creatures you control get +1/+1.
+Other black creatures you control get +1/+1.
+2/3

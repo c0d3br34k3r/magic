@@ -1,0 +1,4 @@
+Beacon of Destiny {1}{W}
+Creature — Human Cleric
+{T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.
+1/3

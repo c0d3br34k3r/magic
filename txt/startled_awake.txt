@@ -1,0 +1,10 @@
+Startled Awake {2}{U}{U}
+Sorcery
+Target opponent puts the top thirteen cards of his or her library into his or her graveyard.
+{3}{U}{U}: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.
+* DOUBLE-FACED *
+Persistent Nightmare
+Creature — Nightmare
+Skulk (This creature can't be blocked by creatures with greater power.)
+When Persistent Nightmare deals combat damage to a player, return it to its owner's hand.
+1/1

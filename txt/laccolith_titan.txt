@@ -1,0 +1,4 @@
+Laccolith Titan {5}{R}{R}
+Creature — Beast
+Whenever Laccolith Titan becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Titan assigns no combat damage this turn.
+6/6

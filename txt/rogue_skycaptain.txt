@@ -1,0 +1,5 @@
+Rogue Skycaptain {2}{R}
+Creature — Human Rogue Mercenary
+Flying
+At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may pay {2} for each wage counter on it. If you don't, remove all wage counters from Rogue Skycaptain and an opponent gains control of it.
+3/4

@@ -1,0 +1,4 @@
+Thorntooth Witch {5}{B}
+Creature — Treefolk Shaman
+Whenever you cast a Treefolk spell, you may have target creature get +3/-3 until end of turn.
+3/4

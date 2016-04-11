@@ -1,0 +1,5 @@
+Stalking Drone {1}{G}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{C}: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. ({C} represents colorless mana.)
+2/2

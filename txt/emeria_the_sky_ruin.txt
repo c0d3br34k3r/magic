@@ -1,0 +1,5 @@
+Emeria, the Sky Ruin
+Land
+Emeria, the Sky Ruin enters the battlefield tapped.
+At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.
+{T}: Add {W} to your mana pool.

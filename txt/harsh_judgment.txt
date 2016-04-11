@@ -1,0 +1,4 @@
+Harsh Judgment {2}{W}{W}
+Enchantment
+As Harsh Judgment enters the battlefield, choose a color.
+If an instant or sorcery spell of the chosen color would deal damage to you, it deals that damage to its controller instead.

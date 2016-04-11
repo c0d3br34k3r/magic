@@ -1,0 +1,6 @@
+Manta Ray {1}{U}{U}
+Creature — Fish
+Manta Ray can't attack unless defending player controls an Island.
+Manta Ray can't be blocked except by blue creatures.
+When you control no Islands, sacrifice Manta Ray.
+3/3

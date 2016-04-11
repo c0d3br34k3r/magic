@@ -1,0 +1,4 @@
+Nefashu {4}{B}{B}
+Creature — Zombie Mutant
+Whenever Nefashu attacks, up to five target creatures each get -1/-1 until end of turn.
+5/3

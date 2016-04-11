@@ -1,0 +1,4 @@
+Legacy Weapon {7}
+Legendary Artifact
+{W}{U}{B}{R}{G}: Exile target permanent.
+If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.

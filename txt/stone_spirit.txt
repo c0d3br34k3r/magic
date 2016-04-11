@@ -1,0 +1,4 @@
+Stone Spirit {4}{R}
+Creature — Elemental Spirit
+Stone Spirit can't be blocked by creatures with flying.
+4/3

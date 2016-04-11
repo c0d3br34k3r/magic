@@ -1,0 +1,3 @@
+Vastwood Gorger {5}{G}
+Creature — Wurm
+5/6

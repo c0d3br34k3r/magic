@@ -1,0 +1,4 @@
+Goatnapper {2}{R}
+Creature — Goblin Rogue
+When Goatnapper enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.
+2/2

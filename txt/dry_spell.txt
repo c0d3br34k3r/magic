@@ -1,0 +1,3 @@
+Dry Spell {1}{B}
+Sorcery
+Dry Spell deals 1 damage to each creature and each player.

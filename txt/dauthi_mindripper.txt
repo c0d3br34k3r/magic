@@ -1,0 +1,5 @@
+Dauthi Mindripper {3}{B}
+Creature — Dauthi Minion
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Dauthi Mindripper attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+2/1

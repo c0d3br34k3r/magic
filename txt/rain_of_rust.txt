@@ -1,0 +1,6 @@
+Rain of Rust {3}{R}{R}
+Instant
+Choose one —
+• Destroy target artifact.
+• Destroy target land.
+Entwine {3}{R} (Choose both if you pay the entwine cost.)

@@ -1,0 +1,7 @@
+Dormant Gomazoa {1}{U}{U}
+Creature — Jellyfish
+Flying
+Dormant Gomazoa enters the battlefield tapped.
+Dormant Gomazoa doesn't untap during your untap step.
+Whenever you become the target of a spell, you may untap Dormant Gomazoa.
+5/5

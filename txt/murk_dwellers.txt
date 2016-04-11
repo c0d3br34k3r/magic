@@ -1,0 +1,4 @@
+Murk Dwellers {3}{B}
+Creature — Zombie
+Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.
+2/2

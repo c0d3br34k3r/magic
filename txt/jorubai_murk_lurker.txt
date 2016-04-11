@@ -1,0 +1,5 @@
+Jorubai Murk Lurker {2}{U}
+Creature — Leech
+Jorubai Murk Lurker gets +1/+1 as long as you control a Swamp.
+{1}{B}: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+1/3

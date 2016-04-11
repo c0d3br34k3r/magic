@@ -1,0 +1,4 @@
+Nurturer Initiate {G}
+Creature — Elf Shaman
+Whenever a player casts a green spell, you may pay {1}. If you do, target creature gets +1/+1 until end of turn.
+1/1

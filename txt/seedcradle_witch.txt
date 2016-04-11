@@ -1,0 +1,4 @@
+Seedcradle Witch {G/W}
+Creature — Elf Shaman
+{2}{G}{W}: Target creature gets +3/+3 until end of turn. Untap that creature.
+1/1

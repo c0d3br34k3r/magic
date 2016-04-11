@@ -1,0 +1,5 @@
+Mistform Warchief {2}{U}
+Creature — Illusion
+Creature spells you cast that share a creature type with Mistform Warchief cost {1} less to cast.
+{T}: Mistform Warchief becomes the creature type of your choice until end of turn.
+1/3

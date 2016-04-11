@@ -1,0 +1,5 @@
+Razia, Boros Archangel {4}{W}{W}{R}{R}
+Legendary Creature — Angel
+Flying, vigilance, haste
+{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.
+6/3

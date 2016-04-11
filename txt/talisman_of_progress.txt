@@ -1,0 +1,4 @@
+Talisman of Progress {2}
+Artifact
+{T}: Add {C} to your mana pool.
+{T}: Add {W} or {U} to your mana pool. Talisman of Progress deals 1 damage to you.

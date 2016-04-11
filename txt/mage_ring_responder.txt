@@ -1,0 +1,6 @@
+Mage-Ring Responder {7}
+Artifact Creature — Golem
+Mage-Ring Responder doesn't untap during your untap step.
+{7}: Untap Mage-Ring Responder.
+Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature defending player controls.
+7/7

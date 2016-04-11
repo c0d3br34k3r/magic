@@ -1,0 +1,5 @@
+Cinder Wall {R}
+Creature — Wall
+Defender
+When Cinder Wall blocks, destroy it at end of combat.
+3/3

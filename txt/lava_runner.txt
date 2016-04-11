@@ -1,0 +1,5 @@
+Lava Runner {1}{R}{R}
+Creature — Lizard
+Haste
+Whenever Lava Runner becomes the target of a spell or ability, that spell or ability's controller sacrifices a land.
+2/2

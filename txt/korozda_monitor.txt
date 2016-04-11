@@ -1,0 +1,5 @@
+Korozda Monitor {2}{G}{G}
+Creature — Lizard
+Trample
+Scavenge {5}{G}{G} ({5}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+3/3

@@ -1,0 +1,5 @@
+Fleeting Image {2}{U}
+Creature — Illusion
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{U}: Return Fleeting Image to its owner's hand.
+2/1

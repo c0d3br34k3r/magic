@@ -1,0 +1,5 @@
+Darksteel Axe {1}
+Artifact — Equipment
+Indestructible (Effects that say "destroy" don't destroy this artifact.)
+Equipped creature gets +2/+0.
+Equip {2}

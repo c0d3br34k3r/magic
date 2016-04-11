@@ -1,0 +1,4 @@
+Reforge the Soul {3}{R}{R}
+Sorcery
+Each player discards his or her hand, then draws seven cards.
+Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)

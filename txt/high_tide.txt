@@ -1,0 +1,3 @@
+High Tide {U}
+Instant
+Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool (in addition to the mana the land produces).

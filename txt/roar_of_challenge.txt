@@ -1,0 +1,4 @@
+Roar of Challenge {2}{G}
+Sorcery
+All creatures able to block target creature this turn do so.
+Ferocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.

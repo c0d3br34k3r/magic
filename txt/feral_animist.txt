@@ -1,0 +1,4 @@
+Feral Animist {1}{R}{G}
+Creature — Goblin Shaman
+{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+2/1

@@ -1,0 +1,4 @@
+Rumbling Slum {1}{R}{G}{G}
+Creature — Elemental
+At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.
+5/5

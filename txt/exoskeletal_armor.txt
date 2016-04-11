@@ -1,0 +1,4 @@
+Exoskeletal Armor {1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.

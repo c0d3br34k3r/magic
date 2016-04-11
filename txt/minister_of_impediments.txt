@@ -1,0 +1,5 @@
+Minister of Impediments {2}{W/U}
+Creature — Human Advisor
+({W/U} can be paid with either {W} or {U}.)
+{T}: Tap target creature.
+1/1

@@ -1,0 +1,4 @@
+Ambush Party {4}{R}
+Creature — Human Rogue
+First strike, haste
+3/1

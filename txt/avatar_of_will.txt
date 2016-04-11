@@ -1,0 +1,5 @@
+Avatar of Will {6}{U}{U}
+Creature — Avatar
+If an opponent has no cards in hand, Avatar of Will costs {6} less to cast.
+Flying
+5/6

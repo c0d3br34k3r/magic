@@ -1,0 +1,3 @@
+Soulquake {3}{U}{U}{B}{B}
+Sorcery
+Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.

@@ -1,0 +1,3 @@
+Rolling Earthquake {X}{R}
+Sorcery
+Rolling Earthquake deals X damage to each creature without horsemanship and each player.

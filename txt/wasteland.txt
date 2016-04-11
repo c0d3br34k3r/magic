@@ -1,0 +1,4 @@
+Wasteland
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.

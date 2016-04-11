@@ -1,0 +1,3 @@
+Electrostatic Bolt {R}
+Instant
+Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.

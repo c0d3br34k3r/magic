@@ -1,0 +1,4 @@
+Goldenhide Ox {5}{G}
+Enchantment Creature — Ox
+Constellation — Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able.
+5/4

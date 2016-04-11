@@ -1,0 +1,3 @@
+Swift Kick {3}{R}
+Instant
+Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.

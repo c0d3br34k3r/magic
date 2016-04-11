@@ -1,0 +1,5 @@
+Anurid Scavenger {2}{G}
+Creature — Frog Beast
+Protection from black
+At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.
+3/3

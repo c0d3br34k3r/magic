@@ -1,0 +1,5 @@
+Two-Headed Giant of Foriys {4}{R}
+Creature — Giant
+Trample
+Two-Headed Giant of Foriys can block an additional creature each combat.
+4/4

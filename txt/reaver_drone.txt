@@ -1,0 +1,5 @@
+Reaver Drone {B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+At the beginning of your upkeep, you lose 1 life unless you control another colorless creature.
+2/1

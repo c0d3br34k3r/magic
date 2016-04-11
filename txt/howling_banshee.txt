@@ -1,0 +1,5 @@
+Howling Banshee {2}{B}{B}
+Creature — Spirit
+Flying
+When Howling Banshee enters the battlefield, each player loses 3 life.
+3/3

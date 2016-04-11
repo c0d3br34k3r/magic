@@ -1,0 +1,4 @@
+Pillaging Horde {2}{R}{R}
+Creature — Human Barbarian
+When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.
+5/5

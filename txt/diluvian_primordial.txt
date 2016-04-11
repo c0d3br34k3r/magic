@@ -1,0 +1,5 @@
+Diluvian Primordial {5}{U}{U}
+Creature — Avatar
+Flying
+When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a card cast this way would be put into a graveyard this turn, exile it instead.
+5/5

@@ -1,0 +1,3 @@
+About Face {R}
+Instant
+Switch target creature's power and toughness until end of turn.

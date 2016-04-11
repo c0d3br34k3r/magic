@@ -1,0 +1,4 @@
+Goldmeadow Stalwart {W}
+Creature — Kithkin Soldier
+As an additional cost to cast Goldmeadow Stalwart, reveal a Kithkin card from your hand or pay {3}.
+2/2

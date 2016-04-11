@@ -1,0 +1,4 @@
+Zodiac Dog {2}{R}
+Creature — Hound
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+2/2

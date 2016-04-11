@@ -1,0 +1,6 @@
+Laquatus's Champion {4}{B}{B}
+Creature — Nightmare Horror
+When Laquatus's Champion enters the battlefield, target player loses 6 life.
+When Laquatus's Champion leaves the battlefield, that player gains 6 life.
+{B}: Regenerate Laquatus's Champion.
+6/3

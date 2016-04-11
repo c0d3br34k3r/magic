@@ -1,0 +1,6 @@
+Sidisi, Undead Vizier {3}{B}{B}
+Legendary Creature — Zombie Naga
+Deathtouch
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.
+4/6

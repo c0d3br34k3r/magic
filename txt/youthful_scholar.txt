@@ -1,0 +1,4 @@
+Youthful Scholar {3}{U}
+Creature — Human Wizard
+When Youthful Scholar dies, draw two cards.
+2/2

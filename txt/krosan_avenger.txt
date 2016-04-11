@@ -1,0 +1,5 @@
+Krosan Avenger {2}{G}
+Creature — Human Druid
+Trample
+Threshold — {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.
+3/1

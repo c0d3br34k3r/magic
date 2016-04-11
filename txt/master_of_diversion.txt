@@ -1,0 +1,4 @@
+Master of Diversion {2}{W}
+Creature — Human Scout
+Whenever Master of Diversion attacks, tap target creature defending player controls.
+2/2

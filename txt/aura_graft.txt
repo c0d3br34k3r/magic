@@ -1,0 +1,3 @@
+Aura Graft {1}{U}
+Instant
+Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.

@@ -1,0 +1,4 @@
+Insist {G}
+Sorcery
+The next creature spell you cast this turn can't be countered by spells or abilities.
+Draw a card.

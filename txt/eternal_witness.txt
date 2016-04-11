@@ -1,0 +1,4 @@
+Eternal Witness {1}{G}{G}
+Creature — Human Shaman
+When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+2/1

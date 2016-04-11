@@ -1,0 +1,10 @@
+Echo Mage {1}{U}{U}
+Creature — Human Wizard
+Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-3
+2/4
+{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
+LEVEL 4+
+2/5
+{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+2/3

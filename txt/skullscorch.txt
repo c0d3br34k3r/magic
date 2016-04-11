@@ -1,0 +1,3 @@
+Skullscorch {R}{R}
+Sorcery
+Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.

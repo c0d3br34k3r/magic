@@ -1,0 +1,4 @@
+Zombie Boa {4}{B}
+Creature — Zombie Snake
+{1}{B}: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery.
+3/3

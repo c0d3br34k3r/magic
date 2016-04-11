@@ -1,0 +1,6 @@
+Blinding Beam {2}{W}
+Instant
+Choose one —
+• Tap two target creatures.
+• Creatures don't untap during target player's next untap step.
+Entwine {1} (Choose both if you pay the entwine cost.)

@@ -1,0 +1,3 @@
+Volcanic Rush {4}{R}
+Instant
+Attacking creatures get +2/+0 and gain trample until end of turn.

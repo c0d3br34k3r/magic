@@ -1,0 +1,3 @@
+Fabricate {2}{U}
+Sorcery
+Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.

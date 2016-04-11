@@ -1,0 +1,3 @@
+Browbeat {2}{R}
+Sorcery
+Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.

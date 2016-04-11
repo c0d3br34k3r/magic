@@ -1,0 +1,5 @@
+Game-Trail Changeling {3}{G}{G}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+Trample
+4/4

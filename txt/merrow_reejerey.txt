@@ -1,0 +1,5 @@
+Merrow Reejerey {2}{U}
+Creature — Merfolk Soldier
+Other Merfolk creatures you control get +1/+1.
+Whenever you cast a Merfolk spell, you may tap or untap target permanent.
+2/2

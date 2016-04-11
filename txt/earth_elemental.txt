@@ -1,0 +1,3 @@
+Earth Elemental {3}{R}{R}
+Creature — Elemental
+4/5

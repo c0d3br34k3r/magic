@@ -1,0 +1,4 @@
+Rootwater Commando {2}{U}
+Creature — Merfolk
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+2/2

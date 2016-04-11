@@ -1,0 +1,5 @@
+Sage of the Inward Eye {2}{W}{U}{R}
+Creature — Djinn Wizard
+Flying
+Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.
+3/4

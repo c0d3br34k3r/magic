@@ -1,0 +1,3 @@
+Ambush {3}{R}
+Instant
+Blocking creatures gain first strike until end of turn.

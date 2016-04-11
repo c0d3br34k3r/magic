@@ -1,0 +1,6 @@
+Changeling Hero {4}{W}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+4/4

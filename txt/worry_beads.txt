@@ -1,0 +1,3 @@
+Worry Beads {3}
+Artifact
+At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard.

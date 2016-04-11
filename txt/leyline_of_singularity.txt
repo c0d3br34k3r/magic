@@ -1,0 +1,4 @@
+Leyline of Singularity {2}{U}{U}
+Enchantment
+If Leyline of Singularity is in your opening hand, you may begin the game with it on the battlefield.
+All nonland permanents are legendary.

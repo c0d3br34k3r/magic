@@ -1,0 +1,4 @@
+Arashin Cleric {1}{W}
+Creature — Human Cleric
+When Arashin Cleric enters the battlefield, you gain 3 life.
+1/3

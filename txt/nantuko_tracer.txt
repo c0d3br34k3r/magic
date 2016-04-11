@@ -1,0 +1,4 @@
+Nantuko Tracer {1}{G}
+Creature — Insect Druid
+When Nantuko Tracer enters the battlefield, you may put target card from a graveyard on the bottom of its owner's library.
+2/1

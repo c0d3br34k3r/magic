@@ -1,0 +1,4 @@
+Skinrender {2}{B}{B}
+Creature — Zombie
+When Skinrender enters the battlefield, put three -1/-1 counters on target creature.
+3/3

@@ -1,0 +1,4 @@
+Crumbling Necropolis
+Land
+Crumbling Necropolis enters the battlefield tapped.
+{T}: Add {U}, {B}, or {R} to your mana pool.

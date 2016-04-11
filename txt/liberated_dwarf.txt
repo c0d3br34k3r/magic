@@ -1,0 +1,4 @@
+Liberated Dwarf {R}
+Creature — Dwarf
+{R}, Sacrifice Liberated Dwarf: Target green creature gets +1/+0 and gains first strike until end of turn.
+1/1

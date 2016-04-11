@@ -1,0 +1,4 @@
+Tormented Soul {B}
+Creature — Spirit
+Tormented Soul can't block and can't be blocked.
+1/1

@@ -1,0 +1,4 @@
+Beloved Chaplain {1}{W}
+Creature — Human Cleric
+Protection from creatures
+1/1

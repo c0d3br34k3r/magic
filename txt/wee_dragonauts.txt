@@ -1,0 +1,5 @@
+Wee Dragonauts {1}{U}{R}
+Creature — Faerie Wizard
+Flying
+Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.
+1/3

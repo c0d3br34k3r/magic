@@ -1,0 +1,4 @@
+Droning Bureaucrats {3}{W}
+Creature — Human Advisor
+{X}, {T}: Each creature with converted mana cost X can't attack or block this turn.
+1/4

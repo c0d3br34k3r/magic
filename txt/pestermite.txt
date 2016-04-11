@@ -1,0 +1,6 @@
+Pestermite {2}{U}
+Creature — Faerie Rogue
+Flash
+Flying
+When Pestermite enters the battlefield, you may tap or untap target permanent.
+2/1

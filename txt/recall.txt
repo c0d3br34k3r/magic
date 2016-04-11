@@ -1,0 +1,3 @@
+Recall {X}{X}{U}
+Sorcery
+Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.

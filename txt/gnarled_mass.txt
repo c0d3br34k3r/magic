@@ -1,0 +1,3 @@
+Gnarled Mass {1}{G}{G}
+Creature — Spirit
+3/3

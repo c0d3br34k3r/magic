@@ -1,0 +1,6 @@
+Shapeshifter {6}
+Artifact Creature — Shapeshifter
+As Shapeshifter enters the battlefield, choose a number between 0 and 7.
+At the beginning of your upkeep, you may choose a number between 0 and 7.
+Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.
+*/7-*

@@ -1,0 +1,5 @@
+Probe {2}{U}
+Sorcery
+Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+Draw three cards, then discard two cards.
+If Probe was kicked, target player discards two cards.

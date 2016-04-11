@@ -1,0 +1,5 @@
+Shadowmage Infiltrator {1}{U}{B}
+Creature — Human Wizard
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.
+1/3

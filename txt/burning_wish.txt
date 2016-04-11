@@ -1,0 +1,3 @@
+Burning Wish {1}{R}
+Sorcery
+You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.

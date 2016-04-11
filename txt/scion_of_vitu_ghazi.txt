@@ -1,0 +1,4 @@
+Scion of Vitu-Ghazi {3}{W}{W}
+Creature — Elemental
+When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+4/4

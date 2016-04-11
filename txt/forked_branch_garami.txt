@@ -1,0 +1,4 @@
+Forked-Branch Garami {3}{G}{G}
+Creature — Spirit
+Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)
+4/4

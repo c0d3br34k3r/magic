@@ -1,0 +1,4 @@
+Ashes of the Fallen {2}
+Artifact
+As Ashes of the Fallen enters the battlefield, choose a creature type.
+Each creature card in your graveyard has the chosen creature type in addition to its other types.

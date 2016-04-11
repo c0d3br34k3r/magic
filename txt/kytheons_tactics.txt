@@ -1,0 +1,4 @@
+Kytheon's Tactics {1}{W}{W}
+Sorcery
+Creatures you control get +2/+1 until end of turn.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)

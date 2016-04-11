@@ -1,0 +1,5 @@
+Avacyn's Collar {1}
+Artifact — Equipment
+Equipped creature gets +1/+0 and has vigilance.
+Whenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Equip {2}

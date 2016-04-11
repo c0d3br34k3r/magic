@@ -1,0 +1,5 @@
+Managorger Hydra {2}{G}
+Creature — Hydra
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.
+1/1

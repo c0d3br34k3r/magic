@@ -1,0 +1,6 @@
+Vulturous Aven {3}{B}
+Creature — Bird Shaman
+Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Vulturous Aven exploits a creature, you draw two cards and you lose 2 life.
+2/3

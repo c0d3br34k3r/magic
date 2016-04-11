@@ -1,0 +1,5 @@
+Lockjaw Snapper {4}
+Artifact Creature — Scarecrow
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+When Lockjaw Snapper dies, put a -1/-1 counter on each creature with a -1/-1 counter on it.
+2/2

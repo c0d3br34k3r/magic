@@ -1,0 +1,4 @@
+Sphere of the Suns {2}
+Artifact
+Sphere of the Suns enters the battlefield tapped and with three charge counters on it.
+{T}, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.

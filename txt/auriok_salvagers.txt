@@ -1,0 +1,4 @@
+Auriok Salvagers {3}{W}
+Creature — Human Soldier
+{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+2/4

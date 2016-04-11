@@ -1,0 +1,3 @@
+Meteor Blast {X}{R}{R}{R}
+Sorcery
+Meteor Blast deals 4 damage to each of X target creatures and/or players.

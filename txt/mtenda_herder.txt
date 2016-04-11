@@ -1,0 +1,4 @@
+Mtenda Herder {W}
+Creature — Human Scout
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+1/1

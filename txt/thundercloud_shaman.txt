@@ -1,0 +1,4 @@
+Thundercloud Shaman {3}{R}{R}
+Creature — Giant Shaman
+When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.
+4/4

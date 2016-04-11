@@ -1,0 +1,5 @@
+Stamina {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has vigilance.
+Sacrifice Stamina: Regenerate enchanted creature.

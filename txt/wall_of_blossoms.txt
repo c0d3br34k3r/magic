@@ -1,0 +1,5 @@
+Wall of Blossoms {1}{G}
+Creature — Plant Wall
+Defender
+When Wall of Blossoms enters the battlefield, draw a card.
+0/4

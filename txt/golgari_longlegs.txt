@@ -1,0 +1,3 @@
+Golgari Longlegs {3}{B/G}{B/G}
+Creature — Insect
+5/4

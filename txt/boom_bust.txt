@@ -1,0 +1,7 @@
+Boom {1}{R}
+Sorcery
+Destroy target land you control and target land you don't control.
+* SPLIT *
+Bust {5}{R}
+Sorcery
+Destroy all lands.

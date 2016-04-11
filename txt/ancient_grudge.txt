@@ -1,0 +1,4 @@
+Ancient Grudge {1}{R}
+Instant
+Destroy target artifact.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

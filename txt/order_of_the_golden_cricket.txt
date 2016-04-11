@@ -1,0 +1,4 @@
+Order of the Golden Cricket {1}{W}
+Creature — Kithkin Knight
+Whenever Order of the Golden Cricket attacks, you may pay {W}. If you do, it gains flying until end of turn.
+2/2

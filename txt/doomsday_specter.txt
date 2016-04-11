@@ -1,0 +1,6 @@
+Doomsday Specter {2}{U}{B}
+Creature — Specter
+Flying
+When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.
+Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.
+2/3

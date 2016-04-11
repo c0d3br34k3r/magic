@@ -1,0 +1,5 @@
+Rhox Faithmender {3}{W}
+Creature — Rhino Monk
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+If you would gain life, you gain twice that much life instead.
+1/5

@@ -1,0 +1,4 @@
+Ogre Recluse {3}{R}
+Creature — Ogre Warrior
+Whenever a player casts a spell, tap Ogre Recluse.
+5/4

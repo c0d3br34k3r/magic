@@ -1,0 +1,5 @@
+Terra Stomper {3}{G}{G}{G}
+Creature — Beast
+Terra Stomper can't be countered.
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+8/8

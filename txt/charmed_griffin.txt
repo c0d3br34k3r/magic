@@ -1,0 +1,5 @@
+Charmed Griffin {3}{W}
+Creature — Griffin
+Flying
+When Charmed Griffin enters the battlefield, each other player may put an artifact or enchantment card onto the battlefield from his or her hand.
+3/3

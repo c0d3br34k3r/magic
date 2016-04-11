@@ -1,0 +1,10 @@
+Transcendent Master {1}{W}{W}
+Creature — Human Cleric Avatar
+Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 6-11
+6/6
+Lifelink
+LEVEL 12+
+9/9
+Lifelink, indestructible
+3/3

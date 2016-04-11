@@ -1,0 +1,4 @@
+Silent Departure {U}
+Sorcery
+Return target creature to its owner's hand.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

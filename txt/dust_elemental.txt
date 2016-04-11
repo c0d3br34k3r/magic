@@ -1,0 +1,6 @@
+Dust Elemental {2}{W}{W}
+Creature — Elemental
+Flash (You may cast this spell any time you could cast an instant.)
+Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Dust Elemental enters the battlefield, return three creatures you control to their owner's hand.
+6/6

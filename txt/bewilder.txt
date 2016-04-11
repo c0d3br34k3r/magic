@@ -1,0 +1,4 @@
+Bewilder {2}{U}
+Instant
+Target creature gets -3/-0 until end of turn.
+Draw a card.

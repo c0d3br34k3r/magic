@@ -1,0 +1,5 @@
+Falkenrath Noble {3}{B}
+Creature — Vampire
+Flying
+Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.
+2/2

@@ -1,0 +1,4 @@
+Adamaro, First to Desire {1}{R}{R}
+Legendary Creature — Spirit
+Adamaro, First to Desire's power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.
+*/*

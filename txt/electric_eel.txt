@@ -1,0 +1,5 @@
+Electric Eel {U}
+Creature — Fish
+When Electric Eel enters the battlefield, it deals 1 damage to you.
+{R}{R}: Electric Eel gets +2/+0 until end of turn and deals 1 damage to you.
+1/1

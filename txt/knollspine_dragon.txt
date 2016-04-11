@@ -1,0 +1,5 @@
+Knollspine Dragon {5}{R}{R}
+Creature — Dragon
+Flying
+When Knollspine Dragon enters the battlefield, you may discard your hand and draw cards equal to the damage dealt to target opponent this turn.
+7/5

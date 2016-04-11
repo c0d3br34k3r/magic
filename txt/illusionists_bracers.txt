@@ -1,0 +1,4 @@
+Illusionist's Bracers {2}
+Artifact — Equipment
+Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.
+Equip {3}

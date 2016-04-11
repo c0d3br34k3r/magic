@@ -1,0 +1,4 @@
+Tree of Tales
+Artifact Land
+(Tree of Tales isn't a spell.)
+{T}: Add {G} to your mana pool.

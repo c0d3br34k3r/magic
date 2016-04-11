@@ -1,0 +1,3 @@
+Restore the Peace {1}{W}{U}
+Instant
+Return each creature that dealt damage this turn to its owner's hand.

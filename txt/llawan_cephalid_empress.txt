@@ -1,0 +1,5 @@
+Llawan, Cephalid Empress {3}{U}
+Legendary Creature — Cephalid
+When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.
+Your opponents can't cast blue creature spells.
+2/3

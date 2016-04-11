@@ -1,0 +1,4 @@
+Mycosynth Fiend {2}{G}
+Creature — Horror
+Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.
+2/2

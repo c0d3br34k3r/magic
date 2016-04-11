@@ -1,0 +1,4 @@
+Æther Adept {1}{U}{U}
+Creature — Human Wizard
+When Æther Adept enters the battlefield, return target creature to its owner's hand.
+2/2

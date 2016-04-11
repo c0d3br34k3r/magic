@@ -1,0 +1,6 @@
+Whip Vine {2}{G}
+Creature — Plant Wall
+Defender; reach (This creature can block creatures with flying.)
+You may choose not to untap Whip Vine during your untap step.
+{T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.
+1/4

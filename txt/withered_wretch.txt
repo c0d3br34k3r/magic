@@ -1,0 +1,4 @@
+Withered Wretch {B}{B}
+Creature — Zombie Cleric
+{1}: Exile target card from a graveyard.
+2/2

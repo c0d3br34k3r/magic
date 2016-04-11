@@ -1,0 +1,5 @@
+Bogardan Rager {5}{R}
+Creature — Elemental
+Flash (You may cast this spell any time you could cast an instant.)
+When Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn.
+3/4

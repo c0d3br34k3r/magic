@@ -1,0 +1,5 @@
+Karoo
+Land
+Karoo enters the battlefield tapped.
+When Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.
+{T}: Add {C}{W} to your mana pool.

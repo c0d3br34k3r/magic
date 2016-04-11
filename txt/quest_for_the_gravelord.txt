@@ -1,0 +1,4 @@
+Quest for the Gravelord {B}
+Enchantment
+Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.
+Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.

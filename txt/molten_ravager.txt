@@ -1,0 +1,4 @@
+Molten Ravager {2}{R}
+Creature — Elemental
+{R}: Molten Ravager gets +1/+0 until end of turn.
+0/4

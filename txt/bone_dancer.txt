@@ -1,0 +1,4 @@
+Bone Dancer {1}{B}{B}
+Creature — Zombie
+Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.
+2/2

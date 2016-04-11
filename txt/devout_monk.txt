@@ -1,0 +1,4 @@
+Devout Monk {W}
+Creature — Human Monk Cleric
+When Devout Monk enters the battlefield, you gain 1 life.
+1/1

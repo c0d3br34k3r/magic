@@ -1,0 +1,6 @@
+Manor Gargoyle {5}
+Artifact Creature — Gargoyle
+Defender
+Manor Gargoyle has indestructible as long as it has defender.
+{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.
+4/4

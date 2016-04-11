@@ -1,0 +1,3 @@
+Screams of the Damned {3}{B}{B}
+Enchantment
+{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.

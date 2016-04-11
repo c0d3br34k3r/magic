@@ -1,0 +1,4 @@
+Goblin Digging Team {R}
+Creature — Goblin
+{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+1/1

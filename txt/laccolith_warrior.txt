@@ -1,0 +1,4 @@
+Laccolith Warrior {2}{R}{R}
+Creature — Beast Warrior
+Whenever Laccolith Warrior becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Warrior assigns no combat damage this turn.
+3/3

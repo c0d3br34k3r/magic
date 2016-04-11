@@ -1,0 +1,4 @@
+Phyrexia's Core
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}, Sacrifice an artifact: You gain 1 life.

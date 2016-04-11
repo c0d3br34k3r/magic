@@ -1,0 +1,4 @@
+Seeker {2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked except by artifact creatures and/or white creatures.

@@ -1,0 +1,9 @@
+Profit {1}{W}
+Instant
+Creatures you control get +1/+1 until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Loss {2}{B}
+Instant
+Creatures your opponents control get -1/-1 until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)

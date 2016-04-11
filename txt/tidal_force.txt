@@ -1,0 +1,4 @@
+Tidal Force {5}{U}{U}{U}
+Creature — Elemental
+At the beginning of each upkeep, you may tap or untap target permanent.
+7/7

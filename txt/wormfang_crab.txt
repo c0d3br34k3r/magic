@@ -1,0 +1,6 @@
+Wormfang Crab {3}{U}
+Creature — Nightmare Crab
+Wormfang Crab can't be blocked.
+When Wormfang Crab enters the battlefield, an opponent chooses a permanent you control other than Wormfang Crab and exiles it.
+When Wormfang Crab leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+3/6

@@ -1,0 +1,4 @@
+Ogre Arsonist {4}{R}
+Creature — Ogre
+When Ogre Arsonist enters the battlefield, destroy target land.
+3/3

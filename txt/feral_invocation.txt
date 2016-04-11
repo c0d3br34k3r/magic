@@ -1,0 +1,5 @@
+Feral Invocation {2}{G}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +2/+2.

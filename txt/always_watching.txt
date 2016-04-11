@@ -1,0 +1,3 @@
+Always Watching {1}{W}{W}
+Enchantment
+Nontoken creatures you control get +1/+1 and have vigilance.

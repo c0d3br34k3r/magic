@@ -1,0 +1,5 @@
+Lionheart Maverick {W}
+Creature — Human Knight
+Vigilance
+{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.
+1/1

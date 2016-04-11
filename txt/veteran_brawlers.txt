@@ -1,0 +1,5 @@
+Veteran Brawlers {1}{R}
+Creature — Human Soldier
+Veteran Brawlers can't attack if defending player controls an untapped land.
+Veteran Brawlers can't block if you control an untapped land.
+4/4

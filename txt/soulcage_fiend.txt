@@ -1,0 +1,4 @@
+Soulcage Fiend {1}{B}{B}
+Creature — Demon
+When Soulcage Fiend dies, each player loses 3 life.
+3/2

@@ -1,0 +1,4 @@
+Robe of Mirrors {U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)

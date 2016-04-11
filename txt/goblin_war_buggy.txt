@@ -1,0 +1,5 @@
+Goblin War Buggy {1}{R}
+Creature — Goblin
+Haste
+Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+2/2

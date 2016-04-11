@@ -1,0 +1,4 @@
+Scryb Sprites {G}
+Creature — Faerie
+Flying
+1/1

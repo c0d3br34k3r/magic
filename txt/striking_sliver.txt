@@ -1,0 +1,4 @@
+Striking Sliver {R}
+Creature — Sliver
+Sliver creatures you control have first strike. (They deal combat damage before creatures without first strike.)
+1/1

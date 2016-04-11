@@ -1,0 +1,3 @@
+Advent of the Wurm {1}{W}{G}{G}
+Instant
+Put a 5/5 green Wurm creature token with trample onto the battlefield.

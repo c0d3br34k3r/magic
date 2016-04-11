@@ -1,0 +1,5 @@
+Thrummingbird {1}{U}
+Creature — Bird Horror
+Flying
+Whenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+1/1

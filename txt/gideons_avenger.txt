@@ -1,0 +1,4 @@
+Gideon's Avenger {1}{W}{W}
+Creature — Human Soldier
+Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on Gideon's Avenger.
+2/2

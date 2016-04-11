@@ -1,0 +1,4 @@
+Drowned Rusalka {U}
+Creature — Spirit
+{U}, Sacrifice a creature: Discard a card, then draw a card.
+1/1

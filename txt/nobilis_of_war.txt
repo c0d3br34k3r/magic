@@ -1,0 +1,5 @@
+Nobilis of War {R/W}{R/W}{R/W}{R/W}{R/W}
+Creature — Spirit Avatar
+Flying
+Attacking creatures you control get +2/+0.
+3/4

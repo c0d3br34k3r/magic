@@ -1,0 +1,4 @@
+Steady Progress {2}{U}
+Instant
+Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Draw a card.

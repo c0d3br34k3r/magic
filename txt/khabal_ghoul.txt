@@ -1,0 +1,4 @@
+Khabál Ghoul {2}{B}
+Creature — Zombie
+At the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.
+1/1

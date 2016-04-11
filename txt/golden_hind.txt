@@ -1,0 +1,4 @@
+Golden Hind {1}{G}
+Creature — Elk
+{T}: Add {G} to your mana pool.
+2/1

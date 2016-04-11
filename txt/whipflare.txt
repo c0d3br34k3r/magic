@@ -1,0 +1,3 @@
+Whipflare {1}{R}
+Sorcery
+Whipflare deals 2 damage to each nonartifact creature.

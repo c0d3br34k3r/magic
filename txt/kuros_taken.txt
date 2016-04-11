@@ -1,0 +1,5 @@
+Kuro's Taken {1}{B}
+Creature — Rat Samurai
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{1}{B}: Regenerate Kuro's Taken.
+1/1

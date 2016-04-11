@@ -1,0 +1,4 @@
+Vodalian Zombie {U}{B}
+Creature — Merfolk Zombie
+Protection from green
+2/2

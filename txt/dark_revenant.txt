@@ -1,0 +1,5 @@
+Dark Revenant {3}{B}
+Creature — Spirit
+Flying
+When Dark Revenant dies, put it on top of its owner's library.
+2/2

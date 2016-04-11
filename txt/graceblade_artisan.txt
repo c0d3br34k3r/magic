@@ -1,0 +1,4 @@
+Graceblade Artisan {2}{W}
+Creature — Human Monk
+Graceblade Artisan gets +2/+2 for each Aura attached to it.
+2/3

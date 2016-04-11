@@ -1,0 +1,3 @@
+Spiritual Focus {1}{W}
+Enchantment
+Whenever a spell or ability an opponent controls causes you to discard a card, you gain 2 life and you may draw a card.

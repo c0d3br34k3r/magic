@@ -1,0 +1,6 @@
+Putrid Warrior {W}{B}
+Creature — Zombie Soldier Warrior
+Whenever Putrid Warrior deals damage, choose one —
+• Each player loses 1 life.
+• Each player gains 1 life.
+2/2

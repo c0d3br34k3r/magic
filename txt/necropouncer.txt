@@ -1,0 +1,5 @@
+Necropouncer {6}
+Artifact — Equipment
+Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +3/+1 and has haste.
+Equip {2}

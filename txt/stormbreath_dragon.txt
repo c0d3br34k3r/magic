@@ -1,0 +1,6 @@
+Stormbreath Dragon {3}{R}{R}
+Creature — Dragon
+Flying, haste, protection from white
+{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.
+4/4

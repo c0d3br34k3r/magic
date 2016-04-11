@@ -1,0 +1,4 @@
+Arcbound Wanderer {6}
+Artifact Creature — Golem
+Modular—Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+0/0

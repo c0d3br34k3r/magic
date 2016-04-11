@@ -1,0 +1,5 @@
+Harbor Guardian {2}{W}{U}
+Creature — Gargoyle
+Reach (This creature can block creatures with flying.)
+Whenever Harbor Guardian attacks, defending player may draw a card.
+3/4

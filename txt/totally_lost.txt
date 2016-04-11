@@ -1,0 +1,3 @@
+Totally Lost {4}{U}
+Instant
+Put target nonland permanent on top of its owner's library.

@@ -1,0 +1,4 @@
+Dwynen's Elite {1}{G}
+Creature — Elf Warrior
+When Dwynen's Elite enters the battlefield, if you control another Elf, put a 1/1 green Elf Warrior creature token onto the battlefield.
+2/2

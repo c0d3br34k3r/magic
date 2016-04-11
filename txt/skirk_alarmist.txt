@@ -1,0 +1,5 @@
+Skirk Alarmist {1}{R}
+Creature — Human Wizard
+Haste
+{T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.
+1/2

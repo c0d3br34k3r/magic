@@ -1,0 +1,3 @@
+Devilthorn Fox {1}{W}
+Creature — Fox
+3/1

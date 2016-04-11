@@ -1,0 +1,6 @@
+Chromanticore {W}{U}{B}{R}{G}
+Enchantment Creature — Manticore
+Bestow {2}{W}{U}{B}{R}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Flying, first strike, vigilance, trample, lifelink
+Enchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink.
+4/4

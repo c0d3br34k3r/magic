@@ -1,0 +1,4 @@
+Bound in Silence {2}{W}
+Tribal Enchantment — Rebel Aura
+Enchant creature
+Enchanted creature can't attack or block.

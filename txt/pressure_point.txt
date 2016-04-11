@@ -1,0 +1,4 @@
+Pressure Point {1}{W}
+Instant
+Tap target creature.
+Draw a card.

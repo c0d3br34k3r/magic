@@ -1,0 +1,5 @@
+Nimble Mongoose {G}
+Creature — Mongoose
+Shroud (This creature can't be the target of spells or abilities.)
+Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
+1/1

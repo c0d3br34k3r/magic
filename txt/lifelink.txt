@@ -1,0 +1,4 @@
+Lifelink {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)

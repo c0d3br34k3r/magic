@@ -1,0 +1,3 @@
+Sway of the Stars {8}{U}{U}
+Sorcery
+Each player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.

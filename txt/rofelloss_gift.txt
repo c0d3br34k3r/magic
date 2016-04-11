@@ -1,0 +1,3 @@
+Rofellos's Gift {G}
+Sorcery
+Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.

@@ -1,0 +1,4 @@
+Sire of Insanity {4}{B}{R}
+Creature — Demon
+At the beginning of each end step, each player discards his or her hand.
+6/4

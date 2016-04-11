@@ -1,0 +1,4 @@
+Guard Duty {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has defender.

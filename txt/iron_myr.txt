@@ -1,0 +1,4 @@
+Iron Myr {2}
+Artifact Creature — Myr
+{T}: Add {R} to your mana pool.
+1/1

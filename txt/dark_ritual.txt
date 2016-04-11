@@ -1,0 +1,3 @@
+Dark Ritual {B}
+Instant
+Add {B}{B}{B} to your mana pool.

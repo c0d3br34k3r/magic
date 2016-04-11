@@ -1,0 +1,5 @@
+Barrage Tyrant {4}{R}
+Creature — Eldrazi
+Devoid (This card has no color.)
+{2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to target creature or player.
+5/3

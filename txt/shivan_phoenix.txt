@@ -1,0 +1,5 @@
+Shivan Phoenix {4}{R}{R}
+Creature — Phoenix
+Flying
+When Shivan Phoenix dies, return Shivan Phoenix to its owner's hand.
+3/4

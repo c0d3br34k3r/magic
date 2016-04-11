@@ -1,0 +1,4 @@
+Sunspire Gatekeepers {3}{W}
+Creature — Human Soldier
+When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.
+2/4

@@ -1,0 +1,5 @@
+Forbidding Watchtower
+Land
+Forbidding Watchtower enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.

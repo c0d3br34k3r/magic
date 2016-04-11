@@ -1,0 +1,3 @@
+Conjurer's Bauble {1}
+Artifact
+{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.

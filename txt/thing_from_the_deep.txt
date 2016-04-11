@@ -1,0 +1,4 @@
+Thing from the Deep {6}{U}{U}{U}
+Creature — Leviathan
+Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.
+9/9

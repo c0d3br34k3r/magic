@@ -1,0 +1,5 @@
+Dirtwater Wraith {3}{B}
+Creature — Wraith
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+{B}: Dirtwater Wraith gets +1/+0 until end of turn.
+1/3

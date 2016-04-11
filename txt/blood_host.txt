@@ -1,0 +1,4 @@
+Blood Host {3}{B}{B}
+Creature — Vampire
+{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life.
+3/3

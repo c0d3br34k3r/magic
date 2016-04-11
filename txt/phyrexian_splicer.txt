@@ -1,0 +1,3 @@
+Phyrexian Splicer {2}
+Artifact
+{2}, {T}, Choose flying, first strike, trample, or shadow: Until end of turn, target creature with the chosen ability loses it and another target creature gains it.

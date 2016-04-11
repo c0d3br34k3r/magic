@@ -1,0 +1,4 @@
+Leyline Phantom {4}{U}
+Creature — Illusion
+When Leyline Phantom deals combat damage, return it to its owner's hand. (Return it only if it survived combat.)
+5/5

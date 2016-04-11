@@ -1,0 +1,3 @@
+Azorius Signet {2}
+Artifact
+{1}, {T}: Add {W}{U} to your mana pool.

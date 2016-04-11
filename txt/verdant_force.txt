@@ -1,0 +1,4 @@
+Verdant Force {5}{G}{G}{G}
+Creature — Elemental
+At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.
+7/7

@@ -1,0 +1,4 @@
+War Priest of Thune {1}{W}
+Creature — Human Cleric
+When War Priest of Thune enters the battlefield, you may destroy target enchantment.
+2/2

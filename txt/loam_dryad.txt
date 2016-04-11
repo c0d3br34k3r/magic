@@ -1,0 +1,4 @@
+Loam Dryad {G}
+Creature — Dryad Horror
+{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.
+1/2

@@ -1,0 +1,4 @@
+Rootwater Diver {U}
+Creature — Merfolk
+{T}, Sacrifice Rootwater Diver: Return target artifact card from your graveyard to your hand.
+1/1

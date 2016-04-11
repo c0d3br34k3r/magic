@@ -1,0 +1,4 @@
+Honor-Worn Shaku {3}
+Artifact
+{T}: Add {C} to your mana pool.
+Tap an untapped legendary permanent you control: Untap Honor-Worn Shaku.

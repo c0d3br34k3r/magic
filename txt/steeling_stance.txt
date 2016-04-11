@@ -1,0 +1,4 @@
+Steeling Stance {1}{W}{W}
+Instant
+Creatures you control get +1/+1 until end of turn.
+Forecast — {W}, Reveal Steeling Stance from your hand: Target creature gets +1/+1 until end of turn. (Activate this ability only during your upkeep and only once each turn.)

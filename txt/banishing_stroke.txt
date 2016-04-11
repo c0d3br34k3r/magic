@@ -1,0 +1,4 @@
+Banishing Stroke {5}{W}
+Instant
+Put target artifact, creature, or enchantment on the bottom of its owner's library.
+Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)

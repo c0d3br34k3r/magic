@@ -1,0 +1,3 @@
+Font of Ire {1}{R}
+Enchantment
+{3}{R}, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.

@@ -1,0 +1,4 @@
+Skulking Fugitive {2}{B}
+Creature — Horror Mercenary
+When Skulking Fugitive becomes the target of a spell or ability, sacrifice it.
+3/4

@@ -1,0 +1,4 @@
+Pride of Lions {3}{G}{G}
+Creature — Cat
+You may have Pride of Lions assign its combat damage as though it weren't blocked.
+4/4

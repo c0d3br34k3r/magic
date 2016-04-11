@@ -1,0 +1,3 @@
+Flame Rift {1}{R}
+Sorcery
+Flame Rift deals 4 damage to each player.

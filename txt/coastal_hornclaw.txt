@@ -1,0 +1,4 @@
+Coastal Hornclaw {4}{U}
+Creature — Bird
+Sacrifice a land: Coastal Hornclaw gains flying until end of turn.
+3/3

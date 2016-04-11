@@ -1,0 +1,5 @@
+Nightshade Stinger {B}
+Creature — Faerie Rogue
+Flying
+Nightshade Stinger can't block.
+1/1

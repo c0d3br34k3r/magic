@@ -1,0 +1,4 @@
+Cunning Giant {5}{R}
+Creature — Giant
+If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.
+4/4

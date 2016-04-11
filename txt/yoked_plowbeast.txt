@@ -1,0 +1,4 @@
+Yoked Plowbeast {5}{W}{W}
+Creature — Beast
+Cycling {2} ({2}, Discard this card: Draw a card.)
+5/5

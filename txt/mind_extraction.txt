@@ -1,0 +1,4 @@
+Mind Extraction {2}{B}
+Sorcery
+As an additional cost to cast Mind Extraction, sacrifice a creature.
+Target player reveals his or her hand and discards all cards of each of the sacrificed creature's colors.

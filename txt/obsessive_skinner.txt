@@ -1,0 +1,5 @@
+Obsessive Skinner {1}{G}
+Creature — Human Rogue
+When Obsessive Skinner enters the battlefield, put a +1/+1 counter on target creature.
+Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, put a +1/+1 counter on target creature.
+1/1

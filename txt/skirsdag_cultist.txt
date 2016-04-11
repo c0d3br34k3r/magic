@@ -1,0 +1,4 @@
+Skirsdag Cultist {2}{R}{R}
+Creature — Human Shaman
+{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.
+2/2

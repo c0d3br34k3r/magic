@@ -1,0 +1,4 @@
+Mannichi, the Fevered Dream {2}{R}
+Legendary Creature — Spirit
+{1}{R}: Switch each creature's power and toughness until end of turn.
+1/2

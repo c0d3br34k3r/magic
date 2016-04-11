@@ -1,0 +1,4 @@
+Loam Larva {1}{G}
+Creature — Insect
+When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.
+1/3

@@ -1,0 +1,6 @@
+Darigaaz's Charm {B}{R}{G}
+Instant
+Choose one —
+• Return target creature card from your graveyard to your hand.
+• Darigaaz's Charm deals 3 damage to target creature or player.
+• Target creature gets +3/+3 until end of turn.

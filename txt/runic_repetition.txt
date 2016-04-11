@@ -1,0 +1,3 @@
+Runic Repetition {2}{U}
+Sorcery
+Return target exiled card with flashback you own to your hand.

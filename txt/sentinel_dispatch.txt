@@ -1,0 +1,4 @@
+Sentinel Dispatch
+Conspiracy
+(Start the game with this conspiracy face up in the command zone.)
+At the beginning of the first upkeep, put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.

@@ -1,0 +1,4 @@
+Opportunist {2}{R}
+Creature — Human Soldier
+{T}: Opportunist deals 1 damage to target creature that was dealt damage this turn.
+2/2

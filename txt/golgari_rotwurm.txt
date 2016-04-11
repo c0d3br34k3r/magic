@@ -1,0 +1,4 @@
+Golgari Rotwurm {3}{B}{G}
+Creature — Zombie Wurm
+{B}, Sacrifice a creature: Target player loses 1 life.
+5/4

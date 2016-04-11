@@ -1,0 +1,3 @@
+Mox Jet {0}
+Artifact
+{T}: Add {B} to your mana pool.

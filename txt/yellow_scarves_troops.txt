@@ -1,0 +1,4 @@
+Yellow Scarves Troops {1}{R}
+Creature — Human Soldier
+Yellow Scarves Troops can't block.
+2/2

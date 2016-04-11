@@ -1,0 +1,5 @@
+Major Teroh {3}{W}
+Legendary Creature — Bird Soldier
+Flying
+{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.
+2/3

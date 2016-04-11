@@ -1,0 +1,4 @@
+Icefall {2}{R}{R}
+Sorcery
+Destroy target artifact or land.
+Recover {R}{R} (When a creature is put into your graveyard from the battlefield, you may pay {R}{R}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)

@@ -1,0 +1,5 @@
+Mind Raker {3}{B}
+Creature — Eldrazi Processor
+Devoid (This card has no color.)
+When Mind Raker enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card.
+3/3

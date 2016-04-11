@@ -1,0 +1,4 @@
+Reveka, Wizard Savant {2}{U}{U}
+Legendary Creature — Dwarf Wizard
+{T}: Reveka, Wizard Savant deals 2 damage to target creature or player and doesn't untap during your next untap step.
+0/1

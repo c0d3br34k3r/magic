@@ -1,0 +1,5 @@
+Wall of Distortion {2}{B}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+1/3

@@ -1,0 +1,4 @@
+Dross Hopper {1}{B}
+Creature — Insect Horror
+Sacrifice a creature: Dross Hopper gains flying until end of turn.
+2/1

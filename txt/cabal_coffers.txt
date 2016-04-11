@@ -1,0 +1,3 @@
+Cabal Coffers
+Land
+{2}, {T}: Add {B} to your mana pool for each Swamp you control.

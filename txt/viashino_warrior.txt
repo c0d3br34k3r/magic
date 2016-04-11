@@ -1,0 +1,3 @@
+Viashino Warrior {3}{R}
+Creature — Viashino Warrior
+4/2

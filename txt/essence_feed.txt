@@ -1,0 +1,3 @@
+Essence Feed {5}{B}
+Sorcery
+Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."

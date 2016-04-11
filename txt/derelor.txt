@@ -1,0 +1,4 @@
+Derelor {3}{B}
+Creature — Thrull
+Black spells you cast cost {B} more to cast.
+4/4

@@ -1,0 +1,4 @@
+Flowstone Embrace {1}{R}
+Enchantment — Aura
+Enchant creature
+{T}: Enchanted creature gets +2/-2 until end of turn.

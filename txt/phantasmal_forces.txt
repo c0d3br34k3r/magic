@@ -1,0 +1,5 @@
+Phantasmal Forces {3}{U}
+Creature — Illusion
+Flying
+At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+4/1

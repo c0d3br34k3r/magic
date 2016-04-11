@@ -1,0 +1,5 @@
+Tideforce Elemental {2}{U}
+Creature — Elemental
+{U}, {T}: You may tap or untap another target creature.
+Landfall — Whenever a land enters the battlefield under your control, you may untap Tideforce Elemental.
+2/1

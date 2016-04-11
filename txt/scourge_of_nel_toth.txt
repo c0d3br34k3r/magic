@@ -1,0 +1,5 @@
+Scourge of Nel Toth {5}{B}{B}
+Creature — Zombie Dragon
+Flying
+You may cast Scourge of Nel Toth from your graveyard by paying {B}{B} and sacrificing two creatures rather than paying its mana cost.
+6/6

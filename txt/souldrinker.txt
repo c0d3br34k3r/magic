@@ -1,0 +1,4 @@
+Souldrinker {3}{B}
+Creature — Spirit
+Pay 3 life: Put a +1/+1 counter on Souldrinker.
+2/2

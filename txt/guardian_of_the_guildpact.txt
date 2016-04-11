@@ -1,0 +1,4 @@
+Guardian of the Guildpact {3}{W}
+Creature — Spirit
+Protection from monocolored
+2/3

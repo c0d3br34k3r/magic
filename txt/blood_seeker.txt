@@ -1,0 +1,4 @@
+Blood Seeker {1}{B}
+Creature — Vampire Shaman
+Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+1/1

@@ -1,0 +1,4 @@
+Lurker {2}{G}
+Creature — Beast
+Lurker can't be the target of spells unless it attacked or blocked this turn.
+2/3

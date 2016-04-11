@@ -1,0 +1,6 @@
+Draining Whelk {4}{U}{U}
+Creature — Illusion
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Draining Whelk enters the battlefield, counter target spell. Put X +1/+1 counters on Draining Whelk, where X is that spell's converted mana cost.
+1/1

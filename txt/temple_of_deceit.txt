@@ -1,0 +1,5 @@
+Temple of Deceit
+Land
+Temple of Deceit enters the battlefield tapped.
+When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {U} or {B} to your mana pool.

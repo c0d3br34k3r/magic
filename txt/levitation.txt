@@ -1,0 +1,3 @@
+Levitation {2}{U}{U}
+Enchantment
+Creatures you control have flying.

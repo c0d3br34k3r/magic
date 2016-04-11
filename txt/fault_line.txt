@@ -1,0 +1,3 @@
+Fault Line {X}{R}{R}
+Instant
+Fault Line deals X damage to each creature without flying and each player.

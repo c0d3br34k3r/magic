@@ -1,0 +1,5 @@
+Dragon Egg {2}{R}
+Creature — Dragon
+Defender (This creature can't attack.)
+When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has "{R}: This creature gets +1/+0 until end of turn."
+0/2

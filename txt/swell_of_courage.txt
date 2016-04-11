@@ -1,0 +1,4 @@
+Swell of Courage {3}{W}{W}
+Instant
+Creatures you control get +2/+2 until end of turn.
+Reinforce X—{X}{W}{W} ({X}{W}{W}, Discard this card: Put X +1/+1 counters on target creature.)

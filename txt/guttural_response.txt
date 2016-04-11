@@ -1,0 +1,3 @@
+Guttural Response {R/G}
+Instant
+Counter target blue instant spell.

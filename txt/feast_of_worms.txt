@@ -1,0 +1,3 @@
+Feast of Worms {3}{G}{G}
+Sorcery — Arcane
+Destroy target land. If that land was legendary, its controller sacrifices another land.

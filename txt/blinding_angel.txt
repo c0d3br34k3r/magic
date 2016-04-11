@@ -1,0 +1,5 @@
+Blinding Angel {3}{W}{W}
+Creature — Angel
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Blinding Angel deals combat damage to a player, that player skips his or her next combat phase.
+2/4

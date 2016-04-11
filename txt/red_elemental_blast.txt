@@ -1,0 +1,5 @@
+Red Elemental Blast {R}
+Instant
+Choose one —
+• Counter target blue spell.
+• Destroy target blue permanent.

@@ -1,0 +1,5 @@
+Preeminent Captain {2}{W}
+Creature — Kithkin Soldier
+First strike (This creature deals combat damage before creatures without first strike.)
+Whenever Preeminent Captain attacks, you may put a Soldier creature card from your hand onto the battlefield tapped and attacking.
+2/2

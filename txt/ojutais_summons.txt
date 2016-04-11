@@ -1,0 +1,4 @@
+Ojutai's Summons {3}{U}{U}
+Sorcery
+Put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)

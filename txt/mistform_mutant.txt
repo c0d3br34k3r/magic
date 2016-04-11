@@ -1,0 +1,4 @@
+Mistform Mutant {4}{U}{U}
+Creature — Illusion Mutant
+{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.
+3/4

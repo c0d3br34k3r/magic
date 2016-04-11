@@ -1,0 +1,4 @@
+Mistform Ultimus {3}{U}
+Legendary Creature — Illusion
+Mistform Ultimus is every creature type (even if this card isn't on the battlefield).
+3/3

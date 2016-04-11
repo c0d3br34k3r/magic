@@ -1,0 +1,5 @@
+Shadow of Doubt {U/B}{U/B}
+Instant
+({U/B} can be paid with either {U} or {B}.)
+Players can't search libraries this turn.
+Draw a card.

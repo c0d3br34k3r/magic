@@ -1,0 +1,5 @@
+Boggart Loggers {2}{B}
+Creature — Goblin Rogue
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+{2}{B}, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest.
+2/1

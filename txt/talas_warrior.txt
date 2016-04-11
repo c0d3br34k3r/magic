@@ -1,0 +1,4 @@
+Talas Warrior {1}{U}{U}
+Creature — Human Pirate Warrior
+Talas Warrior can't be blocked.
+2/2

@@ -1,0 +1,4 @@
+Daru Spiritualist {1}{W}
+Creature — Human Cleric
+Whenever a Cleric creature you control becomes the target of a spell or ability, it gets +0/+2 until end of turn.
+1/1

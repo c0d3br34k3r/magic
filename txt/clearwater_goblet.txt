@@ -1,0 +1,4 @@
+Clearwater Goblet {5}
+Artifact
+Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+At the beginning of your upkeep, you may gain life equal to the number of charge counters on Clearwater Goblet.

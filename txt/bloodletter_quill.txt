@@ -1,0 +1,4 @@
+Bloodletter Quill {3}
+Artifact
+{2}, {T}, Put a blood counter on Bloodletter Quill: Draw a card, then you lose 1 life for each blood counter on Bloodletter Quill.
+{U}{B}: Remove a blood counter from Bloodletter Quill.

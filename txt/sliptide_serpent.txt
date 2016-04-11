@@ -1,0 +1,4 @@
+Sliptide Serpent {4}{U}{U}
+Creature — Serpent
+{3}{U}: Return Sliptide Serpent to its owner's hand.
+4/4

@@ -1,0 +1,4 @@
+Khalni Gem {4}
+Artifact
+When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.
+{T}: Add two mana of any one color to your mana pool.

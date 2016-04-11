@@ -1,0 +1,4 @@
+Vectis Dominator {1}{W}{B}
+Artifact Creature — Human Wizard
+{T}: Tap target creature unless its controller pays 2 life.
+0/2

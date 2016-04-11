@@ -1,0 +1,3 @@
+Caltrops {3}
+Artifact
+Whenever a creature attacks, Caltrops deals 1 damage to it.

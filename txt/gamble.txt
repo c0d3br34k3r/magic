@@ -1,0 +1,3 @@
+Gamble {R}
+Sorcery
+Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.

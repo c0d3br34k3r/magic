@@ -1,0 +1,6 @@
+Lord Magnus {3}{W}{W}{G}
+Legendary Creature — Human Druid
+First strike
+Creatures with plainswalk can be blocked as though they didn't have plainswalk.
+Creatures with forestwalk can be blocked as though they didn't have forestwalk.
+4/3

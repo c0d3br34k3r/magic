@@ -1,0 +1,5 @@
+Vestige of Emrakul {3}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Trample
+3/4

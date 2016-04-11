@@ -1,0 +1,5 @@
+Scabland
+Land
+Scabland enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.

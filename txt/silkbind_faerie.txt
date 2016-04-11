@@ -1,0 +1,5 @@
+Silkbind Faerie {2}{W/U}
+Creature — Faerie Rogue
+Flying
+{1}{W/U}, {Q}: Tap target creature. ({Q} is the untap symbol.)
+1/3

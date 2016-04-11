@@ -1,0 +1,5 @@
+Ember Swallower {2}{R}{R}
+Creature — Elemental
+{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Ember Swallower becomes monstrous, each player sacrifices three lands.
+4/5

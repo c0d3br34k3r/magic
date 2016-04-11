@@ -1,0 +1,4 @@
+Cinder Marsh
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.

@@ -1,0 +1,4 @@
+Pact of the Titan {0}
+(R) Instant
+Put a 4/4 red Giant creature token onto the battlefield.
+At the beginning of your next upkeep, pay {4}{R}. If you don't, you lose the game.

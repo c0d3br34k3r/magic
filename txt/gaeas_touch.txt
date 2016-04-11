@@ -1,0 +1,4 @@
+Gaea's Touch {G}{G}
+Enchantment
+{0}: You may put a basic Forest card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery and only once each turn.
+Sacrifice Gaea's Touch: Add {G}{G} to your mana pool.

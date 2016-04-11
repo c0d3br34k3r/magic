@@ -1,0 +1,4 @@
+Elvish Scout {G}
+Creature — Elf Scout
+{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+1/1

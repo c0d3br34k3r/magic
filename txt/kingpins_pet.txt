@@ -1,0 +1,5 @@
+Kingpin's Pet {1}{W}{B}
+Creature — Thrull
+Flying
+Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
+2/2

@@ -1,0 +1,5 @@
+Aurochs {3}{G}
+Creature — Aurochs
+Trample
+Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+2/3

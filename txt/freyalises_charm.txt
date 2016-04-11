@@ -1,0 +1,4 @@
+Freyalise's Charm {G}{G}
+Enchantment
+Whenever an opponent casts a black spell, you may pay {G}{G}. If you do, you draw a card.
+{G}{G}: Return Freyalise's Charm to its owner's hand.

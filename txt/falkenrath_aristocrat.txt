@@ -1,0 +1,5 @@
+Falkenrath Aristocrat {2}{B}{R}
+Creature — Vampire
+Flying, haste
+Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.
+4/1

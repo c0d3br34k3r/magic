@@ -1,0 +1,4 @@
+Shred Memory {1}{B}
+Instant
+Exile up to four target cards from a single graveyard.
+Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)

@@ -1,0 +1,3 @@
+Deconstruct {2}{G}
+Sorcery
+Destroy target artifact. Add {G}{G}{G} to your mana pool.

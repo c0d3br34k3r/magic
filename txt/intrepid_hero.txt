@@ -1,0 +1,4 @@
+Intrepid Hero {2}{W}
+Creature — Human Soldier
+{T}: Destroy target creature with power 4 or greater.
+1/1

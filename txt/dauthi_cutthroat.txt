@@ -1,0 +1,5 @@
+Dauthi Cutthroat {1}{B}
+Creature — Dauthi Minion
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+{1}{B}, {T}: Destroy target creature with shadow.
+1/1

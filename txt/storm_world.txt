@@ -1,0 +1,3 @@
+Storm World {R}
+World Enchantment
+At the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.

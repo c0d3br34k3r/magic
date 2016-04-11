@@ -1,0 +1,3 @@
+Rain of Salt {4}{R}{R}
+Sorcery
+Destroy two target lands.

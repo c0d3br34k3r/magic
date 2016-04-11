@@ -1,0 +1,4 @@
+Choked Estuary
+Land
+As Choked Estuary enters the battlefield, you may reveal an Island or Swamp card from your hand. If you don't, Choked Estuary enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.

@@ -1,0 +1,4 @@
+Pardic Miner {1}{R}
+Creature — Dwarf
+Sacrifice Pardic Miner: Target player can't play lands this turn.
+1/1

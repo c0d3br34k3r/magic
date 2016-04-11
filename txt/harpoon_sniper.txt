@@ -1,0 +1,4 @@
+Harpoon Sniper {2}{W}
+Creature — Merfolk Archer
+{W}, {T}: Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.
+2/2

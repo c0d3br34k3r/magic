@@ -1,0 +1,4 @@
+Mardu Warshrieker {3}{R}
+Creature — Orc Shaman
+Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add {R}{W}{B} to your mana pool.
+3/3

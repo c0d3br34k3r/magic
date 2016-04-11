@@ -1,0 +1,4 @@
+Vedalken Engineer {1}{U}
+Creature — Vedalken Artificer
+{T}: Add two mana of any one color to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+1/1

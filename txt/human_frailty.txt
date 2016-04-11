@@ -1,0 +1,3 @@
+Human Frailty {B}
+Instant
+Destroy target Human creature.

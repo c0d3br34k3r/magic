@@ -1,0 +1,4 @@
+Ancestral Tribute {5}{W}{W}
+Sorcery
+You gain 2 life for each card in your graveyard.
+Flashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

@@ -1,0 +1,4 @@
+Ignoble Soldier {2}{W}
+Creature — Human Soldier
+Whenever Ignoble Soldier becomes blocked, prevent all combat damage that would be dealt by it this turn.
+3/1

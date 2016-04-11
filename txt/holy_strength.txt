@@ -1,0 +1,4 @@
+Holy Strength {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2.

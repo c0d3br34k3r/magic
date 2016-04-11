@@ -1,0 +1,4 @@
+Giant Mantis {3}{G}
+Creature — Insect
+Reach (This creature can block creatures with flying.)
+2/4

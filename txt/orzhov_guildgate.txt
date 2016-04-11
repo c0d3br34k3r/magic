@@ -1,0 +1,4 @@
+Orzhov Guildgate
+Land — Gate
+Orzhov Guildgate enters the battlefield tapped.
+{T}: Add {W} or {B} to your mana pool.

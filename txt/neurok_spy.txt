@@ -1,0 +1,4 @@
+Neurok Spy {2}{U}
+Creature — Human Rogue
+Neurok Spy can't be blocked as long as defending player controls an artifact.
+2/2

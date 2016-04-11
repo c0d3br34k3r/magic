@@ -1,0 +1,4 @@
+The Wretched {3}{B}{B}
+Creature — Demon
+At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.
+2/5

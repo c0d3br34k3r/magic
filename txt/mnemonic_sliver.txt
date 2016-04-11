@@ -1,0 +1,4 @@
+Mnemonic Sliver {2}{U}
+Creature — Sliver
+All Slivers have "{2}, Sacrifice this permanent: Draw a card."
+2/2

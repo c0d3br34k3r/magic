@@ -1,0 +1,3 @@
+Kin-Tree Invocation {B}{G}
+Sorcery
+Put an X/X black and green Spirit Warrior creature token onto the battlefield, where X is the greatest toughness among creatures you control.

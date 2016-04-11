@@ -1,0 +1,5 @@
+Krovikan Elementalist {B}{B}
+Creature — Human Wizard
+{2}{R}: Target creature gets +1/+0 until end of turn.
+{U}{U}: Target creature you control gains flying until end of turn. Sacrifice it at the beginning of the next end step.
+1/1

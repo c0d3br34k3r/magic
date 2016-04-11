@@ -1,0 +1,5 @@
+Demon's Jester {3}{B}
+Creature — Imp
+Flying
+Hellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand.
+2/2

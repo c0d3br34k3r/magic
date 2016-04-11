@@ -1,0 +1,4 @@
+Spore Frog {G}
+Creature — Frog
+Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.
+1/1

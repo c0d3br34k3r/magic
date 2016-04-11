@@ -1,0 +1,5 @@
+Malach of the Dawn {2}{W}{W}
+Creature — Angel
+Flying
+{W}{W}{W}: Regenerate Malach of the Dawn.
+2/4

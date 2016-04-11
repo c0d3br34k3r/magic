@@ -1,0 +1,4 @@
+Goblin Replica {3}
+Artifact Creature — Goblin
+{3}{R}, Sacrifice Goblin Replica: Destroy target artifact.
+2/2

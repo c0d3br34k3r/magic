@@ -1,0 +1,4 @@
+Brindle Boar {2}{G}
+Creature — Boar
+Sacrifice Brindle Boar: You gain 4 life.
+2/2

@@ -1,0 +1,5 @@
+Ghor-Clan Rampager {2}{R}{G}
+Creature — Beast
+Trample
+Bloodrush — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
+4/4

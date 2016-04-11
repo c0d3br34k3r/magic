@@ -1,0 +1,7 @@
+Austere Command {4}{W}{W}
+Sorcery
+Choose two —
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with converted mana cost 3 or less.
+• Destroy all creatures with converted mana cost 4 or greater.

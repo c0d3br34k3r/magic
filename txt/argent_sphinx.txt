@@ -1,0 +1,5 @@
+Argent Sphinx {2}{U}{U}
+Creature — Sphinx
+Flying
+Metalcraft — {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.
+4/3

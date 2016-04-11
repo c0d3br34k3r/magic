@@ -1,0 +1,4 @@
+Heart Sliver {1}{R}
+Creature — Sliver
+All Sliver creatures have haste.
+1/1

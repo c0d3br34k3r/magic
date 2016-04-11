@@ -1,0 +1,4 @@
+Guttersnipe {2}{R}
+Creature — Goblin Shaman
+Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.
+2/2

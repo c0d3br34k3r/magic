@@ -1,0 +1,5 @@
+Mindeye Drake {4}{U}
+Creature — Drake
+Flying
+When Mindeye Drake dies, target player puts the top five cards of his or her library into his or her graveyard.
+2/5

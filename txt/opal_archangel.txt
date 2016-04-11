@@ -1,0 +1,3 @@
+Opal Archangel {4}{W}
+Enchantment
+When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.

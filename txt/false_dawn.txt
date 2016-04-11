@@ -1,0 +1,4 @@
+False Dawn {1}{W}
+Sorcery
+Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color.
+Draw a card.

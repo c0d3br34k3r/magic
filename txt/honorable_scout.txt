@@ -1,0 +1,4 @@
+Honorable Scout {W}
+Creature — Human Soldier Scout
+When Honorable Scout enters the battlefield, you gain 2 life for each black and/or red creature target opponent controls.
+1/1

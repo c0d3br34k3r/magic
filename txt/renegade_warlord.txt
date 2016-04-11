@@ -1,0 +1,5 @@
+Renegade Warlord {4}{R}
+Creature — Human Soldier
+First strike
+Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.
+3/3

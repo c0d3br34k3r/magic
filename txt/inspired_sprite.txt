@@ -1,0 +1,7 @@
+Inspired Sprite {3}{U}
+Creature — Faerie Wizard
+Flash
+Flying
+Whenever you cast a Wizard spell, you may untap Inspired Sprite.
+{T}: Draw a card, then discard a card.
+2/2

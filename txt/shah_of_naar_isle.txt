@@ -1,0 +1,6 @@
+Shah of Naar Isle {3}{R}
+Creature — Efreet
+Trample
+Echo {0} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Shah of Naar Isle's echo cost is paid, each opponent may draw up to three cards.
+6/6

@@ -1,0 +1,5 @@
+Kithkin Armor {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked by creatures with power 3 or greater.
+Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.

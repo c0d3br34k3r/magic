@@ -1,0 +1,4 @@
+Curse of Exhaustion {2}{W}{W}
+Enchantment — Aura Curse
+Enchant player
+Enchanted player can't cast more than one spell each turn.

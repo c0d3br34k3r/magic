@@ -1,0 +1,5 @@
+Containment Membrane {2}{U}
+Enchantment — Aura
+Surge {U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.

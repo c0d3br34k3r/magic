@@ -1,0 +1,5 @@
+Uril, the Miststalker {2}{W}{R}{G}
+Legendary Creature — Beast
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Uril, the Miststalker gets +2/+2 for each Aura attached to it.
+5/5

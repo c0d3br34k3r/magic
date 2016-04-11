@@ -1,0 +1,5 @@
+Suq'Ata Assassin {1}{B}{B}
+Creature — Human Assassin
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Suq'Ata Assassin attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)
+1/1

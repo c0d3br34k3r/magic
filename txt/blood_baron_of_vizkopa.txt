@@ -1,0 +1,5 @@
+Blood Baron of Vizkopa {3}{W}{B}
+Creature — Vampire
+Lifelink, protection from white and from black
+As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.
+4/4

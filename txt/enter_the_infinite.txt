@@ -1,0 +1,3 @@
+Enter the Infinite {8}{U}{U}{U}{U}
+Sorcery
+Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.

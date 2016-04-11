@@ -1,0 +1,4 @@
+Battlefield Scrounger {3}{G}{G}
+Creature — Centaur
+Threshold — Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn, and only if seven or more cards are in your graveyard.
+3/3

@@ -1,0 +1,5 @@
+Hedge Troll {2}{G}
+Creature — Troll Cleric
+Hedge Troll gets +1/+1 as long as you control a Plains.
+{W}: Regenerate Hedge Troll.
+2/2

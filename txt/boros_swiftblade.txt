@@ -1,0 +1,4 @@
+Boros Swiftblade {W}{R}
+Creature — Human Soldier
+Double strike
+1/2

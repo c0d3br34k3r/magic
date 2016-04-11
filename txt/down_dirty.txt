@@ -1,0 +1,9 @@
+Down {3}{B}
+Sorcery
+Target player discards two cards.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Dirty {2}{G}
+Sorcery
+Return target card from your graveyard to your hand.
+Fuse (You may cast one or both halves of this card from your hand.)

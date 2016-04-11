@@ -1,0 +1,3 @@
+Wandering Tombshell {3}{B}
+Creature — Zombie Turtle
+1/6

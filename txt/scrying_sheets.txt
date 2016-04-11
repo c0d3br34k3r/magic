@@ -1,0 +1,4 @@
+Scrying Sheets
+Snow Land
+{T}: Add {C} to your mana pool.
+{1}{S}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. ({S} can be paid with one mana from a snow permanent.)

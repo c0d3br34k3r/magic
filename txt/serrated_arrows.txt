@@ -1,0 +1,5 @@
+Serrated Arrows {4}
+Artifact
+Serrated Arrows enters the battlefield with three arrowhead counters on it.
+At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.
+{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.

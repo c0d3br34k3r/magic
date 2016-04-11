@@ -1,0 +1,4 @@
+Royal Herbalist {W}
+Creature — Human Cleric
+{2}, Exile the top card of your library: You gain 1 life.
+1/1

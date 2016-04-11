@@ -1,0 +1,5 @@
+Gauntlet of Power {5}
+Artifact
+As Gauntlet of Power enters the battlefield, choose a color.
+Creatures of the chosen color get +1/+1.
+Whenever a basic land is tapped for mana of the chosen color, its controller adds one mana of that color to his or her mana pool (in addition to the mana the land produces).

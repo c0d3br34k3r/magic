@@ -1,0 +1,6 @@
+Serra Avenger {W}{W}
+Creature — Angel
+You can't cast Serra Avenger during your first, second, or third turns of the game.
+Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+3/3

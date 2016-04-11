@@ -1,0 +1,4 @@
+Hex Parasite {1}
+Artifact Creature — Insect
+{X}{B/P}: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. ({B/P} can be paid with either {B} or 2 life.)
+1/1

@@ -1,0 +1,5 @@
+Supply-Line Cranes {3}{W}{W}
+Creature — Bird
+Flying
+When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on target creature.
+2/4

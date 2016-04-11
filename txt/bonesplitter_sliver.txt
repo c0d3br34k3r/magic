@@ -1,0 +1,4 @@
+Bonesplitter Sliver {3}{R}
+Creature — Sliver
+All Sliver creatures get +2/+0.
+2/2

@@ -1,0 +1,5 @@
+Thrull Parasite {B}
+Creature — Thrull
+Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
+{T}, Pay 2 life: Remove a counter from target nonland permanent.
+1/1

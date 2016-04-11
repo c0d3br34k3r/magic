@@ -1,0 +1,3 @@
+Nix {U}
+Instant
+Counter target spell if no mana was spent to cast it.

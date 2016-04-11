@@ -1,0 +1,4 @@
+Ertai, the Corrupted {2}{W}{U}{B}
+Legendary Creature — Human Wizard
+{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+3/4

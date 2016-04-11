@@ -1,0 +1,4 @@
+Festering Evil {3}{B}{B}
+Enchantment
+At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player.
+{B}{B}, Sacrifice Festering Evil: Festering Evil deals 3 damage to each creature and each player.

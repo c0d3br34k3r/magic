@@ -1,0 +1,4 @@
+Centaur Omenreader {3}{G}
+Snow Creature — Centaur Shaman
+As long as Centaur Omenreader is tapped, creature spells you cast cost {2} less to cast.
+3/3

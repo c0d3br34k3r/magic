@@ -1,0 +1,4 @@
+Cosi's Ravager {3}{R}
+Creature — Elemental
+Landfall — Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.
+2/2

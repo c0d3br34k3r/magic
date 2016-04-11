@@ -1,0 +1,5 @@
+Augur il-Vec {1}{W}
+Creature — Human Cleric
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Sacrifice Augur il-Vec: You gain 4 life. Activate this ability only during your upkeep.
+1/3

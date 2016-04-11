@@ -1,0 +1,3 @@
+Rain of Blades {W}
+Instant
+Rain of Blades deals 1 damage to each attacking creature.

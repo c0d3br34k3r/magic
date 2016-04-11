@@ -1,0 +1,4 @@
+Rugged Prairie
+Land
+{T}: Add {C} to your mana pool.
+{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W} to your mana pool.

@@ -1,0 +1,4 @@
+Declaration of Naught {U}{U}
+Enchantment
+As Declaration of Naught enters the battlefield, name a card.
+{U}: Counter target spell with the chosen name.

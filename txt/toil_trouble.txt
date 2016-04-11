@@ -1,0 +1,9 @@
+Toil {2}{B}
+Sorcery
+Target player draws two cards and loses 2 life.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Trouble {2}{R}
+Sorcery
+Trouble deals damage to target player equal to the number of cards in that player's hand.
+Fuse (You may cast one or both halves of this card from your hand.)

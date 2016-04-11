@@ -1,0 +1,4 @@
+Dragon's Eye Sentry {W}
+Creature — Human Monk
+Defender, first strike
+1/3

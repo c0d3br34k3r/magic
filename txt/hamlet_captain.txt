@@ -1,0 +1,4 @@
+Hamlet Captain {1}{G}
+Creature — Human Warrior
+Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.
+2/2

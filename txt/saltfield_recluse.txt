@@ -1,0 +1,4 @@
+Saltfield Recluse {2}{W}
+Creature — Human Rebel Cleric
+{T}: Target creature gets -2/-0 until end of turn.
+1/2

@@ -1,0 +1,5 @@
+Argothian Pixies {1}{G}
+Creature — Faerie
+Argothian Pixies can't be blocked by artifact creatures.
+Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.
+2/1

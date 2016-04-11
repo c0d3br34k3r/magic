@@ -1,0 +1,4 @@
+Nova Cleric {W}
+Creature — Human Cleric
+{2}{W}, {T}, Sacrifice Nova Cleric: Destroy all enchantments.
+1/2

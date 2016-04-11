@@ -1,0 +1,4 @@
+Sigiled Skink {1}{R}
+Creature — Lizard
+Whenever Sigiled Skink attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+2/1

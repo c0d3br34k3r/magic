@@ -1,0 +1,3 @@
+Blatant Thievery {4}{U}{U}{U}
+Sorcery
+For each opponent, gain control of target permanent that player controls.

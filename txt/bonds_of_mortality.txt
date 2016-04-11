@@ -1,0 +1,4 @@
+Bonds of Mortality {1}{G}
+Enchantment
+When Bonds of Mortality enters the battlefield, draw a card.
+{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.

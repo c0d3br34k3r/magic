@@ -1,0 +1,4 @@
+Traitor's Clutch {4}{B}
+Instant
+Target creature gets +1/+0, becomes black, and gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

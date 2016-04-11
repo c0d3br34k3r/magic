@@ -1,0 +1,4 @@
+Timberpack Wolf {1}{G}
+Creature — Wolf
+Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.
+2/2

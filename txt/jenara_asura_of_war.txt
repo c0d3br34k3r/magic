@@ -1,0 +1,5 @@
+Jenara, Asura of War {W}{U}{G}
+Legendary Creature — Angel
+Flying
+{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.
+3/3

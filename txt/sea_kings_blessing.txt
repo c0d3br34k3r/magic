@@ -1,0 +1,3 @@
+Sea Kings' Blessing {U}
+Instant
+Any number of target creatures become blue until end of turn.

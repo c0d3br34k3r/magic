@@ -1,0 +1,5 @@
+Cruel Deceiver {1}{B}
+Creature — Spirit
+{1}: Look at the top card of your library.
+{2}: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains "Whenever Cruel Deceiver deals damage to a creature, destroy that creature" until end of turn. Activate this ability only once each turn.
+2/1

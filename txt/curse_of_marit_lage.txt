@@ -1,0 +1,4 @@
+Curse of Marit Lage {3}{R}{R}
+Enchantment
+When Curse of Marit Lage enters the battlefield, tap all Islands.
+Islands don't untap during their controllers' untap steps.

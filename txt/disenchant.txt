@@ -1,0 +1,3 @@
+Disenchant {1}{W}
+Instant
+Destroy target artifact or enchantment.

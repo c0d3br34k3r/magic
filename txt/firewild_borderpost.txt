@@ -1,0 +1,5 @@
+Firewild Borderpost {1}{R}{G}
+Artifact
+You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.
+Firewild Borderpost enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.

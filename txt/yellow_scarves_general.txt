@@ -1,0 +1,5 @@
+Yellow Scarves General {3}{R}
+Creature — Human Soldier
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Yellow Scarves General can't block.
+2/2

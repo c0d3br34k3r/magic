@@ -1,0 +1,3 @@
+Tolarian Academy
+Legendary Land
+{T}: Add {U} to your mana pool for each artifact you control.

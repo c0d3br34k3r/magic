@@ -1,0 +1,4 @@
+Blood Crypt
+Land — Swamp Mountain
+({T}: Add {B} or {R} to your mana pool.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.

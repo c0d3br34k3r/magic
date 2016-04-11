@@ -1,0 +1,4 @@
+Chromatic Star {1}
+Artifact
+{1}, {T}, Sacrifice Chromatic Star: Add one mana of any color to your mana pool.
+When Chromatic Star is put into a graveyard from the battlefield, draw a card.

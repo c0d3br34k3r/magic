@@ -1,0 +1,5 @@
+Cloud Djinn {5}{U}
+Creature — Djinn
+Flying
+Cloud Djinn can block only creatures with flying.
+5/4

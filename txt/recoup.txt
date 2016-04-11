@@ -1,0 +1,4 @@
+Recoup {1}{R}
+Sorcery
+Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

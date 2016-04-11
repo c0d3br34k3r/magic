@@ -1,0 +1,3 @@
+Telim'Tor's Darts {2}
+Artifact
+{2}, {T}: Telim'Tor's Darts deals 1 damage to target player.

@@ -1,0 +1,5 @@
+Skittering Skirge {B}{B}
+Creature — Imp
+Flying
+When you cast a creature spell, sacrifice Skittering Skirge.
+3/2

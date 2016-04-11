@@ -1,0 +1,5 @@
+Takeno's Cavalry {3}{W}
+Creature — Human Samurai Archer
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{T}: Takeno's Cavalry deals 1 damage to target attacking or blocking Spirit.
+1/1

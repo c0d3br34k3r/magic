@@ -1,0 +1,5 @@
+Cradle Guard {1}{G}{G}
+Creature — Treefolk
+Trample
+Echo {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+4/4

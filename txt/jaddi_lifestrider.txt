@@ -1,0 +1,4 @@
+Jaddi Lifestrider {4}{G}
+Creature — Elemental
+When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.
+2/8

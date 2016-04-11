@@ -1,0 +1,6 @@
+Wydwen, the Biting Gale {2}{U}{B}
+Legendary Creature — Faerie Wizard
+Flash
+Flying
+{U}{B}, Pay 1 life: Return Wydwen, the Biting Gale to its owner's hand.
+3/3

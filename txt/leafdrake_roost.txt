@@ -1,0 +1,4 @@
+Leafdrake Roost {3}{U}{G}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."

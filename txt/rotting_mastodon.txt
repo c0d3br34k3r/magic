@@ -1,0 +1,3 @@
+Rotting Mastodon {4}{B}
+Creature — Zombie Elephant
+2/8

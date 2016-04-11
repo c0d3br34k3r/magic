@@ -1,0 +1,5 @@
+Wingcrafter {U}
+Creature — Human Wizard
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Wingcrafter is paired with another creature, both creatures have flying.
+1/1

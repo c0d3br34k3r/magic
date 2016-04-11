@@ -1,0 +1,4 @@
+Ebony Rhino {7}
+Artifact Creature — Rhino
+Trample
+4/5

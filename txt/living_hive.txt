@@ -1,0 +1,5 @@
+Living Hive {6}{G}{G}
+Creature — Elemental Insect
+Trample
+Whenever Living Hive deals combat damage to a player, put that many 1/1 green Insect creature tokens onto the battlefield.
+6/6

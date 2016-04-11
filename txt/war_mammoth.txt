@@ -1,0 +1,4 @@
+War Mammoth {3}{G}
+Creature — Elephant
+Trample
+3/3

@@ -1,0 +1,3 @@
+Sacred Ground {1}{W}
+Enchantment
+Whenever a spell or ability an opponent controls causes a land to be put into your graveyard from the battlefield, return that card to the battlefield.

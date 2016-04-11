@@ -1,0 +1,4 @@
+Glade Gnarr {5}{G}
+Creature — Beast
+Whenever a player casts a blue spell, Glade Gnarr gets +2/+2 until end of turn.
+4/4

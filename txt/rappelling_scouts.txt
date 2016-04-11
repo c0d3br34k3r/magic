@@ -1,0 +1,5 @@
+Rappelling Scouts {2}{W}{W}
+Creature — Human Rebel Scout
+Flying
+{2}{W}: Rappelling Scouts gains protection from the color of your choice until end of turn.
+1/4

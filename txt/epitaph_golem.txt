@@ -1,0 +1,4 @@
+Epitaph Golem {5}
+Artifact Creature — Golem
+{2}: Put target card from your graveyard on the bottom of your library.
+3/5

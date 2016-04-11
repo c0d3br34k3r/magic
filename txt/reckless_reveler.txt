@@ -1,0 +1,4 @@
+Reckless Reveler {1}{R}
+Creature — Satyr
+{R}, Sacrifice Reckless Reveler: Destroy target artifact.
+2/1

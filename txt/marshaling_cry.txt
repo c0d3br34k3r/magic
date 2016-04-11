@@ -1,0 +1,5 @@
+Marshaling Cry {1}{W}{W}
+Sorcery
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

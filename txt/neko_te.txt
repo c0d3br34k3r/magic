@@ -1,0 +1,5 @@
+Neko-Te {3}
+Artifact — Equipment
+Whenever equipped creature deals damage to a creature, tap that creature. That creature doesn't untap during its controller's untap step for as long as Neko-Te remains on the battlefield.
+Whenever equipped creature deals damage to a player, that player loses 1 life.
+Equip {2}

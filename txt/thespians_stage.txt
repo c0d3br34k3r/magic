@@ -1,0 +1,4 @@
+Thespian's Stage
+Land
+{T}: Add {C} to your mana pool.
+{2}, {T}: Thespian's Stage becomes a copy of target land and gains this ability.

@@ -1,0 +1,4 @@
+Wand of the Elements {4}
+Artifact
+{T}, Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying onto the battlefield.
+{T}, Sacrifice a Mountain: Put a 3/3 red Elemental creature token onto the battlefield.

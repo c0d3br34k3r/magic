@@ -1,0 +1,5 @@
+Bladewing's Thrall {2}{B}{B}
+Creature — Zombie
+Bladewing's Thrall has flying as long as you control a Dragon.
+When a Dragon enters the battlefield, you may return Bladewing's Thrall from your graveyard to the battlefield.
+3/3

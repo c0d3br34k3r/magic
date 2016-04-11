@@ -1,0 +1,4 @@
+Hand of Silumgar {1}{B}
+Creature — Human Warrior
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/1

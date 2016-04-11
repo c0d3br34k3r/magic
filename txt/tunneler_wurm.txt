@@ -1,0 +1,4 @@
+Tunneler Wurm {6}{G}{G}
+Creature — Wurm
+Discard a card: Regenerate Tunneler Wurm.
+6/6

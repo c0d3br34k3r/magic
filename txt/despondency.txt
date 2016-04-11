@@ -1,0 +1,5 @@
+Despondency {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-0.
+When Despondency is put into a graveyard from the battlefield, return Despondency to its owner's hand.

@@ -1,0 +1,4 @@
+Nimbus Wings {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2 and has flying.

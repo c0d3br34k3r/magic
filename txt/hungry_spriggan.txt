@@ -1,0 +1,5 @@
+Hungry Spriggan {2}{G}
+Creature — Goblin Warrior
+Trample
+Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn.
+1/1

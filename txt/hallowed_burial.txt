@@ -1,0 +1,3 @@
+Hallowed Burial {3}{W}{W}
+Sorcery
+Put all creatures on the bottom of their owners' libraries.

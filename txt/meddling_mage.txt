@@ -1,0 +1,5 @@
+Meddling Mage {W}{U}
+Creature — Human Wizard
+As Meddling Mage enters the battlefield, name a nonland card.
+The named card can't be cast.
+2/2

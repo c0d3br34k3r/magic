@@ -1,0 +1,4 @@
+Groffskithur {5}{G}
+Creature — Beast
+Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand.
+3/3

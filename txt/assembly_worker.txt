@@ -1,0 +1,4 @@
+Assembly-Worker {3}
+Artifact Creature — Assembly-Worker
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+2/2

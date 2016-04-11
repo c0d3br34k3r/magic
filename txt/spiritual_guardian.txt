@@ -1,0 +1,4 @@
+Spiritual Guardian {3}{W}{W}
+Creature — Spirit
+When Spiritual Guardian enters the battlefield, you gain 4 life.
+3/4

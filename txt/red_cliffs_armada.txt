@@ -1,0 +1,4 @@
+Red Cliffs Armada {4}{U}
+Creature — Human Soldier
+Red Cliffs Armada can't attack unless defending player controls an Island.
+5/4

@@ -1,0 +1,4 @@
+Remove {U}
+Instant
+Cast Remove only during the declare attackers step and only if you've been attacked this step.
+Return target attacking creature to its owner's hand.

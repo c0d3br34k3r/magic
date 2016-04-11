@@ -1,0 +1,3 @@
+Paraselene {2}{W}
+Sorcery
+Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.

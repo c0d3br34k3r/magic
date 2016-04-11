@@ -1,0 +1,4 @@
+Imperial Recruiter {2}{R}
+Creature — Human Advisor
+When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.
+1/1

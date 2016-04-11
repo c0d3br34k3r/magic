@@ -1,0 +1,3 @@
+Terashi's Verdict {1}{W}
+Instant — Arcane
+Destroy target attacking creature with power 3 or less.

@@ -1,0 +1,4 @@
+Dreamborn Muse {2}{U}{U}
+Creature — Spirit
+At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.
+2/2

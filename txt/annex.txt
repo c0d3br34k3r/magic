@@ -1,0 +1,4 @@
+Annex {2}{U}{U}
+Enchantment — Aura
+Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
+You control enchanted land.

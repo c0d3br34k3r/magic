@@ -1,0 +1,3 @@
+Scalding Tongs {2}
+Artifact
+At the beginning of your upkeep, if you have three or fewer cards in hand, Scalding Tongs deals 1 damage to target opponent.

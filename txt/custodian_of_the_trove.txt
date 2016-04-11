@@ -1,0 +1,5 @@
+Custodian of the Trove {3}
+Artifact Creature — Golem
+Defender
+Custodian of the Trove enters the battlefield tapped.
+2/5

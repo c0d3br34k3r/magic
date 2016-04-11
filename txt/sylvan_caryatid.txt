@@ -1,0 +1,5 @@
+Sylvan Caryatid {1}{G}
+Creature — Plant
+Defender, hexproof
+{T}: Add one mana of any color to your mana pool.
+0/3

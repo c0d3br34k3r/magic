@@ -1,0 +1,5 @@
+Bant Battlemage {2}{W}
+Creature — Human Wizard
+{G}, {T}: Target creature gains trample until end of turn.
+{U}, {T}: Target creature gains flying until end of turn.
+2/2

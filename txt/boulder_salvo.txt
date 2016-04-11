@@ -1,0 +1,4 @@
+Boulder Salvo {4}{R}
+Sorcery
+Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Boulder Salvo deals 4 damage to target creature.

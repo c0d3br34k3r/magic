@@ -1,0 +1,3 @@
+Gutter Skulk {1}{B}
+Creature — Zombie Rat
+2/2

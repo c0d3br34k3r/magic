@@ -1,0 +1,7 @@
+Savage Beating {3}{R}{R}
+Instant
+Cast Savage Beating only during your turn and only during combat.
+Choose one —
+• Creatures you control gain double strike until end of turn.
+• Untap all creatures you control. After this phase, there is an additional combat phase.
+Entwine {1}{R} (Choose both if you pay the entwine cost.)

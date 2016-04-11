@@ -1,0 +1,4 @@
+Harvest Pyre {1}{R}
+Instant
+As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.
+Harvest Pyre deals X damage to target creature.

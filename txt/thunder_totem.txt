@@ -1,0 +1,4 @@
+Thunder Totem {3}
+Artifact
+{T}: Add {W} to your mana pool.
+{1}{W}{W}: Thunder Totem becomes a 2/2 white Spirit artifact creature with flying and first strike until end of turn.

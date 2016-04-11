@@ -1,0 +1,4 @@
+Highland Lake
+Land
+Highland Lake enters the battlefield tapped.
+{T}: Add {U} or {R} to your mana pool.

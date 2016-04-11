@@ -1,0 +1,5 @@
+Viscerid Deepwalker {4}{U}
+Creature — Homarid Warrior
+{U}: Viscerid Deepwalker gets +1/+0 until end of turn.
+Suspend 4—{U} (Rather than cast this card from your hand, you may pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+2/3

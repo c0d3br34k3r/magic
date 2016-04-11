@@ -1,0 +1,4 @@
+Uncontrolled Infestation {1}{R}
+Enchantment — Aura
+Enchant nonbasic land
+When enchanted land becomes tapped, destroy it.

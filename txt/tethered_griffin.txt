@@ -1,0 +1,5 @@
+Tethered Griffin {W}
+Creature — Griffin
+Flying
+When you control no enchantments, sacrifice Tethered Griffin.
+2/3

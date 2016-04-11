@@ -1,0 +1,5 @@
+Kjeldoran Gargoyle {5}{W}
+Creature — Gargoyle
+Flying, first strike
+Whenever Kjeldoran Gargoyle deals damage, you gain that much life.
+3/3

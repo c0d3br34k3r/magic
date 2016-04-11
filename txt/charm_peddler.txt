@@ -1,0 +1,4 @@
+Charm Peddler {W}
+Creature — Human Spellshaper
+{W}, {T}, Discard a card: The next time a source of your choice would deal damage to target creature this turn, prevent that damage.
+1/1

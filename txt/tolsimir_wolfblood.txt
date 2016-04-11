@@ -1,0 +1,6 @@
+Tolsimir Wolfblood {4}{W}{G}
+Legendary Creature — Elf Warrior
+Other green creatures you control get +1/+1.
+Other white creatures you control get +1/+1.
+{T}: Put a legendary 2/2 green and white Wolf creature token named Voja onto the battlefield.
+3/4

@@ -1,0 +1,5 @@
+Blessed Spirits {2}{W}
+Creature — Spirit
+Flying
+Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.
+2/2

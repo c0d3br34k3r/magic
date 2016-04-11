@@ -1,0 +1,4 @@
+Nahiri's Machinations {1}{W}
+Enchantment
+At the beginning of combat on your turn, target creature you control gains indestructible until end of turn.
+{1}{R}: Nahiri's Machinations deals 1 damage to target blocking creature.

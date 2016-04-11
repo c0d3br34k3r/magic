@@ -1,0 +1,3 @@
+Dispel {U}
+Instant
+Counter target instant spell.

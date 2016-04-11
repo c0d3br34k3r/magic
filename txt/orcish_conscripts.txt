@@ -1,0 +1,5 @@
+Orcish Conscripts {R}
+Creature — Orc
+Orcish Conscripts can't attack unless at least two other creatures attack.
+Orcish Conscripts can't block unless at least two other creatures block.
+2/2

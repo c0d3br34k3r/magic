@@ -1,0 +1,5 @@
+Copper-Leaf Angel {5}
+Artifact Creature — Angel
+Flying
+{T}, Sacrifice X lands: Put X +1/+1 counters on Copper-Leaf Angel.
+2/2

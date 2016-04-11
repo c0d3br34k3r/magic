@@ -1,0 +1,5 @@
+Festerhide Boar {3}{G}
+Creature — Boar
+Trample
+Morbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+3/3

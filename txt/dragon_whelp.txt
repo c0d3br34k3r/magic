@@ -1,0 +1,5 @@
+Dragon Whelp {2}{R}{R}
+Creature — Dragon
+Flying
+{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+2/3

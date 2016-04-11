@@ -1,0 +1,4 @@
+Eidolon of Blossoms {2}{G}{G}
+Enchantment Creature — Spirit
+Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.
+2/2

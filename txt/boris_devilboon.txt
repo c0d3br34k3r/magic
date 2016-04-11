@@ -1,0 +1,4 @@
+Boris Devilboon {3}{B}{R}
+Legendary Creature — Zombie Wizard
+{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.
+2/2

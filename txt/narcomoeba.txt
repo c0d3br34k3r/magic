@@ -1,0 +1,5 @@
+Narcomoeba {1}{U}
+Creature — Illusion
+Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.
+1/1

@@ -1,0 +1,4 @@
+Steelclad Serpent {5}{U}
+Artifact Creature — Serpent
+Steelclad Serpent can't attack unless you control another artifact.
+4/5

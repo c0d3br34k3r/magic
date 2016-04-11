@@ -1,0 +1,4 @@
+Krark-Clan Shaman {R}
+Creature — Goblin Shaman
+Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.
+1/1

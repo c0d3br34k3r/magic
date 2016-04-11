@@ -1,0 +1,4 @@
+Iridescent Angel {5}{W}{U}
+Creature — Angel
+Flying, protection from all colors
+4/4

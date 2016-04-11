@@ -1,0 +1,7 @@
+Pure {1}{R}{G}
+Sorcery
+Destroy target multicolored permanent.
+* SPLIT *
+Simple {1}{W}{G}
+Sorcery
+Destroy all Auras and Equipment.

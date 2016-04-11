@@ -1,0 +1,4 @@
+Apostle's Blessing {1}{W/P}
+Instant
+({W/P} can be paid with either {W} or 2 life.)
+Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.

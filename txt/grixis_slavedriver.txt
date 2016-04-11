@@ -1,0 +1,5 @@
+Grixis Slavedriver {5}{B}
+Creature — Zombie Giant
+When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.
+Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+4/4

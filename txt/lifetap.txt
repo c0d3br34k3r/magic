@@ -1,0 +1,3 @@
+Lifetap {U}{U}
+Enchantment
+Whenever a Forest an opponent controls becomes tapped, you gain 1 life.

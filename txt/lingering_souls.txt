@@ -1,0 +1,4 @@
+Lingering Souls {2}{W}
+Sorcery
+Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

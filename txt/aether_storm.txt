@@ -1,0 +1,4 @@
+Æther Storm {3}{U}
+Enchantment
+Creature spells can't be cast.
+Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.

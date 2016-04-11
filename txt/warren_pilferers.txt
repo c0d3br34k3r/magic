@@ -1,0 +1,4 @@
+Warren Pilferers {4}{B}
+Creature — Goblin Rogue
+When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.
+3/3

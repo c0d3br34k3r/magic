@@ -1,0 +1,6 @@
+Ætherflame Wall {1}{R}
+Creature — Wall
+Defender
+Ætherflame Wall can block creatures with shadow as though they didn't have shadow.
+{R}: Ætherflame Wall gets +1/+0 until end of turn.
+0/4

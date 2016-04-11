@@ -1,0 +1,5 @@
+Hope Against Hope {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each creature you control.
+As long as enchanted creature is a Human, it has first strike.

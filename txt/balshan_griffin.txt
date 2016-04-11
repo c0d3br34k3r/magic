@@ -1,0 +1,5 @@
+Balshan Griffin {3}{U}{U}
+Creature — Griffin
+Flying
+{1}{U}, Discard a card: Return Balshan Griffin to its owner's hand.
+3/2

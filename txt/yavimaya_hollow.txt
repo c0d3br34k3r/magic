@@ -1,0 +1,4 @@
+Yavimaya Hollow
+Legendary Land
+{T}: Add {C} to your mana pool.
+{G}, {T}: Regenerate target creature.

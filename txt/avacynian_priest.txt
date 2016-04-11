@@ -1,0 +1,4 @@
+Avacynian Priest {1}{W}
+Creature — Human Cleric
+{1}, {T}: Tap target non-Human creature.
+1/2

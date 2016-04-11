@@ -1,0 +1,3 @@
+Touchstone {2}
+Artifact
+{T}: Tap target artifact you don't control.

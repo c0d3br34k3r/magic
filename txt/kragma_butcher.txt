@@ -1,0 +1,4 @@
+Kragma Butcher {2}{R}
+Creature — Minotaur Warrior
+Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn.
+2/3

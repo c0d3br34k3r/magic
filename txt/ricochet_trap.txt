@@ -1,0 +1,4 @@
+Ricochet Trap {3}{R}
+Instant — Trap
+If an opponent cast a blue spell this turn, you may pay {R} rather than pay Ricochet Trap's mana cost.
+Change the target of target spell with a single target.

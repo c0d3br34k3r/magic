@@ -1,0 +1,3 @@
+Extract {U}
+Sorcery
+Search target player's library for a card and exile it. Then that player shuffles his or her library.

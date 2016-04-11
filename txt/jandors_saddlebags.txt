@@ -1,0 +1,3 @@
+Jandor's Saddlebags {2}
+Artifact
+{3}, {T}: Untap target creature.

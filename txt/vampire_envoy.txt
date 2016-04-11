@@ -1,0 +1,5 @@
+Vampire Envoy {2}{B}
+Creature — Vampire Cleric Ally
+Flying
+Whenever Vampire Envoy becomes tapped, you gain 1 life.
+1/4

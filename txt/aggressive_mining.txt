@@ -1,0 +1,4 @@
+Aggressive Mining {3}{R}
+Enchantment
+You can't play lands.
+Sacrifice a land: Draw two cards. Activate this ability only once each turn.

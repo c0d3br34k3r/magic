@@ -1,0 +1,5 @@
+Heedless One {3}{G}
+Creature — Elf Avatar
+Trample
+Heedless One's power and toughness are each equal to the number of Elves on the battlefield.
+*/*

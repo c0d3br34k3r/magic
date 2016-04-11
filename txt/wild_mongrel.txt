@@ -1,0 +1,4 @@
+Wild Mongrel {1}{G}
+Creature — Hound
+Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+2/2

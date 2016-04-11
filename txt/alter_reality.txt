@@ -1,0 +1,4 @@
+Alter Reality {1}{U}
+Instant
+Change the text of target spell or permanent by replacing all instances of one color word with another. (This effect lasts indefinitely.)
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

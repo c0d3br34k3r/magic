@@ -1,0 +1,4 @@
+Gilt-Leaf Palace
+Land
+As Gilt-Leaf Palace enters the battlefield, you may reveal an Elf card from your hand. If you don't, Gilt-Leaf Palace enters the battlefield tapped.
+{T}: Add {B} or {G} to your mana pool.

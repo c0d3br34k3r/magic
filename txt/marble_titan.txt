@@ -1,0 +1,4 @@
+Marble Titan {3}{W}
+Creature — Giant
+Creatures with power 3 or greater don't untap during their controllers' untap steps.
+3/3

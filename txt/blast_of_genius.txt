@@ -1,0 +1,3 @@
+Blast of Genius {4}{U}{R}
+Sorcery
+Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.

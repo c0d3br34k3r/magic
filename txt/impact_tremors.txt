@@ -1,0 +1,3 @@
+Impact Tremors {1}{R}
+Enchantment
+Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent.

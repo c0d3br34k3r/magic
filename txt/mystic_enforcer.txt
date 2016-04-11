@@ -1,0 +1,5 @@
+Mystic Enforcer {2}{W}{G}
+Creature — Human Nomad Mystic
+Protection from black
+Threshold — As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.
+3/3

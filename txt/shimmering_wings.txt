@@ -1,0 +1,5 @@
+Shimmering Wings {U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+{U}: Return Shimmering Wings to its owner's hand.

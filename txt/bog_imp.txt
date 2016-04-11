@@ -1,0 +1,4 @@
+Bog Imp {1}{B}
+Creature — Imp
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+1/1

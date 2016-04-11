@@ -1,0 +1,5 @@
+Haven of the Spirit Dragon
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a Dragon creature spell.
+{2}, {T}, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand.

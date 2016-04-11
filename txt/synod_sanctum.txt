@@ -1,0 +1,4 @@
+Synod Sanctum {1}
+Artifact
+{2}, {T}: Exile target permanent you control.
+{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control.

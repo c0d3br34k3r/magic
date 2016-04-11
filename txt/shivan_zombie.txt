@@ -1,0 +1,4 @@
+Shivan Zombie {B}{R}
+Creature — Barbarian Zombie
+Protection from white
+2/2

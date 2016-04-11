@@ -1,0 +1,5 @@
+Spirit Loop {1}{W}
+Enchantment — Aura
+Enchant creature you control
+Whenever enchanted creature deals damage, you gain that much life.
+When Spirit Loop is put into a graveyard from the battlefield, return Spirit Loop to its owner's hand.

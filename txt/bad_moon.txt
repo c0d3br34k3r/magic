@@ -1,0 +1,3 @@
+Bad Moon {1}{B}
+Enchantment
+Black creatures get +1/+1.

@@ -1,0 +1,4 @@
+Vedalken Outlander {W}{U}
+Artifact Creature — Vedalken Scout
+Protection from red
+2/2

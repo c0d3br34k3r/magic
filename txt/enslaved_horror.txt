@@ -1,0 +1,4 @@
+Enslaved Horror {3}{B}
+Creature — Horror
+When Enslaved Horror enters the battlefield, each other player may return a creature card from his or her graveyard to the battlefield.
+4/4

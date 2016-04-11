@@ -1,0 +1,4 @@
+Firefist Striker {1}{R}
+Creature — Human Soldier
+Battalion — Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.
+2/1

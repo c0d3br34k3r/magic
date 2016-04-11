@@ -1,0 +1,7 @@
+Pain {B}
+Sorcery
+Target player discards a card.
+* SPLIT *
+Suffering {3}{R}
+Sorcery
+Destroy target land.

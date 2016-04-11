@@ -1,0 +1,4 @@
+Root Greevil {3}{G}
+Creature — Beast
+{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.
+2/3

@@ -1,0 +1,5 @@
+Stenchskipper {3}{B}
+Creature — Elemental
+Flying
+At the beginning of the end step, if you control no Goblins, sacrifice Stenchskipper.
+6/5

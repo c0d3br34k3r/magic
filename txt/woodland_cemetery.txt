@@ -1,0 +1,4 @@
+Woodland Cemetery
+Land
+Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
+{T}: Add {B} or {G} to your mana pool.

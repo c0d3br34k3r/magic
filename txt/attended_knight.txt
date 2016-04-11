@@ -1,0 +1,5 @@
+Attended Knight {2}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+When Attended Knight enters the battlefield, put a 1/1 white Soldier creature token onto the battlefield.
+2/2

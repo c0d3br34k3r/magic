@@ -1,0 +1,3 @@
+Toil to Renown {1}{G}
+Sorcery
+You gain 1 life for each tapped artifact, creature, and land you control.

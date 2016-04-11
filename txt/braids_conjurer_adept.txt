@@ -1,0 +1,4 @@
+Braids, Conjurer Adept {2}{U}{U}
+Legendary Creature — Human Wizard
+At the beginning of each player's upkeep, that player may put an artifact, creature, or land card from his or her hand onto the battlefield.
+2/2

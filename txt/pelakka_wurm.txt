@@ -1,0 +1,6 @@
+Pelakka Wurm {4}{G}{G}{G}
+Creature — Wurm
+Trample
+When Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm dies, draw a card.
+7/7

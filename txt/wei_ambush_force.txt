@@ -1,0 +1,4 @@
+Wei Ambush Force {1}{B}
+Creature — Human Soldier
+Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn.
+1/1

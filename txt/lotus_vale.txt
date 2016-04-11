@@ -1,0 +1,4 @@
+Lotus Vale
+Land
+If Lotus Vale would enter the battlefield, sacrifice two untapped lands instead. If you do, put Lotus Vale onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add three mana of any one color to your mana pool.

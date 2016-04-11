@@ -1,0 +1,3 @@
+Stony Silence {1}{W}
+Enchantment
+Activated abilities of artifacts can't be activated.

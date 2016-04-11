@@ -1,0 +1,4 @@
+Rimebound Dead {B}
+Snow Creature — Skeleton
+{S}: Regenerate Rimebound Dead. ({S} can be paid with one mana from a snow permanent.)
+1/1

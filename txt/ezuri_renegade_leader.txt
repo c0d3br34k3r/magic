@@ -1,0 +1,5 @@
+Ezuri, Renegade Leader {1}{G}{G}
+Legendary Creature — Elf Warrior
+{G}: Regenerate another target Elf.
+{2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.
+2/2

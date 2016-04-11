@@ -1,0 +1,4 @@
+Scavenging Scarab {3}{B}
+Creature — Insect
+Scavenging Scarab can't block.
+3/3

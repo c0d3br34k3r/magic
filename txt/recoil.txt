@@ -1,0 +1,3 @@
+Recoil {1}{U}{B}
+Instant
+Return target permanent to its owner's hand. Then that player discards a card.

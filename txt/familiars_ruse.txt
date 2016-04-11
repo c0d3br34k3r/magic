@@ -1,0 +1,4 @@
+Familiar's Ruse {U}{U}
+Instant
+As an additional cost to cast Familiar's Ruse, return a creature you control to its owner's hand.
+Counter target spell.

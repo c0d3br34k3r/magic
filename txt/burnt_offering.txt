@@ -1,0 +1,4 @@
+Burnt Offering {B}
+Instant
+As an additional cost to cast Burnt Offering, sacrifice a creature.
+Add X mana in any combination of {B} and/or {R} to your mana pool, where X is the sacrificed creature's converted mana cost.

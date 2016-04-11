@@ -1,0 +1,4 @@
+Yew Spirit {4}{G}
+Creature — Spirit Treefolk
+{2}{G}{G}: Yew Spirit gets +X/+X until end of turn, where X is its power.
+3/3

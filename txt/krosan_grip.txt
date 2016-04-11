@@ -1,0 +1,4 @@
+Krosan Grip {2}{G}
+Instant
+Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Destroy target artifact or enchantment.

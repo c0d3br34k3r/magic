@@ -1,0 +1,3 @@
+Deathgrip {B}{B}
+Enchantment
+{B}{B}: Counter target green spell.

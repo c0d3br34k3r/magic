@@ -1,0 +1,5 @@
+Tivadar of Thorn {1}{W}{W}
+Legendary Creature — Human Knight
+First strike, protection from red
+When Tivadar of Thorn enters the battlefield, destroy target Goblin.
+2/2

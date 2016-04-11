@@ -1,0 +1,3 @@
+Enchanted Evening {3}{W/U}{W/U}
+Enchantment
+All permanents are enchantments in addition to their other types.

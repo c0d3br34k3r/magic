@@ -1,0 +1,4 @@
+Iname, Death Aspect {4}{B}{B}
+Legendary Creature — Spirit
+When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library.
+4/4

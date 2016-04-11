@@ -1,0 +1,3 @@
+In Garruk's Wake {7}{B}{B}
+Sorcery
+Destroy all creatures you don't control and all planeswalkers you don't control.

@@ -1,0 +1,5 @@
+Treva, the Renewer {3}{W}{U}{G}
+Legendary Creature — Dragon
+Flying
+Whenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color.
+6/6

@@ -1,0 +1,5 @@
+Sower of Temptation {2}{U}{U}
+Creature — Faerie Wizard
+Flying
+When Sower of Temptation enters the battlefield, gain control of target creature for as long as Sower of Temptation remains on the battlefield.
+2/2

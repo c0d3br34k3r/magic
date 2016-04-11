@@ -1,0 +1,5 @@
+Living Tsunami {2}{U}{U}
+Creature — Elemental
+Flying
+At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+4/4

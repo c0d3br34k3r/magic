@@ -1,0 +1,4 @@
+Wing Shards {1}{W}{W}
+Instant
+Target player sacrifices an attacking creature.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)

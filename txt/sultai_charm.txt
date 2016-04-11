@@ -1,0 +1,6 @@
+Sultai Charm {U}{B}{G}
+Instant
+Choose one —
+• Destroy target monocolored creature.
+• Destroy target artifact or enchantment.
+• Draw two cards, then discard a card.

@@ -1,0 +1,5 @@
+Aurelia, the Warleader {2}{W}{W}{R}{R}
+Legendary Creature — Angel
+Flying, vigilance, haste
+Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+3/4

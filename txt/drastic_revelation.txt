@@ -1,0 +1,3 @@
+Drastic Revelation {2}{U}{B}{R}
+Sorcery
+Discard your hand. Draw seven cards, then discard three cards at random.

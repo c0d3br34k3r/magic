@@ -1,0 +1,4 @@
+To Arms! {1}{W}
+Instant
+Untap all creatures you control.
+Draw a card.

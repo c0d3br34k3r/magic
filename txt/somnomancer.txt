@@ -1,0 +1,4 @@
+Somnomancer {1}{W/U}
+Creature — Kithkin Wizard
+When Somnomancer enters the battlefield, you may tap target creature.
+2/1

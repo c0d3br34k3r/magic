@@ -1,0 +1,6 @@
+Mordant Dragon {3}{R}{R}{R}
+Creature — Dragon
+Flying
+{1}{R}: Mordant Dragon gets +1/+0 until end of turn.
+Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
+5/5

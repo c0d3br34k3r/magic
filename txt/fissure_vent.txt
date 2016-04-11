@@ -1,0 +1,5 @@
+Fissure Vent {3}{R}{R}
+Sorcery
+Choose one or both —
+• Destroy target artifact.
+• Destroy target nonbasic land.

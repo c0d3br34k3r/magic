@@ -1,0 +1,5 @@
+Mole Worms {2}{B}
+Creature — Worm
+You may choose not to untap Mole Worms during your untap step.
+{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped.
+1/1

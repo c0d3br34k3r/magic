@@ -1,0 +1,4 @@
+Berserk Murlodont {4}{G}
+Creature — Beast
+Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+3/3

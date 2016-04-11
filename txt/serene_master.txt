@@ -1,0 +1,4 @@
+Serene Master {1}{W}
+Creature — Human Monk
+Whenever Serene Master blocks, exchange its power and the power of target creature it's blocking until end of combat.
+0/2

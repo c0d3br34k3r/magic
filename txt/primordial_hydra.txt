@@ -1,0 +1,6 @@
+Primordial Hydra {X}{G}{G}
+Creature — Hydra
+Primordial Hydra enters the battlefield with X +1/+1 counters on it.
+At the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.
+Primordial Hydra has trample as long as it has ten or more +1/+1 counters on it.
+0/0

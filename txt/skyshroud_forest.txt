@@ -1,0 +1,5 @@
+Skyshroud Forest
+Land
+Skyshroud Forest enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{T}: Add {G} or {U} to your mana pool. Skyshroud Forest deals 1 damage to you.

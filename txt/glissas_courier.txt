@@ -1,0 +1,4 @@
+Glissa's Courier {1}{G}{G}
+Creature — Horror
+Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+2/3

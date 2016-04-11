@@ -1,0 +1,3 @@
+Liturgy of Blood {3}{B}{B}
+Sorcery
+Destroy target creature. Add {B}{B}{B} to your mana pool.

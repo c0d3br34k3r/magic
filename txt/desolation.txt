@@ -1,0 +1,3 @@
+Desolation {1}{B}{B}
+Enchantment
+At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. Desolation deals 2 damage to each player who sacrificed a Plains this way.

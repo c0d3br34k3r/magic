@@ -1,0 +1,3 @@
+Verdant Catacombs
+Land
+{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.

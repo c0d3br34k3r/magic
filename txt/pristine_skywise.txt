@@ -1,0 +1,5 @@
+Pristine Skywise {4}{W}{U}
+Creature — Dragon
+Flying
+Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.
+6/4

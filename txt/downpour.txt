@@ -1,0 +1,3 @@
+Downpour {1}{U}
+Instant
+Tap up to three target creatures.

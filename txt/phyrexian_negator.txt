@@ -1,0 +1,5 @@
+Phyrexian Negator {2}{B}
+Creature — Horror
+Trample
+Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents.
+5/5

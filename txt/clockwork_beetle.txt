@@ -1,0 +1,5 @@
+Clockwork Beetle {1}
+Artifact Creature — Insect
+Clockwork Beetle enters the battlefield with two +1/+1 counters on it.
+Whenever Clockwork Beetle attacks or blocks, remove a +1/+1 counter from it at end of combat.
+0/0

@@ -1,0 +1,4 @@
+Dakmor Bat {1}{B}
+Creature — Bat
+Flying
+1/1

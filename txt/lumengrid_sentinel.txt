@@ -1,0 +1,5 @@
+Lumengrid Sentinel {2}{U}
+Creature — Human Wizard
+Flying
+Whenever an artifact enters the battlefield under your control, you may tap target permanent.
+1/2

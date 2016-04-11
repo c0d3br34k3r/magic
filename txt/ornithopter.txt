@@ -1,0 +1,4 @@
+Ornithopter {0}
+Artifact Creature — Thopter
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+0/2

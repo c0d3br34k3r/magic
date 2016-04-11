@@ -1,0 +1,5 @@
+Vaporkin {1}{U}
+Creature — Elemental
+Flying
+Vaporkin can block only creatures with flying.
+2/1

@@ -1,0 +1,5 @@
+Canopy Dragon {4}{G}{G}
+Creature — Dragon
+Trample
+{1}{G}: Canopy Dragon gains flying and loses trample until end of turn.
+4/4

@@ -1,0 +1,3 @@
+Moonhold {2}{R/W}
+Instant
+Target player can't play land cards this turn if {R} was spent to cast Moonhold and can't play creature cards this turn if {W} was spent to cast it. (Do both if {R}{W} was spent.)

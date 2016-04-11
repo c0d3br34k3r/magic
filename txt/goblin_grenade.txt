@@ -1,0 +1,4 @@
+Goblin Grenade {R}
+Sorcery
+As an additional cost to cast Goblin Grenade, sacrifice a Goblin.
+Goblin Grenade deals 5 damage to target creature or player.

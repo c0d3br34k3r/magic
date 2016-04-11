@@ -1,0 +1,5 @@
+Felidar Sovereign {4}{W}{W}
+Creature — Cat Beast
+Vigilance, lifelink
+At the beginning of your upkeep, if you have 40 or more life, you win the game.
+4/6

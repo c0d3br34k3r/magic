@@ -1,0 +1,3 @@
+Armed Response {2}{W}
+Instant
+Armed Response deals damage to target attacking creature equal to the number of Equipment you control.

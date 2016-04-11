@@ -1,0 +1,4 @@
+Traitor's Roar {4}{B/R}
+Sorcery
+Tap target untapped creature. It deals damage equal to its power to its controller.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)

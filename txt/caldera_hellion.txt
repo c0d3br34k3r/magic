@@ -1,0 +1,5 @@
+Caldera Hellion {3}{R}{R}
+Creature — Hellion
+Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+When Caldera Hellion enters the battlefield, it deals 3 damage to each creature.
+3/3

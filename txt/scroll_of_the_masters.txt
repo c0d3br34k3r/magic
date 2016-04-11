@@ -1,0 +1,4 @@
+Scroll of the Masters {2}
+Artifact
+Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters.
+{3}, {T}: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters.

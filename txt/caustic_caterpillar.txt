@@ -1,0 +1,4 @@
+Caustic Caterpillar {G}
+Creature — Insect
+{1}{G}, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment.
+1/1

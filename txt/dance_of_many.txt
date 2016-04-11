@@ -1,0 +1,6 @@
+Dance of Many {U}{U}
+Enchantment
+When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.
+When Dance of Many leaves the battlefield, exile the token.
+When the token leaves the battlefield, sacrifice Dance of Many.
+At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.

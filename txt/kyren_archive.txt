@@ -1,0 +1,4 @@
+Kyren Archive {3}
+Artifact
+At the beginning of your upkeep, you may exile the top card of your library face down.
+{5}, Discard your hand, Sacrifice Kyren Archive: Put all cards exiled with Kyren Archive into their owner's hand.

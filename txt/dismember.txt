@@ -1,0 +1,4 @@
+Dismember {1}{B/P}{B/P}
+Instant
+({B/P} can be paid with either {B} or 2 life.)
+Target creature gets -5/-5 until end of turn.

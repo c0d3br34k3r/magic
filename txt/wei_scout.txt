@@ -1,0 +1,4 @@
+Wei Scout {1}{B}
+Creature — Human Soldier Scout
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+1/1

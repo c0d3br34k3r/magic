@@ -1,0 +1,4 @@
+Spinning Darkness {4}{B}{B}
+Instant
+You may exile the top three black cards of your graveyard rather than pay Spinning Darkness's mana cost.
+Spinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.

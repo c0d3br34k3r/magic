@@ -1,0 +1,3 @@
+Iron Maiden {3}
+Artifact
+At the beginning of each opponent's upkeep, Iron Maiden deals X damage to that player, where X is the number of cards in his or her hand minus 4.

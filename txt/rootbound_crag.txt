@@ -1,0 +1,4 @@
+Rootbound Crag
+Land
+Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G} to your mana pool.

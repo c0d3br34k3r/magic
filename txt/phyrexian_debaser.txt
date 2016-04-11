@@ -1,0 +1,5 @@
+Phyrexian Debaser {3}{B}
+Creature — Carrier
+Flying
+{T}, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn.
+2/2

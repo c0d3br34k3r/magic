@@ -1,0 +1,4 @@
+Expendable Troops {1}{W}
+Creature — Human Soldier
+{T}, Sacrifice Expendable Troops: Expendable Troops deals 2 damage to target attacking or blocking creature.
+2/1

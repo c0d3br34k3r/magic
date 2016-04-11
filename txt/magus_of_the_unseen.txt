@@ -1,0 +1,4 @@
+Magus of the Unseen {1}{U}
+Creature — Human Wizard
+{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.
+1/1

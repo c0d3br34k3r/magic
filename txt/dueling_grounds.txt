@@ -1,0 +1,4 @@
+Dueling Grounds {1}{W}{G}
+Enchantment
+No more than one creature can attack each turn.
+No more than one creature can block each turn.

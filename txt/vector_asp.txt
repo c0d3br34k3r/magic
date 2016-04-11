@@ -1,0 +1,4 @@
+Vector Asp {1}
+Artifact Creature — Snake
+{B}: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+1/1

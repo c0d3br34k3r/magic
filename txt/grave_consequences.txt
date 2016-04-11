@@ -1,0 +1,4 @@
+Grave Consequences {1}{B}
+Instant
+Each player may exile any number of cards from his or her graveyard. Then each player loses 1 life for each card in his or her graveyard.
+Draw a card.

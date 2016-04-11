@@ -1,0 +1,3 @@
+Luminesce {W}
+Instant
+Prevent all damage that black sources and red sources would deal this turn.

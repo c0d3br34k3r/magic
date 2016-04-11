@@ -1,0 +1,4 @@
+Blades of Velis Vel {1}{R}
+Tribal Instant — Shapeshifter
+Changeling (This card is every creature type.)
+Up to two target creatures each get +2/+0 and gain all creature types until end of turn.

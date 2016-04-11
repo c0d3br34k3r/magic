@@ -1,0 +1,4 @@
+Kitsune Loreweaver {1}{W}
+Creature — Fox Cleric
+{1}{W}: Kitsune Loreweaver gets +0/+X until end of turn, where X is the number of cards in your hand.
+2/1

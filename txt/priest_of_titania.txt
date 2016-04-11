@@ -1,0 +1,4 @@
+Priest of Titania {1}{G}
+Creature — Elf Druid
+{T}: Add {G} to your mana pool for each Elf on the battlefield.
+1/1

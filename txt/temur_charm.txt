@@ -1,0 +1,6 @@
+Temur Charm {U}{R}{G}
+Instant
+Choose one —
+• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.
+• Counter target spell unless its controller pays {3}.
+• Creatures with power 3 or less can't block this turn.

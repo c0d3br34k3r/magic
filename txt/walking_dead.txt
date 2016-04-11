@@ -1,0 +1,4 @@
+Walking Dead {1}{B}
+Creature — Zombie
+{B}: Regenerate Walking Dead.
+1/1

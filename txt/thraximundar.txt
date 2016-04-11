@@ -1,0 +1,6 @@
+Thraximundar {4}{U}{B}{R}
+Legendary Creature — Zombie Assassin
+Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.
+6/6

@@ -1,0 +1,3 @@
+Onyx Goblet {2}{B}
+Artifact
+{T}: Target player loses 1 life.

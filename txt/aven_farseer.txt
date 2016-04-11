@@ -1,0 +1,5 @@
+Aven Farseer {1}{W}
+Creature — Bird Soldier
+Flying
+Whenever a permanent is turned face up, put a +1/+1 counter on Aven Farseer.
+1/1

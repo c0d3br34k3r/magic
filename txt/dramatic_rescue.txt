@@ -1,0 +1,3 @@
+Dramatic Rescue {W}{U}
+Instant
+Return target creature to its owner's hand. You gain 2 life.

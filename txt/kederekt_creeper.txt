@@ -1,0 +1,5 @@
+Kederekt Creeper {U}{B}{R}
+Creature — Horror
+Menace (This creature can't be blocked except by two or more creatures.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/3

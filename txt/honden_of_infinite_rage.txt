@@ -1,0 +1,3 @@
+Honden of Infinite Rage {2}{R}
+Legendary Enchantment — Shrine
+At the beginning of your upkeep, Honden of Infinite Rage deals damage to target creature or player equal to the number of Shrines you control.

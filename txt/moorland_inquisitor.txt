@@ -1,0 +1,4 @@
+Moorland Inquisitor {1}{W}
+Creature — Human Soldier
+{2}{W}: Moorland Inquisitor gains first strike until end of turn.
+2/2

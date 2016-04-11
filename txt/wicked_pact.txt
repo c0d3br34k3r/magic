@@ -1,0 +1,3 @@
+Wicked Pact {1}{B}{B}
+Sorcery
+Destroy two target nonblack creatures. You lose 5 life.

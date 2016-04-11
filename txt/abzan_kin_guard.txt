@@ -1,0 +1,4 @@
+Abzan Kin-Guard {3}{G}
+Creature — Human Warrior
+Abzan Kin-Guard has lifelink as long as you control a white or black permanent.
+3/3

@@ -1,0 +1,3 @@
+Martyr's Bond {4}{W}{W}
+Enchantment
+Whenever Martyr's Bond or another nonland permanent you control is put into a graveyard from the battlefield, each opponent sacrifices a permanent that shares a card type with it.

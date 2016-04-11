@@ -1,0 +1,4 @@
+Thrull Wizard {2}{B}
+Creature — Thrull Wizard
+{1}{B}: Counter target black spell unless that spell's controller pays {B} or {3}.
+1/1

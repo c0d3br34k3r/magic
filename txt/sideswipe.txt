@@ -1,0 +1,3 @@
+Sideswipe {1}{R}
+Instant
+You may change any targets of target Arcane spell.

@@ -1,0 +1,5 @@
+Qumulox {6}{U}{U}
+Creature — Beast
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+5/4

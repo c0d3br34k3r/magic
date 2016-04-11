@@ -1,0 +1,4 @@
+Bog Smugglers {1}{B}{B}
+Creature — Human Mercenary
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+2/2

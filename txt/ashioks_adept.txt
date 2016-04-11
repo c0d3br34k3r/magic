@@ -1,0 +1,4 @@
+Ashiok's Adept {2}{B}
+Creature — Human Wizard
+Heroic — Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card.
+1/3

@@ -1,0 +1,4 @@
+Send to Sleep {1}{U}
+Instant
+Tap up to two target creatures.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures don't untap during their controllers' next untap steps.

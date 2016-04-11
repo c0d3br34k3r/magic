@@ -1,0 +1,3 @@
+Crevasse {2}{R}
+Enchantment
+Creatures with mountainwalk can be blocked as though they didn't have mountainwalk.

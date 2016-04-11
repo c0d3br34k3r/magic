@@ -1,0 +1,4 @@
+Viridian Harvest {G}
+Enchantment — Aura
+Enchant artifact
+When enchanted artifact is put into a graveyard, you gain 6 life.

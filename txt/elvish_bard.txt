@@ -1,0 +1,4 @@
+Elvish Bard {3}{G}{G}
+Creature — Elf Shaman
+All creatures able to block Elvish Bard do so.
+2/4

@@ -1,0 +1,4 @@
+Heartless Summoning {1}{B}
+Enchantment
+Creature spells you cast cost {2} less to cast.
+Creatures you control get -1/-1.

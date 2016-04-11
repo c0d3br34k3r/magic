@@ -1,0 +1,7 @@
+Hide {W}{R}
+Instant
+Put target artifact or enchantment on the bottom of its owner's library.
+* SPLIT *
+Seek {W}{B}
+Instant
+Search target opponent's library for a card and exile it. You gain life equal to its converted mana cost. Then that player shuffles his or her library.

@@ -1,0 +1,4 @@
+Rishadan Cutpurse {2}{U}
+Creature — Human Pirate
+When Rishadan Cutpurse enters the battlefield, each opponent sacrifices a permanent unless he or she pays {1}.
+1/1

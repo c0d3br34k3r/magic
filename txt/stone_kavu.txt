@@ -1,0 +1,5 @@
+Stone Kavu {4}{G}
+Creature — Kavu
+{R}: Stone Kavu gets +1/+0 until end of turn.
+{W}: Stone Kavu gets +0/+1 until end of turn.
+3/3

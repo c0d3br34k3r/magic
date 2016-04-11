@@ -1,0 +1,4 @@
+Druid of the Anima {1}{G}
+Creature — Elf Druid
+{T}: Add {R}, {G}, or {W} to your mana pool.
+1/1

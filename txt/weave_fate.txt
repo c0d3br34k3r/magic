@@ -1,0 +1,3 @@
+Weave Fate {3}{U}
+Instant
+Draw two cards.

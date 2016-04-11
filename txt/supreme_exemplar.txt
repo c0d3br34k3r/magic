@@ -1,0 +1,5 @@
+Supreme Exemplar {6}{U}
+Creature — Elemental
+Flying
+Champion an Elemental (When this enters the battlefield, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)
+10/10

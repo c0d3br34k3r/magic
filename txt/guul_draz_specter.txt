@@ -1,0 +1,6 @@
+Guul Draz Specter {2}{B}{B}
+Creature — Specter
+Flying
+Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.
+Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.
+2/2

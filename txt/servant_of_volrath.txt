@@ -1,0 +1,4 @@
+Servant of Volrath {2}{B}
+Creature — Minion
+When Servant of Volrath leaves the battlefield, sacrifice a creature.
+3/3

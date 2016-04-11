@@ -1,0 +1,5 @@
+Arashin Foremost {1}{W}{W}
+Creature — Human Warrior
+Double strike
+Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.
+2/2

@@ -1,0 +1,5 @@
+Azorius Guildmage {W/U}{W/U}
+Creature — Vedalken Wizard
+{2}{W}: Tap target creature.
+{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)
+2/2

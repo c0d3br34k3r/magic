@@ -1,0 +1,3 @@
+Hurricane {X}{G}
+Sorcery
+Hurricane deals X damage to each creature with flying and each player.

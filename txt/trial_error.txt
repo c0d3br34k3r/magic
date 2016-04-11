@@ -1,0 +1,7 @@
+Trial {W}{U}
+Instant
+Return all creatures blocking or blocked by target creature to their owner's hand.
+* SPLIT *
+Error {U}{B}
+Instant
+Counter target multicolored spell.

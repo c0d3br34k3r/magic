@@ -1,0 +1,4 @@
+Chief of the Scale {W}{B}
+Creature — Human Warrior
+Other Warrior creatures you control get +0/+1.
+2/3

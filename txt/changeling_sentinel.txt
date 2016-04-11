@@ -1,0 +1,5 @@
+Changeling Sentinel {3}{W}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+Vigilance
+3/2

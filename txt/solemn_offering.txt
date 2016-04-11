@@ -1,0 +1,3 @@
+Solemn Offering {2}{W}
+Sorcery
+Destroy target artifact or enchantment. You gain 4 life.

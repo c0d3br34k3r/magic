@@ -1,0 +1,4 @@
+Dwarven Scorcher {R}
+Creature — Dwarf
+Sacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.
+1/1

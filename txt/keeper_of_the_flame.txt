@@ -1,0 +1,4 @@
+Keeper of the Flame {R}{R}
+Creature — Human Wizard
+{R}, {T}: Choose target opponent who had more life than you did as you activated this ability. Keeper of the Flame deals 2 damage to him or her.
+1/2

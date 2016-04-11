@@ -1,0 +1,4 @@
+Sea Troll {2}{U}
+Creature — Troll
+{U}: Regenerate Sea Troll. Activate this ability only if Sea Troll blocked or was blocked by a blue creature this turn.
+2/1

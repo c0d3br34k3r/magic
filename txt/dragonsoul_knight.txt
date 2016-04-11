@@ -1,0 +1,5 @@
+Dragonsoul Knight {2}{R}
+Creature — Human Knight
+First strike
+{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.
+2/2

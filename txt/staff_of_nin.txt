@@ -1,0 +1,4 @@
+Staff of Nin {6}
+Artifact
+At the beginning of your upkeep, draw a card.
+{T}: Staff of Nin deals 1 damage to target creature or player.

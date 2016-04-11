@@ -1,0 +1,4 @@
+Gluttonous Zombie {4}{B}
+Creature — Zombie
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+3/3

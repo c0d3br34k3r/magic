@@ -1,0 +1,5 @@
+Sheltering Ancient {1}{G}
+Creature — Treefolk
+Trample
+Cumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+5/5

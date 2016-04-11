@@ -1,0 +1,5 @@
+Uyo, Silent Prophet {4}{U}{U}
+Legendary Creature — Moonfolk Wizard
+Flying
+{2}, Return two lands you control to their owner's hand: Copy target instant or sorcery spell. You may choose new targets for the copy.
+4/4

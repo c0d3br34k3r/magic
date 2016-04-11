@@ -1,0 +1,4 @@
+Spinneret Sliver {1}{G}
+Creature — Sliver
+All Sliver creatures have reach. (They can block creatures with flying.)
+2/2

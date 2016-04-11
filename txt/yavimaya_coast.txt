@@ -1,0 +1,4 @@
+Yavimaya Coast
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.

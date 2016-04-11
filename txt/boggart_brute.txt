@@ -1,0 +1,4 @@
+Boggart Brute {2}{R}
+Creature — Goblin Warrior
+Menace (This creature can't be blocked except by two or more creatures.)
+3/2

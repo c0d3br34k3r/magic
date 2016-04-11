@@ -1,0 +1,4 @@
+Crown of Doom {3}
+Artifact
+Whenever a creature attacks you or a planeswalker you control, it gets +2/+0 until end of turn.
+{2}: Target player other than Crown of Doom's owner gains control of it. Activate this ability only during your turn.

@@ -1,0 +1,4 @@
+Alaborn Cavalier {2}{W}{W}
+Creature — Human Knight
+Whenever Alaborn Cavalier attacks, you may tap target creature.
+2/2

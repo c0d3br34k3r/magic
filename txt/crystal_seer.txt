@@ -1,0 +1,5 @@
+Crystal Seer {4}{U}
+Creature — Vedalken Wizard
+When Crystal Seer enters the battlefield, look at the top four cards of your library, then put them back in any order.
+{4}{U}: Return Crystal Seer to its owner's hand.
+2/2

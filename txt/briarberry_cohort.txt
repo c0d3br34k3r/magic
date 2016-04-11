@@ -1,0 +1,5 @@
+Briarberry Cohort {1}{U}
+Creature — Faerie Soldier
+Flying
+Briarberry Cohort gets +1/+1 as long as you control another blue creature.
+1/1

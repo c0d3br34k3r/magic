@@ -1,0 +1,4 @@
+Gruul Scrapper {3}{G}
+Creature — Human Berserker
+When Gruul Scrapper enters the battlefield, if {R} was spent to cast Gruul Scrapper, it gains haste until end of turn.
+3/2

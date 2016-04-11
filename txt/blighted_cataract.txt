@@ -1,0 +1,4 @@
+Blighted Cataract
+Land
+{T}: Add {C} to your mana pool.
+{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.

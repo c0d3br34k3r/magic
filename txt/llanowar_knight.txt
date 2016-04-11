@@ -1,0 +1,4 @@
+Llanowar Knight {W}{G}
+Creature — Elf Knight
+Protection from black
+2/2

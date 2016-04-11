@@ -1,0 +1,3 @@
+Planar Portal {6}
+Artifact
+{6}, {T}: Search your library for a card and put that card into your hand. Then shuffle your library.

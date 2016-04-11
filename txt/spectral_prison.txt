@@ -1,0 +1,5 @@
+Spectral Prison {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.

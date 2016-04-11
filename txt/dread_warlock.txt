@@ -1,0 +1,4 @@
+Dread Warlock {1}{B}{B}
+Creature — Human Wizard
+Dread Warlock can't be blocked except by black creatures.
+2/2

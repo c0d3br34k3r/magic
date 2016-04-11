@@ -1,0 +1,4 @@
+Arrest {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.

@@ -1,0 +1,4 @@
+Cutthroat il-Dal {3}{B}
+Creature — Human Rogue
+Hellbent — Cutthroat il-Dal has shadow as long as you have no cards in hand. (It can block or be blocked by only creatures with shadow.)
+4/1

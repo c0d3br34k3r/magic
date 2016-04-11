@@ -1,0 +1,5 @@
+Street Wraith {3}{B}{B}
+Creature — Wraith
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)
+3/4

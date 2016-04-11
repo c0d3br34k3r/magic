@@ -1,0 +1,5 @@
+Ashen Monstrosity {5}{R}{R}
+Creature — Spirit
+Haste
+Ashen Monstrosity attacks each turn if able.
+7/4

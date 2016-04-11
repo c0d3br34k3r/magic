@@ -1,0 +1,4 @@
+Elite Javelineer {2}{W}
+Creature — Human Soldier
+Whenever Elite Javelineer blocks, it deals 1 damage to target attacking creature.
+2/2

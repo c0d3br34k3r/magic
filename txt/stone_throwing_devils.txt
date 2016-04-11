@@ -1,0 +1,4 @@
+Stone-Throwing Devils {B}
+Creature — Devil
+First strike
+1/1

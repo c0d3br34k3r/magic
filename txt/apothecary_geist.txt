@@ -1,0 +1,5 @@
+Apothecary Geist {3}{W}
+Creature — Spirit
+Flying
+When Apothecary Geist enters the battlefield, if you control another Spirit, you gain 3 life.
+2/3

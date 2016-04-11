@@ -1,0 +1,3 @@
+Self-Inflicted Wound {1}{B}
+Sorcery
+Target opponent sacrifices a green or white creature. If that player does, he or she loses 2 life.

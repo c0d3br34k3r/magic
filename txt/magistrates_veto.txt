@@ -1,0 +1,3 @@
+Magistrate's Veto {2}{R}
+Enchantment
+White creatures and blue creatures can't block.

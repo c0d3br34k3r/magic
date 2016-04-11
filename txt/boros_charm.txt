@@ -1,0 +1,6 @@
+Boros Charm {W}{R}
+Instant
+Choose one —
+• Boros Charm deals 4 damage to target player.
+• Permanents you control gain indestructible until end of turn.
+• Target creature gains double strike until end of turn.

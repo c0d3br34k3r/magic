@@ -1,0 +1,6 @@
+Jace, the Living Guildpact {2}{U}{U}
+Planeswalker — Jace
++1: Look at the top two cards of your library. Put one of them into your graveyard.
+−3: Return another target nonland permanent to its owner's hand.
+−8: Each player shuffles his or her hand and graveyard into his or her library. You draw seven cards.
+5

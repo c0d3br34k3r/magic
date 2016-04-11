@@ -1,0 +1,4 @@
+Mountain Bandit {R}
+Creature — Human Soldier Rogue
+Haste
+1/1

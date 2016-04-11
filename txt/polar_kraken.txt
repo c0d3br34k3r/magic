@@ -1,0 +1,6 @@
+Polar Kraken {8}{U}{U}{U}
+Creature — Kraken
+Trample
+Polar Kraken enters the battlefield tapped.
+Cumulative upkeep—Sacrifice a land. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+11/11

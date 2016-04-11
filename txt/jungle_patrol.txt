@@ -1,0 +1,5 @@
+Jungle Patrol {3}{G}
+Creature — Human Soldier
+{1}{G}, {T}:  Put a 0/1 green Wall creature token with defender named Wood onto the battlefield.
+Sacrifice a token named Wood: Add {R} to your mana pool.
+3/2

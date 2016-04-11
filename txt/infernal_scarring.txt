@@ -1,0 +1,4 @@
+Infernal Scarring {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0 and has "When this creature dies, draw a card."

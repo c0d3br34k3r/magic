@@ -1,0 +1,4 @@
+Phyrexian Tribute {2}{B}
+Sorcery
+As an additional cost to cast Phyrexian Tribute, sacrifice two creatures.
+Destroy target artifact.

@@ -1,0 +1,4 @@
+Steal Enchantment {U}{U}
+Enchantment — Aura
+Enchant enchantment
+You control enchanted enchantment.

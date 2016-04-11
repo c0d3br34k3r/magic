@@ -1,0 +1,6 @@
+Infested Roothold {4}{G}
+Creature — Wall
+Defender (This creature can't attack.)
+Protection from artifacts
+Whenever an opponent casts an artifact spell, you may put a 1/1 green Insect creature token onto the battlefield.
+0/3

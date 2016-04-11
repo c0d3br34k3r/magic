@@ -1,0 +1,9 @@
+Initiate of Blood {3}{R}
+Creature — Ogre Shaman
+{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.
+2/2
+* FLIP *
+Goka the Unjust {3}{R}
+Legendary Creature — Ogre Shaman
+{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.
+4/4

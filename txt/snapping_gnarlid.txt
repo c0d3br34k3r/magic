@@ -1,0 +1,4 @@
+Snapping Gnarlid {1}{G}
+Creature — Beast
+Landfall — Whenever a land enters the battlefield under your control, Snapping Gnarlid gets +1/+1 until end of turn.
+2/2

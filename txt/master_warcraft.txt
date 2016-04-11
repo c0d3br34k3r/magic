@@ -1,0 +1,5 @@
+Master Warcraft {2}{R/W}{R/W}
+Instant
+Cast Master Warcraft only before attackers are declared.
+You choose which creatures attack this turn.
+You choose which creatures block this turn and how those creatures block.

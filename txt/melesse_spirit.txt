@@ -1,0 +1,4 @@
+Melesse Spirit {3}{W}{W}
+Creature — Angel Spirit
+Flying, protection from black
+3/3

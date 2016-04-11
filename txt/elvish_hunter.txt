@@ -1,0 +1,4 @@
+Elvish Hunter {1}{G}
+Creature — Elf Archer
+{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+1/1

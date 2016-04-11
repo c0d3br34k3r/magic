@@ -1,0 +1,4 @@
+Orc Sureshot {3}{B}
+Creature — Orc Archer
+Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.
+4/2

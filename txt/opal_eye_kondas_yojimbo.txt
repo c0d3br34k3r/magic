@@ -1,0 +1,7 @@
+Opal-Eye, Konda's Yojimbo {1}{W}{W}
+Legendary Creature — Fox Samurai
+Defender (This creature can't attack.)
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{T}: The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead.
+{1}{W}: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.
+1/4

@@ -1,0 +1,4 @@
+Volcanic Fallout {1}{R}{R}
+Instant
+Volcanic Fallout can't be countered.
+Volcanic Fallout deals 2 damage to each creature and each player.

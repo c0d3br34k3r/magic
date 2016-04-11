@@ -1,0 +1,3 @@
+Karn's Touch {U}{U}
+Instant
+Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn. (It retains its abilities.)

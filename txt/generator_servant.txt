@@ -1,0 +1,4 @@
+Generator Servant {1}{R}
+Creature — Elemental
+{T}, Sacrifice Generator Servant: Add {C}{C} to your mana pool. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)
+2/1

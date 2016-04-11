@@ -1,0 +1,4 @@
+Darksteel Brute {2}
+Artifact
+Indestructible (Damage and effects that say "destroy" don't destroy this artifact.)
+{3}: Darksteel Brute becomes a 2/2 Beast artifact creature until end of turn.

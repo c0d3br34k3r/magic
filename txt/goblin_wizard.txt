@@ -1,0 +1,5 @@
+Goblin Wizard {2}{R}{R}
+Creature — Goblin Wizard
+{T}: You may put a Goblin permanent card from your hand onto the battlefield.
+{R}: Target Goblin gains protection from white until end of turn.
+1/1

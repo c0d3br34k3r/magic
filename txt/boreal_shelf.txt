@@ -1,0 +1,4 @@
+Boreal Shelf
+Snow Land
+Boreal Shelf enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.

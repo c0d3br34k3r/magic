@@ -1,0 +1,4 @@
+Rathi Trapper {1}{B}
+Creature — Human Rebel Rogue
+{B}, {T}: Tap target creature.
+1/2

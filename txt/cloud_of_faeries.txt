@@ -1,0 +1,6 @@
+Cloud of Faeries {1}{U}
+Creature — Faerie
+Flying
+When Cloud of Faeries enters the battlefield, untap up to two lands.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+1/1

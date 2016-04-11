@@ -1,0 +1,4 @@
+Glimmerpost
+Land — Locus
+When Glimmerpost enters the battlefield, you gain 1 life for each Locus on the battlefield.
+{T}: Add {C} to your mana pool.

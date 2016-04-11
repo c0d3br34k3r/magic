@@ -1,0 +1,4 @@
+Veteran Swordsmith {2}{W}
+Creature — Human Soldier
+Other Soldier creatures you control get +1/+0.
+3/2

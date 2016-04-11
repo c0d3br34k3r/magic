@@ -1,0 +1,5 @@
+Topan Freeblade {1}{W}
+Creature — Human Soldier
+Vigilance (Attacking doesn't cause this creature to tap.)
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+2/2

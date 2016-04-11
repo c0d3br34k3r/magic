@@ -1,0 +1,5 @@
+Mina and Denn, Wildborn {2}{R}{G}
+Legendary Creature — Elf Ally
+You may play an additional land on each of your turns.
+{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.
+4/4

@@ -1,0 +1,5 @@
+Saprazzan Bailiff {3}{U}{U}
+Creature — Merfolk
+When Saprazzan Bailiff enters the battlefield, exile all artifact and enchantment cards from all graveyards.
+When Saprazzan Bailiff leaves the battlefield, return all artifact and enchantment cards from all graveyards to their owners' hands.
+2/2

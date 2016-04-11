@@ -1,0 +1,3 @@
+Cruel Bargain {B}{B}{B}
+Sorcery
+Draw four cards. You lose half your life, rounded up.

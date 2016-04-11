@@ -1,0 +1,5 @@
+Dread Defiler {6}{B}
+Creature — Eldrazi
+Devoid (This card has no color.)
+{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)
+6/8

@@ -1,0 +1,4 @@
+Temple Elder {2}{W}
+Creature — Human Cleric
+{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+1/2

@@ -1,0 +1,4 @@
+Baleful Force {5}{B}{B}{B}
+Creature — Elemental
+At the beginning of each upkeep, you draw a card and you lose 1 life.
+7/7

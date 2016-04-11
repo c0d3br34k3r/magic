@@ -1,0 +1,4 @@
+Elvish Scrapper {G}
+Creature — Elf
+{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.
+1/1

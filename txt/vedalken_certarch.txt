@@ -1,0 +1,4 @@
+Vedalken Certarch {U}
+Creature — Vedalken Wizard
+Metalcraft — {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.
+1/1

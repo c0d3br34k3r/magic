@@ -1,0 +1,3 @@
+Bountiful Harvest {4}{G}
+Sorcery
+You gain 1 life for each land you control.

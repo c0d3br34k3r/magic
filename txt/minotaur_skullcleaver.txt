@@ -1,0 +1,5 @@
+Minotaur Skullcleaver {2}{R}
+Creature — Minotaur Berserker
+Haste
+When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.
+2/2

@@ -1,0 +1,5 @@
+Culling Drone {1}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+2/2

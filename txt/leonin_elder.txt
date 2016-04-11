@@ -1,0 +1,4 @@
+Leonin Elder {W}
+Creature — Cat Cleric
+Whenever an artifact enters the battlefield, you may gain 1 life.
+1/1

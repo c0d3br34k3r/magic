@@ -1,0 +1,4 @@
+Thicket Basilisk {3}{G}{G}
+Creature — Basilisk
+Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+2/4

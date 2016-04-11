@@ -1,0 +1,5 @@
+Ensouled Scimitar {3}
+Artifact — Equipment
+{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. (Equipment that's a creature can't equip a creature.)
+Equipped creature gets +1/+5.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

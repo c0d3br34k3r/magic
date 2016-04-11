@@ -1,0 +1,3 @@
+Flashfires {3}{R}
+Sorcery
+Destroy all Plains.

@@ -1,0 +1,5 @@
+Infected Vermin {2}{B}
+Creature — Rat
+{2}{B}: Infected Vermin deals 1 damage to each creature and each player.
+Threshold — {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.
+1/1

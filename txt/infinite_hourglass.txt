@@ -1,0 +1,5 @@
+Infinite Hourglass {4}
+Artifact
+At the beginning of your upkeep, put a time counter on Infinite Hourglass.
+All creatures get +1/+0 for each time counter on Infinite Hourglass.
+{3}: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step.

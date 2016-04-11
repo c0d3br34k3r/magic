@@ -1,0 +1,4 @@
+Emberwilde Augur {1}{R}
+Creature — Goblin Shaman
+Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.
+2/1

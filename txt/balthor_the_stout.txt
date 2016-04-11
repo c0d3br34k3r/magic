@@ -1,0 +1,5 @@
+Balthor the Stout {1}{R}{R}
+Legendary Creature — Dwarf Barbarian
+Other Barbarian creatures get +1/+1.
+{R}: Another target Barbarian creature gets +1/+0 until end of turn.
+2/2

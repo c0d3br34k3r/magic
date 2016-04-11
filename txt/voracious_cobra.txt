@@ -1,0 +1,5 @@
+Voracious Cobra {2}{R}{G}
+Creature — Snake
+First strike
+Whenever Voracious Cobra deals combat damage to a creature, destroy that creature.
+2/2

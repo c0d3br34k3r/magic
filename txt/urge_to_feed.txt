@@ -1,0 +1,3 @@
+Urge to Feed {B}{B}
+Instant
+Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.

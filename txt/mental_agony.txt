@@ -1,0 +1,3 @@
+Mental Agony {3}{B}
+Sorcery
+Target player discards two cards and loses 2 life.

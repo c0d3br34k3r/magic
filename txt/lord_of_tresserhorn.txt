@@ -1,0 +1,5 @@
+Lord of Tresserhorn {1}{U}{B}{R}
+Legendary Creature — Zombie
+When Lord of Tresserhorn enters the battlefield, you lose 2 life, you sacrifice two creatures, and target opponent draws two cards.
+{B}: Regenerate Lord of Tresserhorn.
+10/4

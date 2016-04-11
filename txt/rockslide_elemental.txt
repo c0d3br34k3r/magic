@@ -1,0 +1,5 @@
+Rockslide Elemental {2}{R}
+Creature — Elemental
+First strike
+Whenever another creature dies, you may put a +1/+1 counter on Rockslide Elemental.
+1/1

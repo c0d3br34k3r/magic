@@ -1,0 +1,4 @@
+Ravenous Rats {1}{B}
+Creature — Rat
+When Ravenous Rats enters the battlefield, target opponent discards a card.
+1/1

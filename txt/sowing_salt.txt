@@ -1,0 +1,3 @@
+Sowing Salt {2}{R}{R}
+Sorcery
+Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles his or her library.

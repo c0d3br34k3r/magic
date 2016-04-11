@@ -1,0 +1,4 @@
+Grotag Siege-Runner {1}{R}
+Creature — Goblin Rogue
+{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.
+2/1

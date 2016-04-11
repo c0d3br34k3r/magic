@@ -1,0 +1,4 @@
+Dross Prowler {2}{B}
+Creature — Zombie
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+2/1

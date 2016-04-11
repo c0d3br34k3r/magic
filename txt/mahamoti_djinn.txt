@@ -1,0 +1,4 @@
+Mahamoti Djinn {4}{U}{U}
+Creature — Djinn
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+5/6

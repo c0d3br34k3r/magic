@@ -1,0 +1,4 @@
+Primal Visitation {3}{R}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3 and has haste.

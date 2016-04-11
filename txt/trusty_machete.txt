@@ -1,0 +1,4 @@
+Trusty Machete {1}
+Artifact — Equipment
+Equipped creature gets +2/+1.
+Equip {2}

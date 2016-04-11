@@ -1,0 +1,4 @@
+Elvish Skysweeper {G}
+Creature — Elf Warrior
+{4}{G}, Sacrifice a creature: Destroy target creature with flying.
+1/1

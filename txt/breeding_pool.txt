@@ -1,0 +1,4 @@
+Breeding Pool
+Land — Forest Island
+({T}: Add {G} or {U} to your mana pool.)
+As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.

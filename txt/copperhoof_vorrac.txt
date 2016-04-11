@@ -1,0 +1,4 @@
+Copperhoof Vorrac {3}{G}{G}
+Creature — Boar Beast
+Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.
+2/2

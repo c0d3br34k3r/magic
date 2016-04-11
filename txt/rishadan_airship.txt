@@ -1,0 +1,5 @@
+Rishadan Airship {2}{U}
+Creature — Human Pirate
+Flying
+Rishadan Airship can block only creatures with flying.
+3/1

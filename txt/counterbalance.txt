@@ -1,0 +1,3 @@
+Counterbalance {U}{U}
+Enchantment
+Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.

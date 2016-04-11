@@ -1,0 +1,4 @@
+Desert
+Land — Desert
+{T}: Add {C} to your mana pool.
+{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.

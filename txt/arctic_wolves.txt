@@ -1,0 +1,5 @@
+Arctic Wolves {3}{G}{G}
+Creature — Wolf
+Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Arctic Wolves enters the battlefield, draw a card.
+4/5

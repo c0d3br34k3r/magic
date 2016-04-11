@@ -1,0 +1,5 @@
+Mortis Dogs {3}{B}
+Creature — Hound
+Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.
+When Mortis Dogs dies, target player loses life equal to its power.
+2/2

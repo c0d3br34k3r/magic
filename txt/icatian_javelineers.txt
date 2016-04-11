@@ -1,0 +1,5 @@
+Icatian Javelineers {W}
+Creature — Human Soldier
+Icatian Javelineers enters the battlefield with a javelin counter on it.
+{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+1/1

@@ -1,0 +1,5 @@
+Dark Hatchling {4}{B}{B}
+Creature — Horror
+Flying
+When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.
+3/3

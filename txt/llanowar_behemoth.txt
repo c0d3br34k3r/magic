@@ -1,0 +1,4 @@
+Llanowar Behemoth {3}{G}{G}
+Creature — Elemental
+Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.
+4/4

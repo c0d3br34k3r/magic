@@ -1,0 +1,4 @@
+Crystalline Sliver {W}{U}
+Creature — Sliver
+All Slivers have shroud. (They can't be the targets of spells or abilities.)
+2/2

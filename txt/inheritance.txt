@@ -1,0 +1,3 @@
+Inheritance {W}
+Enchantment
+Whenever a creature dies, you may pay {3}. If you do, draw a card.

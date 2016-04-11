@@ -1,0 +1,5 @@
+Irrigation Ditch
+Land
+Irrigation Ditch enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.

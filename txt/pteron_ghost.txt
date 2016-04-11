@@ -1,0 +1,5 @@
+Pteron Ghost {1}{W}
+Creature — Spirit
+Flying
+Sacrifice Pteron Ghost: Regenerate target artifact.
+1/1

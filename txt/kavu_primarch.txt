@@ -1,0 +1,6 @@
+Kavu Primarch {3}{G}
+Creature — Kavu
+Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 counters on it.
+3/3

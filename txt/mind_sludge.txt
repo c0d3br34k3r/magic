@@ -1,0 +1,3 @@
+Mind Sludge {4}{B}
+Sorcery
+Target player discards a card for each Swamp you control.

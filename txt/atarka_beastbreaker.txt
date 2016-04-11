@@ -1,0 +1,4 @@
+Atarka Beastbreaker {1}{G}
+Creature — Human Warrior
+Formidable — {4}{G}: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+2/2

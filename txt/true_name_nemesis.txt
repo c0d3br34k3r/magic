@@ -1,0 +1,5 @@
+True-Name Nemesis {1}{U}{U}
+Creature — Merfolk Rogue
+As True-Name Nemesis enters the battlefield, choose a player.
+True-Name Nemesis has protection from the chosen player. (This creature can't be blocked, targeted, dealt damage, or enchanted by anything controlled by that player.)
+3/1

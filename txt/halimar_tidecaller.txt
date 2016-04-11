@@ -1,0 +1,5 @@
+Halimar Tidecaller {2}{U}
+Creature — Human Wizard Ally
+When Halimar Tidecaller enters the battlefield, you may return target card with awaken from your graveyard to your hand.
+Land creatures you control have flying.
+2/3

@@ -1,0 +1,4 @@
+Sakiko, Mother of Summer {4}{G}{G}
+Legendary Creature — Snake Shaman
+Whenever a creature you control deals combat damage to a player, add that much {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.
+3/3

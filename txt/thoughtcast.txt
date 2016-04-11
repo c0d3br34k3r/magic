@@ -1,0 +1,4 @@
+Thoughtcast {4}{U}
+Sorcery
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.

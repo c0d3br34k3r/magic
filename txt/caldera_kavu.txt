@@ -1,0 +1,5 @@
+Caldera Kavu {2}{R}
+Creature — Kavu
+{1}{B}: Caldera Kavu gets +1/+1 until end of turn.
+{G}: Caldera Kavu becomes the color of your choice until end of turn.
+2/2

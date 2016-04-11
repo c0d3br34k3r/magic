@@ -1,0 +1,4 @@
+Ogre's Cleaver {2}
+Artifact — Equipment
+Equipped creature gets +5/+0.
+Equip {5}

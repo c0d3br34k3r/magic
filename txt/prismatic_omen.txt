@@ -1,0 +1,3 @@
+Prismatic Omen {1}{G}
+Enchantment
+Lands you control are every basic land type in addition to their other types.

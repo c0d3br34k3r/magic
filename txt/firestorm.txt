@@ -1,0 +1,4 @@
+Firestorm {R}
+Instant
+As an additional cost to cast Firestorm, discard X cards.
+Firestorm deals X damage to each of X target creatures and/or players.

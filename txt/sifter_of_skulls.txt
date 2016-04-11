@@ -1,0 +1,5 @@
+Sifter of Skulls {3}{B}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Whenever another nontoken creature you control dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." ({C} represents colorless mana.)
+4/3

@@ -1,0 +1,5 @@
+Slagstorm {1}{R}{R}
+Sorcery
+Choose one —
+• Slagstorm deals 3 damage to each creature.
+• Slagstorm deals 3 damage to each player.

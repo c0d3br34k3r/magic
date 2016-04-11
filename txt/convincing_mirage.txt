@@ -1,0 +1,5 @@
+Convincing Mirage {1}{U}
+Enchantment — Aura
+Enchant land
+As Convincing Mirage enters the battlefield, choose a basic land type.
+Enchanted land is the chosen type.

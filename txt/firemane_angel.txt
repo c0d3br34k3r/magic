@@ -1,0 +1,6 @@
+Firemane Angel {3}{W}{W}{R}
+Creature — Angel
+Flying, first strike
+At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.
+{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+4/3

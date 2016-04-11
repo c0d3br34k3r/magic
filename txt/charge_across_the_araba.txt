@@ -1,0 +1,3 @@
+Charge Across the Araba {4}{W}
+Instant — Arcane
+Sweep — Return any number of Plains you control to their owner's hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.

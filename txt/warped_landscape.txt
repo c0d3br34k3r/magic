@@ -1,0 +1,4 @@
+Warped Landscape
+Land
+{T}: Add {C} to your mana pool.
+{2}, {T}, Sacrifice Warped Landscape: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.

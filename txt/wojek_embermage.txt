@@ -1,0 +1,4 @@
+Wojek Embermage {3}{R}
+Creature — Human Wizard
+Radiance — {T}: Wojek Embermage deals 1 damage to target creature and each other creature that shares a color with it.
+1/2

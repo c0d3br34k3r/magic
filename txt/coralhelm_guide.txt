@@ -1,0 +1,4 @@
+Coralhelm Guide {1}{U}
+Creature — Merfolk Scout Ally
+{4}{U}: Target creature can't be blocked this turn.
+2/1

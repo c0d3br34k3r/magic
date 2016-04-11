@@ -1,0 +1,6 @@
+Steel Hellkite {6}
+Artifact Creature — Dragon
+Flying
+{2}: Steel Hellkite gets +1/+0 until end of turn.
+{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.
+5/5

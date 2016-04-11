@@ -1,0 +1,4 @@
+Gutless Ghoul {2}{B}
+Snow Creature — Zombie
+{1}, Sacrifice a creature: You gain 2 life.
+2/2

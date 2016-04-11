@@ -1,0 +1,5 @@
+Deathbringer Regent {5}{B}{B}
+Creature — Dragon
+Flying
+When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.
+5/6

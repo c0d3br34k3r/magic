@@ -1,0 +1,6 @@
+Spawnsire of Ulamog {10}
+Creature — Eldrazi
+Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+{4}: Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."
+{20}: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.
+7/11

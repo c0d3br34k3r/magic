@@ -1,0 +1,3 @@
+Peace and Quiet {1}{W}
+Instant
+Destroy two target enchantments.

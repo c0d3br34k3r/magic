@@ -1,0 +1,4 @@
+Cloudreach Cavalry {1}{W}
+Creature — Human Soldier
+As long as you control a Bird, Cloudreach Cavalry gets +2/+2 and has flying.
+1/1

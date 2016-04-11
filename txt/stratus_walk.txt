@@ -1,0 +1,6 @@
+Stratus Walk {1}{U}
+Enchantment — Aura
+Enchant creature
+When Stratus Walk enters the battlefield, draw a card.
+Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+Enchanted creature can block only creatures with flying.

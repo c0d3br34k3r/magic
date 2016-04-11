@@ -1,0 +1,5 @@
+Petravark {3}{R}
+Creature — Nightmare Beast
+When Petravark enters the battlefield, exile target land.
+When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+2/2

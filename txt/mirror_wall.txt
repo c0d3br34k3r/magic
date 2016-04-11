@@ -1,0 +1,5 @@
+Mirror Wall {3}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+{W}: Mirror Wall can attack this turn as though it didn't have defender.
+3/4

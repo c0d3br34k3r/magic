@@ -1,0 +1,5 @@
+Phyrexian Scuta {3}{B}
+Creature — Zombie
+Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)
+If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.
+3/3

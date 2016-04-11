@@ -1,0 +1,5 @@
+Ghostly Wings {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+Discard a card: Return enchanted creature to its owner's hand.

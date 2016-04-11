@@ -1,0 +1,4 @@
+Morbid Hunger {4}{B}{B}
+Sorcery
+Morbid Hunger deals 3 damage to target creature or player. You gain 3 life.
+Flashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

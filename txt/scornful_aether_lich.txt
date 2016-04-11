@@ -1,0 +1,4 @@
+Scornful Æther-Lich {3}{U}
+Artifact Creature — Zombie Wizard
+{W}{B}: Scornful Æther-Lich gains fear and vigilance until end of turn. (Attacking doesn't cause it to tap, and it can't be blocked except by artifact creatures and/or black creatures.)
+2/4

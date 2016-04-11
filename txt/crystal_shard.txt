@@ -1,0 +1,3 @@
+Crystal Shard {3}
+Artifact
+{3}, {T} or {U}, {T}: Return target creature to its owner's hand unless its controller pays {1}.

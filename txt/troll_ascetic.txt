@@ -1,0 +1,5 @@
+Troll Ascetic {1}{G}{G}
+Creature — Troll Shaman
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+{1}{G}: Regenerate Troll Ascetic.
+3/2

@@ -1,0 +1,4 @@
+Clutch of Undeath {3}{B}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3 as long as it's a Zombie. Otherwise, it gets -3/-3.

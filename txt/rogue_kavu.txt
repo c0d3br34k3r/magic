@@ -1,0 +1,4 @@
+Rogue Kavu {1}{R}
+Creature — Kavu
+Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.
+1/1

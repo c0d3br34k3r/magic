@@ -1,0 +1,3 @@
+Krovikan Scoundrel {1}{B}
+Creature — Human Rogue
+2/1

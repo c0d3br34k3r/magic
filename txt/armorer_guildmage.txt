@@ -1,0 +1,5 @@
+Armorer Guildmage {R}
+Creature — Human Wizard
+{B}, {T}: Target creature gets +1/+0 until end of turn.
+{G}, {T}: Target creature gets +0/+1 until end of turn.
+1/1

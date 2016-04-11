@@ -1,0 +1,5 @@
+Skywinder Drake {2}{U}
+Creature — Drake
+Flying
+Skywinder Drake can block only creatures with flying.
+3/1

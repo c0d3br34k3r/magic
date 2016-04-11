@@ -1,0 +1,5 @@
+Deus of Calamity {R/G}{R/G}{R/G}{R/G}{R/G}
+Creature — Spirit Avatar
+Trample
+Whenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.
+6/6

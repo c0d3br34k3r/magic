@@ -1,0 +1,4 @@
+Warrior en-Kor {W}{W}
+Creature — Kor Warrior Knight
+{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.
+2/2

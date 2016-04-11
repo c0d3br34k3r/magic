@@ -1,0 +1,4 @@
+Assert Authority {5}{U}{U}
+Instant
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.

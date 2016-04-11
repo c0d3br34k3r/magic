@@ -1,0 +1,4 @@
+Zealous Guardian {W/U}
+Creature — Kithkin Soldier
+Flash
+1/1

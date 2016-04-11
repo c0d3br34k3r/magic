@@ -1,0 +1,3 @@
+Fate Forgotten {2}{W}
+Instant
+Exile target artifact or enchantment.

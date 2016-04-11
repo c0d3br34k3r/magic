@@ -1,0 +1,4 @@
+Bloom Tender {1}{G}
+Creature — Elf Druid
+{T}: For each color among permanents you control, add one mana of that color to your mana pool.
+1/1

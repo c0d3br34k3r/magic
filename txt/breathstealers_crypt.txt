@@ -1,0 +1,3 @@
+Breathstealer's Crypt {2}{U}{B}
+Enchantment
+If a player would draw a card, instead he or she draws a card and reveals it. If it's a creature card, that player discards it unless he or she pays 3 life.

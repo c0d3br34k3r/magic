@@ -1,0 +1,4 @@
+Malachite Golem {6}
+Artifact Creature — Golem
+{1}{G}: Malachite Golem gains trample until end of turn.
+5/3

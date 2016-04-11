@@ -1,0 +1,5 @@
+Jeweled Spirit {3}{W}{W}
+Creature — Spirit
+Flying
+Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.
+3/3

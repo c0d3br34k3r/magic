@@ -1,0 +1,3 @@
+Void {3}{B}{R}
+Sorcery
+Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number.

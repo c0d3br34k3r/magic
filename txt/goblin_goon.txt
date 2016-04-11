@@ -1,0 +1,5 @@
+Goblin Goon {3}{R}
+Creature — Goblin Mutant
+Goblin Goon can't attack unless you control more creatures than defending player.
+Goblin Goon can't block unless you control more creatures than attacking player.
+6/6

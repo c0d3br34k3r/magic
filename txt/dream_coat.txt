@@ -1,0 +1,4 @@
+Dream Coat {U}
+Enchantment — Aura
+Enchant creature
+{0}: Enchanted creature becomes the color or colors of your choice. Activate this ability only once each turn.

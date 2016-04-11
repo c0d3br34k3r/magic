@@ -1,0 +1,4 @@
+Flanking Troops {2}{W}{W}
+Creature — Human Soldier
+Whenever Flanking Troops attacks, you may tap target creature.
+2/2

@@ -1,0 +1,4 @@
+Cloud Manta {3}{U}
+Creature — Fish
+Flying
+3/2

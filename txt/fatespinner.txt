@@ -1,0 +1,4 @@
+Fatespinner {1}{U}{U}
+Creature — Human Wizard
+At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.
+1/2

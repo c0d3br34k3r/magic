@@ -1,0 +1,4 @@
+Goblin Turncoat {1}{B}
+Creature — Goblin Mercenary
+Sacrifice a Goblin: Regenerate Goblin Turncoat.
+2/1

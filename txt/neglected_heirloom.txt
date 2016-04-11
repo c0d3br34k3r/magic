@@ -1,0 +1,10 @@
+Neglected Heirloom {1}
+Artifact — Equipment
+Equipped creature gets +1/+1.
+When equipped creature transforms, transform Neglected Heirloom.
+Equip {1}
+* DOUBLE-FACED *
+Ashmouth Blade
+Artifact — Equipment
+Equipped creature gets +3/+3 and has first strike.
+Equip {3}

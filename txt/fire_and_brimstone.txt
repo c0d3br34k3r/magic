@@ -1,0 +1,3 @@
+Fire and Brimstone {3}{W}{W}
+Instant
+Fire and Brimstone deals 4 damage to target player who declared an attacking creature this turn and 4 damage to you.

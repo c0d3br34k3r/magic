@@ -1,0 +1,4 @@
+Shadow Sliver {2}{U}
+Creature — Sliver
+All Sliver creatures have shadow. (They can block or be blocked by only creatures with shadow.)
+1/1

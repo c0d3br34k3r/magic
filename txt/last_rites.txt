@@ -1,0 +1,3 @@
+Last Rites {2}{B}
+Sorcery
+Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.

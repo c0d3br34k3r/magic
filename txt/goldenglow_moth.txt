@@ -1,0 +1,5 @@
+Goldenglow Moth {W}
+Creature — Insect
+Flying
+Whenever Goldenglow Moth blocks, you may gain 4 life.
+0/1

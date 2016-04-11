@@ -1,0 +1,3 @@
+Inner Calm, Outer Strength {2}{G}
+Instant — Arcane
+Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.

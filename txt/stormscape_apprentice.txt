@@ -1,0 +1,5 @@
+Stormscape Apprentice {U}
+Creature — Human Wizard
+{W}, {T}: Tap target creature.
+{B}, {T}: Target player loses 1 life.
+1/1

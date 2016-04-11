@@ -1,0 +1,3 @@
+Armageddon {3}{W}
+Sorcery
+Destroy all lands.

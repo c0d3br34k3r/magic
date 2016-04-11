@@ -1,0 +1,3 @@
+Chimeric Staff {4}
+Artifact
+{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.

@@ -1,0 +1,4 @@
+Anthousa, Setessan Hero {3}{G}{G}
+Legendary Creature — Human Warrior
+Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.
+4/5

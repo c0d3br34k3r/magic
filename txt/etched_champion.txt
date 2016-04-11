@@ -1,0 +1,4 @@
+Etched Champion {3}
+Artifact Creature — Soldier
+Metalcraft — Etched Champion has protection from all colors as long as you control three or more artifacts.
+2/2

@@ -1,0 +1,4 @@
+Ivy Lane Denizen {3}{G}
+Creature — Elf Warrior
+Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on target creature.
+2/3

@@ -1,0 +1,4 @@
+Yavimaya Barbarian {R}{G}
+Creature — Elf Barbarian
+Protection from blue
+2/2

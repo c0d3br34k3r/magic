@@ -1,0 +1,3 @@
+Wastes
+Basic Land
+{T}: Add {C} to your mana pool.

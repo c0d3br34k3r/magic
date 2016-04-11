@@ -1,0 +1,4 @@
+Karametra's Acolyte {3}{G}
+Creature — Human Druid
+{T}: Add an amount of {G} to your mana pool equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+1/4

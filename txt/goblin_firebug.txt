@@ -1,0 +1,4 @@
+Goblin Firebug {1}{R}
+Creature — Goblin
+When Goblin Firebug leaves the battlefield, sacrifice a land.
+2/2

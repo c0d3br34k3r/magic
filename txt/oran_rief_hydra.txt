@@ -1,0 +1,5 @@
+Oran-Rief Hydra {4}{G}{G}
+Creature — Hydra
+Trample
+Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Oran-Rief Hydra. If that land is a Forest, put two +1/+1 counters on Oran-Rief Hydra instead.
+5/5

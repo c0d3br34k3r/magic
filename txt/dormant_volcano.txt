@@ -1,0 +1,5 @@
+Dormant Volcano
+Land
+Dormant Volcano enters the battlefield tapped.
+When Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.
+{T}: Add {C}{R} to your mana pool.

@@ -1,0 +1,5 @@
+Veldt
+Land
+Veldt doesn't untap during your untap step if it has a depletion counter on it.
+At the beginning of your upkeep, remove a depletion counter from Veldt.
+{T}: Add {G} or {W} to your mana pool. Put a depletion counter on Veldt.

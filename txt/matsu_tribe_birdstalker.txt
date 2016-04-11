@@ -1,0 +1,5 @@
+Matsu-Tribe Birdstalker {2}{G}{G}
+Creature — Snake Warrior Archer
+Whenever Matsu-Tribe Birdstalker deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
+{G}: Matsu-Tribe Birdstalker gains reach until end of turn. (It can block creatures with flying.)
+2/2

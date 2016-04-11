@@ -1,0 +1,4 @@
+Metathran Soldier {1}{U}
+Creature — Metathran Soldier
+Metathran Soldier can't be blocked.
+1/1

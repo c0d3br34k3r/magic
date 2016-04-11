@@ -1,0 +1,4 @@
+Wasp Lancer {U/B}{U/B}{U/B}
+Creature — Faerie Soldier
+Flying
+3/2

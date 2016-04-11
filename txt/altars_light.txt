@@ -1,0 +1,3 @@
+Altar's Light {2}{W}{W}
+Instant
+Exile target artifact or enchantment.

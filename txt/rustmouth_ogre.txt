@@ -1,0 +1,4 @@
+Rustmouth Ogre {4}{R}{R}
+Creature — Ogre
+Whenever Rustmouth Ogre deals combat damage to a player, you may destroy target artifact that player controls.
+5/4

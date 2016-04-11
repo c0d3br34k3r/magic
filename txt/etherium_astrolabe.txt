@@ -1,0 +1,4 @@
+Etherium Astrolabe {2}{U}
+Artifact
+Flash
+{B}, {T}, Sacrifice an artifact: Draw a card.

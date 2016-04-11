@@ -1,0 +1,4 @@
+Bloodfire Mentor {2}{R}
+Creature — Efreet Shaman
+{2}{U}, {T}: Draw a card, then discard a card.
+0/5

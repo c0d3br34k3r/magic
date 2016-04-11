@@ -1,0 +1,5 @@
+Soratami Mirror-Mage {3}{U}
+Creature — Moonfolk Wizard
+Flying
+{3}, Return three lands you control to their owner's hand: Return target creature to its owner's hand.
+2/1

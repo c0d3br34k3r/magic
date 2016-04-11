@@ -1,0 +1,4 @@
+City of Shadows
+Land
+{T}, Exile a creature you control: Put a storage counter on City of Shadows.
+{T}: Add {C} to your mana pool for each storage counter on City of Shadows.

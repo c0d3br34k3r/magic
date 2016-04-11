@@ -1,0 +1,4 @@
+Cagemail {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and can't attack.

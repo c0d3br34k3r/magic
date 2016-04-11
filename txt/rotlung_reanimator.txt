@@ -1,0 +1,4 @@
+Rotlung Reanimator {2}{B}
+Creature — Zombie Cleric
+Whenever Rotlung Reanimator or another Cleric dies, put a 2/2 black Zombie creature token onto the battlefield.
+2/2

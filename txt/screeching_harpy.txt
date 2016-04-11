@@ -1,0 +1,5 @@
+Screeching Harpy {2}{B}{B}
+Creature — Harpy Beast
+Flying
+{1}{B}: Regenerate Screeching Harpy.
+2/2

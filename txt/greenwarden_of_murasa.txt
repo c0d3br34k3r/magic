@@ -1,0 +1,5 @@
+Greenwarden of Murasa {4}{G}{G}
+Creature — Elemental
+When Greenwarden of Murasa enters the battlefield, you may return target card from your graveyard to your hand.
+When Greenwarden of Murasa dies, you may exile it. If you do, return target card from your graveyard to your hand.
+5/4

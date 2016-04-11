@@ -1,0 +1,6 @@
+Roc Hatchling {R}
+Creature — Bird
+Roc Hatchling enters the battlefield with four shell counters on it.
+At the beginning of your upkeep, remove a shell counter from Roc Hatchling.
+As long as Roc Hatchling has no shell counters on it, it gets +3/+2 and has flying.
+0/1

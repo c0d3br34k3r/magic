@@ -1,0 +1,4 @@
+Mirrorwood Treefolk {3}{G}
+Creature — Treefolk
+{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.
+2/4

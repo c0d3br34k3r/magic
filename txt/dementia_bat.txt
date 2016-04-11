@@ -1,0 +1,5 @@
+Dementia Bat {4}{B}
+Creature — Bat
+Flying
+{4}{B}, Sacrifice Dementia Bat: Target player discards two cards.
+2/2

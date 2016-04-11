@@ -1,0 +1,3 @@
+Backdraft {1}{R}
+Instant
+Choose a player who cast one or more sorcery spells this turn. Backdraft deals damage to that player equal to half the damage dealt by one of those sorcery spells this turn, rounded down.

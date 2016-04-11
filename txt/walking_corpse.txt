@@ -1,0 +1,3 @@
+Walking Corpse {1}{B}
+Creature — Zombie
+2/2

@@ -1,0 +1,4 @@
+Polluted Dead {4}{B}
+Creature — Zombie
+When Polluted Dead dies, destroy target land.
+3/3

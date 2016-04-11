@@ -1,0 +1,4 @@
+Endless Cockroaches {1}{B}{B}
+Creature — Insect
+When Endless Cockroaches dies, return it to its owner's hand.
+1/1

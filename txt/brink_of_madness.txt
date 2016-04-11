@@ -1,0 +1,3 @@
+Brink of Madness {2}{B}{B}
+Enchantment
+At the beginning of your upkeep, if you have no cards in hand, sacrifice Brink of Madness and target opponent discards his or her hand.

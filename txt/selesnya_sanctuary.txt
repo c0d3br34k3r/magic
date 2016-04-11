@@ -1,0 +1,5 @@
+Selesnya Sanctuary
+Land
+Selesnya Sanctuary enters the battlefield tapped.
+When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{W} to your mana pool.

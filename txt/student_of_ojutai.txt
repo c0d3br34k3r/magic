@@ -1,0 +1,4 @@
+Student of Ojutai {3}{W}
+Creature — Human Monk
+Whenever you cast a noncreature spell, you gain 2 life.
+2/4

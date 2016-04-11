@@ -1,0 +1,4 @@
+Kalastria Nightwatch {4}{B}
+Creature — Vampire Warrior Ally
+Whenever you gain life, Kalastria Nightwatch gains flying until end of turn.
+4/5

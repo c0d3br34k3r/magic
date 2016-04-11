@@ -1,0 +1,4 @@
+Pale Bears {2}{G}
+Creature — Bear
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+2/2

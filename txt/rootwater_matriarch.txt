@@ -1,0 +1,4 @@
+Rootwater Matriarch {2}{U}{U}
+Creature — Merfolk
+{T}: Gain control of target creature for as long as that creature is enchanted.
+2/3

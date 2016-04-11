@@ -1,0 +1,4 @@
+Diffusion Sliver {1}{U}
+Creature — Sliver
+Whenever a Sliver creature you control becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.
+1/1

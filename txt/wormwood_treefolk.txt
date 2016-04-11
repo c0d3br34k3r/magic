@@ -1,0 +1,5 @@
+Wormwood Treefolk {3}{G}{G}
+Creature — Treefolk
+{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and deals 2 damage to you. (It can't be blocked as long as defending player controls a Forest.)
+{B}{B}: Wormwood Treefolk gains swampwalk until end of turn and deals 2 damage to you. (It can't be blocked as long as defending player controls a Swamp.)
+4/4

@@ -1,0 +1,4 @@
+Katabatic Winds {2}{G}
+Enchantment
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Creatures with flying can't attack or block, and their activated abilities with {T} in their costs can't be activated.

@@ -1,0 +1,4 @@
+Hulking Goblin {1}{R}
+Creature — Goblin
+Hulking Goblin can't block.
+2/2

@@ -1,0 +1,5 @@
+Feral Ridgewolf {2}{R}
+Creature — Wolf
+Trample
+{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.
+1/2

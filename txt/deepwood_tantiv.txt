@@ -1,0 +1,4 @@
+Deepwood Tantiv {4}{G}
+Creature — Beast
+Whenever Deepwood Tantiv becomes blocked, you gain 2 life.
+2/4

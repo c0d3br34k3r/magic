@@ -1,0 +1,4 @@
+Foxfire Oak {5}{G}
+Creature — Treefolk Shaman
+{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.
+3/6

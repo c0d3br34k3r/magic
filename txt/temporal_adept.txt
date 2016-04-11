@@ -1,0 +1,4 @@
+Temporal Adept {1}{U}{U}
+Creature — Human Wizard
+{U}{U}{U}, {T}: Return target permanent to its owner's hand.
+1/1

@@ -1,0 +1,4 @@
+Jhessian Infiltrator {U}{G}
+Creature — Human Rogue
+Jhessian Infiltrator can't be blocked.
+2/2

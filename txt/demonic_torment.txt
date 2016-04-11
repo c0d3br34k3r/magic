@@ -1,0 +1,5 @@
+Demonic Torment {2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack.
+Prevent all combat damage that would be dealt by enchanted creature.

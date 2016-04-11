@@ -1,0 +1,5 @@
+Skyward Eye Prophets {3}{W}{U}{G}
+Creature — Human Wizard
+Vigilance
+{T}: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+3/3

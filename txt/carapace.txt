@@ -1,0 +1,5 @@
+Carapace {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +0/+2.
+Sacrifice Carapace: Regenerate enchanted creature.

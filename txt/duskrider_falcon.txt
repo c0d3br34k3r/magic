@@ -1,0 +1,4 @@
+Duskrider Falcon {1}{W}
+Creature — Bird
+Flying, protection from black
+1/1

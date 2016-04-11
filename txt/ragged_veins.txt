@@ -1,0 +1,5 @@
+Ragged Veins {1}{B}
+Enchantment — Aura
+Flash
+Enchant creature
+Whenever enchanted creature is dealt damage, its controller loses that much life.

@@ -1,0 +1,5 @@
+Broodmate Dragon {3}{B}{R}{G}
+Creature — Dragon
+Flying
+When Broodmate Dragon enters the battlefield, put a 4/4 red Dragon creature token with flying onto the battlefield.
+4/4

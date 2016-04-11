@@ -1,0 +1,4 @@
+Brink of Disaster {2}{B}{B}
+Enchantment — Aura
+Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.

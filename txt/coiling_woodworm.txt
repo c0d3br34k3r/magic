@@ -1,0 +1,4 @@
+Coiling Woodworm {2}{G}
+Creature — Insect Worm
+Coiling Woodworm's power is equal to the number of Forests on the battlefield.
+*/1

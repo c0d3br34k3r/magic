@@ -1,0 +1,3 @@
+Roast {1}{R}
+Sorcery
+Roast deals 5 damage to target creature without flying.

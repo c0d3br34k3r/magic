@@ -1,0 +1,3 @@
+Grasp of Darkness {B}{B}
+Instant
+Target creature gets -4/-4 until end of turn.

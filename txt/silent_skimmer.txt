@@ -1,0 +1,6 @@
+Silent Skimmer {3}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Flying
+Whenever Silent Skimmer attacks, defending player loses 2 life.
+0/4

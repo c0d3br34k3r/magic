@@ -1,0 +1,5 @@
+Overwhelming Denial {2}{U}{U}
+Instant
+Surge {U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Overwhelming Denial can't be countered by spells or abilities.
+Counter target spell.

@@ -1,0 +1,5 @@
+Chisei, Heart of Oceans {2}{U}{U}
+Legendary Creature — Spirit
+Flying
+At the beginning of your upkeep, sacrifice Chisei, Heart of Oceans unless you remove a counter from a permanent you control.
+4/4

@@ -1,0 +1,4 @@
+Hunted Wumpus {3}{G}
+Creature — Beast
+When Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.
+6/6

@@ -1,0 +1,5 @@
+Avarice Amulet {4}
+Artifact — Equipment
+Equipped creature gets +2/+0 and has vigilance and "At the beginning of your upkeep, draw a card."
+When equipped creature dies, target opponent gains control of Avarice Amulet.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

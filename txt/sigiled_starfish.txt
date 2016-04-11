@@ -1,0 +1,4 @@
+Sigiled Starfish {1}{U}
+Creature — Starfish
+{T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+0/3

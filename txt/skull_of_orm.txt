@@ -1,0 +1,3 @@
+Skull of Orm {3}
+Artifact
+{5}, {T}: Return target enchantment card from your graveyard to your hand.

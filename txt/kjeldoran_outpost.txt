@@ -1,0 +1,5 @@
+Kjeldoran Outpost
+Land
+If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {W} to your mana pool.
+{1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.

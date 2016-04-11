@@ -1,0 +1,4 @@
+Savage Offensive {1}{R}
+Sorcery
+Kicker {G} (You may pay an additional {G} as you cast this spell.)
+Creatures you control gain first strike until end of turn. If Savage Offensive was kicked, they get +1/+1 until end of turn.

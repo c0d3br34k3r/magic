@@ -1,0 +1,3 @@
+Graceful Reprieve {1}{W}
+Instant
+When target creature dies this turn, return that card to the battlefield under its owner's control.

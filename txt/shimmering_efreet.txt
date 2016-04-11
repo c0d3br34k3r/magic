@@ -1,0 +1,6 @@
+Shimmering Efreet {2}{U}
+Creature — Efreet
+Flying
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Whenever Shimmering Efreet phases in, target creature phases out. (It phases in before its controller untaps during his or her next untap step.)
+2/2

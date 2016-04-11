@@ -1,0 +1,4 @@
+Sky Spirit {1}{W}{U}
+Creature — Spirit
+Flying, first strike
+2/2

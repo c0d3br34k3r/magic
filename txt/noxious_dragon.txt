@@ -1,0 +1,5 @@
+Noxious Dragon {4}{B}{B}
+Creature — Dragon
+Flying
+When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.
+4/4

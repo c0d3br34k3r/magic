@@ -1,0 +1,5 @@
+Deft Duelist {W}{U}
+Creature — Human Rogue
+First strike
+Shroud (This creature can't be the target of spells or abilities.)
+2/1

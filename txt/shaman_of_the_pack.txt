@@ -1,0 +1,4 @@
+Shaman of the Pack {1}{B}{G}
+Creature — Elf Shaman
+When Shaman of the Pack enters the battlefield, target opponent loses life equal to the number of Elves you control.
+3/2

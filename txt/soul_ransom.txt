@@ -1,0 +1,5 @@
+Soul Ransom {2}{U}{B}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.

@@ -1,0 +1,4 @@
+Pariah {2}{W}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+All damage that would be dealt to you is dealt to enchanted creature instead.

@@ -1,0 +1,6 @@
+Oracle of Mul Daya {3}{G}
+Creature — Elf Shaman
+You may play an additional land on each of your turns.
+Play with the top card of your library revealed.
+You may play the top card of your library if it's a land card.
+2/2

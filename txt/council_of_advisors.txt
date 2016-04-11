@@ -1,0 +1,4 @@
+Council of Advisors {2}{U}
+Creature — Human Advisor
+When Council of Advisors enters the battlefield, draw a card.
+1/1

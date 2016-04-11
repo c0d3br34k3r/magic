@@ -1,0 +1,5 @@
+Putrid Imp {B}
+Creature — Zombie Imp
+Discard a card: Putrid Imp gains flying until end of turn.
+Threshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+1/1

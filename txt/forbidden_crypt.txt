@@ -1,0 +1,4 @@
+Forbidden Crypt {3}{B}{B}
+Enchantment
+If you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.
+If a card would be put into your graveyard from anywhere, exile that card instead.

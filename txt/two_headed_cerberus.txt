@@ -1,0 +1,4 @@
+Two-Headed Cerberus {1}{R}{R}
+Creature — Hound
+Double strike (This creature deals both first-strike and regular combat damage.)
+1/2

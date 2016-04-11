@@ -1,0 +1,4 @@
+Halfdane {1}{W}{U}{B}
+Legendary Creature — Shapeshifter
+At the beginning of your upkeep, change Halfdane's base power and toughness to the power and toughness of target creature other than Halfdane until the end of your next upkeep.
+3/3

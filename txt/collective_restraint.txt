@@ -1,0 +1,3 @@
+Collective Restraint {3}{U}
+Enchantment
+Domain — Creatures can't attack you unless their controller pays {X} for each creature he or she controls that's attacking you, where X is the number of basic land types among lands you control.

@@ -1,0 +1,3 @@
+Font of Fortunes {1}{U}
+Enchantment
+{1}{U}, Sacrifice Font of Fortunes: Draw two cards.

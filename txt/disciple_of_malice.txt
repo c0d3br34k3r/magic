@@ -1,0 +1,5 @@
+Disciple of Malice {1}{B}
+Creature — Human Cleric
+Protection from white
+Cycling {2} ({2}, Discard this card: Draw a card.)
+1/2

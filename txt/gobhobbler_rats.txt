@@ -1,0 +1,4 @@
+Gobhobbler Rats {B}{R}
+Creature — Rat
+Hellbent — As long as you have no cards in hand, Gobhobbler Rats gets +1/+0 and has "{B}: Regenerate Gobhobbler Rats."
+2/2

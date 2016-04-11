@@ -1,0 +1,5 @@
+Rathi Dragon {2}{R}{R}
+Creature — Dragon
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.
+5/5

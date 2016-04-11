@@ -1,0 +1,5 @@
+Skarrg Guildmage {R}{G}
+Creature — Human Shaman
+{R}{G}: Creatures you control gain trample until end of turn.
+{1}{R}{G}: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
+2/2

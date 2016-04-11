@@ -1,0 +1,4 @@
+Boros Guildgate
+Land — Gate
+Boros Guildgate enters the battlefield tapped.
+{T}: Add {R} or {W} to your mana pool.

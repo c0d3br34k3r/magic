@@ -1,0 +1,3 @@
+Keldon Twilight {1}{B}{R}
+Enchantment
+At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.

@@ -1,0 +1,9 @@
+Civilized Scholar {2}{U}
+Creature — Human Advisor
+{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.
+0/1
+* DOUBLE-FACED *
+Homicidal Brute
+(R) Creature — Human Mutant
+At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.
+5/1

@@ -1,0 +1,4 @@
+Wood Elves {2}{G}
+Creature — Elf Scout
+When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+1/1

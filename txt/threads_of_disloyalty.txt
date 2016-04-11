@@ -1,0 +1,4 @@
+Threads of Disloyalty {1}{U}{U}
+Enchantment — Aura
+Enchant creature with converted mana cost 2 or less
+You control enchanted creature.

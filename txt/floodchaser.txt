@@ -1,0 +1,6 @@
+Floodchaser {5}{U}
+Creature — Elemental
+Floodchaser enters the battlefield with six +1/+1 counters on it.
+Floodchaser can't attack unless defending player controls an Island.
+{U}, Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.
+0/0

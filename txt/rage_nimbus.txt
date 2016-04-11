@@ -1,0 +1,5 @@
+Rage Nimbus {2}{R}
+Creature — Elemental
+Defender, flying
+{1}{R}: Target creature attacks this turn if able.
+5/3

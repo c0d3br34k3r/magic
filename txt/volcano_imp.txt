@@ -1,0 +1,5 @@
+Volcano Imp {3}{B}
+Creature — Imp
+Flying
+{1}{R}: Volcano Imp gains first strike until end of turn.
+2/2

@@ -1,0 +1,3 @@
+Distant Melody {3}{U}
+Sorcery
+Choose a creature type. Draw a card for each permanent you control of that type.

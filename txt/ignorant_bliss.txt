@@ -1,0 +1,3 @@
+Ignorant Bliss {1}{R}
+Instant
+Exile all cards from your hand face down. At the beginning of the next end step, return those cards to your hand, then draw a card.

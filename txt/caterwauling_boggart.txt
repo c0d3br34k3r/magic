@@ -1,0 +1,4 @@
+Caterwauling Boggart {3}{R}
+Creature — Goblin Shaman
+Goblins you control and Elementals you control have menace. (They can't be blocked except by two or more creatures.)
+2/2

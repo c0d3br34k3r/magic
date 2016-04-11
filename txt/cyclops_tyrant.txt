@@ -1,0 +1,5 @@
+Cyclops Tyrant {5}{R}
+Creature — Cyclops
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Cyclops Tyrant can't block creatures with power 2 or less.
+3/4

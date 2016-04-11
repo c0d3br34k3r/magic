@@ -1,0 +1,4 @@
+Lingering Death {1}{B}
+Enchantment — Aura
+Enchant creature
+At the beginning of the end step of enchanted creature's controller, that player sacrifices that creature.

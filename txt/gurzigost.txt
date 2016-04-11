@@ -1,0 +1,5 @@
+Gurzigost {3}{G}{G}
+Creature — Beast
+At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.
+{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.
+6/8

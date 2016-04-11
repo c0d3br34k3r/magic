@@ -1,0 +1,5 @@
+Griffin Dreamfinder {3}{W}{W}
+Creature — Griffin
+Flying
+When Griffin Dreamfinder enters the battlefield, return target enchantment card from your graveyard to your hand.
+1/4

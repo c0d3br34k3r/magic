@@ -1,0 +1,5 @@
+Grixis Sojourners {1}{U}{B}{R}
+Creature — Zombie Ogre
+When you cycle Grixis Sojourners or it dies, you may exile target card from a graveyard.
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)
+4/3

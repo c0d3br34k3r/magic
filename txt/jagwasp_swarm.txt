@@ -1,0 +1,4 @@
+Jagwasp Swarm {3}{B}
+Creature — Insect
+Flying
+3/2

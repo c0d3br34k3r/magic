@@ -1,0 +1,4 @@
+Wipe Clean {1}{W}
+Instant
+Exile target enchantment.
+Cycling {3} ({3}, Discard this card: Draw a card.)

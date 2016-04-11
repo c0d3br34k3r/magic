@@ -1,0 +1,5 @@
+Thelon of Havenwood {G}{G}
+Legendary Creature — Elf Druid
+Each Fungus creature gets +1/+1 for each spore counter on it.
+{B}{G}, Exile a Fungus card from a graveyard: Put a spore counter on each Fungus on the battlefield.
+2/2

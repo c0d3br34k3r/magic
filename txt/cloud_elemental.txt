@@ -1,0 +1,5 @@
+Cloud Elemental {2}{U}
+Creature — Elemental
+Flying
+Cloud Elemental can block only creatures with flying.
+2/3

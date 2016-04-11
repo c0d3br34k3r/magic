@@ -1,0 +1,4 @@
+Tangle Mantis {2}{G}{G}
+Creature — Insect
+Trample
+3/4

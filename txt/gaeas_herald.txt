@@ -1,0 +1,4 @@
+Gaea's Herald {1}{G}
+Creature — Elf
+Creature spells can't be countered.
+1/1

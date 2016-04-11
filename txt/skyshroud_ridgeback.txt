@@ -1,0 +1,4 @@
+Skyshroud Ridgeback {G}
+Creature — Beast
+Fading 2 (This creature enters the battlefield with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+2/3

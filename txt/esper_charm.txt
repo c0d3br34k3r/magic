@@ -1,0 +1,6 @@
+Esper Charm {W}{U}{B}
+Instant
+Choose one —
+• Destroy target enchantment.
+• Draw two cards.
+• Target player discards two cards.

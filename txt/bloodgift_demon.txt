@@ -1,0 +1,5 @@
+Bloodgift Demon {3}{B}{B}
+Creature — Demon
+Flying
+At the beginning of your upkeep, target player draws a card and loses 1 life.
+5/4

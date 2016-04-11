@@ -1,0 +1,3 @@
+Elvish Ranger {2}{G}
+Creature — Elf
+4/1

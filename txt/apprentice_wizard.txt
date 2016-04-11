@@ -1,0 +1,4 @@
+Apprentice Wizard {1}{U}{U}
+Creature — Human Wizard
+{U}, {T}: Add {C}{C}{C} to your mana pool.
+0/1

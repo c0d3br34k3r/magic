@@ -1,0 +1,5 @@
+Razorfoot Griffin {3}{W}
+Creature — Griffin
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+First strike (This creature deals combat damage before creatures without first strike.)
+2/2

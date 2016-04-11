@@ -1,0 +1,7 @@
+Ojutai's Command {2}{W}{U}
+Instant
+Choose two —
+• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+• You gain 4 life.
+• Counter target creature spell.
+• Draw a card.

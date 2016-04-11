@@ -1,0 +1,5 @@
+Skaab Goliath {5}{U}
+Creature — Zombie Giant
+As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+6/9

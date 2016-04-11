@@ -1,0 +1,7 @@
+Ulamog's Nullifier {2}{U}{B}
+Creature — Eldrazi Processor
+Devoid (This card has no color.)
+Flash
+Flying
+When Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.
+2/3

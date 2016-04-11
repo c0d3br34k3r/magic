@@ -1,0 +1,4 @@
+Maze of Shadows
+Land
+{T}: Add {C} to your mana pool.
+{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.

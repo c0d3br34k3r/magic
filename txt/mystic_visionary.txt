@@ -1,0 +1,4 @@
+Mystic Visionary {1}{W}
+Creature — Human Nomad Mystic
+Threshold — Mystic Visionary has flying as long as seven or more cards are in your graveyard.
+2/1

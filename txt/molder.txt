@@ -1,0 +1,3 @@
+Molder {X}{G}
+Instant
+Destroy target artifact or enchantment with converted mana cost X. It can't be regenerated. You gain X life.

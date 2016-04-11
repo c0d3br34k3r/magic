@@ -1,0 +1,5 @@
+Dauthi Ghoul {1}{B}
+Creature — Dauthi Zombie
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever a creature with shadow dies, put a +1/+1 counter on Dauthi Ghoul.
+1/1

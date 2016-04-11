@@ -1,0 +1,5 @@
+Rabid Wombat {2}{G}{G}
+Creature — Wombat
+Vigilance
+Rabid Wombat gets +2/+2 for each Aura attached to it.
+0/1

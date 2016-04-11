@@ -1,0 +1,6 @@
+Sprite Noble {1}{U}{U}
+Creature — Faerie
+Flying
+Other creatures you control with flying get +0/+1.
+{T}: Other creatures you control with flying get +1/+0 until end of turn.
+2/2

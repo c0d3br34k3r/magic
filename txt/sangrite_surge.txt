@@ -1,0 +1,3 @@
+Sangrite Surge {4}{R}{G}
+Sorcery
+Target creature gets +3/+3 and gains double strike until end of turn.

@@ -1,0 +1,4 @@
+Gnat Alley Creeper {2}{R}
+Creature — Human Rogue
+Gnat Alley Creeper can't be blocked by creatures with flying.
+3/1

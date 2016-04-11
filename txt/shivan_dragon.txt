@@ -1,0 +1,5 @@
+Shivan Dragon {4}{R}{R}
+Creature — Dragon
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.
+5/5

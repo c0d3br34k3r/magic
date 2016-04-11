@@ -1,0 +1,5 @@
+Tariel, Reckoner of Souls {4}{W}{B}{R}
+Legendary Creature — Angel
+Flying, vigilance
+{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.
+4/7

@@ -1,0 +1,4 @@
+Spawning Pit {2}
+Artifact
+Sacrifice a creature: Put a charge counter on Spawning Pit.
+{1}, Remove two charge counters from Spawning Pit: Put a 2/2 colorless Spawn artifact creature token onto the battlefield.

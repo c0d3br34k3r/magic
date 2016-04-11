@@ -1,0 +1,4 @@
+Agonizing Demise {3}{B}
+Instant
+Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.

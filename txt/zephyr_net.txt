@@ -1,0 +1,4 @@
+Zephyr Net {1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has defender and flying.

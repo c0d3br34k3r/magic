@@ -1,0 +1,5 @@
+Clergy of the Holy Nimbus {W}
+Creature — Human Cleric
+If Clergy of the Holy Nimbus would be destroyed, regenerate it.
+{1}: Clergy of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+1/1

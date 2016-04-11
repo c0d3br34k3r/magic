@@ -1,0 +1,5 @@
+Obelisk of Urd {6}
+Artifact
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As Obelisk of Urd enters the battlefield, choose a creature type.
+Creatures you control of the chosen type get +2/+2.

@@ -1,0 +1,5 @@
+Skulking Knight {2}{B}
+Creature — Zombie Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+When Skulking Knight becomes the target of a spell or ability, sacrifice it.
+3/3

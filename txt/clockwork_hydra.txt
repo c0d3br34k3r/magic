@@ -1,0 +1,6 @@
+Clockwork Hydra {5}
+Artifact Creature — Hydra
+Clockwork Hydra enters the battlefield with four +1/+1 counters on it.
+Whenever Clockwork Hydra attacks or blocks, remove a +1/+1 counter from it. If you do, Clockwork Hydra deals 1 damage to target creature or player.
+{T}: Put a +1/+1 counter on Clockwork Hydra.
+0/0

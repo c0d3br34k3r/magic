@@ -1,0 +1,3 @@
+Sever Soul {3}{B}{B}
+Sorcery
+Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.

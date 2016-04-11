@@ -1,0 +1,4 @@
+Latch Seeker {1}{U}{U}
+Creature — Spirit
+Latch Seeker can't be blocked.
+3/1

@@ -1,0 +1,4 @@
+Chamber of Manipulation {2}{U}{U}
+Enchantment — Aura
+Enchant land
+Enchanted land has "{T}, Discard a card: Gain control of target creature until end of turn."

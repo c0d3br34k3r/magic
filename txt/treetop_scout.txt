@@ -1,0 +1,4 @@
+Treetop Scout {G}
+Creature — Elf Scout
+Treetop Scout can't be blocked except by creatures with flying.
+1/1

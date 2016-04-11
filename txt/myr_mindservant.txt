@@ -1,0 +1,4 @@
+Myr Mindservant {1}
+Artifact Creature — Myr
+{2}, {T}: Shuffle your library.
+1/1

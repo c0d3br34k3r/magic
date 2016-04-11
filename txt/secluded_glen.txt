@@ -1,0 +1,4 @@
+Secluded Glen
+Land
+As Secluded Glen enters the battlefield, you may reveal a Faerie card from your hand. If you don't, Secluded Glen enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.

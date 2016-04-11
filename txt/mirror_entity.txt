@@ -1,0 +1,5 @@
+Mirror Entity {2}{W}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.
+1/1

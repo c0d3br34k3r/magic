@@ -1,0 +1,4 @@
+Zephyr Sprite {U}
+Creature — Faerie
+Flying
+1/1

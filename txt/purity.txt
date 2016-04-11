@@ -1,0 +1,6 @@
+Purity {3}{W}{W}{W}
+Creature — Elemental Incarnation
+Flying
+If noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way.
+When Purity is put into a graveyard from anywhere, shuffle it into its owner's library.
+6/6

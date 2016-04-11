@@ -1,0 +1,4 @@
+Star Compass {2}
+Artifact
+Star Compass enters the battlefield tapped.
+{T}: Add to your mana pool one mana of any color that a basic land you control could produce.

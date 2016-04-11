@@ -1,0 +1,4 @@
+Bog Down {2}{B}
+Sorcery
+Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)
+Target player discards two cards. If Bog Down was kicked, that player discards three cards instead.

@@ -1,0 +1,5 @@
+Ferropede {3}
+Artifact Creature — Insect
+Ferropede can't be blocked.
+Whenever Ferropede deals combat damage to a player, you may remove a counter from target permanent.
+1/1

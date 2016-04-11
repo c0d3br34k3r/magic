@@ -1,0 +1,3 @@
+Tower of Eons {4}
+Artifact
+{8}, {T}: You gain 10 life.

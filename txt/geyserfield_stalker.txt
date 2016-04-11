@@ -1,0 +1,5 @@
+Geyserfield Stalker {4}{B}
+Creature — Elemental
+Menace (This creature can't be blocked except by two or more creatures.)
+Landfall — Whenever a land enters the battlefield under your control, Geyserfield Stalker gets +2/+2 until end of turn.
+3/2

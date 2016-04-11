@@ -1,0 +1,5 @@
+Swans of Bryn Argoll {2}{W/U}{W/U}
+Creature — Bird Spirit
+Flying
+If a source would deal damage to Swans of Bryn Argoll, prevent that damage. The source's controller draws cards equal to the damage prevented this way.
+4/3

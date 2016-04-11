@@ -1,0 +1,4 @@
+Harabaz Druid {1}{G}
+Creature — Human Druid Ally
+{T}: Add X mana of any one color to your mana pool, where X is the number of Allies you control.
+0/1

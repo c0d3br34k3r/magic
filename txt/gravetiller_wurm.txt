@@ -1,0 +1,5 @@
+Gravetiller Wurm {5}{G}
+Creature — Wurm
+Trample
+Morbid — Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.
+4/4

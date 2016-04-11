@@ -1,0 +1,5 @@
+Aquastrand Spider {1}{G}
+Creature — Spider Mutant
+Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. (It can block creatures with flying.)
+0/0

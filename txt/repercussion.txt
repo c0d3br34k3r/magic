@@ -1,0 +1,3 @@
+Repercussion {1}{R}{R}
+Enchantment
+Whenever a creature is dealt damage, Repercussion deals that much damage to that creature's controller.

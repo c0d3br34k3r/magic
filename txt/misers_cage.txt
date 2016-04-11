@@ -1,0 +1,3 @@
+Misers' Cage {3}
+Artifact
+At the beginning of each opponent's upkeep, if that player has five or more cards in hand, Misers' Cage deals 2 damage to him or her.

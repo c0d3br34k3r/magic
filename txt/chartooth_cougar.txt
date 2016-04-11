@@ -1,0 +1,5 @@
+Chartooth Cougar {5}{R}
+Creature — Cat Beast
+{R}: Chartooth Cougar gets +1/+0 until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)
+4/4

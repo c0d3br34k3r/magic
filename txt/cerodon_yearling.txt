@@ -1,0 +1,4 @@
+Cerodon Yearling {W}{R}
+Creature — Beast
+Vigilance, haste
+2/2

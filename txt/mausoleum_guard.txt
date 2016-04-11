@@ -1,0 +1,4 @@
+Mausoleum Guard {3}{W}
+Creature — Human Scout
+When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+2/2

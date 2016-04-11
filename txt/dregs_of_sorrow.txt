@@ -1,0 +1,3 @@
+Dregs of Sorrow {X}{4}{B}
+Sorcery
+Destroy X target nonblack creatures. Draw X cards.

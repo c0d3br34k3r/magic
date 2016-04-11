@@ -1,0 +1,4 @@
+Postmortem Lunge {X}{B/P}
+Sorcery
+({B/P} can be paid with either {B} or 2 life.)
+Return target creature card with converted mana cost X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.

@@ -1,0 +1,4 @@
+Bind {1}{G}
+Instant
+Counter target activated ability. (Mana abilities can't be targeted.)
+Draw a card.

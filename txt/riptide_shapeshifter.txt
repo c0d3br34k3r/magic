@@ -1,0 +1,4 @@
+Riptide Shapeshifter {3}{U}{U}
+Creature — Shapeshifter
+{2}{U}{U}, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.
+3/3

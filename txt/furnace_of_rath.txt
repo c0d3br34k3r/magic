@@ -1,0 +1,3 @@
+Furnace of Rath {1}{R}{R}{R}
+Enchantment
+If a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.

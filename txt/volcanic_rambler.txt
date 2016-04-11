@@ -1,0 +1,4 @@
+Volcanic Rambler {5}{R}
+Creature — Elemental
+{2}{R}: Volcanic Rambler deals 1 damage to target player.
+6/4

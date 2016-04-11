@@ -1,0 +1,10 @@
+Callow Jushi {1}{U}{U}
+Creature — Human Wizard
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Callow Jushi.
+At the beginning of the end step, if there are two or more ki counters on Callow Jushi, you may flip it.
+2/2
+* FLIP *
+Jaraku the Interloper {1}{U}{U}
+Legendary Creature — Spirit
+Remove a ki counter from Jaraku the Interloper: Counter target spell unless its controller pays {2}.
+3/4

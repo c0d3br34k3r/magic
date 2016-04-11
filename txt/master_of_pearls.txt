@@ -1,0 +1,5 @@
+Master of Pearls {1}{W}
+Creature — Human Monk
+Morph {3}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.
+2/2

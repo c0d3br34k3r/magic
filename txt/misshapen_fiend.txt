@@ -1,0 +1,4 @@
+Misshapen Fiend {1}{B}
+Creature — Horror Mercenary
+Flying
+1/1

@@ -1,0 +1,5 @@
+Gustcloak Harrier {1}{W}{W}
+Creature — Bird Soldier
+Flying
+Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.
+2/2

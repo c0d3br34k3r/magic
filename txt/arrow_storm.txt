@@ -1,0 +1,4 @@
+Arrow Storm {3}{R}{R}
+Sorcery
+Arrow Storm deals 4 damage to target creature or player.
+Raid — If you attacked with a creature this turn, instead Arrow Storm deals 5 damage to that creature or player and the damage can't be prevented.

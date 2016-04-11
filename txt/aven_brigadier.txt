@@ -1,0 +1,6 @@
+Aven Brigadier {3}{W}{W}{W}
+Creature — Bird Soldier
+Flying
+Other Bird creatures get +1/+1.
+Other Soldier creatures get +1/+1.
+3/5

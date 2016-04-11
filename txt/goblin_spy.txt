@@ -1,0 +1,4 @@
+Goblin Spy {R}
+Creature — Goblin Rogue
+Play with the top card of your library revealed.
+1/1

@@ -1,0 +1,3 @@
+Weight of Spires {R}
+Instant
+Weight of Spires deals damage to target creature equal to the number of nonbasic lands that creature's controller controls.

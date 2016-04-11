@@ -1,0 +1,4 @@
+Cartel Aristocrat {W}{B}
+Creature — Human Advisor
+Sacrifice another creature: Cartel Aristocrat gains protection from the color of your choice until end of turn.
+2/2

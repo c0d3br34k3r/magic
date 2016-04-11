@@ -1,0 +1,5 @@
+Tsabo Tavoc {5}{B}{R}
+Legendary Creature — Horror
+First strike, protection from legendary creatures
+{B}{B}, {T}: Destroy target legendary creature. It can't be regenerated.
+7/4

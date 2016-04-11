@@ -1,0 +1,4 @@
+Misdirection {3}{U}{U}
+Instant
+You may exile a blue card from your hand rather than pay Misdirection's mana cost.
+Change the target of target spell with a single target.

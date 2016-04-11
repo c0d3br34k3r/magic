@@ -1,0 +1,3 @@
+Scathe Zombies {2}{B}
+Creature — Zombie
+2/2

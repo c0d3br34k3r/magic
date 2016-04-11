@@ -1,0 +1,5 @@
+Guardian's Magemark {2}{W}
+Enchantment — Aura
+Flash
+Enchant creature
+Creatures you control that are enchanted get +1/+1.

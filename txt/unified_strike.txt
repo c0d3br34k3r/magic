@@ -1,0 +1,3 @@
+Unified Strike {W}
+Instant
+Exile target attacking creature if its power is less than or equal to the number of Soldiers on the battlefield.

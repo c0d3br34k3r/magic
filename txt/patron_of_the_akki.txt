@@ -1,0 +1,5 @@
+Patron of the Akki {4}{R}{R}
+Legendary Creature — Spirit
+Goblin offering (You may cast this card any time you could cast an instant by sacrificing a Goblin and paying the difference in mana costs between this and the sacrificed Goblin. Mana cost includes color.)
+Whenever Patron of the Akki attacks, creatures you control get +2/+0 until end of turn.
+5/5

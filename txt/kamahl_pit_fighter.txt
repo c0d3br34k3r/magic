@@ -1,0 +1,5 @@
+Kamahl, Pit Fighter {4}{R}{R}
+Legendary Creature — Human Barbarian
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
+6/1

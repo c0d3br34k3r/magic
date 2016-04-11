@@ -1,0 +1,3 @@
+Scepter of Insight {1}{U}{U}
+Artifact
+{3}{U}, {T}: Draw a card.

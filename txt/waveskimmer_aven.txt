@@ -1,0 +1,5 @@
+Waveskimmer Aven {2}{W}{U}{G}
+Creature — Bird Soldier
+Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+2/4

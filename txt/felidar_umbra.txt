@@ -1,0 +1,6 @@
+Felidar Umbra {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has lifelink.
+{1}{W}: Attach Felidar Umbra to target creature you control.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

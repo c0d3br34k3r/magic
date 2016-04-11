@@ -1,0 +1,3 @@
+Pistus Strike {2}{G}
+Instant
+Destroy target creature with flying. Its controller gets a poison counter.

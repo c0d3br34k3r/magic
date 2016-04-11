@@ -1,0 +1,4 @@
+Elvish Eulogist {G}
+Creature — Elf Shaman
+Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+1/1

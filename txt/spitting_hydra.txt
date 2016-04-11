@@ -1,0 +1,5 @@
+Spitting Hydra {3}{R}{R}
+Creature — Hydra
+Spitting Hydra enters the battlefield with four +1/+1 counters on it.
+{1}{R}, Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra deals 1 damage to target creature.
+0/0

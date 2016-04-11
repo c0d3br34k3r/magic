@@ -1,0 +1,5 @@
+Stone Haven Outfitter {1}{W}
+Creature — Kor Artificer Ally
+Equipped creatures you control get +1/+1.
+Whenever an equipped creature you control dies, draw a card.
+2/2

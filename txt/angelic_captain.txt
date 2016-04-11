@@ -1,0 +1,5 @@
+Angelic Captain {3}{W}{R}
+Creature — Angel Ally
+Flying
+Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each other attacking Ally.
+4/3

@@ -1,0 +1,5 @@
+Zombie Musher {3}{B}
+Snow Creature — Zombie
+Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)
+{S}: Regenerate Zombie Musher. ({S} can be paid with one mana from a snow permanent.)
+2/3

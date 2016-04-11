@@ -1,0 +1,5 @@
+Homing Sliver {2}{R}
+Creature — Sliver
+Each Sliver card in each player's hand has slivercycling {3}.
+Slivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)
+2/2

@@ -1,0 +1,4 @@
+Walking Atlas {2}
+Artifact Creature — Construct
+{T}: You may put a land card from your hand onto the battlefield.
+1/1

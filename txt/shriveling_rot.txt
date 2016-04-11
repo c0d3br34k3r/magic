@@ -1,0 +1,6 @@
+Shriveling Rot {2}{B}{B}
+Instant
+Choose one —
+• Until end of turn, whenever a creature is dealt damage, destroy it.
+• Until end of turn, whenever a creature dies, that creature's controller loses life equal to its toughness.
+Entwine {2}{B} (Choose both if you pay the entwine cost.)

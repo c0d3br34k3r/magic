@@ -1,0 +1,6 @@
+Ob Nixilis, Unshackled {4}{B}{B}
+Legendary Creature — Demon
+Flying, trample
+Whenever an opponent searches his or her library, that player sacrifices a creature and loses 10 life.
+Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled.
+4/4

@@ -1,0 +1,4 @@
+Soulcatchers' Aerie {1}{W}
+Enchantment
+Whenever a Bird is put into your graveyard from the battlefield, put a feather counter on Soulcatchers' Aerie.
+Bird creatures get +1/+1 for each feather counter on Soulcatchers' Aerie.

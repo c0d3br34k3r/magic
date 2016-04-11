@@ -1,0 +1,6 @@
+Naya Charm {W}{R}{G}
+Instant
+Choose one —
+• Naya Charm deals 3 damage to target creature.
+• Return target card from a graveyard to its owner's hand.
+• Tap all creatures target player controls.

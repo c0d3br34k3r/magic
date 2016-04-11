@@ -1,0 +1,4 @@
+Nafs Asp {G}
+Creature — Snake
+Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.
+1/1

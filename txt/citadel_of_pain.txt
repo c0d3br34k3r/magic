@@ -1,0 +1,3 @@
+Citadel of Pain {2}{R}
+Enchantment
+At the beginning of each player's end step, Citadel of Pain deals X damage to that player, where X is the number of untapped lands he or she controls.

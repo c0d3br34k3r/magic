@@ -1,0 +1,5 @@
+Taste for Mayhem {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0.
+Hellbent — Enchanted creature gets an additional +2/+0 as long as you have no cards in hand.

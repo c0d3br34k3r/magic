@@ -1,0 +1,5 @@
+Coalition Relic {3}
+Artifact
+{T}: Add one mana of any color to your mana pool.
+{T}: Put a charge counter on Coalition Relic.
+At the beginning of your precombat main phase, remove all charge counters from Coalition Relic. Add one mana of any color to your mana pool for each charge counter removed this way.

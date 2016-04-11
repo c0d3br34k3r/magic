@@ -1,0 +1,5 @@
+Balduvian War-Makers {4}{R}
+Creature — Human Barbarian
+Haste
+Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)
+3/3

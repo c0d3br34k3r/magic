@@ -1,0 +1,3 @@
+Rock Slide {X}{R}
+Instant
+Rock Slide deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.

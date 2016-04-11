@@ -1,0 +1,5 @@
+Monastery Mentor {2}{W}
+Creature — Human Monk
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.
+2/2

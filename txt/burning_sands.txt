@@ -1,0 +1,3 @@
+Burning Sands {3}{R}{R}
+Enchantment
+Whenever a creature dies, that creature's controller sacrifices a land.

@@ -1,0 +1,4 @@
+Submerge {4}{U}
+Instant
+If an opponent controls a Forest and you control an Island, you may cast Submerge without paying its mana cost.
+Put target creature on top of its owner's library.

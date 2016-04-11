@@ -1,0 +1,4 @@
+Mardu Hateblade {W}
+Creature — Human Warrior
+{B}: Mardu Hateblade gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+1/1

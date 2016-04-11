@@ -1,0 +1,5 @@
+Ebon Drake {2}{B}
+Creature — Drake
+Flying
+Whenever a player casts a spell, you lose 1 life.
+3/3

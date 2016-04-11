@@ -1,0 +1,9 @@
+Ready {1}{W}{G}
+Instant
+Creatures you control gain indestructible until end of turn. Untap each creature you control.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Willing {1}{W}{B}
+Instant
+Creatures you control gain deathtouch and lifelink until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)

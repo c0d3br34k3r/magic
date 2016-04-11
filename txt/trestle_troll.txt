@@ -1,0 +1,6 @@
+Trestle Troll {1}{B}{G}
+Creature — Troll
+Defender
+Reach (This creature can block creatures with flying.)
+{1}{B}{G}: Regenerate Trestle Troll.
+1/4

@@ -1,0 +1,4 @@
+Icatian Priest {W}
+Creature — Human Cleric
+{1}{W}{W}: Target creature gets +1/+1 until end of turn.
+1/1

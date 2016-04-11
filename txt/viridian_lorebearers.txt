@@ -1,0 +1,4 @@
+Viridian Lorebearers {3}{G}
+Creature — Elf Shaman
+{3}{G}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts your opponents control.
+3/3

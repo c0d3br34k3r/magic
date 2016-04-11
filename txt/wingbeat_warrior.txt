@@ -1,0 +1,6 @@
+Wingbeat Warrior {2}{W}
+Creature — Bird Soldier Warrior
+Flying
+Morph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.
+2/1

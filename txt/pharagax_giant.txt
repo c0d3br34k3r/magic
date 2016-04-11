@@ -1,0 +1,5 @@
+Pharagax Giant {4}{R}
+Creature — Giant
+Tribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)
+When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax Giant deals 5 damage to each opponent.
+3/3

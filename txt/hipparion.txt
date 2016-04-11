@@ -1,0 +1,4 @@
+Hipparion {1}{W}
+Creature — Horse
+Hipparion can't block creatures with power 3 or greater unless you pay {1}.
+1/3

@@ -1,0 +1,4 @@
+Abandon Hope {X}{1}{B}
+Sorcery
+As an additional cost to cast Abandon Hope, discard X cards.
+Look at target opponent's hand and choose X cards from it. That player discards those cards.

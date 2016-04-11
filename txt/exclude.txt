@@ -1,0 +1,4 @@
+Exclude {2}{U}
+Instant
+Counter target creature spell.
+Draw a card.

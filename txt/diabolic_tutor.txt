@@ -1,0 +1,3 @@
+Diabolic Tutor {2}{B}{B}
+Sorcery
+Search your library for a card and put that card into your hand. Then shuffle your library.

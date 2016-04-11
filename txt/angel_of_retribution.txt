@@ -1,0 +1,4 @@
+Angel of Retribution {6}{W}
+Creature — Angel
+Flying, first strike
+5/5

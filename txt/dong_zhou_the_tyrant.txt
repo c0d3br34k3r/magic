@@ -1,0 +1,4 @@
+Dong Zhou, the Tyrant {4}{R}
+Legendary Creature — Human Soldier
+When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player.
+3/3

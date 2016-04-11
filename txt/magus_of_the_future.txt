@@ -1,0 +1,5 @@
+Magus of the Future {2}{U}{U}{U}
+Creature — Human Wizard
+Play with the top card of your library revealed.
+You may play the top card of your library.
+2/3

@@ -1,0 +1,5 @@
+Somberwald Alpha {3}{G}
+Creature — Wolf
+Whenever a creature you control becomes blocked, it gets +1/+1 until end of turn.
+{1}{G}: Target creature you control gains trample until end of turn. (It can deal excess combat damage to defending player or planeswalker while attacking.)
+3/2

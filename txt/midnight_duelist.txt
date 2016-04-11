@@ -1,0 +1,4 @@
+Midnight Duelist {W}
+Creature — Human Soldier
+Protection from Vampires
+1/2

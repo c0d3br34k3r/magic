@@ -1,0 +1,3 @@
+Glyph of Life {W}
+Instant
+Choose target Wall creature. Whenever that creature is dealt damage by an attacking creature this turn, you gain that much life.

@@ -1,0 +1,4 @@
+Chant of the Skifsang {2}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -13/-0.

@@ -1,0 +1,5 @@
+Frozen Solid {1}{U}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature is dealt damage, destroy it.

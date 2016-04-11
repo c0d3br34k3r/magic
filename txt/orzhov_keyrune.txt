@@ -1,0 +1,4 @@
+Orzhov Keyrune {3}
+Artifact
+{T}: Add {W} or {B} to your mana pool.
+{W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.

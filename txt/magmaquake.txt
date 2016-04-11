@@ -1,0 +1,3 @@
+Magmaquake {X}{R}{R}
+Instant
+Magmaquake deals X damage to each creature without flying and each planeswalker.

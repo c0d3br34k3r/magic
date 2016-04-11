@@ -1,0 +1,6 @@
+Elesh Norn, Grand Cenobite {5}{W}{W}
+Legendary Creature — Praetor
+Vigilance
+Other creatures you control get +2/+2.
+Creatures your opponents control get -2/-2.
+4/7

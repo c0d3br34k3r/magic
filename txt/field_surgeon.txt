@@ -1,0 +1,4 @@
+Field Surgeon {1}{W}
+Creature — Human Cleric
+Tap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.
+1/1

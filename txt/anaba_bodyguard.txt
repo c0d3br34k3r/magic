@@ -1,0 +1,4 @@
+Anaba Bodyguard {3}{R}
+Creature — Minotaur
+First strike (This creature deals combat damage before creatures without first strike.)
+2/3

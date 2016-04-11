@@ -1,0 +1,4 @@
+Hyperion Blacksmith {1}{R}{R}
+Creature — Human Artificer
+{T}: You may tap or untap target artifact an opponent controls.
+2/2

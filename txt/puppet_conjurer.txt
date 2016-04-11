@@ -1,0 +1,5 @@
+Puppet Conjurer {1}{B}
+Artifact Creature — Human Wizard
+{U}, {T}: Put a 0/1 blue Homunculus artifact creature token onto the battlefield.
+At the beginning of your upkeep, sacrifice a Homunculus.
+1/2

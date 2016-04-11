@@ -1,0 +1,5 @@
+Shimmer Myr {3}
+Artifact Creature — Myr
+Flash
+You may cast artifact cards as though they had flash.
+2/2

@@ -1,0 +1,5 @@
+Kami of the Waning Moon {2}{B}
+Creature — Spirit
+Flying
+Whenever you cast a Spirit or Arcane spell, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+1/1

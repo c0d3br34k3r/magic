@@ -1,0 +1,4 @@
+Galerider Sliver {U}
+Creature — Sliver
+Sliver creatures you control have flying.
+1/1

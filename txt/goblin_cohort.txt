@@ -1,0 +1,4 @@
+Goblin Cohort {R}
+Creature — Goblin Warrior
+Goblin Cohort can't attack unless you've cast a creature spell this turn.
+2/2

@@ -1,0 +1,6 @@
+Predator Ooze {G}{G}{G}
+Creature — Ooze
+Indestructible
+Whenever Predator Ooze attacks, put a +1/+1 counter on it.
+Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.
+1/1

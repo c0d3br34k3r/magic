@@ -1,0 +1,5 @@
+Jwar Isle Avenger {4}{U}
+Creature — Sphinx
+Surge {2}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying
+3/3

@@ -1,0 +1,5 @@
+Bellowing Tanglewurm {3}{G}{G}
+Creature — Wurm
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Other green creatures you control have intimidate.
+4/4

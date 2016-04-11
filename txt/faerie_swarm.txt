@@ -1,0 +1,5 @@
+Faerie Swarm {3}{U}
+Creature — Faerie
+Flying
+Faerie Swarm's power and toughness are each equal to the number of blue permanents you control.
+*/*

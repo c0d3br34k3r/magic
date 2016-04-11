@@ -1,0 +1,3 @@
+Coerced Confession {4}{U/B}
+Sorcery
+Target player puts the top four cards of his or her library into his or her graveyard. You draw a card for each creature card put into that graveyard this way.

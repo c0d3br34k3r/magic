@@ -1,0 +1,5 @@
+Coral Trickster {1}{U}
+Creature — Merfolk Rogue
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Coral Trickster is turned face up, you may tap or untap target permanent.
+2/1

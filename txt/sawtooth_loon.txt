@@ -1,0 +1,6 @@
+Sawtooth Loon {2}{W}{U}
+Creature — Bird
+Flying
+When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.
+When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+2/2

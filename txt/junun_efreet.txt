@@ -1,0 +1,5 @@
+Junún Efreet {1}{B}{B}
+Creature — Efreet
+Flying
+At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.
+3/3

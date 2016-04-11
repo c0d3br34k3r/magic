@@ -1,0 +1,5 @@
+Silver-Inlaid Dagger {1}
+Artifact — Equipment
+Equipped creature gets +2/+0.
+As long as equipped creature is a Human, it gets an additional +1/+0.
+Equip {2}

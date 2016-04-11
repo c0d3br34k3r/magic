@@ -1,0 +1,5 @@
+Epic Proportions {4}{G}{G}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets +5/+5 and has trample.

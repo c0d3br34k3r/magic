@@ -1,0 +1,6 @@
+Kookus {3}{R}{R}
+Creature — Djinn
+Trample
+At the beginning of your upkeep, if you don't control a creature named Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if able.
+{R}: Kookus gets +1/+0 until end of turn.
+3/5

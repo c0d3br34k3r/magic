@@ -1,0 +1,4 @@
+Rootwalla {2}{G}
+Creature — Lizard
+{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+2/2

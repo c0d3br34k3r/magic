@@ -1,0 +1,6 @@
+Melira, Sylvok Outcast {1}{G}
+Legendary Creature — Human Scout
+You can't get poison counters.
+Creatures you control can't have -1/-1 counters placed on them.
+Creatures your opponents control lose infect.
+2/2

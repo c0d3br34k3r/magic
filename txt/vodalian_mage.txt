@@ -1,0 +1,4 @@
+Vodalian Mage {2}{U}
+Creature — Merfolk Wizard
+{U}, {T}: Counter target spell unless its controller pays {1}.
+1/1

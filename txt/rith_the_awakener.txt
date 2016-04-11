@@ -1,0 +1,5 @@
+Rith, the Awakener {3}{W}{R}{G}
+Legendary Creature — Dragon
+Flying
+Whenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color.
+6/6

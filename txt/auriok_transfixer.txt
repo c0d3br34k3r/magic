@@ -1,0 +1,4 @@
+Auriok Transfixer {W}
+Creature — Human Scout
+{W}, {T}: Tap target artifact.
+1/1

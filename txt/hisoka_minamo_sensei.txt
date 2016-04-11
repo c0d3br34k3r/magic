@@ -1,0 +1,4 @@
+Hisoka, Minamo Sensei {2}{U}{U}
+Legendary Creature — Human Wizard
+{2}{U}, Discard a card: Counter target spell if it has the same converted mana cost as the discarded card.
+1/3

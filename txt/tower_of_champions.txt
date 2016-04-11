@@ -1,0 +1,3 @@
+Tower of Champions {4}
+Artifact
+{8}, {T}: Target creature gets +6/+6 until end of turn.

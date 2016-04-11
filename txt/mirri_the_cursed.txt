@@ -1,0 +1,5 @@
+Mirri the Cursed {2}{B}{B}
+Legendary Creature — Vampire Cat
+Flying, first strike, haste
+Whenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter on Mirri the Cursed.
+3/2

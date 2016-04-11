@@ -1,0 +1,5 @@
+Festering Wound {1}{B}
+Enchantment — Aura
+Enchant creature
+At the beginning of your upkeep, you may put an infection counter on Festering Wound.
+At the beginning of the upkeep of enchanted creature's controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound.

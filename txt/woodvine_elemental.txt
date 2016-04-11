@@ -1,0 +1,5 @@
+Woodvine Elemental {4}{W}{G}
+Creature — Elemental
+Trample
+Parley — Whenever Woodvine Elemental attacks, each player reveals the top card of his or her library. For each nonland card revealed this way, attacking creatures you control get +1/+1 until end of turn. Then each player draws a card.
+4/4

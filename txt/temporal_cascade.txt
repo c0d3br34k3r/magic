@@ -1,0 +1,6 @@
+Temporal Cascade {5}{U}{U}
+Sorcery
+Choose one —
+• Each player shuffles his or her hand and graveyard into his or her library.
+• Each player draws seven cards.
+Entwine {2} (Choose both if you pay the entwine cost.)

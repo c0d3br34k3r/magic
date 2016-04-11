@@ -1,0 +1,4 @@
+Phyrexian Infiltrator {2}{B}
+Creature — Minion
+{2}{U}{U}: Exchange control of Phyrexian Infiltrator and target creature. (This effect lasts indefinitely.)
+2/2

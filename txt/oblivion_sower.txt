@@ -1,0 +1,4 @@
+Oblivion Sower {6}
+Creature — Eldrazi
+When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.
+5/8

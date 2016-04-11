@@ -1,0 +1,5 @@
+Thalakos Seer {U}{U}
+Creature — Thalakos Wizard
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+When Thalakos Seer leaves the battlefield, draw a card.
+1/1

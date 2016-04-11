@@ -1,0 +1,5 @@
+Dirty Wererat {3}{B}
+Creature — Human Rat Minion
+{B}, Discard a card: Regenerate Dirty Wererat.
+Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.
+2/3

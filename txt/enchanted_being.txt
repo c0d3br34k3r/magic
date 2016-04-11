@@ -1,0 +1,4 @@
+Enchanted Being {1}{W}{W}
+Creature — Human
+Prevent all combat damage that would be dealt to Enchanted Being by enchanted creatures.
+2/2

@@ -1,0 +1,4 @@
+Ghor-Clan Savage {3}{G}{G}
+Creature — Centaur Berserker
+Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+2/3

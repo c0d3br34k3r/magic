@@ -1,0 +1,4 @@
+Surging Dementia {1}{B}
+Sorcery
+Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)
+Target player discards a card.

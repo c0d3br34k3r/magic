@@ -1,0 +1,4 @@
+Goblin Shortcutter {1}{R}
+Creature — Goblin Scout
+When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+2/1

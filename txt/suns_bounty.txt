@@ -1,0 +1,4 @@
+Sun's Bounty {1}{W}
+Instant
+You gain 4 life.
+Recover {1}{W} (When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)

@@ -1,0 +1,5 @@
+Bosh, Iron Golem {8}
+Legendary Artifact Creature — Golem
+Trample
+{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player.
+6/7

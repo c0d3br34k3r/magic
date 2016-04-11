@@ -1,0 +1,5 @@
+Juggernaut {4}
+Artifact Creature — Juggernaut
+Juggernaut attacks each turn if able.
+Juggernaut can't be blocked by Walls.
+5/3

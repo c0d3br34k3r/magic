@@ -1,0 +1,4 @@
+Elven Warhounds {3}{G}
+Creature — Hound
+Whenever Elven Warhounds becomes blocked by a creature, put that creature on top of its owner's library.
+2/2

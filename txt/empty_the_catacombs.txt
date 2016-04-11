@@ -1,0 +1,3 @@
+Empty the Catacombs {3}{B}
+Sorcery
+Each player returns all creature cards from his or her graveyard to his or her hand.

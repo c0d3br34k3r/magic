@@ -1,0 +1,5 @@
+Ironclaw Curse {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -0/-1.
+Enchanted creature can't block creatures with power equal to or greater than the enchanted creature's toughness.

@@ -1,0 +1,4 @@
+Undead Slayer {2}{W}
+Creature — Human Cleric
+{W}, {T}: Exile target Skeleton, Vampire, or Zombie.
+2/2

@@ -1,0 +1,4 @@
+Land Leeches {1}{G}{G}
+Creature — Leech
+First strike
+2/2

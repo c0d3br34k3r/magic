@@ -1,0 +1,4 @@
+Ertai, Wizard Adept {2}{U}
+Legendary Creature — Human Wizard
+{2}{U}{U}, {T}: Counter target spell.
+1/1

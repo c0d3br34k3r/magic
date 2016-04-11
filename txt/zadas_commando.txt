@@ -1,0 +1,5 @@
+Zada's Commando {1}{R}
+Creature — Goblin Archer Ally
+First strike
+Cohort — {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent.
+2/1

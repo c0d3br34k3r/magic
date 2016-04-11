@@ -1,0 +1,5 @@
+Etched Oracle {4}
+Artifact Creature — Wizard
+Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+0/0

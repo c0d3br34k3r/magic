@@ -1,0 +1,5 @@
+Watcher in the Web {4}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Watcher in the Web can block an additional seven creatures each combat.
+2/5

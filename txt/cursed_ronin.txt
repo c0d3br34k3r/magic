@@ -1,0 +1,5 @@
+Cursed Ronin {3}{B}
+Creature — Human Samurai
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{B}: Cursed Ronin gets +1/+1 until end of turn.
+1/1

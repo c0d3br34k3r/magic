@@ -1,0 +1,3 @@
+Yawgmoth's Edict {1}{B}
+Enchantment
+Whenever an opponent casts a white spell, that player loses 1 life and you gain 1 life.

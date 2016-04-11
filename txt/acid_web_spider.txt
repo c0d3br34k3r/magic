@@ -1,0 +1,5 @@
+Acid Web Spider {3}{G}{G}
+Creature — Spider
+Reach
+When Acid Web Spider enters the battlefield, you may destroy target Equipment.
+3/5

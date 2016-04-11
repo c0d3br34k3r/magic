@@ -1,0 +1,5 @@
+Creeperhulk {3}{G}{G}
+Creature — Plant Elemental
+Trample
+{1}{G}: Until end of turn, target creature you control has base power and toughness 5/5 and gains trample.
+5/5

@@ -1,0 +1,4 @@
+Blessed Wine {1}{W}
+Instant
+You gain 1 life.
+Draw a card at the beginning of the next turn's upkeep.

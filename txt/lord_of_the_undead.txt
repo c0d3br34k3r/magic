@@ -1,0 +1,5 @@
+Lord of the Undead {1}{B}{B}
+Creature — Zombie
+Other Zombie creatures get +1/+1.
+{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.
+2/2

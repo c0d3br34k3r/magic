@@ -1,0 +1,4 @@
+Siren Song Lyre {2}
+Artifact — Equipment
+Equipped creature has "{2}, {T}: Tap target creature."
+Equip {2}

@@ -1,0 +1,4 @@
+Lhurgoyf {2}{G}{G}
+Creature — Lhurgoyf
+Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+*/1+*

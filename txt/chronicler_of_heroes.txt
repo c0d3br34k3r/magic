@@ -1,0 +1,4 @@
+Chronicler of Heroes {1}{W}{G}
+Creature — Centaur Wizard
+When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it.
+3/3

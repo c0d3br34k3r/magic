@@ -1,0 +1,5 @@
+Vulshok Battlemaster {4}{R}
+Creature — Human Warrior
+Haste
+When Vulshok Battlemaster enters the battlefield, attach all Equipment on the battlefield to it. (Control of the Equipment doesn't change.)
+2/2

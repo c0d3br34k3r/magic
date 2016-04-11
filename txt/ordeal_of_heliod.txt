@@ -1,0 +1,5 @@
+Ordeal of Heliod {1}{W}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.
+When you sacrifice Ordeal of Heliod, you gain 10 life.

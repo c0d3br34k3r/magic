@@ -1,0 +1,4 @@
+Messenger's Speed {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has trample and haste.

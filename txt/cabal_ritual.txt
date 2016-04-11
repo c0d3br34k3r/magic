@@ -1,0 +1,4 @@
+Cabal Ritual {1}{B}
+Instant
+Add {B}{B}{B} to your mana pool.
+Threshold — Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.

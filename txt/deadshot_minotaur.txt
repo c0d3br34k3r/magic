@@ -1,0 +1,5 @@
+Deadshot Minotaur {3}{R}{G}
+Creature — Minotaur
+When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.
+Cycling {R/G} ({R/G}, Discard this card: Draw a card.)
+3/4

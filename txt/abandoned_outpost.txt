@@ -1,0 +1,5 @@
+Abandoned Outpost
+Land
+Abandoned Outpost enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Abandoned Outpost: Add one mana of any color to your mana pool.

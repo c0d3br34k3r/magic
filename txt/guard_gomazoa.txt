@@ -1,0 +1,5 @@
+Guard Gomazoa {2}{U}
+Creature — Jellyfish
+Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.
+1/3

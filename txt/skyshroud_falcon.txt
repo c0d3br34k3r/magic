@@ -1,0 +1,4 @@
+Skyshroud Falcon {1}{W}
+Creature — Bird
+Flying, vigilance
+1/1

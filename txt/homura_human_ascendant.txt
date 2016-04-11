@@ -1,0 +1,9 @@
+Homura, Human Ascendant {4}{R}{R}
+Legendary Creature — Human Monk
+Homura, Human Ascendant can't block.
+When Homura dies, return it to the battlefield flipped.
+4/4
+* FLIP *
+Homura's Essence {4}{R}{R}
+Legendary Enchantment
+Creatures you control get +2/+2 and have flying and "{R}: This creature gets +1/+0 until end of turn."

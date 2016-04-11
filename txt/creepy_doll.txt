@@ -1,0 +1,5 @@
+Creepy Doll {5}
+Artifact Creature — Construct
+Indestructible
+Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.
+1/1

@@ -1,0 +1,4 @@
+Mardu Roughrider {2}{W}{B}{R}
+Creature — Orc Warrior
+Whenever Mardu Roughrider attacks, target creature can't block this turn.
+5/4

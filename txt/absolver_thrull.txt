@@ -1,0 +1,5 @@
+Absolver Thrull {3}{W}
+Creature — Thrull Cleric
+Haunt (When this creature dies, exile it haunting target creature.)
+When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.
+2/3

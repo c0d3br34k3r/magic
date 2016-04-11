@@ -1,0 +1,3 @@
+Last Chance {R}{R}
+Sorcery
+Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.

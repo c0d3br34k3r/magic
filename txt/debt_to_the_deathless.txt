@@ -1,0 +1,3 @@
+Debt to the Deathless {X}{W}{W}{B}{B}
+Sorcery
+Each opponent loses two times X life. You gain life equal to the life lost this way.

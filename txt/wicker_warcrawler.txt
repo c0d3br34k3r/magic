@@ -1,0 +1,4 @@
+Wicker Warcrawler {5}
+Artifact Creature — Scarecrow
+Whenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.
+6/6

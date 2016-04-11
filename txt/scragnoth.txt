@@ -1,0 +1,5 @@
+Scragnoth {4}{G}
+Creature — Beast
+Scragnoth can't be countered.
+Protection from blue
+3/4

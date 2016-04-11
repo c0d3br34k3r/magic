@@ -1,0 +1,4 @@
+Quickchange {1}{U}
+Instant
+Target creature becomes the color or colors of your choice until end of turn.
+Draw a card.

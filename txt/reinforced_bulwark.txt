@@ -1,0 +1,5 @@
+Reinforced Bulwark {3}
+Artifact Creature — Wall
+Defender
+{T}: Prevent the next 1 damage that would be dealt to you this turn.
+0/4

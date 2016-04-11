@@ -1,0 +1,5 @@
+Zhao Zilong, Tiger General {3}{W}{W}
+Legendary Creature — Human Soldier Warrior
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn.
+3/3

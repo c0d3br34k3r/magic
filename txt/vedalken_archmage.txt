@@ -1,0 +1,4 @@
+Vedalken Archmage {2}{U}{U}
+Creature — Vedalken Wizard
+Whenever you cast an artifact spell, draw a card.
+0/2

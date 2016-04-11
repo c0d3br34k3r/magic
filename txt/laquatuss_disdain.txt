@@ -1,0 +1,4 @@
+Laquatus's Disdain {1}{U}
+Instant
+Counter target spell cast from a graveyard.
+Draw a card.

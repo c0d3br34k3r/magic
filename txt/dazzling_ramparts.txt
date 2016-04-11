@@ -1,0 +1,5 @@
+Dazzling Ramparts {4}{W}
+Creature — Wall
+Defender
+{1}{W}, {T}: Tap target creature.
+0/7

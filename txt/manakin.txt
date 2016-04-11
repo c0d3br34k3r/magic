@@ -1,0 +1,4 @@
+Manakin {2}
+Artifact Creature — Construct
+{T}: Add {C} to your mana pool.
+1/1

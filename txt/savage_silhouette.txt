@@ -1,0 +1,4 @@
+Savage Silhouette {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature."

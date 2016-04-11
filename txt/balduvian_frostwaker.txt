@@ -1,0 +1,4 @@
+Balduvian Frostwaker {2}{U}
+Creature — Human Wizard
+{U}, {T}: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.
+1/1

@@ -1,0 +1,5 @@
+Suture Spirit {1}{W}
+Creature — Spirit
+Flying
+{W/B}{W/B}{W/B}: Regenerate target creature.
+1/1

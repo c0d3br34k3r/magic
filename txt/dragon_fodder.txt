@@ -1,0 +1,3 @@
+Dragon Fodder {1}{R}
+Sorcery
+Put two 1/1 red Goblin creature tokens onto the battlefield.

@@ -1,0 +1,5 @@
+Harbor Bandit {2}{B}
+Creature — Human Rogue
+Harbor Bandit gets +1/+1 as long as you control an Island.
+{1}{U}: Harbor Bandit can't be blocked this turn.
+2/2

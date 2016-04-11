@@ -1,0 +1,4 @@
+Eye of Ramos {3}
+Artifact
+{T}: Add {U} to your mana pool.
+Sacrifice Eye of Ramos: Add {U} to your mana pool.

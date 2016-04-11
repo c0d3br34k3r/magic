@@ -1,0 +1,3 @@
+Diabolic Revelation {X}{3}{B}{B}
+Sorcery
+Search your library for up to X cards and put those cards into your hand. Then shuffle your library.

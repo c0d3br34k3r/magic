@@ -1,0 +1,5 @@
+Venomous Dragonfly {3}{G}
+Creature — Insect
+Flying
+Whenever Venomous Dragonfly blocks or becomes blocked by a creature, destroy that creature at end of combat.
+1/1

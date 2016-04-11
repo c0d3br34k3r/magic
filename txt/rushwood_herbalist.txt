@@ -1,0 +1,4 @@
+Rushwood Herbalist {2}{G}
+Creature — Human Spellshaper
+{G}, {T}, Discard a card: Regenerate target creature.
+2/2

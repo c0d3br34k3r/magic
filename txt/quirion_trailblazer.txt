@@ -1,0 +1,4 @@
+Quirion Trailblazer {3}{G}
+Creature — Elf Scout
+When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+1/2

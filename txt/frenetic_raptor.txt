@@ -1,0 +1,4 @@
+Frenetic Raptor {5}{R}
+Creature — Lizard Beast
+Beasts can't block.
+6/6

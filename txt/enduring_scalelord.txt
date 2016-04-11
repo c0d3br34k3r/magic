@@ -1,0 +1,5 @@
+Enduring Scalelord {4}{W}{G}
+Creature — Dragon
+Flying
+Whenever one or more +1/+1 counters are placed on another creature you control, you may put a +1/+1 counter on Enduring Scalelord.
+4/4

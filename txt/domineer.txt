@@ -1,0 +1,4 @@
+Domineer {1}{U}{U}
+Enchantment — Aura
+Enchant artifact creature
+You control enchanted artifact creature.

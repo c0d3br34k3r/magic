@@ -1,0 +1,5 @@
+Yavimaya's Embrace {5}{U}{U}{G}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+Enchanted creature gets +2/+2 and has trample.

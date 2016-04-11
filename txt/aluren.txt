@@ -1,0 +1,3 @@
+Aluren {2}{G}{G}
+Enchantment
+Any player may play creature cards with converted mana cost 3 or less without paying their mana cost and as though they had flash.

@@ -1,0 +1,5 @@
+Blade Splicer {2}{W}
+Creature — Human Artificer
+When Blade Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem creatures you control have first strike.
+1/1

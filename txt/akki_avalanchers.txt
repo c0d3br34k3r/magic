@@ -1,0 +1,4 @@
+Akki Avalanchers {R}
+Creature — Goblin Warrior
+Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate this ability only once each turn.
+1/1

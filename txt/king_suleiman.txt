@@ -1,0 +1,4 @@
+King Suleiman {1}{W}
+Creature — Human
+{T}: Destroy target Djinn or Efreet.
+1/1

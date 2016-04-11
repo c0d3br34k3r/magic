@@ -1,0 +1,4 @@
+Quest for the Goblin Lord {R}
+Enchantment
+Whenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord.
+As long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.

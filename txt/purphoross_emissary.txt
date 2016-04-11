@@ -1,0 +1,6 @@
+Purphoros's Emissary {3}{R}
+Enchantment Creature — Ox
+Bestow {6}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Enchanted creature gets +3/+3 and has menace.
+3/3

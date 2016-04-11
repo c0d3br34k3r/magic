@@ -1,0 +1,5 @@
+Hydroblast {U}
+Instant
+Choose one —
+• Counter target spell if it's red.
+• Destroy target permanent if it's red.

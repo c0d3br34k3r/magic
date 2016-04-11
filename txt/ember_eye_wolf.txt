@@ -1,0 +1,5 @@
+Ember-Eye Wolf {1}{R}
+Creature — Wolf
+Haste
+{1}{R}: Ember-Eye Wolf gets +2/+0 until end of turn.
+1/2

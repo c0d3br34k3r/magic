@@ -1,0 +1,6 @@
+Kilnmouth Dragon {5}{R}{R}
+Creature — Dragon
+Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)
+Flying
+{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.
+5/5

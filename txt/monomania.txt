@@ -1,0 +1,3 @@
+Monomania {3}{B}{B}
+Sorcery
+Target player chooses a card in his or her hand and discards the rest.

@@ -1,0 +1,4 @@
+Riddlesmith {1}{U}
+Creature — Human Artificer
+Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.
+2/1

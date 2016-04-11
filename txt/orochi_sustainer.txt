@@ -1,0 +1,4 @@
+Orochi Sustainer {1}{G}
+Creature — Snake Shaman
+{T}: Add {G} to your mana pool.
+1/2

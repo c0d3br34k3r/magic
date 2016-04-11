@@ -1,0 +1,5 @@
+Rabid Bloodsucker {4}{B}
+Creature — Vampire
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Rabid Bloodsucker enters the battlefield, each player loses 2 life.
+3/2

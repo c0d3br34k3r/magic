@@ -1,0 +1,4 @@
+Ulvenwald Bear {2}{G}
+Creature — Bear
+Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.
+2/2

@@ -1,0 +1,4 @@
+Spike Jester {B}{R}
+Creature — Goblin Warrior
+Haste
+3/1

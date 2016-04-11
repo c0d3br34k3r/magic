@@ -1,0 +1,3 @@
+Ancient Craving {3}{B}
+Sorcery
+You draw three cards and you lose 3 life.

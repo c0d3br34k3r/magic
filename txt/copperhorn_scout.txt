@@ -1,0 +1,4 @@
+Copperhorn Scout {G}
+Creature — Elf Scout
+Whenever Copperhorn Scout attacks, untap each other creature you control.
+1/1

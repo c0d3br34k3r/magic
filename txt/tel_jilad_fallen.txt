@@ -1,0 +1,5 @@
+Tel-Jilad Fallen {2}{G}{G}
+Creature — Elf Warrior
+Protection from artifacts
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+3/1

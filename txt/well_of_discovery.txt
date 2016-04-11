@@ -1,0 +1,3 @@
+Well of Discovery {6}
+Artifact
+At the beginning of your end step, if you control no untapped lands, draw a card.

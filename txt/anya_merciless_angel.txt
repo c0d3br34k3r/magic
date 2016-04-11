@@ -1,0 +1,6 @@
+Anya, Merciless Angel {3}{W}{R}
+Legendary Creature — Angel
+Flying
+Anya, Merciless Angel gets +3/+3 for each opponent whose life total is less than half his or her starting life total.
+As long as an opponent's life total is less than half his or her starting life total, Anya has indestructible.
+4/4

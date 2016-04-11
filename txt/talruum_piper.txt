@@ -1,0 +1,4 @@
+Talruum Piper {4}{R}
+Creature — Minotaur
+All creatures with flying able to block Talruum Piper do so.
+3/3

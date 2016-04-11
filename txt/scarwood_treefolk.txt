@@ -1,0 +1,4 @@
+Scarwood Treefolk {3}{G}
+Creature — Treefolk
+Scarwood Treefolk enters the battlefield tapped.
+3/5

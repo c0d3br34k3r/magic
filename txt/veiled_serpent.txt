@@ -1,0 +1,4 @@
+Veiled Serpent {2}{U}
+Enchantment
+When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature with "This creature can't attack unless defending player controls an Island."
+Cycling {2} ({2}, Discard this card: Draw a card.)

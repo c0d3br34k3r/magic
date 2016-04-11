@@ -1,0 +1,5 @@
+Foriysian Totem {3}
+Artifact
+{T}: Add {R} to your mana pool.
+{4}{R}: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn.
+As long as Foriysian Totem is a creature, it can block an additional creature.

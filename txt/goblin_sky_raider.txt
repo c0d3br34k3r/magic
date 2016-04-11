@@ -1,0 +1,4 @@
+Goblin Sky Raider {2}{R}
+Creature — Goblin Warrior
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+1/2

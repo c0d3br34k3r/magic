@@ -1,0 +1,4 @@
+Sanguine Praetor {6}{B}{B}
+Creature — Avatar Praetor
+{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.
+7/5

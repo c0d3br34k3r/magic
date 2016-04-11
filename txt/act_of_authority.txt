@@ -1,0 +1,4 @@
+Act of Authority {1}{W}{W}
+Enchantment
+When Act of Authority enters the battlefield, you may exile target artifact or enchantment.
+At the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of Act of Authority.

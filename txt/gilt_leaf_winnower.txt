@@ -1,0 +1,5 @@
+Gilt-Leaf Winnower {3}{B}{B}
+Creature — Elf Warrior
+Menace (This creature can't be blocked except by two or more creatures.)
+When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal.
+4/3

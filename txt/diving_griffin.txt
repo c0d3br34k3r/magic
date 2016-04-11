@@ -1,0 +1,4 @@
+Diving Griffin {1}{W}{W}
+Creature — Griffin
+Flying, vigilance
+2/2

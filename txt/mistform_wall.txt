@@ -1,0 +1,5 @@
+Mistform Wall {2}{U}
+Creature — Illusion Wall
+Mistform Wall has defender as long as it's a Wall.
+{1}: Mistform Wall becomes the creature type of your choice until end of turn.
+1/4

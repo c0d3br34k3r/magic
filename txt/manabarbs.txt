@@ -1,0 +1,3 @@
+Manabarbs {3}{R}
+Enchantment
+Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.

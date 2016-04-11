@@ -1,0 +1,8 @@
+Umezawa's Jitte {2}
+Legendary Artifact — Equipment
+Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
+Remove a charge counter from Umezawa's Jitte: Choose one —
+• Equipped creature gets +2/+2 until end of turn.
+• Target creature gets -1/-1 until end of turn.
+• You gain 2 life.
+Equip {2}

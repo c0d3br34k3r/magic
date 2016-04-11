@@ -1,0 +1,4 @@
+Nighthaze {B}
+Sorcery
+Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)
+Draw a card.

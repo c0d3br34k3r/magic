@@ -1,0 +1,3 @@
+Assassinate {2}{B}
+Sorcery
+Destroy target tapped creature.

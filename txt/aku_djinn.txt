@@ -1,0 +1,5 @@
+Aku Djinn {3}{B}{B}
+Creature — Djinn
+Trample
+At the beginning of your upkeep, put a +1/+1 counter on each creature each opponent controls.
+5/6

@@ -1,0 +1,5 @@
+Bruna, Light of Alabaster {3}{W}{W}{U}
+Legendary Creature — Angel
+Flying, vigilance
+Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.
+5/5

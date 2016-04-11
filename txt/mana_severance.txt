@@ -1,0 +1,3 @@
+Mana Severance {1}{U}
+Sorcery
+Search your library for any number of land cards and exile them. Then shuffle your library.

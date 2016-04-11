@@ -1,0 +1,4 @@
+Salt Marsh
+Land
+Salt Marsh enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.

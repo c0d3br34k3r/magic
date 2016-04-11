@@ -1,0 +1,5 @@
+Spawnwrithe {2}{G}
+Creature — Elemental
+Trample
+Whenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.
+2/2

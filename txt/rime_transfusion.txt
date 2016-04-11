@@ -1,0 +1,4 @@
+Rime Transfusion {1}{B}
+Snow Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1 and has "{S}: This creature can't be blocked this turn except by snow creatures." ({S} can be paid with one mana from a snow permanent.)

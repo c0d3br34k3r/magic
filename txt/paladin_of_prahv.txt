@@ -1,0 +1,5 @@
+Paladin of Prahv {4}{W}{W}
+Creature — Human Knight
+Whenever Paladin of Prahv deals damage, you gain that much life.
+Forecast — {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. (Activate this ability only during your upkeep and only once each turn.)
+3/4

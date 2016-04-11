@@ -1,0 +1,4 @@
+Tajuru Stalwart {2}{G}
+Creature — Elf Scout Ally
+Converge — Tajuru Stalwart enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+0/1

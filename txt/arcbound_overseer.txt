@@ -1,0 +1,5 @@
+Arcbound Overseer {8}
+Artifact Creature — Golem
+At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control.
+Modular 6 (This enters the battlefield with six +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+0/0

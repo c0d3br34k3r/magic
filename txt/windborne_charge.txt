@@ -1,0 +1,3 @@
+Windborne Charge {2}{W}{W}
+Sorcery
+Two target creatures you control each get +2/+2 and gain flying until end of turn.

@@ -1,0 +1,4 @@
+Serra's Hymn {W}
+Enchantment
+At the beginning of your upkeep, you may put a verse counter on Serra's Hymn.
+Sacrifice Serra's Hymn: Prevent the next X damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose, where X is the number of verse counters on Serra's Hymn.

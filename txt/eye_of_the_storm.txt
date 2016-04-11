@@ -1,0 +1,3 @@
+Eye of the Storm {5}{U}{U}
+Enchantment
+Whenever a player casts an instant or sorcery card, exile it. Then that player copies each instant or sorcery card exiled with Eye of the Storm. For each copy, the player may cast the copy without paying its mana cost.

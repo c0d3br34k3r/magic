@@ -1,0 +1,5 @@
+Teferi's Isle
+Legendary Land
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Teferi's Isle enters the battlefield tapped.
+{T}: Add {U}{U} to your mana pool.

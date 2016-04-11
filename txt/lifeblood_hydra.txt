@@ -1,0 +1,6 @@
+Lifeblood Hydra {X}{G}{G}{G}
+Creature — Hydra
+Trample
+Lifeblood Hydra enters the battlefield with X +1/+1 counters on it.
+When Lifeblood Hydra dies, you gain life and draw cards equal to its power.
+0/0

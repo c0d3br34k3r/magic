@@ -1,0 +1,5 @@
+Angel of Fury {4}{W}{W}
+Creature — Angel
+Flying
+When Angel of Fury dies, you may shuffle it into its owner's library.
+3/5

@@ -1,0 +1,5 @@
+Thought Nibbler {U}
+Creature — Beast
+Flying
+Your maximum hand size is reduced by two.
+1/1

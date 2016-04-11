@@ -1,0 +1,5 @@
+Aysen Abbey
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Add {W} to your mana pool.
+{2}, {T}: Add {G} or {U} to your mana pool.

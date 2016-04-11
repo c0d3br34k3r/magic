@@ -1,0 +1,3 @@
+Thopter Foundry {W/B}{U}
+Artifact
+{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.

@@ -1,0 +1,5 @@
+Steamflogger Boss {3}{R}
+Creature — Goblin Rigger
+Other Rigger creatures you control get +1/+0 and have haste.
+If a Rigger you control would assemble a Contraption, it assembles two Contraptions instead.
+3/3

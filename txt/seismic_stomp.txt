@@ -1,0 +1,3 @@
+Seismic Stomp {1}{R}
+Sorcery
+Creatures without flying can't block this turn.

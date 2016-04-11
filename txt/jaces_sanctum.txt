@@ -1,0 +1,4 @@
+Jace's Sanctum {3}{U}
+Enchantment
+Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)

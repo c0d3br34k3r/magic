@@ -1,0 +1,4 @@
+Dust Bowl
+Land
+{T}: Add {C} to your mana pool.
+{3}, {T}, Sacrifice a land: Destroy target nonbasic land.

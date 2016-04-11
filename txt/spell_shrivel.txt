@@ -1,0 +1,4 @@
+Spell Shrivel {2}{U}
+Instant
+Devoid (This card has no color.)
+Counter target spell unless its controller pays {4}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.

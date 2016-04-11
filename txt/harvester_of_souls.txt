@@ -1,0 +1,5 @@
+Harvester of Souls {4}{B}{B}
+Creature — Demon
+Deathtouch
+Whenever another nontoken creature dies, you may draw a card.
+5/5

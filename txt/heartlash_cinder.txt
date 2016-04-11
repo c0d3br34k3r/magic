@@ -1,0 +1,5 @@
+Heartlash Cinder {1}{R}
+Creature — Elemental Warrior
+Haste
+Chroma — When Heartlash Cinder enters the battlefield, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.
+1/1

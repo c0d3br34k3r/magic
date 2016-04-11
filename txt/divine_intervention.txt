@@ -1,0 +1,5 @@
+Divine Intervention {6}{W}{W}
+Enchantment
+Divine Intervention enters the battlefield with two intervention counters on it.
+At the beginning of your upkeep, remove an intervention counter from Divine Intervention.
+When you remove the last intervention counter from Divine Intervention, the game is a draw.

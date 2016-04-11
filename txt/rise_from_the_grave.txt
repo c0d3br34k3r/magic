@@ -1,0 +1,3 @@
+Rise from the Grave {4}{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.

@@ -1,0 +1,4 @@
+Frilled Oculus {1}{U}
+Creature — Homunculus
+{1}{G}: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
+1/3

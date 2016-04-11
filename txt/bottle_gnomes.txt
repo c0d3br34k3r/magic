@@ -1,0 +1,4 @@
+Bottle Gnomes {3}
+Artifact Creature — Gnome
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3

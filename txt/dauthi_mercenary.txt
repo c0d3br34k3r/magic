@@ -1,0 +1,5 @@
+Dauthi Mercenary {2}{B}
+Creature — Dauthi Knight Mercenary
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+{1}{B}: Dauthi Mercenary gets +1/+0 until end of turn.
+2/1

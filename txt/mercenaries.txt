@@ -1,0 +1,4 @@
+Mercenaries {3}{W}
+Creature — Human Mercenary
+{3}: The next time Mercenaries would deal damage to you this turn, prevent that damage. Any player may activate this ability.
+3/3

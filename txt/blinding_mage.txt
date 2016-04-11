@@ -1,0 +1,4 @@
+Blinding Mage {1}{W}
+Creature — Human Wizard
+{W}, {T}: Tap target creature.
+1/2

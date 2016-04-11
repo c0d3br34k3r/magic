@@ -1,0 +1,4 @@
+Stone Catapult {4}{B}
+Creature — Human Soldier
+{T}: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.
+1/2

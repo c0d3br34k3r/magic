@@ -1,0 +1,4 @@
+Godtoucher {3}{G}
+Creature — Elf Cleric
+{1}{W}, {T}: Prevent all damage that would be dealt to target creature with power 5 or greater this turn.
+2/2

@@ -1,0 +1,4 @@
+Galvanoth {3}{R}{R}
+Creature — Beast
+At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.
+3/3

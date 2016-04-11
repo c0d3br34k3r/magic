@@ -1,0 +1,3 @@
+Lat-Nam's Legacy {1}{U}
+Instant
+Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.

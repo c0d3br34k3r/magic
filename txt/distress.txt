@@ -1,0 +1,3 @@
+Distress {B}{B}
+Sorcery
+Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.

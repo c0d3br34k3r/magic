@@ -1,0 +1,4 @@
+Initiates of the Ebon Hand {B}
+Creature — Cleric
+{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+1/1

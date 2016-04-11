@@ -1,0 +1,6 @@
+Ardent Soldier {1}{W}
+Creature — Human Soldier
+Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Vigilance
+If Ardent Soldier was kicked, it enters the battlefield with a +1/+1 counter on it.
+1/2

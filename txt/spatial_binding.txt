@@ -1,0 +1,3 @@
+Spatial Binding {U}{B}
+Enchantment
+Pay 1 life: Until your next upkeep, target permanent can't phase out.

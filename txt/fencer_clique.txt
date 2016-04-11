@@ -1,0 +1,5 @@
+Fencer Clique {2}{U}{U}
+Creature — Faerie Soldier
+Flying
+{U}: Put Fencer Clique on top of its owner's library.
+3/2

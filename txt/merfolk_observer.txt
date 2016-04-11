@@ -1,0 +1,4 @@
+Merfolk Observer {1}{U}
+Creature — Merfolk Rogue
+When Merfolk Observer enters the battlefield, look at the top card of target player's library.
+2/1

@@ -1,0 +1,3 @@
+Lurking Jackals {B}
+Enchantment
+When an opponent has 10 or less life, if Lurking Jackals is an enchantment, it becomes a 3/2 Hound creature.

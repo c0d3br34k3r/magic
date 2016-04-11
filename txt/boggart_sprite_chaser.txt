@@ -1,0 +1,4 @@
+Boggart Sprite-Chaser {1}{R}
+Creature — Goblin Warrior
+As long as you control a Faerie, Boggart Sprite-Chaser gets +1/+1 and has flying.
+1/2

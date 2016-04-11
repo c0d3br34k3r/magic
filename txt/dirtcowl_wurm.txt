@@ -1,0 +1,4 @@
+Dirtcowl Wurm {4}{G}
+Creature — Wurm
+Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.
+3/4

@@ -1,0 +1,5 @@
+Kashi-Tribe Reaver {3}{G}
+Creature — Snake Warrior
+Whenever Kashi-Tribe Reaver deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
+{1}{G}: Regenerate Kashi-Tribe Reaver.
+3/2

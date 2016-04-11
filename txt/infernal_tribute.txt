@@ -1,0 +1,3 @@
+Infernal Tribute {B}{B}{B}
+Enchantment
+{2}, Sacrifice a nontoken permanent: Draw a card.

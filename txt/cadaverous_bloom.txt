@@ -1,0 +1,3 @@
+Cadaverous Bloom {3}{B}{G}
+Enchantment
+Exile a card from your hand: Add {B}{B} or {G}{G} to your mana pool.

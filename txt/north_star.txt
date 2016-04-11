@@ -1,0 +1,3 @@
+North Star {4}
+Artifact
+{4}, {T}: For one spell this turn, you may spend mana as though it were mana of any color to pay that spell's mana cost. (Additional costs are still paid normally.)

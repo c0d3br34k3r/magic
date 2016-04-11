@@ -1,0 +1,5 @@
+Sleep Paralysis {3}{U}
+Enchantment — Aura
+Enchant creature
+When Sleep Paralysis enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.

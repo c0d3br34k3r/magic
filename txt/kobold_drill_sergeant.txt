@@ -1,0 +1,4 @@
+Kobold Drill Sergeant {1}{R}
+Creature — Kobold Soldier
+Other Kobold creatures you control get +0/+1 and have trample.
+1/2

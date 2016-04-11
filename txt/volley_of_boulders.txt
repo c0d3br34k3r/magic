@@ -1,0 +1,4 @@
+Volley of Boulders {8}{R}
+Sorcery
+Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.
+Flashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

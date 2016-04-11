@@ -1,0 +1,5 @@
+Kozilek's Translator {4}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Pay 1 life: Add {C} to your mana pool. Activate this ability only once each turn. ({C} represents colorless mana.)
+3/5

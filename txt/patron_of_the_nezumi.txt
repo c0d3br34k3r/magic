@@ -1,0 +1,5 @@
+Patron of the Nezumi {5}{B}{B}
+Legendary Creature — Spirit
+Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
+Whenever a permanent is put into an opponent's graveyard, that player loses 1 life.
+6/6

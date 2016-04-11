@@ -1,0 +1,4 @@
+Ostiary Thrull {3}{B}
+Creature — Thrull
+{W}, {T}: Tap target creature.
+2/2

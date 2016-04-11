@@ -1,0 +1,4 @@
+Dwarven Miner {1}{R}
+Creature — Dwarf
+{2}{R}, {T}: Destroy target nonbasic land.
+1/2

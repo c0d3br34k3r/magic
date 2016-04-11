@@ -1,0 +1,4 @@
+Ruinous Minotaur {1}{R}{R}
+Creature — Minotaur Warrior
+Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.
+5/2

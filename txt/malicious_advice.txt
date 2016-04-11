@@ -1,0 +1,3 @@
+Malicious Advice {X}{U}{B}
+Instant
+Tap X target artifacts, creatures, and/or lands. You lose X life.

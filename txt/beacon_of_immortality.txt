@@ -1,0 +1,3 @@
+Beacon of Immortality {5}{W}
+Instant
+Double target player's life total. Shuffle Beacon of Immortality into its owner's library.

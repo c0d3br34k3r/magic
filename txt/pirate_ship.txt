@@ -1,0 +1,6 @@
+Pirate Ship {4}{U}
+Creature — Human Pirate
+Pirate Ship can't attack unless defending player controls an Island.
+{T}: Pirate Ship deals 1 damage to target creature or player.
+When you control no Islands, sacrifice Pirate Ship.
+4/3

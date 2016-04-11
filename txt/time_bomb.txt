@@ -1,0 +1,4 @@
+Time Bomb {4}
+Artifact
+At the beginning of your upkeep, put a time counter on Time Bomb.
+{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.

@@ -1,0 +1,4 @@
+Just Fate {2}{W}
+Instant
+Cast Just Fate only during the declare attackers step and only if you've been attacked this step.
+Destroy target attacking creature.

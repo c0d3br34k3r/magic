@@ -1,0 +1,5 @@
+Basalt Golem {5}
+Artifact Creature — Golem
+Basalt Golem can't be blocked by artifact creatures.
+Whenever Basalt Golem becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, he or she puts a 0/2 colorless Wall artifact creature token with defender onto the battlefield.
+2/4

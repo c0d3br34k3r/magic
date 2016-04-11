@@ -1,0 +1,4 @@
+Strip Mine
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice Strip Mine: Destroy target land.

@@ -1,0 +1,6 @@
+Eldrazi Skyspawner {2}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Flying
+When Eldrazi Skyspawner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+2/1

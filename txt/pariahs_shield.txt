@@ -1,0 +1,4 @@
+Pariah's Shield {5}
+Artifact — Equipment
+All damage that would be dealt to you is dealt to equipped creature instead.
+Equip {3}

@@ -1,0 +1,4 @@
+Moss Diamond {2}
+Artifact
+Moss Diamond enters the battlefield tapped.
+{T}: Add {G} to your mana pool.

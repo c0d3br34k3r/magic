@@ -1,0 +1,3 @@
+Lavalanche {X}{B}{R}{G}
+Sorcery
+Lavalanche deals X damage to target player and each creature he or she controls.

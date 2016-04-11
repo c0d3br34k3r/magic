@@ -1,0 +1,4 @@
+Orochi Leafcaller {G}
+Creature — Snake Shaman
+{G}: Add one mana of any color to your mana pool.
+1/1

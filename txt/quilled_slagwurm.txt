@@ -1,0 +1,3 @@
+Quilled Slagwurm {4}{G}{G}{G}
+Creature — Wurm
+8/8

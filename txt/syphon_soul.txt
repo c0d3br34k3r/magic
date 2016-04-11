@@ -1,0 +1,3 @@
+Syphon Soul {2}{B}
+Sorcery
+Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.

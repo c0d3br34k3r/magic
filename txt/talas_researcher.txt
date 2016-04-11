@@ -1,0 +1,4 @@
+Talas Researcher {4}{U}
+Creature — Human Pirate Wizard
+{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.
+1/1

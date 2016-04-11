@@ -1,0 +1,4 @@
+Urza's Incubator {3}
+Artifact
+As Urza's Incubator enters the battlefield, choose a creature type.
+Creature spells of the chosen type cost {2} less to cast.

@@ -1,0 +1,5 @@
+Carry Away {U}{U}
+Enchantment — Aura
+Enchant Equipment
+When Carry Away enters the battlefield, unattach enchanted Equipment.
+You control enchanted Equipment.

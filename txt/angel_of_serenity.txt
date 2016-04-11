@@ -1,0 +1,6 @@
+Angel of Serenity {4}{W}{W}{W}
+Creature — Angel
+Flying
+When Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards.
+When Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands.
+5/6

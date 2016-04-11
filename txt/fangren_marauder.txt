@@ -1,0 +1,4 @@
+Fangren Marauder {5}{G}
+Creature — Beast
+Whenever an artifact is put into a graveyard from the battlefield, you may gain 5 life.
+5/5

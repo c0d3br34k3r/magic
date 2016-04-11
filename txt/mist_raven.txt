@@ -1,0 +1,5 @@
+Mist Raven {2}{U}{U}
+Creature — Bird
+Flying
+When Mist Raven enters the battlefield, return target creature to its owner's hand.
+2/2

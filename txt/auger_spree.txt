@@ -1,0 +1,3 @@
+Auger Spree {1}{B}{R}
+Instant
+Target creature gets +4/-4 until end of turn.

@@ -1,0 +1,4 @@
+Strength of the Tajuru {X}{G}{G}
+Instant
+Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.

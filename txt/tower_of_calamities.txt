@@ -1,0 +1,3 @@
+Tower of Calamities {4}
+Artifact
+{8}, {T}: Tower of Calamities deals 12 damage to target creature.

@@ -1,0 +1,4 @@
+Sylvan Might {1}{G}
+Instant
+Target creature gets +2/+2 and gains trample until end of turn.
+Flashback {2}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

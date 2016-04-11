@@ -1,0 +1,5 @@
+Witch Engine {5}{B}
+Creature — Horror
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+{T}: Add {B}{B}{B}{B} to your mana pool. Target opponent gains control of Witch Engine. (Activate this ability only any time you could cast an instant.)
+4/4

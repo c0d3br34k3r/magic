@@ -1,0 +1,4 @@
+Akoum Flameseeker {2}{R}
+Creature — Human Shaman Ally
+Cohort — {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.
+3/2

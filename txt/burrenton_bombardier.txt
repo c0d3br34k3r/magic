@@ -1,0 +1,5 @@
+Burrenton Bombardier {2}{W}
+Creature — Kithkin Soldier
+Flying
+Reinforce 2—{2}{W} ({2}{W}, Discard this card: Put two +1/+1 counters on target creature.)
+2/2

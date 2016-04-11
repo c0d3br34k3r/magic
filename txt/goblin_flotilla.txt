@@ -1,0 +1,5 @@
+Goblin Flotilla {2}{R}
+Creature — Goblin
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+At the beginning of each combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.
+2/2

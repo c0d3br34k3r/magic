@@ -1,0 +1,3 @@
+Boil {3}{R}
+Instant
+Destroy all Islands.

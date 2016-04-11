@@ -1,0 +1,4 @@
+Cho-Arrim Bruiser {5}{W}
+Creature — Ogre Rebel
+Whenever Cho-Arrim Bruiser attacks, you may tap up to two target creatures.
+3/4

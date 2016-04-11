@@ -1,0 +1,4 @@
+Chromatic Lantern {3}
+Artifact
+Lands you control have "{T}: Add one mana of any color to your mana pool."
+{T}: Add one mana of any color to your mana pool.

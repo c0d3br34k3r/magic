@@ -1,0 +1,4 @@
+Lich's Tomb {4}
+Artifact
+You don't lose the game for having 0 or less life.
+Whenever you lose life, sacrifice a permanent for each 1 life you lost. (Damage causes loss of life.)

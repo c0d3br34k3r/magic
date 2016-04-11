@@ -1,0 +1,5 @@
+Sage's Reverie {3}{W}
+Enchantment — Aura
+Enchant creature
+When Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.
+Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature.

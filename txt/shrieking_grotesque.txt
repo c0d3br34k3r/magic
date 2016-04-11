@@ -1,0 +1,5 @@
+Shrieking Grotesque {2}{W}
+Creature — Gargoyle
+Flying
+When Shrieking Grotesque enters the battlefield, if {B} was spent to cast it, target player discards a card.
+2/1

@@ -1,0 +1,4 @@
+Rogue's Gloves {2}
+Artifact — Equipment
+Whenever equipped creature deals combat damage to a player, you may draw a card.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

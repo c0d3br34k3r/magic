@@ -1,0 +1,5 @@
+Briarpack Alpha {3}{G}
+Creature — Wolf
+Flash (You may cast this spell any time you could cast an instant.)
+When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.
+3/3

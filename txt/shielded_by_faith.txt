@@ -1,0 +1,5 @@
+Shielded by Faith {1}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has indestructible.
+Whenever a creature enters the battlefield, you may attach Shielded by Faith to that creature.

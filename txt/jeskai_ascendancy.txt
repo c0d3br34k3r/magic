@@ -1,0 +1,4 @@
+Jeskai Ascendancy {W}{U}{R}
+Enchantment
+Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.
+Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card.

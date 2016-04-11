@@ -1,0 +1,3 @@
+Bloodcurdling Scream {X}{B}
+Sorcery
+Target creature gets +X/+0 until end of turn.

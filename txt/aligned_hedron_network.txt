@@ -1,0 +1,3 @@
+Aligned Hedron Network {4}
+Artifact
+When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield. (Those creatures return under their owners' control.)

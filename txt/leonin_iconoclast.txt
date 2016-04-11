@@ -1,0 +1,4 @@
+Leonin Iconoclast {3}{W}
+Creature — Cat Monk
+Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.
+3/2

@@ -1,0 +1,3 @@
+Life Burst {1}{W}
+Instant
+Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard.

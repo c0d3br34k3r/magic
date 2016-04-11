@@ -1,0 +1,3 @@
+Scapeshift {2}{G}{G}
+Sorcery
+Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.

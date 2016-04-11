@@ -1,0 +1,5 @@
+Energy Chamber {2}
+Artifact
+At the beginning of your upkeep, choose one —
+• Put a +1/+1 counter on target artifact creature.
+• Put a charge counter on target noncreature artifact.

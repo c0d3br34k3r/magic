@@ -1,0 +1,6 @@
+Mist Dragon {4}{U}{U}
+Creature — Dragon
+{0}: Mist Dragon gains flying. (This effect lasts indefinitely.)
+{0}: Mist Dragon loses flying. (This effect lasts indefinitely.)
+{3}{U}{U}: Mist Dragon phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)
+4/4

@@ -1,0 +1,4 @@
+Ancestral Statue {4}
+Artifact Creature — Golem
+When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand.
+3/4

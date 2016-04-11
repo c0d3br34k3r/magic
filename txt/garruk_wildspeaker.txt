@@ -1,0 +1,6 @@
+Garruk Wildspeaker {2}{G}{G}
+Planeswalker — Garruk
++1: Untap two target lands.
+−1: Put a 3/3 green Beast creature token onto the battlefield.
+−4: Creatures you control get +3/+3 and gain trample until end of turn.
+3

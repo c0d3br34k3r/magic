@@ -1,0 +1,4 @@
+Aerie Worshippers {3}{U}
+Creature — Human Cleric
+Inspired — Whenever Aerie Worshippers becomes untapped, you may pay {2}{U}. If you do, put a 2/2 blue Bird enchantment creature token with flying onto the battlefield.
+2/4

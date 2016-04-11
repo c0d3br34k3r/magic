@@ -1,0 +1,4 @@
+Blaze Commando {3}{W}{R}
+Creature — Minotaur Soldier
+Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.
+5/3

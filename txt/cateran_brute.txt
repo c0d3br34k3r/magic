@@ -1,0 +1,4 @@
+Cateran Brute {2}{B}
+Creature — Horror Mercenary
+{2}, {T}: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.
+2/2

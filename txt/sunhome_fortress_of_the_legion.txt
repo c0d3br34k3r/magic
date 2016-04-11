@@ -1,0 +1,4 @@
+Sunhome, Fortress of the Legion
+Land
+{T}: Add {C} to your mana pool.
+{2}{R}{W}, {T}: Target creature gains double strike until end of turn.

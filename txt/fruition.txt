@@ -1,0 +1,3 @@
+Fruition {G}
+Sorcery
+You gain 1 life for each Forest on the battlefield.

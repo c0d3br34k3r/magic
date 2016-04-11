@@ -1,0 +1,4 @@
+Shorecrasher Mimic {1}{G/U}
+Creature — Shapeshifter
+Whenever you cast a spell that's both green and blue, Shorecrasher Mimic has base power and toughness 5/3 until end of turn and gains trample until end of turn.
+2/1

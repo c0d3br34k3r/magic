@@ -1,0 +1,4 @@
+Zebra Unicorn {2}{W}{G}
+Creature — Unicorn
+Whenever Zebra Unicorn deals damage, you gain that much life.
+2/2

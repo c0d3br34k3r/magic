@@ -1,0 +1,5 @@
+Hunting Drake {4}{U}
+Creature — Drake
+Flying
+When Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.
+2/2

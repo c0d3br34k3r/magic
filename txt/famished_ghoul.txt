@@ -1,0 +1,4 @@
+Famished Ghoul {3}{B}
+Creature — Zombie
+{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard.
+3/2

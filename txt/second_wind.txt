@@ -1,0 +1,5 @@
+Second Wind {2}{U}
+Enchantment — Aura
+Enchant creature
+{T}: Tap enchanted creature.
+{T}: Untap enchanted creature.

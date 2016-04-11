@@ -1,0 +1,6 @@
+Palinchron {5}{U}{U}
+Creature — Illusion
+Flying
+When Palinchron enters the battlefield, untap up to seven lands.
+{2}{U}{U}: Return Palinchron to its owner's hand.
+4/5

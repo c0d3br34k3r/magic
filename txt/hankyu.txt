@@ -1,0 +1,4 @@
+Hankyu {1}
+Artifact — Equipment
+Equipped creature has "{T}: Put an aim counter on Hankyu" and "{T}, Remove all aim counters from Hankyu: This creature deals damage to target creature or player equal to the number of aim counters removed this way."
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)

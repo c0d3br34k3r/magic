@@ -1,0 +1,6 @@
+Angel of the Dire Hour {5}{W}{W}
+Creature — Angel
+Flash
+Flying
+When Angel of the Dire Hour enters the battlefield, if you cast it from your hand, exile all attacking creatures.
+5/4

@@ -1,0 +1,3 @@
+Kindle {1}{R}
+Instant
+Kindle deals X damage to target creature or player, where X is 2 plus the number of cards named Kindle in all graveyards.

@@ -1,0 +1,5 @@
+Angelic Wall {1}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Flying
+0/4

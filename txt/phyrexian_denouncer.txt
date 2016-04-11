@@ -1,0 +1,4 @@
+Phyrexian Denouncer {1}{B}
+Creature — Carrier
+{T}, Sacrifice Phyrexian Denouncer: Target creature gets -1/-1 until end of turn.
+1/1

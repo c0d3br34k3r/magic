@@ -1,0 +1,5 @@
+Multani's Acolyte {G}{G}
+Creature — Elf
+Echo {G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Multani's Acolyte enters the battlefield, draw a card.
+2/1

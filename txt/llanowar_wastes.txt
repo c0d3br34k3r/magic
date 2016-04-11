@@ -1,0 +1,4 @@
+Llanowar Wastes
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.

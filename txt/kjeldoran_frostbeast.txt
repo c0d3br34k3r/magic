@@ -1,0 +1,4 @@
+Kjeldoran Frostbeast {3}{W}{G}
+Creature — Elemental Beast
+At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.
+2/4

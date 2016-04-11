@@ -1,0 +1,4 @@
+Auriok Sunchaser {1}{W}
+Creature — Human Soldier
+Metalcraft — As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.
+1/1

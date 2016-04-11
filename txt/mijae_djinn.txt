@@ -1,0 +1,4 @@
+Mijae Djinn {R}{R}{R}
+Creature — Djinn
+Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+6/3

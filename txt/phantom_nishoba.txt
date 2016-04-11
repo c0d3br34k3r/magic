@@ -1,0 +1,7 @@
+Phantom Nishoba {5}{W}{G}
+Creature — Cat Beast Spirit
+Trample
+Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.
+Whenever Phantom Nishoba deals damage, you gain that much life.
+If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.
+0/0

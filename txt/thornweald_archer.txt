@@ -1,0 +1,5 @@
+Thornweald Archer {1}{G}
+Creature — Elf Archer
+Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/1

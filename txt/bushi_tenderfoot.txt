@@ -1,0 +1,9 @@
+Bushi Tenderfoot {W}
+Creature — Human Soldier
+When a creature dealt damage by Bushi Tenderfoot this turn dies, flip Bushi Tenderfoot.
+1/1
+* FLIP *
+Kenzo the Hardhearted {W}
+Legendary Creature — Human Samurai
+Double strike; bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+3/4

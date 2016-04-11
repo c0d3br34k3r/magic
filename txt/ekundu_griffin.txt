@@ -1,0 +1,4 @@
+Ekundu Griffin {3}{W}
+Creature — Griffin
+Flying, first strike
+2/2

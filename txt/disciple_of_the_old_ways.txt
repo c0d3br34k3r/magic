@@ -1,0 +1,4 @@
+Disciple of the Old Ways {1}{G}
+Creature — Human Warrior
+{R}: Disciple of the Old Ways gains first strike until end of turn.
+2/2

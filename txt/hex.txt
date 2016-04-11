@@ -1,0 +1,3 @@
+Hex {4}{B}{B}
+Sorcery
+Destroy six target creatures.

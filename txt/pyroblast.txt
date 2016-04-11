@@ -1,0 +1,5 @@
+Pyroblast {R}
+Instant
+Choose one —
+• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.

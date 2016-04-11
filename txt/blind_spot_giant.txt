@@ -1,0 +1,4 @@
+Blind-Spot Giant {2}{R}
+Creature — Giant Warrior
+Blind-Spot Giant can't attack or block unless you control another Giant.
+4/3

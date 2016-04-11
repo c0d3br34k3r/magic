@@ -1,0 +1,4 @@
+Soul Spike {5}{B}{B}
+Instant
+You may exile two black cards from your hand rather than pay Soul Spike's mana cost.
+Soul Spike deals 4 damage to target creature or player and you gain 4 life.

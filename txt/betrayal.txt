@@ -1,0 +1,4 @@
+Betrayal {U}
+Enchantment — Aura
+Enchant creature an opponent controls
+Whenever enchanted creature becomes tapped, you draw a card.

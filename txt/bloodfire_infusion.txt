@@ -1,0 +1,4 @@
+Bloodfire Infusion {2}{R}
+Enchantment — Aura
+Enchant creature you control
+{R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.

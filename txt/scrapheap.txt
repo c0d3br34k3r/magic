@@ -1,0 +1,3 @@
+Scrapheap {3}
+Artifact
+Whenever an artifact or enchantment is put into your graveyard from the battlefield, you gain 1 life.

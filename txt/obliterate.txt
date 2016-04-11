@@ -1,0 +1,4 @@
+Obliterate {6}{R}{R}
+Sorcery
+Obliterate can't be countered.
+Destroy all artifacts, creatures, and lands. They can't be regenerated.

@@ -1,0 +1,5 @@
+Palace Familiar {1}{U}
+Creature — Bird
+Flying
+When Palace Familiar dies, draw a card.
+1/1

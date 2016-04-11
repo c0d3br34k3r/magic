@@ -1,0 +1,5 @@
+Horobi, Death's Wail {2}{B}{B}
+Legendary Creature — Spirit
+Flying
+Whenever a creature becomes the target of a spell or ability, destroy that creature.
+4/4

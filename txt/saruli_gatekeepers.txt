@@ -1,0 +1,4 @@
+Saruli Gatekeepers {3}{G}
+Creature — Elf Warrior
+When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life.
+2/4

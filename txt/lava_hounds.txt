@@ -1,0 +1,5 @@
+Lava Hounds {2}{R}{R}
+Creature — Hound
+Haste
+When Lava Hounds enters the battlefield, it deals 4 damage to you.
+4/4

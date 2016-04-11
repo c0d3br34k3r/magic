@@ -1,0 +1,3 @@
+Hymn to Tourach {B}{B}
+Sorcery
+Target player discards two cards at random.

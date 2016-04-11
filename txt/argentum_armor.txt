@@ -1,0 +1,5 @@
+Argentum Armor {6}
+Artifact — Equipment
+Equipped creature gets +6/+6.
+Whenever equipped creature attacks, destroy target permanent.
+Equip {6}

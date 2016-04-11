@@ -1,0 +1,5 @@
+Arcanis the Omnipotent {3}{U}{U}{U}
+Legendary Creature — Wizard
+{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+3/4

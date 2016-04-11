@@ -1,0 +1,3 @@
+Security Detail {3}{W}
+Enchantment
+{W}{W}: Put a 1/1 white Soldier creature token onto the battlefield. Activate this ability only if you control no creatures and only once each turn.

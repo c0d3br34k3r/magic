@@ -1,0 +1,6 @@
+Treva's Charm {W}{U}{G}
+Instant
+Choose one —
+• Destroy target enchantment.
+• Exile target attacking creature.
+• Draw a card, then discard a card.

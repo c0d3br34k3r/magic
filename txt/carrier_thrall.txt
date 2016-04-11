@@ -1,0 +1,4 @@
+Carrier Thrall {1}{B}
+Creature — Vampire
+When Carrier Thrall dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+2/1

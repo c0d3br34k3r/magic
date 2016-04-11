@@ -1,0 +1,5 @@
+Bloodthorn Taunter {1}{R}
+Creature — Human Scout
+Haste
+{T}: Target creature with power 5 or greater gains haste until end of turn.
+1/1

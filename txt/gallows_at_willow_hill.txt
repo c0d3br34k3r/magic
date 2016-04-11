@@ -1,0 +1,3 @@
+Gallows at Willow Hill {3}
+Artifact
+{3}, {T}, Tap three untapped Humans you control: Destroy target creature. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.

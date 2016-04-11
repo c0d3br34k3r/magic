@@ -1,0 +1,4 @@
+Viridescent Wisps {G}
+Instant
+Target creature becomes green and gets +1/+0 until end of turn.
+Draw a card.

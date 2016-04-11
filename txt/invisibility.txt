@@ -1,0 +1,4 @@
+Invisibility {U}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked except by Walls.

@@ -1,0 +1,5 @@
+Faerie Miscreant {U}
+Creature — Faerie Rogue
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.
+1/1

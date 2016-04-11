@@ -1,0 +1,4 @@
+Gavony Township
+Land
+{T}: Add {C} to your mana pool.
+{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.

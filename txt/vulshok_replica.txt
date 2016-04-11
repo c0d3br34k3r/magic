@@ -1,0 +1,4 @@
+Vulshok Replica {3}
+Artifact Creature — Berserker
+{1}{R}, Sacrifice Vulshok Replica: Vulshok Replica deals 3 damage to target player.
+3/1

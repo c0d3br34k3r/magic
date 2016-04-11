@@ -1,0 +1,4 @@
+Paleoloth {4}{G}{G}
+Creature — Beast
+Whenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.
+5/5

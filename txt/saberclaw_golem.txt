@@ -1,0 +1,4 @@
+Saberclaw Golem {5}
+Artifact Creature — Golem
+{R}: Saberclaw Golem gains first strike until end of turn.
+4/2

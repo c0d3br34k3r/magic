@@ -1,0 +1,4 @@
+Jori En, Ruin Diver {1}{U}{R}
+Legendary Creature — Merfolk Wizard
+Whenever you cast your second spell each turn, draw a card.
+2/3

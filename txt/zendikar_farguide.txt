@@ -1,0 +1,4 @@
+Zendikar Farguide {4}{G}
+Creature — Elemental
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+3/3

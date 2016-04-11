@@ -1,0 +1,5 @@
+Adarkar Windform {4}{U}
+Snow Creature — Illusion
+Flying
+{1}{S}: Target creature loses flying until end of turn. ({S} can be paid with one mana from a snow permanent.)
+3/3

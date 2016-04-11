@@ -1,0 +1,5 @@
+Tephraderm {4}{R}
+Creature — Beast
+Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature.
+Whenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell's controller.
+4/5

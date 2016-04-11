@@ -1,0 +1,5 @@
+Tolarian Sentinel {3}{U}
+Creature — Human Spellshaper
+Flying
+{U}, {T}, Discard a card: Return target permanent you control to its owner's hand.
+1/3

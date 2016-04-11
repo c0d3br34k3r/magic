@@ -1,0 +1,4 @@
+Darting Merfolk {1}{U}
+Creature — Merfolk
+{U}: Return Darting Merfolk to its owner's hand.
+1/1

@@ -1,0 +1,5 @@
+Serum Raker {2}{U}{U}
+Creature — Drake
+Flying
+When Serum Raker dies, each player discards a card.
+3/2

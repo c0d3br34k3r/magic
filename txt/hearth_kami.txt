@@ -1,0 +1,4 @@
+Hearth Kami {1}{R}
+Creature — Spirit
+{X}, Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X.
+2/1

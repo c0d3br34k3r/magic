@@ -1,0 +1,4 @@
+Face of Fear {5}{B}
+Creature — Horror
+{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+3/4

@@ -1,0 +1,4 @@
+Withering Boon {1}{B}
+Instant
+As an additional cost to cast Withering Boon, pay 3 life.
+Counter target creature spell.

@@ -1,0 +1,4 @@
+Thraben Inspector {W}
+Creature — Human Soldier
+When Thraben Inspector enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+1/2

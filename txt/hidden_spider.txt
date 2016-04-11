@@ -1,0 +1,3 @@
+Hidden Spider {G}
+Enchantment
+When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)

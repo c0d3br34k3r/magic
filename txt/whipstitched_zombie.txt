@@ -1,0 +1,4 @@
+Whipstitched Zombie {1}{B}
+Creature — Zombie
+At the beginning of your upkeep, sacrifice Whipstitched Zombie unless you pay {B}.
+2/2

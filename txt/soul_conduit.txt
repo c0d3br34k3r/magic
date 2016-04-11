@@ -1,0 +1,3 @@
+Soul Conduit {6}
+Artifact
+{6}, {T}: Two target players exchange life totals.

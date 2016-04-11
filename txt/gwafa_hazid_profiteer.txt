@@ -1,0 +1,5 @@
+Gwafa Hazid, Profiteer {1}{W}{U}
+Legendary Creature — Human Rogue
+{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card.
+Creatures with bribery counters on them can't attack or block.
+2/2

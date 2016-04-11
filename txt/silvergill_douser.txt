@@ -1,0 +1,4 @@
+Silvergill Douser {1}{U}
+Creature — Merfolk Wizard
+{T}: Target creature gets -X/-0 until end of turn, where X is the number of Merfolk and/or Faeries you control.
+1/1

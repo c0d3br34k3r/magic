@@ -1,0 +1,4 @@
+Rootwater Shaman {2}{U}
+Creature — Merfolk Shaman
+You may cast Aura cards with enchant creature as though they had flash.
+2/2

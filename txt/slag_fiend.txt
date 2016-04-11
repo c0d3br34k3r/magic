@@ -1,0 +1,4 @@
+Slag Fiend {R}
+Creature — Construct
+Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.
+*/*

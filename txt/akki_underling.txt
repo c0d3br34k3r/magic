@@ -1,0 +1,4 @@
+Akki Underling {1}{R}
+Creature — Goblin Warrior
+As long as you have seven or more cards in hand, Akki Underling gets +2/+1 and has first strike.
+2/1

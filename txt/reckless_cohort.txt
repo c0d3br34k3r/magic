@@ -1,0 +1,4 @@
+Reckless Cohort {1}{R}
+Creature — Human Warrior Ally
+Reckless Cohort attacks each combat if able unless you control another Ally.
+2/2

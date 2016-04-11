@@ -1,0 +1,4 @@
+Telekinetic Sliver {2}{U}{U}
+Creature — Sliver
+All Slivers have "{T}: Tap target permanent."
+2/2

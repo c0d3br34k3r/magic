@@ -1,0 +1,5 @@
+Aven Fisher {3}{U}
+Creature — Bird Soldier
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Fisher dies, you may draw a card.
+2/2

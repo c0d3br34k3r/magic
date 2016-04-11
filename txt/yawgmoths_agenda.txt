@@ -1,0 +1,5 @@
+Yawgmoth's Agenda {3}{B}{B}
+Enchantment
+You can't cast more than one spell each turn.
+You may play cards from your graveyard.
+If a card would be put into your graveyard from anywhere, exile it instead.

@@ -1,0 +1,6 @@
+Truefire Paladin {W}{R}
+Creature — Human Knight
+Vigilance
+{R}{W}: Truefire Paladin gets +2/+0 until end of turn.
+{R}{W}: Truefire Paladin gains first strike until end of turn.
+2/2

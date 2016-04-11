@@ -1,0 +1,3 @@
+Lifeforce {G}{G}
+Enchantment
+{G}{G}: Counter target black spell.

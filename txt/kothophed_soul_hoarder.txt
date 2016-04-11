@@ -1,0 +1,5 @@
+Kothophed, Soul Hoarder {4}{B}{B}
+Legendary Creature — Demon
+Flying
+Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life.
+6/6

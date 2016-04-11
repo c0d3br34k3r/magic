@@ -1,0 +1,3 @@
+Touch of the Eternal {5}{W}{W}
+Enchantment
+At the beginning of your upkeep, count the number of permanents you control. Your life total becomes that number.

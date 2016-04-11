@@ -1,0 +1,5 @@
+Rakshasa Deathdealer {B}{G}
+Creature — Cat Demon
+{B}{G}: Rakshasa Deathdealer gets +2/+2 until end of turn.
+{B}{G}: Regenerate Rakshasa Deathdealer.
+2/2

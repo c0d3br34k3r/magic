@@ -1,0 +1,5 @@
+Gigapede {3}{G}{G}
+Creature — Insect
+Shroud (This creature can't be the target of spells or abilities.)
+At the beginning of your upkeep, if Gigapede is in your graveyard, you may discard a card. If you do, return Gigapede to your hand.
+6/1

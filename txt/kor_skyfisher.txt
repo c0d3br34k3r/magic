@@ -1,0 +1,5 @@
+Kor Skyfisher {1}{W}
+Creature — Kor Soldier
+Flying
+When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+2/3

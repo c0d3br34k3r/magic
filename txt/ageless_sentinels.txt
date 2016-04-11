@@ -1,0 +1,6 @@
+Ageless Sentinels {3}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Flying
+When Ageless Sentinels blocks, it becomes a Bird Giant, and it loses defender. (It's no longer a Wall. This effect lasts indefinitely.)
+4/4

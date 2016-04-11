@@ -1,0 +1,3 @@
+Squire {1}{W}
+Creature — Human Soldier
+1/2

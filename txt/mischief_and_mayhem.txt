@@ -1,0 +1,3 @@
+Mischief and Mayhem {4}{G}
+Sorcery
+Up to two target creatures each get +4/+4 until end of turn.

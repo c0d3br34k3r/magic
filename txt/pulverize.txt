@@ -1,0 +1,4 @@
+Pulverize {4}{R}{R}
+Sorcery
+You may sacrifice two Mountains rather than pay Pulverize's mana cost.
+Destroy all artifacts.

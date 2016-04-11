@@ -1,0 +1,4 @@
+Snow Hound {2}{W}
+Creature — Hound
+{1}, {T}: Return Snow Hound and target green or blue creature you control to their owner's hand.
+1/1

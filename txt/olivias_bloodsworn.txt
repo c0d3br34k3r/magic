@@ -1,0 +1,6 @@
+Olivia's Bloodsworn {1}{B}
+Creature — Vampire Soldier
+Flying
+Olivia's Bloodsworn can't block.
+{R}: Target Vampire gains haste until end of turn.
+2/1

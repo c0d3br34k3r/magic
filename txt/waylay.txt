@@ -1,0 +1,3 @@
+Waylay {2}{W}
+Instant
+Put three 2/2 white Knight creature tokens onto the battlefield. Exile them at the beginning of the next cleanup step.

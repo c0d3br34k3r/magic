@@ -1,0 +1,4 @@
+Bash to Bits {3}{R}
+Instant
+Destroy target artifact.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

@@ -1,0 +1,5 @@
+Morselhoarder {4}{R/G}{R/G}
+Creature — Elemental
+Morselhoarder enters the battlefield with two -1/-1 counters on it.
+Remove a -1/-1 counter from Morselhoarder: Add one mana of any color to your mana pool.
+6/4

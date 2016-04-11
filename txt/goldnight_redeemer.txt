@@ -1,0 +1,5 @@
+Goldnight Redeemer {4}{W}{W}
+Creature — Angel
+Flying
+When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.
+4/4

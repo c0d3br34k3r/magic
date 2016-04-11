@@ -1,0 +1,4 @@
+Chambered Nautilus {2}{U}
+Creature — Nautilus Beast
+Whenever Chambered Nautilus becomes blocked, you may draw a card.
+2/2

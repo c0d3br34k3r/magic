@@ -1,0 +1,3 @@
+Corrupted Resolve {1}{U}
+Instant
+Counter target spell if its controller is poisoned.

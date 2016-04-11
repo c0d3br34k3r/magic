@@ -1,0 +1,4 @@
+Centaur Battlemaster {3}{G}{G}
+Creature — Centaur Warrior
+Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.
+3/3

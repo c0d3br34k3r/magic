@@ -1,0 +1,5 @@
+Odric, Master Tactician {2}{W}{W}
+Legendary Creature — Human Soldier
+First strike (This creature deals combat damage before creatures without first strike.)
+Whenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.
+3/4

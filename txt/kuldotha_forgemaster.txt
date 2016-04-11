@@ -1,0 +1,4 @@
+Kuldotha Forgemaster {5}
+Artifact Creature — Construct
+{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.
+3/5

@@ -1,0 +1,3 @@
+Arboria {2}{G}{G}
+World Enchantment
+Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.

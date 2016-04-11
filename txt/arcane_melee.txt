@@ -1,0 +1,3 @@
+Arcane Melee {4}{U}
+Enchantment
+Instant and sorcery spells cost {2} less to cast.

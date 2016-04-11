@@ -1,0 +1,4 @@
+Frenetic Ogre {4}{R}
+Creature — Ogre
+{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn.
+2/3

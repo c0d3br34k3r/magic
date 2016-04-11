@@ -1,0 +1,4 @@
+Nyx-Fleece Ram {1}{W}
+Enchantment Creature — Sheep
+At the beginning of your upkeep, you gain 1 life.
+0/5

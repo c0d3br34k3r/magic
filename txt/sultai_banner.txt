@@ -1,0 +1,4 @@
+Sultai Banner {3}
+Artifact
+{T}: Add {B}, {G}, or {U} to your mana pool.
+{B}{G}{U}, {T}, Sacrifice Sultai Banner: Draw a card.

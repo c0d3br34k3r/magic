@@ -1,0 +1,4 @@
+Indrik Stomphowler {4}{G}
+Creature — Beast
+When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.
+4/4

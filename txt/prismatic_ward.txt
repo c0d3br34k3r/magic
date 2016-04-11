@@ -1,0 +1,5 @@
+Prismatic Ward {1}{W}
+Enchantment — Aura
+Enchant creature
+As Prismatic Ward enters the battlefield, choose a color.
+Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.

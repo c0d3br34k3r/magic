@@ -1,0 +1,5 @@
+Soulblade Djinn {3}{U}{U}
+Creature — Djinn
+Flying
+Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+4/3

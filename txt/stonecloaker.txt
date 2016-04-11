@@ -1,0 +1,7 @@
+Stonecloaker {2}{W}
+Creature — Gargoyle
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.
+When Stonecloaker enters the battlefield, exile target card from a graveyard.
+3/2

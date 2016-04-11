@@ -1,0 +1,4 @@
+Felidar Cub {1}{W}
+Creature — Cat Beast
+Sacrifice Felidar Cub: Destroy target enchantment.
+2/2

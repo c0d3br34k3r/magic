@@ -1,0 +1,5 @@
+Zombie Master {1}{B}{B}
+Creature — Zombie
+Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)
+Other Zombies have "{B}: Regenerate this permanent."
+2/3

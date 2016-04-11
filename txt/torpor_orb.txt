@@ -1,0 +1,3 @@
+Torpor Orb {2}
+Artifact
+Creatures entering the battlefield don't cause abilities to trigger.

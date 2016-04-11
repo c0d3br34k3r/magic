@@ -1,0 +1,4 @@
+Rooting Kavu {2}{G}{G}
+Creature — Kavu
+When Rooting Kavu dies, you may exile it. If you do, shuffle all creature cards from your graveyard into your library.
+4/3

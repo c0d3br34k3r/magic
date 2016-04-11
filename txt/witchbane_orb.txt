@@ -1,0 +1,4 @@
+Witchbane Orb {4}
+Artifact
+When Witchbane Orb enters the battlefield, destroy all Curses attached to you.
+You have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)

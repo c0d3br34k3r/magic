@@ -1,0 +1,3 @@
+Bathe in Dragonfire {2}{R}
+Sorcery
+Bathe in Dragonfire deals 4 damage to target creature.

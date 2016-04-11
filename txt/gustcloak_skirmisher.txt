@@ -1,0 +1,5 @@
+Gustcloak Skirmisher {3}{W}
+Creature — Bird Soldier
+Flying
+Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.
+2/3

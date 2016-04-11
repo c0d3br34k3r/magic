@@ -1,0 +1,4 @@
+Death's Approach {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -X/-X, where X is the number of creature cards in its controller's graveyard.

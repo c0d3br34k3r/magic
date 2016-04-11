@@ -1,0 +1,6 @@
+Temporal Isolation {1}{W}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature has shadow. (It can block or be blocked by only creatures with shadow.)
+Prevent all damage that would be dealt by enchanted creature.

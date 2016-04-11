@@ -1,0 +1,5 @@
+Vital Splicer {3}{G}
+Creature — Human Artificer
+When Vital Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+{1}: Regenerate target Golem you control.
+1/1

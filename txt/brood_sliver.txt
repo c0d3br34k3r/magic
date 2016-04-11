@@ -1,0 +1,4 @@
+Brood Sliver {4}{G}
+Creature — Sliver
+Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.
+3/3

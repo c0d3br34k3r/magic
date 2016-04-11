@@ -1,0 +1,3 @@
+Mortuary {3}{B}
+Enchantment
+Whenever a creature is put into your graveyard from the battlefield, put that card on top of your library.

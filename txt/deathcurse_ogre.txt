@@ -1,0 +1,4 @@
+Deathcurse Ogre {5}{B}
+Creature — Ogre Warrior
+When Deathcurse Ogre dies, each player loses 3 life.
+3/3

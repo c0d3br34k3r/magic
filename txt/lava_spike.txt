@@ -1,0 +1,3 @@
+Lava Spike {R}
+Sorcery — Arcane
+Lava Spike deals 3 damage to target player.

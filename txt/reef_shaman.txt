@@ -1,0 +1,4 @@
+Reef Shaman {U}
+Creature — Merfolk Shaman
+{T}: Target land becomes the basic land type of your choice until end of turn.
+0/2

@@ -1,0 +1,5 @@
+Benalish Lancer {2}{W}
+Creature — Human Knight
+Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+If Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.
+2/2

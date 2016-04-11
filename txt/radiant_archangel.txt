@@ -1,0 +1,5 @@
+Radiant, Archangel {3}{W}{W}
+Legendary Creature — Angel
+Flying, vigilance
+Radiant, Archangel gets +1/+1 for each other creature with flying on the battlefield.
+3/3

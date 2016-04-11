@@ -1,0 +1,4 @@
+Venerable Monk {2}{W}
+Creature — Human Monk Cleric
+When Venerable Monk enters the battlefield, you gain 2 life.
+2/2

@@ -1,0 +1,4 @@
+Patron Wizard {U}{U}{U}
+Creature — Human Wizard
+Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.
+2/2

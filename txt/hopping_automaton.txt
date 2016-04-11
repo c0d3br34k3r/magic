@@ -1,0 +1,4 @@
+Hopping Automaton {3}
+Artifact Creature — Construct
+{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.
+2/2

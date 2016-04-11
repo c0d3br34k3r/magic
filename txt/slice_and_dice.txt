@@ -1,0 +1,5 @@
+Slice and Dice {4}{R}{R}
+Sorcery
+Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.

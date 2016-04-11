@@ -1,0 +1,4 @@
+Votary of the Conclave {W}
+Creature — Human Soldier
+{2}{G}: Regenerate Votary of the Conclave.
+1/1

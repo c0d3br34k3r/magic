@@ -1,0 +1,3 @@
+Expedition Map {1}
+Artifact
+{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.

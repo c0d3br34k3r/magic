@@ -1,0 +1,4 @@
+Keldon Firebombers {3}{R}{R}
+Creature — Human Soldier
+When Keldon Firebombers enters the battlefield, each player sacrifices all lands he or she controls except for three.
+3/3

@@ -1,0 +1,5 @@
+Karstoderm {2}{G}{G}
+Creature — Beast
+Karstoderm enters the battlefield with five +1/+1 counters on it.
+Whenever an artifact enters the battlefield, remove a +1/+1 counter from Karstoderm.
+0/0

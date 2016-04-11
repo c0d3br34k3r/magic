@@ -1,0 +1,4 @@
+Dauntless Cathar {2}{W}
+Creature — Human Soldier
+{1}{W}, Exile Dauntless Cathar from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.
+3/2

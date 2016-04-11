@@ -1,0 +1,5 @@
+Spirit en-Kor {3}{W}
+Creature — Kor Spirit
+Flying
+{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.
+2/2

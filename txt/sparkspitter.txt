@@ -1,0 +1,4 @@
+Sparkspitter {2}{R}
+Creature — Elemental Spellshaper
+{R}, {T}, Discard a card: Put a 3/1 red Elemental creature token named Spark Elemental onto the battlefield. It has trample, haste, and "At the beginning of the end step, sacrifice Spark Elemental."
+1/3

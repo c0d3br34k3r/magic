@@ -1,0 +1,3 @@
+Victorious Destruction {4}{R}
+Sorcery
+Destroy target artifact or land. Its controller loses 1 life.

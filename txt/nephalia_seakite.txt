@@ -1,0 +1,5 @@
+Nephalia Seakite {3}{U}
+Creature — Bird
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+2/3

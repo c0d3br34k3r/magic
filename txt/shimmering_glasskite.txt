@@ -1,0 +1,5 @@
+Shimmering Glasskite {3}{U}
+Creature — Spirit
+Flying
+Whenever Shimmering Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+2/3

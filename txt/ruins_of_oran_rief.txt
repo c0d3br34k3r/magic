@@ -1,0 +1,5 @@
+Ruins of Oran-Rief
+Land
+Ruins of Oran-Rief enters the battlefield tapped.
+{T}: Add {C} to your mana pool. ({C} represents colorless mana.)
+{T}: Put a +1/+1 counter on target colorless creature that entered the battlefield this turn.

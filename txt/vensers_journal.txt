@@ -1,0 +1,4 @@
+Venser's Journal {5}
+Artifact
+You have no maximum hand size.
+At the beginning of your upkeep, you gain 1 life for each card in your hand.

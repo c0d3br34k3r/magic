@@ -1,0 +1,3 @@
+Wrath of God {2}{W}{W}
+Sorcery
+Destroy all creatures. They can't be regenerated.

@@ -1,0 +1,5 @@
+Surging Might {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)

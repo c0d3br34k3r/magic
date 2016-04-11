@@ -1,0 +1,5 @@
+Plague Stinger {1}{B}
+Creature — Insect Horror
+Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+1/1

@@ -1,0 +1,5 @@
+Deathless Angel {4}{W}{W}
+Creature — Angel
+Flying
+{W}{W}: Target creature gains indestructible until end of turn.
+5/7

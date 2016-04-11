@@ -1,0 +1,5 @@
+Endrek Sahr, Master Breeder {4}{B}
+Legendary Creature — Human Wizard
+Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.
+When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.
+2/2

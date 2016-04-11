@@ -1,0 +1,4 @@
+Armored Skaab {2}{U}
+Creature — Zombie Warrior
+When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.
+1/4

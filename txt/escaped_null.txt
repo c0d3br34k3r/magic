@@ -1,0 +1,5 @@
+Escaped Null {3}{B}
+Creature — Zombie Berserker
+Lifelink
+Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.
+1/2

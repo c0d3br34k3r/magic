@@ -1,0 +1,4 @@
+Zada, Hedron Grinder {3}{R}
+Legendary Creature — Goblin Ally
+Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.
+3/3

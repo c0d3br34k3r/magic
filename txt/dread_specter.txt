@@ -1,0 +1,4 @@
+Dread Specter {3}{B}
+Creature — Specter
+Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.
+2/2

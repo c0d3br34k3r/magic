@@ -1,0 +1,3 @@
+Sunder {3}{U}{U}
+Instant
+Return all lands to their owners' hands.

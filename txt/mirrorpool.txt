@@ -1,0 +1,6 @@
+Mirrorpool
+Land
+Mirrorpool enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+{4}{C}, {T}, Sacrifice Mirrorpool: Put a token onto the battlefield that's a copy of target creature you control.

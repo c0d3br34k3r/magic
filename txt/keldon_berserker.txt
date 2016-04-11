@@ -1,0 +1,4 @@
+Keldon Berserker {3}{R}
+Creature — Human Soldier Berserker
+Whenever Keldon Berserker attacks, if you control no untapped lands, it gets +3/+0 until end of turn.
+2/3

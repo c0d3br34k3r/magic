@@ -1,0 +1,4 @@
+Flame-Kin War Scout {3}{R}
+Creature — Elemental Scout
+When another creature enters the battlefield, sacrifice Flame-Kin War Scout. If you do, Flame-Kin War Scout deals 4 damage to that creature.
+2/4

@@ -1,0 +1,4 @@
+Command Beacon
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.

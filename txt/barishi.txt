@@ -1,0 +1,4 @@
+Barishi {2}{G}{G}
+Creature — Elemental
+When Barishi dies, exile Barishi, then shuffle all creature cards from your graveyard into your library.
+4/3

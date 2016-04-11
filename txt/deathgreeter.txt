@@ -1,0 +1,4 @@
+Deathgreeter {B}
+Creature — Human Shaman
+Whenever another creature dies, you may gain 1 life.
+1/1

@@ -1,0 +1,4 @@
+Pinecrest Ridge
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Pinecrest Ridge doesn't untap during your next untap step.

@@ -1,0 +1,5 @@
+Vortex Elemental {U}
+Creature — Elemental
+{U}: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries.
+{3}{U}{U}: Target creature blocks Vortex Elemental this turn if able.
+0/1

@@ -1,0 +1,3 @@
+Gift of Estates {1}{W}
+Sorcery
+If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.

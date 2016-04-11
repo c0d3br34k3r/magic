@@ -1,0 +1,3 @@
+Curfew {U}
+Instant
+Each player returns a creature he or she controls to its owner's hand.

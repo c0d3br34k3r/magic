@@ -1,0 +1,3 @@
+Deadly Tempest {4}{B}{B}
+Sorcery
+Destroy all creatures. Each player loses life equal to the number of creatures he or she controlled that were destroyed this way.

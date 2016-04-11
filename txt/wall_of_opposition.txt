@@ -1,0 +1,5 @@
+Wall of Opposition {3}{R}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+{1}: Wall of Opposition gets +1/+0 until end of turn.
+0/6

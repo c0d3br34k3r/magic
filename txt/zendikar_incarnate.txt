@@ -1,0 +1,4 @@
+Zendikar Incarnate {2}{R}{G}
+Creature — Elemental
+Zendikar Incarnate's power is equal to the number of lands you control.
+*/4

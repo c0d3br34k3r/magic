@@ -1,0 +1,4 @@
+Grand Abolisher {W}{W}
+Creature — Human Cleric
+During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.
+2/2

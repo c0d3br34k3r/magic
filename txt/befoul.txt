@@ -1,0 +1,3 @@
+Befoul {2}{B}{B}
+Sorcery
+Destroy target land or nonblack creature. It can't be regenerated.

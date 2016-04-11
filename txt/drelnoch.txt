@@ -1,0 +1,4 @@
+Drelnoch {4}{U}
+Creature — Yeti Mutant
+Whenever Drelnoch becomes blocked, you may draw two cards.
+3/3

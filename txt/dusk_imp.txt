@@ -1,0 +1,4 @@
+Dusk Imp {2}{B}
+Creature — Imp
+Flying
+2/1

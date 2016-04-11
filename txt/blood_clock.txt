@@ -1,0 +1,3 @@
+Blood Clock {4}
+Artifact
+At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.

@@ -1,0 +1,4 @@
+Whiptongue Frog {2}{U}
+Creature — Frog
+{U}: Whiptongue Frog gains flying until end of turn.
+1/3

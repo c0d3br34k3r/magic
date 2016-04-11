@@ -1,0 +1,4 @@
+Synapse Sliver {4}{U}
+Creature — Sliver
+Whenever a Sliver deals combat damage to a player, its controller may draw a card.
+3/3

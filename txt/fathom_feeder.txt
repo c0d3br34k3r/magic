@@ -1,0 +1,7 @@
+Fathom Feeder {U}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Deathtouch
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+{3}{U}{B}: Draw a card. Each opponent exiles the top card of his or her library.
+1/1

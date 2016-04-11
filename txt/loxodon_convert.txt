@@ -1,0 +1,3 @@
+Loxodon Convert {3}{W}
+Creature — Elephant Soldier
+4/2

@@ -1,0 +1,6 @@
+Boldwyr Intimidator {5}{R}{R}
+Creature — Giant Warrior
+Cowards can't block Warriors.
+{R}: Target creature becomes a Coward until end of turn.
+{2}{R}: Target creature becomes a Warrior until end of turn.
+5/5

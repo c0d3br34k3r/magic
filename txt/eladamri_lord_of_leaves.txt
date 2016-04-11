@@ -1,0 +1,5 @@
+Eladamri, Lord of Leaves {G}{G}
+Legendary Creature — Elf Warrior
+Other Elf creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+Other Elves have shroud. (They can't be the targets of spells or abilities.)
+2/2

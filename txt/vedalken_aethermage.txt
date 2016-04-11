@@ -1,0 +1,6 @@
+Vedalken Æthermage {1}{U}
+Creature — Vedalken Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+When Vedalken Æthermage enters the battlefield, return target Sliver to its owner's hand.
+Wizardcycling {3} ({3}, Discard this card: Search your library for a Wizard card, reveal it, and put it into your hand. Then shuffle your library.)
+1/2

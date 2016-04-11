@@ -1,0 +1,4 @@
+Yuan Shao's Infantry {3}{R}
+Creature — Human Soldier
+Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry can't be blocked this combat.
+2/2

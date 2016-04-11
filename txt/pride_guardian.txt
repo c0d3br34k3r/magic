@@ -1,0 +1,5 @@
+Pride Guardian {W}
+Creature — Cat Monk
+Defender
+Whenever Pride Guardian blocks, you gain 3 life.
+0/3

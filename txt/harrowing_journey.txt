@@ -1,0 +1,3 @@
+Harrowing Journey {4}{B}
+Sorcery
+Target player draws three cards and loses 3 life.

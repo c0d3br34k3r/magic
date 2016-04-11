@@ -1,0 +1,5 @@
+Filth {3}{B}
+Creature — Incarnation
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+As long as Filth is in your graveyard and you control a Swamp, creatures you control have swampwalk.
+2/2

@@ -1,0 +1,4 @@
+Flowstone Salamander {3}{R}{R}
+Creature — Salamander
+{R}: Flowstone Salamander deals 1 damage to target creature blocking it.
+3/4

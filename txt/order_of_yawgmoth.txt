@@ -1,0 +1,5 @@
+Order of Yawgmoth {2}{B}{B}
+Creature — Zombie Knight
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Order of Yawgmoth deals damage to a player, that player discards a card.
+2/2

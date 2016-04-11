@@ -1,0 +1,4 @@
+Icatian Lieutenant {W}{W}
+Creature — Human Soldier
+{1}{W}: Target Soldier creature gets +1/+0 until end of turn.
+1/2

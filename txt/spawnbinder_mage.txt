@@ -1,0 +1,4 @@
+Spawnbinder Mage {3}{W}
+Creature — Human Wizard Ally
+Cohort — {T}, Tap an untapped Ally you control: Tap target creature.
+2/4

@@ -1,0 +1,4 @@
+Water Wurm {U}
+Creature — Wurm
+Water Wurm gets +0/+1 as long as an opponent controls an Island.
+1/1

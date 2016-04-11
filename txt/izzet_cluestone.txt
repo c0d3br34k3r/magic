@@ -1,0 +1,4 @@
+Izzet Cluestone {3}
+Artifact
+{T}: Add {U} or {R} to your mana pool.
+{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.

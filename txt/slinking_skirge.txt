@@ -1,0 +1,5 @@
+Slinking Skirge {3}{B}
+Creature — Imp
+Flying
+{2}, Sacrifice Slinking Skirge: Draw a card.
+2/1

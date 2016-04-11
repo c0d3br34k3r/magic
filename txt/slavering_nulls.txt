@@ -1,0 +1,4 @@
+Slavering Nulls {1}{R}
+Creature — Goblin Zombie
+Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+2/1

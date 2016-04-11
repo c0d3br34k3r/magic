@@ -1,0 +1,4 @@
+Hydrolash {2}{U}
+Instant
+Attacking creatures get -2/-0 until end of turn.
+Draw a card.

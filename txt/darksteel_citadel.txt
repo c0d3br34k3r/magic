@@ -1,0 +1,4 @@
+Darksteel Citadel
+Artifact Land
+Indestructible (Effects that say "destroy" don't destroy this land.)
+{T}: Add {C} to your mana pool.

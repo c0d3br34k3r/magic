@@ -1,0 +1,4 @@
+Fleeting Memories {2}{U}
+Enchantment
+When Fleeting Memories enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+Whenever you sacrifice a Clue, target player puts the top three cards of his or her library into his or her graveyard.

@@ -1,0 +1,4 @@
+Rakdos Ragemutt {3}{B}{R}
+Creature — Elemental Hound
+Lifelink, haste
+3/3

@@ -1,0 +1,4 @@
+Alexi, Zephyr Mage {3}{U}{U}
+Legendary Creature — Human Spellshaper
+{X}{U}, {T}, Discard two cards: Return X target creatures to their owners' hands.
+3/3

@@ -1,0 +1,4 @@
+Aspect of Gorgon {2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)

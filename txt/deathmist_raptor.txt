@@ -1,0 +1,6 @@
+Deathmist Raptor {1}{G}{G}
+Creature — Lizard Beast
+Deathtouch
+Whenever a permanent you control is turned face up, you may return Deathmist Raptor from your graveyard to the battlefield face up or face down.
+Megamorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+3/3

@@ -1,0 +1,6 @@
+Nettle Drone {2}{R}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{T}: Nettle Drone deals 1 damage to each opponent.
+Whenever you cast a colorless spell, untap Nettle Drone.
+3/1

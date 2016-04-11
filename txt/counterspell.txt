@@ -1,0 +1,3 @@
+Counterspell {U}{U}
+Instant
+Counter target spell.

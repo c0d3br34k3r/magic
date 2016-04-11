@@ -1,0 +1,5 @@
+Affa Guard Hound {2}{W}
+Creature — Hound
+Flash
+When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.
+2/2

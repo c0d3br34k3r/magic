@@ -1,0 +1,6 @@
+Enigma Sphinx {4}{W}{U}{B}
+Artifact Creature — Sphinx
+Flying
+When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+5/4

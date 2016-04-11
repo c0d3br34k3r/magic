@@ -1,0 +1,6 @@
+Rakdos the Defiler {2}{B}{B}{R}{R}
+Legendary Creature — Demon
+Flying, trample
+Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up.
+Whenever Rakdos deals combat damage to a player, that player sacrifices half the non-Demon permanents he or she controls, rounded up.
+7/6

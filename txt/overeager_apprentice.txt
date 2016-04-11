@@ -1,0 +1,4 @@
+Overeager Apprentice {2}{B}
+Creature — Human Minion
+Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.
+1/2

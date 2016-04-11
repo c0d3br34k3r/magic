@@ -1,0 +1,4 @@
+Riptide Mangler {1}{U}
+Creature — Beast
+{1}{U}: Change Riptide Mangler's base power to target creature's power. (This effect lasts indefinitely.)
+0/3

@@ -1,0 +1,5 @@
+Grave-Shell Scarab {2}{B}{G}{G}
+Creature — Insect
+{1}, Sacrifice Grave-Shell Scarab: Draw a card.
+Dredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)
+4/4

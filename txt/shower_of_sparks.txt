@@ -1,0 +1,3 @@
+Shower of Sparks {R}
+Instant
+Shower of Sparks deals 1 damage to target creature and 1 damage to target player.

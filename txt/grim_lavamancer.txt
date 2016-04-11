@@ -1,0 +1,4 @@
+Grim Lavamancer {R}
+Creature — Human Wizard
+{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.
+1/1

@@ -1,0 +1,4 @@
+Hedron Archive {4}
+Artifact
+{T}: Add {C}{C} to your mana pool.
+{2}, {T}, Sacrifice Hedron Archive: Draw two cards.

@@ -1,0 +1,3 @@
+Peace of Mind {1}{W}
+Enchantment
+{W}, Discard a card: You gain 3 life.

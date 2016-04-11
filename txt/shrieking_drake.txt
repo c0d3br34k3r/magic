@@ -1,0 +1,5 @@
+Shrieking Drake {U}
+Creature — Drake
+Flying
+When Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.
+1/1

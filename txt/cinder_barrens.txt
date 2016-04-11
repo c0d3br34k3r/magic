@@ -1,0 +1,4 @@
+Cinder Barrens
+Land
+Cinder Barrens enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.

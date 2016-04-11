@@ -1,0 +1,6 @@
+Plated Pegasus {2}{W}
+Creature — Pegasus
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+If a spell would deal damage to a creature or player, prevent 1 damage that spell would deal to that creature or player.
+1/2

@@ -1,0 +1,5 @@
+Maze Sentinel {5}{W}
+Creature — Elemental
+Vigilance
+Multicolored creatures you control have vigilance.
+3/6

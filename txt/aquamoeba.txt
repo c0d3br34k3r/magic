@@ -1,0 +1,4 @@
+Aquamoeba {1}{U}
+Creature — Elemental Beast
+Discard a card: Switch Aquamoeba's power and toughness until end of turn.
+1/3

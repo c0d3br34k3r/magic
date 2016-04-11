@@ -1,0 +1,5 @@
+Shinen of Stars' Light {2}{W}
+Creature — Spirit
+First strike
+Channel — {1}{W}, Discard Shinen of Stars' Light: Target creature gains first strike until end of turn.
+2/1

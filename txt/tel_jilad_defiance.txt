@@ -1,0 +1,4 @@
+Tel-Jilad Defiance {1}{G}
+Instant
+Target creature gains protection from artifacts until end of turn.
+Draw a card.

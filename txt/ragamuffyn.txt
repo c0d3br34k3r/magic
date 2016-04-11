@@ -1,0 +1,4 @@
+Ragamuffyn {2}{B}
+Creature — Zombie Cleric
+Hellbent — {T}, Sacrifice a creature or land: Draw a card. Activate this ability only if you have no cards in hand.
+2/2

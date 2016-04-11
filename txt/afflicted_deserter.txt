@@ -1,0 +1,10 @@
+Afflicted Deserter {3}{R}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.
+3/2
+* DOUBLE-FACED *
+Werewolf Ransacker
+(R) Creature — Werewolf
+Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.
+5/4

@@ -1,0 +1,3 @@
+Read the Runes {X}{U}
+Instant
+Draw X cards. For each card drawn this way, discard a card unless you sacrifice a permanent.

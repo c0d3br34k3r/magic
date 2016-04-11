@@ -1,0 +1,5 @@
+Soulsurge Elemental {3}{R}
+Creature — Elemental
+First strike
+Soulsurge Elemental's power is equal to the number of creatures you control.
+*/1

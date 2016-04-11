@@ -1,0 +1,3 @@
+Frazzle {3}{U}
+Instant
+Counter target nonblue spell.

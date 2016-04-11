@@ -1,0 +1,4 @@
+Stun Sniper {W}{R}
+Creature — Human Archer
+{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+1/1

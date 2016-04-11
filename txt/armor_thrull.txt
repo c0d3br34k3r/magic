@@ -1,0 +1,4 @@
+Armor Thrull {2}{B}
+Creature — Thrull
+{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+1/3

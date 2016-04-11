@@ -1,0 +1,5 @@
+Dismal Backwater
+Land
+Dismal Backwater enters the battlefield tapped.
+When Dismal Backwater enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.

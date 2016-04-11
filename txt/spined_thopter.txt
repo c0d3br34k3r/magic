@@ -1,0 +1,5 @@
+Spined Thopter {2}{U/P}
+Artifact Creature — Thopter
+({U/P} can be paid with either {U} or 2 life.)
+Flying
+2/1

@@ -1,0 +1,5 @@
+Greater Stone Spirit {4}{R}{R}
+Creature — Elemental Spirit
+Greater Stone Spirit can't be blocked by creatures with flying.
+{2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."
+4/4

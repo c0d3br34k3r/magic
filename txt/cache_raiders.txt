@@ -1,0 +1,4 @@
+Cache Raiders {3}{U}{U}
+Creature — Merfolk Rogue
+At the beginning of your upkeep, return a permanent you control to its owner's hand.
+4/4

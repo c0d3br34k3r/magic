@@ -1,0 +1,5 @@
+Centaur Chieftain {3}{G}
+Creature — Centaur
+Haste
+Threshold — As long as seven or more cards are in your graveyard, Centaur Chieftain has "When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn."
+3/3

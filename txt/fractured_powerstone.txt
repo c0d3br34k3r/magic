@@ -1,0 +1,4 @@
+Fractured Powerstone {2}
+Artifact
+{T}: Add {C} to your mana pool.
+{T}: Roll the planar die. Activate this ability only any time you could cast a sorcery.

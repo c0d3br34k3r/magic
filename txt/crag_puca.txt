@@ -1,0 +1,4 @@
+Crag Puca {U/R}{U/R}{U/R}
+Creature — Shapeshifter
+{U/R}: Switch Crag Puca's power and toughness until end of turn.
+2/4

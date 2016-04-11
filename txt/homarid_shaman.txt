@@ -1,0 +1,4 @@
+Homarid Shaman {2}{U}{U}
+Creature — Homarid Shaman
+{U}: Tap target green creature.
+2/1

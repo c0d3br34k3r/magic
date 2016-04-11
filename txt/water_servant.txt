@@ -1,0 +1,5 @@
+Water Servant {2}{U}{U}
+Creature — Elemental
+{U}: Water Servant gets +1/-1 until end of turn.
+{U}: Water Servant gets -1/+1 until end of turn.
+3/4

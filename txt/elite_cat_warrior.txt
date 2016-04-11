@@ -1,0 +1,4 @@
+Elite Cat Warrior {2}{G}
+Creature — Cat Warrior
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+2/3

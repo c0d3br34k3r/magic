@@ -1,0 +1,10 @@
+Hedron-Field Purists {2}{W}
+Creature — Human Cleric
+Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+1/4
+If a source would deal damage to you or a creature you control, prevent 1 of that damage.
+LEVEL 5+
+2/5
+If a source would deal damage to you or a creature you control, prevent 2 of that damage.
+0/3

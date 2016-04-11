@@ -1,0 +1,5 @@
+Robber Fly {2}{R}
+Creature — Insect
+Flying
+Whenever Robber Fly becomes blocked, defending player discards all the cards in his or her hand, then draws that many cards.
+1/1

@@ -1,0 +1,4 @@
+Kor Entanglers {4}{W}
+Creature — Kor Soldier Ally
+Rally — Whenever Kor Entanglers or another Ally enters the battlefield under your control, tap target creature an opponent controls.
+3/4

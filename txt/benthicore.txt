@@ -1,0 +1,5 @@
+Benthicore {6}{U}
+Creature — Elemental
+When Benthicore enters the battlefield, put two 1/1 blue Merfolk Wizard creature tokens onto the battlefield.
+Tap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. (It can't be the target of spells or abilities.)
+5/5

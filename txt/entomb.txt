@@ -1,0 +1,3 @@
+Entomb {B}
+Instant
+Search your library for a card and put that card into your graveyard. Then shuffle your library.

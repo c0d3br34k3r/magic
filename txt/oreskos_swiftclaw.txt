@@ -1,0 +1,3 @@
+Oreskos Swiftclaw {1}{W}
+Creature — Cat Warrior
+3/1

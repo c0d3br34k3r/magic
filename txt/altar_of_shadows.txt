@@ -1,0 +1,4 @@
+Altar of Shadows {7}
+Artifact
+At the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Altar of Shadows.
+{7}, {T}: Destroy target creature. Then put a charge counter on Altar of Shadows.

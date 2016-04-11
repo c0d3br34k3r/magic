@@ -1,0 +1,4 @@
+Stoic Builder {2}{G}
+Creature — Human
+When Stoic Builder enters the battlefield, you may return target land card from your graveyard to your hand.
+2/3

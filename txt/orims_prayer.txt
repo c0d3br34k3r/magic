@@ -1,0 +1,3 @@
+Orim's Prayer {1}{W}{W}
+Enchantment
+Whenever one or more creatures attack you, you gain 1 life for each attacking creature.

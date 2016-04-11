@@ -1,0 +1,5 @@
+Flameblade Angel {4}{R}{R}
+Creature — Angel
+Flying
+Whenever a source an opponent controls deals damage to you or a permanent you control, you may have Flameblade Angel deal 1 damage to that source's controller.
+4/4

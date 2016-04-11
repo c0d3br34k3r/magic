@@ -1,0 +1,4 @@
+Gruesome Deformity {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)

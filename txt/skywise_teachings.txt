@@ -1,0 +1,3 @@
+Skywise Teachings {3}{U}
+Enchantment
+Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.

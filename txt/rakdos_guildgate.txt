@@ -1,0 +1,4 @@
+Rakdos Guildgate
+Land — Gate
+Rakdos Guildgate enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.

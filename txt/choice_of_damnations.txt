@@ -1,0 +1,3 @@
+Choice of Damnations {5}{B}
+Sorcery — Arcane
+Target opponent chooses a number. You may have that player lose that much life. If you don't, that player sacrifices all but that many permanents.

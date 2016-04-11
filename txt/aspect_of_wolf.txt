@@ -1,0 +1,4 @@
+Aspect of Wolf {1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.

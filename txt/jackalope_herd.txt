@@ -1,0 +1,4 @@
+Jackalope Herd {3}{G}
+Creature — Rabbit Beast
+When you cast a spell, return Jackalope Herd to its owner's hand.
+4/5

@@ -1,0 +1,4 @@
+Krark-Clan Grunt {2}{R}
+Creature — Goblin Warrior
+Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike until end of turn.
+2/2

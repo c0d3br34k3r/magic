@@ -1,0 +1,4 @@
+Fade from Memory {B}
+Instant
+Exile target card from a graveyard.
+Cycling {B} ({B}, Discard this card: Draw a card.)

@@ -1,0 +1,5 @@
+Herald of the Pantheon {1}{G}
+Creature — Centaur Shaman
+Enchantment spells you cast cost {1} less to cast.
+Whenever you cast an enchantment spell, you gain 1 life.
+2/2

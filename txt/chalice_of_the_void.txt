@@ -1,0 +1,4 @@
+Chalice of the Void {X}{X}
+Artifact
+Chalice of the Void enters the battlefield with X charge counters on it.
+Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.

@@ -1,0 +1,5 @@
+Kami of the Tended Garden {3}{G}
+Creature — Spirit
+At the beginning of your upkeep, sacrifice Kami of the Tended Garden unless you pay {G}.
+Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)
+4/4

@@ -1,0 +1,10 @@
+Breakneck Rider {1}{R}{R}
+Creature — Human Scout Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Breakneck Rider.
+3/3
+* DOUBLE-FACED *
+Neck Breaker
+Creature — Werewolf
+Attacking creatures you control get +1/+0 and have trample.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Neck Breaker.
+4/3

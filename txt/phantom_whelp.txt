@@ -1,0 +1,4 @@
+Phantom Whelp {1}{U}
+Creature — Illusion Hound
+When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)
+2/2

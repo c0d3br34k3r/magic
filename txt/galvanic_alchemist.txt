@@ -1,0 +1,5 @@
+Galvanic Alchemist {2}{U}
+Creature — Human Wizard
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Galvanic Alchemist is paired with another creature, each of those creatures has "{2}{U}: Untap this creature."
+1/4

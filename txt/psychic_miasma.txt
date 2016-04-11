@@ -1,0 +1,3 @@
+Psychic Miasma {1}{B}
+Sorcery
+Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.

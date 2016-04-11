@@ -1,0 +1,5 @@
+Hawkeater Moth {3}{G}
+Creature — Insect
+Flying
+Shroud (This creature can't be the target of spells or abilities.)
+1/2

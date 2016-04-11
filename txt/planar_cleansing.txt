@@ -1,0 +1,3 @@
+Planar Cleansing {3}{W}{W}{W}
+Sorcery
+Destroy all nonland permanents.

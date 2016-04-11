@@ -1,0 +1,4 @@
+Claws of Valakut {1}{R}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 for each Mountain you control and has first strike.

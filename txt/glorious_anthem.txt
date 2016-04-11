@@ -1,0 +1,3 @@
+Glorious Anthem {1}{W}{W}
+Enchantment
+Creatures you control get +1/+1.

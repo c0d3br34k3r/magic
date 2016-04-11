@@ -1,0 +1,3 @@
+Sundering Growth {G/W}{G/W}
+Instant
+Destroy target artifact or enchantment, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)

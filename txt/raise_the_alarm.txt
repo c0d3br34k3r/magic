@@ -1,0 +1,3 @@
+Raise the Alarm {1}{W}
+Instant
+Put two 1/1 white Soldier creature tokens onto the battlefield.

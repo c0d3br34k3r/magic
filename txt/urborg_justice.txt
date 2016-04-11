@@ -1,0 +1,3 @@
+Urborg Justice {B}{B}
+Instant
+Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.

@@ -1,0 +1,4 @@
+Armored Galleon {4}{U}
+Creature — Human Pirate
+Armored Galleon can't attack unless defending player controls an Island.
+5/4

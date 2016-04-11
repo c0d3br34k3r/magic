@@ -1,0 +1,5 @@
+Kodama of the Center Tree {4}{G}
+Legendary Creature — Spirit
+Kodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.
+Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)
+*/*

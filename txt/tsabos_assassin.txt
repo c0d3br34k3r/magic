@@ -1,0 +1,4 @@
+Tsabo's Assassin {2}{B}{B}
+Creature — Zombie Assassin
+{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.
+1/1

@@ -1,0 +1,4 @@
+Amrou Seekers {2}{W}
+Creature — Kithkin Rebel
+Amrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+2/2

@@ -1,0 +1,5 @@
+Sire of Stagnation {4}{U}{B}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Whenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of his or her library and you draw two cards.
+5/7

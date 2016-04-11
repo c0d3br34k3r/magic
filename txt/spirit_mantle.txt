@@ -1,0 +1,4 @@
+Spirit Mantle {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has protection from creatures.

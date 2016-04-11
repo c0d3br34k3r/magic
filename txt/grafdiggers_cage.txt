@@ -1,0 +1,4 @@
+Grafdigger's Cage {1}
+Artifact
+Creature cards can't enter the battlefield from graveyards or libraries.
+Players can't cast cards in graveyards or libraries.

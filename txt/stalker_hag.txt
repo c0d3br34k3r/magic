@@ -1,0 +1,4 @@
+Stalker Hag {B/G}{B/G}{B/G}
+Creature — Hag
+Swampwalk, forestwalk (This creature can't be blocked as long as defending player controls a Swamp or a Forest.)
+3/2

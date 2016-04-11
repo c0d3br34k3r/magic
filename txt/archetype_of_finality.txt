@@ -1,0 +1,5 @@
+Archetype of Finality {4}{B}{B}
+Enchantment Creature — Gorgon
+Creatures you control have deathtouch.
+Creatures your opponents control lose deathtouch and can't have or gain deathtouch.
+2/3

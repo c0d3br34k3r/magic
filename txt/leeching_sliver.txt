@@ -1,0 +1,4 @@
+Leeching Sliver {1}{B}
+Creature — Sliver
+Whenever a Sliver you control attacks, defending player loses 1 life.
+1/1

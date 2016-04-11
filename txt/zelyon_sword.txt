@@ -1,0 +1,4 @@
+Zelyon Sword {3}
+Artifact
+You may choose not to untap Zelyon Sword during your untap step.
+{3}, {T}: Target creature gets +2/+0 for as long as Zelyon Sword remains tapped.

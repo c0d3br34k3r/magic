@@ -1,0 +1,5 @@
+Pili-Pala {2}
+Artifact Creature — Scarecrow
+Flying
+{2}, {Q}: Add one mana of any color to your mana pool. ({Q} is the untap symbol.)
+1/1

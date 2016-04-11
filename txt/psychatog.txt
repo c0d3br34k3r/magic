@@ -1,0 +1,5 @@
+Psychatog {1}{U}{B}
+Creature — Atog
+Discard a card: Psychatog gets +1/+1 until end of turn.
+Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+1/2

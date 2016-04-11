@@ -1,0 +1,3 @@
+Squandered Resources {B}{G}
+Enchantment
+Sacrifice a land: Add to your mana pool one mana of any type the sacrificed land could produce.

@@ -1,0 +1,3 @@
+Dampening Pulse {3}{U}
+Enchantment
+Creatures your opponents control get -1/-0.

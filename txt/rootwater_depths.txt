@@ -1,0 +1,4 @@
+Rootwater Depths
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {U} or {B} to your mana pool. Rootwater Depths doesn't untap during your next untap step.

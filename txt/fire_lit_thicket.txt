@@ -1,0 +1,4 @@
+Fire-Lit Thicket
+Land
+{T}: Add {C} to your mana pool.
+{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G} to your mana pool.

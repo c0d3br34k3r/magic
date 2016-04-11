@@ -1,0 +1,4 @@
+Godhunter Octopus {5}{U}
+Creature — Octopus
+Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.
+5/5

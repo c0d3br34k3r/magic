@@ -1,0 +1,5 @@
+Spitfire Handler {1}{R}
+Creature — Goblin
+Spitfire Handler can't block creatures with power greater than Spitfire Handler's power.
+{R}: Spitfire Handler gets +1/+0 until end of turn.
+1/1

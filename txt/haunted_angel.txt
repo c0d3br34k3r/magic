@@ -1,0 +1,5 @@
+Haunted Angel {2}{W}
+Creature — Angel
+Flying
+When Haunted Angel dies, exile Haunted Angel and each other player puts a 3/3 black Angel creature token with flying onto the battlefield.
+3/3

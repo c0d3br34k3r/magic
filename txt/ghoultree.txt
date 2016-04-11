@@ -1,0 +1,4 @@
+Ghoultree {7}{G}
+Creature — Zombie Treefolk
+Ghoultree costs {1} less to cast for each creature card in your graveyard.
+10/10

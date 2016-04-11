@@ -1,0 +1,4 @@
+Expose Evil {1}{W}
+Instant
+Tap up to two target creatures.
+Investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

@@ -1,0 +1,4 @@
+Nightguard Patrol {2}{W}
+Creature — Human Soldier
+First strike, vigilance
+2/1

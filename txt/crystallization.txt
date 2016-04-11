@@ -1,0 +1,5 @@
+Crystallization {G/U}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block.
+When enchanted creature becomes the target of a spell or ability, exile that creature.

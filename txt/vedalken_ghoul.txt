@@ -1,0 +1,4 @@
+Vedalken Ghoul {U}{B}
+Creature — Vedalken Zombie
+Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.
+1/1

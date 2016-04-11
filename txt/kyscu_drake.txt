@@ -1,0 +1,6 @@
+Kyscu Drake {3}{G}
+Creature — Drake
+Flying
+{G}: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn.
+Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library.
+2/2

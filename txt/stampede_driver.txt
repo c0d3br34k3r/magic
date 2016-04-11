@@ -1,0 +1,4 @@
+Stampede Driver {G}
+Creature — Human Spellshaper
+{1}{G}, {T}, Discard a card: Creatures you control get +1/+1 and gain trample until end of turn.
+1/1

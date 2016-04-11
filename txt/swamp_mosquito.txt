@@ -1,0 +1,5 @@
+Swamp Mosquito {1}{B}
+Creature — Insect
+Flying
+Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)
+0/1

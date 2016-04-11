@@ -1,0 +1,6 @@
+Pentarch Ward {2}{W}
+Enchantment — Aura
+Enchant creature
+As Pentarch Ward enters the battlefield, choose a color.
+When Pentarch Ward enters the battlefield, draw a card.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Pentarch Ward.

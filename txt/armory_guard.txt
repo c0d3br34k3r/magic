@@ -1,0 +1,4 @@
+Armory Guard {3}{W}
+Creature — Giant Soldier
+Armory Guard has vigilance as long as you control a Gate.
+2/5

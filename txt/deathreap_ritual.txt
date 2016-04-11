@@ -1,0 +1,3 @@
+Deathreap Ritual {2}{B}{G}
+Enchantment
+Morbid — At the beginning of each end step, if a creature died this turn, you may draw a card.

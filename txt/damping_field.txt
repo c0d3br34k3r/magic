@@ -1,0 +1,3 @@
+Damping Field {2}{W}
+Enchantment
+Players can't untap more than one artifact during their untap steps.

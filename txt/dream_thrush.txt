@@ -1,0 +1,5 @@
+Dream Thrush {1}{U}
+Creature — Bird
+Flying
+{T}: Target land becomes the basic land type of your choice until end of turn.
+1/1

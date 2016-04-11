@@ -1,0 +1,5 @@
+Orbweaver Kumo {4}{G}{G}
+Creature — Spirit
+Reach (This creature can block creatures with flying.)
+Whenever you cast a Spirit or Arcane spell, Orbweaver Kumo gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)
+3/4

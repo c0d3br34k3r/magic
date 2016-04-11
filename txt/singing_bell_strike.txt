@@ -1,0 +1,6 @@
+Singing Bell Strike {1}{U}
+Enchantment — Aura
+Enchant creature
+When Singing Bell Strike enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{6}: Untap this creature."

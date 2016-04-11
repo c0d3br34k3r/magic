@@ -1,0 +1,6 @@
+Ravaging Riftwurm {1}{G}{G}
+Creature — Wurm
+Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Vanishing 2 (This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+If Ravaging Riftwurm was kicked, it enters the battlefield with three additional time counters on it.
+6/6

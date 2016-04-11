@@ -1,0 +1,3 @@
+Molten Influence {1}{R}
+Instant
+Counter target instant or sorcery spell unless its controller has Molten Influence deal 4 damage to him or her.

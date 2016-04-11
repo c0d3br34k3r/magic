@@ -1,0 +1,4 @@
+Thelonite Druid {2}{G}
+Creature — Human Cleric Druid
+{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.
+1/1

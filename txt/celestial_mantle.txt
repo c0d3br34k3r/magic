@@ -1,0 +1,5 @@
+Celestial Mantle {3}{W}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+Whenever enchanted creature deals combat damage to a player, double its controller's life total.

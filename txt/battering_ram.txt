@@ -1,0 +1,5 @@
+Battering Ram {2}
+Artifact Creature — Construct
+At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)
+Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.
+1/1

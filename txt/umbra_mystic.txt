@@ -1,0 +1,4 @@
+Umbra Mystic {2}{W}
+Creature — Human Wizard
+Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)
+2/2

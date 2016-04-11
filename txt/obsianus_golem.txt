@@ -1,0 +1,3 @@
+Obsianus Golem {6}
+Artifact Creature — Golem
+4/6

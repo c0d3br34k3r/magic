@@ -1,0 +1,4 @@
+Vermiculos {4}{B}
+Creature — Horror
+Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end of turn.
+1/1

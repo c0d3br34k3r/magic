@@ -1,0 +1,4 @@
+Skyshroud Blessing {1}{G}
+Instant
+All lands gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+Draw a card.

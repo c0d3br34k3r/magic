@@ -1,0 +1,4 @@
+Field Marshal {1}{W}{W}
+Creature — Human Soldier
+Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)
+2/2

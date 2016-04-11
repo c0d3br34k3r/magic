@@ -1,0 +1,5 @@
+Grave Defiler {3}{B}
+Creature — Zombie
+When Grave Defiler enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library in any order.
+{1}{B}: Regenerate Grave Defiler.
+2/1

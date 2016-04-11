@@ -1,0 +1,3 @@
+Shifting Loyalties {5}{U}
+Sorcery
+Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)

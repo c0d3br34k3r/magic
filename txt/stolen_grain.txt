@@ -1,0 +1,3 @@
+Stolen Grain {4}{B}{B}
+Sorcery
+Stolen Grain deals 5 damage to target opponent. You gain 5 life.

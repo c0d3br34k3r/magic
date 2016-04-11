@@ -1,0 +1,5 @@
+Merfolk Spy {U}
+Creature — Merfolk Rogue
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from his or her hand.
+1/1

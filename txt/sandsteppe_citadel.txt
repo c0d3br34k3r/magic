@@ -1,0 +1,4 @@
+Sandsteppe Citadel
+Land
+Sandsteppe Citadel enters the battlefield tapped.
+{T}: Add {W}, {B}, or {G} to your mana pool.

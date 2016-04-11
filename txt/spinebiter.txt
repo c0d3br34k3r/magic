@@ -1,0 +1,5 @@
+Spinebiter {4}{G}{G}
+Creature — Beast
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+You may have Spinebiter assign its combat damage as though it weren't blocked.
+3/4

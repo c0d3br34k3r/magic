@@ -1,0 +1,4 @@
+Clay Statue {4}
+Artifact Creature — Golem
+{2}: Regenerate Clay Statue.
+3/1

@@ -1,0 +1,4 @@
+Protean Hulk {5}{G}{G}
+Creature — Beast
+When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.
+6/6

@@ -1,0 +1,4 @@
+Dig Through Time {6}{U}{U}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.

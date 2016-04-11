@@ -1,0 +1,6 @@
+Elspeth, Sun's Champion {4}{W}{W}
+Planeswalker — Elspeth
++1: Put three 1/1 white Soldier creature tokens onto the battlefield.
+−3: Destroy all creatures with power 4 or greater.
+−7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+4

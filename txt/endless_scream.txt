@@ -1,0 +1,5 @@
+Endless Scream {X}{B}
+Enchantment — Aura
+Enchant creature
+Endless Scream enters the battlefield with X scream counters on it.
+Enchanted creature gets +1/+0 for each scream counter on Endless Scream.

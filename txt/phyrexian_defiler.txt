@@ -1,0 +1,4 @@
+Phyrexian Defiler {2}{B}{B}
+Creature — Carrier
+{T}, Sacrifice Phyrexian Defiler: Target creature gets -3/-3 until end of turn.
+3/3

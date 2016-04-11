@@ -1,0 +1,4 @@
+Flowstone Channeler {2}{R}
+Creature — Human Spellshaper
+{1}{R}, {T}, Discard a card: Target creature gets +1/-1 and gains haste until end of turn.
+2/2

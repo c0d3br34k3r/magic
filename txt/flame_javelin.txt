@@ -1,0 +1,4 @@
+Flame Javelin {2/R}{2/R}{2/R}
+Instant
+({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)
+Flame Javelin deals 4 damage to target creature or player.

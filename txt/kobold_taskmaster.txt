@@ -1,0 +1,4 @@
+Kobold Taskmaster {1}{R}
+Creature — Kobold
+Other Kobold creatures you control get +1/+0.
+1/2

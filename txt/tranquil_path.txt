@@ -1,0 +1,4 @@
+Tranquil Path {4}{G}
+Sorcery
+Destroy all enchantments.
+Draw a card.

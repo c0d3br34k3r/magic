@@ -1,0 +1,4 @@
+Flowstone Sculpture {6}
+Artifact Creature — Shapeshifter
+{2}, Discard a card: Put a +1/+1 counter on Flowstone Sculpture or Flowstone Sculpture gains flying, first strike, or trample. (This effect lasts indefinitely.)
+4/4

@@ -1,0 +1,5 @@
+Spectral Force {3}{G}{G}
+Creature — Elemental Spirit
+Trample
+Whenever Spectral Force attacks, if defending player controls no black permanents, it doesn't untap during your next untap step.
+8/8

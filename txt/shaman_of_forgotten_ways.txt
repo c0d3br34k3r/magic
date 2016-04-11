@@ -1,0 +1,5 @@
+Shaman of Forgotten Ways {2}{G}
+Creature — Human Shaman
+{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast creature spells.
+Formidable — {9}{G}{G}, {T}: Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater.
+2/3

@@ -1,0 +1,4 @@
+Netter en-Dal {W}
+Creature — Human Spellshaper
+{W}, {T}, Discard a card: Target creature can't attack this turn.
+1/1

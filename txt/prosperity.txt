@@ -1,0 +1,3 @@
+Prosperity {X}{U}
+Sorcery
+Each player draws X cards.

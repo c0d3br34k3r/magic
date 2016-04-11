@@ -1,0 +1,3 @@
+Xanthic Statue {8}
+Artifact
+{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.

@@ -1,0 +1,4 @@
+Asphodel Wanderer {B}
+Creature — Skeleton Soldier
+{2}{B}: Regenerate Asphodel Wanderer.
+1/1

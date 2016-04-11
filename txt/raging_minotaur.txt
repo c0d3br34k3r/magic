@@ -1,0 +1,4 @@
+Raging Minotaur {2}{R}{R}
+Creature — Minotaur Berserker
+Haste
+3/3

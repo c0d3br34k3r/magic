@@ -1,0 +1,4 @@
+Zur's Weirding {3}{U}
+Enchantment
+Players play with their hands revealed.
+If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.

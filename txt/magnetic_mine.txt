@@ -1,0 +1,3 @@
+Magnetic Mine {4}
+Artifact
+Whenever another artifact is put into a graveyard from the battlefield, Magnetic Mine deals 2 damage to that artifact's controller.

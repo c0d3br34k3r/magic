@@ -1,0 +1,4 @@
+Elvish Herder {G}
+Creature — Elf
+{G}: Target creature gains trample until end of turn.
+1/1

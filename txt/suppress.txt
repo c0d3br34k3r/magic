@@ -1,0 +1,3 @@
+Suppress {2}{B}
+Sorcery
+Target player exiles all cards from his or her hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to his or her hand.

@@ -1,0 +1,5 @@
+Treasonous Ogre {3}{R}
+Creature — Ogre Shaman
+Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+Pay 3 life: Add {R} to your mana pool.
+2/3

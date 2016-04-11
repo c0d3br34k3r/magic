@@ -1,0 +1,4 @@
+Tresserhorn Sinks
+Snow Land
+Tresserhorn Sinks enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.

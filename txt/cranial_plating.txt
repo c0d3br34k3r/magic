@@ -1,0 +1,5 @@
+Cranial Plating {2}
+Artifact — Equipment
+Equipped creature gets +1/+0 for each artifact you control.
+{B}{B}: Attach Cranial Plating to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)

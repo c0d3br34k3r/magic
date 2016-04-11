@@ -1,0 +1,3 @@
+Zombie Goliath {4}{B}
+Creature — Zombie Giant
+4/3

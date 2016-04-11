@@ -1,0 +1,4 @@
+Grim Guardian {2}{B}
+Enchantment Creature — Zombie
+Constellation — Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.
+1/4

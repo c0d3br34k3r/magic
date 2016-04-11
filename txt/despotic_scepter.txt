@@ -1,0 +1,3 @@
+Despotic Scepter {1}
+Artifact
+{T}: Destroy target permanent you own. It can't be regenerated.

@@ -1,0 +1,5 @@
+Weight of Conscience {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack.
+Tap two untapped creatures you control that share a creature type: Exile enchanted creature.

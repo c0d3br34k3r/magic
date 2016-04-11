@@ -1,0 +1,4 @@
+Soul Bleed {2}{B}
+Enchantment — Aura
+Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.

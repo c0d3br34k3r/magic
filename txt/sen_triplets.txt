@@ -1,0 +1,4 @@
+Sen Triplets {2}{W}{U}{B}
+Legendary Artifact Creature — Human Wizard
+At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.
+3/3

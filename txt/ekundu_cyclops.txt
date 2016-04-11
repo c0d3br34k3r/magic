@@ -1,0 +1,4 @@
+Ekundu Cyclops {3}{R}
+Creature — Cyclops
+If a creature you control attacks, Ekundu Cyclops also attacks if able.
+3/4

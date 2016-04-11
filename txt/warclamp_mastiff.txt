@@ -1,0 +1,4 @@
+Warclamp Mastiff {W}
+Creature — Hound
+First strike (This creature deals combat damage before creatures without first strike.)
+1/1

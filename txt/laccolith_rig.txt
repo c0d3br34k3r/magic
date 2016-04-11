@@ -1,0 +1,4 @@
+Laccolith Rig {R}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature becomes blocked, you may have it deal damage equal to its power to target creature. If you do, the first creature assigns no combat damage this turn.

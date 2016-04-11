@@ -1,0 +1,5 @@
+Gatherer of Graces {1}{G}
+Creature — Human Druid
+Gatherer of Graces gets +1/+1 for each Aura attached to it.
+Sacrifice an Aura: Regenerate Gatherer of Graces.
+1/2

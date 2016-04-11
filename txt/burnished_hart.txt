@@ -1,0 +1,4 @@
+Burnished Hart {3}
+Artifact Creature — Elk
+{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+2/2

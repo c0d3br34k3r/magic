@@ -1,0 +1,4 @@
+Sword Dancer {1}{W}
+Creature — Human Rebel
+{W}{W}: Target attacking creature gets -1/-0 until end of turn.
+1/2

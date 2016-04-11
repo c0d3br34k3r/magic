@@ -1,0 +1,5 @@
+Skysnare Spider {4}{G}{G}
+Creature — Spider
+Vigilance (Attacking doesn't cause this creature to tap.)
+Reach (This creature can block creatures with flying.)
+6/6

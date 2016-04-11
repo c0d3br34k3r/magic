@@ -1,0 +1,4 @@
+Lu Su, Wu Advisor {3}{U}{U}
+Legendary Creature — Human Advisor
+{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.
+1/2

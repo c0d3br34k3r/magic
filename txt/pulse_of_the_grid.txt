@@ -1,0 +1,3 @@
+Pulse of the Grid {1}{U}{U}
+Instant
+Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.

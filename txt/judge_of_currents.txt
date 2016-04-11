@@ -1,0 +1,4 @@
+Judge of Currents {1}{W}
+Creature — Merfolk Wizard
+Whenever a Merfolk you control becomes tapped, you may gain 1 life.
+1/1

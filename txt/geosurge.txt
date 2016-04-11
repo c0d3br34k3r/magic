@@ -1,0 +1,3 @@
+Geosurge {R}{R}{R}{R}
+Sorcery
+Add {R}{R}{R}{R}{R}{R}{R} to your mana pool. Spend this mana only to cast artifact or creature spells.

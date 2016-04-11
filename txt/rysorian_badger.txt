@@ -1,0 +1,4 @@
+Rysorian Badger {2}{G}
+Creature — Badger
+Whenever Rysorian Badger attacks and isn't blocked, you may exile up to two target creature cards from defending player's graveyard. If you do, you gain 1 life for each card exiled this way and Rysorian Badger assigns no combat damage this turn.
+2/2

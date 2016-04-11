@@ -1,0 +1,4 @@
+Madcap Skills {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+0 and has menace. (It can't be blocked except by two or more creatures.)

@@ -1,0 +1,4 @@
+Haunted Fengraf
+Land
+{T}: Add {C} to your mana pool.
+{3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.

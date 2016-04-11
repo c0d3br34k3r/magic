@@ -1,0 +1,4 @@
+Flamekin Brawler {R}
+Creature — Elemental Warrior
+{R}: Flamekin Brawler gets +1/+0 until end of turn.
+0/2

@@ -1,0 +1,6 @@
+Thelonite Hermit {3}{G}
+Creature — Elf Shaman
+Saproling creatures get +1/+1.
+Morph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Thelonite Hermit is turned face up, put four 1/1 green Saproling creature tokens onto the battlefield.
+1/1

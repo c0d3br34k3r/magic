@@ -1,0 +1,5 @@
+Battlefield Thaumaturge {1}{U}
+Creature — Human Wizard
+Each instant and sorcery spell you cast costs {1} less to cast for each creature it targets.
+Heroic — Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.
+2/1

@@ -1,0 +1,4 @@
+Rith's Attendant {5}
+Artifact Creature — Golem
+{1}, Sacrifice Rith's Attendant: Add {R}{G}{W} to your mana pool.
+3/3

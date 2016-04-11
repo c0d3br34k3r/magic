@@ -1,0 +1,4 @@
+Bloodpyre Elemental {4}{R}
+Creature — Elemental
+Sacrifice Bloodpyre Elemental: Bloodpyre Elemental deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.
+4/1

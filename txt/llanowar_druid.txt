@@ -1,0 +1,4 @@
+Llanowar Druid {1}{G}
+Creature — Elf Druid
+{T}, Sacrifice Llanowar Druid: Untap all Forests.
+1/2

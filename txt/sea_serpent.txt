@@ -1,0 +1,5 @@
+Sea Serpent {5}{U}
+Creature — Serpent
+Sea Serpent can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Sea Serpent.
+5/5

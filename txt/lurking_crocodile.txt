@@ -1,0 +1,5 @@
+Lurking Crocodile {2}{G}
+Creature — Crocodile
+Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+2/2

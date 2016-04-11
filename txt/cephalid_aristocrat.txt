@@ -1,0 +1,4 @@
+Cephalid Aristocrat {4}{U}
+Creature — Cephalid
+Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.
+3/3

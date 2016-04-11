@@ -1,0 +1,4 @@
+Mardu Banner {3}
+Artifact
+{T}: Add {R}, {W}, or {B} to your mana pool.
+{R}{W}{B}, {T}, Sacrifice Mardu Banner: Draw a card.

@@ -1,0 +1,5 @@
+Feast or Famine {3}{B}
+Instant
+Choose one —
+• Put a 2/2 black Zombie creature token onto the battlefield.
+• Destroy target nonartifact, nonblack creature. It can't be regenerated.

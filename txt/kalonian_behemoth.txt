@@ -1,0 +1,4 @@
+Kalonian Behemoth {5}{G}{G}
+Creature — Beast
+Shroud (This creature can't be the target of spells or abilities.)
+9/9

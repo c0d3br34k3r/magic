@@ -1,0 +1,6 @@
+Minion of Leshrac {4}{B}{B}{B}
+Creature — Demon Minion
+Protection from black
+At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.
+{T}: Destroy target creature or land.
+5/5

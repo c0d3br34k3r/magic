@@ -1,0 +1,4 @@
+Devout Chaplain {2}{W}
+Creature — Human Cleric
+{T}, Tap two untapped Humans you control: Exile target artifact or enchantment.
+2/2

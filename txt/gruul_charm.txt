@@ -1,0 +1,6 @@
+Gruul Charm {R}{G}
+Instant
+Choose one —
+• Creatures without flying can't block this turn.
+• Gain control of all permanents you own.
+• Gruul Charm deals 3 damage to each creature with flying.

@@ -1,0 +1,4 @@
+Coal Stoker {3}{R}
+Creature — Elemental
+When Coal Stoker enters the battlefield, if you cast it from your hand, add {R}{R}{R} to your mana pool.
+3/3

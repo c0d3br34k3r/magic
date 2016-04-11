@@ -1,0 +1,5 @@
+Arachnus Web {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.

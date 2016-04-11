@@ -1,0 +1,5 @@
+Mirko Vosk, Mind Drinker {3}{U}{B}
+Legendary Creature — Vampire
+Flying
+Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.
+2/4

@@ -1,0 +1,4 @@
+Magus of the Moat {2}{W}{W}
+Creature — Human Wizard
+Creatures without flying can't attack.
+0/3

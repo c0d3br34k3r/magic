@@ -1,0 +1,3 @@
+Web of Inertia {2}{U}
+Enchantment
+At the beginning of combat on each opponent's turn, that player may exile a card from his or her graveyard. If the player doesn't, creatures he or she controls can't attack you this turn.

@@ -1,0 +1,3 @@
+Widespread Panic {2}{R}
+Enchantment
+Whenever a spell or ability causes its controller to shuffle his or her library, that player puts a card from his or her hand on top of his or her library.

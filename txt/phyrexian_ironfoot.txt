@@ -1,0 +1,5 @@
+Phyrexian Ironfoot {3}
+Snow Artifact Creature — Construct
+Phyrexian Ironfoot doesn't untap during your untap step.
+{1}{S}: Untap Phyrexian Ironfoot. ({S} can be paid with one mana from a snow permanent.)
+3/4

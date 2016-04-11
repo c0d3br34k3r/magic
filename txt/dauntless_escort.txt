@@ -1,0 +1,4 @@
+Dauntless Escort {1}{W}{G}
+Creature — Rhino Soldier
+Sacrifice Dauntless Escort: Creatures you control gain indestructible until end of turn.
+3/3

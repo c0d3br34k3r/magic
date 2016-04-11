@@ -1,0 +1,4 @@
+Nightsky Mimic {1}{W/B}
+Creature — Shapeshifter
+Whenever you cast a spell that's both white and black, Nightsky Mimic has base power and toughness 4/4 until end of turn and gains flying until end of turn.
+2/1

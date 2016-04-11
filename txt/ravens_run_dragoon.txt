@@ -1,0 +1,4 @@
+Raven's Run Dragoon {2}{G/W}{G/W}
+Creature — Elf Knight
+Raven's Run Dragoon can't be blocked by black creatures.
+3/3

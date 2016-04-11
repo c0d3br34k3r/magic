@@ -1,0 +1,3 @@
+Shaman's Trance {2}{R}
+Instant
+Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.

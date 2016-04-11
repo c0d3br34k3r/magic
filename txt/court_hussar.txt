@@ -1,0 +1,6 @@
+Court Hussar {2}{U}
+Creature — Vedalken Knight
+Vigilance
+When Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.
+When Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.
+1/3

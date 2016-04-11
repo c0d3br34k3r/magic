@@ -1,0 +1,4 @@
+Nissa's Chosen {G}{G}
+Creature — Elf Warrior
+If Nissa's Chosen would die, put it on the bottom of its owner's library instead.
+2/3

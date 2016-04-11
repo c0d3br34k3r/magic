@@ -1,0 +1,3 @@
+Volcanic Eruption {X}{U}{U}{U}
+Sorcery
+Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.

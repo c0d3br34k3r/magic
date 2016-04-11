@@ -1,0 +1,4 @@
+Noggle Ransacker {2}{U/R}
+Creature — Noggle Rogue
+When Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.
+2/1

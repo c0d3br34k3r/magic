@@ -1,0 +1,6 @@
+Stormcloud Djinn {4}{U}
+Creature — Djinn
+Flying
+Stormcloud Djinn can block only creatures with flying.
+{R}{R}: Stormcloud Djinn gets +2/+0 until end of turn and deals 1 damage to you.
+3/3

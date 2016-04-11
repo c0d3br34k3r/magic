@@ -1,0 +1,3 @@
+Merchant Scroll {1}{U}
+Sorcery
+Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.

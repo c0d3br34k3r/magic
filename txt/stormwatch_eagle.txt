@@ -1,0 +1,5 @@
+Stormwatch Eagle {3}{U}
+Creature — Bird
+Flying
+Sacrifice a land: Return Stormwatch Eagle to its owner's hand.
+2/1

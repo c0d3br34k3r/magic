@@ -1,0 +1,4 @@
+Creature Bond {1}{U}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller.

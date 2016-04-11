@@ -1,0 +1,4 @@
+Flight {U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.

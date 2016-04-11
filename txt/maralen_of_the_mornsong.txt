@@ -1,0 +1,5 @@
+Maralen of the Mornsong {1}{B}{B}
+Legendary Creature — Elf Wizard
+Players can't draw cards.
+At the beginning of each player's draw step, that player loses 3 life, searches his or her library for a card, puts it into his or her hand, then shuffles his or her library.
+2/3

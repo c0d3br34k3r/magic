@@ -1,0 +1,4 @@
+Subterranean Scout {1}{R}
+Creature — Goblin Scout
+When Subterranean Scout enters the battlefield, target creature with power 2 or less can't be blocked this turn.
+2/1

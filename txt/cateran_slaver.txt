@@ -1,0 +1,5 @@
+Cateran Slaver {4}{B}{B}
+Creature — Horror Mercenary
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+{5}, {T}: Search your library for a Mercenary permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.
+5/5

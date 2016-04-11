@@ -1,0 +1,5 @@
+Boros Garrison
+Land
+Boros Garrison enters the battlefield tapped.
+When Boros Garrison enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{W} to your mana pool.

@@ -1,0 +1,4 @@
+Hobgoblin Dragoon {2}{R/W}
+Creature — Goblin Knight
+Flying, first strike
+1/2

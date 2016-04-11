@@ -1,0 +1,5 @@
+Guiding Spirit {1}{W}{U}
+Creature — Angel Spirit
+Flying
+{T}: If the top card of target player's graveyard is a creature card, put that card on top of that player's library.
+1/2

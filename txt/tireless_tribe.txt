@@ -1,0 +1,4 @@
+Tireless Tribe {W}
+Creature — Human Nomad
+Discard a card: Tireless Tribe gets +0/+4 until end of turn.
+1/1

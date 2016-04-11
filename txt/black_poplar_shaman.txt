@@ -1,0 +1,4 @@
+Black Poplar Shaman {2}{B}
+Creature — Treefolk Shaman
+{2}{B}: Regenerate target Treefolk.
+1/3

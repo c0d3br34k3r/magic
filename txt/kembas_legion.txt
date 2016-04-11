@@ -1,0 +1,5 @@
+Kemba's Legion {5}{W}{W}
+Creature — Cat Soldier
+Vigilance
+Kemba's Legion can block an additional creature for each Equipment attached to Kemba's Legion.
+4/6

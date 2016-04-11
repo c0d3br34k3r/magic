@@ -1,0 +1,4 @@
+Wings of Velis Vel {1}{U}
+Tribal Instant — Shapeshifter
+Changeling (This card is every creature type.)
+Until end of turn, target creature has base power and toughness 4/4, gains all creature types, and gains flying.

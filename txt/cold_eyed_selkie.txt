@@ -1,0 +1,5 @@
+Cold-Eyed Selkie {1}{G/U}{G/U}
+Creature — Merfolk Rogue
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.
+1/1

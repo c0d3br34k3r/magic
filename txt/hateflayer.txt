@@ -1,0 +1,5 @@
+Hateflayer {5}{R}{R}
+Creature — Elemental
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{2}{R}, {Q}: Hateflayer deals damage equal to its power to target creature or player. ({Q} is the untap symbol.)
+5/5

@@ -1,0 +1,4 @@
+Oreskos Sun Guide {1}{W}
+Creature — Cat Monk
+Inspired — Whenever Oreskos Sun Guide becomes untapped, you gain 2 life.
+2/2

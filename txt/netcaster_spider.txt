@@ -1,0 +1,5 @@
+Netcaster Spider {2}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.
+2/3

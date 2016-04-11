@@ -1,0 +1,4 @@
+Chandler {4}{R}
+Legendary Creature — Human Rogue
+{R}{R}{R}, {T}: Destroy target artifact creature.
+3/3

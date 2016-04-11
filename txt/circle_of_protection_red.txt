@@ -1,0 +1,3 @@
+Circle of Protection: Red {1}{W}
+Enchantment
+{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.

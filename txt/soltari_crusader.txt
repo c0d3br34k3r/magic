@@ -1,0 +1,5 @@
+Soltari Crusader {2}{W}
+Creature — Soltari Knight
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+{1}{W}: Soltari Crusader gets +1/+0 until end of turn.
+2/1

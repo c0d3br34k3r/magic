@@ -1,0 +1,4 @@
+Entangler {2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can block any number of creatures.

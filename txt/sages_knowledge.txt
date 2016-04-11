@@ -1,0 +1,3 @@
+Sage's Knowledge {2}{U}
+Sorcery
+Return target sorcery card from your graveyard to your hand.

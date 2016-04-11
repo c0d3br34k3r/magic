@@ -1,0 +1,4 @@
+Wild Griffin {2}{W}
+Creature — Griffin
+Flying
+2/2

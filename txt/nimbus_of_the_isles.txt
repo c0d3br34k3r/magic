@@ -1,0 +1,4 @@
+Nimbus of the Isles {4}{U}
+Creature — Elemental
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+3/3

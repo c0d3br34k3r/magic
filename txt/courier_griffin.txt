@@ -1,0 +1,5 @@
+Courier Griffin {3}{W}
+Creature — Griffin
+Flying
+When Courier Griffin enters the battlefield, you gain 2 life.
+2/3

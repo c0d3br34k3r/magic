@@ -1,0 +1,6 @@
+Nylea's Emissary {3}{G}
+Enchantment Creature — Cat
+Bestow {5}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Trample
+Enchanted creature gets +3/+3 and has trample.
+3/3

@@ -1,0 +1,4 @@
+Drowned {1}{U}
+Creature — Zombie
+{B}: Regenerate Drowned.
+1/1

@@ -1,0 +1,4 @@
+Slay {2}{B}
+Instant
+Destroy target green creature. It can't be regenerated.
+Draw a card.

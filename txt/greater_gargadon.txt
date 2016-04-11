@@ -1,0 +1,5 @@
+Greater Gargadon {9}{R}
+Creature — Beast
+Suspend 10—{R}
+Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate this ability only if Greater Gargadon is suspended.
+9/7

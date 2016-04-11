@@ -1,0 +1,4 @@
+Rag Man {2}{B}{B}
+Creature — Human Minion
+{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Activate this ability only during your turn.
+2/1

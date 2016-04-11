@@ -1,0 +1,6 @@
+Shrike Harpy {3}{B}{B}
+Creature — Harpy
+Flying
+Tribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)
+When Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature.
+2/2

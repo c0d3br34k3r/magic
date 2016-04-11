@@ -1,0 +1,5 @@
+Nath of the Gilt-Leaf {3}{B}{G}
+Legendary Creature — Elf Warrior
+At the beginning of your upkeep, you may have target opponent discard a card at random.
+Whenever an opponent discards a card, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
+4/4

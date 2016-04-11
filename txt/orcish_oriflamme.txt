@@ -1,0 +1,3 @@
+Orcish Oriflamme {3}{R}
+Enchantment
+Attacking creatures you control get +1/+0.

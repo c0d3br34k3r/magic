@@ -1,0 +1,3 @@
+Swift Silence {2}{W}{U}{U}
+Instant
+Counter all other spells. Draw a card for each spell countered this way.

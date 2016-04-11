@@ -1,0 +1,3 @@
+Clear the Land {2}{G}
+Sorcery
+Each player reveals the top five cards of his or her library, puts all land cards revealed this way onto the battlefield tapped, and exiles the rest.

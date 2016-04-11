@@ -1,0 +1,5 @@
+Recumbent Bliss {2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block.
+At the beginning of your upkeep, you may gain 1 life.

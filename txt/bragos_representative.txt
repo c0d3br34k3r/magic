@@ -1,0 +1,4 @@
+Brago's Representative {2}{W}
+Creature — Human Advisor
+While voting, you get an additional vote. (The votes can be for different choices or for the same choice.)
+1/4

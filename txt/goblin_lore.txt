@@ -1,0 +1,3 @@
+Goblin Lore {1}{R}
+Sorcery
+Draw four cards, then discard three cards at random.

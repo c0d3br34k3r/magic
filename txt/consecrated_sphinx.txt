@@ -1,0 +1,5 @@
+Consecrated Sphinx {4}{U}{U}
+Creature — Sphinx
+Flying
+Whenever an opponent draws a card, you may draw two cards.
+4/6

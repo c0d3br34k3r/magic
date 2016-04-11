@@ -1,0 +1,4 @@
+Grollub {2}{B}
+Creature — Beast
+Whenever Grollub is dealt damage, each opponent gains that much life.
+3/3

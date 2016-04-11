@@ -1,0 +1,4 @@
+Noggle Bandit {1}{U/R}{U/R}
+Creature — Noggle Rogue
+Noggle Bandit can't be blocked except by creatures with defender.
+2/2

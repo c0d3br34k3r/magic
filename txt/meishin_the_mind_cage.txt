@@ -1,0 +1,3 @@
+Meishin, the Mind Cage {4}{U}{U}{U}
+Legendary Enchantment
+All creatures get -X/-0, where X is the number of cards in your hand.

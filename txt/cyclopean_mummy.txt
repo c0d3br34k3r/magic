@@ -1,0 +1,4 @@
+Cyclopean Mummy {1}{B}
+Creature — Zombie
+When Cyclopean Mummy dies, exile it.
+2/1

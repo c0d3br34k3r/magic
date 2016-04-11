@@ -1,0 +1,5 @@
+Akki Coalflinger {1}{R}{R}
+Creature — Goblin Shaman
+First strike
+{R}, {T}: Attacking creatures gain first strike until end of turn.
+2/2

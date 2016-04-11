@@ -1,0 +1,4 @@
+Renegade Troops {4}{R}
+Creature — Human Soldier
+Haste
+4/2

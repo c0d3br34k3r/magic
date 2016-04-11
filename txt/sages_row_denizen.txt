@@ -1,0 +1,4 @@
+Sage's Row Denizen {2}{U}
+Creature — Vedalken Wizard
+Whenever another blue creature enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.
+2/3

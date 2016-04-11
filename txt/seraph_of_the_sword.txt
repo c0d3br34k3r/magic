@@ -1,0 +1,5 @@
+Seraph of the Sword {3}{W}
+Creature — Angel
+Flying
+Prevent all combat damage that would be dealt to Seraph of the Sword.
+3/3

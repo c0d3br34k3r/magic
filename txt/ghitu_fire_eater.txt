@@ -1,0 +1,4 @@
+Ghitu Fire-Eater {2}{R}
+Creature — Human Nomad
+{T}, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.
+2/2

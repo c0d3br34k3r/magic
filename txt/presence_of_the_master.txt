@@ -1,0 +1,3 @@
+Presence of the Master {3}{W}
+Enchantment
+Whenever a player casts an enchantment spell, counter it.

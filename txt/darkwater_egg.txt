@@ -1,0 +1,3 @@
+Darkwater Egg {1}
+Artifact
+{2}, {T}, Sacrifice Darkwater Egg: Add {U}{B} to your mana pool. Draw a card.

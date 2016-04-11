@@ -1,0 +1,4 @@
+Stoic Rebuttal {1}{U}{U}
+Instant
+Metalcraft — Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.
+Counter target spell.

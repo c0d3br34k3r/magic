@@ -1,0 +1,4 @@
+Dryad Sophisticate {1}{G}
+Creature — Dryad
+Nonbasic landwalk (This creature can't be blocked as long as defending player controls a nonbasic land.)
+2/1

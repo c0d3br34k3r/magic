@@ -1,0 +1,3 @@
+Thoughtflare {3}{U}{R}
+Instant
+Draw four cards, then discard two cards.

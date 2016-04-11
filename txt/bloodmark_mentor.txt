@@ -1,0 +1,4 @@
+Bloodmark Mentor {1}{R}
+Creature — Goblin Warrior
+Red creatures you control have first strike.
+1/1

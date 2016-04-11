@@ -1,0 +1,5 @@
+Steward of Valeron {W}{G}
+Creature — Human Druid Knight
+Vigilance
+{T}: Add {G} to your mana pool.
+2/2

@@ -1,0 +1,4 @@
+Altar's Reap {1}{B}
+Instant
+As an additional cost to cast Altar's Reap, sacrifice a creature.
+Draw two cards.

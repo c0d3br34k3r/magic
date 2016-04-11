@@ -1,0 +1,5 @@
+Defiant Bloodlord {5}{B}{B}
+Creature — Vampire
+Flying
+Whenever you gain life, target opponent loses that much life.
+4/5

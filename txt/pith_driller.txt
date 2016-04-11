@@ -1,0 +1,5 @@
+Pith Driller {4}{B/P}
+Artifact Creature — Horror
+({B/P} can be paid with either {B} or 2 life.)
+When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.
+2/4

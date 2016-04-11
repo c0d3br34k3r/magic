@@ -1,0 +1,4 @@
+Finest Hour {2}{W}{U}{G}
+Enchantment
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.

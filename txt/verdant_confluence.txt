@@ -1,0 +1,6 @@
+Verdant Confluence {4}{G}{G}
+Sorcery
+Choose three. You may choose the same mode more than once.
+• Put two +1/+1 counters on target creature.
+• Return target permanent card from your graveyard to your hand.
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.

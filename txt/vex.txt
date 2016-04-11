@@ -1,0 +1,3 @@
+Vex {2}{U}
+Instant
+Counter target spell. That spell's controller may draw a card.

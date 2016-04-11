@@ -1,0 +1,4 @@
+Elvish Spirit Guide {2}{G}
+Creature — Elf Spirit
+Exile Elvish Spirit Guide from your hand: Add {G} to your mana pool.
+2/2

@@ -1,0 +1,5 @@
+Deepwood Legate {3}{B}
+Creature — Shade
+If an opponent controls a Forest and you control a Swamp, you may cast Deepwood Legate without paying its mana cost.
+{B}: Deepwood Legate gets +1/+1 until end of turn.
+1/1

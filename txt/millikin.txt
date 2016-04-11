@@ -1,0 +1,4 @@
+Millikin {2}
+Artifact Creature — Construct
+{T}, Put the top card of your library into your graveyard: Add {C} to your mana pool.
+0/1

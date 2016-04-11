@@ -1,0 +1,4 @@
+Talrand, Sky Summoner {2}{U}{U}
+Legendary Creature — Merfolk Wizard
+Whenever you cast an instant or sorcery spell, put a 2/2 blue Drake creature token with flying onto the battlefield.
+2/2

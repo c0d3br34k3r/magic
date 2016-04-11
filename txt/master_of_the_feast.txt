@@ -1,0 +1,5 @@
+Master of the Feast {1}{B}{B}
+Enchantment Creature — Demon
+Flying
+At the beginning of your upkeep, each opponent draws a card.
+5/5

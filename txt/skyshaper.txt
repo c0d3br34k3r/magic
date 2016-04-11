@@ -1,0 +1,3 @@
+Skyshaper {2}
+Artifact
+Sacrifice Skyshaper: Creatures you control gain flying until end of turn.

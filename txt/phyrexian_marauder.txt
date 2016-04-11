@@ -1,0 +1,6 @@
+Phyrexian Marauder {X}
+Artifact Creature — Construct
+Phyrexian Marauder enters the battlefield with X +1/+1 counters on it.
+Phyrexian Marauder can't block.
+Phyrexian Marauder can't attack unless you pay {1} for each +1/+1 counter on it.
+0/0

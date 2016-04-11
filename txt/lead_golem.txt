@@ -1,0 +1,4 @@
+Lead Golem {5}
+Artifact Creature — Golem
+Whenever Lead Golem attacks, it doesn't untap during its controller's next untap step.
+3/5

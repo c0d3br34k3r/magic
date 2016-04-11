@@ -1,0 +1,5 @@
+Toxic Nim {4}{B}{B}
+Creature — Zombie
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{B}: Regenerate Toxic Nim.
+4/1

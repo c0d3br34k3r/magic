@@ -1,0 +1,5 @@
+Domestication {2}{U}{U}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.

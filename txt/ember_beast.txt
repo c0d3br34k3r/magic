@@ -1,0 +1,4 @@
+Ember Beast {2}{R}
+Creature — Beast
+Ember Beast can't attack or block alone.
+3/4

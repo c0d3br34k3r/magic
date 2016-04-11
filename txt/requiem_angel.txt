@@ -1,0 +1,5 @@
+Requiem Angel {5}{W}
+Creature — Angel
+Flying
+Whenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+5/5

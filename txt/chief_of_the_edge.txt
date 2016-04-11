@@ -1,0 +1,4 @@
+Chief of the Edge {W}{B}
+Creature — Human Warrior
+Other Warrior creatures you control get +1/+0.
+3/2

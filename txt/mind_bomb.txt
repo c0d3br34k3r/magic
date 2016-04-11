@@ -1,0 +1,3 @@
+Mind Bomb {U}
+Sorcery
+Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards he or she discarded this way.

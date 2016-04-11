@@ -1,0 +1,3 @@
+Reign of Terror {3}{B}{B}
+Sorcery
+Destroy all green creatures or all white creatures. They can't be regenerated. You lose 2 life for each creature that died this way.

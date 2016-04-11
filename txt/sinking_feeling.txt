@@ -1,0 +1,5 @@
+Sinking Feeling {2}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Put a -1/-1 counter on this creature: Untap this creature."

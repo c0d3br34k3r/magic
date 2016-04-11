@@ -1,0 +1,5 @@
+Spire Serpent {4}{U}
+Creature — Serpent
+Defender
+Metalcraft — As long as you control three or more artifacts, Spire Serpent gets +2/+2 and can attack as though it didn't have defender.
+3/5

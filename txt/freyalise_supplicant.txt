@@ -1,0 +1,4 @@
+Freyalise Supplicant {1}{G}
+Creature — Human Cleric
+{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.
+1/1

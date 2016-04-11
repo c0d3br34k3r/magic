@@ -1,0 +1,5 @@
+Wall of Brambles {2}{G}
+Creature — Plant Wall
+Defender (This creature can't attack.)
+{G}: Regenerate Wall of Brambles.
+2/3

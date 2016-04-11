@@ -1,0 +1,3 @@
+Famine {3}{B}{B}
+Sorcery
+Famine deals 3 damage to each creature and each player.

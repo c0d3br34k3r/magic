@@ -1,0 +1,4 @@
+Tragic Poet {W}
+Creature — Human
+{T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.
+1/1

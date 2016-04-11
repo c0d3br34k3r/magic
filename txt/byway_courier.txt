@@ -1,0 +1,4 @@
+Byway Courier {2}{G}
+Creature — Human Scout
+When Byway Courier dies, investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")
+3/2

@@ -1,0 +1,4 @@
+Geistcatcher's Rig {6}
+Artifact Creature — Construct
+When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.
+4/5

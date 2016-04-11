@@ -1,0 +1,4 @@
+Plover Knights {3}{W}{W}
+Creature — Kithkin Knight
+Flying, first strike
+3/3

@@ -1,0 +1,5 @@
+Keymaster Rogue {3}{U}
+Creature — Human Rogue
+Keymaster Rogue can't be blocked.
+When Keymaster Rogue enters the battlefield, return a creature you control to its owner's hand.
+3/2

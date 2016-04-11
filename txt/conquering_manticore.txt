@@ -1,0 +1,5 @@
+Conquering Manticore {4}{R}{R}
+Creature — Manticore
+Flying
+When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+5/5

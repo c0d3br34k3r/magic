@@ -1,0 +1,4 @@
+Clifftop Retreat
+Land
+Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W} to your mana pool.

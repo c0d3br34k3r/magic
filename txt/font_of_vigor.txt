@@ -1,0 +1,3 @@
+Font of Vigor {1}{W}
+Enchantment
+{2}{W}, Sacrifice Font of Vigor: You gain 7 life.

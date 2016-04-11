@@ -1,0 +1,5 @@
+Dragonlord Silumgar {4}{U}{B}
+Legendary Creature — Elder Dragon
+Flying, deathtouch
+When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar.
+3/5

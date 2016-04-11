@@ -1,0 +1,3 @@
+Artificer's Epiphany {2}{U}
+Instant
+Draw two cards. If you control no artifacts, discard a card.

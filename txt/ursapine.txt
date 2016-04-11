@@ -1,0 +1,4 @@
+Ursapine {3}{G}{G}
+Creature — Beast
+{G}: Target creature gets +1/+1 until end of turn.
+3/3

@@ -1,0 +1,4 @@
+Drownyard Temple
+Land
+{T}: Add {C} to your mana pool.
+{3}: Return Drownyard Temple from your graveyard to the battlefield tapped.

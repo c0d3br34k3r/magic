@@ -1,0 +1,4 @@
+Cryptoplasm {1}{U}{U}
+Creature — Shapeshifter
+At the beginning of your upkeep, you may have Cryptoplasm become a copy of another target creature. If you do, Cryptoplasm gains this ability.
+2/2

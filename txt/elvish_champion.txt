@@ -1,0 +1,4 @@
+Elvish Champion {1}{G}{G}
+Creature — Elf
+Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)
+2/2

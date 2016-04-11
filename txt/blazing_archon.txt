@@ -1,0 +1,5 @@
+Blazing Archon {6}{W}{W}{W}
+Creature — Archon
+Flying
+Creatures can't attack you.
+5/6

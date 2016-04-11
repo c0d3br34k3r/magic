@@ -1,0 +1,4 @@
+Even the Odds {2}{W}
+Instant
+Cast Even the Odds only if you control fewer creatures than each opponent.
+Put three 1/1 white Soldier creature tokens onto the battlefield.

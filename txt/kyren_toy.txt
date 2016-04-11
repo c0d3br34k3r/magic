@@ -1,0 +1,4 @@
+Kyren Toy {3}
+Artifact
+{1}, {T}: Put a charge counter on Kyren Toy.
+{T}, Remove X charge counters from Kyren Toy: Add an amount of {C} to your mana pool equal to X plus one.

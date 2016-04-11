@@ -1,0 +1,5 @@
+Vampire Hexmage {B}{B}
+Creature — Vampire Shaman
+First strike
+Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+2/1

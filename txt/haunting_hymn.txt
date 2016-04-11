@@ -1,0 +1,3 @@
+Haunting Hymn {4}{B}{B}
+Instant
+Target player discards two cards. If you cast this spell during your main phase, that player discards four cards instead.

@@ -1,0 +1,6 @@
+Triclopean Sight {1}{W}
+Enchantment — Aura
+Flash
+Enchant creature
+When Triclopean Sight enters the battlefield, untap enchanted creature.
+Enchanted creature gets +1/+1 and has vigilance.

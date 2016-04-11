@@ -1,0 +1,3 @@
+Fanatical Fever {2}{G}{G}
+Instant
+Target creature gets +3/+0 and gains trample until end of turn.

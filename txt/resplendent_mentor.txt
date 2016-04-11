@@ -1,0 +1,4 @@
+Resplendent Mentor {4}{W}
+Creature — Kithkin Cleric
+White creatures you control have "{T}: You gain 1 life."
+2/2

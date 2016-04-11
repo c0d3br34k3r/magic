@@ -1,0 +1,3 @@
+Harsh Mercy {2}{W}
+Sorcery
+Each player chooses a creature type. Destroy all creatures that aren't of a type chosen this way. They can't be regenerated.

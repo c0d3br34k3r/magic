@@ -1,0 +1,4 @@
+Nettletooth Djinn {3}{G}
+Creature — Djinn
+At the beginning of your upkeep, Nettletooth Djinn deals 1 damage to you.
+4/4

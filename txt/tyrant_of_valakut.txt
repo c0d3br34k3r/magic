@@ -1,0 +1,6 @@
+Tyrant of Valakut {5}{R}{R}
+Creature — Dragon
+Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying
+When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to target creature or player.
+5/4

@@ -1,0 +1,4 @@
+Tel-Jilad Outrider {3}{G}
+Creature — Elf Warrior
+Protection from artifacts
+3/1

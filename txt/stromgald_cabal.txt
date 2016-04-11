@@ -1,0 +1,4 @@
+Stromgald Cabal {1}{B}{B}
+Creature — Human Knight
+{T}, Pay 1 life: Counter target white spell.
+2/2

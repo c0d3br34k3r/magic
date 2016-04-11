@@ -1,0 +1,3 @@
+Metallic Mastery {2}{R}
+Sorcery
+Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.

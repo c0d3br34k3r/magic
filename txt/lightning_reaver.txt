@@ -1,0 +1,6 @@
+Lightning Reaver {3}{B}{R}
+Creature — Zombie Beast
+Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.
+At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.
+3/3

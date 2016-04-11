@@ -1,0 +1,4 @@
+Accelerate {1}{R}
+Instant
+Target creature gains haste until end of turn.
+Draw a card.

@@ -1,0 +1,4 @@
+Primordial Sage {4}{G}{G}
+Creature — Spirit
+Whenever you cast a creature spell, you may draw a card.
+4/5

@@ -1,0 +1,4 @@
+Grazing Gladehart {2}{G}
+Creature — Antelope
+Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life.
+2/2

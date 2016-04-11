@@ -1,0 +1,3 @@
+Reverence {2}{W}{W}
+Enchantment
+Creatures with power 2 or less can't attack you.

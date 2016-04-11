@@ -1,0 +1,5 @@
+Kheru Bloodsucker {2}{B}
+Creature — Vampire
+Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.
+{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.
+2/2

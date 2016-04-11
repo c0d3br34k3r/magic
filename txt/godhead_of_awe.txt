@@ -1,0 +1,5 @@
+Godhead of Awe {W/U}{W/U}{W/U}{W/U}{W/U}
+Creature — Spirit Avatar
+Flying
+Other creatures have base power and toughness 1/1.
+4/4

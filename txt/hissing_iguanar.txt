@@ -1,0 +1,4 @@
+Hissing Iguanar {2}{R}
+Creature — Lizard
+Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.
+3/1

@@ -1,0 +1,3 @@
+Geth's Verdict {B}{B}
+Instant
+Target player sacrifices a creature and loses 1 life.

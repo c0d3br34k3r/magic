@@ -1,0 +1,5 @@
+Merfolk Sovereign {1}{U}{U}
+Creature — Merfolk
+Other Merfolk creatures you control get +1/+1.
+{T}: Target Merfolk creature can't be blocked this turn.
+2/2

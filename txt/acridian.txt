@@ -1,0 +1,4 @@
+Acridian {1}{G}
+Creature — Insect
+Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+2/4

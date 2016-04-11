@@ -1,0 +1,5 @@
+Archetype of Imagination {4}{U}{U}
+Enchantment Creature — Human Wizard
+Creatures you control have flying.
+Creatures your opponents control lose flying and can't have or gain flying.
+3/2

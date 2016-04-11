@@ -1,0 +1,5 @@
+Chancellor of the Tangle {4}{G}{G}{G}
+Creature — Beast
+You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {G} to your mana pool.
+Vigilance, reach
+6/7

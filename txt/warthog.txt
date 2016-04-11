@@ -1,0 +1,4 @@
+Warthog {1}{G}{G}
+Creature — Boar
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+3/2

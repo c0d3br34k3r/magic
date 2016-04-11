@@ -1,0 +1,4 @@
+Diamond Kaleidoscope {4}
+Artifact
+{3}, {T}: Put a 0/1 colorless Prism artifact creature token onto the battlefield.
+Sacrifice a Prism token: Add one mana of any color to your mana pool.

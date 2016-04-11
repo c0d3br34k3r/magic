@@ -1,0 +1,4 @@
+Crypt Creeper {1}{B}
+Creature — Zombie
+Sacrifice Crypt Creeper: Exile target card from a graveyard.
+2/1

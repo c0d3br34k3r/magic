@@ -1,0 +1,5 @@
+Whirler Rogue {2}{U}{U}
+Creature — Human Rogue Artificer
+When Whirler Rogue enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.
+Tap two untapped artifacts you control: Target creature can't be blocked this turn.
+2/2

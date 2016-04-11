@@ -1,0 +1,5 @@
+Gaea's Embrace {2}{G}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3 and has trample.
+{G}: Regenerate enchanted creature.

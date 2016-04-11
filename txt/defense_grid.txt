@@ -1,0 +1,3 @@
+Defense Grid {2}
+Artifact
+Each spell costs {3} more to cast except during its controller's turn.

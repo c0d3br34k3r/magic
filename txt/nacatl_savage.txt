@@ -1,0 +1,4 @@
+Nacatl Savage {1}{G}
+Creature — Cat Warrior
+Protection from artifacts
+2/1

@@ -1,0 +1,3 @@
+Brain Pry {1}{B}
+Sorcery
+Name a nonland card. Target player reveals his or her hand. That player discards a card with that name. If he or she can't, you draw a card.

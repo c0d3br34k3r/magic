@@ -1,0 +1,4 @@
+Spurred Wolverine {4}{R}
+Creature — Wolverine Beast
+Tap two untapped Beasts you control: Target creature gains first strike until end of turn.
+3/2

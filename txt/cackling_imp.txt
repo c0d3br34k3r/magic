@@ -1,0 +1,5 @@
+Cackling Imp {2}{B}{B}
+Creature — Imp
+Flying
+{T}: Target player loses 1 life.
+2/2

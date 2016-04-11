@@ -1,0 +1,5 @@
+Cinderbones {2}{B}
+Creature — Elemental Skeleton
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{1}{B}: Regenerate Cinderbones.
+1/1

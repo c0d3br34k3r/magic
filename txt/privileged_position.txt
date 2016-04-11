@@ -1,0 +1,4 @@
+Privileged Position {2}{G/W}{G/W}{G/W}
+Enchantment
+({G/W} can be paid with either {G} or {W}.)
+Other permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)

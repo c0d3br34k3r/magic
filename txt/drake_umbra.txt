@@ -1,0 +1,5 @@
+Drake Umbra {4}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3 and has flying.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

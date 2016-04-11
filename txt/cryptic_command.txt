@@ -1,0 +1,7 @@
+Cryptic Command {1}{U}{U}{U}
+Instant
+Choose two —
+• Counter target spell.
+• Return target permanent to its owner's hand.
+• Tap all creatures your opponents control.
+• Draw a card.

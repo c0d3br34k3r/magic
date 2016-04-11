@@ -1,0 +1,5 @@
+Smog Elemental {4}{B}{B}
+Creature — Elemental
+Flying
+Creatures with flying your opponents control get -1/-1.
+3/3

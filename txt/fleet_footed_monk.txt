@@ -1,0 +1,4 @@
+Fleet-Footed Monk {1}{W}
+Creature — Human Monk
+Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.
+1/1

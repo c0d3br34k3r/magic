@@ -1,0 +1,3 @@
+Acidic Soil {2}{R}
+Sorcery
+Acidic Soil deals damage to each player equal to the number of lands he or she controls.

@@ -1,0 +1,4 @@
+Cloudpost
+Land — Locus
+Cloudpost enters the battlefield tapped.
+{T}: Add {C} to your mana pool for each Locus on the battlefield.

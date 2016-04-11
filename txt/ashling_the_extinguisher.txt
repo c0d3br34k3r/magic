@@ -1,0 +1,4 @@
+Ashling, the Extinguisher {2}{B}{B}
+Legendary Creature — Elemental Shaman
+Whenever Ashling, the Extinguisher deals combat damage to a player, choose target creature that player controls. He or she sacrifices that creature.
+4/4

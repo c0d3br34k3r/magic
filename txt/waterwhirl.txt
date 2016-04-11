@@ -1,0 +1,3 @@
+Waterwhirl {4}{U}{U}
+Instant
+Return up to two target creatures to their owners' hands.

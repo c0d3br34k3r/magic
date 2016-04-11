@@ -1,0 +1,4 @@
+Nightstalker Engine {4}{B}
+Creature — Nightstalker
+Nightstalker Engine's power is equal to the number of creature cards in your graveyard.
+*/3

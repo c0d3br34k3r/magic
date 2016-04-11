@@ -1,0 +1,4 @@
+Stromkirk Mentor {3}{B}
+Creature — Vampire Soldier
+When Stromkirk Mentor enters the battlefield, put a +1/+1 counter on another target Vampire you control.
+4/2

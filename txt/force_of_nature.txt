@@ -1,0 +1,5 @@
+Force of Nature {2}{G}{G}{G}{G}
+Creature — Elemental
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+8/8

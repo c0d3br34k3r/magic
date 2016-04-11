@@ -1,0 +1,4 @@
+Harsh Justice {2}{W}
+Instant
+Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.
+This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.

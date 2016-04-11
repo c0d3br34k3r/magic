@@ -1,0 +1,4 @@
+Orcish Cannoneers {1}{R}{R}
+Creature — Orc Warrior
+{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.
+1/3

@@ -1,0 +1,5 @@
+Traproot Kami {G}
+Creature — Spirit
+Defender; reach (This creature can block creatures with flying.)
+Traproot Kami's toughness is equal to the number of Forests on the battlefield.
+0/*

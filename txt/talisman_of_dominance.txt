@@ -1,0 +1,4 @@
+Talisman of Dominance {2}
+Artifact
+{T}: Add {C} to your mana pool.
+{T}: Add {U} or {B} to your mana pool. Talisman of Dominance deals 1 damage to you.

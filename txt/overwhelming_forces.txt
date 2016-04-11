@@ -1,0 +1,3 @@
+Overwhelming Forces {6}{B}{B}
+Sorcery
+Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.

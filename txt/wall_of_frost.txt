@@ -1,0 +1,5 @@
+Wall of Frost {1}{U}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+0/7

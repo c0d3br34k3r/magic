@@ -1,0 +1,4 @@
+Peregrine Mask {1}
+Artifact — Equipment
+Equipped creature has defender, flying, and first strike.
+Equip {2}

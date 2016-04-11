@@ -1,0 +1,4 @@
+Seaside Citadel
+Land
+Seaside Citadel enters the battlefield tapped.
+{T}: Add {G}, {W}, or {U} to your mana pool.

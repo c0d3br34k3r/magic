@@ -1,0 +1,5 @@
+Darksteel Plate {3}
+Artifact — Equipment
+Indestructible
+Equipped creature has indestructible.
+Equip {2}

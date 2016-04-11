@@ -1,0 +1,3 @@
+Rethink {2}{U}
+Instant
+Counter target spell unless its controller pays {X}, where X is its converted mana cost.

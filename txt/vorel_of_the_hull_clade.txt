@@ -1,0 +1,4 @@
+Vorel of the Hull Clade {1}{U}{G}
+Legendary Creature — Human Merfolk
+{G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.
+1/4

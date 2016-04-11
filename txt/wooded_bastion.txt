@@ -1,0 +1,4 @@
+Wooded Bastion
+Land
+{T}: Add {C} to your mana pool.
+{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W} to your mana pool.

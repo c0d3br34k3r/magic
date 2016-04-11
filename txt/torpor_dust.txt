@@ -1,0 +1,5 @@
+Torpor Dust {2}{U/B}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets -3/-0.

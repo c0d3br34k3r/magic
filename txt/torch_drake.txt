@@ -1,0 +1,5 @@
+Torch Drake {3}{U}
+Creature — Drake
+Flying
+{1}{R}: Torch Drake gets +1/+0 until end of turn.
+2/2

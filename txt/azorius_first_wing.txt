@@ -1,0 +1,4 @@
+Azorius First-Wing {W}{U}
+Creature — Griffin
+Flying, protection from enchantments
+2/2

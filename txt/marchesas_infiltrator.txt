@@ -1,0 +1,5 @@
+Marchesa's Infiltrator {2}{U}
+Creature — Human Rogue
+Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+Whenever Marchesa's Infiltrator deals combat damage to a player, draw a card.
+1/1

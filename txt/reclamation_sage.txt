@@ -1,0 +1,4 @@
+Reclamation Sage {2}{G}
+Creature — Elf Shaman
+When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.
+2/1

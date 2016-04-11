@@ -1,0 +1,5 @@
+Cao Ren, Wei Commander {2}{B}{B}
+Legendary Creature — Human Soldier Warrior
+Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Cao Ren, Wei Commander enters the battlefield, you lose 3 life.
+3/3

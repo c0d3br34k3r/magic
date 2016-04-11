@@ -1,0 +1,9 @@
+Grizzled Outcasts {4}{G}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.
+4/4
+* DOUBLE-FACED *
+Krallenhorde Wantons
+(G) Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.
+7/7

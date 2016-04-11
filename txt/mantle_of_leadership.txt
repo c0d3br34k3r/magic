@@ -1,0 +1,5 @@
+Mantle of Leadership {1}{W}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Whenever a creature enters the battlefield, enchanted creature gets +2/+2 until end of turn.

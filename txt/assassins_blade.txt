@@ -1,0 +1,4 @@
+Assassin's Blade {1}{B}
+Instant
+Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.
+Destroy target nonblack attacking creature.

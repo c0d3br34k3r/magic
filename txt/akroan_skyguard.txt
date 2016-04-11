@@ -1,0 +1,5 @@
+Akroan Skyguard {1}{W}
+Creature — Human Soldier
+Flying
+Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard.
+1/1

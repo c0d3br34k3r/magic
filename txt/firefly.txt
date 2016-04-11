@@ -1,0 +1,5 @@
+Firefly {3}{R}
+Creature — Insect
+Flying
+{R}: Firefly gets +1/+0 until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Diviner Spirit {4}{U}
+Creature — Spirit
+Whenever Diviner Spirit deals combat damage to a player, you and that player each draw that many cards.
+2/4

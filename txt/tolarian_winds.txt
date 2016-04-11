@@ -1,0 +1,3 @@
+Tolarian Winds {1}{U}
+Instant
+Discard all the cards in your hand, then draw that many cards.

@@ -1,0 +1,4 @@
+Akroma, Angel of Wrath {5}{W}{W}{W}
+Legendary Creature — Angel
+Flying, first strike, vigilance, trample, haste, protection from black and from red
+6/6

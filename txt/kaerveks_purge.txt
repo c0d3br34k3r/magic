@@ -1,0 +1,3 @@
+Kaervek's Purge {X}{B}{R}
+Sorcery
+Destroy target creature with converted mana cost X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.

@@ -1,0 +1,3 @@
+Obelisk of Esper {3}
+Artifact
+{T}: Add {W}, {U}, or {B} to your mana pool.

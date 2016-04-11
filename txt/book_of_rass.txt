@@ -1,0 +1,3 @@
+Book of Rass {6}
+Artifact
+{2}, Pay 2 life: Draw a card.

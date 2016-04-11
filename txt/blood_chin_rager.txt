@@ -1,0 +1,4 @@
+Blood-Chin Rager {1}{B}
+Creature — Human Warrior
+Whenever Blood-Chin Rager attacks, Warrior creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)
+2/2

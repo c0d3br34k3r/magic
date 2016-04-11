@@ -1,0 +1,6 @@
+Skizzik {3}{R}
+Creature — Elemental
+Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Trample, haste
+At the beginning of the end step, sacrifice Skizzik unless it was kicked.
+5/3

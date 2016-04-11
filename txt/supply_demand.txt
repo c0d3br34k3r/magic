@@ -1,0 +1,7 @@
+Supply {X}{W}{G}
+Sorcery
+Put X 1/1 green Saproling creature tokens onto the battlefield.
+* SPLIT *
+Demand {1}{W}{U}
+Sorcery
+Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library.

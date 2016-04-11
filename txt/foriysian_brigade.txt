@@ -1,0 +1,4 @@
+Foriysian Brigade {3}{W}
+Creature — Human Soldier
+Foriysian Brigade can block an additional creature.
+2/4

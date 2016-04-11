@@ -1,0 +1,5 @@
+Oona's Gatewarden {U/B}
+Creature — Faerie Soldier
+Defender, flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+2/1

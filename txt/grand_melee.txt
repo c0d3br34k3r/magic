@@ -1,0 +1,4 @@
+Grand Melee {3}{R}
+Enchantment
+All creatures attack each turn if able.
+All creatures block each turn if able.

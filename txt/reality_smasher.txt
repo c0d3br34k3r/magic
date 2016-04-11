@@ -1,0 +1,6 @@
+Reality Smasher {4}{C}
+Creature — Eldrazi
+({C} represents colorless mana.)
+Trample, haste
+Whenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.
+5/5

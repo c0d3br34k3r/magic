@@ -1,0 +1,3 @@
+Sylvan Tutor {G}
+Sorcery
+Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.

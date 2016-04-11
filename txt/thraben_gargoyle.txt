@@ -1,0 +1,10 @@
+Thraben Gargoyle {1}
+Artifact Creature — Gargoyle
+Defender
+{6}: Transform Thraben Gargoyle.
+2/2
+* DOUBLE-FACED *
+Stonewing Antagonizer
+Artifact Creature — Gargoyle Horror
+Flying
+4/2

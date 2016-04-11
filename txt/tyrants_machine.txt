@@ -1,0 +1,3 @@
+Tyrant's Machine {2}
+Artifact
+{4}, {T}: Tap target creature.

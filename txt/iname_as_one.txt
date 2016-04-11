@@ -1,0 +1,5 @@
+Iname as One {8}{B}{B}{G}{G}
+Legendary Creature — Spirit
+When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle your library.
+When Iname as One dies, you may exile it. If you do, return target Spirit permanent card from your graveyard to the battlefield.
+8/8

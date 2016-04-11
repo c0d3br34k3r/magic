@@ -1,0 +1,4 @@
+Kukemssa Pirates {3}{U}
+Creature — Human Pirate
+Whenever Kukemssa Pirates attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates assigns no combat damage this turn.
+2/2

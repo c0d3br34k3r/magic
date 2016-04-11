@@ -1,0 +1,3 @@
+Vessel of Malignity {1}{B}
+Enchantment
+{1}{B}, Sacrifice Vessel of Malignity: Target opponent exiles two cards from his or her hand. Activate this ability only any time you could cast a sorcery.

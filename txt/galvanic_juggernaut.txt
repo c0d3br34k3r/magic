@@ -1,0 +1,6 @@
+Galvanic Juggernaut {4}
+Artifact Creature — Juggernaut
+Galvanic Juggernaut attacks each turn if able.
+Galvanic Juggernaut doesn't untap during your untap step.
+Whenever another creature dies, untap Galvanic Juggernaut.
+5/5

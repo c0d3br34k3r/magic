@@ -1,0 +1,5 @@
+War Elemental {R}{R}{R}
+Creature — Elemental
+When War Elemental enters the battlefield, sacrifice it unless an opponent was dealt damage this turn.
+Whenever an opponent is dealt damage, put that many +1/+1 counters on War Elemental.
+1/1

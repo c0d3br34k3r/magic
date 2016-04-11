@@ -1,0 +1,3 @@
+Lim-Dûl's Hex {1}{B}
+Enchantment
+At the beginning of your upkeep, for each player, Lim-Dûl's Hex deals 1 damage to that player unless he or she pays {B} or {3}.

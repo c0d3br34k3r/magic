@@ -1,0 +1,3 @@
+Seed Spark {3}{W}
+Instant
+Destroy target artifact or enchantment. If {G} was spent to cast Seed Spark, put two 1/1 green Saproling creature tokens onto the battlefield.

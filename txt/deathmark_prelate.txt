@@ -1,0 +1,4 @@
+Deathmark Prelate {3}{B}
+Creature — Human Cleric
+{2}{B}, {T}, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate this ability only any time you could cast a sorcery.
+2/3

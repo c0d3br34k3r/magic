@@ -1,0 +1,4 @@
+Marisi's Twinclaws {2}{R/W}{G}
+Creature — Cat Warrior
+Double strike
+2/4

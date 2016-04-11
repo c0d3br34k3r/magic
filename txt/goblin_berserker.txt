@@ -1,0 +1,4 @@
+Goblin Berserker {3}{R}
+Creature — Goblin Berserker
+First strike, haste
+2/2

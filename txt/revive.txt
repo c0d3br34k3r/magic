@@ -1,0 +1,3 @@
+Revive {1}{G}
+Sorcery
+Return target green card from your graveyard to your hand.

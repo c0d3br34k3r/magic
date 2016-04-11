@@ -1,0 +1,4 @@
+Setessan Battle Priest {1}{W}
+Creature — Human Cleric
+Heroic — Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.
+1/3

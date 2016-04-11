@@ -1,0 +1,4 @@
+Jacques le Vert {1}{W}{R}{G}
+Legendary Creature — Human Warrior
+Green creatures you control get +0/+2.
+3/2

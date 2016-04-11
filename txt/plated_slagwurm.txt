@@ -1,0 +1,4 @@
+Plated Slagwurm {4}{G}{G}{G}
+Creature — Wurm
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+8/8

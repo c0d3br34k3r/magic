@@ -1,0 +1,4 @@
+Scab-Clan Giant {4}{R}{G}
+Creature — Giant Warrior
+When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.
+4/5

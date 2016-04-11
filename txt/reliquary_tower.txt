@@ -1,0 +1,4 @@
+Reliquary Tower
+Land
+You have no maximum hand size.
+{T}: Add {C} to your mana pool.

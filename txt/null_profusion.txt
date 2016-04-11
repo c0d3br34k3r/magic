@@ -1,0 +1,5 @@
+Null Profusion {4}{B}{B}
+Enchantment
+Skip your draw step.
+Whenever you play a card, draw a card.
+Your maximum hand size is two.

@@ -1,0 +1,6 @@
+Iona, Shield of Emeria {6}{W}{W}{W}
+Legendary Creature — Angel
+Flying
+As Iona, Shield of Emeria enters the battlefield, choose a color.
+Your opponents can't cast spells of the chosen color.
+7/7

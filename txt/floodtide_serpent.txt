@@ -1,0 +1,4 @@
+Floodtide Serpent {4}{U}
+Creature — Serpent
+Floodtide Serpent can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)
+4/4

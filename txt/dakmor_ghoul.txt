@@ -1,0 +1,4 @@
+Dakmor Ghoul {2}{B}{B}
+Creature — Zombie
+When Dakmor Ghoul enters the battlefield, target opponent loses 2 life and you gain 2 life.
+2/2

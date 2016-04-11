@@ -1,0 +1,5 @@
+Graypelt Refuge
+Land
+Graypelt Refuge enters the battlefield tapped.
+When Graypelt Refuge enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.

@@ -1,0 +1,4 @@
+Shocker {1}{R}
+Creature — Insect
+Whenever Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.
+1/1

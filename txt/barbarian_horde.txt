@@ -1,0 +1,3 @@
+Barbarian Horde {3}{R}
+Creature — Human Barbarian Soldier
+3/3

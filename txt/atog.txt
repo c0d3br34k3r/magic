@@ -1,0 +1,4 @@
+Atog {1}{R}
+Creature — Atog
+Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+1/2

@@ -1,0 +1,4 @@
+Worn Powerstone {3}
+Artifact
+Worn Powerstone enters the battlefield tapped.
+{T}: Add {C}{C} to your mana pool.

@@ -1,0 +1,3 @@
+Helm of Awakening {2}
+Artifact
+Spells cost {1} less to cast.

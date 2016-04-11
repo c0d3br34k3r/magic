@@ -1,0 +1,5 @@
+Nantuko Blightcutter {2}{G}
+Creature — Insect Druid
+Protection from black
+Threshold — Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.
+2/2

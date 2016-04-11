@@ -1,0 +1,5 @@
+Wizard Replica {3}
+Artifact Creature — Wizard
+Flying
+{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}.
+1/3

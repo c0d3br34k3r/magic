@@ -1,0 +1,4 @@
+Knotvine Paladin {W}{G}
+Creature — Human Knight
+Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+2/2

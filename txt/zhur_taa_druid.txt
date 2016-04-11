@@ -1,0 +1,5 @@
+Zhur-Taa Druid {R}{G}
+Creature — Human Druid
+{T}: Add {G} to your mana pool.
+Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+1/1

@@ -1,0 +1,5 @@
+Exuberant Firestoker {2}{R}
+Creature — Human Druid Shaman
+At the beginning of your end step, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player.
+{T}: Add {C} to your mana pool.
+1/1

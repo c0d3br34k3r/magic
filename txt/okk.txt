@@ -1,0 +1,5 @@
+Okk {1}{R}
+Creature — Goblin
+Okk can't attack unless a creature with greater power also attacks.
+Okk can't block unless a creature with greater power also blocks.
+4/4

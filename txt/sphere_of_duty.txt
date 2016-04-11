@@ -1,0 +1,3 @@
+Sphere of Duty {3}{W}
+Enchantment
+If a green source would deal damage to you, prevent 2 of that damage.

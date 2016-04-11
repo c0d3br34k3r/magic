@@ -1,0 +1,3 @@
+Giant Octopus {3}{U}
+Creature — Octopus
+3/3

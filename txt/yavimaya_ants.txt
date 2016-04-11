@@ -1,0 +1,5 @@
+Yavimaya Ants {2}{G}{G}
+Creature — Insect
+Trample, haste
+Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+5/1

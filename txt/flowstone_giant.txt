@@ -1,0 +1,4 @@
+Flowstone Giant {2}{R}{R}
+Creature — Giant
+{R}: Flowstone Giant gets +2/-2 until end of turn.
+3/3

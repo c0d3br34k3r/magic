@@ -1,0 +1,4 @@
+River Merfolk {U}{U}
+Creature — Merfolk
+{U}: River Merfolk gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)
+2/1

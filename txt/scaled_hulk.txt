@@ -1,0 +1,4 @@
+Scaled Hulk {5}{G}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, Scaled Hulk gets +2/+2 until end of turn.
+4/4

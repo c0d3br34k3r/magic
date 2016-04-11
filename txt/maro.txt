@@ -1,0 +1,4 @@
+Maro {2}{G}{G}
+Creature — Elemental
+Maro's power and toughness are each equal to the number of cards in your hand.
+*/*

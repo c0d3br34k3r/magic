@@ -1,0 +1,4 @@
+Marsh Viper {3}{G}
+Creature — Snake
+Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)
+1/2

@@ -1,0 +1,5 @@
+Fluxcharger {2}{U}{R}
+Creature — Weird
+Flying
+Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
+1/5

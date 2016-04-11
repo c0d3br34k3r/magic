@@ -1,0 +1,5 @@
+Wall of Omens {1}{W}
+Creature — Wall
+Defender
+When Wall of Omens enters the battlefield, draw a card.
+0/4

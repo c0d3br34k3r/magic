@@ -1,0 +1,4 @@
+Saddleback Lagac {3}{G}
+Creature — Lizard
+When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)
+3/1

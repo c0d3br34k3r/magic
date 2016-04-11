@@ -1,0 +1,6 @@
+Trickery Charm {U}
+Instant
+Choose one —
+• Target creature gains flying until end of turn.
+• Target creature becomes the creature type of your choice until end of turn.
+• Look at the top four cards of your library, then put them back in any order.

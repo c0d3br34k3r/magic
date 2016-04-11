@@ -1,0 +1,4 @@
+Zhur-Taa Ancient {3}{R}{G}
+Creature — Beast
+Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+7/5

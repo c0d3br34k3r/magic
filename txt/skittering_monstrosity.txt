@@ -1,0 +1,4 @@
+Skittering Monstrosity {3}{B}{B}
+Creature — Horror
+When you cast a creature spell, sacrifice Skittering Monstrosity.
+5/5

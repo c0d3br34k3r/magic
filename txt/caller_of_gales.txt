@@ -1,0 +1,4 @@
+Caller of Gales {U}
+Creature — Merfolk Wizard
+{1}{U}, {T}: Target creature gains flying until end of turn.
+1/1

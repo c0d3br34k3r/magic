@@ -1,0 +1,4 @@
+Guma {2}{R}
+Creature — Cat
+Protection from blue
+2/2

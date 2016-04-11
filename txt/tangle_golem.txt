@@ -1,0 +1,4 @@
+Tangle Golem {7}
+Artifact Creature — Golem
+Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)
+5/4

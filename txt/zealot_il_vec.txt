@@ -1,0 +1,5 @@
+Zealot il-Vec {2}{W}
+Creature — Human Rebel
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Zealot il-Vec attacks and isn't blocked, you may have it deal 1 damage to target creature. If you do, prevent all combat damage Zealot il-Vec would deal this turn.
+1/1

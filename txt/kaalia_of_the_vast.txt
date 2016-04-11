@@ -1,0 +1,5 @@
+Kaalia of the Vast {1}{W}{B}{R}
+Legendary Creature — Human Cleric
+Flying
+Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.
+2/2

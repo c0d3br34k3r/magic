@@ -1,0 +1,6 @@
+Crosis's Charm {U}{B}{R}
+Instant
+Choose one —
+• Return target permanent to its owner's hand.
+• Destroy target nonblack creature. It can't be regenerated.
+• Destroy target artifact.

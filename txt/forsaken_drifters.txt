@@ -1,0 +1,4 @@
+Forsaken Drifters {3}{B}
+Creature — Zombie
+When Forsaken Drifters dies, put the top four cards of your library into your graveyard.
+4/2

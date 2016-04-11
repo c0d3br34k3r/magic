@@ -1,0 +1,3 @@
+Mind Over Matter {2}{U}{U}{U}{U}
+Enchantment
+Discard a card: You may tap or untap target artifact, creature, or land.

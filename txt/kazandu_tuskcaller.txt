@@ -1,0 +1,10 @@
+Kazandu Tuskcaller {1}{G}
+Creature — Human Shaman
+Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-5
+1/1
+{T}: Put a 3/3 green Elephant creature token onto the battlefield.
+LEVEL 6+
+1/1
+{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
+1/1

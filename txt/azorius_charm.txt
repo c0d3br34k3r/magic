@@ -1,0 +1,6 @@
+Azorius Charm {W}{U}
+Instant
+Choose one —
+• Creatures you control gain lifelink until end of turn.
+• Draw a card.
+• Put target attacking or blocking creature on top of its owner's library.

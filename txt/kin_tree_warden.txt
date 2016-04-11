@@ -1,0 +1,5 @@
+Kin-Tree Warden {G}
+Creature — Human Warrior
+{2}: Regenerate Kin-Tree Warden.
+Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/1

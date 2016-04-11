@@ -1,0 +1,5 @@
+Aven Augur {3}{U}
+Creature — Bird Wizard
+Flying
+Sacrifice Aven Augur: Return up to two target creatures to their owners' hands. Activate this ability only during your upkeep.
+2/2

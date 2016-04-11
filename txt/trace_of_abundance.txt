@@ -1,0 +1,5 @@
+Trace of Abundance {R/W}{G}
+Enchantment — Aura
+Enchant land
+Enchanted land has shroud. (It can't be the target of spells or abilities.)
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).

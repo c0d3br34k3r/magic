@@ -1,0 +1,4 @@
+Plasma Elemental {5}{U}
+Creature — Elemental
+Plasma Elemental can't be blocked.
+4/1

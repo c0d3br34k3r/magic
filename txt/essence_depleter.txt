@@ -1,0 +1,5 @@
+Essence Depleter {2}{B}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{1}{C}: Target opponent loses 1 life and you gain 1 life. ({C} represents colorless mana.)
+2/3

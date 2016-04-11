@@ -1,0 +1,3 @@
+Midnight Ritual {X}{2}{B}
+Sorcery
+Exile X target creature cards from your graveyard. For each creature card exiled this way, put a 2/2 black Zombie creature token onto the battlefield.

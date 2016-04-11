@@ -1,0 +1,5 @@
+Junk Diver {3}
+Artifact Creature — Bird
+Flying
+When Junk Diver dies, return another target artifact card from your graveyard to your hand.
+1/1

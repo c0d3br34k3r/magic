@@ -1,0 +1,4 @@
+Kataki, War's Wage {1}{W}
+Legendary Creature — Spirit
+All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."
+2/1

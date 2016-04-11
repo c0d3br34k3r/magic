@@ -1,0 +1,4 @@
+Quicksilver Gargantuan {5}{U}{U}
+Creature — Shapeshifter
+You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.
+7/7

@@ -1,0 +1,4 @@
+Nemesis of Reason {3}{U}{B}
+Creature — Leviathan Horror
+Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.
+3/7

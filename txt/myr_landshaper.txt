@@ -1,0 +1,4 @@
+Myr Landshaper {3}
+Artifact Creature — Myr
+{T}: Target land becomes an artifact in addition to its other types until end of turn.
+1/1

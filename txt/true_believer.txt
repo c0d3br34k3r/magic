@@ -1,0 +1,4 @@
+True Believer {W}{W}
+Creature — Human Cleric
+You have shroud. (You can't be the target of spells or abilities.)
+2/2

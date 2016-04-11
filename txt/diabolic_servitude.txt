@@ -1,0 +1,5 @@
+Diabolic Servitude {3}{B}
+Enchantment
+When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.
+When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.
+When Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.

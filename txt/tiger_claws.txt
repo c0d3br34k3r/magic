@@ -1,0 +1,5 @@
+Tiger Claws {2}{G}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has trample.

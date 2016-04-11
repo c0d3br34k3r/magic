@@ -1,0 +1,4 @@
+Bogbrew Witch {3}{B}
+Creature — Human Wizard
+{2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+1/3

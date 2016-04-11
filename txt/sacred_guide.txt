@@ -1,0 +1,4 @@
+Sacred Guide {W}
+Creature — Human Cleric
+{1}{W}, Sacrifice Sacred Guide: Reveal cards from the top of your library until you reveal a white card. Put that card into your hand and exile all other cards revealed this way.
+1/1

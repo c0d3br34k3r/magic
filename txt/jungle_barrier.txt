@@ -1,0 +1,5 @@
+Jungle Barrier {2}{U}{G}
+Creature — Plant Wall
+Defender (This creature can't attack.)
+When Jungle Barrier enters the battlefield, draw a card.
+2/6

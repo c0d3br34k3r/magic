@@ -1,0 +1,3 @@
+Land Equilibrium {2}{U}{U}
+Enchantment
+If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.

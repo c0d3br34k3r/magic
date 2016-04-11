@@ -1,0 +1,4 @@
+Kjeldoran Royal Guard {3}{W}{W}
+Creature — Human Soldier
+{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.
+2/5

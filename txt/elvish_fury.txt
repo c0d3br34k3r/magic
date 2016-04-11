@@ -1,0 +1,4 @@
+Elvish Fury {G}
+Instant
+Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature gets +2/+2 until end of turn.

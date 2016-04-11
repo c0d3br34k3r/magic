@@ -1,0 +1,4 @@
+Treasure Hunter {2}{W}
+Creature — Human
+When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.
+2/2

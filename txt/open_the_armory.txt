@@ -1,0 +1,3 @@
+Open the Armory {1}{W}
+Sorcery
+Search your library for an Aura or Equipment card, reveal it, and put it into your hand. Then shuffle your library.

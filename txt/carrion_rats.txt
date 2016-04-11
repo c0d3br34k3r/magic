@@ -1,0 +1,4 @@
+Carrion Rats {B}
+Creature — Rat
+Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.
+2/1

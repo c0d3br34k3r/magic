@@ -1,0 +1,4 @@
+Angelic Purge {2}{W}
+Sorcery
+As an additional cost to cast Angelic Purge, sacrifice a permanent.
+Exile target artifact, creature, or enchantment.

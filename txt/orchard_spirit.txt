@@ -1,0 +1,4 @@
+Orchard Spirit {2}{G}
+Creature — Spirit
+Orchard Spirit can't be blocked except by creatures with flying or reach.
+2/2

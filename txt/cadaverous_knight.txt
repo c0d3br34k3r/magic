@@ -1,0 +1,5 @@
+Cadaverous Knight {2}{B}
+Creature — Zombie Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{1}{B}{B}: Regenerate Cadaverous Knight.
+2/2

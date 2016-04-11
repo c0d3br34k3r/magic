@@ -1,0 +1,5 @@
+Utopia Sprawl {G}
+Enchantment — Aura
+Enchant Forest
+As Utopia Sprawl enters the battlefield, choose a color.
+Whenever enchanted Forest is tapped for mana, its controller adds one mana of the chosen color to his or her mana pool (in addition to the mana the land produces).

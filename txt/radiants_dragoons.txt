@@ -1,0 +1,5 @@
+Radiant's Dragoons {3}{W}
+Creature — Human Soldier
+Echo {3}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Radiant's Dragoons enters the battlefield, you gain 5 life.
+2/5

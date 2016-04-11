@@ -1,0 +1,4 @@
+Onyx Mage {1}{B}
+Creature — Human Wizard
+{1}{B}: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+2/1

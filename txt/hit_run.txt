@@ -1,0 +1,7 @@
+Hit {1}{B}{R}
+Instant
+Target player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's converted mana cost.
+* SPLIT *
+Run {3}{R}{G}
+Instant
+Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.

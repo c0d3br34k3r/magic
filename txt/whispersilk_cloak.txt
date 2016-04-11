@@ -1,0 +1,4 @@
+Whispersilk Cloak {3}
+Artifact — Equipment
+Equipped creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)
+Equip {2}

@@ -1,0 +1,3 @@
+Ill-Gotten Gains {2}{B}{B}
+Sorcery
+Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.

@@ -1,0 +1,5 @@
+Tinder Farm
+Land
+Tinder Farm enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}, Sacrifice Tinder Farm: Add {R}{W} to your mana pool.

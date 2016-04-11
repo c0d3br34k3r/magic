@@ -1,0 +1,4 @@
+Labyrinth Minotaur {3}{U}
+Creature — Minotaur
+Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.
+1/4

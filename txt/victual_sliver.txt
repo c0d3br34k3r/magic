@@ -1,0 +1,4 @@
+Victual Sliver {W}{G}
+Creature — Sliver
+All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."
+2/2

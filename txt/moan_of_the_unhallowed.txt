@@ -1,0 +1,4 @@
+Moan of the Unhallowed {2}{B}{B}
+Sorcery
+Put two 2/2 black Zombie creature tokens onto the battlefield.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

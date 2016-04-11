@@ -1,0 +1,4 @@
+Overlaid Terrain {2}{G}{G}
+Enchantment
+As Overlaid Terrain enters the battlefield, sacrifice all lands you control.
+Lands you control have "{T}: Add two mana of any one color to your mana pool."

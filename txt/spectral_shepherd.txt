@@ -1,0 +1,5 @@
+Spectral Shepherd {2}{W}
+Creature — Spirit
+Flying
+{1}{U}: Return target Spirit you control to its owner's hand.
+2/2

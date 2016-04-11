@@ -1,0 +1,5 @@
+Ancestor's Chosen {5}{W}{W}
+Creature — Human Cleric
+First strike (This creature deals combat damage before creatures without first strike.)
+When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.
+4/4

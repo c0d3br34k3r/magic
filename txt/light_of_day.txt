@@ -1,0 +1,3 @@
+Light of Day {3}{W}
+Enchantment
+Black creatures can't attack or block.

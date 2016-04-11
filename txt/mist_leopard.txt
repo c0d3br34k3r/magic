@@ -1,0 +1,4 @@
+Mist Leopard {3}{G}
+Creature — Cat
+Shroud (This creature can't be the target of spells or abilities.)
+3/2

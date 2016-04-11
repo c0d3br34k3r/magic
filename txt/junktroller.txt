@@ -1,0 +1,5 @@
+Junktroller {4}
+Artifact Creature — Golem
+Defender (This creature can't attack.)
+{T}: Put target card from a graveyard on the bottom of its owner's library.
+0/6

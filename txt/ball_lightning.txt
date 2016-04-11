@@ -1,0 +1,6 @@
+Ball Lightning {R}{R}{R}
+Creature — Elemental
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.
+6/1

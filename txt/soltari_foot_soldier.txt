@@ -1,0 +1,4 @@
+Soltari Foot Soldier {W}
+Creature — Soltari Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+1/1

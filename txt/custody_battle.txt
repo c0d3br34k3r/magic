@@ -1,0 +1,4 @@
+Custody Battle {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "At the beginning of your upkeep, target opponent gains control of this creature unless you sacrifice a land."

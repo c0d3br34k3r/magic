@@ -1,0 +1,6 @@
+Visions of Brutality {1}{B}
+Enchantment — Aura
+Devoid (This card has no color.)
+Enchant creature
+Enchanted creature can't block.
+Whenever enchanted creature deals damage, its controller loses that much life.

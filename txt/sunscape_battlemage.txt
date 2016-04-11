@@ -1,0 +1,6 @@
+Sunscape Battlemage {2}{W}
+Creature — Human Wizard
+Kicker {1}{G} and/or {2}{U} (You may pay an additional {1}{G} and/or {2}{U} as you cast this spell.)
+When Sunscape Battlemage enters the battlefield, if it was kicked with its {1}{G} kicker, destroy target creature with flying.
+When Sunscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, draw two cards.
+2/2

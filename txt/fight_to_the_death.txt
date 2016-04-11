@@ -1,0 +1,3 @@
+Fight to the Death {W}{R}
+Instant
+Destroy all blocking creatures and all blocked creatures.

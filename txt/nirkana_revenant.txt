@@ -1,0 +1,5 @@
+Nirkana Revenant {4}{B}{B}
+Creature — Vampire Shade
+Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).
+{B}: Nirkana Revenant gets +1/+1 until end of turn.
+4/4

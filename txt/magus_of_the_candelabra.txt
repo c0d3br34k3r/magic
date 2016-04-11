@@ -1,0 +1,4 @@
+Magus of the Candelabra {G}
+Creature — Human Wizard
+{X}, {T}: Untap X target lands.
+1/2

@@ -1,0 +1,4 @@
+Ubul Sar Gatekeepers {3}{B}
+Creature — Zombie Soldier
+When Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn.
+2/4

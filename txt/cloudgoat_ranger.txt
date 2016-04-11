@@ -1,0 +1,5 @@
+Cloudgoat Ranger {3}{W}{W}
+Creature — Giant Warrior
+When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.
+Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.
+3/3

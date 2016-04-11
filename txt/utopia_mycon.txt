@@ -1,0 +1,6 @@
+Utopia Mycon {G}
+Creature — Fungus
+At the beginning of your upkeep, put a spore counter on Utopia Mycon.
+Remove three spore counters from Utopia Mycon: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Add one mana of any color to your mana pool.
+0/2

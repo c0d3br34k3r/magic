@@ -1,0 +1,5 @@
+Noble Vestige {2}{W}
+Creature — Spirit
+Flying
+{T}: Prevent the next 1 damage that would be dealt to target player this turn.
+1/2

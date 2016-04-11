@@ -1,0 +1,3 @@
+Insurrection {5}{R}{R}{R}
+Sorcery
+Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.

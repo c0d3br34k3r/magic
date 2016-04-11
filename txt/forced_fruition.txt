@@ -1,0 +1,3 @@
+Forced Fruition {4}{U}{U}
+Enchantment
+Whenever an opponent casts a spell, that player draws seven cards.

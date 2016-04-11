@@ -1,0 +1,4 @@
+Mardu Woe-Reaper {W}
+Creature — Human Warrior
+Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life.
+2/1

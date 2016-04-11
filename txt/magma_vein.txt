@@ -1,0 +1,3 @@
+Magma Vein {2}{R}
+Enchantment
+{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying.

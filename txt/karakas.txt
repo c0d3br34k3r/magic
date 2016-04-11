@@ -1,0 +1,4 @@
+Karakas
+Legendary Land
+{T}: Add {W} to your mana pool.
+{T}: Return target legendary creature to its owner's hand.

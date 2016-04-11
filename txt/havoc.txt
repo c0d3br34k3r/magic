@@ -1,0 +1,3 @@
+Havoc {1}{R}
+Enchantment
+Whenever an opponent casts a white spell, he or she loses 2 life.

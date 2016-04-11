@@ -1,0 +1,5 @@
+Vandalize {4}{R}
+Sorcery
+Choose one or both —
+• Destroy target artifact.
+• Destroy target land.

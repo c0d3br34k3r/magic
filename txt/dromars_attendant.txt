@@ -1,0 +1,4 @@
+Dromar's Attendant {5}
+Artifact Creature — Golem
+{1}, Sacrifice Dromar's Attendant: Add {W}{U}{B} to your mana pool.
+3/3

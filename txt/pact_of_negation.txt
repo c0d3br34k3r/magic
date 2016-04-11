@@ -1,0 +1,4 @@
+Pact of Negation {0}
+(U) Instant
+Counter target spell.
+At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.

@@ -1,0 +1,5 @@
+Boggart Arsonists {2}{R}
+Creature — Goblin Rogue
+Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)
+{2}{R}, Sacrifice Boggart Arsonists: Destroy target Scarecrow or Plains.
+2/1

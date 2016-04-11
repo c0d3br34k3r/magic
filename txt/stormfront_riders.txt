@@ -1,0 +1,6 @@
+Stormfront Riders {4}{W}
+Creature — Human Soldier
+Flying
+When Stormfront Riders enters the battlefield, return two creatures you control to their owner's hand.
+Whenever Stormfront Riders or another creature is returned to your hand from the battlefield, put a 1/1 white Soldier creature token onto the battlefield.
+4/3

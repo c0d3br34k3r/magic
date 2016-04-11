@@ -1,0 +1,4 @@
+Flaring Pain {1}{R}
+Instant
+Damage can't be prevented this turn.
+Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

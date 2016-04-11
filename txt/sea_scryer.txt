@@ -1,0 +1,5 @@
+Sea Scryer {1}{U}
+Creature — Merfolk Wizard
+{T}: Add {C} to your mana pool.
+{1}, {T}: Add {U} to your mana pool.
+1/1

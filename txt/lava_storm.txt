@@ -1,0 +1,3 @@
+Lava Storm {3}{R}{R}
+Instant
+Lava Storm deals 2 damage to each attacking creature or Lava Storm deals 2 damage to each blocking creature.

@@ -1,0 +1,6 @@
+Karametra, God of Harvests {3}{W}{G}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to green and white is less than seven, Karametra isn't a creature.
+Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library.
+6/7

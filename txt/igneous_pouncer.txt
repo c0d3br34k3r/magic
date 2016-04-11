@@ -1,0 +1,5 @@
+Igneous Pouncer {4}{B}{R}
+Creature — Elemental
+Haste
+Swampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)
+5/1

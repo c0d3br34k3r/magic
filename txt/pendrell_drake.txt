@@ -1,0 +1,5 @@
+Pendrell Drake {3}{U}
+Creature — Drake
+Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)
+2/3

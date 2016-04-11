@@ -1,0 +1,4 @@
+Singing Tree {3}{G}
+Creature — Plant
+{T}: Target attacking creature has base power 0 until end of turn.
+0/3

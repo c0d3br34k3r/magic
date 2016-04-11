@@ -1,0 +1,3 @@
+Reciprocate {W}
+Instant
+Exile target creature that dealt damage to you this turn.

@@ -1,0 +1,3 @@
+Double Cleave {1}{R/W}
+Instant
+Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)

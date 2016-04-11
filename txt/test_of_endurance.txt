@@ -1,0 +1,3 @@
+Test of Endurance {2}{W}{W}
+Enchantment
+At the beginning of your upkeep, if you have 50 or more life, you win the game.

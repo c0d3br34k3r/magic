@@ -1,0 +1,5 @@
+Rot Farm Skeleton {2}{B}{G}
+Creature — Plant Skeleton
+Rot Farm Skeleton can't block.
+{2}{B}{G}, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+4/1

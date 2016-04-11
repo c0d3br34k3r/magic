@@ -1,0 +1,4 @@
+Tonic Peddler {1}{W}
+Creature — Human Spellshaper
+{W}, {T}, Discard a card: Target player gains 3 life.
+1/1

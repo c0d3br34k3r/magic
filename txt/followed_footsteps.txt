@@ -1,0 +1,4 @@
+Followed Footsteps {3}{U}{U}
+Enchantment — Aura
+Enchant creature
+At the beginning of your upkeep, put a token that's a copy of enchanted creature onto the battlefield.

@@ -1,0 +1,4 @@
+Magus of the Vineyard {G}
+Creature — Human Wizard
+At the beginning of each player's precombat main phase, add {G}{G} to that player's mana pool.
+1/1

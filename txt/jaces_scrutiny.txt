@@ -1,0 +1,4 @@
+Jace's Scrutiny {1}{U}
+Instant
+Target creature gets -4/-0 until end of turn.
+Investigate. (Put a colorless Clue artifact token onto the battlefield with "{2}, Sacrifice this artifact: Draw a card.")

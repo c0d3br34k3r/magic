@@ -1,0 +1,7 @@
+Stand {W}
+Instant
+Prevent the next 2 damage that would be dealt to target creature this turn.
+* SPLIT *
+Deliver {2}{U}
+Instant
+Return target permanent to its owner's hand.

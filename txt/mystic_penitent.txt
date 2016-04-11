@@ -1,0 +1,5 @@
+Mystic Penitent {W}
+Creature — Human Nomad Mystic
+Vigilance
+Threshold — As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.
+1/1

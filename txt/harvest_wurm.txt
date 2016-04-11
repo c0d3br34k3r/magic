@@ -1,0 +1,4 @@
+Harvest Wurm {1}{G}
+Creature — Wurm
+When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.
+3/2

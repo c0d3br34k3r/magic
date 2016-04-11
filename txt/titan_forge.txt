@@ -1,0 +1,4 @@
+Titan Forge {3}
+Artifact
+{3}, {T}: Put a charge counter on Titan Forge.
+{T}, Remove three charge counters from Titan Forge: Put a 9/9 colorless Golem artifact creature token onto the battlefield.

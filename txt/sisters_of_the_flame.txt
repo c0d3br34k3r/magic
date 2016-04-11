@@ -1,0 +1,4 @@
+Sisters of the Flame {1}{R}{R}
+Creature — Human Shaman
+{T}: Add {R} to your mana pool.
+2/2

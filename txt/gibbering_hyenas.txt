@@ -1,0 +1,4 @@
+Gibbering Hyenas {2}{G}
+Creature — Hyena
+Gibbering Hyenas can't block black creatures.
+3/2

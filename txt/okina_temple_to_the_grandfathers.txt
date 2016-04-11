@@ -1,0 +1,4 @@
+Okina, Temple to the Grandfathers
+Legendary Land
+{T}: Add {G} to your mana pool.
+{G}, {T}: Target legendary creature gets +1/+1 until end of turn.

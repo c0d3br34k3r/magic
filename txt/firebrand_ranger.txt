@@ -1,0 +1,4 @@
+Firebrand Ranger {1}{R}
+Creature — Human Soldier
+{G}, {T}: You may put a basic land card from your hand onto the battlefield.
+2/1

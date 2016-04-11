@@ -1,0 +1,4 @@
+Restless Dead {1}{B}
+Creature — Skeleton
+{B}: Regenerate Restless Dead.
+1/1

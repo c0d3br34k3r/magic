@@ -1,0 +1,4 @@
+Sparksmith {1}{R}
+Creature — Goblin
+{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.
+1/1

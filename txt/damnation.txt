@@ -1,0 +1,3 @@
+Damnation {2}{B}{B}
+Sorcery
+Destroy all creatures. They can't be regenerated.

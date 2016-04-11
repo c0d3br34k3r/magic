@@ -1,0 +1,5 @@
+Lust for War {2}{R}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller.
+Enchanted creature attacks each turn if able.

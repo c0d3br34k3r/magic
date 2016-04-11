@@ -1,0 +1,3 @@
+Glissa's Scorn {1}{G}
+Instant
+Destroy target artifact. Its controller loses 1 life.

@@ -1,0 +1,4 @@
+Sandcrafter Mage {2}{W}
+Creature — Human Wizard
+When Sandcrafter Mage enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+2/2

@@ -1,0 +1,5 @@
+Favorable Destiny {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2 as long as it's white.
+Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)

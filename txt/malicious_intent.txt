@@ -1,0 +1,4 @@
+Malicious Intent {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{T}: Target creature can't block this turn."

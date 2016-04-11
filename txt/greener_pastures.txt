@@ -1,0 +1,3 @@
+Greener Pastures {2}{G}
+Enchantment
+At the beginning of each player's upkeep, if that player controls more lands than each other player, the player puts a 1/1 green Saproling creature token onto the battlefield.

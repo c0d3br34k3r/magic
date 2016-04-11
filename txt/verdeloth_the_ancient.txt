@@ -1,0 +1,6 @@
+Verdeloth the Ancient {4}{G}{G}
+Legendary Creature — Treefolk
+Kicker {X} (You may pay an additional {X} as you cast this spell.)
+Saproling creatures and other Treefolk creatures get +1/+1.
+When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+4/7

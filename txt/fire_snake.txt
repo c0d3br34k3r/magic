@@ -1,0 +1,4 @@
+Fire Snake {4}{R}
+Creature — Snake
+When Fire Snake dies, destroy target land.
+3/1

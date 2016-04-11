@@ -1,0 +1,5 @@
+Hammerhand {R}
+Enchantment — Aura
+Enchant creature
+When Hammerhand enters the battlefield, target creature can't block this turn.
+Enchanted creature gets +1/+1 and has haste. (It can attack and {T} no matter when it came under your control.)

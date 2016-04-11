@@ -1,0 +1,5 @@
+Krosan Tusker {5}{G}{G}
+Creature — Boar Beast
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+6/5

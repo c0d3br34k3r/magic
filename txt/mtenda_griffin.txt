@@ -1,0 +1,5 @@
+Mtenda Griffin {3}{W}
+Creature — Griffin
+Flying
+{W}, {T}: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.
+2/2

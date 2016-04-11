@@ -1,0 +1,4 @@
+Neurok Replica {3}
+Artifact Creature — Wizard
+{1}{U}, Sacrifice Neurok Replica: Return target creature to its owner's hand.
+1/4

@@ -1,0 +1,3 @@
+Captain's Maneuver {X}{W}{R}
+Instant
+The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead.

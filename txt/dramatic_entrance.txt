@@ -1,0 +1,3 @@
+Dramatic Entrance {3}{G}{G}
+Instant
+You may put a green creature card from your hand onto the battlefield.

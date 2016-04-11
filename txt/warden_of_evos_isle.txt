@@ -1,0 +1,5 @@
+Warden of Evos Isle {2}{U}
+Creature — Bird Wizard
+Flying
+Creature spells with flying you cast cost {1} less to cast.
+2/2

@@ -1,0 +1,3 @@
+Mana Matrix {6}
+Artifact
+Instant and enchantment spells you cast cost up to {2} less to cast.

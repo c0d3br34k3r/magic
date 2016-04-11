@@ -1,0 +1,4 @@
+Brothers of Fire {1}{R}{R}
+Creature — Human Shaman
+{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.
+2/2

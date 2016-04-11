@@ -1,0 +1,11 @@
+Thing in the Ice {1}{U}
+Creature — Horror
+Defender
+Thing in the Ice enters the battlefield with four ice counters on it.
+Whenever you cast an instant or sorcery spell, remove an ice counter from Thing in the Ice. Then if it has no ice counters on it, transform it.
+0/4
+* DOUBLE-FACED *
+Awoken Horror
+Creature — Kraken Horror
+When this creature transforms into Awoken Horror, return all non-Horror creatures to their owners' hands.
+7/8

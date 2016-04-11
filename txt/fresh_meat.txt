@@ -1,0 +1,3 @@
+Fresh Meat {3}{G}
+Instant
+Put a 3/3 green Beast creature token onto the battlefield for each creature put into your graveyard from the battlefield this turn.

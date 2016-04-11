@@ -1,0 +1,5 @@
+Abyssal Horror {4}{B}{B}
+Creature — Horror
+Flying
+When Abyssal Horror enters the battlefield, target player discards two cards.
+2/2

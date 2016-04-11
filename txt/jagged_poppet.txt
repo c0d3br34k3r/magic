@@ -1,0 +1,5 @@
+Jagged Poppet {1}{B}{R}
+Creature — Ogre Warrior
+Whenever Jagged Poppet is dealt damage, discard that many cards.
+Hellbent — Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.
+3/4

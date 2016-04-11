@@ -1,0 +1,4 @@
+Sindbad {1}{U}
+Creature — Human
+{T}: Draw a card and reveal it. If it isn't a land card, discard it.
+1/1

@@ -1,0 +1,4 @@
+Separatist Voidmage {3}{U}
+Creature — Human Wizard
+When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand.
+2/2

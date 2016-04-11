@@ -1,0 +1,3 @@
+Renegade Demon {3}{B}{B}
+Creature — Demon
+5/3

@@ -1,0 +1,4 @@
+Stronghold Assassin {1}{B}{B}
+Creature — Zombie Assassin
+{T}, Sacrifice a creature: Destroy target nonblack creature.
+2/1

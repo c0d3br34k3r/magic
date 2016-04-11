@@ -1,0 +1,3 @@
+Fountain of Youth {0}
+Artifact
+{2}, {T}: You gain 1 life.

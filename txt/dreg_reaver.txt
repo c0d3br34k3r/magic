@@ -1,0 +1,3 @@
+Dreg Reaver {4}{B}
+Creature — Zombie Beast
+4/3

@@ -1,0 +1,5 @@
+Fledgling Djinn {1}{B}
+Creature — Djinn
+Flying
+At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.
+2/2

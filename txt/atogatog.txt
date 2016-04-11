@@ -1,0 +1,4 @@
+Atogatog {W}{U}{B}{R}{G}
+Legendary Creature — Atog
+Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where X is the sacrificed creature's power.
+5/5

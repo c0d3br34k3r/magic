@@ -1,0 +1,5 @@
+Hixus, Prison Warden {3}{W}{W}
+Legendary Creature — Human Soldier
+Flash (You may cast this spell any time you could cast an instant.)
+Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)
+4/4

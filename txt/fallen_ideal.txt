@@ -1,0 +1,5 @@
+Fallen Ideal {2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying and "Sacrifice a creature: This creature gets +2/+1 until end of turn."
+When Fallen Ideal is put into a graveyard from the battlefield, return Fallen Ideal to its owner's hand.

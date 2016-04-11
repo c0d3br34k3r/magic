@@ -1,0 +1,3 @@
+Shredding Winds {2}{G}
+Instant
+Shredding Winds deals 7 damage to target creature with flying.

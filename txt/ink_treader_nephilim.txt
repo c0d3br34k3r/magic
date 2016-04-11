@@ -1,0 +1,4 @@
+Ink-Treader Nephilim {W}{U}{R}{G}
+Creature — Nephilim
+Whenever a player casts an instant or sorcery spell, if that spell targets only Ink-Treader Nephilim, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.
+3/3

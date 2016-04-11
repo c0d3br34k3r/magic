@@ -1,0 +1,5 @@
+Akroan Sergeant {2}{R}
+Creature — Human Soldier
+First strike (This creature deals combat damage before creatures without first strike.)
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+2/2

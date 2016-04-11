@@ -1,0 +1,4 @@
+Cathodion {3}
+Artifact Creature — Construct
+When Cathodion dies, add {C}{C}{C} to your mana pool.
+3/3

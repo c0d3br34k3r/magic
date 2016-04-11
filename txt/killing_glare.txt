@@ -1,0 +1,3 @@
+Killing Glare {X}{B}
+Instant
+Destroy target creature with power X or less.

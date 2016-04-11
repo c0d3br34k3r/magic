@@ -1,0 +1,4 @@
+Festival {W}
+Instant
+Cast Festival only during an opponent's upkeep.
+Creatures can't attack this turn.

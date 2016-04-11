@@ -1,0 +1,9 @@
+Student of Elements {1}{U}
+Creature — Human Wizard
+When Student of Elements has flying, flip it.
+1/1
+* FLIP *
+Tobita, Master of Winds {1}{U}
+Legendary Creature — Human Wizard
+Creatures you control have flying.
+3/3

@@ -1,0 +1,4 @@
+Price of Knowledge {6}{B}
+Enchantment
+Players have no maximum hand size.
+At the beginning of each opponent's upkeep, Price of Knowledge deals damage to that player equal to the number of cards in that player's hand.

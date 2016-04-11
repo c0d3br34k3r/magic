@@ -1,0 +1,4 @@
+Merrow Wavebreakers {4}{U}
+Creature — Merfolk Soldier
+{1}{U}, {Q}: Merrow Wavebreakers gains flying until end of turn. ({Q} is the untap symbol.)
+3/3

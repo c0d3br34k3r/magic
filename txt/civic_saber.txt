@@ -1,0 +1,4 @@
+Civic Saber {1}
+Artifact — Equipment
+Equipped creature gets +1/+0 for each of its colors.
+Equip {1}

@@ -1,0 +1,4 @@
+Shape Stealer {U}{U}
+Creature — Shapeshifter Spirit
+Whenever Shape Stealer blocks or becomes blocked by a creature, change Shape Stealer's base power and toughness to that creature's power and toughness until end of turn.
+1/1

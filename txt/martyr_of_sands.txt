@@ -1,0 +1,4 @@
+Martyr of Sands {W}
+Creature — Human Cleric
+{1}, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life.
+1/1

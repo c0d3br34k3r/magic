@@ -1,0 +1,4 @@
+Leonin Abunas {3}{W}
+Creature — Cat Cleric
+Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+2/5

@@ -1,0 +1,5 @@
+Warrior Angel {4}{W}{W}
+Creature — Angel Warrior
+Flying
+Whenever Warrior Angel deals damage, you gain that much life.
+3/4

@@ -1,0 +1,6 @@
+Triassic Egg {4}
+Artifact
+{3}, {T}: Put a hatchling counter on Triassic Egg.
+Sacrifice Triassic Egg: Choose one —
+• You may put a creature card from your hand onto the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.
+• Return target creature card from your graveyard to the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.

@@ -1,0 +1,4 @@
+Rebirth {3}{G}{G}{G}
+Sorcery
+Remove Rebirth from your deck before playing if you're not playing for ante.
+Each player may ante the top card of his or her library. If a player does, his or her life total becomes 20.

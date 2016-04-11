@@ -1,0 +1,3 @@
+Scrubland
+Land — Plains Swamp
+({T}: Add {W} or {B} to your mana pool.)

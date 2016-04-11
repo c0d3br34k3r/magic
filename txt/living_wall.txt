@@ -1,0 +1,5 @@
+Living Wall {4}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+{1}: Regenerate Living Wall.
+0/6

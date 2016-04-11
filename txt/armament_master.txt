@@ -1,0 +1,4 @@
+Armament Master {W}{W}
+Creature — Kor Soldier
+Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.
+2/2

@@ -1,0 +1,5 @@
+Bog Elemental {3}{B}{B}
+Creature — Elemental
+Protection from white
+At the beginning of your upkeep, sacrifice Bog Elemental unless you sacrifice a land.
+5/4

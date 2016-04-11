@@ -1,0 +1,3 @@
+Blue Sun's Zenith {X}{U}{U}{U}
+Instant
+Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.

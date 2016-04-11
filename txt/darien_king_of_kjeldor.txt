@@ -1,0 +1,4 @@
+Darien, King of Kjeldor {4}{W}{W}
+Legendary Creature — Human Soldier
+Whenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.
+3/3

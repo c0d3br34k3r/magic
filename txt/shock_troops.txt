@@ -1,0 +1,4 @@
+Shock Troops {3}{R}
+Creature — Human Soldier
+Sacrifice Shock Troops: Shock Troops deals 2 damage to target creature or player.
+2/2

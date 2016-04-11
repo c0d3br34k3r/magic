@@ -1,0 +1,6 @@
+Gustcloak Cavalier {3}{W}{W}
+Creature — Human Knight
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Whenever Gustcloak Cavalier attacks, you may tap target creature.
+Whenever Gustcloak Cavalier becomes blocked, you may untap Gustcloak Cavalier and remove it from combat.
+2/2

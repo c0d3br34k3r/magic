@@ -1,0 +1,3 @@
+Metal Fatigue {2}{W}
+Instant
+Tap all artifacts.

@@ -1,0 +1,5 @@
+Fungal Reaches
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}: Put a storage counter on Fungal Reaches.
+{1}, Remove X storage counters from Fungal Reaches: Add X mana in any combination of {R} and/or {G} to your mana pool.

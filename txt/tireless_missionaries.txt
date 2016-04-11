@@ -1,0 +1,4 @@
+Tireless Missionaries {4}{W}
+Creature — Human Cleric
+When Tireless Missionaries enters the battlefield, you gain 3 life.
+2/3

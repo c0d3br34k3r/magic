@@ -1,0 +1,5 @@
+Dread Reaper {3}{B}{B}{B}
+Creature — Horror
+Flying
+When Dread Reaper enters the battlefield, you lose 5 life.
+6/5

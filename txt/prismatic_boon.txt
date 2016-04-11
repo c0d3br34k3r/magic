@@ -1,0 +1,3 @@
+Prismatic Boon {X}{W}{U}
+Instant
+Choose a color. X target creatures gain protection from the chosen color until end of turn.

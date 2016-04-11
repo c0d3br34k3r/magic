@@ -1,0 +1,4 @@
+Vow of Wildness {2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control.

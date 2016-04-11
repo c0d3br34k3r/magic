@@ -1,0 +1,5 @@
+Skeleton Key {1}
+Artifact — Equipment
+Equipped creature has skulk. (It can't be blocked by creatures with greater power.)
+Whenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+Equip {2}

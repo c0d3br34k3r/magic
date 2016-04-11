@@ -1,0 +1,4 @@
+Dimir Doppelganger {1}{U}{B}
+Creature — Shapeshifter
+{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.
+0/2

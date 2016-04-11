@@ -1,0 +1,4 @@
+Bloodbond Vampire {2}{B}{B}
+Creature — Vampire Shaman Ally
+Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.
+3/3

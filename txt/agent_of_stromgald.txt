@@ -1,0 +1,4 @@
+Agent of Stromgald {R}
+Creature — Human Knight
+{R}: Add {B} to your mana pool.
+1/1

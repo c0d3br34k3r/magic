@@ -1,0 +1,5 @@
+Kavu Titan {1}{G}
+Creature — Kavu
+Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+If Kavu Titan was kicked, it enters the battlefield with three +1/+1 counters on it and with trample.
+2/2

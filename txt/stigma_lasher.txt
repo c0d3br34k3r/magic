@@ -1,0 +1,5 @@
+Stigma Lasher {R}{R}
+Creature — Elemental Shaman
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Stigma Lasher deals damage to a player, that player can't gain life for the rest of the game.
+2/2

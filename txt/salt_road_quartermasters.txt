@@ -1,0 +1,5 @@
+Salt Road Quartermasters {2}{G}
+Creature — Human Soldier
+Salt Road Quartermasters enters the battlefield with two +1/+1 counters on it.
+{2}{G}, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature.
+1/1

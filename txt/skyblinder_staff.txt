@@ -1,0 +1,4 @@
+Skyblinder Staff {1}
+Artifact — Equipment
+Equipped creature gets +1/+0 and can't be blocked by creatures with flying.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)

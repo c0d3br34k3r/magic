@@ -1,0 +1,4 @@
+Rakshasa Vizier {2}{U}{B}{G}
+Creature — Cat Demon
+Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier.
+4/4

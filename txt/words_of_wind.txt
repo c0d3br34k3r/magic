@@ -1,0 +1,3 @@
+Words of Wind {2}{U}
+Enchantment
+{1}: The next time you would draw a card this turn, each player returns a permanent he or she controls to its owner's hand instead.

@@ -1,0 +1,5 @@
+Reclusive Artificer {2}{U}{R}
+Creature — Human Artificer
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+When Reclusive Artificer enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control.
+2/3

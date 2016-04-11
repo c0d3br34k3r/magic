@@ -1,0 +1,3 @@
+Dance of Shadows {3}{B}{B}
+Sorcery — Arcane
+Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)

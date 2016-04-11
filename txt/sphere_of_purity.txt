@@ -1,0 +1,3 @@
+Sphere of Purity {3}{W}
+Enchantment
+If an artifact would deal damage to you, prevent 1 of that damage.

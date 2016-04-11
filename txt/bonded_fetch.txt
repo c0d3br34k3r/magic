@@ -1,0 +1,5 @@
+Bonded Fetch {2}{U}
+Creature — Homunculus
+Defender, haste
+{T}: Draw a card, then discard a card.
+0/2

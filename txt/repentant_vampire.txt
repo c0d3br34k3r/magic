@@ -1,0 +1,6 @@
+Repentant Vampire {3}{B}{B}
+Creature — Vampire
+Flying
+Whenever a creature dealt damage by Repentant Vampire this turn dies, put a +1/+1 counter on Repentant Vampire.
+Threshold — As long as seven or more cards are in your graveyard, Repentant Vampire is white and has "{T}: Destroy target black creature."
+3/3

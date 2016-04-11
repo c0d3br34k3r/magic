@@ -1,0 +1,3 @@
+Liquimetal Coating {2}
+Artifact
+{T}: Target permanent becomes an artifact in addition to its other types until end of turn.

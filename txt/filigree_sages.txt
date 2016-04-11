@@ -1,0 +1,4 @@
+Filigree Sages {3}{U}
+Artifact Creature — Vedalken Wizard
+{2}{U}: Untap target artifact.
+2/3

@@ -1,0 +1,5 @@
+Echo Tracer {2}{U}
+Creature — Human Wizard
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Echo Tracer is turned face up, return target creature to its owner's hand.
+2/2

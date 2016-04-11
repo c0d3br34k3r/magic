@@ -1,0 +1,4 @@
+Steam Catapult {3}{W}{W}
+Creature — Human Soldier
+{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+2/3

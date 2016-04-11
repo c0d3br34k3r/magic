@@ -1,0 +1,4 @@
+Gruul Cluestone {3}
+Artifact
+{T}: Add {R} or {G} to your mana pool.
+{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.

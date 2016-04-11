@@ -1,0 +1,6 @@
+Cavern Harpy {U}{B}
+Creature — Harpy Beast
+Flying
+When Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.
+Pay 1 life: Return Cavern Harpy to its owner's hand.
+2/1

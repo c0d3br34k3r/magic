@@ -1,0 +1,3 @@
+Doom Blade {1}{B}
+Instant
+Destroy target nonblack creature.

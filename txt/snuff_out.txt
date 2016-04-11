@@ -1,0 +1,4 @@
+Snuff Out {3}{B}
+Instant
+If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.
+Destroy target nonblack creature. It can't be regenerated.

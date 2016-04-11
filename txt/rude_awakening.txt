@@ -1,0 +1,6 @@
+Rude Awakening {4}{G}
+Sorcery
+Choose one —
+• Untap all lands you control.
+• Until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)

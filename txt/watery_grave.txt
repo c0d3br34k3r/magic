@@ -1,0 +1,4 @@
+Watery Grave
+Land — Island Swamp
+({T}: Add {U} or {B} to your mana pool.)
+As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.

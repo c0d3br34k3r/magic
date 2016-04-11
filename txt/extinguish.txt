@@ -1,0 +1,3 @@
+Extinguish {1}{U}
+Instant
+Counter target sorcery spell.

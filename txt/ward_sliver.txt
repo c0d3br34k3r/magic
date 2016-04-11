@@ -1,0 +1,5 @@
+Ward Sliver {4}{W}
+Creature — Sliver
+As Ward Sliver enters the battlefield, choose a color.
+All Slivers have protection from the chosen color.
+2/2

@@ -1,0 +1,5 @@
+Alloy Golem {6}
+Artifact Creature — Golem
+As Alloy Golem enters the battlefield, choose a color.
+Alloy Golem is the chosen color. (It's still an artifact.)
+4/4

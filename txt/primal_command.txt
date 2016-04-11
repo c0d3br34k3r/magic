@@ -1,0 +1,7 @@
+Primal Command {3}{G}{G}
+Sorcery
+Choose two —
+• Target player gains 7 life.
+• Put target noncreature permanent on top of its owner's library.
+• Target player shuffles his or her graveyard into his or her library.
+• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.

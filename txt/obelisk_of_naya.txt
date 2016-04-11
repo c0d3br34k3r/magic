@@ -1,0 +1,3 @@
+Obelisk of Naya {3}
+Artifact
+{T}: Add {R}, {G}, or {W} to your mana pool.

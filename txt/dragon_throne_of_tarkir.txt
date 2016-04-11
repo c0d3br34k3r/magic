@@ -1,0 +1,4 @@
+Dragon Throne of Tarkir {4}
+Legendary Artifact — Equipment
+Equipped creature has defender and "{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power."
+Equip {3}

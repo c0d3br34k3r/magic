@@ -1,0 +1,3 @@
+Illuminated Folio {5}
+Artifact
+{1}, {T}, Reveal two cards from your hand that share a color: Draw a card.

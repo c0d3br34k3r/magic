@@ -1,0 +1,3 @@
+Martyr's Cry {W}{W}
+Sorcery
+Exile all white creatures. For each creature exiled this way, its controller draws a card.

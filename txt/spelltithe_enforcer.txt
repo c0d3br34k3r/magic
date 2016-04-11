@@ -1,0 +1,4 @@
+Spelltithe Enforcer {3}{W}{W}
+Creature — Elephant Wizard
+Whenever an opponent casts a spell, that player sacrifices a permanent unless he or she pays {1}.
+3/3

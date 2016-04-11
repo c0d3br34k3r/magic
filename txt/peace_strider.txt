@@ -1,0 +1,4 @@
+Peace Strider {4}
+Artifact Creature — Construct
+When Peace Strider enters the battlefield, you gain 3 life.
+3/3

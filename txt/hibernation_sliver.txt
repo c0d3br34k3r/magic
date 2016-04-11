@@ -1,0 +1,4 @@
+Hibernation Sliver {U}{B}
+Creature — Sliver
+All Slivers have "Pay 2 life: Return this permanent to its owner's hand."
+2/2

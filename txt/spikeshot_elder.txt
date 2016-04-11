@@ -1,0 +1,4 @@
+Spikeshot Elder {R}
+Creature — Goblin Shaman
+{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.
+1/1

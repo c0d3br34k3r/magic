@@ -1,0 +1,4 @@
+Deathgazer {3}{B}
+Creature — Lizard
+Whenever Deathgazer blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.
+2/2

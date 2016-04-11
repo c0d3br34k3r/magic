@@ -1,0 +1,4 @@
+Circular Logic {2}{U}
+Instant
+Counter target spell unless its controller pays {1} for each card in your graveyard.
+Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

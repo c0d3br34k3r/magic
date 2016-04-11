@@ -1,0 +1,6 @@
+Seedling Charm {G}
+Instant
+Choose one —
+• Return target Aura attached to a creature to its owner's hand.
+• Regenerate target green creature.
+• Target creature gains trample until end of turn.

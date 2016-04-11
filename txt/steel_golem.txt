@@ -1,0 +1,4 @@
+Steel Golem {3}
+Artifact Creature — Golem
+You can't cast creature spells.
+3/4

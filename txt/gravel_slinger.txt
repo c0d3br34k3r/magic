@@ -1,0 +1,5 @@
+Gravel Slinger {3}{W}
+Creature — Human Soldier
+{T}: Gravel Slinger deals 1 damage to target attacking or blocking creature.
+Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/3

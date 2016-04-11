@@ -1,0 +1,5 @@
+Spearbreaker Behemoth {5}{G}{G}
+Creature — Beast
+Indestructible
+{1}: Target creature with power 5 or greater gains indestructible until end of turn.
+5/5

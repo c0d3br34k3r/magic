@@ -1,0 +1,3 @@
+Winter Sky {R}
+Sorcery
+Flip a coin. If you win the flip, Winter Sky deals 1 damage to each creature and each player. If you lose the flip, each player draws a card.

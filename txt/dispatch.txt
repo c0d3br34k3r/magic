@@ -1,0 +1,4 @@
+Dispatch {W}
+Instant
+Tap target creature.
+Metalcraft — If you control three or more artifacts, exile that creature.

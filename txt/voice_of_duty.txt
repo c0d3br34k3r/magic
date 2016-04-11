@@ -1,0 +1,4 @@
+Voice of Duty {3}{W}
+Creature — Angel
+Flying, protection from green
+2/2

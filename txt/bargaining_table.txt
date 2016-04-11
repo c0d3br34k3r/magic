@@ -1,0 +1,3 @@
+Bargaining Table {5}
+Artifact
+{X}, {T}: Draw a card. X is the number of cards in an opponent's hand.

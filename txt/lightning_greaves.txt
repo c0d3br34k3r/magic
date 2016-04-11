@@ -1,0 +1,4 @@
+Lightning Greaves {2}
+Artifact — Equipment
+Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}

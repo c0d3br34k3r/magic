@@ -1,0 +1,4 @@
+Akroan Conscriptor {4}{R}
+Creature — Human Shaman
+Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
+3/2

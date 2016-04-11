@@ -1,0 +1,5 @@
+Thought Devourer {2}{U}{U}
+Creature — Beast
+Flying
+Your maximum hand size is reduced by four.
+4/4

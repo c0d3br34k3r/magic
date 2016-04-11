@@ -1,0 +1,13 @@
+Sage of Ancient Lore {4}{G}
+Creature — Human Shaman Werewolf
+Sage of Ancient Lore's power and toughness are each equal to the number of cards in your hand.
+When Sage of Ancient Lore enters the battlefield, draw a card.
+At the beginning of each upkeep, if no spells were cast last turn, transform Sage of Ancient Lore.
+*/*
+* DOUBLE-FACED *
+Werewolf of Ancient Hunger
+Creature — Werewolf
+Vigilance, trample
+Werewolf of Ancient Hunger's power and toughness are each equal to the total number of cards in all players' hands.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf of Ancient Hunger.
+*/*

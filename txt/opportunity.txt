@@ -1,0 +1,3 @@
+Opportunity {4}{U}{U}
+Instant
+Target player draws four cards.

@@ -1,0 +1,3 @@
+Gravity Sphere {2}{R}
+World Enchantment
+All creatures lose flying.

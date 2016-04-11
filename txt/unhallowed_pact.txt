@@ -1,0 +1,4 @@
+Unhallowed Pact {2}{B}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.

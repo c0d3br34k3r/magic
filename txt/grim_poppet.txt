@@ -1,0 +1,5 @@
+Grim Poppet {7}
+Artifact Creature — Scarecrow
+Grim Poppet enters the battlefield with three -1/-1 counters on it.
+Remove a -1/-1 counter from Grim Poppet: Put a -1/-1 counter on another target creature.
+4/4

@@ -1,0 +1,4 @@
+Deepwater Hypnotist {1}{U}
+Creature — Merfolk Wizard
+Inspired — Whenever Deepwater Hypnotist becomes untapped, target creature an opponent controls gets -3/-0 until end of turn.
+2/1

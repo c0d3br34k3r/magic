@@ -1,0 +1,4 @@
+Mercenary Knight {2}{B}
+Creature — Human Mercenary Knight
+When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.
+4/4

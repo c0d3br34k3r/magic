@@ -1,0 +1,4 @@
+Gemhide Sliver {1}{G}
+Creature — Sliver
+All Slivers have "{T}: Add one mana of any color to your mana pool."
+1/1

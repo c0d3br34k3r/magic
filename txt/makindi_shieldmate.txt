@@ -1,0 +1,5 @@
+Makindi Shieldmate {2}{W}
+Creature — Kor Soldier Ally
+Defender
+Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.
+0/3

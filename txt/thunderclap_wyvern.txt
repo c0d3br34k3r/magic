@@ -1,0 +1,6 @@
+Thunderclap Wyvern {2}{W}{U}
+Creature — Drake
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Other creatures you control with flying get +1/+1.
+2/3

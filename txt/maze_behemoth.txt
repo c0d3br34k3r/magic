@@ -1,0 +1,5 @@
+Maze Behemoth {5}{G}
+Creature — Elemental
+Trample
+Multicolored creatures you control have trample.
+5/4

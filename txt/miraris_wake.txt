@@ -1,0 +1,4 @@
+Mirari's Wake {3}{W}{G}
+Enchantment
+Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.

@@ -1,0 +1,5 @@
+Teetering Peaks
+Land
+Teetering Peaks enters the battlefield tapped.
+When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.
+{T}: Add {R} to your mana pool.

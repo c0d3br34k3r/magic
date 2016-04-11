@@ -1,0 +1,5 @@
+Hissing Quagmire
+Land
+Hissing Quagmire enters the battlefield tapped.
+{T}: Add {B} or {G} to your mana pool.
+{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.

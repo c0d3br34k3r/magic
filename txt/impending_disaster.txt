@@ -1,0 +1,3 @@
+Impending Disaster {1}{R}
+Enchantment
+At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.

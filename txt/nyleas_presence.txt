@@ -1,0 +1,5 @@
+Nylea's Presence {1}{G}
+Enchantment — Aura
+Enchant land
+When Nylea's Presence enters the battlefield, draw a card.
+Enchanted land is every basic land type in addition to its other types.

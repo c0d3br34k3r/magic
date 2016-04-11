@@ -1,0 +1,6 @@
+Eater of Hope {5}{B}{B}
+Creature — Demon
+Flying
+{B}, Sacrifice another creature: Regenerate Eater of Hope.
+{2}{B}, Sacrifice two other creatures: Destroy target creature.
+6/4

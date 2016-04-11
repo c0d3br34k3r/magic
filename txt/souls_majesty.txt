@@ -1,0 +1,3 @@
+Soul's Majesty {4}{G}
+Sorcery
+Draw cards equal to the power of target creature you control.

@@ -1,0 +1,5 @@
+Phobian Phantasm {1}{B}{B}
+Creature — Illusion
+Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Cumulative upkeep {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+3/3

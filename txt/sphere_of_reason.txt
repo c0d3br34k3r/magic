@@ -1,0 +1,3 @@
+Sphere of Reason {3}{W}
+Enchantment
+If a blue source would deal damage to you, prevent 2 of that damage.

@@ -1,0 +1,4 @@
+Vastwood Animist {2}{G}
+Creature — Elf Shaman Ally
+{T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.
+1/1

@@ -1,0 +1,4 @@
+Training Drone {3}
+Artifact Creature — Drone
+Training Drone can't attack or block unless it's equipped.
+4/4

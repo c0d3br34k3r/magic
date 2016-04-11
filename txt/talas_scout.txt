@@ -1,0 +1,4 @@
+Talas Scout {1}{U}
+Creature — Human Pirate Scout
+Flying
+1/2

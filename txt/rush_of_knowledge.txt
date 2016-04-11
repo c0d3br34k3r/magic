@@ -1,0 +1,3 @@
+Rush of Knowledge {4}{U}
+Sorcery
+Draw cards equal to the highest converted mana cost among permanents you control.

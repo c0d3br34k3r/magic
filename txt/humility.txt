@@ -1,0 +1,3 @@
+Humility {2}{W}{W}
+Enchantment
+All creatures lose all abilities and have base power and toughness 1/1.

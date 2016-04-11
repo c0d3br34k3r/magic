@@ -1,0 +1,4 @@
+Stoic Champion {W}{W}
+Creature — Human Soldier
+Whenever a player cycles a card, Stoic Champion gets +2/+2 until end of turn.
+2/2

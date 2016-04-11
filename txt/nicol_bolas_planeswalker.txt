@@ -1,0 +1,6 @@
+Nicol Bolas, Planeswalker {4}{U}{B}{B}{R}
+Planeswalker — Bolas
++3: Destroy target noncreature permanent.
+−2: Gain control of target creature.
+−9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+5

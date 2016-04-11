@@ -1,0 +1,5 @@
+Faceless Butcher {2}{B}{B}
+Creature — Nightmare Horror
+When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.
+When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+2/3

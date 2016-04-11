@@ -1,0 +1,4 @@
+Rejuvenate {3}{G}
+Sorcery
+You gain 6 life.
+Cycling {2} ({2}, Discard this card: Draw a card.)

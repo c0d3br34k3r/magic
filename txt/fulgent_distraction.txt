@@ -1,0 +1,3 @@
+Fulgent Distraction {2}{W}
+Instant
+Choose two target creatures. Tap those creatures, then unattach all Equipment from them.

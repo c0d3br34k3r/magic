@@ -1,0 +1,3 @@
+Sinkhole {B}{B}
+Sorcery
+Destroy target land.

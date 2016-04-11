@@ -1,0 +1,4 @@
+Viashino Fangtail {2}{R}{R}
+Creature — Viashino Warrior
+{T}: Viashino Fangtail deals 1 damage to target creature or player.
+3/3

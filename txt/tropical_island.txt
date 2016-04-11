@@ -1,0 +1,3 @@
+Tropical Island
+Land — Forest Island
+({T}: Add {G} or {U} to your mana pool.)

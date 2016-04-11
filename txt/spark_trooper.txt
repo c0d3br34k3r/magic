@@ -1,0 +1,5 @@
+Spark Trooper {1}{W}{R}{R}
+Creature — Elemental Soldier
+Trample, lifelink, haste
+At the beginning of the end step, sacrifice Spark Trooper.
+6/1

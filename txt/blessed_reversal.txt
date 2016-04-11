@@ -1,0 +1,3 @@
+Blessed Reversal {1}{W}
+Instant
+You gain 3 life for each creature attacking you.

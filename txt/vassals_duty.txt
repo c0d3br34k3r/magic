@@ -1,0 +1,3 @@
+Vassal's Duty {3}{W}
+Enchantment
+{1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead.

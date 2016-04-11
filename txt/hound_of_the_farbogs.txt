@@ -1,0 +1,4 @@
+Hound of the Farbogs {4}{B}
+Creature — Zombie Hound
+Delirium — Hound of the Farbogs has menace as long as there are four or more card types among cards in your graveyard. (A creature with menace can't be blocked except by two or more creatures.)
+5/3

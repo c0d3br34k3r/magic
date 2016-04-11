@@ -1,0 +1,4 @@
+Narcolepsy {1}{U}
+Enchantment — Aura
+Enchant creature
+At the beginning of each upkeep, if enchanted creature is untapped, tap it.

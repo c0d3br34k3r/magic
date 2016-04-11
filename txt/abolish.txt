@@ -1,0 +1,4 @@
+Abolish {1}{W}{W}
+Instant
+You may discard a Plains card rather than pay Abolish's mana cost.
+Destroy target artifact or enchantment.

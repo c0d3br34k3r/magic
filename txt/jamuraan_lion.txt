@@ -1,0 +1,4 @@
+Jamuraan Lion {2}{W}
+Creature — Cat
+{W}, {T}: Target creature can't block this turn.
+3/1

@@ -1,0 +1,4 @@
+Infectious Host {2}{B}
+Creature — Zombie
+When Infectious Host dies, target player loses 2 life.
+1/1

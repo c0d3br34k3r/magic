@@ -1,0 +1,4 @@
+Iname, Life Aspect {4}{G}{G}
+Legendary Creature — Spirit
+When Iname, Life Aspect dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand.
+4/4

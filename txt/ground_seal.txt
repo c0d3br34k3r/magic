@@ -1,0 +1,4 @@
+Ground Seal {1}{G}
+Enchantment
+When Ground Seal enters the battlefield, draw a card.
+Cards in graveyards can't be the targets of spells or abilities.

@@ -1,0 +1,5 @@
+Timid Drake {2}{U}
+Creature — Drake
+Flying
+When another creature enters the battlefield, return Timid Drake to its owner's hand.
+3/3

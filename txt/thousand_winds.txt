@@ -1,0 +1,6 @@
+Thousand Winds {4}{U}{U}
+Creature — Elemental
+Flying
+Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.
+5/6

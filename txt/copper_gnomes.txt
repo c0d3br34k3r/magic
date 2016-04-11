@@ -1,0 +1,4 @@
+Copper Gnomes {2}
+Artifact Creature — Gnome
+{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield.
+1/1

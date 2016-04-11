@@ -1,0 +1,4 @@
+Rocky Tar Pit
+Land
+Rocky Tar Pit enters the battlefield tapped.
+{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.

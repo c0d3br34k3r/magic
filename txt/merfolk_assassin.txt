@@ -1,0 +1,4 @@
+Merfolk Assassin {U}{U}
+Creature — Merfolk Assassin
+{T}: Destroy target creature with islandwalk.
+1/2

@@ -1,0 +1,5 @@
+Karlov of the Ghost Council {W}{B}
+Legendary Creature — Spirit Advisor
+Whenever you gain life, put two +1/+1 counters on Karlov of the Ghost Council.
+{W}{B}, Remove six +1/+1 counters from Karlov of the Ghost Council: Exile target creature.
+2/2

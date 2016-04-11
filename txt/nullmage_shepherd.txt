@@ -1,0 +1,4 @@
+Nullmage Shepherd {3}{G}
+Creature — Elf Shaman
+Tap four untapped creatures you control: Destroy target artifact or enchantment.
+2/4

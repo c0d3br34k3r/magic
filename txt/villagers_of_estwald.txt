@@ -1,0 +1,9 @@
+Villagers of Estwald {2}{G}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.
+2/3
+* DOUBLE-FACED *
+Howlpack of Estwald
+(G) Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.
+4/6

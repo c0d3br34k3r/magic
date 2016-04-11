@@ -1,0 +1,4 @@
+Unstable Obelisk {3}
+Artifact
+{T}: Add {C} to your mana pool.
+{7}, {T}, Sacrifice Unstable Obelisk: Destroy target permanent.

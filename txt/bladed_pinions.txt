@@ -1,0 +1,4 @@
+Bladed Pinions {2}
+Artifact — Equipment
+Equipped creature has flying and first strike.
+Equip {2}

@@ -1,0 +1,4 @@
+Army Ants {1}{B}{R}
+Creature — Insect
+{T}, Sacrifice a land: Destroy target land.
+1/1

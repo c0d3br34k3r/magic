@@ -1,0 +1,5 @@
+Thunderfoot Baloth {4}{G}{G}
+Creature — Beast
+Trample
+Lieutenant — As long as you control your commander, Thunderfoot Baloth gets +2/+2 and other creatures you control get +2/+2 and have trample.
+5/5

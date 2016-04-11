@@ -1,0 +1,4 @@
+Barrenton Cragtreads {2}{W/U}{W/U}
+Creature — Kithkin Scout
+Barrenton Cragtreads can't be blocked by red creatures.
+3/3

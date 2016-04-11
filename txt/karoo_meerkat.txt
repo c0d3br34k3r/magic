@@ -1,0 +1,4 @@
+Karoo Meerkat {1}{G}
+Creature — Mongoose
+Protection from blue
+2/1

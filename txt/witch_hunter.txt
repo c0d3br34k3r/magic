@@ -1,0 +1,5 @@
+Witch Hunter {2}{W}{W}
+Creature — Human Cleric
+{T}: Witch Hunter deals 1 damage to target player.
+{1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.
+1/1

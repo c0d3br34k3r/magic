@@ -1,0 +1,4 @@
+Squallmonger {3}{G}
+Creature — Monger
+{2}: Squallmonger deals 1 damage to each creature with flying and each player. Any player may activate this ability.
+3/3

@@ -1,0 +1,4 @@
+Soulbound Guardians {4}{W}
+Creature — Kor Spirit
+Defender, flying
+4/5

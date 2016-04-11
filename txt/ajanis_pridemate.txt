@@ -1,0 +1,4 @@
+Ajani's Pridemate {1}{W}
+Creature — Cat Soldier
+Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.
+2/2

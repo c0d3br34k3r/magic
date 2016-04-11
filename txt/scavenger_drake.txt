@@ -1,0 +1,5 @@
+Scavenger Drake {3}{B}
+Creature — Drake
+Flying
+Whenever another creature dies, you may put a +1/+1 counter on Scavenger Drake.
+1/1

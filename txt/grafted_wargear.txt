@@ -1,0 +1,5 @@
+Grafted Wargear {3}
+Artifact — Equipment
+Equipped creature gets +3/+2.
+Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.
+Equip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)

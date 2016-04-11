@@ -1,0 +1,4 @@
+Winnow {1}{W}
+Instant
+Destroy target nonland permanent if another permanent with the same name is on the battlefield.
+Draw a card.

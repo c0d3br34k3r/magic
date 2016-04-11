@@ -1,0 +1,6 @@
+Golgari Grave-Troll {4}{G}
+Creature — Troll Skeleton
+Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.
+{1}, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll.
+Dredge 6 (If you would draw a card, instead you may put exactly six cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)
+0/0

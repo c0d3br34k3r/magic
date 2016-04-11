@@ -1,0 +1,3 @@
+Paradigm Shift {1}{U}
+Sorcery
+Exile all cards from your library. Then shuffle your graveyard into your library.

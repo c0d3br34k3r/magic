@@ -1,0 +1,4 @@
+Reverent Mantra {3}{W}
+Instant
+You may exile a white card from your hand rather than pay Reverent Mantra's mana cost.
+Choose a color. All creatures gain protection from the chosen color until end of turn.

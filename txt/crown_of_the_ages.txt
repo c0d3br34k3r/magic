@@ -1,0 +1,3 @@
+Crown of the Ages {2}
+Artifact
+{4}, {T}: Attach target Aura attached to a creature to another creature.

@@ -1,0 +1,12 @@
+Mayor of Avabruck {1}{G}
+Creature — Human Advisor Werewolf
+Other Human creatures you control get +1/+1.
+At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.
+1/1
+* DOUBLE-FACED *
+Howlpack Alpha
+(G) Creature — Werewolf
+Each other creature you control that's a Werewolf or a Wolf gets +1/+1.
+At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.
+3/3

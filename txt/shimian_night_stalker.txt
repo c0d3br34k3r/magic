@@ -1,0 +1,4 @@
+Shimian Night Stalker {3}{B}{B}
+Creature — Nightstalker
+{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.
+4/4

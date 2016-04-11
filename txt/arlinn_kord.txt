@@ -1,0 +1,11 @@
+Arlinn Kord {2}{R}{G}
+Planeswalker — Arlinn
++1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.
+0: Put a 2/2 green Wolf creature token onto the battlefield. Transform Arlinn Kord.
+3
+* DOUBLE-FACED *
+Arlinn, Embraced by the Moon
+Planeswalker — Arlinn
++1: Creatures you control get +1/+1 and gain trample until end of turn.
+−1: Arlinn, Embraced by the Moon deals 3 damage to target creature or player. Transform Arlinn, Embraced by the Moon.
+−6: You get an emblem with "Creatures you control have haste and ‘{T}: This creature deals damage equal to its power to target creature or player.'"

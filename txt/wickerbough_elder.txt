@@ -1,0 +1,5 @@
+Wickerbough Elder {3}{G}
+Creature — Treefolk Shaman
+Wickerbough Elder enters the battlefield with a -1/-1 counter on it.
+{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.
+4/4

@@ -1,0 +1,3 @@
+Rousing of Souls {2}{W}
+Sorcery
+Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto the battlefield. Then each player draws a card.

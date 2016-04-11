@@ -1,0 +1,4 @@
+Lynx {1}{G}
+Creature — Cat
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+2/1

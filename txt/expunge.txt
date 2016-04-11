@@ -1,0 +1,4 @@
+Expunge {2}{B}
+Instant
+Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Cycling {2} ({2}, Discard this card: Draw a card.)

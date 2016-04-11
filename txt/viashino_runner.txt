@@ -1,0 +1,4 @@
+Viashino Runner {3}{R}
+Creature — Viashino
+Menace (This creature can't be blocked except by two or more creatures.)
+3/2

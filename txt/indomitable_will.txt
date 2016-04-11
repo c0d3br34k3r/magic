@@ -1,0 +1,5 @@
+Indomitable Will {1}{W}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets +1/+2.

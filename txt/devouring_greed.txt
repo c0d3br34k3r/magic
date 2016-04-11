@@ -1,0 +1,4 @@
+Devouring Greed {2}{B}{B}
+Sorcery — Arcane
+As an additional cost to cast Devouring Greed, you may sacrifice any number of Spirits.
+Target player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.

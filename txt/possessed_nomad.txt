@@ -1,0 +1,5 @@
+Possessed Nomad {2}{W}{W}
+Creature — Human Nomad Horror
+Vigilance
+Threshold — As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target white creature."
+3/3

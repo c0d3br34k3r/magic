@@ -1,0 +1,5 @@
+Thalakos Mistfolk {2}{U}
+Creature — Thalakos Illusion
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+{U}: Put Thalakos Mistfolk on top of its owner's library.
+2/1

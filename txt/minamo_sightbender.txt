@@ -1,0 +1,4 @@
+Minamo Sightbender {1}{U}
+Creature — Human Wizard
+{X}, {T}: Target creature with power X or less can't be blocked this turn.
+1/2

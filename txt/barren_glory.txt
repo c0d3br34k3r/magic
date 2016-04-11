@@ -1,0 +1,3 @@
+Barren Glory {4}{W}{W}
+Enchantment
+At the beginning of your upkeep, if you control no permanents other than Barren Glory and have no cards in hand, you win the game.

@@ -1,0 +1,4 @@
+Femeref Enchantress {W}{G}
+Creature — Human Druid
+Whenever an enchantment is put into a graveyard from the battlefield, draw a card.
+1/2

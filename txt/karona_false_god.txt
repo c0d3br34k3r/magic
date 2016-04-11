@@ -1,0 +1,6 @@
+Karona, False God {1}{W}{U}{B}{R}{G}
+Legendary Creature — Avatar
+Haste
+At the beginning of each player's upkeep, that player untaps Karona, False God and gains control of it.
+Whenever Karona attacks, creatures of the creature type of your choice get +3/+3 until end of turn.
+5/5

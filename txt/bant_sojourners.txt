@@ -1,0 +1,5 @@
+Bant Sojourners {1}{W}{U}{G}
+Creature — Human Soldier
+When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+2/4

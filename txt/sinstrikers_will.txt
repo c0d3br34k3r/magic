@@ -1,0 +1,4 @@
+Sinstriker's Will {3}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "{T}: This creature deals damage equal to its power to target attacking or blocking creature."

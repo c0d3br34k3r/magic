@@ -1,0 +1,4 @@
+Holy Justiciar {3}{W}
+Creature — Human Cleric
+{2}{W}, {T}: Tap target creature. If that creature is a Zombie, exile it.
+2/1

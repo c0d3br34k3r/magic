@@ -1,0 +1,3 @@
+Skillful Lunge {1}{W}
+Instant
+Target creature gets +2/+0 and gains first strike until end of turn.

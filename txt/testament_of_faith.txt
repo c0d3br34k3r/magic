@@ -1,0 +1,3 @@
+Testament of Faith {W}
+Enchantment
+{X}: Testament of Faith becomes an X/X Wall creature with defender in addition to its other types until end of turn.

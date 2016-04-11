@@ -1,0 +1,4 @@
+Fa'adiyah Seer {1}{G}
+Creature — Human Shaman
+{T}: Draw a card and reveal it. If it isn't a land card, discard it.
+1/1

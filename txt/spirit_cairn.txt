@@ -1,0 +1,3 @@
+Spirit Cairn {2}{W}
+Enchantment
+Whenever a player discards a card, you may pay {W}. If you do, put a 1/1 white Spirit creature token with flying onto the battlefield.

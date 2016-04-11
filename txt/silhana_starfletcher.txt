@@ -1,0 +1,6 @@
+Silhana Starfletcher {2}{G}
+Creature — Elf Druid Archer
+Reach (This creature can block creatures with flying.)
+As Silhana Starfletcher enters the battlefield, choose a color.
+{T}: Add one mana of the chosen color to your mana pool.
+1/3

@@ -1,0 +1,4 @@
+Harbinger of Night {2}{B}{B}
+Creature — Spirit
+At the beginning of your upkeep, put a -1/-1 counter on each creature.
+2/3

@@ -1,0 +1,5 @@
+Nesting Wurm {4}{G}{G}
+Creature — Wurm
+Trample
+When Nesting Wurm enters the battlefield, you may search your library for up to three cards named Nesting Wurm, reveal them, and put them into your hand. If you do, shuffle your library.
+4/3

@@ -1,0 +1,4 @@
+Rebuild {2}{U}
+Instant
+Return all artifacts to their owners' hands.
+Cycling {2} ({2}, Discard this card: Draw a card.)

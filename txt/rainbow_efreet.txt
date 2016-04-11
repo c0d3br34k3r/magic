@@ -1,0 +1,5 @@
+Rainbow Efreet {3}{U}
+Creature — Efreet
+Flying
+{U}{U}: Rainbow Efreet phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)
+3/1

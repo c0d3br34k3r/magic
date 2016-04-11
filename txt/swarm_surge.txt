@@ -1,0 +1,4 @@
+Swarm Surge {2}{B}
+Sorcery
+Devoid (This card has no color.)
+Creatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.

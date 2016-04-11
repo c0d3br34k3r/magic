@@ -1,0 +1,4 @@
+Rage Thrower {5}{R}
+Creature — Human Shaman
+Whenever another creature dies, Rage Thrower deals 2 damage to target player.
+4/2

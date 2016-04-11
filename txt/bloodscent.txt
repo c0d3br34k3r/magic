@@ -1,0 +1,3 @@
+Bloodscent {3}{G}
+Instant
+All creatures able to block target creature this turn do so.

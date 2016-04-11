@@ -1,0 +1,3 @@
+Geist Snatch {2}{U}{U}
+Instant
+Counter target creature spell. Put a 1/1 blue Spirit creature token with flying onto the battlefield.

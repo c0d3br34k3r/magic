@@ -1,0 +1,4 @@
+Advocate of the Beast {2}{G}
+Creature — Elf Shaman
+At the beginning of your end step, put a +1/+1 counter on target Beast creature you control.
+2/3

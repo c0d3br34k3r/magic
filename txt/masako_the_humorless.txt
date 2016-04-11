@@ -1,0 +1,5 @@
+Masako the Humorless {2}{W}
+Legendary Creature — Human Advisor
+Flash
+Tapped creatures you control can block as though they were untapped.
+2/1

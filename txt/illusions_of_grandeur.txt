@@ -1,0 +1,5 @@
+Illusions of Grandeur {3}{U}
+Enchantment
+Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Illusions of Grandeur enters the battlefield, you gain 20 life.
+When Illusions of Grandeur leaves the battlefield, you lose 20 life.

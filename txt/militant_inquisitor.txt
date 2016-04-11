@@ -1,0 +1,4 @@
+Militant Inquisitor {2}{W}
+Creature — Human Cleric
+Militant Inquisitor gets +1/+0 for each Equipment you control.
+2/3

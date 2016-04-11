@@ -1,0 +1,3 @@
+Avarice Totem {1}
+Artifact
+{5}: Exchange control of Avarice Totem and target nonland permanent.

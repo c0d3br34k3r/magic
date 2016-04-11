@@ -1,0 +1,4 @@
+Surrak, the Hunt Caller {2}{G}{G}
+Legendary Creature — Human Warrior
+Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn.
+5/4

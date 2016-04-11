@@ -1,0 +1,5 @@
+Grisly Transformation {2}{B}
+Enchantment — Aura
+Enchant creature
+When Grisly Transformation enters the battlefield, draw a card.
+Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)

@@ -1,0 +1,5 @@
+Riptide Survivor {2}{U}
+Creature — Human Wizard
+Morph {1}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Riptide Survivor is turned face up, discard two cards, then draw three cards.
+2/1

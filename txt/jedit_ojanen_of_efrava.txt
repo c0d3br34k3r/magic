@@ -1,0 +1,5 @@
+Jedit Ojanen of Efrava {3}{G}{G}{G}
+Legendary Creature — Cat Warrior
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+Whenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk onto the battlefield.
+5/5

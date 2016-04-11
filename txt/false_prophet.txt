@@ -1,0 +1,4 @@
+False Prophet {2}{W}{W}
+Creature — Human Cleric
+When False Prophet dies, exile all creatures.
+2/2

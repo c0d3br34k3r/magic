@@ -1,0 +1,3 @@
+Braidwood Sextant {1}
+Artifact
+{2}, {T}, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.

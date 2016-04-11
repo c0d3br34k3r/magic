@@ -1,0 +1,5 @@
+Caldera Lake
+Land
+Caldera Lake enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{T}: Add {U} or {R} to your mana pool. Caldera Lake deals 1 damage to you.

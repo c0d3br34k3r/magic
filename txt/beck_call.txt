@@ -1,0 +1,9 @@
+Beck {U}{G}
+Sorcery
+Whenever a creature enters the battlefield this turn, you may draw a card.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Call {4}{W}{U}
+Sorcery
+Put four 1/1 white Bird creature tokens with flying onto the battlefield.
+Fuse (You may cast one or both halves of this card from your hand.)

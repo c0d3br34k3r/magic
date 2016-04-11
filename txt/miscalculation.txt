@@ -1,0 +1,4 @@
+Miscalculation {1}{U}
+Instant
+Counter target spell unless its controller pays {2}.
+Cycling {2} ({2}, Discard this card: Draw a card.)

@@ -1,0 +1,4 @@
+Disciple of Deceit {U}{B}
+Creature — Human Rogue
+Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library.
+1/3

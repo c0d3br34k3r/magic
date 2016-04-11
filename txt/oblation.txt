@@ -1,0 +1,3 @@
+Oblation {2}{W}
+Instant
+The owner of target nonland permanent shuffles it into his or her library, then draws two cards.

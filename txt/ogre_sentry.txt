@@ -1,0 +1,4 @@
+Ogre Sentry {1}{R}
+Creature — Ogre Warrior
+Defender
+3/3

@@ -1,0 +1,4 @@
+Necrogen Spellbomb {1}
+Artifact
+{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.
+{1}, Sacrifice Necrogen Spellbomb: Draw a card.

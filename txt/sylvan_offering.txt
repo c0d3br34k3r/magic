@@ -1,0 +1,4 @@
+Sylvan Offering {X}{G}
+Sorcery
+Choose an opponent. You and that player each put an X/X green Treefolk creature token onto the battlefield.
+Choose an opponent. You and that player each put X 1/1 green Elf Warrior creature tokens onto the battlefield.

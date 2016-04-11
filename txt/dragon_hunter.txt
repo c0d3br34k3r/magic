@@ -1,0 +1,5 @@
+Dragon Hunter {W}
+Creature — Human Warrior
+Protection from Dragons
+Dragon Hunter can block Dragons as though it had reach.
+2/1

@@ -1,0 +1,5 @@
+Hallowed Spiritkeeper {1}{W}{W}
+Creature — Avatar
+Vigilance
+When Hallowed Spiritkeeper dies, put X 1/1 white Spirit creature tokens with flying onto the battlefield, where X is the number of creature cards in your graveyard.
+3/2

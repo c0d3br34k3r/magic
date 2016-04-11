@@ -1,0 +1,4 @@
+Sword of the Ages {6}
+Artifact
+Sword of the Ages enters the battlefield tapped.
+{T}, Sacrifice Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures sacrificed this way, then exile Sword of the Ages and those creature cards.

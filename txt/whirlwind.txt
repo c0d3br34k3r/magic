@@ -1,0 +1,3 @@
+Whirlwind {2}{G}{G}
+Sorcery
+Destroy all creatures with flying.

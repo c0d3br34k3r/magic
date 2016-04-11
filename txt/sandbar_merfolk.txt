@@ -1,0 +1,4 @@
+Sandbar Merfolk {U}
+Creature — Merfolk
+Cycling {2} ({2}, Discard this card: Draw a card.)
+1/1

@@ -1,0 +1,5 @@
+Starlit Sanctum
+Land
+{T}: Add {C} to your mana pool.
+{W}, {T}, Sacrifice a Cleric creature: You gain life equal to the sacrificed creature's toughness.
+{B}, {T}, Sacrifice a Cleric creature: Target player loses life equal to the sacrificed creature's power.

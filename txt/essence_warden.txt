@@ -1,0 +1,4 @@
+Essence Warden {G}
+Creature — Elf Shaman
+Whenever another creature enters the battlefield, you gain 1 life.
+1/1

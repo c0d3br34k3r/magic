@@ -1,0 +1,4 @@
+Grayscaled Gharial {U}
+Creature — Crocodile
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+1/1

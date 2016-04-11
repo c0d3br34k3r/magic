@@ -1,0 +1,4 @@
+Dredge {B}
+Instant
+Sacrifice a creature or land.
+Draw a card.

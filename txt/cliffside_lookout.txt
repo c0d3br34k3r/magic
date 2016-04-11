@@ -1,0 +1,4 @@
+Cliffside Lookout {W}
+Creature — Kor Scout Ally
+{4}{W}: Creatures you control get +1/+1 until end of turn.
+1/1

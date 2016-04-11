@@ -1,0 +1,4 @@
+Goblin Chariot {2}{R}
+Creature — Goblin Warrior
+Haste (This creature can attack the turn it comes under your control.)
+2/2

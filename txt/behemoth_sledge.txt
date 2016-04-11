@@ -1,0 +1,4 @@
+Behemoth Sledge {1}{W}{G}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has lifelink and trample.
+Equip {3}

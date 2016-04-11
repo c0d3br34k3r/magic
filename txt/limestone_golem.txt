@@ -1,0 +1,4 @@
+Limestone Golem {6}
+Artifact Creature — Golem
+{2}, Sacrifice Limestone Golem: Target player draws a card.
+3/4

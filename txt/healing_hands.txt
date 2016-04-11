@@ -1,0 +1,4 @@
+Healing Hands {2}{W}
+Sorcery
+Target player gains 4 life.
+Draw a card.

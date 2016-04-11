@@ -1,0 +1,9 @@
+Nezumi Graverobber {1}{B}
+Creature — Rat Rogue
+{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.
+2/1
+* FLIP *
+Nighteyes the Desecrator {1}{B}
+Legendary Creature — Rat Wizard
+{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+4/2

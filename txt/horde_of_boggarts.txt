@@ -1,0 +1,5 @@
+Horde of Boggarts {3}{R}
+Creature — Goblin
+Menace (This creature can't be blocked except by two or more creatures.)
+Horde of Boggarts's power and toughness are each equal to the number of red permanents you control.
+*/*

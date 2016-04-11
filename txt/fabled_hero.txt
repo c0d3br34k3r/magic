@@ -1,0 +1,5 @@
+Fabled Hero {1}{W}{W}
+Creature — Human Soldier
+Double strike
+Heroic — Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.
+2/2

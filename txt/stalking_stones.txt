@@ -1,0 +1,4 @@
+Stalking Stones
+Land
+{T}: Add {C} to your mana pool.
+{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)

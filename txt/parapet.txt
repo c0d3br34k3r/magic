@@ -1,0 +1,4 @@
+Parapet {1}{W}
+Enchantment
+You may cast Parapet as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+Creatures you control get +0/+1.

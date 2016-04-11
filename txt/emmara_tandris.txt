@@ -1,0 +1,4 @@
+Emmara Tandris {5}{W}{G}
+Legendary Creature — Elf Shaman
+Prevent all damage that would be dealt to creature tokens you control.
+5/7

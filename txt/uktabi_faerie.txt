@@ -1,0 +1,5 @@
+Uktabi Faerie {1}{G}
+Creature — Faerie
+Flying
+{3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.
+1/1

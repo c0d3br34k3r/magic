@@ -1,0 +1,5 @@
+Grave Birthing {2}{B}
+Instant
+Devoid (This card has no color.)
+Target opponent exiles a card from his or her graveyard. You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."
+Draw a card.

@@ -1,0 +1,4 @@
+Horned Kavu {R}{G}
+Creature — Kavu
+When Horned Kavu enters the battlefield, return a red or green creature you control to its owner's hand.
+3/4

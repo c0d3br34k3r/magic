@@ -1,0 +1,4 @@
+Battle Hurda {4}{W}
+Creature — Giant
+First strike
+3/3

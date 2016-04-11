@@ -1,0 +1,5 @@
+Shapesharer {1}{U}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{2}{U}: Target Shapeshifter becomes a copy of target creature until your next turn.
+1/1

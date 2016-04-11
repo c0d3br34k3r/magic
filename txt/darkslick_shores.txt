@@ -1,0 +1,4 @@
+Darkslick Shores
+Land
+Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B} to your mana pool.

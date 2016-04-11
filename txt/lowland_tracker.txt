@@ -1,0 +1,5 @@
+Lowland Tracker {4}{W}
+Creature — Human Soldier
+First strike
+Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+2/2

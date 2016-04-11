@@ -1,0 +1,4 @@
+Scab-Clan Charger {3}{G}
+Creature — Centaur Warrior
+Bloodrush — {1}{G}, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
+2/4

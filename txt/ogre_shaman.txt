@@ -1,0 +1,4 @@
+Ogre Shaman {3}{R}{R}
+Creature — Ogre Shaman
+{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.
+3/3

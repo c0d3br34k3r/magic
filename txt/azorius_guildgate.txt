@@ -1,0 +1,4 @@
+Azorius Guildgate
+Land — Gate
+Azorius Guildgate enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.

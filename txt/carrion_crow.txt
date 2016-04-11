@@ -1,0 +1,5 @@
+Carrion Crow {2}{B}
+Creature — Zombie Bird
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Carrion Crow enters the battlefield tapped.
+2/2

@@ -1,0 +1,4 @@
+Black Vise {1}
+Artifact
+As Black Vise enters the battlefield, choose an opponent.
+At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.

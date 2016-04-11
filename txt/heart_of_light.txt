@@ -1,0 +1,4 @@
+Heart of Light {2}{W}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Prevent all damage that would be dealt to and dealt by enchanted creature.

@@ -1,0 +1,4 @@
+Uncle Istvan {1}{B}{B}{B}
+Creature — Human
+Prevent all damage that would be dealt to Uncle Istvan by creatures.
+1/3

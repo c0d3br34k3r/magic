@@ -1,0 +1,4 @@
+Aysen Bureaucrats {1}{W}
+Creature — Human Advisor
+{T}: Tap target creature with power 2 or less.
+1/1

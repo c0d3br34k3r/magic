@@ -1,0 +1,5 @@
+Big Game Hunter {1}{B}{B}
+Creature — Human Rebel Assassin
+When Big Game Hunter enters the battlefield, destroy target creature with power 4 or greater. It can't be regenerated.
+Madness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+1/1

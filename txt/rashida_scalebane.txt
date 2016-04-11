@@ -1,0 +1,4 @@
+Rashida Scalebane {3}{W}{W}
+Legendary Creature — Human Soldier
+{T}: Destroy target attacking or blocking Dragon. It can't be regenerated. You gain life equal to its power.
+3/4

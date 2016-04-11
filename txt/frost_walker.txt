@@ -1,0 +1,4 @@
+Frost Walker {1}{U}
+Creature — Elemental
+When Frost Walker becomes the target of a spell or ability, sacrifice it.
+4/1

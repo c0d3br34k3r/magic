@@ -1,0 +1,6 @@
+Order of Leitbur {W}{W}
+Creature — Human Cleric Knight
+Protection from black
+{W}: Order of Leitbur gains first strike until end of turn.
+{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+2/1

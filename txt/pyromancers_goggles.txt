@@ -1,0 +1,3 @@
+Pyromancer's Goggles {5}
+Legendary Artifact
+{T}: Add {R} to your mana pool. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.

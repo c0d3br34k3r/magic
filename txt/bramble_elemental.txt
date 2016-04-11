@@ -1,0 +1,4 @@
+Bramble Elemental {3}{G}{G}
+Creature — Elemental
+Whenever an Aura becomes attached to Bramble Elemental, put two 1/1 green Saproling creature tokens onto the battlefield.
+4/4

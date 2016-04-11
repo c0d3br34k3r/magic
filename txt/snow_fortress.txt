@@ -1,0 +1,7 @@
+Snow Fortress {5}
+Artifact Creature — Wall
+Defender (This creature can't attack.)
+{1}: Snow Fortress gets +1/+0 until end of turn.
+{1}: Snow Fortress gets +0/+1 until end of turn.
+{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.
+0/4

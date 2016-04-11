@@ -1,0 +1,3 @@
+Vitalizing Cascade {X}{W}{G}
+Instant
+You gain X plus 3 life.

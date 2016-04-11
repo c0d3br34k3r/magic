@@ -1,0 +1,4 @@
+King Cheetah {3}{G}
+Creature — Cat
+Flash
+3/2

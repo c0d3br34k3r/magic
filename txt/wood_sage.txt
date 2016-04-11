@@ -1,0 +1,4 @@
+Wood Sage {U}{G}
+Creature — Human Druid
+{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.
+1/1

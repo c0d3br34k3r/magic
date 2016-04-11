@@ -1,0 +1,5 @@
+Utvara Scalper {1}{R}
+Creature — Goblin Scout
+Flying
+Utvara Scalper attacks each turn if able.
+1/2

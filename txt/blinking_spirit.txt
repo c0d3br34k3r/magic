@@ -1,0 +1,4 @@
+Blinking Spirit {3}{W}
+Creature — Spirit
+{0}: Return Blinking Spirit to its owner's hand.
+2/2

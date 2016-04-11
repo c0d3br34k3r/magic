@@ -1,0 +1,4 @@
+Smash {2}{R}
+Instant
+Destroy target artifact.
+Draw a card.

@@ -1,0 +1,4 @@
+Blood Funnel {1}{B}
+Enchantment
+Noncreature spells you cast cost {2} less to cast.
+Whenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.

@@ -1,0 +1,4 @@
+Argivian Archaeologist {1}{W}{W}
+Creature — Human Artificer
+{W}{W}, {T}: Return target artifact card from your graveyard to your hand.
+1/1

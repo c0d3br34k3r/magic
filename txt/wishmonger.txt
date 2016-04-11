@@ -1,0 +1,4 @@
+Wishmonger {3}{W}
+Creature — Unicorn Monger
+{2}: Target creature gains protection from the color of its controller's choice until end of turn. Any player may activate this ability.
+3/3

@@ -1,0 +1,6 @@
+Nyx Weaver {1}{B}{G}
+Enchantment Creature — Spider
+Reach
+At the beginning of your upkeep, put the top two cards of your library into your graveyard.
+{1}{B}{G}, Exile Nyx Weaver: Return target card from your graveyard to your hand.
+2/3

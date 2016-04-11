@@ -1,0 +1,5 @@
+Wind-Scarred Crag
+Land
+Wind-Scarred Crag enters the battlefield tapped.
+When Wind-Scarred Crag enters the battlefield, you gain 1 life.
+{T}: Add {R} or {W} to your mana pool.

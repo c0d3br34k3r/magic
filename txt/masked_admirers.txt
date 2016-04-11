@@ -1,0 +1,5 @@
+Masked Admirers {2}{G}{G}
+Creature — Elf Shaman
+When Masked Admirers enters the battlefield, draw a card.
+Whenever you cast a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.
+3/2

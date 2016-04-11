@@ -1,0 +1,5 @@
+Parallax Tide {2}{U}{U}
+Enchantment
+Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Parallax Tide: Exile target land.
+When Parallax Tide leaves the battlefield, each player returns to the battlefield all cards he or she owns exiled with Parallax Tide.

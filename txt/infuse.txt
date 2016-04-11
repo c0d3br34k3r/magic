@@ -1,0 +1,4 @@
+Infuse {2}{U}
+Instant
+Untap target artifact, creature, or land.
+Draw a card at the beginning of the next turn's upkeep.

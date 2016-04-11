@@ -1,0 +1,5 @@
+Archfiend of Depravity {3}{B}{B}
+Creature — Demon
+Flying
+At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.
+5/4

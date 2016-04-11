@@ -1,0 +1,5 @@
+Talons of Falkenrath {1}{R}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature has "{1}{R}: This creature gets +2/+0 until end of turn."

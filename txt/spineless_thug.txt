@@ -1,0 +1,4 @@
+Spineless Thug {1}{B}
+Creature — Zombie Mercenary
+Spineless Thug can't block.
+2/2

@@ -1,0 +1,4 @@
+Selesnya Cluestone {3}
+Artifact
+{T}: Add {G} or {W} to your mana pool.
+{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.

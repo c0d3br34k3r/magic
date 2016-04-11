@@ -1,0 +1,5 @@
+Char-Rumbler {2}{R}{R}
+Creature — Elemental
+Double strike
+{R}: Char-Rumbler gets +1/+0 until end of turn.
+-1/3

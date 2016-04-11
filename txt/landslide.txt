@@ -1,0 +1,3 @@
+Landslide {R}
+Sorcery
+Sacrifice any number of Mountains. Landslide deals that much damage to target player.

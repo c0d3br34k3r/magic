@@ -1,0 +1,4 @@
+Mwonvuli Beast Tracker {1}{G}{G}
+Creature — Human Scout
+When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.
+2/1

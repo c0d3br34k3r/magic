@@ -1,0 +1,5 @@
+Wintermoon Mesa
+Land
+Wintermoon Mesa enters the battlefield tapped.
+{T}: Add {C} to your mana pool.
+{2}, {T}, Sacrifice Wintermoon Mesa: Tap two target lands.

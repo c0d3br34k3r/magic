@@ -1,0 +1,5 @@
+Village Survivors {4}{G}
+Creature — Human
+Vigilance
+Fateful hour — As long as you have 5 or less life, other creatures you control have vigilance.
+4/5

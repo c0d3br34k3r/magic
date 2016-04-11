@@ -1,0 +1,5 @@
+Nightscape Apprentice {B}
+Creature — Zombie Wizard
+{U}, {T}: Put target creature you control on top of its owner's library.
+{R}, {T}: Target creature gains first strike until end of turn.
+1/1

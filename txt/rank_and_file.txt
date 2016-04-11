@@ -1,0 +1,4 @@
+Rank and File {2}{B}{B}
+Creature — Zombie
+When Rank and File enters the battlefield, green creatures get -1/-1 until end of turn.
+3/3

@@ -1,0 +1,7 @@
+Smothering Abomination {2}{B}{B}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Flying
+At the beginning of your upkeep, sacrifice a creature.
+Whenever you sacrifice a creature, draw a card.
+4/3

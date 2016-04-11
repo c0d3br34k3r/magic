@@ -1,0 +1,4 @@
+Loxodon Mender {5}{W}
+Creature — Elephant Cleric
+{W}, {T}: Regenerate target artifact.
+3/3

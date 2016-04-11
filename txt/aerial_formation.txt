@@ -1,0 +1,4 @@
+Aerial Formation {U}
+Instant
+Strive — Aerial Formation costs {2}{U} more to cast for each target beyond the first.
+Any number of target creatures each get +1/+1 and gain flying until end of turn.

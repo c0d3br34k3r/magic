@@ -1,0 +1,5 @@
+Vengevine {2}{G}{G}
+Creature — Elemental
+Haste
+Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.
+4/3

@@ -1,0 +1,5 @@
+Zerapa Minotaur {2}{R}{R}
+Creature — Minotaur
+First strike
+{2}: Zerapa Minotaur loses first strike until end of turn. Any player may activate this ability.
+3/3

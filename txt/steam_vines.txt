@@ -1,0 +1,4 @@
+Steam Vines {1}{R}{R}
+Enchantment — Aura
+Enchant land
+When enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of his or her choice.

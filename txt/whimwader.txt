@@ -1,0 +1,4 @@
+Whimwader {4}{U}
+Creature — Elemental
+Whimwader can't attack unless defending player controls a blue permanent.
+6/4

@@ -1,0 +1,3 @@
+Sword of the Chosen {2}
+Legendary Artifact
+{T}: Target legendary creature gets +2/+2 until end of turn.

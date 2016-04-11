@@ -1,0 +1,4 @@
+Juniper Order Ranger {3}{W}{G}
+Creature — Human Knight
+Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+2/4

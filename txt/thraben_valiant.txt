@@ -1,0 +1,4 @@
+Thraben Valiant {1}{W}
+Creature — Human Soldier
+Vigilance
+2/1

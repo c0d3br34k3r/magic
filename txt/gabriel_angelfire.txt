@@ -1,0 +1,4 @@
+Gabriel Angelfire {3}{W}{W}{G}{G}
+Legendary Creature — Angel
+At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. (Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)
+4/4

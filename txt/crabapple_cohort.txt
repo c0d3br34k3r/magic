@@ -1,0 +1,4 @@
+Crabapple Cohort {4}{G}
+Creature — Treefolk Warrior
+Crabapple Cohort gets +1/+1 as long as you control another green creature.
+4/4

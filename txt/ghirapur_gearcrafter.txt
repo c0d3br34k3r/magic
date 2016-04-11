@@ -1,0 +1,4 @@
+Ghirapur Gearcrafter {2}{R}
+Creature — Human Artificer
+When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. (A creature with flying can't be blocked except by creatures with flying or reach.)
+2/1

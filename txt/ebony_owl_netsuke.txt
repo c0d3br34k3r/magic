@@ -1,0 +1,3 @@
+Ebony Owl Netsuke {2}
+Artifact
+At the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.

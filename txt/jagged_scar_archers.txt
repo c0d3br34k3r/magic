@@ -1,0 +1,5 @@
+Jagged-Scar Archers {1}{G}{G}
+Creature — Elf Archer
+Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.
+{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.
+*/*

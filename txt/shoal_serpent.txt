@@ -1,0 +1,5 @@
+Shoal Serpent {5}{U}
+Creature — Serpent
+Defender
+Landfall — Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.
+5/5

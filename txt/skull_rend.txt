@@ -1,0 +1,3 @@
+Skull Rend {3}{B}{R}
+Sorcery
+Skull Rend deals 2 damage to each opponent. Those players each discard two cards at random.

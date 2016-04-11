@@ -1,0 +1,3 @@
+Stroke of Genius {X}{2}{U}
+Instant
+Target player draws X cards.

@@ -1,0 +1,9 @@
+Convicted Killer {2}{R}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.
+2/2
+* DOUBLE-FACED *
+Branded Howler
+Creature — Werewolf
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Branded Howler.
+4/4

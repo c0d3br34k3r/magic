@@ -1,0 +1,4 @@
+Kor Line-Slinger {1}{W}
+Creature — Kor Scout
+{T}: Tap target creature with power 3 or less.
+0/1

@@ -1,0 +1,4 @@
+Blistering Barrier {2}{R}
+Creature — Wall
+Defender (This creature can't attack.)
+5/2

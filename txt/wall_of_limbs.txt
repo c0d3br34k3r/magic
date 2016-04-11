@@ -1,0 +1,6 @@
+Wall of Limbs {2}{B}
+Creature — Zombie Wall
+Defender (This creature can't attack.)
+Whenever you gain life, put a +1/+1 counter on Wall of Limbs.
+{5}{B}{B}, Sacrifice Wall of Limbs: Target player loses X life, where X is Wall of Limbs's power.
+0/3

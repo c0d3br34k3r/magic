@@ -1,0 +1,4 @@
+Wandering Graybeard {3}{W}{W}
+Creature — Giant Wizard
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wandering Graybeard, you may reveal it. If you do, you gain 4 life.
+4/4

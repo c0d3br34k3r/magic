@@ -1,0 +1,4 @@
+Wings of Hope {W}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+3 and has flying.

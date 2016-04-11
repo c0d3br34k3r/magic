@@ -1,0 +1,4 @@
+Cunning Advisor {3}{B}
+Creature — Human Advisor
+{T}: Target opponent discards a card. Activate this ability only during your turn, before attackers are declared.
+1/1

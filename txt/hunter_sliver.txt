@@ -1,0 +1,4 @@
+Hunter Sliver {1}{R}
+Creature — Sliver
+All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)
+1/1

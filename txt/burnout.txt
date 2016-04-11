@@ -1,0 +1,4 @@
+Burnout {1}{R}
+Instant
+Counter target instant spell if it's blue.
+Draw a card at the beginning of the next turn's upkeep.

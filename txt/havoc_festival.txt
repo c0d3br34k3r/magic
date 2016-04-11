@@ -1,0 +1,4 @@
+Havoc Festival {4}{B}{R}
+Enchantment
+Players can't gain life.
+At the beginning of each player's upkeep, that player loses half his or her life, rounded up.

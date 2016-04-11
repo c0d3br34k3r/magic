@@ -1,0 +1,5 @@
+Power Conduit {2}
+Artifact
+{T}, Remove a counter from a permanent you control: Choose one —
+• Put a charge counter on target artifact.
+• Put a +1/+1 counter on target creature.

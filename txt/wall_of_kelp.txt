@@ -1,0 +1,5 @@
+Wall of Kelp {U}{U}
+Creature — Plant Wall
+Defender (This creature can't attack.)
+{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp onto the battlefield.
+0/3

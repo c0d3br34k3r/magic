@@ -1,0 +1,4 @@
+Weapons Trainer {W}{R}
+Creature — Human Soldier Ally
+Other creatures you control get +1/+0 as long as you control an Equipment.
+3/2

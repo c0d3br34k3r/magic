@@ -1,0 +1,3 @@
+Cleanse {2}{W}{W}
+Sorcery
+Destroy all black creatures.

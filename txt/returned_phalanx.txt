@@ -1,0 +1,5 @@
+Returned Phalanx {1}{B}
+Creature — Zombie Soldier
+Defender
+{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.
+3/3

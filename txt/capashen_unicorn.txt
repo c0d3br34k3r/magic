@@ -1,0 +1,4 @@
+Capashen Unicorn {1}{W}
+Creature — Unicorn
+{1}{W}, {T}, Sacrifice Capashen Unicorn: Destroy target artifact or enchantment.
+1/2

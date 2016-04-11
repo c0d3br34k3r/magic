@@ -1,0 +1,3 @@
+Disdainful Stroke {1}{U}
+Instant
+Counter target spell with converted mana cost 4 or greater.

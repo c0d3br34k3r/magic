@@ -1,0 +1,5 @@
+Aurora Griffin {3}{W}
+Creature — Griffin
+Flying
+{W}: Target permanent becomes white until end of turn.
+2/2

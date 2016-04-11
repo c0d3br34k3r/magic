@@ -1,0 +1,3 @@
+Bloodstone Cameo {3}
+Artifact
+{T}: Add {B} or {R} to your mana pool.

@@ -1,0 +1,3 @@
+Commando Raid {2}{R}
+Instant
+Until end of turn, target creature you control gains "When this creature deals combat damage to a player, you may have it deal damage equal to its power to target creature that player controls."

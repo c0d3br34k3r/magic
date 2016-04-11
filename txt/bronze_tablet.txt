@@ -1,0 +1,5 @@
+Bronze Tablet {6}
+Artifact
+Remove Bronze Tablet from your deck before playing if you're not playing for ante.
+Bronze Tablet enters the battlefield tapped.
+{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If he or she does, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.

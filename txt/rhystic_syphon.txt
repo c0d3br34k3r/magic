@@ -1,0 +1,3 @@
+Rhystic Syphon {3}{B}{B}
+Sorcery
+Unless target player pays {3}, he or she loses 5 life and you gain 5 life.

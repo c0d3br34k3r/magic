@@ -1,0 +1,4 @@
+Blightsoil Druid {1}{B}
+Creature — Elf Druid
+{T}, Pay 1 life: Add {G} to your mana pool.
+1/2

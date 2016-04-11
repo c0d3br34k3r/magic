@@ -1,0 +1,4 @@
+Lady Evangela {W}{U}{B}
+Legendary Creature — Human Cleric
+{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.
+1/2

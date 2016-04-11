@@ -1,0 +1,5 @@
+Retaliator Griffin {1}{W}{R}{G}
+Creature — Griffin
+Flying
+Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.
+2/2

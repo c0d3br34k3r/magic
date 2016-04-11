@@ -1,0 +1,4 @@
+Wirewood Herald {1}{G}
+Creature — Elf
+When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.
+1/1

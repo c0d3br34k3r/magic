@@ -1,0 +1,4 @@
+Dragonspeaker Shaman {1}{R}{R}
+Creature — Human Barbarian Shaman
+Dragon spells you cast cost {2} less to cast.
+2/2

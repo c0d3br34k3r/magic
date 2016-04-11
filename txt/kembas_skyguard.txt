@@ -1,0 +1,5 @@
+Kemba's Skyguard {1}{W}{W}
+Creature — Cat Knight
+Flying
+When Kemba's Skyguard enters the battlefield, you gain 2 life.
+2/2

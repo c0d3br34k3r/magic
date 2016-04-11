@@ -1,0 +1,4 @@
+Ridgeline Rager {2}{R}
+Creature — Beast
+{R}: Ridgeline Rager gets +1/+0 until end of turn.
+1/2

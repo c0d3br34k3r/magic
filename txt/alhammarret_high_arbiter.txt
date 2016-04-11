@@ -1,0 +1,6 @@
+Alhammarret, High Arbiter {5}{U}{U}
+Legendary Creature — Sphinx
+Flying
+As Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way.
+Your opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).
+5/5

@@ -1,0 +1,5 @@
+Briar Shield {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.

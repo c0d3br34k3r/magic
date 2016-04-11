@@ -1,0 +1,5 @@
+Venerable Kumo {4}{G}
+Creature — Spirit
+Reach (This creature can block creatures with flying.)
+Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+2/3

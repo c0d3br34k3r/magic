@@ -1,0 +1,6 @@
+Soul of Shandalar {4}{R}{R}
+Creature — Avatar
+First strike
+{3}{R}{R}: Soul of Shandalar deals 3 damage to target player and 3 damage to up to one target creature that player controls.
+{3}{R}{R}, Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player and 3 damage to up to one target creature that player controls.
+6/6

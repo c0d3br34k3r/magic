@@ -1,0 +1,5 @@
+Battle Squadron {3}{R}{R}
+Creature — Goblin
+Flying
+Battle Squadron's power and toughness are each equal to the number of creatures you control.
+*/*

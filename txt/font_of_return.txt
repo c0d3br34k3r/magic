@@ -1,0 +1,3 @@
+Font of Return {1}{B}
+Enchantment
+{3}{B}, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.

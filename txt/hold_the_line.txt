@@ -1,0 +1,3 @@
+Hold the Line {1}{W}{W}
+Instant
+Blocking creatures get +7/+7 until end of turn.

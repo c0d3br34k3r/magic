@@ -1,0 +1,4 @@
+Turn Against {4}{R}
+Instant
+Devoid (This card has no color.)
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.

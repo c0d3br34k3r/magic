@@ -1,0 +1,4 @@
+Monk Idealist {2}{W}
+Creature — Human Monk Cleric
+When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.
+2/2

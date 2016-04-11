@@ -1,0 +1,3 @@
+Death Stroke {B}{B}
+Sorcery
+Destroy target tapped creature.

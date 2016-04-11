@@ -1,0 +1,4 @@
+Patrol Signaler {1}{W}
+Creature — Kithkin Soldier
+{1}{W}, {Q}: Put a 1/1 white Kithkin Soldier creature token onto the battlefield. ({Q} is the untap symbol.)
+1/1

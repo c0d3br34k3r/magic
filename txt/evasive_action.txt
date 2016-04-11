@@ -1,0 +1,3 @@
+Evasive Action {1}{U}
+Instant
+Domain — Counter target spell unless its controller pays {1} for each basic land type among lands you control.

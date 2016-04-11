@@ -1,0 +1,4 @@
+Encroaching Wastes
+Land
+{T}: Add {C} to your mana pool.
+{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.

@@ -1,0 +1,4 @@
+Bloodfire Enforcers {3}{R}
+Creature — Human Monk
+Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.
+5/2

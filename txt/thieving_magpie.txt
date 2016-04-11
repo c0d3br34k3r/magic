@@ -1,0 +1,5 @@
+Thieving Magpie {2}{U}{U}
+Creature — Bird
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Thieving Magpie deals damage to an opponent, draw a card.
+1/3

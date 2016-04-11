@@ -1,0 +1,5 @@
+Talas Explorer {1}{U}
+Creature — Human Pirate Scout
+Flying
+When Talas Explorer enters the battlefield, look at target opponent's hand.
+1/1

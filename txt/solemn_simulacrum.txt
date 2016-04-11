@@ -1,0 +1,5 @@
+Solemn Simulacrum {4}
+Artifact Creature — Golem
+When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+When Solemn Simulacrum dies, you may draw a card.
+2/2

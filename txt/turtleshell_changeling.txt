@@ -1,0 +1,5 @@
+Turtleshell Changeling {3}{U}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{1}{U}: Switch Turtleshell Changeling's power and toughness until end of turn.
+1/4

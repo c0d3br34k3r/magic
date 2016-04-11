@@ -1,0 +1,5 @@
+Mold Shambler {3}{G}
+Creature — Fungus Beast
+Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)
+When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+3/3

@@ -1,0 +1,5 @@
+Frostweb Spider {2}{G}
+Snow Creature — Spider
+Reach (This creature can block creatures with flying.)
+Whenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat.
+1/3

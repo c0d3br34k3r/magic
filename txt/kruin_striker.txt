@@ -1,0 +1,4 @@
+Kruin Striker {1}{R}
+Creature — Human Warrior
+Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.
+2/1

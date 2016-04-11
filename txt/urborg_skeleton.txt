@@ -1,0 +1,6 @@
+Urborg Skeleton {B}
+Creature — Skeleton
+Kicker {3} (You may pay an additional {3} as you cast this spell.)
+{B}: Regenerate Urborg Skeleton.
+If Urborg Skeleton was kicked, it enters the battlefield with a +1/+1 counter on it.
+0/1

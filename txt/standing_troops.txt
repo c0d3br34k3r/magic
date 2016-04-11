@@ -1,0 +1,4 @@
+Standing Troops {2}{W}
+Creature — Human Soldier
+Vigilance
+1/4

@@ -1,0 +1,4 @@
+Skyshroud Elite {G}
+Creature — Elf
+Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.
+1/1

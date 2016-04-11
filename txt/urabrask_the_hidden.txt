@@ -1,0 +1,5 @@
+Urabrask the Hidden {3}{R}{R}
+Legendary Creature — Praetor
+Creatures you control have haste.
+Creatures your opponents control enter the battlefield tapped.
+4/4

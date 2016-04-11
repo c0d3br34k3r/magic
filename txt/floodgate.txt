@@ -1,0 +1,6 @@
+Floodgate {3}{U}
+Creature — Wall
+Defender (This creature can't attack.)
+When Floodgate has flying, sacrifice it.
+When Floodgate leaves the battlefield, it deals damage equal to half the number of Islands you control, rounded down, to each nonblue creature without flying.
+0/5

@@ -1,0 +1,5 @@
+Bloodfell Caves
+Land
+Bloodfell Caves enters the battlefield tapped.
+When Bloodfell Caves enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.

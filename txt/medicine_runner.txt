@@ -1,0 +1,4 @@
+Medicine Runner {1}{G/W}
+Creature — Elf Cleric
+When Medicine Runner enters the battlefield, you may remove a counter from target permanent.
+2/1

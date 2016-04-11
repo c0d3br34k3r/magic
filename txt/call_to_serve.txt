@@ -1,0 +1,4 @@
+Call to Serve {1}{W}
+Enchantment — Aura
+Enchant nonblack creature
+Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.

@@ -1,0 +1,4 @@
+Walking Sponge {1}{U}
+Creature — Sponge
+{T}: Target creature loses your choice of flying, first strike, or trample until end of turn.
+1/1

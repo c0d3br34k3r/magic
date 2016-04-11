@@ -1,0 +1,5 @@
+Trygon Predator {1}{U}{G}
+Creature — Beast
+Flying
+Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.
+2/3

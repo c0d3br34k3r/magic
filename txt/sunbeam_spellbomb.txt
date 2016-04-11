@@ -1,0 +1,4 @@
+Sunbeam Spellbomb {1}
+Artifact
+{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.
+{1}, Sacrifice Sunbeam Spellbomb: Draw a card.

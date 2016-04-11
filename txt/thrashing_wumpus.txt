@@ -1,0 +1,4 @@
+Thrashing Wumpus {3}{B}{B}
+Creature — Beast
+{B}: Thrashing Wumpus deals 1 damage to each creature and each player.
+3/3

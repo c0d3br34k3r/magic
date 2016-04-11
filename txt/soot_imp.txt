@@ -1,0 +1,5 @@
+Soot Imp {1}{B}{B}
+Creature — Imp
+Flying
+Whenever a player casts a nonblack spell, that player loses 1 life.
+1/2

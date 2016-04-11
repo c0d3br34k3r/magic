@@ -1,0 +1,4 @@
+Zodiac Horse {3}{G}
+Creature — Horse
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+3/3

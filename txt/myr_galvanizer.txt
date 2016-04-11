@@ -1,0 +1,5 @@
+Myr Galvanizer {3}
+Artifact Creature — Myr
+Other Myr creatures you control get +1/+1.
+{1}, {T}: Untap each other Myr you control.
+2/2

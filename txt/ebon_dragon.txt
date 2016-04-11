@@ -1,0 +1,5 @@
+Ebon Dragon {5}{B}{B}
+Creature — Dragon
+Flying
+When Ebon Dragon enters the battlefield, you may have target opponent discard a card.
+5/4

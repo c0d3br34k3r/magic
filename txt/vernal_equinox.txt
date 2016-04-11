@@ -1,0 +1,3 @@
+Vernal Equinox {3}{G}
+Enchantment
+Any player may cast creature and enchantment cards as though they had flash.

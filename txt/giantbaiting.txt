@@ -1,0 +1,4 @@
+Giantbaiting {2}{R/G}
+Sorcery
+Put a 4/4 red and green Giant Warrior creature token with haste onto the battlefield. Exile it at the beginning of the next end step.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)

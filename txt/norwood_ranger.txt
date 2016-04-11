@@ -1,0 +1,3 @@
+Norwood Ranger {G}
+Creature — Elf Scout
+1/2

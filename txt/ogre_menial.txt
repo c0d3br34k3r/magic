@@ -1,0 +1,5 @@
+Ogre Menial {3}{R}
+Creature — Ogre
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{R}: Ogre Menial gets +1/+0 until end of turn.
+0/4

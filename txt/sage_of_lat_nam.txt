@@ -1,0 +1,4 @@
+Sage of Lat-Nam {1}{U}
+Creature — Human Artificer
+{T}, Sacrifice an artifact: Draw a card.
+1/2

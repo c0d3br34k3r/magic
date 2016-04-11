@@ -1,0 +1,3 @@
+Dark Sphere {0}
+Artifact
+{T}, Sacrifice Dark Sphere: The next time a source of your choice would deal damage to you this turn, prevent half that damage, rounded down.

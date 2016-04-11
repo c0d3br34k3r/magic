@@ -1,0 +1,4 @@
+Train of Thought {1}{U}
+Sorcery
+Replicate {1}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)
+Draw a card.

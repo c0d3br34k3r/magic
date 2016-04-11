@@ -1,0 +1,3 @@
+Kalonian Tusker {G}{G}
+Creature — Beast
+3/3

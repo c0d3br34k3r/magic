@@ -1,0 +1,6 @@
+Artifact Ward {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked by artifact creatures.
+Prevent all damage that would be dealt to enchanted creature by artifact sources.
+Enchanted creature can't be the target of abilities from artifact sources.

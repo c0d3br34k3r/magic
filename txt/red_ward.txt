@@ -1,0 +1,4 @@
+Red Ward {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from red. This effect doesn't remove Red Ward.

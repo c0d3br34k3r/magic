@@ -1,0 +1,4 @@
+Forced Adaptation {G}
+Enchantment — Aura
+Enchant creature
+At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.

@@ -1,0 +1,4 @@
+Pretender's Claim {1}{B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature becomes blocked, tap all lands defending player controls.

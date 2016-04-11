@@ -1,0 +1,4 @@
+Esper Stormblade {W/B}{U}
+Artifact Creature — Vedalken Wizard
+As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.
+2/1

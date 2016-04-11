@@ -1,0 +1,4 @@
+Clinging Darkness {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -4/-1.

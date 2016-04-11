@@ -1,0 +1,4 @@
+Merrow Witsniper {U}
+Creature — Merfolk Rogue
+When Merrow Witsniper enters the battlefield, target player puts the top card of his or her library into his or her graveyard.
+1/1

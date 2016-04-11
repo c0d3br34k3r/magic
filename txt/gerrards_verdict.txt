@@ -1,0 +1,3 @@
+Gerrard's Verdict {W}{B}
+Sorcery
+Target player discards two cards. You gain 3 life for each land card discarded this way.

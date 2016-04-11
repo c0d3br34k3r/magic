@@ -1,0 +1,5 @@
+Utopia Vow {1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block.
+Enchanted creature has "{T}: Add one mana of any color to your mana pool."

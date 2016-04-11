@@ -1,0 +1,10 @@
+Ulvenwald Mystics {2}{G}{G}
+Creature — Human Shaman Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.
+3/3
+* DOUBLE-FACED *
+Ulvenwald Primordials
+(G) Creature — Werewolf
+{G}: Regenerate Ulvenwald Primordials.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.
+5/5

@@ -1,0 +1,6 @@
+Tibalt, the Fiend-Blooded {R}{R}
+Planeswalker — Tibalt
++1: Draw a card, then discard a card at random.
+−4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
+−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.
+2

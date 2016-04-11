@@ -1,0 +1,5 @@
+Avian Changeling {2}{W}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+Flying
+2/2

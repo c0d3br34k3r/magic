@@ -1,0 +1,9 @@
+Skin Invasion {R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature attacks each combat if able.
+When enchanted creature dies, return Skin Invasion to the battlefield transformed under your control.
+* DOUBLE-FACED *
+Skin Shedder
+Creature — Insect Horror
+3/4

@@ -1,0 +1,4 @@
+Viashino Grappler {2}{R}
+Creature — Viashino
+{G}: Viashino Grappler gains trample until end of turn.
+3/1

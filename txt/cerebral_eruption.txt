@@ -1,0 +1,3 @@
+Cerebral Eruption {2}{R}{R}
+Sorcery
+Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.

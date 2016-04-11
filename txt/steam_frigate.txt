@@ -1,0 +1,4 @@
+Steam Frigate {2}{U}
+Creature — Human Pirate
+Steam Frigate can't attack unless defending player controls an Island.
+3/3

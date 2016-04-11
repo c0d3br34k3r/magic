@@ -1,0 +1,5 @@
+Borderland Behemoth {5}{R}{R}
+Creature — Giant Warrior
+Trample
+Borderland Behemoth gets +4/+4 for each other Giant you control.
+4/4

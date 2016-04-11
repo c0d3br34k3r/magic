@@ -1,0 +1,5 @@
+Drifter il-Dal {U}
+Creature — Human Wizard
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay {U}.
+2/1

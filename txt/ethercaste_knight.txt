@@ -1,0 +1,4 @@
+Ethercaste Knight {W}{U}
+Artifact Creature — Human Knight
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+1/3

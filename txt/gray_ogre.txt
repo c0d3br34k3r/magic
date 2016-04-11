@@ -1,0 +1,3 @@
+Gray Ogre {2}{R}
+Creature — Ogre
+2/2

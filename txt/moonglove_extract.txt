@@ -1,0 +1,3 @@
+Moonglove Extract {3}
+Artifact
+Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.

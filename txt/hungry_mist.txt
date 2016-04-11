@@ -1,0 +1,4 @@
+Hungry Mist {2}{G}{G}
+Creature — Elemental
+At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.
+6/2

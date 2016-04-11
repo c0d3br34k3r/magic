@@ -1,0 +1,6 @@
+Karn Liberated {7}
+Planeswalker — Karn
++4: Target player exiles a card from his or her hand.
+−3: Exile target permanent.
+−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.
+6

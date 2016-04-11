@@ -1,0 +1,4 @@
+Tukatongue Thallid {G}
+Creature — Fungus
+When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.
+1/1

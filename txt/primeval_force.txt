@@ -1,0 +1,4 @@
+Primeval Force {2}{G}{G}{G}
+Creature — Elemental
+When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.
+8/8

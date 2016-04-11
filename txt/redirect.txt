@@ -1,0 +1,3 @@
+Redirect {U}{U}
+Instant
+You may choose new targets for target spell.

@@ -1,0 +1,4 @@
+Gurmag Swiftwing {1}{B}
+Creature — Bat
+Flying, first strike, haste
+1/2

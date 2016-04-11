@@ -1,0 +1,4 @@
+Soul Charmer {2}{W}
+Creature — Human Rebel
+Whenever Soul Charmer deals combat damage to a creature, you gain 2 life unless that creature's controller pays {2}.
+2/2

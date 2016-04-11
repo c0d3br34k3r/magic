@@ -1,0 +1,3 @@
+Deathlace {B}
+Instant
+Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)

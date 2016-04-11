@@ -1,0 +1,4 @@
+Kithkin Greatheart {1}{W}
+Creature — Kithkin Soldier
+As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.
+2/1

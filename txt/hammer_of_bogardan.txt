@@ -1,0 +1,4 @@
+Hammer of Bogardan {1}{R}{R}
+Sorcery
+Hammer of Bogardan deals 3 damage to target creature or player.
+{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.

@@ -1,0 +1,4 @@
+Folk of the Pines {4}{G}
+Creature — Dryad
+{1}{G}: Folk of the Pines gets +1/+0 until end of turn.
+2/5

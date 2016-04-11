@@ -1,0 +1,4 @@
+Swarmyard
+Land
+{T}: Add {C} to your mana pool.
+{T}: Regenerate target Insect, Rat, Spider, or Squirrel.

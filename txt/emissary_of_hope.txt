@@ -1,0 +1,5 @@
+Emissary of Hope {1}{W}{W}
+Creature — Spirit
+Flying
+Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.
+2/1

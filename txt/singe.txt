@@ -1,0 +1,3 @@
+Singe {R}
+Instant
+Singe deals 1 damage to target creature. That creature becomes black until end of turn.

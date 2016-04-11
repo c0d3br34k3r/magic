@@ -1,0 +1,6 @@
+Triad of Fates {2}{W}{B}
+Legendary Creature — Human Wizard
+{1}, {T}: Put a fate counter on another target creature.
+{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.
+{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards.
+3/3

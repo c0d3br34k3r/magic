@@ -1,0 +1,3 @@
+Flashfreeze {1}{U}
+Instant
+Counter target red or green spell.

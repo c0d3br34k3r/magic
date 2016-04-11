@@ -1,0 +1,5 @@
+Wall of Denial {1}{W}{U}
+Creature — Wall
+Defender, flying
+Shroud (This creature can't be the target of spells or abilities.)
+0/8

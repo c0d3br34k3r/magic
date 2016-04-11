@@ -1,0 +1,3 @@
+Goblin Scouts {3}{R}{R}
+Sorcery
+Put three 1/1 red Goblin Scout creature tokens with mountainwalk onto the battlefield. (They can't be blocked as long as defending player controls a Mountain.)

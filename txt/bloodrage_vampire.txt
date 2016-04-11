@@ -1,0 +1,4 @@
+Bloodrage Vampire {2}{B}
+Creature — Vampire
+Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+3/1

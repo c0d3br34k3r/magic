@@ -1,0 +1,5 @@
+Grief Tyrant {5}{B/R}
+Creature — Horror
+Grief Tyrant enters the battlefield with four -1/-1 counters on it.
+When Grief Tyrant dies, put a -1/-1 counter on target creature for each -1/-1 counter on Grief Tyrant.
+8/8

@@ -1,0 +1,5 @@
+Illusionary Servant {1}{U}{U}
+Creature — Illusion
+Flying
+When Illusionary Servant becomes the target of a spell or ability, sacrifice it.
+3/4

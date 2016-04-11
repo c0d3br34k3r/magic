@@ -1,0 +1,5 @@
+Loxodon Hierarch {2}{W}{G}
+Creature — Elephant Cleric
+When Loxodon Hierarch enters the battlefield, you gain 4 life.
+{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.
+4/4

@@ -1,0 +1,5 @@
+Sunblast Angel {4}{W}{W}
+Creature — Angel
+Flying
+When Sunblast Angel enters the battlefield, destroy all tapped creatures.
+4/5

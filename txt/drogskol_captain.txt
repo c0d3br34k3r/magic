@@ -1,0 +1,5 @@
+Drogskol Captain {1}{W}{U}
+Creature — Spirit Soldier
+Flying
+Other Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+2/2

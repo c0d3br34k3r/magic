@@ -1,0 +1,4 @@
+Epicenter {4}{R}
+Sorcery
+Target player sacrifices a land.
+Threshold — Each player sacrifices all lands he or she controls instead if seven or more cards are in your graveyard.

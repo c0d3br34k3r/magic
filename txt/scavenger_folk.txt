@@ -1,0 +1,4 @@
+Scavenger Folk {G}
+Creature — Human
+{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+1/1

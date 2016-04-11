@@ -1,0 +1,5 @@
+Polluted Mire
+Land
+Polluted Mire enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)

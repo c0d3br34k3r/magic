@@ -1,0 +1,5 @@
+Stratozeppelid {4}{U}
+Creature — Beast
+Flying
+Stratozeppelid can block only creatures with flying.
+4/4

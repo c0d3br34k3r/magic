@@ -1,0 +1,5 @@
+Coretapper {2}
+Artifact Creature — Myr
+{T}: Put a charge counter on target artifact.
+Sacrifice Coretapper: Put two charge counters on target artifact.
+1/1

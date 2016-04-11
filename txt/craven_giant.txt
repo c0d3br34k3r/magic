@@ -1,0 +1,4 @@
+Craven Giant {2}{R}
+Creature — Giant
+Craven Giant can't block.
+4/1

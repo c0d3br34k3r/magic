@@ -1,0 +1,4 @@
+Windreaper Falcon {1}{R}{G}
+Creature — Bird
+Flying, protection from blue
+1/1

@@ -1,0 +1,5 @@
+Pheres-Band Warchief {3}{G}
+Creature — Centaur Warrior
+Vigilance, trample
+Other Centaur creatures you control get +1/+1 and have vigilance and trample.
+3/3

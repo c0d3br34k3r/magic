@@ -1,0 +1,5 @@
+Skeletal Changeling {1}{B}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+{1}{B}: Regenerate Skeletal Changeling.
+1/1

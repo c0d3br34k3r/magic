@@ -1,0 +1,4 @@
+Fable of Wolf and Owl {3}{G/U}{G/U}{G/U}
+Enchantment
+Whenever you cast a green spell, you may put a 2/2 green Wolf creature token onto the battlefield.
+Whenever you cast a blue spell, you may put a 1/1 blue Bird creature token with flying onto the battlefield.

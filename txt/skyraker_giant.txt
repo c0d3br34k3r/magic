@@ -1,0 +1,4 @@
+Skyraker Giant {2}{R}{R}
+Creature — Giant
+Reach (This creature can block creatures with flying.)
+4/3

@@ -1,0 +1,4 @@
+Seer's Vision {2}{U}{B}
+Enchantment
+Your opponents play with their hands revealed.
+Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.

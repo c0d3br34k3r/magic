@@ -1,0 +1,5 @@
+Shinen of Fury's Fire {2}{R}
+Creature — Spirit
+Haste
+Channel — {R}, Discard Shinen of Fury's Fire: Target creature gains haste until end of turn.
+2/1

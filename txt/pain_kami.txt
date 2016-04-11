@@ -1,0 +1,4 @@
+Pain Kami {2}{R}
+Creature — Spirit
+{X}{R}, Sacrifice Pain Kami: Pain Kami deals X damage to target creature.
+2/2

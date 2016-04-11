@@ -1,0 +1,3 @@
+Mind Spring {X}{U}{U}
+Sorcery
+Draw X cards.

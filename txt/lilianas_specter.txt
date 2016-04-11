@@ -1,0 +1,5 @@
+Liliana's Specter {1}{B}{B}
+Creature — Specter
+Flying
+When Liliana's Specter enters the battlefield, each opponent discards a card.
+2/1

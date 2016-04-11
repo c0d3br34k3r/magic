@@ -1,0 +1,4 @@
+Black Market {3}{B}{B}
+Enchantment
+Whenever a creature dies, put a charge counter on Black Market.
+At the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Black Market.

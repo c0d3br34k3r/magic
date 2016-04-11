@@ -1,0 +1,5 @@
+Nantuko Calmer {2}{G}{G}
+Creature — Insect Druid
+{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.
+Threshold — Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.
+2/3

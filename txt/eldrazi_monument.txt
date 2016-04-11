@@ -1,0 +1,4 @@
+Eldrazi Monument {5}
+Artifact
+Creatures you control get +1/+1 and have flying and indestructible.
+At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.

@@ -1,0 +1,6 @@
+Brimaz, King of Oreskos {1}{W}{W}
+Legendary Creature — Cat Soldier
+Vigilance
+Whenever Brimaz, King of Oreskos attacks, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield attacking.
+Whenever Brimaz blocks a creature, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield blocking that creature.
+3/4

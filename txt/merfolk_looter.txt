@@ -1,0 +1,4 @@
+Merfolk Looter {1}{U}
+Creature — Merfolk Rogue
+{T}: Draw a card, then discard a card.
+1/1

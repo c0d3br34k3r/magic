@@ -1,0 +1,4 @@
+Prowling Pangolin {3}{B}{B}
+Creature — Beast
+When Prowling Pangolin enters the battlefield, any player may sacrifice two creatures. If a player does, sacrifice Prowling Pangolin.
+6/5

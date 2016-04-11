@@ -1,0 +1,3 @@
+Moonlight Hunt {1}{G}
+Instant
+Choose target creature you don't control. Each creature you control that's a Wolf or a Werewolf deals damage equal to its power to that creature.

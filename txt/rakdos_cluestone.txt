@@ -1,0 +1,4 @@
+Rakdos Cluestone {3}
+Artifact
+{T}: Add {B} or {R} to your mana pool.
+{B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card.

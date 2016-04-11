@@ -1,0 +1,4 @@
+Whipgrass Entangler {2}{W}
+Creature — Human Cleric
+{1}{W}: Until end of turn, target creature gains "This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield."
+1/3

@@ -1,0 +1,5 @@
+Dragon Hatchling {1}{R}
+Creature — Dragon
+Flying
+{R}: Dragon Hatchling gets +1/+0 until end of turn.
+0/1

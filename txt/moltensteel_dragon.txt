@@ -1,0 +1,6 @@
+Moltensteel Dragon {4}{R/P}{R/P}
+Artifact Creature — Dragon
+({R/P} can be paid with either {R} or 2 life.)
+Flying
+{R/P}: Moltensteel Dragon gets +1/+0 until end of turn.
+4/4

@@ -1,0 +1,10 @@
+Gatstaf Arsonists {4}{R}
+Creature — Human Werewolf
+At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Arsonists.
+5/4
+* DOUBLE-FACED *
+Gatstaf Ravagers
+Creature — Werewolf
+Menace (This creature can't be blocked except by two or more creatures.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Ravagers.
+6/5

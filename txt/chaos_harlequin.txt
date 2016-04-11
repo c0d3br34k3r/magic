@@ -1,0 +1,4 @@
+Chaos Harlequin {2}{R}{R}
+Creature — Human
+{R}: Exile the top card of your library. If that card is a land card, Chaos Harlequin gets -4/-0 until end of turn. Otherwise, Chaos Harlequin gets +2/+0 until end of turn.
+2/4

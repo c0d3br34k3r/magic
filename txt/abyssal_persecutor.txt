@@ -1,0 +1,5 @@
+Abyssal Persecutor {2}{B}{B}
+Creature — Demon
+Flying, trample
+You can't win the game and your opponents can't lose the game.
+6/6

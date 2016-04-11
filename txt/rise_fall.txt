@@ -1,0 +1,7 @@
+Rise {U}{B}
+Sorcery
+Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.
+* SPLIT *
+Fall {B}{R}
+Sorcery
+Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.

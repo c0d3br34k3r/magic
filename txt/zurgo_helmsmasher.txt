@@ -1,0 +1,7 @@
+Zurgo Helmsmasher {2}{W}{B}{R}
+Legendary Creature — Orc Warrior
+Haste
+Zurgo Helmsmasher attacks each combat if able.
+Zurgo Helmsmasher has indestructible as long as it's your turn.
+Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.
+7/2

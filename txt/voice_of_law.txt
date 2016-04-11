@@ -1,0 +1,4 @@
+Voice of Law {3}{W}
+Creature — Angel
+Flying, protection from red
+2/2

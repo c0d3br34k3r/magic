@@ -1,0 +1,5 @@
+Aven Battle Priest {5}{W}
+Creature — Bird Cleric
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Battle Priest enters the battlefield, you gain 3 life.
+3/3

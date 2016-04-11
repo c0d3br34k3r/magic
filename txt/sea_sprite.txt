@@ -1,0 +1,4 @@
+Sea Sprite {1}{U}
+Creature — Faerie
+Flying, protection from red
+1/1

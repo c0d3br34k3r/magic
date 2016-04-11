@@ -1,0 +1,5 @@
+Masked Gorgon {4}{B}
+Creature — Gorgon
+Green creatures and white creatures have protection from Gorgons.
+Threshold — Masked Gorgon has protection from green and from white as long as seven or more cards are in your graveyard.
+5/5

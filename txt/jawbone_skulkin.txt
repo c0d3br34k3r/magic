@@ -1,0 +1,4 @@
+Jawbone Skulkin {1}
+Artifact Creature — Scarecrow
+{2}: Target red creature gains haste until end of turn.
+1/1

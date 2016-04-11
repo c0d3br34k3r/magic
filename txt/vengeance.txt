@@ -1,0 +1,3 @@
+Vengeance {3}{W}
+Sorcery
+Destroy target tapped creature.

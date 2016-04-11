@@ -1,0 +1,5 @@
+Dauthi Slayer {B}{B}
+Creature — Dauthi Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Slayer attacks each turn if able.
+2/2

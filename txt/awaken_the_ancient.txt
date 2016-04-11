@@ -1,0 +1,4 @@
+Awaken the Ancient {1}{R}{R}{R}
+Enchantment — Aura
+Enchant Mountain
+Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.

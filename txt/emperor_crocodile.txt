@@ -1,0 +1,4 @@
+Emperor Crocodile {3}{G}
+Creature — Crocodile
+When you control no other creatures, sacrifice Emperor Crocodile.
+5/5

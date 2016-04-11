@@ -1,0 +1,5 @@
+Sharuum the Hegemon {3}{W}{U}{B}
+Legendary Artifact Creature — Sphinx
+Flying
+When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.
+5/5

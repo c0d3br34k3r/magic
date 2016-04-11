@@ -1,0 +1,5 @@
+Razor Golem {6}
+Artifact Creature — Golem
+Affinity for Plains (This spell costs {1} less to cast for each Plains you control.)
+Vigilance
+3/4

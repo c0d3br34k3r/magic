@@ -1,0 +1,4 @@
+Springing Tiger {3}{G}
+Creature — Cat
+Threshold — Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.
+3/3

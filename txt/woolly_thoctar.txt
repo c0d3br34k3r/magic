@@ -1,0 +1,3 @@
+Woolly Thoctar {W}{R}{G}
+Creature — Beast
+5/4

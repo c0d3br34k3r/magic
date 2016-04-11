@@ -1,0 +1,5 @@
+Siege Rhino {1}{W}{B}{G}
+Creature — Rhino
+Trample
+When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.
+4/5

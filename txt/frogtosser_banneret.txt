@@ -1,0 +1,5 @@
+Frogtosser Banneret {1}{B}
+Creature — Goblin Rogue
+Haste
+Goblin spells and Rogue spells you cast cost {1} less to cast.
+1/1

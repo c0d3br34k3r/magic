@@ -1,0 +1,4 @@
+Unyielding Krumar {3}{B}
+Creature — Orc Warrior
+{1}{W}: Unyielding Krumar gains first strike until end of turn.
+3/3

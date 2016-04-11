@@ -1,0 +1,5 @@
+Piston Sledge {3}
+Artifact — Equipment
+When Piston Sledge enters the battlefield, attach it to target creature you control.
+Equipped creature gets +3/+1.
+Equip—Sacrifice an artifact.

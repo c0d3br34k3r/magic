@@ -1,0 +1,4 @@
+Silent Assassin {B}{B}
+Creature — Human Mercenary Assassin
+{3}{B}: Destroy target blocking creature at end of combat.
+2/1

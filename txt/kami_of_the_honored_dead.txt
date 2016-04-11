@@ -1,0 +1,6 @@
+Kami of the Honored Dead {5}{W}{W}
+Creature — Spirit
+Flying
+Whenever Kami of the Honored Dead is dealt damage, you gain that much life.
+Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)
+3/5

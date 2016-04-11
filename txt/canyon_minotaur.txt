@@ -1,0 +1,3 @@
+Canyon Minotaur {3}{R}
+Creature — Minotaur Warrior
+3/3

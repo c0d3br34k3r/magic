@@ -1,0 +1,4 @@
+Hungering Yeti {4}{R}
+Creature — Yeti
+As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)
+4/4

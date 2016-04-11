@@ -1,0 +1,3 @@
+Illumination {W}{W}
+Instant
+Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.

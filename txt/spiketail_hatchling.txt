@@ -1,0 +1,5 @@
+Spiketail Hatchling {1}{U}
+Creature — Drake
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Sacrifice Spiketail Hatchling: Counter target spell unless its controller pays {1}.
+1/1

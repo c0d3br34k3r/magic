@@ -1,0 +1,4 @@
+Koskun Falls {2}{B}{B}
+World Enchantment
+At the beginning of your upkeep, sacrifice Koskun Falls unless you tap an untapped creature you control.
+Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.

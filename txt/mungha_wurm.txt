@@ -1,0 +1,4 @@
+Mungha Wurm {2}{G}{G}
+Creature — Wurm
+You can't untap more than one land during your untap step.
+6/5

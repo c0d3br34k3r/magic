@@ -1,0 +1,5 @@
+Sicken {B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -1/-1.
+Cycling {2} ({2}, Discard this card: Draw a card.)

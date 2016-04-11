@@ -1,0 +1,9 @@
+Budoka Gardener {1}{G}
+Creature — Human Monk
+{T}: You may put a land card from your hand onto the battlefield. If you control ten or more lands, flip Budoka Gardener.
+2/1
+* FLIP *
+Dokai, Weaver of Life {1}{G}
+Legendary Creature — Human Monk
+{4}{G}{G}, {T}: Put an X/X green Elemental creature token onto the battlefield, where X is the number of lands you control.
+3/3

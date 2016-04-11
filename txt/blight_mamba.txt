@@ -1,0 +1,5 @@
+Blight Mamba {1}{G}
+Creature — Snake
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{1}{G}: Regenerate Blight Mamba.
+1/1

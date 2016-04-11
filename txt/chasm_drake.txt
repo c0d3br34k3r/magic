@@ -1,0 +1,5 @@
+Chasm Drake {4}{U}
+Creature — Drake
+Flying
+Whenever Chasm Drake attacks, target creature you control gains flying until end of turn.
+3/3

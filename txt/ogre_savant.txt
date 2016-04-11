@@ -1,0 +1,4 @@
+Ogre Savant {4}{R}
+Creature — Ogre Wizard
+When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.
+3/2

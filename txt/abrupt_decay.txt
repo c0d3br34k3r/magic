@@ -1,0 +1,4 @@
+Abrupt Decay {B}{G}
+Instant
+Abrupt Decay can't be countered by spells or abilities.
+Destroy target nonland permanent with converted mana cost 3 or less.

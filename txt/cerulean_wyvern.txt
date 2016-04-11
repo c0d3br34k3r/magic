@@ -1,0 +1,4 @@
+Cerulean Wyvern {4}{U}
+Creature — Drake
+Flying, protection from green
+3/3

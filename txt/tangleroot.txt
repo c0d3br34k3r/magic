@@ -1,0 +1,3 @@
+Tangleroot {3}
+Artifact
+Whenever a player casts a creature spell, that player adds {G} to his or her mana pool.

@@ -1,0 +1,3 @@
+Volcanic Island
+Land — Island Mountain
+({T}: Add {U} or {R} to your mana pool.)

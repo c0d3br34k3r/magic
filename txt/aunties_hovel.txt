@@ -1,0 +1,4 @@
+Auntie's Hovel
+Land
+As Auntie's Hovel enters the battlefield, you may reveal a Goblin card from your hand. If you don't, Auntie's Hovel enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.

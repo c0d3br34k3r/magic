@@ -1,0 +1,3 @@
+Standardize {U}{U}
+Instant
+Choose a creature type other than Wall. Each creature becomes that type until end of turn.

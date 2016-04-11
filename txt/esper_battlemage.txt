@@ -1,0 +1,5 @@
+Esper Battlemage {2}{U}
+Artifact Creature — Human Wizard
+{W}, {T}: Prevent the next 2 damage that would be dealt to you this turn.
+{B}, {T}: Target creature gets -1/-1 until end of turn.
+2/2

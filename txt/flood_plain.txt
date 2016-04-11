@@ -1,0 +1,4 @@
+Flood Plain
+Land
+Flood Plain enters the battlefield tapped.
+{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.

@@ -1,0 +1,4 @@
+Tajuru Pathwarden {4}{G}
+Creature — Elf Warrior Ally
+Vigilance, trample
+5/4

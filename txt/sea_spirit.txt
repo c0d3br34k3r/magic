@@ -1,0 +1,4 @@
+Sea Spirit {4}{U}
+Creature — Elemental Spirit
+{U}: Sea Spirit gets +1/+0 until end of turn.
+2/3

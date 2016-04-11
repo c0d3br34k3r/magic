@@ -1,0 +1,4 @@
+Hour of Need {2}{U}
+Instant
+Strive — Hour of Need costs {1}{U} more to cast for each target beyond the first.
+Exile any number of target creatures. For each creature exiled this way, its controller puts a 4/4 blue Sphinx creature token with flying onto the battlefield.

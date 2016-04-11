@@ -1,0 +1,4 @@
+Auratouched Mage {5}{W}
+Creature — Human Wizard
+When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.
+3/3

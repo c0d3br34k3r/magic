@@ -1,0 +1,4 @@
+Kitsune Palliator {2}{W}
+Creature — Fox Cleric
+{T}: Prevent the next 1 damage that would be dealt to each creature and each player this turn.
+0/2

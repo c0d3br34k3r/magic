@@ -1,0 +1,5 @@
+Gallowbraid {3}{B}{B}
+Legendary Creature — Horror
+Trample
+Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+5/5

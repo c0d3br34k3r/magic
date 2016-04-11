@@ -1,0 +1,6 @@
+Diregraf Captain {1}{U}{B}
+Creature — Zombie Soldier
+Deathtouch
+Other Zombie creatures you control get +1/+1.
+Whenever another Zombie you control dies, target opponent loses 1 life.
+2/2

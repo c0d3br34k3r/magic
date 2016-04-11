@@ -1,0 +1,3 @@
+Tranquil Domain {1}{G}
+Instant
+Destroy all non-Aura enchantments.

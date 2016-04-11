@@ -1,0 +1,5 @@
+Stratadon {10}
+Artifact Creature — Beast
+Domain — Stratadon costs {1} less to cast for each basic land type among lands you control.
+Trample
+5/5

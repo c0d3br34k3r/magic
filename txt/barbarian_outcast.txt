@@ -1,0 +1,4 @@
+Barbarian Outcast {1}{R}
+Creature — Human Barbarian Beast
+When you control no Swamps, sacrifice Barbarian Outcast.
+2/2

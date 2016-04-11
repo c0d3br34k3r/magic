@@ -1,0 +1,4 @@
+Bargain {2}{W}
+Sorcery
+Target opponent draws a card.
+You gain 7 life.

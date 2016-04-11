@@ -1,0 +1,4 @@
+Benalish Heralds {3}{W}
+Creature — Human Soldier
+{3}{U}, {T}: Draw a card.
+2/4

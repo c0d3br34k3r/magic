@@ -1,0 +1,4 @@
+Warren-Scourge Elf {1}{G}
+Creature — Elf Warrior
+Protection from Goblins
+1/1

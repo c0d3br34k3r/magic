@@ -1,0 +1,3 @@
+End Hostilities {3}{W}{W}
+Sorcery
+Destroy all creatures and all permanents attached to creatures.

@@ -1,0 +1,5 @@
+Sapphire Leech {1}{U}
+Creature — Leech
+Flying
+Blue spells you cast cost {U} more to cast.
+2/2

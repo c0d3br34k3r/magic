@@ -1,0 +1,4 @@
+Spirit Link {W}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature deals damage, you gain that much life.

@@ -1,0 +1,7 @@
+Herald of Torment {1}{B}{B}
+Enchantment Creature — Demon
+Bestow {3}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Flying
+At the beginning of your upkeep, you lose 1 life.
+Enchanted creature gets +3/+3 and has flying.
+3/3

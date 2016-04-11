@@ -1,0 +1,4 @@
+Backslide {1}{U}
+Instant
+Turn target creature with a morph ability face down.
+Cycling {U} ({U}, Discard this card: Draw a card.)

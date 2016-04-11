@@ -1,0 +1,4 @@
+Carapace Forger {1}{G}
+Creature — Elf Artificer
+Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more artifacts.
+2/2

@@ -1,0 +1,3 @@
+Spawning Breath {1}{R}
+Instant
+Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."

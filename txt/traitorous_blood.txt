@@ -1,0 +1,3 @@
+Traitorous Blood {1}{R}{R}
+Sorcery
+Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.

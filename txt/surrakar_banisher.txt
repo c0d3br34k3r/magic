@@ -1,0 +1,4 @@
+Surrakar Banisher {4}{U}
+Creature — Surrakar
+When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.
+3/3

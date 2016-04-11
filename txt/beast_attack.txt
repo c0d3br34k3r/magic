@@ -1,0 +1,4 @@
+Beast Attack {2}{G}{G}{G}
+Instant
+Put a 4/4 green Beast creature token onto the battlefield.
+Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

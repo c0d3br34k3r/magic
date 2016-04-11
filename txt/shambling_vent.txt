@@ -1,0 +1,5 @@
+Shambling Vent
+Land
+Shambling Vent enters the battlefield tapped.
+{T}: Add {W} or {B} to your mana pool.
+{1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.

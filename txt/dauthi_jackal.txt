@@ -1,0 +1,5 @@
+Dauthi Jackal {2}{B}
+Creature — Dauthi Hound
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.
+2/1

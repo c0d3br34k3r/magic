@@ -1,0 +1,5 @@
+Gorgon Recluse {3}{B}{B}
+Creature — Gorgon
+Whenever Gorgon Recluse blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.
+Madness {B}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+2/4

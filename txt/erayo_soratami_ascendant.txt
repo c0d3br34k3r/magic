@@ -1,0 +1,9 @@
+Erayo, Soratami Ascendant {1}{U}
+Legendary Creature — Moonfolk Monk
+Flying
+Whenever the fourth spell of a turn is cast, flip Erayo, Soratami Ascendant.
+1/1
+* FLIP *
+Erayo's Essence {1}{U}
+Legendary Enchantment
+Whenever an opponent casts a spell for the first time in a turn, counter that spell.

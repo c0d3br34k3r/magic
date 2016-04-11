@@ -1,0 +1,4 @@
+Frontier Guide {1}{G}
+Creature — Elf Scout
+{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+1/1

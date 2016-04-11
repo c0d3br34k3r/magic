@@ -1,0 +1,4 @@
+Dream Tides {2}{U}{U}
+Enchantment
+Creatures don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player may choose any number of tapped nongreen creatures he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.

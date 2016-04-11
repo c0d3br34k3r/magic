@@ -1,0 +1,5 @@
+Thornscape Apprentice {G}
+Creature — Human Wizard
+{R}, {T}: Target creature gains first strike until end of turn.
+{W}, {T}: Tap target creature.
+1/1

@@ -1,0 +1,3 @@
+Bereavement {1}{B}
+Enchantment
+Whenever a green creature dies, its controller discards a card.

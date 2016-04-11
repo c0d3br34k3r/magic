@@ -1,0 +1,9 @@
+Heir of Falkenrath {1}{B}
+Creature — Vampire
+Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.
+2/1
+* DOUBLE-FACED *
+Heir to the Night
+Creature — Vampire Berserker
+Flying
+3/2

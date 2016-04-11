@@ -1,0 +1,4 @@
+Iron Will {W}
+Instant
+Target creature gets +0/+4 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)

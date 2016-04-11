@@ -1,0 +1,3 @@
+Demolish {3}{R}
+Sorcery
+Destroy target artifact or land.

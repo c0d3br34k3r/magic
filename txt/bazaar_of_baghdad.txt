@@ -1,0 +1,3 @@
+Bazaar of Baghdad
+Land
+{T}: Draw two cards, then discard three cards.

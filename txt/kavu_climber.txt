@@ -1,0 +1,4 @@
+Kavu Climber {3}{G}{G}
+Creature — Kavu
+When Kavu Climber enters the battlefield, draw a card.
+3/3

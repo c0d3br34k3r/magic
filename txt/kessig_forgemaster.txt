@@ -1,0 +1,11 @@
+Kessig Forgemaster {1}{R}
+Creature — Human Shaman Werewolf
+Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creature.
+At the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.
+2/1
+* DOUBLE-FACED *
+Flameheart Werewolf
+Creature — Werewolf
+Whenever Flameheart Werewolf blocks or becomes blocked by a creature, Flameheart Werewolf deals 2 damage to that creature.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Flameheart Werewolf.
+3/2

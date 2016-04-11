@@ -1,0 +1,5 @@
+Silvos, Rogue Elemental {3}{G}{G}{G}
+Legendary Creature — Elemental
+Trample
+{G}: Regenerate Silvos, Rogue Elemental.
+8/5

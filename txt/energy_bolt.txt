@@ -1,0 +1,5 @@
+Energy Bolt {X}{W}{R}
+Sorcery
+Choose one —
+• Energy Bolt deals X damage to target player.
+• Target player gains X life.

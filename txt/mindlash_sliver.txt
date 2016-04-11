@@ -1,0 +1,4 @@
+Mindlash Sliver {B}
+Creature — Sliver
+All Slivers have "{1}, Sacrifice this permanent: Each player discards a card."
+1/1

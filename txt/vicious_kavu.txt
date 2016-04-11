@@ -1,0 +1,4 @@
+Vicious Kavu {1}{B}{R}
+Creature — Kavu
+Whenever Vicious Kavu attacks, it gets +2/+0 until end of turn.
+2/2

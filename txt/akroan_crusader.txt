@@ -1,0 +1,4 @@
+Akroan Crusader {R}
+Creature — Human Soldier
+Heroic — Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.
+1/1

@@ -1,0 +1,3 @@
+Timetwister {2}{U}
+Sorcery
+Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)

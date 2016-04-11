@@ -1,0 +1,5 @@
+Knacksaw Clique {3}{U}
+Creature — Faerie Rogue
+Flying
+{1}{U}, {Q}: Target opponent exiles the top card of his or her library. Until end of turn, you may play that card. ({Q} is the untap symbol.)
+1/4

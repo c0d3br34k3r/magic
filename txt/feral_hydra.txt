@@ -1,0 +1,5 @@
+Feral Hydra {X}{G}
+Creature — Hydra Beast
+Feral Hydra enters the battlefield with X +1/+1 counters on it.
+{3}: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability.
+0/0

@@ -1,0 +1,5 @@
+Dawn Elemental {W}{W}{W}{W}
+Creature — Elemental
+Flying
+Prevent all damage that would be dealt to Dawn Elemental.
+3/3

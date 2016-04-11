@@ -1,0 +1,5 @@
+Frontline Medic {2}{W}
+Creature — Human Cleric
+Battalion — Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.
+Sacrifice Frontline Medic: Counter target spell with {X} in its mana cost unless its controller pays {3}.
+3/3

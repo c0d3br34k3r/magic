@@ -1,0 +1,3 @@
+Bioshift {G/U}
+Instant
+Move any number of +1/+1 counters from target creature onto another target creature with the same controller.

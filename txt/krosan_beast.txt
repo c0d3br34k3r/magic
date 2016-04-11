@@ -1,0 +1,4 @@
+Krosan Beast {3}{G}
+Creature — Squirrel Beast
+Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.
+1/1

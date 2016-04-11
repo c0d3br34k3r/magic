@@ -1,0 +1,4 @@
+Plague Sliver {2}{B}{B}
+Creature — Sliver
+All Slivers have "At the beginning of your upkeep, this permanent deals 1 damage to you."
+5/5

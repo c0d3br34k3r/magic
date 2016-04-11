@@ -1,0 +1,4 @@
+Nameless Inversion {1}{B}
+Tribal Instant — Shapeshifter
+Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.

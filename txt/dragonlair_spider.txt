@@ -1,0 +1,5 @@
+Dragonlair Spider {2}{R}{R}{G}{G}
+Creature — Spider
+Reach
+Whenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.
+5/6

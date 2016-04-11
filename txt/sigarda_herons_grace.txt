@@ -1,0 +1,6 @@
+Sigarda, Heron's Grace {3}{W}{G}
+Legendary Creature — Angel
+Flying
+You and Humans you control have hexproof.
+{2}, Exile a card from your graveyard: Put a 1/1 white Human Soldier creature token onto the battlefield.
+4/5

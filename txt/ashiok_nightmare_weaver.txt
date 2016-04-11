@@ -1,0 +1,6 @@
+Ashiok, Nightmare Weaver {1}{U}{B}
+Planeswalker — Ashiok
++2: Exile the top three cards of target opponent's library.
+−X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
+−10: Exile all cards from all opponents' hands and graveyards.
+3

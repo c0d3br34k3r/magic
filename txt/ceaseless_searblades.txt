@@ -1,0 +1,4 @@
+Ceaseless Searblades {3}{R}
+Creature — Elemental Warrior
+Whenever you activate an ability of an Elemental, Ceaseless Searblades gets +1/+0 until end of turn.
+2/4

@@ -1,0 +1,3 @@
+Grim Flowering {5}{G}
+Sorcery
+Draw a card for each creature card in your graveyard.

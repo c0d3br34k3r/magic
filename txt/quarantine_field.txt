@@ -1,0 +1,4 @@
+Quarantine Field {X}{X}{W}{W}
+Enchantment
+Quarantine Field enters the battlefield with X isolation counters on it.
+When Quarantine Field enters the battlefield, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until Quarantine Field leaves the battlefield.

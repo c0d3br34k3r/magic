@@ -1,0 +1,5 @@
+Peacekeeper {2}{W}
+Creature — Human
+At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}.
+Creatures can't attack.
+1/1

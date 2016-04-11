@@ -1,0 +1,6 @@
+Wren's Run Packmaster {3}{G}
+Creature — Elf Warrior
+Champion an Elf (When this creature enters the battlefield, sacrifice it unless you exile another Elf you control. When this creature leaves the battlefield, that card returns to the battlefield.)
+{2}{G}: Put a 2/2 green Wolf creature token onto the battlefield.
+Wolves you control have deathtouch.
+5/5

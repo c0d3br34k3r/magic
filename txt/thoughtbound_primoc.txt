@@ -1,0 +1,5 @@
+Thoughtbound Primoc {2}{R}
+Creature — Bird Beast
+Flying
+At the beginning of your upkeep, if a player controls more Wizards than each other player, the player who controls the most Wizards gains control of Thoughtbound Primoc.
+2/3

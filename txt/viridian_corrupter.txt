@@ -1,0 +1,5 @@
+Viridian Corrupter {1}{G}{G}
+Creature — Elf Shaman
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Viridian Corrupter enters the battlefield, destroy target artifact.
+2/2

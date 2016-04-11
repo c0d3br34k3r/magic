@@ -1,0 +1,3 @@
+Nuisance Engine {3}
+Artifact
+{2}, {T}: Put a 0/1 colorless Pest artifact creature token onto the battlefield.

@@ -1,0 +1,6 @@
+Mischievous Quanar {4}{U}
+Creature — Beast
+{3}{U}{U}: Turn Mischievous Quanar face down.
+Morph {1}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Mischievous Quanar is turned face up, copy target instant or sorcery spell. You may choose new targets for that copy.
+3/3

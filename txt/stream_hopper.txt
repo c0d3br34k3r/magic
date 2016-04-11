@@ -1,0 +1,4 @@
+Stream Hopper {U/R}
+Creature — Goblin
+{U/R}: Stream Hopper gains flying until end of turn.
+1/1

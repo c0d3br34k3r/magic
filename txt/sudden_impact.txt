@@ -1,0 +1,3 @@
+Sudden Impact {3}{R}
+Instant
+Sudden Impact deals damage to target player equal to the number of cards in that player's hand.

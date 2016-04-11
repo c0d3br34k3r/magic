@@ -1,0 +1,4 @@
+Lantern-Lit Graveyard
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {B} or {R} to your mana pool. Lantern-Lit Graveyard doesn't untap during your next untap step.

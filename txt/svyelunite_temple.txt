@@ -1,0 +1,5 @@
+Svyelunite Temple
+Land
+Svyelunite Temple enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.

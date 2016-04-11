@@ -1,0 +1,5 @@
+Wormwood Dryad {2}{G}
+Creature — Dryad
+{G}: Wormwood Dryad gains forestwalk until end of turn and deals 1 damage to you. (It can't be blocked as long as defending player controls a Forest.)
+{B}: Wormwood Dryad gains swampwalk until end of turn and deals 1 damage to you. (It can't be blocked as long as defending player controls a Swamp.)
+3/1

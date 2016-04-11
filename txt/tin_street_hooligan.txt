@@ -1,0 +1,4 @@
+Tin Street Hooligan {1}{R}
+Creature — Goblin Rogue
+When Tin Street Hooligan enters the battlefield, if {G} was spent to cast Tin Street Hooligan, destroy target artifact.
+2/1

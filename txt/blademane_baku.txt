@@ -1,0 +1,5 @@
+Blademane Baku {1}{R}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku.
+{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Crashing Boars {3}{G}{G}
+Creature — Boar
+Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.
+4/4

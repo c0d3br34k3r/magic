@@ -1,0 +1,4 @@
+Priest of Urabrask {2}{R}
+Creature — Human Cleric
+When Priest of Urabrask enters the battlefield, add {R}{R}{R} to your mana pool.
+2/1

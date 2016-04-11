@@ -1,0 +1,5 @@
+Márton Stromgald {2}{R}{R}
+Legendary Creature — Human Knight
+Whenever Márton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Márton Stromgald.
+Whenever Márton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Márton Stromgald.
+1/1

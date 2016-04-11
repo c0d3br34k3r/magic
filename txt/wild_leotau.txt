@@ -1,0 +1,4 @@
+Wild Leotau {2}{G}{G}
+Creature — Cat
+At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.
+5/4

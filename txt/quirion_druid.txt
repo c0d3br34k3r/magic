@@ -1,0 +1,4 @@
+Quirion Druid {2}{G}
+Creature — Elf Druid
+{G}, {T}: Target land becomes a 2/2 green creature that's still a land. (This effect lasts indefinitely.)
+1/2

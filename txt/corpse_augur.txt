@@ -1,0 +1,4 @@
+Corpse Augur {3}{B}
+Creature — Zombie Wizard
+When Corpse Augur dies, you draw X cards and you lose X life, where X is the number of creature cards in target player's graveyard.
+4/2

@@ -1,0 +1,4 @@
+Twinstrike {3}{B}{R}
+Instant
+Twinstrike deals 2 damage to each of two target creatures.
+Hellbent — Destroy those creatures instead if you have no cards in hand.

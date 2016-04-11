@@ -1,0 +1,4 @@
+Vulshok Gauntlets {2}
+Artifact — Equipment
+Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)

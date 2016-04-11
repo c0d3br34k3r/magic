@@ -1,0 +1,4 @@
+Stallion of Ashmouth {3}{B}
+Creature — Nightmare Horse
+Delirium — {1}{B}: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+3/3

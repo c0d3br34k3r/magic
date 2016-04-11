@@ -1,0 +1,4 @@
+Noble Panther {1}{W}{G}
+Creature — Cat
+{1}: Noble Panther gains first strike until end of turn.
+3/3

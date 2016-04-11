@@ -1,0 +1,5 @@
+Krosan Restorer {2}{G}
+Creature — Human Druid
+{T}: Untap target land.
+Threshold — {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+1/2

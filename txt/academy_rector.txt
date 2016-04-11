@@ -1,0 +1,4 @@
+Academy Rector {3}{W}
+Creature — Human Cleric
+When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.
+1/2

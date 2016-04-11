@@ -1,0 +1,4 @@
+Curse of the Bloody Tome {2}{U}
+Enchantment — Aura Curse
+Enchant player
+At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.

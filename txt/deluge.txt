@@ -1,0 +1,3 @@
+Deluge {2}{U}
+Instant
+Tap all creatures without flying.

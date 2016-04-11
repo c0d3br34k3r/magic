@@ -1,0 +1,3 @@
+Scarwood Goblins {R}{G}
+Creature — Goblin
+2/2

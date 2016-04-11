@@ -1,0 +1,3 @@
+Pristine Talisman {3}
+Artifact
+{T}: Add {C} to your mana pool. You gain 1 life.

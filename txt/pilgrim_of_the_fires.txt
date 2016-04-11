@@ -1,0 +1,4 @@
+Pilgrim of the Fires {7}
+Artifact Creature — Golem
+First strike, trample
+6/4

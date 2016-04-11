@@ -1,0 +1,4 @@
+Compulsion {1}{U}
+Enchantment
+{1}{U}, Discard a card: Draw a card.
+{1}{U}, Sacrifice Compulsion: Draw a card.

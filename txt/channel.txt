@@ -1,0 +1,3 @@
+Channel {G}{G}
+Sorcery
+Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C} to your mana pool.

@@ -1,0 +1,5 @@
+Iron-Barb Hellion {5}{R}
+Creature — Hellion Beast
+Haste
+Iron-Barb Hellion can't block.
+5/4

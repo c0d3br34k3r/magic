@@ -1,0 +1,4 @@
+Nomad Outpost
+Land
+Nomad Outpost enters the battlefield tapped.
+{T}: Add {R}, {W}, or {B} to your mana pool.

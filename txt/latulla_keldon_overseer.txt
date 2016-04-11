@@ -1,0 +1,4 @@
+Latulla, Keldon Overseer {3}{R}{R}
+Legendary Creature — Human Spellshaper
+{X}{R}, {T}, Discard two cards: Latulla, Keldon Overseer deals X damage to target creature or player.
+3/3

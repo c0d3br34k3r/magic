@@ -1,0 +1,4 @@
+Covert Operative {4}{U}
+Creature — Human Wizard
+Covert Operative can't be blocked.
+3/2

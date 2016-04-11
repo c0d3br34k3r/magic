@@ -1,0 +1,5 @@
+Dream Leash {3}{U}{U}
+Enchantment — Aura
+Enchant permanent
+You can't choose an untapped permanent as Dream Leash's target as you cast Dream Leash.
+You control enchanted permanent.

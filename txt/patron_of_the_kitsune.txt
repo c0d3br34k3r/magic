@@ -1,0 +1,5 @@
+Patron of the Kitsune {4}{W}{W}
+Legendary Creature — Spirit
+Fox offering (You may cast this card any time you could cast an instant by sacrificing a Fox and paying the difference in mana costs between this and the sacrificed Fox. Mana cost includes color.)
+Whenever a creature attacks, you may gain 1 life.
+5/6

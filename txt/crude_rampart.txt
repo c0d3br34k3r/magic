@@ -1,0 +1,5 @@
+Crude Rampart {3}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+4/5

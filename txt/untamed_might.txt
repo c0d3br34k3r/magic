@@ -1,0 +1,3 @@
+Untamed Might {X}{G}
+Instant
+Target creature gets +X/+X until end of turn.

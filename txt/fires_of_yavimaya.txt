@@ -1,0 +1,4 @@
+Fires of Yavimaya {1}{R}{G}
+Enchantment
+Creatures you control have haste.
+Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.

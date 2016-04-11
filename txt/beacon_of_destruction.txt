@@ -1,0 +1,3 @@
+Beacon of Destruction {3}{R}{R}
+Instant
+Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.

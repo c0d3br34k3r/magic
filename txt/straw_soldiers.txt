@@ -1,0 +1,3 @@
+Straw Soldiers {1}{U}
+Creature — Scarecrow Soldier
+1/3

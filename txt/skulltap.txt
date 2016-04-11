@@ -1,0 +1,4 @@
+Skulltap {1}{B}
+Sorcery
+As an additional cost to cast Skulltap, sacrifice a creature.
+Draw two cards.

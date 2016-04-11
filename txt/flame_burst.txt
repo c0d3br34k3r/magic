@@ -1,0 +1,3 @@
+Flame Burst {1}{R}
+Instant
+Flame Burst deals X damage to target creature or player, where X is 2 plus the number of cards named Flame Burst in all graveyards.

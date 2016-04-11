@@ -1,0 +1,6 @@
+Ward of Lights {W}{W}
+Enchantment — Aura
+You may cast Ward of Lights as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+Enchant creature
+As Ward of Lights enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Ward of Lights.

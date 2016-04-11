@@ -1,0 +1,3 @@
+Conservator {4}
+Artifact
+{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn.

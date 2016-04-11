@@ -1,0 +1,5 @@
+Decorated Griffin {4}{W}
+Creature — Griffin
+Flying
+{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn.
+2/3

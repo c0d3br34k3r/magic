@@ -1,0 +1,13 @@
+Bloodline Keeper {2}{B}{B}
+Creature — Vampire
+Flying
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.
+3/3
+* DOUBLE-FACED *
+Lord of Lineage
+(B) Creature — Vampire
+Flying
+Other Vampire creatures you control get +2/+2.
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+5/5

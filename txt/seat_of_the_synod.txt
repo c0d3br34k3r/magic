@@ -1,0 +1,4 @@
+Seat of the Synod
+Artifact Land
+(Seat of the Synod isn't a spell.)
+{T}: Add {U} to your mana pool.

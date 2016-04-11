@@ -1,0 +1,4 @@
+Briarknit Kami {3}{G}{G}
+Creature — Spirit
+Whenever you cast a Spirit or Arcane spell, put a +1/+1 counter on target creature.
+3/3

@@ -1,0 +1,4 @@
+Saprazzan Heir {1}{U}
+Creature — Merfolk
+Whenever Saprazzan Heir becomes blocked, you may draw three cards.
+1/1

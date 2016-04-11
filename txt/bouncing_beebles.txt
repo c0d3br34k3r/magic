@@ -1,0 +1,4 @@
+Bouncing Beebles {2}{U}
+Creature — Beeble
+Bouncing Beebles can't be blocked as long as defending player controls an artifact.
+2/2

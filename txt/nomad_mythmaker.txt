@@ -1,0 +1,4 @@
+Nomad Mythmaker {2}{W}
+Creature — Human Nomad Cleric
+{W}, {T}: Put target Aura card from a graveyard onto the battlefield under your control attached to a creature you control.
+2/2

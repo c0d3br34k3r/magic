@@ -1,0 +1,5 @@
+Crown of Fury {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 and has first strike.
+Sacrifice Crown of Fury: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.

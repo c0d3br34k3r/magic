@@ -1,0 +1,4 @@
+Ensoul Artifact {1}{U}
+Enchantment — Aura
+Enchant artifact
+Enchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.

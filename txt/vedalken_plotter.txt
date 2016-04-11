@@ -1,0 +1,4 @@
+Vedalken Plotter {2}{U}
+Creature — Vedalken Wizard
+When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.
+1/1

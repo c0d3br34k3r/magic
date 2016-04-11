@@ -1,0 +1,5 @@
+Spellheart Chimera {1}{U}{R}
+Creature — Chimera
+Flying, trample
+Spellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
+*/3

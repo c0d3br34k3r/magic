@@ -1,0 +1,3 @@
+Vampiric Rites {B}
+Enchantment
+{1}{B}, Sacrifice a creature: You gain 1 life and draw a card.

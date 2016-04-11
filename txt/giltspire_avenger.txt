@@ -1,0 +1,5 @@
+Giltspire Avenger {W}{U}{G}
+Creature — Human Soldier
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Destroy target creature that dealt damage to you this turn.
+2/2

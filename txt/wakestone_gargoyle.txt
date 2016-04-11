@@ -1,0 +1,5 @@
+Wakestone Gargoyle {3}{W}
+Creature — Gargoyle
+Defender, flying
+{1}{W}: Creatures you control with defender can attack this turn as though they didn't have defender.
+3/4

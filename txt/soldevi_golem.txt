@@ -1,0 +1,5 @@
+Soldevi Golem {4}
+Artifact Creature — Golem
+Soldevi Golem doesn't untap during your untap step.
+At the beginning of your upkeep, you may untap target tapped creature an opponent controls. If you do, untap Soldevi Golem.
+5/3

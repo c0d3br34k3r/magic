@@ -1,0 +1,4 @@
+Arrow Volley Trap {3}{W}{W}
+Instant — Trap
+If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.
+Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.

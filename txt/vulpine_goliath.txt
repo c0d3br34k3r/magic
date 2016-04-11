@@ -1,0 +1,4 @@
+Vulpine Goliath {4}{G}{G}
+Creature — Fox
+Trample
+6/5

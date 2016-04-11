@@ -1,0 +1,4 @@
+Simic Keyrune {3}
+Artifact
+{T}: Add {G} or {U} to your mana pool.
+{G}{U}: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)

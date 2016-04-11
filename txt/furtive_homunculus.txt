@@ -1,0 +1,4 @@
+Furtive Homunculus {1}{U}
+Creature — Homunculus
+Skulk (This creature can't be blocked by creatures with greater power.)
+2/1

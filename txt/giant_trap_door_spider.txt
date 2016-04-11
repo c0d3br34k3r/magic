@@ -1,0 +1,4 @@
+Giant Trap Door Spider {1}{R}{G}
+Creature — Spider
+{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.
+2/3

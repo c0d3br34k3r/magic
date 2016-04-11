@@ -1,0 +1,4 @@
+Kaysa {3}{G}{G}
+Legendary Creature — Elf Druid
+Green creatures you control get +1/+1.
+2/3

@@ -1,0 +1,3 @@
+Lizard Warrior {3}{R}
+Creature — Lizard Warrior
+4/2

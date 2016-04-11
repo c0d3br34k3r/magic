@@ -1,0 +1,4 @@
+Goblin Gardener {3}{R}
+Creature — Goblin
+When Goblin Gardener dies, destroy target land.
+2/1

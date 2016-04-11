@@ -1,0 +1,4 @@
+Dreampod Druid {1}{G}
+Creature — Human Druid
+At the beginning of each upkeep, if Dreampod Druid is enchanted, put a 1/1 green Saproling creature token onto the battlefield.
+2/2

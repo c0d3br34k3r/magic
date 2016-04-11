@@ -1,0 +1,4 @@
+Treacherous Werewolf {2}{B}
+Creature — Werewolf Minion
+Threshold — As long as seven or more cards are in your graveyard, Treacherous Werewolf gets +2/+2 and has "When Treacherous Werewolf dies, you lose 4 life."
+2/2

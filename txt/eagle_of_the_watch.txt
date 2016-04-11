@@ -1,0 +1,4 @@
+Eagle of the Watch {2}{W}
+Creature — Bird
+Flying, vigilance
+2/1

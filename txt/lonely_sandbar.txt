@@ -1,0 +1,5 @@
+Lonely Sandbar
+Land
+Lonely Sandbar enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+Cycling {U} ({U}, Discard this card: Draw a card.)

@@ -1,0 +1,3 @@
+Arc Trail {1}{R}
+Sorcery
+Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.

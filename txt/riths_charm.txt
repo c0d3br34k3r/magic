@@ -1,0 +1,6 @@
+Rith's Charm {W}{R}{G}
+Instant
+Choose one —
+• Destroy target nonbasic land.
+• Put three 1/1 green Saproling creature tokens onto the battlefield.
+• Prevent all damage a source of your choice would deal this turn.

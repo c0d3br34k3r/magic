@@ -1,0 +1,5 @@
+Duergar Cave-Guard {3}{R}
+Creature — Dwarf Warrior
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{R/W}: Duergar Cave-Guard gets +1/+0 until end of turn.
+1/3

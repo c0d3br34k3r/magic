@@ -1,0 +1,4 @@
+Lightning Angel {1}{W}{U}{R}
+Creature — Angel
+Flying, vigilance, haste
+3/4

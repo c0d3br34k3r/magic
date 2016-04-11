@@ -1,0 +1,4 @@
+Glory of Warfare {2}{W}{R}
+Enchantment
+As long as it's your turn, creatures you control get +2/+0.
+As long as it's not your turn, creatures you control get +0/+2.

@@ -1,0 +1,3 @@
+Luminescent Rain {2}{G}
+Instant
+Choose a creature type. You gain 2 life for each permanent you control of that type.

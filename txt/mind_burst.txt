@@ -1,0 +1,3 @@
+Mind Burst {1}{B}
+Sorcery
+Target player discards X cards, where X is one plus the number of cards named Mind Burst in all graveyards.

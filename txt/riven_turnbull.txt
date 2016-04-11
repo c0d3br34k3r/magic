@@ -1,0 +1,4 @@
+Riven Turnbull {5}{U}{B}
+Legendary Creature — Human Advisor
+{T}: Add {B} to your mana pool.
+5/7

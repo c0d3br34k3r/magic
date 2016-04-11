@@ -1,0 +1,3 @@
+Elvish Promenade {3}{G}
+Tribal Sorcery — Elf
+Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.

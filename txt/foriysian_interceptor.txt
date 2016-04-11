@@ -1,0 +1,6 @@
+Foriysian Interceptor {3}{W}
+Creature — Human Soldier
+Flash (You may cast this spell any time you could cast an instant.)
+Defender
+Foriysian Interceptor can block an additional creature.
+0/5

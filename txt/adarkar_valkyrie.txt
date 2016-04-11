@@ -1,0 +1,5 @@
+Adarkar Valkyrie {4}{W}{W}
+Snow Creature — Angel
+Flying, vigilance
+{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+4/5

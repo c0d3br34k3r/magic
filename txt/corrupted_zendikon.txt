@@ -1,0 +1,5 @@
+Corrupted Zendikon {1}{B}
+Enchantment — Aura
+Enchant land
+Enchanted land is a 3/3 black Ooze creature. It's still a land.
+When enchanted land dies, return that card to its owner's hand.

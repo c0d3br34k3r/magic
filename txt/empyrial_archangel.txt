@@ -1,0 +1,6 @@
+Empyrial Archangel {4}{W}{W}{U}{G}
+Creature — Angel
+Flying
+Shroud (This creature can't be the target of spells or abilities.)
+All damage that would be dealt to you is dealt to Empyrial Archangel instead.
+5/8

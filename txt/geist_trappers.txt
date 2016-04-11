@@ -1,0 +1,5 @@
+Geist Trappers {4}{G}
+Creature — Human Warrior
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Geist Trappers is paired with another creature, both creatures have reach.
+3/5

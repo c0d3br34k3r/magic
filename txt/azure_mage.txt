@@ -1,0 +1,4 @@
+Azure Mage {1}{U}
+Creature — Human Wizard
+{3}{U}: Draw a card.
+2/1

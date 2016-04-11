@@ -1,0 +1,3 @@
+Circle of Protection: Shadow {1}{W}
+Enchantment
+{1}: The next time a creature of your choice with shadow would deal damage to you this turn, prevent that damage.

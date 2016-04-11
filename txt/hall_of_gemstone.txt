@@ -1,0 +1,3 @@
+Hall of Gemstone {1}{G}{G}
+World Enchantment
+At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.

@@ -1,0 +1,4 @@
+Firefright Mage {R}
+Creature — Goblin Spellshaper
+{1}{R}, {T}, Discard a card: Target creature can't be blocked this turn except by artifact creatures and/or red creatures.
+1/1

@@ -1,0 +1,3 @@
+Soul Barrier {2}{U}
+Enchantment
+Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays {2}.

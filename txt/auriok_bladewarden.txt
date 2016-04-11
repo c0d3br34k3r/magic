@@ -1,0 +1,4 @@
+Auriok Bladewarden {1}{W}
+Creature — Human Soldier
+{T}: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.
+1/1

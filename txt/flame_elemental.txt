@@ -1,0 +1,4 @@
+Flame Elemental {2}{R}{R}
+Creature — Elemental
+{R}, {T}, Sacrifice Flame Elemental: Flame Elemental deals damage equal to its power to target creature.
+3/2

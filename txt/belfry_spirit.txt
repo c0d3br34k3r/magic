@@ -1,0 +1,6 @@
+Belfry Spirit {3}{W}{W}
+Creature — Spirit
+Flying
+Haunt (When this creature dies, exile it haunting target creature.)
+When Belfry Spirit enters the battlefield or the creature it haunts dies, put two 1/1 black Bat creature tokens with flying onto the battlefield.
+1/1

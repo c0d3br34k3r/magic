@@ -1,0 +1,5 @@
+Fog Elemental {2}{U}
+Creature — Elemental
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+4/4

@@ -1,0 +1,5 @@
+Dualcaster Mage {1}{R}{R}
+Creature — Human Wizard
+Flash
+When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.
+2/2

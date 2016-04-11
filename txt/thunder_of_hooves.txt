@@ -1,0 +1,3 @@
+Thunder of Hooves {3}{R}
+Sorcery
+Thunder of Hooves deals X damage to each creature without flying and each player, where X is the number of Beasts on the battlefield.

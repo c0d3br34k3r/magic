@@ -1,0 +1,5 @@
+Fervent Cathar {2}{R}
+Creature — Human Knight
+Haste
+When Fervent Cathar enters the battlefield, target creature can't block this turn.
+2/1

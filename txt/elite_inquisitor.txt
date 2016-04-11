@@ -1,0 +1,5 @@
+Elite Inquisitor {W}{W}
+Creature — Human Soldier
+First strike, vigilance
+Protection from Vampires, from Werewolves, and from Zombies
+2/2

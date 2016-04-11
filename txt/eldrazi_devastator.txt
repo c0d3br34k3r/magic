@@ -1,0 +1,4 @@
+Eldrazi Devastator {8}
+Creature — Eldrazi
+Trample
+8/9

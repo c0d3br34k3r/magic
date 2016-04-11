@@ -1,0 +1,3 @@
+Stomp and Howl {2}{G}
+Sorcery
+Destroy target artifact and target enchantment.

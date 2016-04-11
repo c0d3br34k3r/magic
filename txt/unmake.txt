@@ -1,0 +1,3 @@
+Unmake {W/B}{W/B}{W/B}
+Instant
+Exile target creature.

@@ -1,0 +1,5 @@
+Harbinger of Spring {4}{G}
+Creature — Spirit
+Protection from non-Spirit creatures
+Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)
+2/1

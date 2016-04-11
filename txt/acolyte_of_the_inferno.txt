@@ -1,0 +1,5 @@
+Acolyte of the Inferno {2}{R}
+Creature — Human Monk
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Whenever Acolyte of the Inferno becomes blocked by a creature, it deals 2 damage to that creature.
+3/1

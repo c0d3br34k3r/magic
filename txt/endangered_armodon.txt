@@ -1,0 +1,4 @@
+Endangered Armodon {2}{G}{G}
+Creature — Elephant
+When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.
+4/5

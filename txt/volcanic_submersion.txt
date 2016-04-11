@@ -1,0 +1,4 @@
+Volcanic Submersion {4}{R}
+Sorcery
+Destroy target artifact or land.
+Cycling {2} ({2}, Discard this card: Draw a card.)

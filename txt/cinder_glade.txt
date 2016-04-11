@@ -1,0 +1,4 @@
+Cinder Glade
+Land — Mountain Forest
+({T}: Add {R} or {G} to your mana pool.)
+Cinder Glade enters the battlefield tapped unless you control two or more basic lands.

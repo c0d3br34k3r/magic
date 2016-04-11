@@ -1,0 +1,3 @@
+Implements of Sacrifice {2}
+Artifact
+{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.

@@ -1,0 +1,3 @@
+Traveling Philosopher {1}{W}
+Creature — Human Advisor
+2/2

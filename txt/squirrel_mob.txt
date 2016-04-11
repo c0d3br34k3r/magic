@@ -1,0 +1,4 @@
+Squirrel Mob {1}{G}{G}
+Creature — Squirrel
+Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
+2/2

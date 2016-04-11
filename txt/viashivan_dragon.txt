@@ -1,0 +1,6 @@
+Viashivan Dragon {2}{R}{R}{G}{G}
+Creature — Dragon
+Flying
+{R}: Viashivan Dragon gets +1/+0 until end of turn.
+{G}: Viashivan Dragon gets +0/+1 until end of turn.
+4/4

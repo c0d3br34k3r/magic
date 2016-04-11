@@ -1,0 +1,4 @@
+Mogg Squad {1}{R}
+Creature — Goblin
+Mogg Squad gets -1/-1 for each other creature on the battlefield.
+3/3

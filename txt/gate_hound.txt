@@ -1,0 +1,4 @@
+Gate Hound {2}{W}
+Creature — Hound
+Creatures you control have vigilance as long as Gate Hound is enchanted.
+1/1

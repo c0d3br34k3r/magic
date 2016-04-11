@@ -1,0 +1,4 @@
+Glaciers {2}{W}{U}
+Enchantment
+At the beginning of your upkeep, sacrifice Glaciers unless you pay {W}{U}.
+All Mountains are Plains.

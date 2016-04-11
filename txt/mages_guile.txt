@@ -1,0 +1,4 @@
+Mage's Guile {1}{U}
+Instant
+Target creature gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Cycling {U} ({U}, Discard this card: Draw a card.)

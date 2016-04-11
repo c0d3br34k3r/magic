@@ -1,0 +1,5 @@
+Aven Windreader {3}{U}{U}
+Creature — Bird Soldier Wizard
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{U}: Target player reveals the top card of his or her library.
+3/3

@@ -1,0 +1,4 @@
+Skyhunter Cub {2}{W}
+Creature — Cat Knight
+As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying.
+2/2

@@ -1,0 +1,3 @@
+Global Ruin {4}{W}
+Sorcery
+Each player chooses from the lands he or she controls a land of each basic land type, then sacrifices the rest.

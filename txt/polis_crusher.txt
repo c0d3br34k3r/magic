@@ -1,0 +1,6 @@
+Polis Crusher {2}{R}{G}
+Creature — Cyclops
+Trample, protection from enchantments
+{4}{R}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.
+4/4

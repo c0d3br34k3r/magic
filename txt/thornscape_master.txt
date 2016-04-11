@@ -1,0 +1,5 @@
+Thornscape Master {2}{G}{G}
+Creature — Human Wizard
+{R}{R}, {T}: Thornscape Master deals 2 damage to target creature.
+{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.
+2/2

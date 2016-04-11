@@ -1,0 +1,4 @@
+Mogg Salvage {2}{R}
+Instant
+If an opponent controls an Island and you control a Mountain, you may cast Mogg Salvage without paying its mana cost.
+Destroy target artifact.

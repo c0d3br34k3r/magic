@@ -1,0 +1,5 @@
+Yavimaya Dryad {1}{G}{G}
+Creature — Dryad
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card and put it onto the battlefield tapped under target player's control. If you do, shuffle your library.
+2/1

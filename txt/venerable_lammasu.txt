@@ -1,0 +1,4 @@
+Venerable Lammasu {6}{W}
+Creature — Lammasu
+Flying
+5/4

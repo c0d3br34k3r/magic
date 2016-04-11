@@ -1,0 +1,4 @@
+Zhang Fei, Fierce Warrior {4}{W}{W}
+Legendary Creature — Human Soldier Warrior
+Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+4/4

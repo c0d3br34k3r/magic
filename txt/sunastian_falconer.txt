@@ -1,0 +1,4 @@
+Sunastian Falconer {3}{R}{G}
+Legendary Creature — Human Shaman
+{T}: Add {C}{C} to your mana pool.
+4/4

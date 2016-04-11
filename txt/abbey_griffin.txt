@@ -1,0 +1,4 @@
+Abbey Griffin {3}{W}
+Creature — Griffin
+Flying, vigilance
+2/2

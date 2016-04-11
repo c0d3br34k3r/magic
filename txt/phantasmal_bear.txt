@@ -1,0 +1,4 @@
+Phantasmal Bear {U}
+Creature — Bear Illusion
+When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.
+2/2

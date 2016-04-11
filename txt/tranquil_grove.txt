@@ -1,0 +1,3 @@
+Tranquil Grove {1}{G}
+Enchantment
+{1}{G}{G}: Destroy all other enchantments.

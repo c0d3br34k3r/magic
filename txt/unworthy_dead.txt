@@ -1,0 +1,4 @@
+Unworthy Dead {1}{B}
+Creature — Skeleton
+{B}: Regenerate Unworthy Dead.
+1/1

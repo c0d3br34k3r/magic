@@ -1,0 +1,5 @@
+Tide Drifter {1}{U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+Other colorless creatures you control get +0/+1.
+0/5

@@ -1,0 +1,5 @@
+Pygmy Pyrosaur {1}{R}
+Creature — Lizard
+Pygmy Pyrosaur can't block.
+{R}: Pygmy Pyrosaur gets +1/+0 until end of turn.
+1/1

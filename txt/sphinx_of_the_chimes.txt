@@ -1,0 +1,5 @@
+Sphinx of the Chimes {4}{U}{U}
+Creature — Sphinx
+Flying
+Discard two nonland cards with the same name: Draw four cards.
+5/6

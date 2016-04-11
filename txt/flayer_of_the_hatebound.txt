@@ -1,0 +1,5 @@
+Flayer of the Hatebound {5}{R}
+Creature — Devil
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+Whenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player.
+4/2

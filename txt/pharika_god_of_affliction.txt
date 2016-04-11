@@ -1,0 +1,6 @@
+Pharika, God of Affliction {1}{B}{G}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to black and green is less than seven, Pharika isn't a creature.
+{B}{G}: Exile target creature card from a graveyard. Its owner puts a 1/1 black and green Snake enchantment creature token with deathtouch onto the battlefield.
+5/5

@@ -1,0 +1,3 @@
+Rebellion of the Flamekin {3}{R}
+Tribal Enchantment — Elemental
+Whenever you clash, you may pay {1}. If you do, put a 3/1 red Elemental Shaman creature token onto the battlefield. If you won, that token gains haste until end of turn. (This ability triggers after the clash ends.)

@@ -1,0 +1,6 @@
+Mindwrack Demon {2}{B}{B}
+Creature — Demon
+Flying, trample
+When Mindwrack Demon enters the battlefield, put the top four cards of your library into your graveyard.
+Delirium — At the beginning of your upkeep, you lose 4 life unless there are four or more card types among cards in your graveyard.
+4/5

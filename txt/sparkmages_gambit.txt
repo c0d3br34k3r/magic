@@ -1,0 +1,3 @@
+Sparkmage's Gambit {1}{R}
+Sorcery
+Sparkmage's Gambit deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.

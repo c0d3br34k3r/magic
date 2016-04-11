@@ -1,0 +1,4 @@
+Shamanic Revelation {3}{G}{G}
+Sorcery
+Draw a card for each creature you control.
+Ferocious — You gain 4 life for each creature you control with power 4 or greater.

@@ -1,0 +1,4 @@
+Staunch Defenders {3}{W}{W}
+Creature — Human Soldier
+When Staunch Defenders enters the battlefield, you gain 4 life.
+3/4

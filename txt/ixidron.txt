@@ -1,0 +1,5 @@
+Ixidron {3}{U}{U}
+Creature — Illusion
+As Ixidron enters the battlefield, turn all other nontoken creatures face down. (They're 2/2 creatures.)
+Ixidron's power and toughness are each equal to the number of face-down creatures on the battlefield.
+*/*

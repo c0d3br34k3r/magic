@@ -1,0 +1,4 @@
+Immolating Souleater {2}
+Artifact Creature — Hound
+{R/P}: Immolating Souleater gets +1/+0 until end of turn. ({R/P} can be paid with either {R} or 2 life.)
+1/1

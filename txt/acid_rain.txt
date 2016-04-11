@@ -1,0 +1,3 @@
+Acid Rain {3}{U}
+Sorcery
+Destroy all Forests.

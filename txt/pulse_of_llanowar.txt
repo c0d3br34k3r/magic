@@ -1,0 +1,3 @@
+Pulse of Llanowar {3}{G}
+Enchantment
+If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.

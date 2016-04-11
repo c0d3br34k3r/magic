@@ -1,0 +1,4 @@
+Deranged Outcast {1}{G}
+Creature — Human Rogue
+{1}{G}, Sacrifice a Human: Put two +1/+1 counters on target creature.
+2/1

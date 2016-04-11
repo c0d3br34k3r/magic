@@ -1,0 +1,5 @@
+Elder Spawn {4}{U}{U}{U}
+Creature — Spawn
+At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.
+Elder Spawn can't be blocked by red creatures.
+6/6

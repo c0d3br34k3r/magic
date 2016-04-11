@@ -1,0 +1,4 @@
+Spectral Guardian {2}{W}{W}
+Creature — Spirit
+As long as Spectral Guardian is untapped, noncreature artifacts have shroud. (They can't be the targets of spells or abilities.)
+2/3

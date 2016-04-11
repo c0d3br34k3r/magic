@@ -1,0 +1,4 @@
+Mogg Hollows
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.

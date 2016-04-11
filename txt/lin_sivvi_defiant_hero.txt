@@ -1,0 +1,5 @@
+Lin Sivvi, Defiant Hero {1}{W}{W}
+Legendary Creature — Human Rebel
+{X}, {T}: Search your library for a Rebel permanent card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+{3}: Put target Rebel card from your graveyard on the bottom of your library.
+1/3

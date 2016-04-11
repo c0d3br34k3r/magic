@@ -1,0 +1,3 @@
+Spreading Plague {4}{B}
+Enchantment
+Whenever a creature enters the battlefield, destroy all other creatures that share a color with it. They can't be regenerated.

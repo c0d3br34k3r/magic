@@ -1,0 +1,4 @@
+Ghostly Sentinel {4}{W}
+Creature — Kor Spirit
+Flying, vigilance
+3/3

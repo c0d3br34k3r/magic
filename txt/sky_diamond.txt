@@ -1,0 +1,4 @@
+Sky Diamond {2}
+Artifact
+Sky Diamond enters the battlefield tapped.
+{T}: Add {U} to your mana pool.

@@ -1,0 +1,5 @@
+Pulsating Illusion {4}{U}
+Creature — Illusion
+Flying
+Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate this ability only once each turn.
+0/1

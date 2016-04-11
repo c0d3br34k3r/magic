@@ -1,0 +1,4 @@
+Shimatsu the Bloodcloaked {3}{R}
+Legendary Creature — Demon Spirit
+As Shimatsu the Bloodcloaked enters the battlefield, sacrifice any number of permanents. Shimatsu enters the battlefield with that many +1/+1 counters on it.
+0/0

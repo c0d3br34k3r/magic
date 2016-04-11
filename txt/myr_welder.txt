@@ -1,0 +1,5 @@
+Myr Welder {3}
+Artifact Creature — Myr
+Imprint — {T}: Exile target artifact card from a graveyard.
+Myr Welder has all activated abilities of all cards exiled with it.
+1/4

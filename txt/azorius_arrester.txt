@@ -1,0 +1,4 @@
+Azorius Arrester {1}{W}
+Creature — Human Soldier
+When Azorius Arrester enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+2/1

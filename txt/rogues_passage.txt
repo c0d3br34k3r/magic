@@ -1,0 +1,4 @@
+Rogue's Passage
+Land
+{T}: Add {C} to your mana pool.
+{4}, {T}: Target creature can't be blocked this turn.

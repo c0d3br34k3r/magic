@@ -1,0 +1,7 @@
+Orzhov Pontiff {1}{W}{B}
+Creature — Human Cleric
+Haunt (When this creature dies, exile it haunting target creature.)
+When Orzhov Pontiff enters the battlefield or the creature it haunts dies, choose one —
+• Creatures you control get +1/+1 until end of turn.
+• Creatures you don't control get -1/-1 until end of turn.
+1/1

@@ -1,0 +1,4 @@
+Biovisionary {1}{U}{G}
+Creature — Human Wizard
+At the beginning of the end step, if you control four or more creatures named Biovisionary, you win the game.
+2/3

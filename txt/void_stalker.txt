@@ -1,0 +1,4 @@
+Void Stalker {1}{U}
+Creature — Elemental
+{2}{U}, {T}: Put Void Stalker and target creature on top of their owners' libraries, then those players shuffle their libraries.
+2/1

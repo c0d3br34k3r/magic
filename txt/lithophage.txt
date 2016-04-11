@@ -1,0 +1,4 @@
+Lithophage {3}{R}{R}
+Creature — Insect
+At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.
+7/7

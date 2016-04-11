@@ -1,0 +1,5 @@
+Brain Weevil {3}{B}
+Creature — Insect
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+1/1

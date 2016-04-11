@@ -1,0 +1,4 @@
+Academy Researchers {1}{U}{U}
+Creature — Human Wizard
+When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.
+2/2

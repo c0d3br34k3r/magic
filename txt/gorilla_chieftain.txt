@@ -1,0 +1,4 @@
+Gorilla Chieftain {2}{G}{G}
+Creature — Ape
+{1}{G}: Regenerate Gorilla Chieftain.
+3/3

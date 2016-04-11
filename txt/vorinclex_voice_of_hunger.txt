@@ -1,0 +1,6 @@
+Vorinclex, Voice of Hunger {6}{G}{G}
+Legendary Creature — Praetor
+Trample
+Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.
+7/6

@@ -1,0 +1,4 @@
+Kor Bladewhirl {1}{W}
+Creature — Kor Soldier Ally
+Rally — Whenever Kor Bladewhirl or another Ally enters the battlefield under your control, creatures you control gain first strike until end of turn.
+2/2

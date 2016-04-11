@@ -1,0 +1,5 @@
+Gosta Dirk {3}{W}{W}{U}{U}
+Legendary Creature — Human Warrior
+First strike
+Creatures with islandwalk can be blocked as though they didn't have islandwalk.
+4/4

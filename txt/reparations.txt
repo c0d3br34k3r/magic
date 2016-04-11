@@ -1,0 +1,3 @@
+Reparations {1}{W}{U}
+Enchantment
+Whenever an opponent casts a spell that targets you or a creature you control, you may draw a card.

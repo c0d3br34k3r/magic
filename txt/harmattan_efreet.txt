@@ -1,0 +1,5 @@
+Harmattan Efreet {2}{U}{U}
+Creature — Efreet
+Flying
+{1}{U}{U}: Target creature gains flying until end of turn.
+2/2

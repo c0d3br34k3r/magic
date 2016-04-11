@@ -1,0 +1,4 @@
+Triton Fortune Hunter {2}{U}
+Creature — Merfolk Soldier
+Heroic — Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.
+2/2

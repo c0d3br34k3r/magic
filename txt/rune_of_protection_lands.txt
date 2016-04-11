@@ -1,0 +1,4 @@
+Rune of Protection: Lands {1}{W}
+Enchantment
+{W}: The next time a land source of your choice would deal damage to you this turn, prevent that damage.
+Cycling {2} ({2}, Discard this card: Draw a card.)

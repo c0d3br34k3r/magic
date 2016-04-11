@@ -1,0 +1,4 @@
+Jeskai Banner {3}
+Artifact
+{T}: Add {U}, {R}, or {W} to your mana pool.
+{U}{R}{W}, {T}, Sacrifice Jeskai Banner: Draw a card.

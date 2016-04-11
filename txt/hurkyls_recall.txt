@@ -1,0 +1,3 @@
+Hurkyl's Recall {1}{U}
+Instant
+Return all artifacts target player owns to his or her hand.

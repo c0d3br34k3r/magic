@@ -1,0 +1,6 @@
+Izzet Guildmage {U/R}{U/R}
+Creature — Human Wizard
+({U/R} can be paid with either {U} or {R}.)
+{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+2/2

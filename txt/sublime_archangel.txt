@@ -1,0 +1,6 @@
+Sublime Archangel {2}{W}{W}
+Creature — Angel
+Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Other creatures you control have exalted. (If a creature has multiple instances of exalted, each triggers separately.)
+4/3

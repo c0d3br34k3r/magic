@@ -1,0 +1,4 @@
+Savage Conception {3}{G}{G}
+Sorcery
+Put a 3/3 green Beast creature token onto the battlefield.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)

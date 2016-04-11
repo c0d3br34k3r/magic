@@ -1,0 +1,6 @@
+Solar Tide {4}{W}{W}
+Sorcery
+Choose one —
+• Destroy all creatures with power 2 or less.
+• Destroy all creatures with power 3 or greater.
+Entwine—Sacrifice two lands. (Choose both if you pay the entwine cost.)

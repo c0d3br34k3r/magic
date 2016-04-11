@@ -1,0 +1,4 @@
+Timbermaw Larva {3}{G}
+Creature — Beast
+Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.
+2/2

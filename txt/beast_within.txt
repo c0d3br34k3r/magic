@@ -1,0 +1,3 @@
+Beast Within {2}{G}
+Instant
+Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.

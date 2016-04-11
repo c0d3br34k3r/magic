@@ -1,0 +1,4 @@
+Ember Hauler {R}{R}
+Creature — Goblin
+{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to target creature or player.
+2/2

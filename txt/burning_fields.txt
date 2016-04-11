@@ -1,0 +1,3 @@
+Burning Fields {4}{R}
+Sorcery
+Burning Fields deals 5 damage to target opponent.

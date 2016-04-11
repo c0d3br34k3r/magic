@@ -1,0 +1,4 @@
+Warlord's Axe {3}
+Artifact — Equipment
+Equipped creature gets +3/+1.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)

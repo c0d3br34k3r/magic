@@ -1,0 +1,4 @@
+Spiritualize {2}{W}
+Instant
+Until end of turn, whenever target creature deals damage, you gain that much life.
+Draw a card.

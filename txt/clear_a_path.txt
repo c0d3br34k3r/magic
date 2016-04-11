@@ -1,0 +1,3 @@
+Clear a Path {R}
+Sorcery
+Destroy target creature with defender.

@@ -1,0 +1,4 @@
+Benevolent Offering {3}{W}
+Instant
+Choose an opponent. You and that player each put three 1/1 white Spirit creature tokens with flying onto the battlefield.
+Choose an opponent. You gain 2 life for each creature you control and that player gains 2 life for each creature he or she controls.

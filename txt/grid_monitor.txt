@@ -1,0 +1,4 @@
+Grid Monitor {4}
+Artifact Creature — Construct
+You can't cast creature spells.
+4/6

@@ -1,0 +1,4 @@
+Abomination {3}{B}{B}
+Creature — Horror
+Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.
+2/6

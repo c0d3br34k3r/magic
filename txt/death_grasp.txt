@@ -1,0 +1,3 @@
+Death Grasp {X}{W}{B}
+Sorcery
+Death Grasp deals X damage to target creature or player. You gain X life.

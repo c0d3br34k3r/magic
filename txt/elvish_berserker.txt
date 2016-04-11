@@ -1,0 +1,4 @@
+Elvish Berserker {G}
+Creature — Elf Berserker
+Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+1/1

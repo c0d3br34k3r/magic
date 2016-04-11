@@ -1,0 +1,4 @@
+Grave Bramble {1}{G}{G}
+Creature — Plant
+Defender, protection from Zombies
+3/4

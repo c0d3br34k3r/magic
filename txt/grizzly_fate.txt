@@ -1,0 +1,5 @@
+Grizzly Fate {3}{G}{G}
+Sorcery
+Put two 2/2 green Bear creature tokens onto the battlefield.
+Threshold — Put four 2/2 green Bear creature tokens onto the battlefield instead if seven or more cards are in your graveyard.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

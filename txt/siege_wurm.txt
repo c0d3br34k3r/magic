@@ -1,0 +1,5 @@
+Siege Wurm {5}{G}{G}
+Creature — Wurm
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+5/5

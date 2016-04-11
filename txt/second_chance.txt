@@ -1,0 +1,3 @@
+Second Chance {2}{U}
+Enchantment
+At the beginning of your upkeep, if you have 5 or less life, sacrifice Second Chance and take an extra turn after this one.

@@ -1,0 +1,4 @@
+Ravenous Baboons {3}{R}
+Creature — Ape
+When Ravenous Baboons enters the battlefield, destroy target nonbasic land.
+2/2

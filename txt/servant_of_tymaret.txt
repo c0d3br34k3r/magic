@@ -1,0 +1,5 @@
+Servant of Tymaret {2}{B}
+Creature — Zombie
+Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.
+{2}{B}: Regenerate Servant of Tymaret.
+1/3

@@ -1,0 +1,4 @@
+Ogre Gatecrasher {3}{R}
+Creature — Ogre Rogue
+When Ogre Gatecrasher enters the battlefield, destroy target creature with defender.
+3/3

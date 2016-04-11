@@ -1,0 +1,5 @@
+Tasigur, the Golden Fang {5}{B}
+Legendary Creature — Human Shaman
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+{2}{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.
+4/5

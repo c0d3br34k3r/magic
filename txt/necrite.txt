@@ -1,0 +1,4 @@
+Necrite {1}{B}{B}
+Creature — Thrull
+Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+2/2

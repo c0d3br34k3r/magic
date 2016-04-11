@@ -1,0 +1,4 @@
+Slippery Bogle {G/U}
+Creature — Beast
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+1/1

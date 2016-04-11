@@ -1,0 +1,4 @@
+Trench Wurm {3}{B}
+Creature — Wurm
+{2}{R}, {T}: Destroy target nonbasic land.
+3/3

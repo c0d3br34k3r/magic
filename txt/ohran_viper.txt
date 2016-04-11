@@ -1,0 +1,5 @@
+Ohran Viper {1}{G}{G}
+Snow Creature — Snake
+Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.
+Whenever Ohran Viper deals combat damage to a player, you may draw a card.
+1/3

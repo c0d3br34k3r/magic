@@ -1,0 +1,6 @@
+Kukemssa Serpent {3}{U}
+Creature — Serpent
+Kukemssa Serpent can't attack unless defending player controls an Island.
+{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn.
+When you control no Islands, sacrifice Kukemssa Serpent.
+4/3

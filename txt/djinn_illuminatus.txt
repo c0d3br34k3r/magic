@@ -1,0 +1,6 @@
+Djinn Illuminatus {5}{U/R}{U/R}
+Creature — Djinn
+({U/R} can be paid with either {U} or {R}.)
+Flying
+Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+3/5

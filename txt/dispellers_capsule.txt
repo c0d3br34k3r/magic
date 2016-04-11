@@ -1,0 +1,3 @@
+Dispeller's Capsule {W}
+Artifact
+{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.

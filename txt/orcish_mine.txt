@@ -1,0 +1,6 @@
+Orcish Mine {1}{R}{R}
+Enchantment — Aura
+Enchant land
+Orcish Mine enters the battlefield with three ore counters on it.
+At the beginning of your upkeep or whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine.
+When the last ore counter is removed from Orcish Mine, destroy enchanted land and Orcish Mine deals 2 damage to that land's controller.

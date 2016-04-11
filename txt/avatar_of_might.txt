@@ -1,0 +1,5 @@
+Avatar of Might {6}{G}{G}
+Creature — Avatar
+If an opponent controls at least four more creatures than you, Avatar of Might costs {6} less to cast.
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+8/8

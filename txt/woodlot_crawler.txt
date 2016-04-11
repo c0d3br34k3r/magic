@@ -1,0 +1,5 @@
+Woodlot Crawler {U}{B}
+Creature — Insect
+Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+Protection from green
+2/1

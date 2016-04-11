@@ -1,0 +1,5 @@
+Wandering Fumarole
+Land
+Wandering Fumarole enters the battlefield tapped.
+{T}: Add {U} or {R} to your mana pool.
+{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with "{0}: Switch this creature's power and toughness until end of turn." It's still a land.

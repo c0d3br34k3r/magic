@@ -1,0 +1,4 @@
+Hooded Horror {4}{B}
+Creature — Horror
+Hooded Horror can't be blocked as long as defending player controls the most creatures or is tied for the most.
+4/4

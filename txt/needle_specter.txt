@@ -1,0 +1,6 @@
+Needle Specter {1}{B}{B}
+Creature — Specter
+Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Needle Specter deals combat damage to a player, that player discards that many cards.
+1/1

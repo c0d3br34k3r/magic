@@ -1,0 +1,5 @@
+Twisted Abomination {5}{B}
+Creature — Zombie Mutant
+{B}: Regenerate Twisted Abomination.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)
+5/3

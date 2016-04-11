@@ -1,0 +1,4 @@
+Mortiphobia {1}{B}{B}
+Enchantment
+{1}{B}, Discard a card: Exile target card from a graveyard.
+{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.

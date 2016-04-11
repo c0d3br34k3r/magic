@@ -1,0 +1,4 @@
+Lumithread Field {1}{W}
+Enchantment
+Creatures you control get +0/+1.
+Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)

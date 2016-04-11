@@ -1,0 +1,4 @@
+Brass Squire {3}
+Artifact Creature — Myr
+{T}: Attach target Equipment you control to target creature you control.
+1/3

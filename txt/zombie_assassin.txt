@@ -1,0 +1,4 @@
+Zombie Assassin {4}{B}
+Creature — Zombie Assassin
+{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.
+3/2

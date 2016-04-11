@@ -1,0 +1,4 @@
+Exiled Boggart {1}{B}
+Creature — Goblin Rogue
+When Exiled Boggart dies, discard a card.
+2/2

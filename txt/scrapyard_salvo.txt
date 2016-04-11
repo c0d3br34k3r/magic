@@ -1,0 +1,3 @@
+Scrapyard Salvo {1}{R}{R}
+Sorcery
+Scrapyard Salvo deals damage to target player equal to the number of artifact cards in your graveyard.

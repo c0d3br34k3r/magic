@@ -1,0 +1,4 @@
+Divine Sacrament {1}{W}{W}
+Enchantment
+White creatures get +1/+1.
+Threshold — White creatures get an additional +1/+1 as long as seven or more cards are in your graveyard.

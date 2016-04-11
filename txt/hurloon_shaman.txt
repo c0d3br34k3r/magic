@@ -1,0 +1,4 @@
+Hurloon Shaman {1}{R}{R}
+Creature — Minotaur Shaman
+When Hurloon Shaman dies, each player sacrifices a land.
+2/3

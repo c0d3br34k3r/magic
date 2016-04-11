@@ -1,0 +1,4 @@
+Bull Cerodon {4}{W}{R}
+Creature — Beast
+Vigilance, haste
+5/5

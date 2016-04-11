@@ -1,0 +1,4 @@
+Kami of Twisted Reflection {1}{U}{U}
+Creature — Spirit
+Sacrifice Kami of Twisted Reflection: Return target creature you control to its owner's hand.
+2/2

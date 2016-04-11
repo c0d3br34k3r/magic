@@ -1,0 +1,3 @@
+Goblin Rally {3}{R}{R}
+Sorcery
+Put four 1/1 red Goblin creature tokens onto the battlefield.

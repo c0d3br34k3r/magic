@@ -1,0 +1,5 @@
+Stingerfling Spider {4}{G}
+Creature — Spider
+Reach
+When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.
+2/5

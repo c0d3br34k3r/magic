@@ -1,0 +1,6 @@
+Eldrazi Obligator {2}{R}
+Creature — Eldrazi
+Devoid (This card has no color.)
+When you cast Eldrazi Obligator, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. ({C} represents colorless mana.)
+Haste
+3/1

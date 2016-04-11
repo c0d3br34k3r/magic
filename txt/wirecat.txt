@@ -1,0 +1,4 @@
+Wirecat {4}
+Artifact Creature — Cat
+Wirecat can't attack or block if an enchantment is on the battlefield.
+4/3

@@ -1,0 +1,4 @@
+Pardic Lancer {4}{R}
+Creature — Human Barbarian
+Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.
+3/2

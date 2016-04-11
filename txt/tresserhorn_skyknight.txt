@@ -1,0 +1,5 @@
+Tresserhorn Skyknight {5}{B}{B}
+Creature — Zombie Knight
+Flying
+Prevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.
+5/3

@@ -1,0 +1,5 @@
+Blood Hound {2}{R}
+Creature — Hound
+Whenever you're dealt damage, you may put that many +1/+1 counters on Blood Hound.
+At the beginning of your end step, remove all +1/+1 counters from Blood Hound.
+1/1

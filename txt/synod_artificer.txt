@@ -1,0 +1,5 @@
+Synod Artificer {2}{U}
+Creature — Vedalken Artificer
+{X}, {T}: Tap X target noncreature artifacts.
+{X}, {T}: Untap X target noncreature artifacts.
+1/2

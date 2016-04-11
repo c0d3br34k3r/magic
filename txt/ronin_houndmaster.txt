@@ -1,0 +1,5 @@
+Ronin Houndmaster {2}{R}
+Creature — Human Samurai
+Haste
+Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+2/2

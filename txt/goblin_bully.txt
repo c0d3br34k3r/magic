@@ -1,0 +1,3 @@
+Goblin Bully {1}{R}
+Creature — Goblin
+2/1

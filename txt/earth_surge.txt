@@ -1,0 +1,3 @@
+Earth Surge {3}{G}
+Enchantment
+Each land gets +2/+2 as long as it's a creature.

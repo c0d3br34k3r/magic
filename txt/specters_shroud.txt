@@ -1,0 +1,5 @@
+Specter's Shroud {2}
+Artifact — Equipment
+Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a player, that player discards a card.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)

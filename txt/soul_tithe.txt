@@ -1,0 +1,4 @@
+Soul Tithe {1}{W}
+Enchantment — Aura
+Enchant nonland permanent
+At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays {X}, where X is its converted mana cost.

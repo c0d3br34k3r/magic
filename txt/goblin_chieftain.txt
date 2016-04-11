@@ -1,0 +1,5 @@
+Goblin Chieftain {1}{R}{R}
+Creature — Goblin
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Other Goblin creatures you control get +1/+1 and have haste.
+2/2

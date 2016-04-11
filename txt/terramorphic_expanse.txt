@@ -1,0 +1,3 @@
+Terramorphic Expanse
+Land
+{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.

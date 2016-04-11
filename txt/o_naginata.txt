@@ -1,0 +1,5 @@
+O-Naginata {1}
+Artifact — Equipment
+O-Naginata can be attached only to a creature with power 3 or greater.
+Equipped creature gets +3/+0 and has trample.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)

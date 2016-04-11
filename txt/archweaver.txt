@@ -1,0 +1,4 @@
+Archweaver {5}{G}{G}
+Creature — Spider
+Reach, trample
+5/5

@@ -1,0 +1,5 @@
+Fog of Gnats {B}{B}
+Creature — Insect
+Flying
+{B}: Regenerate Fog of Gnats.
+1/1

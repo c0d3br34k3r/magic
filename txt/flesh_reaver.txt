@@ -1,0 +1,4 @@
+Flesh Reaver {1}{B}
+Creature — Horror
+Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you.
+4/4

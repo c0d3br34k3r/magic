@@ -1,0 +1,4 @@
+Gurmag Angler {6}{B}
+Creature — Zombie Fish
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+5/5

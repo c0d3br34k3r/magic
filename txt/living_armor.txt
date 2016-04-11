@@ -1,0 +1,3 @@
+Living Armor {4}
+Artifact
+{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.

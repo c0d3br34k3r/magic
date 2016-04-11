@@ -1,0 +1,4 @@
+Blight Herder {5}
+Creature — Eldrazi Processor
+When you cast Blight Herder, you may put two cards your opponents own from exile into their owners' graveyards. If you do, put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool."
+4/5

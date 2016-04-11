@@ -1,0 +1,4 @@
+Goliath Spider {6}{G}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+7/6

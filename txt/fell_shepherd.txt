@@ -1,0 +1,5 @@
+Fell Shepherd {5}{B}{B}
+Creature — Avatar
+Whenever Fell Shepherd deals combat damage to a player, you may return to your hand all creature cards that were put into your graveyard from the battlefield this turn.
+{B}, Sacrifice another creature: Target creature gets -2/-2 until end of turn.
+8/6

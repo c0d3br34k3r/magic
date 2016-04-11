@@ -1,0 +1,6 @@
+Icefall Regent {3}{U}{U}
+Creature — Dragon
+Flying
+When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent. 
+Spells your opponents cast that target Icefall Regent cost {2} more to cast.
+4/3

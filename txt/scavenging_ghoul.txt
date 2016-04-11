@@ -1,0 +1,5 @@
+Scavenging Ghoul {3}{B}
+Creature — Zombie
+At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.
+Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+2/2

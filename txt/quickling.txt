@@ -1,0 +1,6 @@
+Quickling {1}{U}
+Creature — Faerie Rogue
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Quickling enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.
+2/2

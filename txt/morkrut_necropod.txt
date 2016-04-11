@@ -1,0 +1,5 @@
+Morkrut Necropod {5}{B}
+Creature — Slug Horror
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or land.
+7/7

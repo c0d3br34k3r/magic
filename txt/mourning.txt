@@ -1,0 +1,5 @@
+Mourning {1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-0.
+{B}: Return Mourning to its owner's hand.

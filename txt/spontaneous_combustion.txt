@@ -1,0 +1,4 @@
+Spontaneous Combustion {1}{B}{R}
+Instant
+As an additional cost to cast Spontaneous Combustion, sacrifice a creature.
+Spontaneous Combustion deals 3 damage to each creature.

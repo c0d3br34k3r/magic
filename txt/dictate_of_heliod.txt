@@ -1,0 +1,4 @@
+Dictate of Heliod {3}{W}{W}
+Enchantment
+Flash
+Creatures you control get +2/+2.

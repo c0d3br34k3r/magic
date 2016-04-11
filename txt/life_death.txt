@@ -1,0 +1,7 @@
+Life {G}
+Sorcery
+All lands you control become 1/1 creatures until end of turn. They're still lands.
+* SPLIT *
+Death {1}{B}
+Sorcery
+Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.

@@ -1,0 +1,5 @@
+Gaze of Justice {W}
+Sorcery
+As an additional cost to cast Gaze of Justice, tap three untapped white creatures you control.
+Exile target creature.
+Flashback {5}{W} (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)

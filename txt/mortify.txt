@@ -1,0 +1,3 @@
+Mortify {1}{W}{B}
+Instant
+Destroy target creature or enchantment.

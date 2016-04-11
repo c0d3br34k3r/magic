@@ -1,0 +1,3 @@
+Immortal Servitude {X}{W/B}{W/B}{W/B}
+Sorcery
+Return each creature card with converted mana cost X from your graveyard to the battlefield.

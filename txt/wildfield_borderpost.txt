@@ -1,0 +1,5 @@
+Wildfield Borderpost {1}{W}{G}
+Artifact
+You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.
+Wildfield Borderpost enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.

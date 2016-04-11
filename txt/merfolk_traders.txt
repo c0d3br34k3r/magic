@@ -1,0 +1,4 @@
+Merfolk Traders {1}{U}
+Creature — Merfolk
+When Merfolk Traders enters the battlefield, draw a card, then discard a card.
+1/2

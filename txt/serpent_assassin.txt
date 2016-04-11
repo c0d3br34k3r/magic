@@ -1,0 +1,4 @@
+Serpent Assassin {3}{B}{B}
+Creature — Snake Assassin
+When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.
+2/2

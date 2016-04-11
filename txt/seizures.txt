@@ -1,0 +1,4 @@
+Seizures {1}{B}
+Enchantment — Aura
+Enchant creature
+Whenever enchanted creature becomes tapped, Seizures deals 3 damage to that creature's controller unless that player pays {3}.

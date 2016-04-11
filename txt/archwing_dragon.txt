@@ -1,0 +1,5 @@
+Archwing Dragon {2}{R}{R}
+Creature — Dragon
+Flying, haste
+At the beginning of the end step, return Archwing Dragon to its owner's hand.
+4/4

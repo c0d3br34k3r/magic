@@ -1,0 +1,4 @@
+Seedborn Muse {3}{G}{G}
+Creature — Spirit
+Untap all permanents you control during each other player's untap step.
+2/4

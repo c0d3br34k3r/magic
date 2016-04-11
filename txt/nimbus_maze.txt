@@ -1,0 +1,5 @@
+Nimbus Maze
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {W} to your mana pool. Activate this ability only if you control an Island.
+{T}: Add {U} to your mana pool. Activate this ability only if you control a Plains.

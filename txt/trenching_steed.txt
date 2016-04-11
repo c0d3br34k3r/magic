@@ -1,0 +1,4 @@
+Trenching Steed {3}{W}
+Creature — Horse Rebel
+Sacrifice a land: Trenching Steed gets +0/+3 until end of turn.
+2/3

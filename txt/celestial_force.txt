@@ -1,0 +1,4 @@
+Celestial Force {5}{W}{W}{W}
+Creature — Elemental
+At the beginning of each upkeep, you gain 3 life.
+7/7

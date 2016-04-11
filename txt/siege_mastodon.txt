@@ -1,0 +1,3 @@
+Siege Mastodon {4}{W}
+Creature — Elephant
+3/5

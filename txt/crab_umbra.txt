@@ -1,0 +1,5 @@
+Crab Umbra {U}
+Enchantment — Aura
+Enchant creature
+{2}{U}: Untap enchanted creature.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)

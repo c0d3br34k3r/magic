@@ -1,0 +1,4 @@
+Viridian Shaman {2}{G}
+Creature — Elf Shaman
+When Viridian Shaman enters the battlefield, destroy target artifact.
+2/2

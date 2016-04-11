@@ -1,0 +1,5 @@
+Illusionary Presence {1}{U}{U}
+Creature — Illusion
+Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+At the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn. (It can't be blocked as long as defending player controls a land of that type.)
+2/2

@@ -1,0 +1,6 @@
+Aven Liberator {2}{W}{W}
+Creature — Bird Soldier
+Flying
+Morph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Aven Liberator is turned face up, target creature you control gains protection from the color of your choice until end of turn.
+2/3

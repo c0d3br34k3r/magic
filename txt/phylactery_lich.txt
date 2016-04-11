@@ -1,0 +1,6 @@
+Phylactery Lich {B}{B}{B}
+Creature — Zombie
+Indestructible
+As Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control.
+When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.
+5/5

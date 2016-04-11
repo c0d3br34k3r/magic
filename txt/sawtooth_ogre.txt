@@ -1,0 +1,4 @@
+Sawtooth Ogre {2}{R}{R}
+Creature — Ogre
+Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.
+3/3

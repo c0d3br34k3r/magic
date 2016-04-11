@@ -1,0 +1,4 @@
+Hardened Berserker {2}{R}
+Creature — Human Berserker
+Whenever Hardened Berserker attacks, the next spell you cast this turn costs {1} less to cast.
+3/2

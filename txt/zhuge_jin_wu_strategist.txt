@@ -1,0 +1,4 @@
+Zhuge Jin, Wu Strategist {1}{U}{U}
+Legendary Creature — Human Advisor
+{T}: Target creature can't be blocked this turn. Activate this ability only during your turn, before attackers are declared.
+1/1

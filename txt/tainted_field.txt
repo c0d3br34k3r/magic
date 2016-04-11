@@ -1,0 +1,4 @@
+Tainted Field
+Land
+{T}: Add {C} to your mana pool.
+{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.

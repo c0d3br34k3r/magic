@@ -1,0 +1,4 @@
+Phantom Warrior {1}{U}{U}
+Creature — Illusion Warrior
+Phantom Warrior can't be blocked.
+2/2

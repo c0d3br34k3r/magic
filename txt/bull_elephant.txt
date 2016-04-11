@@ -1,0 +1,4 @@
+Bull Elephant {3}{G}
+Creature — Elephant
+When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.
+4/4

@@ -1,0 +1,3 @@
+Intimidation {2}{B}{B}{B}
+Enchantment
+Creatures you control have fear. (They can't be blocked except by artifact creatures and/or black creatures.)

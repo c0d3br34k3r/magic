@@ -1,0 +1,5 @@
+Allosaurus Rider {5}{G}{G}
+Creature — Elf Warrior
+You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.
+Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.
+1+*/1+*

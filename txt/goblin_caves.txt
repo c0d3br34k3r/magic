@@ -1,0 +1,4 @@
+Goblin Caves {1}{R}{R}
+Enchantment — Aura
+Enchant land
+As long as enchanted land is a basic Mountain, Goblin creatures get +0/+2.

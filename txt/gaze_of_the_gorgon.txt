@@ -1,0 +1,4 @@
+Gaze of the Gorgon {3}{B/G}
+Instant
+({B/G} can be paid with either {B} or {G}.)
+Regenerate target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.

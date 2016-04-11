@@ -1,0 +1,5 @@
+Flight of Fancy {3}{U}
+Enchantment — Aura
+Enchant creature
+When Flight of Fancy enters the battlefield, draw two cards.
+Enchanted creature has flying.

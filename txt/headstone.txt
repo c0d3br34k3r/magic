@@ -1,0 +1,4 @@
+Headstone {1}{B}
+Instant
+Exile target card from a graveyard.
+Draw a card at the beginning of the next turn's upkeep.

@@ -1,0 +1,5 @@
+Drana's Emissary {1}{W}{B}
+Creature — Vampire Cleric Ally
+Flying
+At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
+2/2

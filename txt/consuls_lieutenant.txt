@@ -1,0 +1,6 @@
+Consul's Lieutenant {W}{W}
+Creature — Human Soldier
+First strike
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.
+2/1

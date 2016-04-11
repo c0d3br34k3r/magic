@@ -1,0 +1,4 @@
+Shimmering Mirage {1}{U}
+Instant
+Target land becomes the basic land type of your choice until end of turn.
+Draw a card.

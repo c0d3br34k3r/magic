@@ -1,0 +1,6 @@
+Deep Spawn {5}{U}{U}{U}
+Creature — Homarid
+Trample
+At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.
+{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. (A creature with shroud can't be the target of spells or abilities.)
+6/6

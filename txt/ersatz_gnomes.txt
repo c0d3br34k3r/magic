@@ -1,0 +1,5 @@
+Ersatz Gnomes {3}
+Artifact Creature — Gnome
+{T}: Target spell becomes colorless.
+{T}: Target permanent becomes colorless until end of turn.
+1/1

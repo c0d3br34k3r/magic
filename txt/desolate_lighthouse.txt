@@ -1,0 +1,4 @@
+Desolate Lighthouse
+Land
+{T}: Add {C} to your mana pool.
+{1}{U}{R}, {T}: Draw a card, then discard a card.

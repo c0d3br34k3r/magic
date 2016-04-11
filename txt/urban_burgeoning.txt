@@ -1,0 +1,4 @@
+Urban Burgeoning {G}
+Enchantment — Aura
+Enchant land
+Enchanted land has "Untap this land during each other player's untap step."

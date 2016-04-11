@@ -1,0 +1,6 @@
+Sapphire Charm {U}
+Instant
+Choose one —
+• Target player draws a card at the beginning of the next turn's upkeep.
+• Target creature gains flying until end of turn.
+• Target creature an opponent controls phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)

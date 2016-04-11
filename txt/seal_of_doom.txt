@@ -1,0 +1,3 @@
+Seal of Doom {2}{B}
+Enchantment
+Sacrifice Seal of Doom: Destroy target nonblack creature. It can't be regenerated.

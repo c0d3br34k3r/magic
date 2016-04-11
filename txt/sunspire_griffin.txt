@@ -1,0 +1,4 @@
+Sunspire Griffin {1}{W}{W}
+Creature — Griffin
+Flying
+2/3

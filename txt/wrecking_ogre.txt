@@ -1,0 +1,5 @@
+Wrecking Ogre {4}{R}
+Creature — Ogre Warrior
+Double strike
+Bloodrush — {3}{R}{R}, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
+3/3

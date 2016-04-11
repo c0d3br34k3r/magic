@@ -1,0 +1,4 @@
+Marshdrinker Giant {3}{G}{G}
+Creature — Giant Warrior
+When Marshdrinker Giant enters the battlefield, destroy target Island or Swamp an opponent controls.
+4/3

@@ -1,0 +1,4 @@
+Veldrane of Sengir {5}{B}{B}
+Legendary Creature — Human Rogue
+{1}{B}{B}: Veldrane of Sengir gets -3/-0 and gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)
+5/5

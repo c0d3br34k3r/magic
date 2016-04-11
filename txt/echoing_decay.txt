@@ -1,0 +1,3 @@
+Echoing Decay {1}{B}
+Instant
+Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.

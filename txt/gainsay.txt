@@ -1,0 +1,3 @@
+Gainsay {1}{U}
+Instant
+Counter target blue spell.

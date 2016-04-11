@@ -1,0 +1,4 @@
+Greater Basilisk {3}{G}{G}
+Creature — Basilisk
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+3/5

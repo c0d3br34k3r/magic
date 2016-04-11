@@ -1,0 +1,6 @@
+Everflame Eidolon {1}{R}
+Enchantment Creature — Spirit
+Bestow {2}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+{R}: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead.
+Enchanted creature gets +1/+1.
+1/1

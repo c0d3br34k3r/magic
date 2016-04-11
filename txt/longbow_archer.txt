@@ -1,0 +1,4 @@
+Longbow Archer {W}{W}
+Creature — Human Soldier Archer
+First strike; reach (This creature can block creatures with flying.)
+2/2

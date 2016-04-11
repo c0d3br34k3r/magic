@@ -1,0 +1,5 @@
+Glittering Lynx {W}
+Creature — Cat
+Prevent all damage that would be dealt to Glittering Lynx.
+{2}: Until end of turn, Glittering Lynx loses "Prevent all damage that would be dealt to Glittering Lynx." Any player may activate this ability.
+1/1

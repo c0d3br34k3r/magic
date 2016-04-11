@@ -1,0 +1,5 @@
+Kill-Suit Cultist {R}
+Creature — Goblin Berserker
+Kill-Suit Cultist attacks each turn if able.
+{B}, Sacrifice Kill-Suit Cultist: The next time damage would be dealt to target creature this turn, destroy that creature instead.
+1/1

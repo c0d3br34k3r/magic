@@ -1,0 +1,6 @@
+Squealing Devil {1}{R}
+Creature — Devil
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Squealing Devil enters the battlefield, you may pay {X}. If you do, target creature gets +X/+0 until end of turn.
+When Squealing Devil enters the battlefield, sacrifice it unless {B} was spent to cast it.
+2/1

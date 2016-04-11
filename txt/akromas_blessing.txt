@@ -1,0 +1,4 @@
+Akroma's Blessing {2}{W}
+Instant
+Choose a color. Creatures you control gain protection from the chosen color until end of turn.
+Cycling {W} ({W}, Discard this card: Draw a card.)

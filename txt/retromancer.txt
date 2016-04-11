@@ -1,0 +1,4 @@
+Retromancer {2}{R}{R}
+Creature — Viashino Shaman
+Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller.
+3/3

@@ -1,0 +1,6 @@
+Deepfathom Skulker {5}{U}
+Creature — Eldrazi
+Devoid (This card has no color.)
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+{3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)
+4/4

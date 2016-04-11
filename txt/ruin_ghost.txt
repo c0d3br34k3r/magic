@@ -1,0 +1,4 @@
+Ruin Ghost {1}{W}
+Creature — Spirit
+{W}, {T}: Exile target land you control, then return it to the battlefield under your control.
+1/1

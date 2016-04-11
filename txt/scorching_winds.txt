@@ -1,0 +1,4 @@
+Scorching Winds {R}
+Instant
+Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step.
+Scorching Winds deals 1 damage to each attacking creature.

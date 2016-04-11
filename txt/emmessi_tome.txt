@@ -1,0 +1,3 @@
+Emmessi Tome {4}
+Artifact
+{5}, {T}: Draw two cards, then discard a card.

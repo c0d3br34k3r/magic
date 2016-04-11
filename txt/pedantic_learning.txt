@@ -1,0 +1,3 @@
+Pedantic Learning {U}{U}
+Enchantment
+Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card.

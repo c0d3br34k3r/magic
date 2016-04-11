@@ -1,0 +1,4 @@
+Azorius Justiciar {2}{W}{W}
+Creature — Human Wizard
+When Azorius Justiciar enters the battlefield, detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)
+2/2

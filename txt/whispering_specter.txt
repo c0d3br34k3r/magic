@@ -1,0 +1,6 @@
+Whispering Specter {1}{B}{B}
+Creature — Specter
+Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter he or she has.
+1/1

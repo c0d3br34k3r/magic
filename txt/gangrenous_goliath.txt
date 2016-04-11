@@ -1,0 +1,4 @@
+Gangrenous Goliath {3}{B}{B}
+Creature — Zombie Giant
+Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.
+4/4

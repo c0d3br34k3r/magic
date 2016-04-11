@@ -1,0 +1,5 @@
+Boreal Griffin {3}{W}{W}
+Snow Creature — Griffin
+Flying
+{S}: Boreal Griffin gains first strike until end of turn. ({S} can be paid with one mana from a snow permanent.)
+3/2

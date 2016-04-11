@@ -1,0 +1,4 @@
+Tangle {1}{G}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Each attacking creature doesn't untap during its controller's next untap step.

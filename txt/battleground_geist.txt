@@ -1,0 +1,5 @@
+Battleground Geist {4}{U}
+Creature — Spirit
+Flying
+Other Spirit creatures you control get +1/+0.
+3/3

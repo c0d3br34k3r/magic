@@ -1,0 +1,5 @@
+Nekrataal {2}{B}{B}
+Creature — Human Assassin
+First strike
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+2/1

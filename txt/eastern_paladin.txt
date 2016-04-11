@@ -1,0 +1,4 @@
+Eastern Paladin {2}{B}{B}
+Creature — Zombie Knight
+{B}{B}, {T}: Destroy target green creature.
+3/3

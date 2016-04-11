@@ -1,0 +1,4 @@
+Laboratory Maniac {2}{U}
+Creature — Human Wizard
+If you would draw a card while your library has no cards in it, you win the game instead.
+2/2

@@ -1,0 +1,4 @@
+Nomadic Elf {1}{G}
+Creature — Elf Nomad
+{1}{G}: Add one mana of any color to your mana pool.
+2/2

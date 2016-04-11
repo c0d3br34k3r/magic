@@ -1,0 +1,4 @@
+Wretched Anurid {1}{B}
+Creature — Zombie Frog Beast
+Whenever another creature enters the battlefield, you lose 1 life.
+3/3

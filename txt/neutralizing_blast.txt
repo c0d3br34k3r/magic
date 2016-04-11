@@ -1,0 +1,3 @@
+Neutralizing Blast {1}{U}
+Instant
+Counter target multicolored spell.

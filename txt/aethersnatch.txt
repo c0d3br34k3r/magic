@@ -1,0 +1,3 @@
+Æthersnatch {4}{U}{U}
+Instant
+Gain control of target spell. You may choose new targets for it. (If that spell becomes a permanent, it enters the battlefield under your control.)

@@ -1,0 +1,6 @@
+Liege of the Axe {3}{W}
+Creature — Human Soldier
+Vigilance
+Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Liege of the Axe is turned face up, untap it.
+2/3

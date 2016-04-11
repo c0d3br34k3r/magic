@@ -1,0 +1,4 @@
+Paranoid Parish-Blade {2}{W}
+Creature — Human Soldier
+Delirium — Paranoid Parish-Blade gets +1/+0 and has first strike as long as there are four or more card types among cards in your graveyard.
+3/2

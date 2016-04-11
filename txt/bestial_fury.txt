@@ -1,0 +1,5 @@
+Bestial Fury {2}{R}
+Enchantment — Aura
+Enchant creature
+When Bestial Fury enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Whenever enchanted creature becomes blocked, it gets +4/+0 and gains trample until end of turn.

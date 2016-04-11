@@ -1,0 +1,5 @@
+Great Sable Stag {1}{G}{G}
+Creature — Elk
+Great Sable Stag can't be countered.
+Protection from blue and from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue or black.)
+3/3

@@ -1,0 +1,4 @@
+Arcane Spyglass {4}
+Artifact
+{2}, {T}, Sacrifice a land: Draw a card and put a charge counter on Arcane Spyglass.
+Remove three charge counters from Arcane Spyglass: Draw a card.

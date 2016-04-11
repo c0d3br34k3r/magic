@@ -1,0 +1,5 @@
+Cauldron Dance {4}{B}{R}
+Instant
+Cast Cauldron Dance only during combat.
+Return target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
+You may put a creature card from your hand onto the battlefield. That creature gains haste. Its controller sacrifices it at the beginning of the next end step.

@@ -1,0 +1,4 @@
+Inaction Injunction {1}{U}
+Sorcery
+Detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+Draw a card.

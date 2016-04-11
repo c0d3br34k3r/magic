@@ -1,0 +1,3 @@
+Griptide {3}{U}
+Instant
+Put target creature on top of its owner's library.

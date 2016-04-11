@@ -1,0 +1,4 @@
+Keldon Arsonist {2}{R}
+Creature — Human Soldier
+{1}, Sacrifice two lands: Destroy target land.
+1/1

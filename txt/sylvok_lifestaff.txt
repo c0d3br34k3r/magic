@@ -1,0 +1,5 @@
+Sylvok Lifestaff {1}
+Artifact — Equipment
+Equipped creature gets +1/+0.
+Whenever equipped creature dies, you gain 3 life.
+Equip {1}

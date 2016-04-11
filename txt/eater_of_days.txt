@@ -1,0 +1,5 @@
+Eater of Days {4}
+Artifact Creature — Leviathan
+Flying, trample
+When Eater of Days enters the battlefield, you skip your next two turns.
+9/8

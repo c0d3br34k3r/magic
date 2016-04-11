@@ -1,0 +1,5 @@
+Monastery Swiftspear {R}
+Creature — Human Monk
+Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+1/2

@@ -1,0 +1,5 @@
+Field of Reality {2}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't be blocked by Spirits.
+{1}{U}: Return Field of Reality to its owner's hand.

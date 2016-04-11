@@ -1,0 +1,5 @@
+Prophet of Distortion {U}
+Creature — Eldrazi Drone
+Devoid (This card has no color.)
+{3}{C}: Draw a card. ({C} represents colorless mana.)
+1/2

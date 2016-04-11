@@ -1,0 +1,4 @@
+Dryad's Favor {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has forestwalk. (It can't be blocked as long as defending player controls a Forest.)

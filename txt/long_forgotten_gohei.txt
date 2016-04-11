@@ -1,0 +1,4 @@
+Long-Forgotten Gohei {3}
+Artifact
+Arcane spells you cast cost {1} less to cast.
+Spirit creatures you control get +1/+1.

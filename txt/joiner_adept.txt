@@ -1,0 +1,4 @@
+Joiner Adept {1}{G}
+Creature — Elf Druid
+Lands you control have "{T}: Add one mana of any color to your mana pool."
+2/1

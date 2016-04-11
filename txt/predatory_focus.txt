@@ -1,0 +1,3 @@
+Predatory Focus {3}{G}{G}
+Sorcery
+You may have creatures you control assign their combat damage this turn as though they weren't blocked.

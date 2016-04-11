@@ -1,0 +1,4 @@
+Cobalt Golem {4}
+Artifact Creature — Golem
+{1}{U}: Cobalt Golem gains flying until end of turn.
+2/3

@@ -1,0 +1,4 @@
+Guardians of Meletis {3}
+Artifact Creature — Golem
+Defender (This creature can't attack.)
+0/6

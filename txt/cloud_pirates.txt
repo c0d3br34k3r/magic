@@ -1,0 +1,5 @@
+Cloud Pirates {U}
+Creature — Human Pirate
+Flying
+Cloud Pirates can block only creatures with flying.
+1/1

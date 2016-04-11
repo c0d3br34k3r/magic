@@ -1,0 +1,4 @@
+Nantuko Elder {2}{G}
+Creature — Insect Druid
+{T}: Add {C}{G} to your mana pool.
+1/2

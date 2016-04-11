@@ -1,0 +1,4 @@
+Altar of the Lost {3}
+Artifact
+Altar of the Lost enters the battlefield tapped.
+{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard.

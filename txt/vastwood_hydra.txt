@@ -1,0 +1,5 @@
+Vastwood Hydra {X}{G}{G}
+Creature — Hydra
+Vastwood Hydra enters the battlefield with X +1/+1 counters on it.
+When Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.
+0/0

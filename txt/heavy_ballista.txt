@@ -1,0 +1,4 @@
+Heavy Ballista {3}{W}
+Creature — Human Soldier
+{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.
+2/3

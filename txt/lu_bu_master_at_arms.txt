@@ -1,0 +1,4 @@
+Lu Bu, Master-at-Arms {5}{R}
+Legendary Creature — Human Soldier Warrior
+Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+4/3

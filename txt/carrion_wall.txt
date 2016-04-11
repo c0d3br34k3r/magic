@@ -1,0 +1,5 @@
+Carrion Wall {1}{B}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+{1}{B}: Regenerate Carrion Wall.
+3/2

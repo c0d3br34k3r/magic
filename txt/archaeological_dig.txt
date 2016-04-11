@@ -1,0 +1,4 @@
+Archaeological Dig
+Land
+{T}: Add {C} to your mana pool.
+{T}, Sacrifice Archaeological Dig: Add one mana of any color to your mana pool.

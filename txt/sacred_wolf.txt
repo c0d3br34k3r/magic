@@ -1,0 +1,4 @@
+Sacred Wolf {2}{G}
+Creature — Wolf
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+3/1

@@ -1,0 +1,4 @@
+Helldozer {3}{B}{B}{B}
+Creature — Zombie Giant
+{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer.
+6/5

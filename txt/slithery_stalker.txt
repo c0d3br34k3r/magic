@@ -1,0 +1,6 @@
+Slithery Stalker {1}{B}{B}
+Creature — Nightmare Horror
+Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.
+When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+1/1

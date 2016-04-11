@@ -1,0 +1,4 @@
+Scalding Devil {1}{R}
+Creature — Devil
+{2}{R}: Scalding Devil deals 1 damage to target player.
+1/1

@@ -1,0 +1,3 @@
+Scepter of Fugue {B}{B}
+Artifact
+{1}{B}, {T}: Target player discards a card. Activate this ability only during your turn.

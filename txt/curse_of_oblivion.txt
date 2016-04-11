@@ -1,0 +1,4 @@
+Curse of Oblivion {3}{B}
+Enchantment — Aura Curse
+Enchant player
+At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.

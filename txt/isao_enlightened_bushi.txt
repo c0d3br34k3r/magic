@@ -1,0 +1,6 @@
+Isao, Enlightened Bushi {2}{G}
+Legendary Creature — Human Samurai
+Isao, Enlightened Bushi can't be countered.
+Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+{2}: Regenerate target Samurai.
+2/1

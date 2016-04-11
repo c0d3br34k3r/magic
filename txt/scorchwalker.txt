@@ -1,0 +1,4 @@
+Scorchwalker {3}{R}
+Creature — Elemental
+Bloodrush — {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
+5/1

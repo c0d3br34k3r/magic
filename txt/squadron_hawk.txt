@@ -1,0 +1,5 @@
+Squadron Hawk {1}{W}
+Creature — Bird
+Flying
+When Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle your library.
+1/1

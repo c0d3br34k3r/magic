@@ -1,0 +1,4 @@
+Priest of Iroas {R}
+Creature — Human Cleric
+{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment.
+1/1

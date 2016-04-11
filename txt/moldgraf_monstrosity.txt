@@ -1,0 +1,5 @@
+Moldgraf Monstrosity {4}{G}{G}{G}
+Creature — Insect
+Trample
+When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.
+8/8

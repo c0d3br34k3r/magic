@@ -1,0 +1,5 @@
+Crimson Acolyte {1}{W}
+Creature — Human Cleric
+Protection from red
+{W}: Target creature gains protection from red until end of turn.
+1/1

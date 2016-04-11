@@ -1,0 +1,4 @@
+Haazda Exonerator {W}
+Creature — Human Cleric
+{T}, Sacrifice Haazda Exonerator: Destroy target Aura.
+1/1

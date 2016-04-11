@@ -1,0 +1,4 @@
+Mercadian Lift {2}
+Artifact
+{1}, {T}: Put a winch counter on Mercadian Lift.
+{T}, Remove X winch counters from Mercadian Lift: You may put a creature card with converted mana cost X from your hand onto the battlefield.

@@ -1,0 +1,3 @@
+Peak Eruption {2}{R}
+Sorcery
+Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.

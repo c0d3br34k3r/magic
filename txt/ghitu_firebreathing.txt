@@ -1,0 +1,6 @@
+Ghitu Firebreathing {1}{R}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.
+{R}: Return Ghitu Firebreathing to its owner's hand.

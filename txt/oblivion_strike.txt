@@ -1,0 +1,4 @@
+Oblivion Strike {3}{B}
+Sorcery
+Devoid (This card has no color.)
+Exile target creature.

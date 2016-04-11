@@ -1,0 +1,5 @@
+Air Servant {4}{U}
+Creature — Elemental
+Flying
+{2}{U}: Tap target creature with flying.
+4/3

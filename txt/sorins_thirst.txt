@@ -1,0 +1,3 @@
+Sorin's Thirst {B}{B}
+Instant
+Sorin's Thirst deals 2 damage to target creature and you gain 2 life.

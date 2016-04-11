@@ -1,0 +1,4 @@
+Saprazzan Raider {2}{U}
+Creature — Merfolk
+When Saprazzan Raider becomes blocked, return it to its owner's hand.
+1/2

@@ -1,0 +1,4 @@
+Scarscale Ritual {1}{U/B}
+Sorcery
+As an additional cost to cast Scarscale Ritual, put a -1/-1 counter on a creature you control.
+Draw two cards.

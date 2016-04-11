@@ -1,0 +1,5 @@
+Battlewise Aven {3}{W}
+Creature — Bird Soldier
+Flying
+Threshold — As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.
+2/2

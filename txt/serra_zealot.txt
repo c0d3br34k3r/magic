@@ -1,0 +1,4 @@
+Serra Zealot {W}
+Creature — Human Soldier
+First strike
+1/1

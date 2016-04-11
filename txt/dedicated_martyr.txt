@@ -1,0 +1,4 @@
+Dedicated Martyr {W}
+Creature — Human Cleric
+{W}, Sacrifice Dedicated Martyr: You gain 3 life.
+1/1

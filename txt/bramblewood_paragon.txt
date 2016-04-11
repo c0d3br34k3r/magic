@@ -1,0 +1,5 @@
+Bramblewood Paragon {1}{G}
+Creature — Elf Warrior
+Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has trample.
+2/2

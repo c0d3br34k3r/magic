@@ -1,0 +1,4 @@
+Mageta the Lion {3}{W}{W}
+Legendary Creature — Human Spellshaper
+{2}{W}{W}, {T}, Discard two cards: Destroy all creatures except for Mageta the Lion. Those creatures can't be regenerated.
+3/3

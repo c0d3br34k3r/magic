@@ -1,0 +1,3 @@
+Fade Away {2}{U}
+Sorcery
+For each creature, its controller sacrifices a permanent unless he or she pays {1}.

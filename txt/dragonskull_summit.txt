@@ -1,0 +1,4 @@
+Dragonskull Summit
+Land
+Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R} to your mana pool.

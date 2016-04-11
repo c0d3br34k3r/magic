@@ -1,0 +1,5 @@
+Lim-Dûl's High Guard {1}{B}{B}
+Creature — Skeleton
+First strike
+{1}{B}: Regenerate Lim-Dûl's High Guard.
+2/1

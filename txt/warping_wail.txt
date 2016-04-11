@@ -1,0 +1,7 @@
+Warping Wail {1}{C}
+Instant
+({C} represents colorless mana.)
+Choose one —
+• Exile target creature with power or toughness 1 or less.
+• Counter target sorcery spell.
+• Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."

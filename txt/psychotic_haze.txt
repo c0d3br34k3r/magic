@@ -1,0 +1,4 @@
+Psychotic Haze {2}{B}{B}
+Instant
+Psychotic Haze deals 1 damage to each creature and each player.
+Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)

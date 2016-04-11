@@ -1,0 +1,4 @@
+Seachrome Coast
+Land
+Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {U} to your mana pool.

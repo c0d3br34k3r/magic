@@ -1,0 +1,5 @@
+Wall of Souls {1}{B}
+Creature — Wall
+Defender (This creature can't attack.)
+Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent.
+0/4

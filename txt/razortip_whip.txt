@@ -1,0 +1,3 @@
+Razortip Whip {2}
+Artifact
+{1}, {T}: Razortip Whip deals 1 damage to target opponent.

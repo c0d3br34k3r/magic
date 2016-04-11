@@ -1,0 +1,3 @@
+Erase {W}
+Instant
+Exile target enchantment.

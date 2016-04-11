@@ -1,0 +1,4 @@
+Resolute Blademaster {3}{W}{R}
+Creature — Human Soldier Ally
+Rally — Whenever Resolute Blademaster or another Ally enters the battlefield under your control, creatures you control gain double strike until end of turn.
+2/2

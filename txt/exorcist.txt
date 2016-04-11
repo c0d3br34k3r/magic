@@ -1,0 +1,4 @@
+Exorcist {W}{W}
+Creature — Human Cleric
+{1}{W}, {T}: Destroy target black creature.
+1/1

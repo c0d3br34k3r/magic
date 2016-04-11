@@ -1,0 +1,6 @@
+Fever Charm {R}
+Instant
+Choose one —
+• Target creature gains haste until end of turn.
+• Target creature gets +2/+0 until end of turn.
+• Fever Charm deals 3 damage to target Wizard creature.

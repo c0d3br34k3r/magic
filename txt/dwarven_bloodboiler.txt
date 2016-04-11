@@ -1,0 +1,4 @@
+Dwarven Bloodboiler {R}{R}{R}
+Creature — Dwarf
+Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.
+2/2

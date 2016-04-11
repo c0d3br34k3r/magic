@@ -1,0 +1,4 @@
+Ethersworn Canonist {1}{W}
+Artifact Creature — Human Cleric
+Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.
+2/2

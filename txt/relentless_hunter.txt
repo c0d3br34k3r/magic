@@ -1,0 +1,4 @@
+Relentless Hunter {1}{R}{G}
+Creature — Human Warrior
+{1}{R}{G}: Relentless Hunter gets +1/+1 and gains trample until end of turn.
+3/3

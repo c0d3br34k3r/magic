@@ -1,0 +1,5 @@
+Castle Raptors {4}{W}
+Creature — Bird Soldier
+Flying
+As long as Castle Raptors is untapped, it gets +0/+2.
+3/3

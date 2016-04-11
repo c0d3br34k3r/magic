@@ -1,0 +1,4 @@
+Armored Transport {3}
+Artifact Creature — Construct
+Prevent all combat damage that would be dealt to Armored Transport by creatures blocking it.
+2/1

@@ -1,0 +1,4 @@
+Mother of Runes {W}
+Creature — Human Cleric
+{T}: Target creature you control gains protection from the color of your choice until end of turn.
+1/1

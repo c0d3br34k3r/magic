@@ -1,0 +1,5 @@
+Rathi Assassin {2}{B}{B}
+Creature — Zombie Mercenary Assassin
+{1}{B}{B}, {T}: Destroy target tapped nonblack creature.
+{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+2/2

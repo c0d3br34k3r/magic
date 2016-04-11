@@ -1,0 +1,6 @@
+Spike Rogue {1}{G}{G}
+Creature — Spike
+Spike Rogue enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Rogue: Put a +1/+1 counter on target creature.
+{2}, Remove a +1/+1 counter from a creature you control: Put a +1/+1 counter on Spike Rogue.
+0/0

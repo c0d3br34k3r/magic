@@ -1,0 +1,9 @@
+Avacynian Missionaries {3}{W}
+Creature — Human Cleric
+At the beginning of your end step, if Avacynian Missionaries is equipped, transform it.
+3/3
+* DOUBLE-FACED *
+Lunarch Inquisitors
+Creature — Human Cleric
+When this creature transforms into Lunarch Inquisitors, you may exile another target creature until Lunarch Inquisitors leaves the battlefield.
+4/4

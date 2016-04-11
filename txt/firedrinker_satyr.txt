@@ -1,0 +1,5 @@
+Firedrinker Satyr {R}
+Creature — Satyr Shaman
+Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.
+{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
+2/1

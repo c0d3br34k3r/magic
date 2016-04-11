@@ -1,0 +1,4 @@
+Game Trail
+Land
+As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don't, Game Trail enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.

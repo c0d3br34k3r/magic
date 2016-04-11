@@ -1,0 +1,5 @@
+Conclave Phalanx {4}{W}
+Creature — Human Soldier
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.
+2/4

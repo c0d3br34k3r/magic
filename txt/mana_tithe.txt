@@ -1,0 +1,3 @@
+Mana Tithe {W}
+Instant
+Counter target spell unless its controller pays {1}.

@@ -1,0 +1,5 @@
+Gargoyle Sentinel {3}
+Artifact Creature — Gargoyle
+Defender (This creature can't attack.)
+{3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.
+3/3

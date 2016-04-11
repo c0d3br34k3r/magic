@@ -1,0 +1,5 @@
+Roots {3}{G}
+Enchantment — Aura
+Enchant creature without flying
+When Roots enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.

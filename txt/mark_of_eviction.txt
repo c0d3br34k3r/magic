@@ -1,0 +1,4 @@
+Mark of Eviction {U}
+Enchantment — Aura
+Enchant creature
+At the beginning of your upkeep, return enchanted creature and all Auras attached to that creature to their owners' hands.

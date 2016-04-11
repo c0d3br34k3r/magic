@@ -1,0 +1,6 @@
+Entomber Exarch {2}{B}{B}
+Creature — Cleric
+When Entomber Exarch enters the battlefield, choose one —
+• Return target creature card from your graveyard to your hand.
+• Target opponent reveals his or her hand, you choose a noncreature card from it, then that player discards that card.
+2/2

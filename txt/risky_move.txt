@@ -1,0 +1,4 @@
+Risky Move {3}{R}{R}{R}
+Enchantment
+At the beginning of each player's upkeep, that player gains control of Risky Move.
+When you gain control of Risky Move from another player, choose a creature you control and an opponent. Flip a coin. If you lose the flip, that opponent gains control of that creature.

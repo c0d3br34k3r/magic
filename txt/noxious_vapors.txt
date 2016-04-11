@@ -1,0 +1,3 @@
+Noxious Vapors {1}{B}{B}
+Sorcery
+Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.

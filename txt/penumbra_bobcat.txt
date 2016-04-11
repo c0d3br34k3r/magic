@@ -1,0 +1,4 @@
+Penumbra Bobcat {2}{G}
+Creature — Cat
+When Penumbra Bobcat dies, put a 2/1 black Cat creature token onto the battlefield.
+2/1

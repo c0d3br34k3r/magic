@@ -1,0 +1,5 @@
+Mana-Charged Dragon {4}{R}{R}
+Creature — Dragon
+Flying, trample
+Join forces — Whenever Mana-Charged Dragon attacks or blocks, each player starting with you may pay any amount of mana. Mana-Charged Dragon gets +X/+0 until end of turn, where X is the total amount of mana paid this way.
+5/5

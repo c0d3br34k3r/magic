@@ -1,0 +1,4 @@
+Fetid Heath
+Land
+{T}: Add {C} to your mana pool.
+{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B} to your mana pool.

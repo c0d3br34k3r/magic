@@ -1,0 +1,5 @@
+Instill Energy {G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can attack as though it had haste.
+{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.

@@ -1,0 +1,5 @@
+Silver Drake {1}{W}{U}
+Creature — Drake
+Flying
+When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.
+3/3

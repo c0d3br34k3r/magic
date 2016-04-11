@@ -1,0 +1,5 @@
+Vine Kami {6}{G}
+Creature — Spirit
+Menace (This creature can't be blocked except by two or more creatures.)
+Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)
+4/4

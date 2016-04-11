@@ -1,0 +1,5 @@
+Havenwood Wurm {6}{G}
+Creature — Wurm
+Flash (You may cast this spell any time you could cast an instant.)
+Trample
+5/6

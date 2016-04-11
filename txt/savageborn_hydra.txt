@@ -1,0 +1,6 @@
+Savageborn Hydra {X}{R}{G}
+Creature — Hydra
+Double strike
+Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
+{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+0/0

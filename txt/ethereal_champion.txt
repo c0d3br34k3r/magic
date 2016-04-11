@@ -1,0 +1,4 @@
+Ethereal Champion {2}{W}{W}{W}
+Creature — Avatar
+Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.
+3/4

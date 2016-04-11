@@ -1,0 +1,5 @@
+Kaho, Minamo Historian {2}{U}{U}
+Legendary Creature — Human Wizard
+When Kaho, Minamo Historian enters the battlefield, search your library for up to three instant cards and exile them. Then shuffle your library.
+{X}, {T}: You may cast a card with converted mana cost X exiled with Kaho without paying its mana cost.
+2/2

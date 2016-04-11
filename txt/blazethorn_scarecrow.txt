@@ -1,0 +1,5 @@
+Blazethorn Scarecrow {5}
+Artifact Creature — Scarecrow
+Blazethorn Scarecrow has haste as long as you control a red creature.
+Blazethorn Scarecrow has wither as long as you control a green creature. (It deals damage to creatures in the form of -1/-1 counters.)
+3/3

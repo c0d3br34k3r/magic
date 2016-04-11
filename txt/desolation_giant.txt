@@ -1,0 +1,5 @@
+Desolation Giant {2}{R}{R}
+Creature — Giant
+Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)
+When Desolation Giant enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead.
+3/3

@@ -1,0 +1,4 @@
+Weathered Wayfarer {W}
+Creature — Human Nomad Cleric
+{W}, {T}: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.
+1/1

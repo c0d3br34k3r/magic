@@ -1,0 +1,5 @@
+Sulam Djinn {5}{G}
+Creature — Djinn
+Trample
+Sulam Djinn gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.
+6/6

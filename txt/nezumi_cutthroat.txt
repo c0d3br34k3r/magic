@@ -1,0 +1,5 @@
+Nezumi Cutthroat {1}{B}
+Creature — Rat Warrior
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can't block.
+2/1

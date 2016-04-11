@@ -1,0 +1,5 @@
+Tin-Wing Chimera {4}
+Artifact Creature — Chimera
+Flying
+Sacrifice Tin-Wing Chimera: Put a +2/+2 counter on target Chimera creature. It gains flying. (This effect lasts indefinitely.)
+2/2

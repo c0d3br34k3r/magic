@@ -1,0 +1,4 @@
+Shifting Sliver {3}{U}
+Creature — Sliver
+Slivers can't be blocked except by Slivers.
+2/2

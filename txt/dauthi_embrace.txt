@@ -1,0 +1,3 @@
+Dauthi Embrace {2}{B}
+Enchantment
+{B}{B}: Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)

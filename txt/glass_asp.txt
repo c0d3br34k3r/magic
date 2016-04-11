@@ -1,0 +1,4 @@
+Glass Asp {1}{G}{G}
+Creature — Snake
+Whenever Glass Asp deals combat damage to a player, that player loses 2 life at the beginning of his or her next draw step unless he or she pays {2} before that step.
+2/1

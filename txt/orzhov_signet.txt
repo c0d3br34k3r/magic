@@ -1,0 +1,3 @@
+Orzhov Signet {2}
+Artifact
+{1}, {T}: Add {W}{B} to your mana pool.

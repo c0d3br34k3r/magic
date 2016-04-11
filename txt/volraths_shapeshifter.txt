@@ -1,0 +1,5 @@
+Volrath's Shapeshifter {1}{U}{U}
+Creature — Shapeshifter
+As long as the top card of your graveyard is a creature card, Volrath's Shapeshifter has the full text of that card and has the text "{2}: Discard a card." (Volrath's Shapeshifter has that card's name, mana cost, color, types, abilities, power, and toughness.)
+{2}: Discard a card.
+0/1

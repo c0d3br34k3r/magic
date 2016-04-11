@@ -1,0 +1,4 @@
+Tidal Visionary {U}
+Creature — Merfolk Wizard
+{T}: Target creature becomes the color of your choice until end of turn.
+1/1

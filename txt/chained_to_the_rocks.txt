@@ -1,0 +1,4 @@
+Chained to the Rocks {W}
+Enchantment — Aura
+Enchant Mountain you control
+When Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. (That creature returns under its owner's control.)

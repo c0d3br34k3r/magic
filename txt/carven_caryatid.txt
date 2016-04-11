@@ -1,0 +1,5 @@
+Carven Caryatid {1}{G}{G}
+Creature — Spirit
+Defender (This creature can't attack.)
+When Carven Caryatid enters the battlefield, draw a card.
+2/5

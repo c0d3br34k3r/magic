@@ -1,0 +1,5 @@
+Carrion Feeder {B}
+Creature — Zombie
+Carrion Feeder can't block.
+Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.
+1/1

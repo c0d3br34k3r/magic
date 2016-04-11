@@ -1,0 +1,4 @@
+Teroh's Faithful {3}{W}
+Creature — Human Cleric
+When Teroh's Faithful enters the battlefield, you gain 4 life.
+1/4

@@ -1,0 +1,11 @@
+Faithful Squire {1}{W}{W}
+Creature — Human Soldier
+Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Faithful Squire.
+At the beginning of the end step, if there are two or more ki counters on Faithful Squire, you may flip it.
+2/2
+* FLIP *
+Kaiso, Memory of Loyalty {1}{W}{W}
+Legendary Creature — Spirit
+Flying
+Remove a ki counter from Kaiso, Memory of Loyalty: Prevent all damage that would be dealt to target creature this turn.
+3/4

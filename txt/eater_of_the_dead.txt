@@ -1,0 +1,4 @@
+Eater of the Dead {4}{B}
+Creature — Horror
+{0}: If Eater of the Dead is tapped, exile target creature card from a graveyard and untap Eater of the Dead.
+3/4

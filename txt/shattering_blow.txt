@@ -1,0 +1,3 @@
+Shattering Blow {1}{R/W}
+Instant
+Exile target artifact.

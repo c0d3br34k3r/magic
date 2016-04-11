@@ -1,0 +1,4 @@
+Young Wei Recruits {1}{B}
+Creature — Human Soldier
+Young Wei Recruits can't block.
+2/2

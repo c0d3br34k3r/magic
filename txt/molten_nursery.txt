@@ -1,0 +1,4 @@
+Molten Nursery {2}{R}
+Enchantment
+Devoid (This card has no color.)
+Whenever you cast a colorless spell, Molten Nursery deals 1 damage to target creature or player.

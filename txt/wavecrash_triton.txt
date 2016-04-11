@@ -1,0 +1,4 @@
+Wavecrash Triton {2}{U}
+Creature — Merfolk Wizard
+Heroic — Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+1/4

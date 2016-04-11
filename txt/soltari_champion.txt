@@ -1,0 +1,5 @@
+Soltari Champion {2}{W}
+Creature — Soltari Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Soltari Champion attacks, other creatures you control get +1/+1 until end of turn.
+2/2

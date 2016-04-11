@@ -1,0 +1,5 @@
+Pathbreaker Wurm {4}{G}{G}
+Creature — Wurm
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.
+6/4

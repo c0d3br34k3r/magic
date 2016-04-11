@@ -1,0 +1,3 @@
+Alpine Grizzly {2}{G}
+Creature — Bear
+4/2

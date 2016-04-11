@@ -1,0 +1,5 @@
+Walking Dream {3}{U}
+Creature — Illusion
+Walking Dream can't be blocked.
+Walking Dream doesn't untap during your untap step if an opponent controls two or more creatures.
+3/3

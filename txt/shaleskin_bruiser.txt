@@ -1,0 +1,5 @@
+Shaleskin Bruiser {6}{R}
+Creature — Beast
+Trample
+Whenever Shaleskin Bruiser attacks, it gets +3/+0 until end of turn for each other attacking Beast.
+4/4

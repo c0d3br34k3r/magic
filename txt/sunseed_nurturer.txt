@@ -1,0 +1,5 @@
+Sunseed Nurturer {2}{W}
+Creature — Human Druid Wizard
+At the beginning of your end step, if you control a creature with power 5 or greater, you may gain 2 life.
+{T}: Add {C} to your mana pool.
+1/1

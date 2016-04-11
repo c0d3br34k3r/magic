@@ -1,0 +1,4 @@
+Prohibit {1}{U}
+Instant
+Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Counter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead.

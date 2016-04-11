@@ -1,0 +1,3 @@
+Rites of Reaping {4}{B}{G}
+Sorcery
+Target creature gets +3/+3 until end of turn. Another target creature gets -3/-3 until end of turn.

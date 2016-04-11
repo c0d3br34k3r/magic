@@ -1,0 +1,4 @@
+Laccolith Whelp {R}
+Creature — Beast
+Whenever Laccolith Whelp becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Whelp assigns no combat damage this turn.
+1/1

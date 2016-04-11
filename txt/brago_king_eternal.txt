@@ -1,0 +1,5 @@
+Brago, King Eternal {2}{W}{U}
+Legendary Creature — Spirit
+Flying
+Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control.
+2/4

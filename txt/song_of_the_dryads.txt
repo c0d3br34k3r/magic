@@ -1,0 +1,4 @@
+Song of the Dryads {2}{G}
+Enchantment — Aura
+Enchant permanent
+Enchanted permanent is a colorless Forest land.

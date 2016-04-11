@@ -1,0 +1,5 @@
+Somber Hoverguard {5}{U}
+Creature — Drone
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+3/2

@@ -1,0 +1,7 @@
+Silumgar Sorcerer {1}{U}{U}
+Creature — Human Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Silumgar Sorcerer exploits a creature, counter target creature spell.
+2/1

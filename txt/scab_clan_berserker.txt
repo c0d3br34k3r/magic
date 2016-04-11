@@ -1,0 +1,6 @@
+Scab-Clan Berserker {1}{R}{R}
+Creature — Human Berserker
+Haste
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.
+2/2

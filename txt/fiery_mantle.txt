@@ -1,0 +1,5 @@
+Fiery Mantle {1}{R}
+Enchantment — Aura
+Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.
+When Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand.

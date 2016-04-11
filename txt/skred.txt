@@ -1,0 +1,3 @@
+Skred {R}
+Instant
+Skred deals damage to target creature equal to the number of snow permanents you control.

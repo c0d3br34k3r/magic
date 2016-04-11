@@ -1,0 +1,4 @@
+Millennial Gargoyle {4}
+Artifact Creature — Gargoyle
+Flying
+2/2

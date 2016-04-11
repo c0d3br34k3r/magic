@@ -1,0 +1,3 @@
+Fugue {3}{B}{B}
+Sorcery
+Target player discards three cards.

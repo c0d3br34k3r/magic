@@ -1,0 +1,5 @@
+Emissary of Despair {1}{B}{B}
+Creature — Spirit
+Flying
+Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.
+2/1

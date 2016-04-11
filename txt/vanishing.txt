@@ -1,0 +1,4 @@
+Vanishing {U}
+Enchantment — Aura
+Enchant creature
+{U}{U}: Enchanted creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)

@@ -1,0 +1,4 @@
+Ghosts of the Damned {1}{B}{B}
+Creature — Spirit
+{T}: Target creature gets -1/-0 until end of turn.
+0/2

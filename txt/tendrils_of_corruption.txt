@@ -1,0 +1,3 @@
+Tendrils of Corruption {3}{B}
+Instant
+Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.

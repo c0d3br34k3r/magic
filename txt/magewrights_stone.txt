@@ -1,0 +1,3 @@
+Magewright's Stone {2}
+Artifact
+{1}, {T}: Untap target creature that has an activated ability with {T} in its cost.

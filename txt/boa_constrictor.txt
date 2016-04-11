@@ -1,0 +1,4 @@
+Boa Constrictor {4}{G}
+Creature — Snake
+{T}: Boa Constrictor gets +3/+3 until end of turn.
+3/3

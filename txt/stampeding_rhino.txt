@@ -1,0 +1,4 @@
+Stampeding Rhino {4}{G}
+Creature — Rhino
+Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+4/4

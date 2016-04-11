@@ -1,0 +1,6 @@
+Yawgmoth Demon {4}{B}{B}
+Creature — Demon
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+First strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.
+6/6

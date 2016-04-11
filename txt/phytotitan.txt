@@ -1,0 +1,4 @@
+Phytotitan {4}{G}{G}
+Creature — Plant Elemental
+When Phytotitan dies, return it to the battlefield tapped under its owner's control at the beginning of his or her next upkeep.
+7/2

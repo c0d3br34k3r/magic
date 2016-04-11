@@ -1,0 +1,3 @@
+Lava Flow {3}{R}{R}
+Sorcery
+Destroy target creature or land.

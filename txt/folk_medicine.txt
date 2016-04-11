@@ -1,0 +1,4 @@
+Folk Medicine {2}{G}
+Instant
+You gain 1 life for each creature you control.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

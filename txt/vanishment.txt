@@ -1,0 +1,4 @@
+Vanishment {4}{U}
+Instant
+Put target nonland permanent on top of its owner's library.
+Miracle {U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)

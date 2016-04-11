@@ -1,0 +1,9 @@
+Kitsune Mystic {3}{W}
+Creature — Fox Wizard
+At the beginning of the end step, if Kitsune Mystic is enchanted by two or more Auras, flip it.
+2/3
+* FLIP *
+Autumn-Tail, Kitsune Sage {3}{W}
+Legendary Creature — Fox Wizard
+{1}: Attach target Aura attached to a creature to another creature.
+4/5

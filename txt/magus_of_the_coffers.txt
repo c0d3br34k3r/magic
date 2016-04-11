@@ -1,0 +1,4 @@
+Magus of the Coffers {4}{B}
+Creature — Human Wizard
+{2}, {T}: Add {B} to your mana pool for each Swamp you control.
+4/4

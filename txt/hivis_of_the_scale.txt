@@ -1,0 +1,5 @@
+Hivis of the Scale {3}{R}{R}
+Legendary Creature — Viashino Shaman
+You may choose not to untap Hivis of the Scale during your untap step.
+{T}: Gain control of target Dragon for as long as you control Hivis and Hivis remains tapped.
+3/4

@@ -1,0 +1,5 @@
+Impelled Giant {4}{R}{R}
+Creature — Giant Warrior
+Trample
+Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.
+3/3

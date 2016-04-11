@@ -1,0 +1,4 @@
+Pain Seer {1}{B}
+Creature — Human Wizard
+Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.
+2/2

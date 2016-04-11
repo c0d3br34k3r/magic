@@ -1,0 +1,6 @@
+Consuming Sinkhole {3}{R}
+Instant
+Devoid (This card has no color.)
+Choose one —
+• Exile target land creature.
+• Consuming Sinkhole deals 4 damage to target player.

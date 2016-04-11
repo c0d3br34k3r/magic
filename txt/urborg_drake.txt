@@ -1,0 +1,5 @@
+Urborg Drake {1}{U}{B}
+Creature — Drake
+Flying
+Urborg Drake attacks each turn if able.
+2/3

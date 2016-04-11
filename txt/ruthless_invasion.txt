@@ -1,0 +1,4 @@
+Ruthless Invasion {3}{R/P}
+Sorcery
+({R/P} can be paid with either {R} or 2 life.)
+Nonartifact creatures can't block this turn.

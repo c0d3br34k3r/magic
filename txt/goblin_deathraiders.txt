@@ -1,0 +1,4 @@
+Goblin Deathraiders {B}{R}
+Creature — Goblin Warrior
+Trample
+3/1

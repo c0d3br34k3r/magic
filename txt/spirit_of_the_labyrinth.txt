@@ -1,0 +1,4 @@
+Spirit of the Labyrinth {1}{W}
+Enchantment Creature — Spirit
+Each player can't draw more than one card each turn.
+3/1

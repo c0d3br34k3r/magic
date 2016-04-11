@@ -1,0 +1,4 @@
+Twisted Image {U}
+Instant
+Switch target creature's power and toughness until end of turn.
+Draw a card.

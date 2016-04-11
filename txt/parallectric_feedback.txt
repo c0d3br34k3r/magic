@@ -1,0 +1,3 @@
+Parallectric Feedback {3}{R}
+Instant
+Parallectric Feedback deals damage to target spell's controller equal to that spell's converted mana cost.

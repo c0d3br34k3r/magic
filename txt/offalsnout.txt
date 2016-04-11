@@ -1,0 +1,6 @@
+Offalsnout {2}{B}
+Creature — Elemental
+Flash
+When Offalsnout leaves the battlefield, exile target card from a graveyard.
+Evoke {B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+2/2

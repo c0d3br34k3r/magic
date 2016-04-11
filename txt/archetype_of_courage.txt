@@ -1,0 +1,5 @@
+Archetype of Courage {1}{W}{W}
+Enchantment Creature — Human Soldier
+Creatures you control have first strike.
+Creatures your opponents control lose first strike and can't have or gain first strike.
+2/2

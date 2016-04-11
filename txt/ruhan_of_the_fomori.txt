@@ -1,0 +1,4 @@
+Ruhan of the Fomori {1}{W}{U}{R}
+Legendary Creature — Giant Warrior
+At the beginning of combat on your turn, choose an opponent at random. Ruhan of the Fomori attacks that player this combat if able.
+7/7

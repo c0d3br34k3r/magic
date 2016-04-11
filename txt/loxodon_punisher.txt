@@ -1,0 +1,4 @@
+Loxodon Punisher {3}{W}
+Creature — Elephant Soldier
+Loxodon Punisher gets +2/+2 for each Equipment attached to it.
+2/2

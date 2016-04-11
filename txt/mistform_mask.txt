@@ -1,0 +1,4 @@
+Mistform Mask {1}{U}
+Enchantment — Aura
+Enchant creature
+{1}: Enchanted creature becomes the creature type of your choice until end of turn.

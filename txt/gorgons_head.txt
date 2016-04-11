@@ -1,0 +1,4 @@
+Gorgon's Head {1}
+Artifact — Equipment
+Equipped creature has deathtouch.
+Equip {2}

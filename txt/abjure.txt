@@ -1,0 +1,4 @@
+Abjure {U}
+Instant
+As an additional cost to cast Abjure, sacrifice a blue permanent.
+Counter target spell.

@@ -1,0 +1,4 @@
+Kurkesh, Onakke Ancient {2}{R}{R}
+Legendary Creature — Ogre Spirit
+Whenever you activate an ability of an artifact, if it isn't a mana ability, you may pay {R}. If you do, copy that ability. You may choose new targets for the copy.
+4/3

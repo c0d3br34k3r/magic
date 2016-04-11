@@ -1,0 +1,3 @@
+Tel-Jilad Stylus {1}
+Artifact
+{T}: Put target permanent you own on the bottom of your library.

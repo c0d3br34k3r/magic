@@ -1,0 +1,4 @@
+Entangling Vines {3}{G}
+Enchantment — Aura
+Enchant tapped creature
+Enchanted creature doesn't untap during its controller's untap step.

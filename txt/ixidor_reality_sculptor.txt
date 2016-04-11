@@ -1,0 +1,5 @@
+Ixidor, Reality Sculptor {3}{U}{U}
+Legendary Creature — Human Wizard
+Face-down creatures get +1/+1.
+{2}{U}: Turn target face-down creature face up.
+3/4

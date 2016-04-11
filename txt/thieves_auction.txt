@@ -1,0 +1,3 @@
+Thieves' Auction {4}{R}{R}{R}
+Sorcery
+Exile all nontoken permanents. Starting with you, each player chooses one of the exiled cards and puts it onto the battlefield tapped under his or her control. Repeat this process until all cards exiled this way have been chosen.

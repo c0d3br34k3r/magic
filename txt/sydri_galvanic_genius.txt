@@ -1,0 +1,5 @@
+Sydri, Galvanic Genius {W}{U}{B}
+Legendary Creature — Human Artificer
+{U}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
+{W}{B}: Target artifact creature gains deathtouch and lifelink until end of turn.
+2/2

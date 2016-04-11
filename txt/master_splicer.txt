@@ -1,0 +1,5 @@
+Master Splicer {3}{W}
+Creature — Human Artificer
+When Master Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem creatures you control get +1/+1.
+1/1

@@ -1,0 +1,4 @@
+Vagrant Plowbeasts {5}{W}{G}
+Creature — Beast
+{1}: Regenerate target creature with power 5 or greater.
+6/6

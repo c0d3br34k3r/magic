@@ -1,0 +1,4 @@
+Rusted Sentinel {4}
+Artifact Creature — Golem
+Rusted Sentinel enters the battlefield tapped.
+3/4

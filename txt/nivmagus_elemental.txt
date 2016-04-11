@@ -1,0 +1,4 @@
+Nivmagus Elemental {U/R}
+Creature — Elemental
+Exile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. (That spell won't resolve.)
+1/2

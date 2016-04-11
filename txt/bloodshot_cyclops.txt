@@ -1,0 +1,4 @@
+Bloodshot Cyclops {5}{R}
+Creature — Cyclops Giant
+{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature's power to target creature or player.
+4/4

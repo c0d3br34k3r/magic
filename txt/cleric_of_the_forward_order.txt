@@ -1,0 +1,4 @@
+Cleric of the Forward Order {1}{W}
+Creature — Human Cleric
+When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order.
+2/2

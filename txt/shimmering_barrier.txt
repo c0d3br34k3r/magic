@@ -1,0 +1,6 @@
+Shimmering Barrier {1}{W}
+Creature — Wall
+Defender (This creature can't attack.)
+First strike
+Cycling {2} ({2}, Discard this card: Draw a card.)
+1/3

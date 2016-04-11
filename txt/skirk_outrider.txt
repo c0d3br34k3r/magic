@@ -1,0 +1,4 @@
+Skirk Outrider {3}{R}
+Creature — Goblin
+As long as you control a Beast, Skirk Outrider gets +2/+2 and has trample.
+2/2

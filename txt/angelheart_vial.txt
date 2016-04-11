@@ -1,0 +1,4 @@
+Angelheart Vial {5}
+Artifact
+Whenever you're dealt damage, you may put that many charge counters on Angelheart Vial.
+{2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.

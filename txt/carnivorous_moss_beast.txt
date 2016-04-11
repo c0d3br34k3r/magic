@@ -1,0 +1,4 @@
+Carnivorous Moss-Beast {4}{G}{G}
+Creature — Plant Elemental Beast
+{5}{G}{G}: Put a +1/+1 counter on Carnivorous Moss-Beast.
+4/5

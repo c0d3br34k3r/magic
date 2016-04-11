@@ -1,0 +1,5 @@
+Sisay's Ingenuity {U}
+Enchantment — Aura
+Enchant creature
+When Sisay's Ingenuity enters the battlefield, draw a card.
+Enchanted creature has "{2}{U}: Target creature becomes the color of your choice until end of turn."

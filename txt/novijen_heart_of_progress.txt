@@ -1,0 +1,4 @@
+Novijen, Heart of Progress
+Land
+{T}: Add {C} to your mana pool.
+{G}{U}, {T}: Put a +1/+1 counter on each creature that entered the battlefield this turn.

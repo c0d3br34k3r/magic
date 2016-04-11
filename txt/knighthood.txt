@@ -1,0 +1,3 @@
+Knighthood {2}{W}
+Enchantment
+Creatures you control have first strike.

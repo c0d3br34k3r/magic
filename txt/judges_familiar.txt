@@ -1,0 +1,5 @@
+Judge's Familiar {W/U}
+Creature — Bird
+Flying
+Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays {1}.
+1/1

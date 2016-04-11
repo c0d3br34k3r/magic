@@ -1,0 +1,4 @@
+Asceticism {3}{G}{G}
+Enchantment
+Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+{1}{G}: Regenerate target creature.

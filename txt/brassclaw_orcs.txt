@@ -1,0 +1,4 @@
+Brassclaw Orcs {2}{R}
+Creature — Orc
+Brassclaw Orcs can't block creatures with power 2 or greater.
+3/2

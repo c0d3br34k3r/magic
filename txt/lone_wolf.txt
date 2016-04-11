@@ -1,0 +1,4 @@
+Lone Wolf {2}{G}
+Creature — Wolf
+You may have Lone Wolf assign its combat damage as though it weren't blocked.
+2/2

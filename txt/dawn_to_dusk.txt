@@ -1,0 +1,5 @@
+Dawn to Dusk {2}{W}{W}
+Sorcery
+Choose one or both —
+• Return target enchantment card from your graveyard to your hand.
+• Destroy target enchantment.

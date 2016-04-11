@@ -1,0 +1,3 @@
+Shatter {1}{R}
+Instant
+Destroy target artifact.

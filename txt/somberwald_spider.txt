@@ -1,0 +1,5 @@
+Somberwald Spider {4}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+2/4

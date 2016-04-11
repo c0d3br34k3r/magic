@@ -1,0 +1,4 @@
+Skittish Kavu {1}{R}
+Creature — Kavu
+Skittish Kavu gets +1/+1 as long as no opponent controls a white or blue creature.
+1/1

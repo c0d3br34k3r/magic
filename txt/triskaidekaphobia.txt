@@ -1,0 +1,5 @@
+Triskaidekaphobia {3}{B}
+Enchantment
+At the beginning of your upkeep, choose one —
+• Each player with exactly 13 life loses the game, then each player gains 1 life.
+• Each player with exactly 13 life loses the game, then each player loses 1 life.

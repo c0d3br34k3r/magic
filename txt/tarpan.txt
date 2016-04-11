@@ -1,0 +1,4 @@
+Tarpan {G}
+Creature — Horse
+When Tarpan dies, you gain 1 life.
+1/1

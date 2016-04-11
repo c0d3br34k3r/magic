@@ -1,0 +1,5 @@
+Phyrexian Slayer {3}{B}
+Creature — Minion
+Flying
+Whenever Phyrexian Slayer becomes blocked by a white creature, destroy that creature. It can't be regenerated.
+2/2

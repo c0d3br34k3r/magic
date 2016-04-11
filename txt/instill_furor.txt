@@ -1,0 +1,4 @@
+Instill Furor {1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has "At the beginning of your end step, sacrifice this creature unless it attacked this turn."

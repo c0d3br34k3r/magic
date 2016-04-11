@@ -1,0 +1,4 @@
+Mardu Scout {R}{R}
+Creature — Goblin Scout
+Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+3/1

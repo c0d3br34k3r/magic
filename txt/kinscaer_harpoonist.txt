@@ -1,0 +1,5 @@
+Kinscaer Harpoonist {3}{U}
+Creature — Kithkin Soldier
+Flying
+Whenever Kinscaer Harpoonist attacks, you may have target creature lose flying until end of turn.
+2/2

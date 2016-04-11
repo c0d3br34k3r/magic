@@ -1,0 +1,4 @@
+Krark-Clan Engineers {3}{R}
+Creature — Goblin Artificer
+{R}, Sacrifice two artifacts: Destroy target artifact.
+2/2

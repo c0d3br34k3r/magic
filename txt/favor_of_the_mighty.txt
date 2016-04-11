@@ -1,0 +1,3 @@
+Favor of the Mighty {1}{W}
+Tribal Enchantment — Giant
+Each creature with the highest converted mana cost has protection from all colors.

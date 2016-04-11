@@ -1,0 +1,4 @@
+Living Inferno {6}{R}{R}
+Creature — Elemental
+{T}: Living Inferno deals damage equal to its power divided as you choose among any number of target creatures. Each of those creatures deals damage equal to its power to Living Inferno.
+8/5

@@ -1,0 +1,4 @@
+Thrill of the Hunt {G}
+Instant
+Target creature gets +1/+2 until end of turn.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

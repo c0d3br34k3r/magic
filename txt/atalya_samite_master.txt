@@ -1,0 +1,6 @@
+Atalya, Samite Master {3}{W}{W}
+Legendary Creature — Human Cleric
+{X}, {T}: Choose one —
+• Prevent the next X damage that would be dealt to target creature this turn. Spend only white mana on X.
+• You gain X life. Spend only white mana on X.
+2/3

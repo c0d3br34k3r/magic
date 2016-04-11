@@ -1,0 +1,3 @@
+Plated Wurm {4}{G}
+Creature — Wurm
+4/5

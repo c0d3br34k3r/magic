@@ -1,0 +1,3 @@
+Essence Drain {4}{B}
+Sorcery
+Essence Drain deals 3 damage to target creature or player and you gain 3 life.

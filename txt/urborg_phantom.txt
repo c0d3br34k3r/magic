@@ -1,0 +1,5 @@
+Urborg Phantom {2}{B}
+Creature — Spirit Minion
+Urborg Phantom can't block.
+{U}: Prevent all combat damage that would be dealt to and dealt by Urborg Phantom this turn.
+3/1

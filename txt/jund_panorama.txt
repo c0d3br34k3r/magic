@@ -1,0 +1,4 @@
+Jund Panorama
+Land
+{T}: Add {C} to your mana pool.
+{1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.

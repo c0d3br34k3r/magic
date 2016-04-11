@@ -1,0 +1,3 @@
+Urza's Guilt {2}{U}{B}
+Sorcery
+Each player draws two cards, then discards three cards, then loses 4 life.

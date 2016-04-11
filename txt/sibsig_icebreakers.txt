@@ -1,0 +1,4 @@
+Sibsig Icebreakers {2}{B}
+Creature — Zombie
+When Sibsig Icebreakers enters the battlefield, each player discards a card.
+2/3

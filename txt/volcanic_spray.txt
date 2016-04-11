@@ -1,0 +1,4 @@
+Volcanic Spray {1}{R}
+Sorcery
+Volcanic Spray deals 1 damage to each creature without flying and each player.
+Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

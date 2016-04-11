@@ -1,0 +1,3 @@
+Brittle Effigy {1}
+Artifact
+{4}, {T}, Exile Brittle Effigy: Exile target creature.

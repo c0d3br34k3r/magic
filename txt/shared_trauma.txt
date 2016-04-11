@@ -1,0 +1,3 @@
+Shared Trauma {B}
+Sorcery
+Join forces — Starting with you, each player may pay any amount of mana. Each player puts the top X cards of his or her library into his or her graveyard, where X is the total amount of mana paid this way.

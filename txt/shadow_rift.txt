@@ -1,0 +1,4 @@
+Shadow Rift {U}
+Instant
+Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Draw a card.

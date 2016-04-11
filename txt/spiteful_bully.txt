@@ -1,0 +1,4 @@
+Spiteful Bully {1}{B}
+Creature — Zombie Mercenary
+At the beginning of your upkeep, Spiteful Bully deals 3 damage to target creature you control.
+3/3

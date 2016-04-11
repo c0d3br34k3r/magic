@@ -1,0 +1,4 @@
+King Macar, the Gold-Cursed {2}{B}{B}
+Legendary Creature — Human
+Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you may exile target creature. If you do, put a colorless artifact token named Gold onto the battlefield. It has "Sacrifice this artifact: Add one mana of any color to your mana pool."
+2/3

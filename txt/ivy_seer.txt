@@ -1,0 +1,4 @@
+Ivy Seer {3}{G}
+Creature — Elf Wizard
+{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.
+1/1

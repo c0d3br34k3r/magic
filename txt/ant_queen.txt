@@ -1,0 +1,4 @@
+Ant Queen {3}{G}{G}
+Creature — Insect
+{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.
+5/5

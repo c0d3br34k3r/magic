@@ -1,0 +1,5 @@
+Dream Thief {2}{U}
+Creature — Faerie Rogue
+Flying
+When Dream Thief enters the battlefield, draw a card if you've cast another blue spell this turn.
+2/1

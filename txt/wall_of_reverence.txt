@@ -1,0 +1,5 @@
+Wall of Reverence {3}{W}
+Creature — Spirit Wall
+Defender, flying
+At the beginning of your end step, you may gain life equal to the power of target creature you control.
+1/6

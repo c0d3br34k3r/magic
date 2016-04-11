@@ -1,0 +1,3 @@
+Ad Nauseam {3}{B}{B}
+Instant
+Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.

@@ -1,0 +1,4 @@
+Bant Sureblade {G/U}{W}
+Creature — Human Soldier
+As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.
+2/1

@@ -1,0 +1,4 @@
+Stonefare Crocodile {2}{G}
+Creature — Crocodile
+{2}{B}: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)
+3/2

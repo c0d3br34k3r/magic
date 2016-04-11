@@ -1,0 +1,3 @@
+Flurry of Wings {W}{U}{G}
+Instant
+Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.

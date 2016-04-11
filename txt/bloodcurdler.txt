@@ -1,0 +1,6 @@
+Bloodcurdler {1}{B}
+Creature — Horror
+Flying
+At the beginning of your upkeep, put the top card of your library into your graveyard.
+Threshold — As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has "At the beginning of your end step, exile two cards from your graveyard."
+1/1

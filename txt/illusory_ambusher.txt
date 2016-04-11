@@ -1,0 +1,5 @@
+Illusory Ambusher {4}{U}
+Creature — Cat Illusion
+Flash (You may cast this spell any time you could cast an instant.)
+Whenever Illusory Ambusher is dealt damage, draw that many cards.
+4/1

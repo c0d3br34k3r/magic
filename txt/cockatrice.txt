@@ -1,0 +1,5 @@
+Cockatrice {3}{G}{G}
+Creature — Cockatrice
+Flying
+Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+2/4

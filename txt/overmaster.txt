@@ -1,0 +1,4 @@
+Overmaster {R}
+Sorcery
+The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.
+Draw a card.

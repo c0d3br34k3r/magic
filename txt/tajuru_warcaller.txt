@@ -1,0 +1,4 @@
+Tajuru Warcaller {3}{G}{G}
+Creature — Elf Warrior Ally
+Rally — Whenever Tajuru Warcaller or another Ally enters the battlefield under your control, creatures you control get +2/+2 until end of turn.
+2/1

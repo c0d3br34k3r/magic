@@ -1,0 +1,4 @@
+Molder Slug {3}{G}{G}
+Creature — Slug Beast
+At the beginning of each player's upkeep, that player sacrifices an artifact.
+4/6

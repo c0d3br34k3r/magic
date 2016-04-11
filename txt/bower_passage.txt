@@ -1,0 +1,3 @@
+Bower Passage {1}{G}
+Enchantment
+Creatures with flying can't block creatures you control.

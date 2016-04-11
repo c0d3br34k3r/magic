@@ -1,0 +1,5 @@
+Mad Auntie {2}{B}
+Creature — Goblin Shaman
+Other Goblin creatures you control get +1/+1.
+{T}: Regenerate another target Goblin.
+2/2

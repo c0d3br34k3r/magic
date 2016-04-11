@@ -1,0 +1,5 @@
+Soulcatcher {1}{W}
+Creature — Bird Soldier
+Flying
+Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.
+1/1

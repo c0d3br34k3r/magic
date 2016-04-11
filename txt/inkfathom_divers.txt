@@ -1,0 +1,5 @@
+Inkfathom Divers {3}{U}{U}
+Creature — Merfolk Soldier
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+When Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.
+3/3

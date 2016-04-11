@@ -1,0 +1,4 @@
+Salvage Slasher {1}{B}
+Artifact Creature — Human Rogue
+Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+1/1

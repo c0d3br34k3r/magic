@@ -1,0 +1,5 @@
+Forced Worship {1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack.
+{2}{W}: Return Forced Worship to its owner's hand.

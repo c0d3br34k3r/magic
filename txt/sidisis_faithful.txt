@@ -1,0 +1,5 @@
+Sidisi's Faithful {U}
+Creature — Naga Wizard
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Sidisi's Faithful exploits a creature, return target creature to its owner's hand.
+0/4

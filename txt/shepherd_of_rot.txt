@@ -1,0 +1,4 @@
+Shepherd of Rot {1}{B}
+Creature — Zombie Cleric
+{T}: Each player loses 1 life for each Zombie on the battlefield.
+1/1

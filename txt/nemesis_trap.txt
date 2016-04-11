@@ -1,0 +1,4 @@
+Nemesis Trap {4}{B}{B}
+Instant — Trap
+If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.
+Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.

@@ -1,0 +1,4 @@
+Goblin Battle Jester {3}{R}
+Creature — Goblin
+Whenever you cast a red spell, target creature can't block this turn.
+2/2

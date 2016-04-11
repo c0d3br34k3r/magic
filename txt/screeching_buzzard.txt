@@ -1,0 +1,5 @@
+Screeching Buzzard {3}{B}
+Creature — Bird
+Flying
+When Screeching Buzzard dies, each opponent discards a card.
+2/2

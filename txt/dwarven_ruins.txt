@@ -1,0 +1,5 @@
+Dwarven Ruins
+Land
+Dwarven Ruins enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.

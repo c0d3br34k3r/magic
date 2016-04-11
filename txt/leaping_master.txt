@@ -1,0 +1,4 @@
+Leaping Master {1}{R}
+Creature — Human Monk
+{2}{W}: Leaping Master gains flying until end of turn.
+2/1

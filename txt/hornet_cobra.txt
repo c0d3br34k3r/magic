@@ -1,0 +1,4 @@
+Hornet Cobra {1}{G}{G}
+Creature — Snake
+First strike
+2/1

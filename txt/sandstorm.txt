@@ -1,0 +1,3 @@
+Sandstorm {G}
+Instant
+Sandstorm deals 1 damage to each attacking creature.

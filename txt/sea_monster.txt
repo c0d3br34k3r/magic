@@ -1,0 +1,4 @@
+Sea Monster {4}{U}{U}
+Creature — Serpent
+Sea Monster can't attack unless defending player controls an Island.
+6/6

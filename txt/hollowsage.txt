@@ -1,0 +1,4 @@
+Hollowsage {3}{B}
+Creature — Merfolk Wizard
+Whenever Hollowsage becomes untapped, you may have target player discard a card.
+2/2

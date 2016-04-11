@@ -1,0 +1,4 @@
+Ogre Taskmaster {3}{R}
+Creature — Ogre
+Ogre Taskmaster can't block.
+4/3

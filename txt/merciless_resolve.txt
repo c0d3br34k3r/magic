@@ -1,0 +1,4 @@
+Merciless Resolve {2}{B}
+Instant
+As an additional cost to cast Merciless Resolve, sacrifice a creature or land.
+Draw two cards.

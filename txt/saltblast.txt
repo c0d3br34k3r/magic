@@ -1,0 +1,3 @@
+Saltblast {3}{W}{W}
+Sorcery
+Destroy target nonwhite permanent.

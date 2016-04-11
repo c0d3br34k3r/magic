@@ -1,0 +1,5 @@
+Squall Drifter {1}{W}
+Snow Creature — Elemental
+Flying
+{W}, {T}: Tap target creature.
+1/1

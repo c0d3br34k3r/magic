@@ -1,0 +1,5 @@
+Magnivore {2}{R}{R}
+Creature — Lhurgoyf
+Haste (This creature can attack the turn it comes under your control.)
+Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.
+*/*

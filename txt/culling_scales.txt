@@ -1,0 +1,3 @@
+Culling Scales {3}
+Artifact
+At the beginning of your upkeep, destroy target nonland permanent with the lowest converted mana cost. (If two or more permanents are tied for lowest cost, target any one of them.)

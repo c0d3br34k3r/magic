@@ -1,0 +1,4 @@
+Death Bomb {3}{B}
+Instant
+As an additional cost to cast Death Bomb, sacrifice a creature.
+Destroy target nonblack creature. It can't be regenerated. Its controller loses 2 life.

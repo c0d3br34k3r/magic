@@ -1,0 +1,5 @@
+Giant Solifuge {2}{R/G}{R/G}
+Creature — Insect
+({R/G} can be paid with either {R} or {G}.)
+Trample; haste; shroud (This creature can't be the target of spells or abilities.)
+4/1

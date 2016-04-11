@@ -1,0 +1,3 @@
+Tunnel {R}
+Instant
+Destroy target Wall. It can't be regenerated.

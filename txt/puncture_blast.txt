@@ -1,0 +1,4 @@
+Puncture Blast {2}{R}
+Instant
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Puncture Blast deals 3 damage to target creature or player.

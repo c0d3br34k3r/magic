@@ -1,0 +1,5 @@
+Final-Sting Faerie {3}{B}
+Creature — Faerie Assassin
+Flying
+When Final-Sting Faerie enters the battlefield, destroy target creature that was dealt damage this turn.
+2/2

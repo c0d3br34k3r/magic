@@ -1,0 +1,4 @@
+Highland Game {1}{G}
+Creature — Elk
+When Highland Game dies, you gain 2 life.
+2/1

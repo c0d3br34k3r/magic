@@ -1,0 +1,3 @@
+Retaliate {2}{W}{W}
+Instant
+Destroy all creatures that dealt damage to you this turn.

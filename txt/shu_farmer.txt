@@ -1,0 +1,4 @@
+Shu Farmer {1}{W}
+Creature — Human
+{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+1/1

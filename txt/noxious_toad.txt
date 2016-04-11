@@ -1,0 +1,4 @@
+Noxious Toad {2}{B}
+Creature — Frog
+When Noxious Toad dies, each opponent discards a card.
+1/1

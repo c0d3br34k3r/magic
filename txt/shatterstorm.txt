@@ -1,0 +1,3 @@
+Shatterstorm {2}{R}{R}
+Sorcery
+Destroy all artifacts. They can't be regenerated.

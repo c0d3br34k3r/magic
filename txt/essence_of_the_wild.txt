@@ -1,0 +1,4 @@
+Essence of the Wild {3}{G}{G}{G}
+Creature — Avatar
+Creatures you control enter the battlefield as a copy of Essence of the Wild.
+6/6

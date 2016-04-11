@@ -1,0 +1,3 @@
+Talas Merchant {1}{U}
+Creature — Human Pirate
+1/3

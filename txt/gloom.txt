@@ -1,0 +1,4 @@
+Gloom {2}{B}
+Enchantment
+White spells cost {3} more to cast.
+Activated abilities of white enchantments cost {3} more to activate.

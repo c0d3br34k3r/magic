@@ -1,0 +1,9 @@
+Armed {1}{R}
+Sorcery
+Target creature gets +1/+1 and gains double strike until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+* SPLIT *
+Dangerous {3}{G}
+Sorcery
+All creatures able to block target creature this turn do so.
+Fuse (You may cast one or both halves of this card from your hand.)

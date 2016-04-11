@@ -1,0 +1,5 @@
+Gilded Drake {1}{U}
+Creature — Drake
+Flying
+When Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't make an exchange, sacrifice Gilded Drake. This ability can't be countered except by spells and abilities. (This effect lasts indefinitely.)
+3/3

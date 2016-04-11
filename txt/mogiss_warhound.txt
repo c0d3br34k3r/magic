@@ -1,0 +1,6 @@
+Mogis's Warhound {1}{R}
+Enchantment Creature — Hound
+Bestow {2}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Mogis's Warhound attacks each turn if able.
+Enchanted creature gets +2/+2 and attacks each turn if able.
+2/2

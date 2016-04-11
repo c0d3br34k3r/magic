@@ -1,0 +1,5 @@
+Elvish Archdruid {1}{G}{G}
+Creature — Elf Druid
+Other Elf creatures you control get +1/+1.
+{T}: Add {G} to your mana pool for each Elf you control.
+2/2

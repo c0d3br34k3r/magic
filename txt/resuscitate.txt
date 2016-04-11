@@ -1,0 +1,3 @@
+Resuscitate {1}{G}
+Instant
+Until end of turn, creatures you control gain "{1}: Regenerate this creature."

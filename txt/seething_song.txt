@@ -1,0 +1,3 @@
+Seething Song {2}{R}
+Instant
+Add {R}{R}{R}{R}{R} to your mana pool.

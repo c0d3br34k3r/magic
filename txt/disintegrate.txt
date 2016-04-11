@@ -1,0 +1,3 @@
+Disintegrate {X}{R}
+Sorcery
+Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would die this turn, exile it instead.

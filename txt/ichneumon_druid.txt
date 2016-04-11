@@ -1,0 +1,4 @@
+Ichneumon Druid {1}{G}{G}
+Creature — Human Druid
+Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.
+1/1

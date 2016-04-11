@@ -1,0 +1,3 @@
+Goblin Cavaliers {2}{R}
+Creature — Goblin
+3/2

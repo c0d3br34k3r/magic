@@ -1,0 +1,4 @@
+Strongarm Thug {2}{B}
+Creature — Human Mercenary
+When Strongarm Thug enters the battlefield, you may return target Mercenary card from your graveyard to your hand.
+1/1

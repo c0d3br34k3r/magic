@@ -1,0 +1,4 @@
+Guildscorn Ward {W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from multicolored.

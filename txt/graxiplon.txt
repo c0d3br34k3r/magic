@@ -1,0 +1,4 @@
+Graxiplon {5}{U}
+Creature — Beast
+Graxiplon can't be blocked unless defending player controls three or more creatures that share a creature type.
+3/4

@@ -1,0 +1,4 @@
+Hate Weaver {1}{B}
+Creature — Zombie Wizard
+{2}: Target blue or red creature gets +1/+0 until end of turn.
+2/1

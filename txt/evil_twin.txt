@@ -1,0 +1,4 @@
+Evil Twin {2}{U}{B}
+Creature — Shapeshifter
+You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."
+0/0

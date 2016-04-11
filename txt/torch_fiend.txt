@@ -1,0 +1,4 @@
+Torch Fiend {1}{R}
+Creature — Devil
+{R}, Sacrifice Torch Fiend: Destroy target artifact.
+2/1

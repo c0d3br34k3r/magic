@@ -1,0 +1,4 @@
+Swiftfoot Boots {2}
+Artifact — Equipment
+Equipped creature has hexproof and haste.
+Equip {1}

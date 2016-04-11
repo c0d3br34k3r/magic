@@ -1,0 +1,4 @@
+Blood Vassal {2}{B}
+Creature — Thrull
+Sacrifice Blood Vassal: Add {B}{B} to your mana pool.
+2/2

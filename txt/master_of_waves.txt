@@ -1,0 +1,6 @@
+Master of Waves {3}{U}
+Creature — Merfolk Wizard
+Protection from red
+Elemental creatures you control get +1/+1.
+When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+2/1

@@ -1,0 +1,4 @@
+Curse of Echoes {4}{U}
+Enchantment — Aura Curse
+Enchant player
+Whenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy he or she controls.

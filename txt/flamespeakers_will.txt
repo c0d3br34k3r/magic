@@ -1,0 +1,5 @@
+Flamespeaker's Will {R}
+Enchantment — Aura
+Enchant creature you control
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to a player, you may sacrifice Flamespeaker's Will. If you do, destroy target artifact.

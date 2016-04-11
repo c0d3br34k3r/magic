@@ -1,0 +1,4 @@
+Gnathosaur {4}{R}{R}
+Creature — Lizard
+Sacrifice an artifact: Gnathosaur gains trample until end of turn.
+5/4

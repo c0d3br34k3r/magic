@@ -1,0 +1,4 @@
+Cylian Sunsinger {1}{G}
+Creature — Elf Shaman
+{R}{G}{W}: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.
+2/2

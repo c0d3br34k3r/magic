@@ -1,0 +1,5 @@
+Woolly Spider {1}{G}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.
+2/3

@@ -1,0 +1,3 @@
+Triton Shorethief {U}
+Creature — Merfolk Rogue
+1/2

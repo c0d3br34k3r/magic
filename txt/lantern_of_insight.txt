@@ -1,0 +1,4 @@
+Lantern of Insight {1}
+Artifact
+Players play with the top card of their libraries revealed.
+{T}, Sacrifice Lantern of Insight: Target player shuffles his or her library.

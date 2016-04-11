@@ -1,0 +1,4 @@
+Nivix, Aerie of the Firemind
+Land
+{T}: Add {C} to your mana pool.
+{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.

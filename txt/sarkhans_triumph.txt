@@ -1,0 +1,3 @@
+Sarkhan's Triumph {2}{R}
+Instant
+Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library.

@@ -1,0 +1,3 @@
+Lowland Giant {2}{R}{R}
+Creature — Giant
+4/3

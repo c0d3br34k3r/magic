@@ -1,0 +1,5 @@
+Oriss, Samite Guardian {1}{W}{W}
+Legendary Creature — Human Cleric
+{T}: Prevent all damage that would be dealt to target creature this turn.
+Grandeur — Discard another card named Oriss, Samite Guardian: Target player can't cast spells this turn, and creatures that player controls can't attack this turn.
+1/3

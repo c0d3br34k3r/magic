@@ -1,0 +1,4 @@
+Atarka Monument {3}
+Artifact
+{T}: Add {R} or {G} to your mana pool.
+{4}{R}{G}: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn.

@@ -1,0 +1,4 @@
+Resistance Fighter {W}
+Creature — Human Soldier
+Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.
+1/1

@@ -1,0 +1,6 @@
+Ruric Thar, the Unbowed {4}{R}{G}
+Legendary Creature — Ogre Warrior
+Vigilance, reach
+Ruric Thar, the Unbowed attacks each turn if able.
+Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.
+6/6

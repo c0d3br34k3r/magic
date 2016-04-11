@@ -1,0 +1,4 @@
+Caustic Hound {5}{B}
+Creature — Hound
+When Caustic Hound dies, each player loses 4 life.
+4/4

@@ -1,0 +1,5 @@
+Stormrider Rig {2}
+Artifact — Equipment
+Equipped creature gets +1/+1.
+Whenever a creature enters the battlefield under your control, you may attach Stormrider Rig to it.
+Equip {2}

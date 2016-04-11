@@ -1,0 +1,3 @@
+Haunting Wind {3}{B}
+Enchantment
+Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.
