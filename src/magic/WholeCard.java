@@ -121,7 +121,6 @@ public abstract class WholeCard extends Whole<Card>
 					.append(System.lineSeparator());
 			cards.second().writeTo(out);
 		}
-
 	}
 
 	public static class Builder {

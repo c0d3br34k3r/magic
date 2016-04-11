@@ -9,13 +9,13 @@ import com.google.common.collect.ImmutableList;
 public final class Block implements Comparable<Block> {
 
 	private final String name;
-	private final LocalDate date;
 	private final ImmutableList<Expansion> expansions;
+	private final LocalDate date;
 
 	public Block(String name, ImmutableList<Expansion> expansions) {
 		this.name = Objects.requireNonNull(name);
-		this.date = expansions.get(0).releaseDate();
 		this.expansions = Objects.requireNonNull(expansions);
+		this.date = expansions.get(0).releaseDate();
 	}
 
 	public String name() {

@@ -131,19 +131,19 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		}
 		SPACE_JOINER.appendTo(out, types);
 		if (!subtypes.isEmpty()) {
-			out.append(" - ");
+			out.append(" — ");
 			SPACE_JOINER.appendTo(out, subtypes);
 		}
-		out.append(newline);
 		if (!text.isEmpty()) {
-			out.append(text).append(newline);
+			out.append(newline).append(text);
 		}
 		if (power != null) {
-			out.append(power.toString()).append('/')
-					.append(toughness.toString()).append(newline);
+			out.append(newline).append(power.toString()).append('/')
+					.append(toughness.toString());
 		} else if (loyalty != null) {
-			out.append(Integer.toString(loyalty)).append(newline);
+			out.append(newline).append(Integer.toString(loyalty));
 		}
+		out.append(newline);
 	}
 
 	public void print() {

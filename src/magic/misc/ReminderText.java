@@ -20,12 +20,14 @@ import com.google.common.collect.ImmutableList;
  * <li>Middle-of-line reminder text:
  * "...without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step..."
  * </li>
- * <li>First line reminder text: "({G/U} can be paid with either {G} or {U}.)"</li>
+ * <li>First line reminder text: "({G/U} can be paid with either {G} or {U}.)"
+ * </li>
  * <li>Final keyword reminder text:
  * "Defender; reach (This creature can block creatures with flying.)" This form
  * is different because lists of keywords normally use commas. When the final
  * keyword has reminder text, however, semicolons are used. In this case, they
- * are converted to commas.</li> </ul>
+ * are converted to commas.</li>
+ * </ul>
  */
 @Beta
 public final class ReminderText {
@@ -77,10 +79,10 @@ public final class ReminderText {
 	 *            the card's text
 	 * @return the card's text with no reminder text
 	 * @throws IllegalArgumentException
-	 *             if not all reminder text could be removed.
+	 *             if not all reminder text could be removed
 	 */
 	public static String remove(String text) {
-		if (text.indexOf('(') == -1) {
+		if (!text.contains("(")) {
 			return text;
 		}
 		String result = text;
