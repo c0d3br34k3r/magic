@@ -24,8 +24,8 @@ abstract class Pair<P extends Partial<P>> {
 		return get(1);
 	}
 	
-	public final P get(int firstOrSecond) {
-		return values.get(firstOrSecond);
+	public final P get(int index) {
+		return values.get(index);
 	}
 	
 	Iterator<P> iterator() {

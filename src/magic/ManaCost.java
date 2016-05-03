@@ -108,17 +108,15 @@ public abstract class ManaCost {
 		}
 		ImmutableSortedMultiset.Builder<ManaSymbol> builder =
 				ImmutableSortedMultiset.naturalOrder();
-		boolean genericSymbolEncountered = false;
+		boolean genericSymbolFound = false;
 		int begin = 0;
 		do {
 			if (input.charAt(begin) != '{') {
-				throw parseException(
-						"expected '{' at position %d in \"%s\"", begin, input);
+				throw parseException("expected '{' at position %d in \"%s\"", begin, input);
 			}
 			int end = input.indexOf('}', begin + 1);
 			if (end == -1) {
-				throw parseException(
-						"no closing '}' in \"%s\"", input);
+				throw parseException("no closing '}' in \"%s\"", input);
 			}
 			String part = input.substring(begin, end + 1);
 			ManaSymbol symbol = ManaSymbol.parse(part);
@@ -129,18 +127,15 @@ public abstract class ManaCost {
 				try {
 					parsed = Integer.parseInt(input.substring(begin + 1, end));
 				} catch (NumberFormatException e) {
-					throw parseException(
-							"invalid symbol \"%s\" in \"%s\"", part, input);
+					throw parseException("invalid symbol \"%s\" in \"%s\"", part, input);
 				}
-				if (genericSymbolEncountered) {
-					throw parseException(
-							"multiple generic symbols in \"%s\"", input);
+				if (genericSymbolFound) {
+					throw parseException("multiple generic symbols in \"%s\"", input);
 				}
 				if (parsed == 0) {
-					throw parseException(
-							"{0} used with other symbols in \"%s\"", input);
+					throw parseException("{0} used with other symbols in \"%s\"", input);
 				}
-				genericSymbolEncountered = true;
+				genericSymbolFound = true;
 				builder.addCopies(ManaSymbol.GENERIC, parsed);
 			}
 			begin = end + 1;
@@ -148,8 +143,7 @@ public abstract class ManaCost {
 		return new StandardManaCost(builder.build());
 	}
 
-	private static IllegalArgumentException parseException(String format,
-			Object... args) {
+	private static IllegalArgumentException parseException(String format, Object... args) {
 		throw new IllegalArgumentException(String.format(format, args));
 	}
 

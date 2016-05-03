@@ -14,8 +14,7 @@ public class PrintingPair extends Pair<Printing> {
 	}
 
 	public String names() {
-		return cardPair.layout().formatNames(first().card().name(),
-				second().card().name());
+		return cardPair.layout().formatNames(first().card().name(), second().card().name());
 	}
 
 	@Override public String toString() {

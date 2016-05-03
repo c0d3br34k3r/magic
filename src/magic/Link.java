@@ -18,7 +18,7 @@ public class Link<P extends Partial<P>> {
 		return isFirstHalf;
 	}
 	
-	public int firstOrSecond() {
+	public int index() {
 		return isFirstHalf ? 0 : 1;
 	}
 

@@ -64,7 +64,7 @@ public enum Color {
 	/**
 	 * An {@link SetInterner} for interning {@link Set}s of {@code Color}s.
 	 */
-	public static EnumSetInterner<Color> INTERNER = new EnumSetInterner<>();
+	public static final EnumSetInterner<Color> INTERNER = new EnumSetInterner<>();
 
 	/**
 	 * Returns an interned, immutable {@code Set} of {@code Color}s specified by
