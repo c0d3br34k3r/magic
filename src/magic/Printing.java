@@ -82,9 +82,9 @@ public final class Printing extends Partial<Printing> {
 			out.append(' ').append(card.manaCost().toString());
 		}
 		out.append(newline);
-		if (card.colorOverride() != null && !card.colorOverride().isEmpty()) {
+		if (card.colorIndicator() != null) {
 			out.append('(');
-			for (Color color : card.colorOverride()) {
+			for (Color color : card.colorIndicator()) {
 				out.append(color.code());
 			}
 			out.append(") ");

@@ -24,7 +24,8 @@ public class JsonConverter {
 
 	private static final String NAME = "name";
 	private static final String MANA_COST = "manaCost";
-	private static final String COLOR_OVERRIDE = "colorOverride";
+	private static final String COLOR_INDICATOR = "colorIndicator";
+	private static final String COLORLESS = "colorless";
 	private static final String SUPERTYPES = "supertypes";
 	private static final String TYPES = "types";
 	private static final String SUBTYPES = "subtypes";
@@ -35,9 +36,9 @@ public class JsonConverter {
 	private static final String COLOR_IDENTITY = "colorIdentity";
 	private static final String ONLY = "only";
 	private static final String PAIR = "pair";
-	private static final String LAYOUT = "layout"; 
+	private static final String LAYOUT = "layout";
 	private static final String PARTS = "parts";
-	
+
 	public static void writeCard(JsonWriter out, WholeCard wholeCard)
 			throws IOException {
 		out.beginObject();
@@ -69,9 +70,9 @@ public class JsonConverter {
 		if (!card.manaCost().isEmpty()) {
 			out.name(MANA_COST).value(card.manaCost().toString());
 		}
-		if (card.colorOverride() != null) {
-			out.name(COLOR_OVERRIDE);
-			writeEnums(out, card.colorOverride());
+		if (card.colorIndicator() != null) {
+			out.name(COLOR_INDICATOR);
+			writeEnums(out, card.colorIndicator());
 		}
 		if (!card.supertypes().isEmpty()) {
 			out.name(SUPERTYPES);
@@ -152,8 +153,8 @@ public class JsonConverter {
 				case MANA_COST:
 					builder.setManaCost(ManaCost.parse(in.nextString()));
 					break;
-				case COLOR_OVERRIDE:
-					builder.setColorOverride(readEnums(in, Color.class));
+				case COLOR_IDENTITY:
+					builder.setColorIndicator(readEnums(in, Color.class));
 					break;
 				case SUPERTYPES:
 					builder.setSupertypes(readEnums(in, Supertype.class));

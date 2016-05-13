@@ -16,7 +16,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 	private final @Nullable Link<Card> link;
 	private final String name;
 	private final ManaCost manaCost;
-	private final @Nullable ImmutableSet<Color> colorOverride;
+	private final @Nullable ImmutableSet<Color> colorIndicator;
 	private final ImmutableSet<Supertype> supertypes;
 	private final ImmutableSet<Type> types;
 	private final ImmutableSet<String> subtypes;
@@ -31,7 +31,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 
 		this.name = builder.name;
 		this.manaCost = builder.manaCost;
-		this.colorOverride = builder.colorOverride;
+		this.colorIndicator = builder.colorIndicator;
 		this.supertypes = builder.supertypes;
 		this.types = builder.types;
 		this.subtypes = builder.subtypes;
@@ -50,16 +50,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 	}
 
 	public @Nullable Set<Color> colorIndicator() {
-		if (colorOverride == null) {
-			return null;
-		}
-		return colorOverride.isEmpty()
-				? null
-				: colorOverride;
-	}
-
-	public @Nullable ImmutableSet<Color> colorOverride() {
-		return colorOverride;
+		return colorIndicator;
 	}
 
 	public ImmutableSet<Supertype> supertypes() {
@@ -91,7 +82,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 	}
 
 	public ImmutableSet<Color> colors() {
-		return MoreObjects.firstNonNull(colorOverride, manaCost.colors());
+		return MoreObjects.firstNonNull(colorIndicator, manaCost.colors());
 	}
 
 	@Override public WholeCard whole() {
@@ -119,9 +110,9 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 			out.append(' ').append(manaCost.toString());
 		}
 		out.append(newline);
-		if (colorOverride != null && !colorOverride.isEmpty()) {
+		if (colorIndicator != null && !colorIndicator.isEmpty()) {
 			out.append('(');
-			for (Color color : colorOverride) {
+			for (Color color : colorIndicator) {
 				out.append(color.code());
 			}
 			out.append(") ");
@@ -162,7 +153,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
-		private ImmutableSet<Color> colorOverride = null;
+		private ImmutableSet<Color> colorIndicator = null;
 		private ImmutableSet<Supertype> supertypes = ImmutableSet.of();
 		private ImmutableSet<Type> types;
 		private ImmutableSet<String> subtypes = ImmutableSet.of();
@@ -183,8 +174,8 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 			return this;
 		}
 
-		public Builder setColorOverride(ImmutableSet<Color> colorOverride) {
-			this.colorOverride = colorOverride;
+		public Builder setColorIndicator(ImmutableSet<Color> colorIndicator) {
+			this.colorIndicator = colorIndicator;
 			return this;
 		}
 
@@ -224,6 +215,8 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		}
 
 		@Override Card build() {
+			Objects.requireNonNull(name);
+			Objects.requireNonNull(types);
 			return new Card(this);
 		}
 	}
