@@ -25,7 +25,7 @@ public class JsonConverter {
 	private static final String NAME = "name";
 	private static final String MANA_COST = "manaCost";
 	private static final String COLOR_INDICATOR = "colorIndicator";
-	private static final String COLORLESS = "colorless";
+	// private static final String COLORLESS = "colorless";
 	private static final String SUPERTYPES = "supertypes";
 	private static final String TYPES = "types";
 	private static final String SUBTYPES = "subtypes";

@@ -11,7 +11,7 @@ public final class Printing extends Partial<Printing> {
 
 	private final Card card;
 	private final WholePrinting whole;
-	private final @Nullable Link<Printing> link;
+	private final @Nullable PrintingLink link;
 	private final String flavorText;
 	private final @Nullable CollectorNumber collectorNumber;
 	private final int variation;
@@ -59,7 +59,7 @@ public final class Printing extends Partial<Printing> {
 		return watermark;
 	}
 
-	@Override public Link<Printing> link() {
+	@Override public PrintingLink link() {
 		return link;
 	}
 
@@ -68,7 +68,7 @@ public final class Printing extends Partial<Printing> {
 		if (collectorNumber != null) {
 			builder.append('#').append(collectorNumber.toString());
 		} else {
-			
+
 		}
 		return builder.toString();
 	}
@@ -120,8 +120,8 @@ public final class Printing extends Partial<Printing> {
 		return new Builder();
 	}
 
-	public static final class Builder
-			extends PartialBuilder<Printing, WholePrinting> {
+	public static final class Builder 
+			extends PartialBuilder<Printing, WholePrinting, PrintingLink> {
 
 		private Card card;
 		private String flavorText = "";
@@ -164,6 +164,10 @@ public final class Printing extends Partial<Printing> {
 
 		@Override Printing build() {
 			return new Printing(this);
+		}
+
+		@Override PrintingLink newLink(Printing partial, boolean isFirstHalf) {
+			return new PrintingLink(partial, isFirstHalf);
 		}
 	}
 

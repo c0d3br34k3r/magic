@@ -13,7 +13,7 @@ import com.google.common.collect.ImmutableSet;
 public final class Card extends Partial<Card> implements Comparable<Card> {
 
 	private final WholeCard whole;
-	private final @Nullable Link<Card> link;
+	private final @Nullable CardLink link;
 	private final String name;
 	private final ManaCost manaCost;
 	private final @Nullable ImmutableSet<Color> colorIndicator;
@@ -29,11 +29,11 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		this.whole = builder.getWhole();
 		this.link = builder.buildLink(this);
 
-		this.name = builder.name;
+		this.name = Objects.requireNonNull(builder.name);
 		this.manaCost = builder.manaCost;
 		this.colorIndicator = builder.colorIndicator;
 		this.supertypes = builder.supertypes;
-		this.types = builder.types;
+		this.types = Objects.requireNonNull(builder.types);
 		this.subtypes = builder.subtypes;
 		this.text = builder.text;
 		this.power = builder.power;
@@ -89,7 +89,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		return whole;
 	}
 
-	@Override public @Nullable Link<Card> link() {
+	@Override public @Nullable CardLink link() {
 		return link;
 	}
 
@@ -149,7 +149,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		return new Builder();
 	}
 
-	public static class Builder extends magic.PartialBuilder<Card, WholeCard> {
+	public static class Builder extends magic.PartialBuilder<Card, WholeCard, CardLink> {
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
@@ -215,10 +215,13 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		}
 
 		@Override Card build() {
-			Objects.requireNonNull(name);
-			Objects.requireNonNull(types);
 			return new Card(this);
 		}
+
+		@Override CardLink newLink(Card partial, boolean isFirstHalf) {
+			return new CardLink(partial, isFirstHalf);
+		}
+
 	}
 
 }

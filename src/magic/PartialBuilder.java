@@ -2,11 +2,11 @@ package magic;
 
 import javax.annotation.Nullable;
 
-abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
+abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>, L extends Link<P>> {
 
 	private W whole;
 	// only the first half will set this
-	private @Nullable PartialBuilder<P, W> linked;
+	private @Nullable PartialBuilder<P, W, L> linked;
 	// each linked builder sets this field for the other
 	private @Nullable P other;
 
@@ -16,7 +16,7 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
 		this.whole = whole;
 	}
 
-	void prepareLink(PartialBuilder<P, W> linked) {
+	void prepareLink(PartialBuilder<P, W, L> linked) {
 		this.linked = linked;
 	}
 
@@ -28,16 +28,18 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>> {
 		return other;
 	}
 
-	Link<P> buildLink(P partiallyInitialized) {
+	L buildLink(P partiallyInitialized) {
 		if (linked != null) {
 			linked.other = partiallyInitialized;
 			other = linked.build();
-			return new Link<P>(other, true);
+			return newLink(other, true);
 		}
 		if (other != null) {
-			return new Link<P>(other, false);
+			return newLink(other, false);
 		}
 		return null;
 	}
+
+	abstract L newLink(P partial, boolean isFirstHalf);
 
 }

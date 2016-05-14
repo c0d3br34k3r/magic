@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.Objects;
 
-import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
 
@@ -14,7 +13,7 @@ public abstract class WholeCard extends Whole<Card>
 	private final ImmutableSet<Color> colorIdentity;
 
 	private WholeCard(Builder builder) {
-		this.colorIdentity = Preconditions.checkNotNull(builder.colorIdentity);
+		this.colorIdentity = builder.colorIdentity;
 	}
 
 	public ImmutableSet<Color> colorIdentity() {
@@ -86,15 +85,15 @@ public abstract class WholeCard extends Whole<Card>
 
 	private static class CompositeCard extends WholeCard {
 
-		private final CardPair cards;
+		private final CardPair pair;
 
 		CompositeCard(Builder builder) {
 			super(builder);
-			this.cards = builder.pair.build(this);
+			this.pair = builder.pair.build(this);
 		}
 
 		@Override public String name() {
-			return cards.names();
+			return pair.names();
 		}
 
 		@Override public Card only() {
@@ -102,7 +101,7 @@ public abstract class WholeCard extends Whole<Card>
 		}
 
 		@Override public CardPair pair() {
-			return cards;
+			return pair;
 		}
 
 		@Override public boolean hasOnePart() {
@@ -110,16 +109,16 @@ public abstract class WholeCard extends Whole<Card>
 		}
 
 		@Override public Iterator<Card> iterator() {
-			return cards.iterator();
+			return pair.iterator();
 		}
 
 		@Override public void writeTo(Appendable out) throws IOException {
-			cards.first().writeTo(out);
+			pair.first().writeTo(out);
 			out.append("* ")
-					.append(cards.layout().toString().toUpperCase())
+					.append(pair.layout().toString().toUpperCase())
 					.append(" *")
 					.append(System.lineSeparator());
-			cards.second().writeTo(out);
+			pair.second().writeTo(out);
 		}
 	}
 

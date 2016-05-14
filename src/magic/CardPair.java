@@ -1,5 +1,7 @@
 package magic;
 
+import java.util.List;
+
 public final class CardPair extends Pair<Card> {
 
 	private final Layout layout;
@@ -17,7 +19,8 @@ public final class CardPair extends Pair<Card> {
 		return layout.formatNames(first().name(), second().name());
 	}
 
-	@Override public String toString() {
+	@Override
+	public String toString() {
 		return names();
 	}
 
@@ -43,6 +46,12 @@ public final class CardPair extends Pair<Card> {
 			return this;
 		}
 
+		public Builder setCards(List<Card.Builder> cards) {
+			this.first = cards.get(0);
+			this.second = cards.get(1);
+			return this;
+		}
+
 		public Builder setLayout(Layout layout) {
 			this.layout = layout;
 			return this;
@@ -55,5 +64,5 @@ public final class CardPair extends Pair<Card> {
 			return new CardPair(this);
 		}
 	}
-
+	
 }
