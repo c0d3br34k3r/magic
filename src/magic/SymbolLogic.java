@@ -29,9 +29,7 @@ abstract class SymbolLogic {
 		this(ImmutableSet.of(first, second), converted, representation);
 	}
 
-	private SymbolLogic(ImmutableSet<Color> colors,
-			int converted,
-			String representation) {
+	private SymbolLogic(ImmutableSet<Color> colors, int converted, String representation) {
 		this.colors = colors;
 		this.converted = converted;
 		this.representation = representation;
@@ -124,8 +122,7 @@ abstract class SymbolLogic {
 	static final class Hybrid extends SymbolLogic {
 
 		Hybrid(Color first, Color second) {
-			super(first, second, 1,
-					String.format("{%c/%c}", first.code(), second.code()));
+			super(first, second, 1, String.format("{%c/%c}", first.code(), second.code()));
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {

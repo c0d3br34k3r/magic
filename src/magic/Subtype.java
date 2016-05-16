@@ -9,6 +9,8 @@ import com.google.common.collect.ImmutableBiMap;
  */
 public final class Subtype {
 
+	private Subtype() {}
+
 	/**
 	 * An {@link ImmutableBiMap} of all Basic Land types, mapped to the
 	 * {@link Color} they produce. As a BiMap, it can be reversed to map
@@ -21,7 +23,5 @@ public final class Subtype {
 					.put("Swamp", Color.BLACK)
 					.put("Mountain", Color.RED)
 					.put("Forest", Color.GREEN).build();
-
-	private Subtype() {}
 
 }

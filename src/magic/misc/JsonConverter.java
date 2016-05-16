@@ -51,14 +51,12 @@ public class JsonConverter {
 			writePartial(out, wholeCard.only());
 		} else {
 			CardPair pair = wholeCard.pair();
-			out.name(PAIR);
-			out.beginObject();
-			out.name(LAYOUT).value(pair.layout().name());
-			out.name(PARTS).beginArray();
+			out.name(PAIR).beginObject()
+					.name(LAYOUT).value(pair.layout().name())
+					.name(PARTS).beginArray();
 			writePartial(out, pair.first());
 			writePartial(out, pair.second());
-			out.endArray();
-			out.endObject();
+			out.endArray().endObject();
 		}
 		out.endObject();
 	}
@@ -99,8 +97,8 @@ public class JsonConverter {
 		out.endObject();
 	}
 
-	private static <E extends Enum<E>> void writeEnums(JsonWriter out,
-			Set<E> enums) throws IOException {
+	private static <E extends Enum<E>> void writeEnums(JsonWriter out, Set<E> enums)
+			throws IOException {
 		out.beginArray();
 		for (Enum<E> e : enums) {
 			out.value(e.name());
@@ -108,8 +106,7 @@ public class JsonConverter {
 		out.endArray();
 	}
 
-	private static void writeStrings(JsonWriter out,
-			Set<String> strings) throws IOException {
+	private static void writeStrings(JsonWriter out, Set<String> strings) throws IOException {
 		out.beginArray();
 		for (String s : strings) {
 			out.value(s);
@@ -153,7 +150,7 @@ public class JsonConverter {
 				case MANA_COST:
 					builder.setManaCost(ManaCost.parse(in.nextString()));
 					break;
-				case COLOR_IDENTITY:
+				case COLOR_INDICATOR:
 					builder.setColorIndicator(readEnums(in, Color.class));
 					break;
 				case SUPERTYPES:

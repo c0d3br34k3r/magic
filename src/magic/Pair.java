@@ -11,7 +11,7 @@ abstract class Pair<P extends Partial<P>> {
 	Pair(P first, P second) {
 		this.values = ImmutableList.of(first, second);
 	}
-	
+
 	Pair(ImmutableList<P> values) {
 		this.values = values;
 	}
@@ -23,11 +23,11 @@ abstract class Pair<P extends Partial<P>> {
 	public final P second() {
 		return get(1);
 	}
-	
+
 	public final P get(int index) {
 		return values.get(index);
 	}
-	
+
 	Iterator<P> iterator() {
 		return values.iterator();
 	}

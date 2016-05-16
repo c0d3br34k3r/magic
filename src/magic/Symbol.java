@@ -1,3 +1,5 @@
 package magic;
 
-public interface Symbol {}
+public interface Symbol {
+
+}

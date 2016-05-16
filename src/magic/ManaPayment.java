@@ -24,24 +24,24 @@ import magic.SymbolLogic.Variable;
  * 
  * @see ManaCost
  */
-public enum ManaSymbol implements Symbol {
+public enum ManaPayment {
 
 	/**
 	 * The variable mana symbol <code>{X}</code>
 	 */
 	X(new Variable('X')),
-	
+
 	/**
-	 * This mana symbol does not really exist, but it is used to represent any 
-	 * colorless generic mana symbol.  For example, three appearances of this 
+	 * This mana symbol does not really exist, but it is used to represent any
+	 * colorless generic mana symbol. For example, three appearances of this
 	 * symbol in a {@link ManaCost} represents the symbol <code>{3}</code>.
 	 * <p>
 	 * The String representation of this object is <code>{1}</code>, but this is
-	 * primarily for debugging purposes, as this object has no real-world 
+	 * primarily for debugging purposes, as this object has no real-world
 	 * meaning.
 	 */
 	GENERIC(new Generic()),
-	
+
 	/**
 	 * The colorless mana symbol <code>{C}</code>
 	 */
@@ -88,7 +88,7 @@ public enum ManaSymbol implements Symbol {
 	 * The hybrid Green-Blue mana symbol <code>{G/U}</code>
 	 */
 	HYBRID_GREEN_BLUE(new Hybrid(Color.GREEN, Color.BLUE)),
-	
+
 	/**
 	 * The primary White mana symbol <code>{W}</code>
 	 */
@@ -154,7 +154,7 @@ public enum ManaSymbol implements Symbol {
 
 	private final SymbolLogic internal;
 
-	private ManaSymbol(SymbolLogic internal) {
+	private ManaPayment(SymbolLogic internal) {
 		this.internal = internal;
 	}
 
@@ -183,8 +183,8 @@ public enum ManaSymbol implements Symbol {
 	 * <li>Primary symbols check to see if the set contains their color.</li>
 	 * <li>Hybrid symbols check to see if the set contains either of their
 	 * colors.</li>
-	 * <li>Generic, Monocolored Hybrid, Phyrexian, and Variable symbols are always
-	 * payable.</li>
+	 * <li>Generic, Monocolored Hybrid, Phyrexian, and Variable symbols are
+	 * always payable.</li>
 	 * </ul>
 	 */
 	public boolean payableWith(Set<Color> mana) {
@@ -199,22 +199,21 @@ public enum ManaSymbol implements Symbol {
 	@Override public String toString() {
 		return internal.toString();
 	}
-	
+
 	public String format(int occurences) {
 		return internal.format(occurences);
 	}
-	
+
 	public void formatTo(StringBuilder builder, int occurences) {
 		internal.formatTo(builder, occurences);
 	}
 
-
 	/**
 	 * Returns the {@code Symbol} with the given representation, or {@code null}
-	 * if no mana symbol matches.  Does not return the Generic mana symbol for 
+	 * if no mana symbol matches. Does not return the Generic mana symbol for
 	 * any input.
 	 */
-	public static ManaSymbol parse(String input) {
+	public static ManaPayment parse(String input) {
 		return SYMBOLS.get(input);
 	}
 
@@ -222,9 +221,8 @@ public enum ManaSymbol implements Symbol {
 	 * Returns {@code false} if any of the symbols are not payable with the
 	 * given colors of mana.
 	 */
-	public static boolean payableWith(Collection<ManaSymbol> symbols,
-			Set<Color> mana) {
-		for (ManaSymbol symbol : symbols) {
+	public static boolean payableWith(Collection<ManaPayment> symbols, Set<Color> mana) {
+		for (ManaPayment symbol : symbols) {
 			if (!symbol.payableWith(mana)) {
 				return false;
 			}
@@ -232,12 +230,12 @@ public enum ManaSymbol implements Symbol {
 		return true;
 	}
 
-	private static final ImmutableMap<String, ManaSymbol> SYMBOLS;
+	private static final ImmutableMap<String, ManaPayment> SYMBOLS;
 
 	static {
-		ImmutableMap.Builder<String, ManaSymbol> builder = ImmutableMap.builder();
-		for (ManaSymbol symbol : values()) {
-			if (symbol != ManaSymbol.GENERIC) {
+		ImmutableMap.Builder<String, ManaPayment> builder = ImmutableMap.builder();
+		for (ManaPayment symbol : values()) {
+			if (symbol != ManaPayment.GENERIC) {
 				builder.put(symbol.toString(), symbol);
 			}
 		}

@@ -1,13 +1,17 @@
 package magic;
 
-public class GenericSymbol implements Symbol {
+public class GenericManaSymbol implements Symbol {
 
-	private final int amount;
-
-	public GenericSymbol(int amount) {
+	public static GenericManaSymbol of(int amount) {
 		if (amount < 0) {
 			throw new IllegalArgumentException();
 		}
+		return new GenericManaSymbol(amount);
+	}
+
+	private final int amount;
+
+	private GenericManaSymbol(int amount) {
 		this.amount = amount;
 	}
 
@@ -20,7 +24,7 @@ public class GenericSymbol implements Symbol {
 	}
 
 	@Override public boolean equals(Object obj) {
-		return obj instanceof GenericSymbol && amount == ((GenericSymbol) obj).amount;
+		return obj instanceof GenericManaSymbol && amount == ((GenericManaSymbol) obj).amount;
 	}
 
 	@Override public int hashCode() {

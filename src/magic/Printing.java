@@ -20,10 +20,8 @@ public final class Printing extends Partial<Printing> {
 
 	private Printing(Builder builder) {
 		this.card = builder.card;
-
 		this.link = builder.buildLink(this);
 		this.whole = builder.getWhole();
-
 		this.flavorText = builder.flavorText;
 		this.collectorNumber = builder.collectorNumber;
 		this.variation = builder.variation;

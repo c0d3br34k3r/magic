@@ -129,8 +129,7 @@ public abstract class Expression implements Comparable<Expression> {
 		}
 
 		@Override public int value() {
-			throw new IllegalStateException(String.format(
-					"\"%s\" has no constant value", this));
+			throw new IllegalStateException(String.format("\"%s\" has no constant value", this));
 		}
 
 		@Override public String toString() {

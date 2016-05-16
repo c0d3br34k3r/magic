@@ -21,9 +21,7 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	private final @Nullable Character prefix;
 	private final @Nullable Character letter;
 
-	private static final Pattern PATTERN =
-			Pattern.compile("([S\\*]?)(\\d+)([a-z]?)");
-
+	private static final Pattern PATTERN = Pattern.compile("([S\\*]?)([0-9]+)([a-z]?)");
 	private static final CharMatcher PREFIX = CharMatcher.anyOf("S*");
 	private static final CharMatcher LETTER = CharMatcher.inRange('a', 'z');
 

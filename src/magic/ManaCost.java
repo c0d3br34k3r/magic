@@ -13,7 +13,7 @@ import com.google.common.collect.Multiset;
 /**
  * An immutable object representing a mana cost.
  * 
- * @see ManaSymbol
+ * @see ManaPayment
  */
 public abstract class ManaCost {
 
@@ -25,8 +25,8 @@ public abstract class ManaCost {
 	 * {@code hashCode} implementations. It is impossible to create a second
 	 * instance of {@code EMPTY}.
 	 * <p>
-	 * The {@link #toString()} value of the {@code ManaCost} is the empty
-	 * {@code String}, {@code ""}.
+	 * The string representation of this mana cost is the empty {@code String},
+	 * {@code ""}.
 	 */
 	public static final ManaCost EMPTY = new SpecialManaCost("");
 
@@ -46,7 +46,7 @@ public abstract class ManaCost {
 	 * colorless mana. If the array of symbols is empty, the empty mana cost is
 	 * returned.
 	 */
-	public static ManaCost of(ManaSymbol... symbols) {
+	public static ManaCost of(ManaPayment... symbols) {
 		return of(Arrays.asList(symbols));
 	}
 
@@ -55,7 +55,7 @@ public abstract class ManaCost {
 	 * generic mana. If the {@link Collection} of symbols is empty, the empty
 	 * mana cost is returned.
 	 */
-	public static ManaCost of(Collection<ManaSymbol> symbols) {
+	public static ManaCost of(Collection<ManaPayment> symbols) {
 		if (symbols.size() == 0) {
 			return EMPTY;
 		}
@@ -67,7 +67,7 @@ public abstract class ManaCost {
 	 * other mana symbols. If the array of symbols is empty and the amount of
 	 * generic is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int generic, ManaSymbol... symbols) {
+	public static ManaCost of(int generic, ManaPayment... symbols) {
 		return of(generic, Arrays.asList(symbols));
 	}
 
@@ -76,13 +76,13 @@ public abstract class ManaCost {
 	 * other mana symbols. If the {@link Collection} of symbols is empty and the
 	 * amount of generic is zero, the zero mana cost is returned.
 	 */
-	public static ManaCost of(int generic, Collection<ManaSymbol> symbols) {
+	public static ManaCost of(int generic, Collection<ManaPayment> symbols) {
 		if (generic == 0 && symbols.isEmpty()) {
 			return ZERO;
 		}
 		return new StandardManaCost(
-				ImmutableSortedMultiset.<ManaSymbol> naturalOrder()
-						.addCopies(ManaSymbol.GENERIC, generic)
+				ImmutableSortedMultiset.<ManaPayment> naturalOrder()
+						.addCopies(ManaPayment.GENERIC, generic)
 						.addAll(symbols)
 						.build());
 	}
@@ -90,7 +90,7 @@ public abstract class ManaCost {
 	/**
 	 * Returns a new {@code ManaCost} as specified by the input {@link String}.
 	 * The input can contain any number of mana symbols in the format specified
-	 * by {@link ManaSymbol#toString()}, with no separators. Symbols do not have
+	 * by {@link ManaPayment#toString()}, with no separators. Symbols do not have
 	 * to be in the order in which they would appear on a card.
 	 * 
 	 * @throws IllegalArgumentException
@@ -106,7 +106,7 @@ public abstract class ManaCost {
 				return ZERO;
 			default:
 		}
-		ImmutableSortedMultiset.Builder<ManaSymbol> builder =
+		ImmutableSortedMultiset.Builder<ManaPayment> builder =
 				ImmutableSortedMultiset.naturalOrder();
 		boolean genericSymbolFound = false;
 		int begin = 0;
@@ -119,7 +119,7 @@ public abstract class ManaCost {
 				throw parseException("no closing '}' in \"%s\"", input);
 			}
 			String part = input.substring(begin, end + 1);
-			ManaSymbol symbol = ManaSymbol.parse(part);
+			ManaPayment symbol = ManaPayment.parse(part);
 			if (symbol != null) {
 				builder.add(symbol);
 			} else {
@@ -136,7 +136,7 @@ public abstract class ManaCost {
 					throw parseException("{0} used with other symbols in \"%s\"", input);
 				}
 				genericSymbolFound = true;
-				builder.addCopies(ManaSymbol.GENERIC, parsed);
+				builder.addCopies(ManaPayment.GENERIC, parsed);
 			}
 			begin = end + 1;
 		} while (begin < input.length());
@@ -150,7 +150,7 @@ public abstract class ManaCost {
 	private ManaCost() {}
 
 	/**
-	 * The combined colors of all {@link ManaSymbol}s in this {@code ManaCost}.
+	 * The combined colors of all {@link ManaPayment}s in this {@code ManaCost}.
 	 */
 	public abstract ImmutableSet<Color> colors();
 
@@ -159,13 +159,13 @@ public abstract class ManaCost {
 	 * symbol is present.
 	 */
 	public int generic() {
-		return symbols().count(ManaSymbol.GENERIC);
+		return symbols().count(ManaPayment.GENERIC);
 	}
 
 	/**
 	 * A {@link Multiset} containing all mana symbols in this mana cost.
 	 */
-	public abstract ImmutableMultiset<ManaSymbol> symbols();
+	public abstract ImmutableMultiset<ManaPayment> symbols();
 
 	/**
 	 * The converted mana cost of this {@code ManaCost}.
@@ -174,11 +174,11 @@ public abstract class ManaCost {
 
 	/**
 	 * Returns whether this mana cost is payable with a certain set of colors of
-	 * mana. Equivalent to calling {@link ManaSymbol#payableWith(Set)} on each
+	 * mana. Equivalent to calling {@link ManaPayment#payableWith(Set)} on each
 	 * unique
 	 */
 	public boolean payableWith(Set<Color> mana) {
-		return ManaSymbol.payableWith(symbols().elementSet(), mana);
+		return ManaPayment.payableWith(symbols().elementSet(), mana);
 	}
 
 	/**
@@ -187,7 +187,7 @@ public abstract class ManaCost {
 	 */
 	public int countColor(Color color) {
 		int count = 0;
-		for (Multiset.Entry<ManaSymbol> entry : symbols().entrySet()) {
+		for (Multiset.Entry<ManaPayment> entry : symbols().entrySet()) {
 			if (entry.getElement().colors().contains(color)) {
 				count += entry.getCount();
 			}
@@ -213,24 +213,24 @@ public abstract class ManaCost {
 	/**
 	 * Returns the {@link String} representation of this mana cost: a series of
 	 * mana symbols, including constant generic mana symbols (specified by
-	 * {@link ManaSymbol#toString()}) in the order that they would appear on an
+	 * {@link ManaPayment#toString()}) in the order that they would appear on an
 	 * actual card.
 	 */
 	@Override public abstract String toString();
 
 	private static class StandardManaCost extends ManaCost {
 
-		private final ImmutableMultiset<ManaSymbol> symbols;
+		private final ImmutableMultiset<ManaPayment> symbols;
 
 		// Cached values
 		private final int converted;
 		private final ImmutableSet<Color> colors;
 
-		private StandardManaCost(ImmutableMultiset<ManaSymbol> symbols) {
+		private StandardManaCost(ImmutableMultiset<ManaPayment> symbols) {
 			this.symbols = symbols;
 			int converted = 0;
 			EnumSet<Color> colors = EnumSet.noneOf(Color.class);
-			for (Multiset.Entry<ManaSymbol> entry : this.symbols.entrySet()) {
+			for (Multiset.Entry<ManaPayment> entry : this.symbols.entrySet()) {
 				converted += entry.getElement().converted() * entry.getCount();
 				colors.addAll(entry.getElement().colors());
 			}
@@ -242,7 +242,7 @@ public abstract class ManaCost {
 			return colors;
 		}
 
-		@Override public ImmutableMultiset<ManaSymbol> symbols() {
+		@Override public ImmutableMultiset<ManaPayment> symbols() {
 			return symbols;
 		}
 
@@ -266,7 +266,7 @@ public abstract class ManaCost {
 
 		@Override public String toString() {
 			StringBuilder builder = new StringBuilder();
-			for (Multiset.Entry<ManaSymbol> entry : symbols.entrySet()) {
+			for (Multiset.Entry<ManaPayment> entry : symbols.entrySet()) {
 				entry.getElement().formatTo(builder, entry.getCount());
 			}
 			return builder.toString();
@@ -289,7 +289,7 @@ public abstract class ManaCost {
 			return 0;
 		}
 
-		@Override public ImmutableMultiset<ManaSymbol> symbols() {
+		@Override public ImmutableMultiset<ManaPayment> symbols() {
 			return ImmutableMultiset.of();
 		}
 

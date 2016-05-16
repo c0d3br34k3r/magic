@@ -11,13 +11,16 @@ public class FindAndReplace {
 	}
 
 	public static String replace(String string, Pattern find, Replacer replace) {
-		StringBuilder builder = new StringBuilder();
 		Matcher matcher = find.matcher(string);
+		if (!matcher.find()) {
+			return string;
+		}
 		int index = 0;
-		while (matcher.find(index)) {
+		StringBuilder builder = new StringBuilder();
+		do {
 			builder.append(string, index, matcher.start()).append(replace.replacement(matcher));
 			index = matcher.end();
-		}
+		} while (matcher.find(index));
 		builder.append(string, index, string.length());
 		return builder.toString();
 	}
