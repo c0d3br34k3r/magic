@@ -149,7 +149,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		return new Builder();
 	}
 
-	public static class Builder extends magic.PartialBuilder<Card, WholeCard, CardLink> {
+	public static class Builder extends PartialBuilder<Card, WholeCard, CardLink> {
 
 		private String name;
 		private ManaCost manaCost = ManaCost.EMPTY;
@@ -174,7 +174,7 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 			return this;
 		}
 
-		public Builder setColorIndicator(ImmutableSet<Color> colorIndicator) {
+		public Builder setColorIndicator(@Nullable ImmutableSet<Color> colorIndicator) {
 			this.colorIndicator = colorIndicator;
 			return this;
 		}
@@ -199,17 +199,17 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 			return this;
 		}
 
-		public Builder setPower(Expression power) {
+		public Builder setPower(@Nullable Expression power) {
 			this.power = power;
 			return this;
 		}
 
-		public Builder setToughness(Expression toughness) {
+		public Builder setToughness(@Nullable Expression toughness) {
 			this.toughness = toughness;
 			return this;
 		}
 
-		public Builder setLoyalty(Integer loyalty) {
+		public Builder setLoyalty(@Nullable Integer loyalty) {
 			this.loyalty = loyalty;
 			return this;
 		}
@@ -218,10 +218,9 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 			return new Card(this);
 		}
 
-		@Override CardLink newLink(Card partial, boolean isFirstHalf) {
-			return new CardLink(partial, isFirstHalf);
+		@Override CardLink newLink(Card partial, int index) {
+			return new CardLink(partial, index);
 		}
-
 	}
 
 }

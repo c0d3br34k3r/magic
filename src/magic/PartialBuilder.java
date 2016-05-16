@@ -32,14 +32,14 @@ abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>, L extend
 		if (linked != null) {
 			linked.other = partiallyInitialized;
 			other = linked.build();
-			return newLink(other, true);
+			return newLink(other, 0);
 		}
 		if (other != null) {
-			return newLink(other, false);
+			return newLink(other, 1);
 		}
 		return null;
 	}
 
-	abstract L newLink(P partial, boolean isFirstHalf);
+	abstract L newLink(P partial, int index);
 
 }

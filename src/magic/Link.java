@@ -3,27 +3,28 @@ package magic;
 abstract class Link<P extends Partial<P>> {
 
 	private final P linked;
-	private final boolean isFirstHalf;
+	private final int index;
 
-	Link(P linked, boolean isFirstHalf) {
+	Link(P linked, int index) {
 		this.linked = linked;
-		this.isFirstHalf = isFirstHalf;
+		this.index = index;
 	}
 
 	public P get() {
 		return linked;
 	}
 
-	public boolean isFirstHalf() {
-		return isFirstHalf;
+	public boolean isFirst() {
+		return index == 0;
 	}
-	
+
 	public int index() {
-		return isFirstHalf ? 0 : 1;
+		return index;
 	}
 
 	@Override public String toString() {
-		return (isFirstHalf ? "first" : "second") + " half; other half is "
+		return (isFirst() ? "first" : "second")
+				+ " half; other half is "
 				+ linked;
 	}
 

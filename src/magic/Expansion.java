@@ -68,7 +68,7 @@ public final class Expansion implements Comparable<Expansion> {
 		if (card.link() == null) {
 			return TRANSFORM_ONLY;
 		}
-		if (card.link().isFirstHalf()) {
+		if (card.link().isFirst()) {
 			return TRANSFORM_FIRST;
 		}
 		return TRANSFORM_SECOND;

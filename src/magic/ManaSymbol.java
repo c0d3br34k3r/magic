@@ -24,7 +24,7 @@ import magic.SymbolLogic.Variable;
  * 
  * @see ManaCost
  */
-public enum ManaSymbol {
+public enum ManaSymbol implements Symbol {
 
 	/**
 	 * The variable mana symbol <code>{X}</code>

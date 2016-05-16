@@ -107,8 +107,10 @@ public final class Printing extends Partial<Printing> {
 			out.append('/').append(flavorText).append('/').append(newline);
 		}
 		if (card.power() != null) {
-			out.append(card.power().toString()).append('/')
-					.append(card.toughness().toString()).append(newline);
+			out.append(card.power().toString())
+					.append('/')
+					.append(card.toughness().toString())
+					.append(newline);
 		} else if (card.loyalty() != null) {
 			out.append(Integer.toString(card.loyalty())).append(newline);
 		}
@@ -120,8 +122,7 @@ public final class Printing extends Partial<Printing> {
 		return new Builder();
 	}
 
-	public static final class Builder 
-			extends PartialBuilder<Printing, WholePrinting, PrintingLink> {
+	public static class Builder extends PartialBuilder<Printing, WholePrinting, PrintingLink> {
 
 		private Card card;
 		private String flavorText = "";
@@ -166,8 +167,8 @@ public final class Printing extends Partial<Printing> {
 			return new Printing(this);
 		}
 
-		@Override PrintingLink newLink(Printing partial, boolean isFirstHalf) {
-			return new PrintingLink(partial, isFirstHalf);
+		@Override PrintingLink newLink(Printing partial, int index) {
+			return new PrintingLink(partial, index);
 		}
 	}
 
