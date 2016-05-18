@@ -7,6 +7,7 @@ import java.util.Map;
 import java.util.Set;
 
 import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableRangeSet;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
@@ -21,145 +22,132 @@ import magic.SymbolLogic.Snow;
 import magic.SymbolLogic.Variable;
 
 /**
- * All mana symbols other than constant colorless symbols; in other words, all
- * symbols that may appear more than once in a mana cost. The reason constant
- * colorless symbols (such as <code>{1}</code> or <code>{7}</code>) are excluded
- * is that they are better represented as plain {@code int}s, to make them
- * easier to work with, and to reduce the complexity of this {@code enum}. See
- * {@link ManaCost} for further details on this conceptualization.
  * 
- * @see ManaCost
  */
 public enum ManaSymbol {
 
 	/**
-	 * The variable mana symbol <code>{X}</code>
+	 * Paid with any amount of mana.
 	 */
 	X(new Variable()),
 
 	/**
-	 * This mana symbol does not really exist, but it is used to represent any
-	 * colorless generic mana symbol. For example, three appearances of this
-	 * symbol in a {@link ManaCost} represents the symbol <code>{3}</code>.
-	 * <p>
-	 * The String representation of this object is <code>{1}</code>, but this is
-	 * primarily for debugging purposes, as this object has no real-world
-	 * meaning.
+	 * Paid with one mana of any type.
 	 */
 	GENERIC(new Generic()),
 
 	/**
-	 * The colorless mana symbol <code>{C}</code>
+	 * Paid with one colorless mana.
 	 */
 	COLORLESS(new Colorless()),
 
 	/**
-	 * The hybrid White-Blue mana symbol <code>{W/U}</code>
+	 * Paid with one white or blue mana.
 	 */
 	HYBRID_WHITE_BLUE(new Hybrid(Color.WHITE, Color.BLUE)),
 	/**
-	 * The hybrid Blue-Black mana symbol <code>{U/B}</code>
+	 * Paid with one blue or black mana.
 	 */
 	HYBRID_BLUE_BLACK(new Hybrid(Color.BLUE, Color.BLACK)),
 	/**
-	 * The hybrid Black-Red mana symbol <code>{B/R}</code>
+	 * Paid with one black or red mana.
 	 */
 	HYBRID_BLACK_RED(new Hybrid(Color.BLACK, Color.RED)),
 	/**
-	 * The hybrid Red-Green mana symbol <code>{R/G}</code>
+	 * Paid with one red or green mana.
 	 */
 	HYBRID_RED_GREEN(new Hybrid(Color.RED, Color.GREEN)),
 	/**
-	 * The hybrid Green-White mana symbol <code>{G/W}</code>
+	 * Paid with one green or white mana.
 	 */
 	HYBRID_GREEN_WHITE(new Hybrid(Color.GREEN, Color.WHITE)),
 
 	/**
-	 * The hybrid White-Black mana symbol <code>{W/B}</code>
+	 * Paid with one white or black mana.
 	 */
 	HYBRID_WHITE_BLACK(new Hybrid(Color.WHITE, Color.BLACK)),
 	/**
-	 * The hybrid Blue-Red mana symbol <code>{U/R}</code>
+	 * Paid with one blue or red mana.
 	 */
 	HYBRID_BLUE_RED(new Hybrid(Color.BLUE, Color.RED)),
 	/**
-	 * The hybrid Black-Green mana symbol <code>{B/G}</code>
+	 * Paid with one black or green mana.
 	 */
 	HYBRID_BLACK_GREEN(new Hybrid(Color.BLACK, Color.GREEN)),
 	/**
-	 * The hybrid Red-White mana symbol <code>{R/W}</code>
+	 * Paid with one red or white mana.
 	 */
 	HYBRID_RED_WHITE(new Hybrid(Color.RED, Color.WHITE)),
 	/**
-	 * The hybrid Green-Blue mana symbol <code>{G/U}</code>
+	 * Paid with one green or blue mana.
 	 */
 	HYBRID_GREEN_BLUE(new Hybrid(Color.GREEN, Color.BLUE)),
 
 	/**
-	 * The primary White mana symbol <code>{W}</code>
+	 * Paid with one white mana.
 	 */
 	WHITE(new Primary(Color.WHITE)),
 	/**
-	 * The primary Blue mana symbol <code>{U}</code>
+	 * Paid with one blue mana.
 	 */
 	BLUE(new Primary(Color.BLUE)),
 	/**
-	 * The primary Black mana symbol <code>{B}</code>
+	 * Paid with one black mana.
 	 */
 	BLACK(new Primary(Color.BLACK)),
 	/**
-	 * The primary Red mana symbol <code>{R}</code>
+	 * Paid with one red mana.
 	 */
 	RED(new Primary(Color.RED)),
 	/**
-	 * The primary Green mana symbol {G}</code>
+	 * Paid with one green mana.
 	 */
 	GREEN(new Primary(Color.GREEN)),
 
 	/**
-	 * The monocolored hybrid White mana symbol <code>{2/W}</code>
+	 * Paid with one white mana or two generic mana.
 	 */
 	MONOCOLORED_HYBRID_WHITE(new MonocoloredHybrid(Color.WHITE)),
 	/**
-	 * The monocolored hybrid Blue mana symbol <code>{2/U}</code>
+	 * Paid with one blue mana or two generic mana.
 	 */
 	MONOCOLORED_HYBRID_BLUE(new MonocoloredHybrid(Color.BLUE)),
 	/**
-	 * The monocolored hybrid Black mana symbol <code>{2/B}</code>
+	 * Paid with one black mana or two generic mana.
 	 */
 	MONOCOLORED_HYBRID_BLACK(new MonocoloredHybrid(Color.BLACK)),
 	/**
-	 * The monocolored hybrid Red mana symbol <code>{2/R}</code>
+	 * Paid with one red mana or two generic mana.
 	 */
 	MONOCOLORED_HYBRID_RED(new MonocoloredHybrid(Color.RED)),
 	/**
-	 * The monocolored hybrid Green mana symbol <code>{2/G}</code>
+	 * Paid with one green mana or two generic mana.
 	 */
 	MONOCOLORED_HYBRID_GREEN(new MonocoloredHybrid(Color.GREEN)),
 
 	/**
-	 * The Phyrexian White mana symbol <code>{W/P}</code>
+	 * Paid with one white mana or 2 life.
 	 */
 	PHYREXIAN_WHITE(new Phyrexian(Color.WHITE)),
 	/**
-	 * The Phyrexian Blue mana symbol <code>{U/P}</code>
+	 * Paid with one blue mana or 2 life.
 	 */
 	PHYREXIAN_BLUE(new Phyrexian(Color.BLUE)),
 	/**
-	 * The Phyrexian Black mana symbol <code>{B/P}</code>
+	 * Paid with one black mana or 2 life.
 	 */
 	PHYREXIAN_BLACK(new Phyrexian(Color.BLACK)),
 	/**
-	 * The Phyrexian Red mana symbol <code>{R/P}</code>
+	 * Paid with one red mana or 2 life.
 	 */
 	PHYREXIAN_RED(new Phyrexian(Color.RED)),
 	/**
-	 * The Phyrexian Green mana symbol <code>{G/P}</code>
+	 * Paid with one green mana or 2 life.
 	 */
 	PHYREXIAN_GREEN(new Phyrexian(Color.GREEN)),
 
 	/**
-	 * The Snow mana symbol <code>{S}</code>
+	 * Paid with one mana from a snow permanent.
 	 */
 	SNOW(new Snow());
 
@@ -252,7 +240,6 @@ public enum ManaSymbol {
 				phyrexian.put(color, symbol);
 			}
 		}
-
 		CategoryVisitor visitor = new CategoryVisitor();
 		for (ManaSymbol symbol : values()) {
 			visitor.symbol = symbol;
@@ -288,9 +275,9 @@ public enum ManaSymbol {
 
 		protected void generic() {}
 
-		protected void colorless() {}
-
 		protected void variable() {}
+
+		protected void colorless() {}
 
 		protected void snow() {}
 

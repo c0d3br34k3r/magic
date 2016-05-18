@@ -193,9 +193,7 @@ public abstract class ManaCost {
 	 * The value of the generic symbol in this mana cost, or 0 if no generic
 	 * symbol is present.
 	 */
-	public int generic() {
-		return symbols().count(ManaSymbol.GENERIC);
-	}
+	public abstract int generic();
 
 	/**
 	 * A {@link Multiset} containing all mana symbols in this mana cost.
@@ -247,9 +245,8 @@ public abstract class ManaCost {
 
 	/**
 	 * Returns the {@link String} representation of this mana cost: a series of
-	 * mana symbols, including constant generic mana symbols (specified by
-	 * {@link ManaSymbol#toString()}) in the order that they would appear on an
-	 * actual card.
+	 * mana symbols, including numeric mana symbols, in the order that they
+	 * would appear on an actual card.
 	 */
 	@Override public abstract String toString();
 
@@ -285,6 +282,10 @@ public abstract class ManaCost {
 			return converted;
 		}
 
+		@Override public int generic() {
+			return symbols().count(ManaSymbol.GENERIC);
+		}
+
 		@Override public int hashCode() {
 			return symbols.hashCode();
 		}
@@ -317,12 +318,16 @@ public abstract class ManaCost {
 				builder.append('{').append(amount).append('}');
 			}
 
+			@Override protected void variable() {
+				appendCopies('X');
+			}
+
 			@Override protected void colorless() {
 				appendCopies('C');
 			}
 
-			@Override protected void variable() {
-				appendCopies('X');
+			@Override protected void snow() {
+				appendCopies('S');
 			}
 
 			@Override protected void primary(Color color) {
@@ -330,24 +335,32 @@ public abstract class ManaCost {
 			}
 
 			@Override protected void hybrid(Color first, Color second) {
-				appendCopies(first.code() + "/" + second.code());
+				appendCopies(first.code(), second.code());
 			}
 
 			@Override protected void monocoloredHybrid(Color color) {
-				appendCopies("2/" + color.code());
+				appendCopies('2', color.code());
 			}
 
 			@Override protected void phyrexian(Color color) {
-				appendCopies(color.code() + "/P");
+				appendCopies(color.code(), 'P');
 			}
 
 			void appendCopies(char symbol) {
-				appendCopies(Character.toString(symbol));
+				for (int i = 0; i < amount; i++) {
+					builder.append('{')
+							.append(symbol)
+							.append('}');
+				}
 			}
 
-			void appendCopies(String symbol) {
+			void appendCopies(char first, char second) {
 				for (int i = 0; i < amount; i++) {
-					builder.append('{').append(symbol).append('}');
+					builder.append('{')
+							.append(first)
+							.append('/')
+							.append(second)
+							.append('}');
 				}
 			}
 		}

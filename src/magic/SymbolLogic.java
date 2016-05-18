@@ -14,6 +14,7 @@ abstract class SymbolLogic {
 	private final int converted;
 
 	private SymbolLogic(int converted, Color... colors) {
+		// TODO: store converted?
 		this.converted = converted;
 		this.colors = ImmutableSet.copyOf(colors);
 	}
