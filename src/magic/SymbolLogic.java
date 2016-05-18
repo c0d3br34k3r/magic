@@ -1,9 +1,7 @@
 package magic;
 
-import java.util.Collections;
 import java.util.Set;
 
-import com.google.common.base.Strings;
 import com.google.common.collect.ImmutableSet;
 
 /**
@@ -14,25 +12,10 @@ abstract class SymbolLogic {
 
 	private final ImmutableSet<Color> colors;
 	private final int converted;
-	private final String representation;
 
-	private SymbolLogic(int converted, String representation) {
-		this(ImmutableSet.<Color> of(), converted, representation);
-	}
-
-	private SymbolLogic(Color only, int converted, String representation) {
-		this(ImmutableSet.of(only), converted, representation);
-	}
-
-	private SymbolLogic(Color first, Color second, int converted,
-			String representation) {
-		this(ImmutableSet.of(first, second), converted, representation);
-	}
-
-	private SymbolLogic(ImmutableSet<Color> colors, int converted, String representation) {
-		this.colors = colors;
+	private SymbolLogic(int converted, Color... colors) {
 		this.converted = converted;
-		this.representation = representation;
+		this.colors = ImmutableSet.copyOf(colors);
 	}
 
 	int converted() {
@@ -43,90 +26,101 @@ abstract class SymbolLogic {
 		return colors;
 	}
 
-	@Override public String toString() {
-		return representation;
-	}
-
 	abstract boolean payableWith(Set<Color> mana);
 
-	String format(int occurences) {
-		return Strings.repeat(this.toString(), occurences);
-	}
+	abstract void accept(ManaSymbol.Visitor visitor);
 
-	void formatTo(StringBuilder builder, int occurences) {
-		for (int i = 0; i < occurences; i++) {
-			builder.append(this.toString());
+	static final class Variable extends SymbolLogic {
+
+		Variable() {
+			super(0);
+		}
+
+		@Override boolean payableWith(Set<Color> mana) {
+			return true;
+		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.variable();
 		}
 	}
 
 	static class Generic extends SymbolLogic {
 
 		Generic() {
-			super(1, "{1}");
+			super(1);
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
 			return true;
 		}
 
-		@Override String format(int occurences) {
-			StringBuilder builder = new StringBuilder();
-			formatTo(builder, occurences);
-			return builder.toString();
-		}
-
-		@Override void formatTo(StringBuilder builder, int occurences) {
-			builder.append('{')
-					.append(occurences)
-					.append('}');
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.generic();
 		}
 	}
 
 	static class Colorless extends SymbolLogic {
 
 		Colorless() {
-			super(1, "{C}");
+			super(1);
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
 			return true;
 		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.colorless();
+		}
 	}
 
 	static abstract class Monocolored extends SymbolLogic {
 
-		private final Color color;
+		protected final Color color;
+
+		Monocolored(int converted, Color only) {
+			super(converted, only);
+			this.color = only;
+		}
 
 		Color color() {
 			return color;
 		}
-
-		Monocolored(Color only, int converted, String representation) {
-			super(only, converted, representation);
-			this.color = only;
-		}
-
 	}
 
 	static final class Primary extends Monocolored {
 
 		Primary(Color color) {
-			super(color, 1, String.format("{%c}", color.code()));
+			super(1, color);
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
-			return mana.contains(color());
+			return mana.contains(color);
+		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.primary(color);
 		}
 	}
 
 	static final class Hybrid extends SymbolLogic {
 
+		private final Color first;
+		private final Color second;
+
 		Hybrid(Color first, Color second) {
-			super(first, second, 1, String.format("{%c/%c}", first.code(), second.code()));
+			super(1, first, second);
+			this.first = first;
+			this.second = second;
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
-			return !Collections.disjoint(mana, colors());
+			return mana.contains(first) || mana.contains(second);
+		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.hybrid(first, second);
 		}
 	}
 
@@ -136,8 +130,8 @@ abstract class SymbolLogic {
 	 */
 	private static abstract class ColorOptional extends Monocolored {
 
-		private ColorOptional(Color only, int converted, String represntation) {
-			super(only, converted, represntation);
+		private ColorOptional(int converted, Color only) {
+			super(converted, only);
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
@@ -148,25 +142,37 @@ abstract class SymbolLogic {
 	static final class MonocoloredHybrid extends ColorOptional {
 
 		MonocoloredHybrid(Color color) {
-			super(color, 2, String.format("{2/%c}", color.code()));
+			super(2, color);
+		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.monocoloredHybrid(color);
 		}
 	}
 
 	static final class Phyrexian extends ColorOptional {
 
 		Phyrexian(Color color) {
-			super(color, 1, String.format("{%c/P}", color.code()));
+			super(1, color);
+		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.phyrexian(color);
 		}
 	}
 
-	static final class Variable extends SymbolLogic {
+	static final class Snow extends SymbolLogic {
 
-		Variable(char symbol) {
-			super(0, String.format("{%c}", symbol));
+		Snow() {
+			super(1);
 		}
 
 		@Override boolean payableWith(Set<Color> mana) {
 			return true;
+		}
+
+		@Override void accept(ManaSymbol.Visitor visitor) {
+			visitor.snow();
 		}
 	}
 

@@ -88,7 +88,7 @@ public enum Color {
 		}
 		return INTERNER.intern(result);
 	}
-	
+
 	/**
 	 * Returns a String of the color codes in this set of colors.
 	 */

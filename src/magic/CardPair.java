@@ -1,6 +1,7 @@
 package magic;
 
 import java.util.List;
+import java.util.Objects;
 
 public final class CardPair extends Pair<Card> {
 
@@ -8,7 +9,7 @@ public final class CardPair extends Pair<Card> {
 
 	CardPair(Builder builder) {
 		super(builder.first.build(), builder.first.getOther());
-		this.layout = builder.layout;
+		this.layout = Objects.requireNonNull(builder.layout);
 	}
 
 	public final Layout layout() {
@@ -37,23 +38,26 @@ public final class CardPair extends Pair<Card> {
 		private Builder() {}
 
 		public Builder setFirst(Card.Builder first) {
-			this.first = first;
+			this.first = Objects.requireNonNull(first);
 			return this;
 		}
 
 		public Builder setSecond(Card.Builder second) {
-			this.second = second;
+			this.second = Objects.requireNonNull(second);
 			return this;
 		}
 
 		public Builder setCards(List<Card.Builder> cards) {
+			if (cards.size() != 2) {
+				throw new IllegalArgumentException();
+			}
 			this.first = cards.get(0);
 			this.second = cards.get(1);
 			return this;
 		}
 
 		public Builder setLayout(Layout layout) {
-			this.layout = layout;
+			this.layout = Objects.requireNonNull(layout);
 			return this;
 		}
 

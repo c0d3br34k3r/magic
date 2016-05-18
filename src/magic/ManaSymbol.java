@@ -1,10 +1,15 @@
 package magic;
 
 import java.util.Collection;
+import java.util.EnumMap;
+import java.util.EnumSet;
+import java.util.Map;
 import java.util.Set;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Maps;
+import com.google.common.collect.Sets;
 
 import magic.SymbolLogic.Colorless;
 import magic.SymbolLogic.Generic;
@@ -12,6 +17,7 @@ import magic.SymbolLogic.Hybrid;
 import magic.SymbolLogic.MonocoloredHybrid;
 import magic.SymbolLogic.Phyrexian;
 import magic.SymbolLogic.Primary;
+import magic.SymbolLogic.Snow;
 import magic.SymbolLogic.Variable;
 
 /**
@@ -24,12 +30,12 @@ import magic.SymbolLogic.Variable;
  * 
  * @see ManaCost
  */
-public enum ManaPayment {
+public enum ManaSymbol {
 
 	/**
 	 * The variable mana symbol <code>{X}</code>
 	 */
-	X(new Variable('X')),
+	X(new Variable()),
 
 	/**
 	 * This mana symbol does not really exist, but it is used to represent any
@@ -150,11 +156,16 @@ public enum ManaPayment {
 	/**
 	 * The Phyrexian Green mana symbol <code>{G/P}</code>
 	 */
-	PHYREXIAN_GREEN(new Phyrexian(Color.GREEN));
+	PHYREXIAN_GREEN(new Phyrexian(Color.GREEN)),
+
+	/**
+	 * The Snow mana symbol <code>{S}</code>
+	 */
+	SNOW(new Snow());
 
 	private final SymbolLogic internal;
 
-	private ManaPayment(SymbolLogic internal) {
+	private ManaSymbol(SymbolLogic internal) {
 		this.internal = internal;
 	}
 
@@ -192,37 +203,11 @@ public enum ManaPayment {
 	}
 
 	/**
-	 * Returns this symbol's {@code String} representation. {@code Symbol}s are
-	 * rendered as either a single value, or two values separated by as slash
-	 * ('/'), and enclosed in curly brackets ('{' and '}').
-	 */
-	@Override public String toString() {
-		return internal.toString();
-	}
-
-	public String format(int occurences) {
-		return internal.format(occurences);
-	}
-
-	public void formatTo(StringBuilder builder, int occurences) {
-		internal.formatTo(builder, occurences);
-	}
-
-	/**
-	 * Returns the {@code Symbol} with the given representation, or {@code null}
-	 * if no mana symbol matches. Does not return the Generic mana symbol for
-	 * any input.
-	 */
-	public static ManaPayment parse(String input) {
-		return SYMBOLS.get(input);
-	}
-
-	/**
 	 * Returns {@code false} if any of the symbols are not payable with the
 	 * given colors of mana.
 	 */
-	public static boolean payableWith(Collection<ManaPayment> symbols, Set<Color> mana) {
-		for (ManaPayment symbol : symbols) {
+	public static boolean payableWith(Collection<ManaSymbol> symbols, Set<Color> mana) {
+		for (ManaSymbol symbol : symbols) {
 			if (!symbol.payableWith(mana)) {
 				return false;
 			}
@@ -230,16 +215,92 @@ public enum ManaPayment {
 		return true;
 	}
 
-	private static final ImmutableMap<String, ManaPayment> SYMBOLS;
+	public void accept(Visitor visitor) {
+		internal.accept(visitor);
+	}
+
+	private static final Map<Color, ManaSymbol> PRIMARY;
+	private static final Map<Set<Color>, ManaSymbol> HYBRID;
+	private static final Map<Color, ManaSymbol> MONOCOLORED_HYBRID;
+	private static final Map<Color, ManaSymbol> PHYREXIAN;
+
+	// private static final Range
 
 	static {
-		ImmutableMap.Builder<String, ManaPayment> builder = ImmutableMap.builder();
-		for (ManaPayment symbol : values()) {
-			if (symbol != ManaPayment.GENERIC) {
-				builder.put(symbol.toString(), symbol);
+		final Map<Color, ManaSymbol> primary = new EnumMap<>(Color.class);
+		final ImmutableMap.Builder<Set<Color>, ManaSymbol> hybrid = ImmutableMap.builder();
+		final Map<Color, ManaSymbol> monocoloredHybrid = new EnumMap<>(Color.class);
+		final Map<Color, ManaSymbol> phyrexian = new EnumMap<>(Color.class);
+
+		class CategoryVisitor extends Visitor {
+
+			ManaSymbol symbol;
+
+			@Override protected void primary(Color color) {
+				primary.put(color, symbol);
+			}
+
+			@Override protected void hybrid(Color first, Color second) {
+				hybrid.put(Sets.immutableEnumSet(EnumSet.of(first, second)), symbol);
+			}
+
+			@Override protected void monocoloredHybrid(Color color) {
+				monocoloredHybrid.put(color, symbol);
+			}
+
+			@Override protected void phyrexian(Color color) {
+				phyrexian.put(color, symbol);
 			}
 		}
-		SYMBOLS = builder.build();
+
+		CategoryVisitor visitor = new CategoryVisitor();
+		for (ManaSymbol symbol : values()) {
+			visitor.symbol = symbol;
+			symbol.accept(visitor);
+		}
+		PRIMARY = Maps.immutableEnumMap(primary);
+		HYBRID = hybrid.build();
+		MONOCOLORED_HYBRID = Maps.immutableEnumMap(monocoloredHybrid);
+		PHYREXIAN = Maps.immutableEnumMap(phyrexian);
+	}
+
+	public static ManaSymbol primary(Color color) {
+		return PRIMARY.get(color);
+	}
+
+	public static ManaSymbol hybrid(Color color1, Color color2) {
+		if (color1 == color2) {
+			throw new IllegalArgumentException(
+					"Hybrid symbols must have two different colors, but both were " + color1);
+		}
+		return HYBRID.get(EnumSet.of(color1, color2));
+	}
+
+	public static ManaSymbol monocoloredHybrid(Color color) {
+		return MONOCOLORED_HYBRID.get(color);
+	}
+
+	public static ManaSymbol phyrexian(Color color) {
+		return PHYREXIAN.get(color);
+	}
+
+	public static abstract class Visitor {
+
+		protected void generic() {}
+
+		protected void colorless() {}
+
+		protected void variable() {}
+
+		protected void snow() {}
+
+		protected void primary(Color color) {}
+
+		protected void hybrid(Color first, Color second) {}
+
+		protected void monocoloredHybrid(Color color) {}
+
+		protected void phyrexian(Color color) {}
 	}
 
 }

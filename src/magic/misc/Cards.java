@@ -18,7 +18,7 @@ import com.google.common.collect.Sets;
 import magic.Card;
 import magic.Expansion;
 import magic.Layout;
-import magic.ManaPayment;
+import magic.ManaSymbol;
 import magic.Printing;
 import magic.Subtype;
 import magic.Type;
@@ -74,11 +74,11 @@ public final class Cards {
 		BASIC_LAND;
 	}
 
-	private static final Set<ManaPayment> HYBRID = Sets.immutableEnumSet(EnumSet
-			.range(ManaPayment.HYBRID_WHITE_BLUE, ManaPayment.HYBRID_GREEN_BLUE));
+	private static final Set<ManaSymbol> HYBRID = Sets.immutableEnumSet(EnumSet
+			.range(ManaSymbol.HYBRID_WHITE_BLUE, ManaSymbol.HYBRID_GREEN_BLUE));
 	
-	private static final Set<ManaPayment> PRIMARY = Sets.immutableEnumSet(EnumSet
-			.range(ManaPayment.WHITE, ManaPayment.GREEN));
+	private static final Set<ManaSymbol> PRIMARY = Sets.immutableEnumSet(EnumSet
+			.range(ManaSymbol.WHITE, ManaSymbol.GREEN));
 
 	private static Section section(Card c) {
 		if (c.link() != null
