@@ -2,7 +2,7 @@ package magic;
 
 import javax.annotation.Nullable;
 
-abstract class PartialBuilder<P extends Partial<P>, W extends Whole<P>, L extends Link<P>> {
+abstract class PartialBuilder<P, W , L> {
 
 	private W whole;
 	// only the first half will set this

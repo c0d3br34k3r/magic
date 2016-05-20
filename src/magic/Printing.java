@@ -7,14 +7,13 @@ import javax.annotation.Nullable;
 
 import com.google.common.base.Joiner;
 
-public final class Printing extends Partial<Printing> {
+public final class Printing {
 
 	private final Card card;
 	private final WholePrinting whole;
 	private final @Nullable PrintingLink link;
 	private final String flavorText;
 	private final @Nullable CollectorNumber collectorNumber;
-	private final int variation;
 	private final String artist;
 	private final @Nullable String watermark;
 
@@ -24,7 +23,6 @@ public final class Printing extends Partial<Printing> {
 		this.whole = builder.getWhole();
 		this.flavorText = builder.flavorText;
 		this.collectorNumber = builder.collectorNumber;
-		this.variation = builder.variation;
 		this.artist = builder.artist;
 		this.watermark = builder.watermark;
 	}
@@ -33,7 +31,7 @@ public final class Printing extends Partial<Printing> {
 		return card;
 	}
 
-	@Override public WholePrinting whole() {
+	public WholePrinting whole() {
 		return whole;
 	}
 
@@ -49,26 +47,17 @@ public final class Printing extends Partial<Printing> {
 		return collectorNumber;
 	}
 
-	public int variationIndex() {
-		return variation;
-	}
-
 	public String watermark() {
 		return watermark;
 	}
 
-	@Override public PrintingLink link() {
+	public PrintingLink link() {
 		return link;
 	}
 
 	@Override public String toString() {
-		StringBuilder builder = new StringBuilder(card.name());
-		if (collectorNumber != null) {
-			builder.append('#').append(collectorNumber.toString());
-		} else {
-
-		}
-		return builder.toString();
+		// TODO
+		return null;
 	}
 
 	private static final Joiner SPACE_JOINER = Joiner.on(' ');
@@ -125,7 +114,6 @@ public final class Printing extends Partial<Printing> {
 		private Card card;
 		private String flavorText = "";
 		private CollectorNumber collectorNumber = null;
-		private int variation;
 		private String artist;
 		private String watermark = null;
 
@@ -143,11 +131,6 @@ public final class Printing extends Partial<Printing> {
 
 		public Builder setCollectorNumber(CollectorNumber collectorNumber) {
 			this.collectorNumber = collectorNumber;
-			return this;
-		}
-
-		public Builder setVariation(int variation) {
-			this.variation = variation;
 			return this;
 		}
 

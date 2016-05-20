@@ -117,5 +117,15 @@ public enum Color {
 				throw new IllegalArgumentException(Character.toString(letter));
 		}
 	}
+	
+	public static boolean friendly(Color c1, Color c2) {
+		int dist = Math.abs(c1.ordinal() - c2.ordinal());
+		return dist == 1 || dist == 4;
+	}
+	
+	public static boolean enemy(Color c1, Color c2) {
+		int dist = Math.abs(c1.ordinal() - c2.ordinal());
+		return dist == 2 || dist == 3;
+	}
 
 }

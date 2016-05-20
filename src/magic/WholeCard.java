@@ -7,8 +7,7 @@ import java.util.Objects;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterators;
 
-public abstract class WholeCard extends Whole<Card>
-		implements Comparable<WholeCard> {
+public abstract class WholeCard implements Comparable<WholeCard>, Iterable<Card> {
 
 	private final ImmutableSet<Color> colorIdentity;
 
@@ -22,9 +21,11 @@ public abstract class WholeCard extends Whole<Card>
 
 	public abstract String name();
 
-	@Override public abstract CardPair pair();
+	public abstract boolean hasOnePart();
 
-	@Override public abstract boolean hasOnePart();
+	public abstract Card only();
+
+	public abstract CardPair pair();
 
 	@Override public String toString() {
 		return name();

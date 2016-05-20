@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 import com.google.common.collect.ImmutableList;
 
-abstract class Pair<P extends Partial<P>> {
+abstract class Pair<P> {
 
 	private ImmutableList<P> values;
 

@@ -1,6 +1,6 @@
 package magic;
 
-abstract class Link<P extends Partial<P>> {
+abstract class Link<P> {
 
 	private final P linked;
 	private final int index;

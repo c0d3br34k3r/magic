@@ -10,7 +10,7 @@ import com.google.common.base.Joiner;
 import com.google.common.base.MoreObjects;
 import com.google.common.collect.ImmutableSet;
 
-public final class Card extends Partial<Card> implements Comparable<Card> {
+public final class Card implements Comparable<Card> {
 
 	private final WholeCard whole;
 	private final @Nullable CardLink link;
@@ -85,11 +85,11 @@ public final class Card extends Partial<Card> implements Comparable<Card> {
 		return MoreObjects.firstNonNull(colorIndicator, manaCost.colors());
 	}
 
-	@Override public WholeCard whole() {
+	public WholeCard whole() {
 		return whole;
 	}
 
-	@Override public @Nullable CardLink link() {
+	public @Nullable CardLink link() {
 		return link;
 	}
 

@@ -7,21 +7,27 @@ import java.util.Objects;
 
 import com.google.common.collect.Iterators;
 
-public abstract class WholePrinting extends Whole<Printing> {
+public abstract class WholePrinting implements Iterable<Printing> {
 
 	private final WholeCard card;
 	private final Expansion expansion;
-	private final boolean isTimeshifted;
 	private final Rarity rarity;
+	private final int variation;
+	private final boolean isTimeshifted;
 
 	private WholePrinting(Builder builder) {
-		this.card = builder.card;
-		this.expansion = builder.expansion;
-		this.rarity = builder.rarity;
+		this.card = Objects.requireNonNull(builder.card);
+		this.expansion = Objects.requireNonNull(builder.expansion);
+		this.rarity = Objects.requireNonNull(builder.rarity);
+		this.variation = builder.variation;
 		this.isTimeshifted = builder.isTimeshifted;
 	}
 
-	@Override public abstract PrintingPair pair();
+	public abstract boolean hasOnePart();
+
+	public abstract Printing only();
+
+	public abstract PrintingPair pair();
 
 	public final WholeCard card() {
 		return card;
@@ -33,6 +39,10 @@ public abstract class WholePrinting extends Whole<Printing> {
 
 	public final Rarity rarity() {
 		return rarity;
+	}
+
+	public int variation() {
+		return variation;
 	}
 
 	public final boolean isTimeshifted() {
@@ -84,10 +94,9 @@ public abstract class WholePrinting extends Whole<Printing> {
 		}
 
 		@Override public String toString() {
-
-			return card().toString();
+			// TODO
+			return null;
 		}
-
 	}
 
 	private static final class CompositePrinting extends WholePrinting {
@@ -123,14 +132,20 @@ public abstract class WholePrinting extends Whole<Printing> {
 		@Override public Iterator<Printing> iterator() {
 			return printings.iterator();
 		}
+
+		@Override public String toString() {
+			// TODO
+			return null;
+		}
 	}
 
 	public static class Builder {
 
-		private boolean isTimeshifted = false;
-		private Rarity rarity;
-		private Expansion expansion;
 		private WholeCard card;
+		private Expansion expansion;
+		private Rarity rarity;
+		private int variation = 0;
+		private boolean isTimeshifted = false;
 		private Printing.Builder only;
 		private PrintingPair.Builder pair;
 
@@ -141,8 +156,18 @@ public abstract class WholePrinting extends Whole<Printing> {
 			return this;
 		}
 
-		public Builder setTimeshifted(boolean isTimeshifted) {
-			this.isTimeshifted = isTimeshifted;
+		public Builder setOnly(Printing.Builder only) {
+			this.only = Objects.requireNonNull(only);
+			return this;
+		}
+
+		public Builder setPair(PrintingPair.Builder pair) {
+			this.pair = Objects.requireNonNull(pair);
+			return this;
+		}
+
+		public Builder setExpansion(Expansion expansion) {
+			this.expansion = expansion;
 			return this;
 		}
 
@@ -151,17 +176,13 @@ public abstract class WholePrinting extends Whole<Printing> {
 			return this;
 		}
 
-		void setExpansion(Expansion expansion) {
-			this.expansion = expansion;
-		}
-
-		public Builder setOnly(Printing.Builder only) {
-			this.only = Objects.requireNonNull(only);
+		public Builder setVariation(int variation) {
+			this.variation = variation;
 			return this;
 		}
 
-		public Builder setPair(PrintingPair.Builder pair) {
-			this.pair = Objects.requireNonNull(pair);
+		public Builder setTimeshifted(boolean isTimeshifted) {
+			this.isTimeshifted = isTimeshifted;
 			return this;
 		}
 

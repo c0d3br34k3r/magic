@@ -301,18 +301,22 @@ public abstract class ManaCost {
 		}
 
 		@Override public String toString() {
-			ManaCostToString visitor = new ManaCostToString();
+			StringBuilder builder = new StringBuilder();
 			for (Multiset.Entry<ManaSymbol> entry : symbols.entrySet()) {
-				visitor.amount = entry.getCount();
-				entry.getElement().accept(visitor);
+				entry.getElement().accept(new ManaCostToString(builder, entry.getCount()));
 			}
-			return visitor.builder.toString();
+			return builder.toString();
 		}
 
 		private static class ManaCostToString extends ManaSymbol.Visitor {
 
-			StringBuilder builder = new StringBuilder();
+			StringBuilder builder;
 			int amount;
+
+			ManaCostToString(StringBuilder builder, int amount) {
+				this.builder = builder;
+				this.amount = amount;
+			}
 
 			@Override protected void generic() {
 				builder.append('{').append(amount).append('}');
