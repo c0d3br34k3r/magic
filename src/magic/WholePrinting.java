@@ -70,6 +70,7 @@ public abstract class WholePrinting implements Iterable<Printing> {
 		private StandalonePrinting(Builder builder) {
 			super(builder);
 			builder.only.setWhole(this);
+			builder.only.setCard(builder.card.only());
 			this.printing = builder.only.build();
 		}
 
@@ -95,7 +96,7 @@ public abstract class WholePrinting implements Iterable<Printing> {
 
 		@Override public String toString() {
 			// TODO
-			return null;
+			return card().name() + " (" + expansion().code() + ":" + rarity().code() + ")";
 		}
 	}
 
@@ -105,6 +106,7 @@ public abstract class WholePrinting implements Iterable<Printing> {
 
 		private CompositePrinting(Builder builder) {
 			super(builder);
+			builder.pair.setCardPair(card().pair());
 			this.printings = builder.pair.build(this);
 		}
 
@@ -166,11 +168,6 @@ public abstract class WholePrinting implements Iterable<Printing> {
 			return this;
 		}
 
-		public Builder setExpansion(Expansion expansion) {
-			this.expansion = expansion;
-			return this;
-		}
-
 		public Builder setRarity(Rarity rarity) {
 			this.rarity = Objects.requireNonNull(rarity);
 			return this;
@@ -186,7 +183,11 @@ public abstract class WholePrinting implements Iterable<Printing> {
 			return this;
 		}
 
-		public WholePrinting build() {
+		void setExpansion(Expansion expansion) {
+			this.expansion = expansion;
+		}
+
+		WholePrinting build() {
 			if (!(only == null ^ pair == null)) {
 				throw new IllegalArgumentException();
 			}

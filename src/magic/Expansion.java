@@ -10,35 +10,28 @@ import com.google.common.collect.ImmutableListMultimap;
 import com.google.common.collect.Lists;
 
 /**
- * An object containing the attributes of expansion. It does not, however,
- * contain the cards within the expansion. Implementations of {@code Expansion}
- * should be immutable.
- * <p>
- * Because each instance of {@code Expansion} should be unique, it may be useful
- * to have {@code equals} and {@code hashCode} default to their identity-based
- * implementations in {@link Object}.
+ * TODO
  */
 public final class Expansion implements Comparable<Expansion> {
 
 	private final String name;
 	private final String code;
-	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
 	private final LocalDate releaseDate;
 	private final ReleaseType type;
 	private final BorderColor borderColor;
 	private final boolean hasCollectorNumbers;
-	private final boolean isPhysical;
+	private final boolean onlineOnly;
 	private final boolean hasBooster;
+	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
 
 	private Expansion(Builder builder) {
 		this.name = builder.name;
 		this.code = builder.code;
-
 		this.releaseDate = builder.releaseDate;
 		this.type = builder.type;
 		this.borderColor = builder.borderColor;
 		this.hasCollectorNumbers = builder.hasCollectorNumbers;
-		this.isPhysical = builder.isPhysical;
+		this.onlineOnly = builder.onlineOnly;
 		this.hasBooster = builder.hasBooster;
 
 		ImmutableListMultimap.Builder<WholeCard, WholePrinting> printingsBuilder =
@@ -81,19 +74,17 @@ public final class Expansion implements Comparable<Expansion> {
 				}
 			};
 
-	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_FIRST =
-			new Function<WholePrinting, Printing>() {
-				@Override public Printing apply(WholePrinting input) {
-					return input.pair().first();
-				}
-			};
+	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_FIRST = transformPart(0);
 
-	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_SECOND =
-			new Function<WholePrinting, Printing>() {
-				@Override public Printing apply(WholePrinting input) {
-					return input.pair().second();
-				}
-			};
+	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_SECOND = transformPart(1);
+
+	private static final Function<? super WholePrinting, ? extends Printing> transformPart(final int index) {
+		return new Function<WholePrinting, Printing>() {
+			@Override public Printing apply(WholePrinting input) {
+				return input.pair().get(index);
+			}
+		};
+	}
 
 	public String code() {
 		return code;
@@ -115,8 +106,8 @@ public final class Expansion implements Comparable<Expansion> {
 		return hasCollectorNumbers;
 	}
 
-	public boolean isPhysical() {
-		return isPhysical;
+	public boolean onlineOnly() {
+		return onlineOnly;
 	}
 
 	public boolean hasBooster() {
@@ -174,9 +165,9 @@ public final class Expansion implements Comparable<Expansion> {
 		private LocalDate releaseDate;
 		private ReleaseType type;
 		private BorderColor borderColor;
-		private boolean hasCollectorNumbers;
-		private boolean isPhysical;
-		private boolean hasBooster;
+		private boolean hasCollectorNumbers = false;
+		private boolean onlineOnly = false;
+		private boolean hasBooster = false;
 
 		private Builder() {}
 
@@ -215,8 +206,8 @@ public final class Expansion implements Comparable<Expansion> {
 			return this;
 		}
 
-		public Builder setPhysical(boolean isPhysical) {
-			this.isPhysical = isPhysical;
+		public Builder setOnlineOnly(boolean onlineOnly) {
+			this.onlineOnly = onlineOnly;
 			return this;
 		}
 

@@ -152,7 +152,15 @@ public final class CollectorNumber implements Comparable<CollectorNumber> {
 	 * Magic card.
 	 */
 	@Override public String toString() {
-		return new StringBuilder().append(prefix).append(number).append(letter).toString();
+		StringBuilder builder = new StringBuilder();
+		if (prefix != null) {
+			builder.append(prefix);
+		}
+		builder.append(number);
+		if (letter != null) {
+			builder.append(letter);
+		}
+		return builder.toString();
 	}
 
 	/**

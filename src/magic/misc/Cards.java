@@ -42,7 +42,7 @@ public final class Cards {
 
 	private static final Predicate<Expansion> PHYSICAL = new Predicate<Expansion>() {
 		@Override public boolean apply(Expansion input) {
-			return input.isPhysical();
+			return !input.onlineOnly();
 		}
 	};
 

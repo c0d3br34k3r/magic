@@ -20,7 +20,7 @@ import magic.Type;
 import magic.WholeCard;
 import magic.WholeCard.Builder;
 
-public class JsonConverter {
+public class JsonCardConverter {
 
 	private static final String NAME = "name";
 	private static final String MANA_COST = "manaCost";

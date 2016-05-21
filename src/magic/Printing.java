@@ -84,14 +84,14 @@ public final class Printing {
 			out.append(" - ");
 			SPACE_JOINER.appendTo(out, card.subtypes());
 		}
-		out.append(whole.expansion().code()).append(':')
-				.append(whole.rarity().code());
+		out.append(" (").append(whole.expansion().code()).append(':')
+				.append(whole.rarity().code()).append(')');
 		out.append(newline);
 		if (!card.text().isEmpty()) {
 			out.append(card.text()).append(newline);
 		}
 		if (!flavorText.isEmpty()) {
-			out.append('/').append(flavorText).append('/').append(newline);
+			out.append(flavorText).append(newline);
 		}
 		if (card.power() != null) {
 			out.append(card.power().toString())
@@ -101,8 +101,8 @@ public final class Printing {
 		} else if (card.loyalty() != null) {
 			out.append(Integer.toString(card.loyalty())).append(newline);
 		}
-		out.append(newline);
 		out.append("Illus. ").append(artist);
+		out.append(newline);
 	}
 
 	public static Builder builder() {
@@ -119,9 +119,8 @@ public final class Printing {
 
 		private Builder() {}
 
-		public Builder setCard(Card card) {
+		void setCard(Card card) {
 			this.card = Objects.requireNonNull(card);
-			return this;
 		}
 
 		public Builder setFlavorText(String flavorText) {

@@ -1,5 +1,7 @@
 package magic;
 
+import java.util.List;
+
 public class PrintingPair extends Pair<Printing> {
 
 	private final CardPair cardPair;
@@ -43,9 +45,19 @@ public class PrintingPair extends Pair<Printing> {
 			return this;
 		}
 
-		public Builder setCardPair(CardPair cardPair) {
-			this.cardPair = cardPair;
+		public Builder setPrintings(List<Printing.Builder> printings) {
+			if (printings.size() != 2) {
+				throw new IllegalArgumentException();
+			}
+			this.first = printings.get(0);
+			this.second = printings.get(1);
 			return this;
+		}
+		
+		void setCardPair(CardPair cardPair) {
+			this.cardPair = cardPair;
+			first.setCard(cardPair.first());
+			second.setCard(cardPair.second());
 		}
 
 		PrintingPair build(WholePrinting whole) {
