@@ -49,6 +49,10 @@ public abstract class WholePrinting implements Iterable<Printing> {
 		return isTimeshifted;
 	}
 
+	@Override public String toString() {
+		return card().name() + " (" + expansion().code() + ":" + rarity().code() + ")";
+	}
+
 	public final void print() {
 		try {
 			writeTo(System.out);
@@ -93,11 +97,6 @@ public abstract class WholePrinting implements Iterable<Printing> {
 		@Override public Iterator<Printing> iterator() {
 			return Iterators.singletonIterator(printing);
 		}
-
-		@Override public String toString() {
-			// TODO
-			return card().name() + " (" + expansion().code() + ":" + rarity().code() + ")";
-		}
 	}
 
 	private static final class CompositePrinting extends WholePrinting {
@@ -133,11 +132,6 @@ public abstract class WholePrinting implements Iterable<Printing> {
 
 		@Override public Iterator<Printing> iterator() {
 			return printings.iterator();
-		}
-
-		@Override public String toString() {
-			// TODO
-			return null;
 		}
 	}
 

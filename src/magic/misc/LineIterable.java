@@ -29,7 +29,6 @@ public class LineIterable implements Iterable<String> {
 					throw new AssertionError(e);
 				}
 			}
-
 		};
 	}
 

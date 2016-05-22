@@ -1,13 +1,11 @@
 package magic.misc;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.EnumSet;
+import java.util.List;
 import java.util.Set;
-
-import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Sets;
-import com.google.gson.stream.JsonReader;
-import com.google.gson.stream.JsonWriter;
 
 import magic.Card;
 import magic.CardPair;
@@ -19,6 +17,11 @@ import magic.Supertype;
 import magic.Type;
 import magic.WholeCard;
 import magic.WholeCard.Builder;
+
+import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Sets;
+import com.google.gson.stream.JsonReader;
+import com.google.gson.stream.JsonWriter;
 
 public class JsonCardConverter {
 
@@ -38,6 +41,14 @@ public class JsonCardConverter {
 	private static final String PAIR = "pair";
 	private static final String LAYOUT = "layout";
 	private static final String PARTS = "parts";
+
+	public static void writeCards(JsonWriter out, Iterable<WholeCard> cards) throws IOException {
+		out.beginArray();
+		for (WholeCard card : cards) {
+			writeCard(out, card);
+		}
+		out.endArray();
+	}
 
 	public static void writeCard(JsonWriter out, WholeCard wholeCard)
 			throws IOException {
@@ -112,6 +123,16 @@ public class JsonCardConverter {
 			out.value(s);
 		}
 		out.endArray();
+	}
+
+	public static Collection<WholeCard> readCards(JsonReader in) throws IOException {
+		List<WholeCard> cards = new ArrayList<>();
+		in.beginArray();
+		while (in.hasNext()) {
+			cards.add(readCard(in));
+		}
+		in.endArray();
+		return cards;
 	}
 
 	public static WholeCard readCard(JsonReader in) throws IOException {

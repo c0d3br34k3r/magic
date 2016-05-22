@@ -56,8 +56,7 @@ public final class Printing {
 	}
 
 	@Override public String toString() {
-		// TODO
-		return null;
+		return card.name() + " (" + whole.expansion().code() + ":" + whole.rarity().code() + ")";
 	}
 
 	private static final Joiner SPACE_JOINER = Joiner.on(' ');

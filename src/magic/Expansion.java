@@ -25,11 +25,11 @@ public final class Expansion implements Comparable<Expansion> {
 	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
 
 	private Expansion(Builder builder) {
-		this.name = builder.name;
-		this.code = builder.code;
-		this.releaseDate = builder.releaseDate;
-		this.type = builder.type;
-		this.borderColor = builder.borderColor;
+		this.name = Objects.requireNonNull(builder.name);
+		this.code = Objects.requireNonNull(builder.code);
+		this.releaseDate = Objects.requireNonNull(builder.releaseDate);
+		this.type = Objects.requireNonNull(builder.type);
+		this.borderColor = Objects.requireNonNull(builder.borderColor);
 		this.hasCollectorNumbers = builder.hasCollectorNumbers;
 		this.onlineOnly = builder.onlineOnly;
 		this.hasBooster = builder.hasBooster;
@@ -149,11 +149,12 @@ public final class Expansion implements Comparable<Expansion> {
 		DUEL_DECKS,
 		PORTAL,
 		STARTER,
-		MASTERS_EDITION,
+		MASTERS,
 		FROM_THE_VAULT,
 		PREMIUM_DECK_SERIES,
 		COMMANDER,
 		PLANECHASE,
+		CONSPIRACY,
 		OTHER;
 	}
 

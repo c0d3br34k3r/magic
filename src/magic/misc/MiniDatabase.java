@@ -11,6 +11,7 @@ import java.util.Collection;
 import java.util.List;
 
 import magic.Card;
+import magic.Expansion;
 import magic.WholeCard;
 
 import com.google.common.collect.ImmutableSortedMap;
@@ -21,23 +22,30 @@ import com.google.gson.stream.JsonReader;
 public class MiniDatabase {
 
 	private final ImmutableSortedMap<String, WholeCard> cards;
+	private final ImmutableSortedMap<String, Expansion> expansions;
 
 	public MiniDatabase(String filename) throws IOException {
 		this(Paths.get(filename));
 	}
 
 	public MiniDatabase(Path path) throws IOException {
-		Builder<String, WholeCard> builder =
+		Builder<String, WholeCard> cardBuilder =
+				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
+		Builder<String, Expansion> expansionBuilder =
 				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
 		try (JsonReader in = new JsonReader(Files.newBufferedReader(path, StandardCharsets.UTF_8))) {
 			in.beginArray();
-			while (in.hasNext()) {
-				WholeCard card = JsonCardConverter.readCard(in);
-				builder.put(Diacritics.remove(card.name()), card);
+			for (WholeCard card : JsonCardConverter.readCards(in)) {
+				cardBuilder.put(Diacritics.remove(card.name()), card);
 			}
+			cards = cardBuilder.build();
+			for (Expansion expansion : JsonExpansionConverter.readExpansions(in, cards)) {
+				expansionBuilder.put(expansion.code(), expansion);
+			}
+			expansions = expansionBuilder.build();
+			JsonBlockConverter.readBlocks(in, expansions);
 			in.endArray();
 		}
-		cards = builder.build();
 	}
 
 	public WholeCard card(String name) {
@@ -50,6 +58,14 @@ public class MiniDatabase {
 
 	public Iterable<Card> cards() {
 		return Iterables.concat(cards.values());
+	}
+	
+	public Expansion expansion(String code) {
+		return expansions.get(code);
+	}
+	
+	public Collection<Expansion> expansions() {
+		return expansions.values();
 	}
 
 	public Collection<WholeCard> readCards(String filename) throws IOException {

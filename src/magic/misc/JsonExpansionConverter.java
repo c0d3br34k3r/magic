@@ -1,17 +1,23 @@
 package magic.misc;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Collection;
+import java.util.List;
+import java.util.Map;
 import java.util.Map.Entry;
 
-import org.joda.time.LocalDate;
-
+import magic.CollectorNumber;
 import magic.Expansion;
-import magic.Expansion.Builder;
+import magic.Expansion.BorderColor;
+import magic.Expansion.ReleaseType;
 import magic.Printing;
 import magic.PrintingPair;
+import magic.Rarity;
 import magic.WholeCard;
 import magic.WholePrinting;
+
+import org.joda.time.LocalDate;
 
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
@@ -37,6 +43,14 @@ public class JsonExpansionConverter {
 	private static final String ARTIST = "artist";
 	private static final String COLLECTOR_NUMBER = "collectorNumber";
 	private static final String WATERMARK = "watermark";
+
+	public static void writeExpansions(JsonWriter out, Iterable<Expansion> expansions) throws IOException {
+		out.beginArray();
+		for (Expansion expansion : expansions) {
+			writeExpansion(out, expansion);
+		}
+		out.endArray();
+	}
 
 	public static void writeExpansion(JsonWriter out, Expansion expansion) throws IOException {
 		out.beginObject();
@@ -100,8 +114,20 @@ public class JsonExpansionConverter {
 		}
 		out.endObject();
 	}
-	
-	public static Expansion readExpansion(JsonReader in) throws IOException {
+
+	public static Collection<Expansion> readExpansions(JsonReader in, Map<String, WholeCard> cards)
+			throws IOException {
+		List<Expansion> expansions = new ArrayList<>();
+		in.beginArray();
+		while (in.hasNext()) {
+			expansions.add(readExpansion(in, cards));
+		}
+		in.endArray();
+		return expansions;
+	}
+
+	public static Expansion readExpansion(JsonReader in, Map<String, WholeCard> cards)
+			throws IOException {
 		Expansion.Builder builder = Expansion.builder();
 		in.beginObject();
 		while (in.hasNext()) {
@@ -115,12 +141,102 @@ public class JsonExpansionConverter {
 					break;
 				case RELEASE_DATE:
 					builder.setReleaseDate(LocalDate.parse(in.nextString()));
+					break;
+				case TYPE:
+					builder.setType(ReleaseType.valueOf(in.nextString()));
+					break;
+				case BORDER_COLOR:
+					builder.setBorderColor(BorderColor.valueOf(in.nextString()));
+					break;
+				case COLLECTOR_NUMBERS:
+					builder.setHasCollectorNumbers(in.nextBoolean());
+					break;
+				case ONLINE_ONLY:
+					builder.setOnlineOnly(in.nextBoolean());
+					break;
+				case BOOSTER:
+					builder.setHasBooster(in.nextBoolean());
+					break;
+				case PRINTINGS:
+					builder.setPrintings(readPrintings(in, cards));
+					break;
 				default:
 					throw new IllegalArgumentException(key);
 			}
 		}
 		in.endObject();
 		return builder.build();
+	}
+
+	private static Iterable<WholePrinting.Builder> readPrintings(JsonReader in,
+			Map<String, WholeCard> cards) throws IOException {
+		List<WholePrinting.Builder> printings = new ArrayList<>();
+		in.beginObject();
+		while (in.hasNext()) {
+			WholeCard card = cards.get(Diacritics.remove(in.nextName()));
+			in.beginArray();
+			int index = 0;
+			while (in.hasNext()) {
+				WholePrinting.Builder builder = WholePrinting.builder();
+				builder.setCard(card);
+				builder.setVariation(index++);
+				in.beginObject();
+				while (in.hasNext()) {
+					String key = in.nextName();
+					switch (key) {
+						case RARITY:
+							builder.setRarity(Rarity.valueOf(in.nextString()));
+							break;
+						case TIMESHIFTED:
+							builder.setTimeshifted(in.nextBoolean());
+							break;
+						case ONLY:
+							builder.setOnly(readPartial(in));
+							break;
+						case PAIR:
+							in.beginArray();
+							builder.setPair(PrintingPair.builder()
+									.setFirst(readPartial(in))
+									.setSecond(readPartial(in)));
+							in.endArray();
+							break;
+						default:
+							throw new IllegalArgumentException(key);
+					}
+				}
+				printings.add(builder);
+				in.endObject();
+			}
+			in.endArray();
+		}
+		in.endObject();
+		return printings;
+	}
+
+	private static Printing.Builder readPartial(JsonReader in) throws IOException {
+		Printing.Builder builder = Printing.builder();
+		in.beginObject();
+		while (in.hasNext()) {
+			String key = in.nextName();
+			switch (key) {
+				case FLAVOR_TEXT:
+					builder.setFlavorText(in.nextString());
+					break;
+				case ARTIST:
+					builder.setArtist(in.nextString());
+					break;
+				case COLLECTOR_NUMBER:
+					builder.setCollectorNumber(CollectorNumber.parse(in.nextString()));
+					break;
+				case WATERMARK:
+					builder.setWatermark(in.nextString());
+					break;
+				default:
+					throw new IllegalArgumentException(key);
+			}
+		}
+		in.endObject();
+		return builder;
 	}
 
 }
