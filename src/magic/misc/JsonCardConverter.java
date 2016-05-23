@@ -101,8 +101,6 @@ public class JsonCardConverter {
 		}
 		if (card.power() != null) {
 			out.name(POWER).value(card.power().toString());
-		}
-		if (card.toughness() != null) {
 			out.name(TOUGHNESS).value(card.toughness().toString());
 		}
 		out.endObject();

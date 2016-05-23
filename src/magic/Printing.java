@@ -100,6 +100,11 @@ public final class Printing {
 		} else if (card.loyalty() != null) {
 			out.append(Integer.toString(card.loyalty())).append(newline);
 		}
+		if (collectorNumber != null) {
+			// TODO: fix this
+			out.append(collectorNumber.toString()).append('/')
+					.append(String.valueOf(whole.expansion().size())).append(' ');
+		}
 		out.append("Illus. ").append(artist);
 		out.append(newline);
 	}

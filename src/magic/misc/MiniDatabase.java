@@ -11,7 +11,7 @@ import java.util.Collection;
 import java.util.List;
 
 import magic.Card;
-import magic.Expansion;
+//import magic.Expansion;
 import magic.WholeCard;
 
 import com.google.common.collect.ImmutableSortedMap;
@@ -22,7 +22,7 @@ import com.google.gson.stream.JsonReader;
 public class MiniDatabase {
 
 	private final ImmutableSortedMap<String, WholeCard> cards;
-	private final ImmutableSortedMap<String, Expansion> expansions;
+//	private final ImmutableSortedMap<String, Expansion> expansions;
 
 	public MiniDatabase(String filename) throws IOException {
 		this(Paths.get(filename));
@@ -31,20 +31,20 @@ public class MiniDatabase {
 	public MiniDatabase(Path path) throws IOException {
 		Builder<String, WholeCard> cardBuilder =
 				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
-		Builder<String, Expansion> expansionBuilder =
-				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
+//		Builder<String, Expansion> expansionBuilder =
+//				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
 		try (JsonReader in = new JsonReader(Files.newBufferedReader(path, StandardCharsets.UTF_8))) {
-			in.beginArray();
+//			in.beginArray();
 			for (WholeCard card : JsonCardConverter.readCards(in)) {
 				cardBuilder.put(Diacritics.remove(card.name()), card);
 			}
 			cards = cardBuilder.build();
-			for (Expansion expansion : JsonExpansionConverter.readExpansions(in, cards)) {
-				expansionBuilder.put(expansion.code(), expansion);
-			}
-			expansions = expansionBuilder.build();
-			JsonBlockConverter.readBlocks(in, expansions);
-			in.endArray();
+//			for (Expansion expansion : JsonExpansionConverter.readExpansions(in, cards)) {
+//				expansionBuilder.put(expansion.code(), expansion);
+//			}
+//			expansions = expansionBuilder.build();
+//			JsonBlockConverter.readBlocks(in, expansions);
+//			in.endArray();
 		}
 	}
 
@@ -60,13 +60,13 @@ public class MiniDatabase {
 		return Iterables.concat(cards.values());
 	}
 	
-	public Expansion expansion(String code) {
-		return expansions.get(code);
-	}
+//	public Expansion expansion(String code) {
+//		return expansions.get(code);
+//	}
 	
-	public Collection<Expansion> expansions() {
-		return expansions.values();
-	}
+//	public Collection<Expansion> expansions() {
+//		return expansions.values();
+//	}
 
 	public Collection<WholeCard> readCards(String filename) throws IOException {
 		return readCards(Paths.get(filename));

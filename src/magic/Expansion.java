@@ -16,7 +16,6 @@ public final class Expansion implements Comparable<Expansion> {
 	private final LocalDate releaseDate;
 	private final ReleaseType type;
 	private final BorderColor borderColor;
-	private final boolean hasBooster;
 	private final @Nullable Integer size;
 
 	private Expansion(Builder builder) {
@@ -25,7 +24,6 @@ public final class Expansion implements Comparable<Expansion> {
 		this.releaseDate = Objects.requireNonNull(builder.releaseDate);
 		this.type = Objects.requireNonNull(builder.type);
 		this.borderColor = Objects.requireNonNull(builder.borderColor);
-		this.hasBooster = builder.hasBooster;
 		this.size = builder.size;
 	}
 
@@ -47,10 +45,6 @@ public final class Expansion implements Comparable<Expansion> {
 
 	public BorderColor borderColor() {
 		return borderColor;
-	}
-
-	public boolean hasBooster() {
-		return hasBooster;
 	}
 
 	public @Nullable Integer size() {
@@ -86,25 +80,40 @@ public final class Expansion implements Comparable<Expansion> {
 	}
 
 	public enum ReleaseType {
-		CORE_SET,
-		EXPANSION,
+		CORE_SET(true),
+		EXPANSION(true),
 		WELCOME_DECK,
-		STARTER,
+
+		STARTER(true),
 		PROMOTIONAL,
-		
-		ONLINE,
-		
+
+		ONLINE(true),
+
 		DUEL_DECKS,
 		FROM_THE_VAULT,
 		PLANECHASE,
 		PREMIUM_DECK,
 		ARCHENEMY,
 		COMMANDER,
-		MODERN_MASTERS,
+		MODERN_MASTERS(true),
 		MODERN_EVENT_DECK,
-		CONSPIRACY,
-		
+		CONSPIRACY(true),
+
 		OTHER_BOX;
+
+		private boolean hasBooster;
+
+		ReleaseType(boolean hasBooster) {
+			this.hasBooster = hasBooster;
+		}
+
+		ReleaseType() {
+			this(false);
+		}
+
+		public boolean hasBooster() {
+			return hasBooster;
+		}
 	}
 
 	public static class Builder {
@@ -114,7 +123,6 @@ public final class Expansion implements Comparable<Expansion> {
 		private LocalDate releaseDate;
 		private ReleaseType type;
 		private BorderColor borderColor;
-		public boolean hasBooster;
 		public Integer size;
 
 		private Builder() {}
@@ -144,11 +152,6 @@ public final class Expansion implements Comparable<Expansion> {
 			return this;
 		}
 
-		public Builder setHasBooster(boolean hasBooster) {
-			this.hasBooster = hasBooster;
-			return this;
-		}
-
 		public Builder setSize(@Nullable Integer size) {
 			this.size = size;
 			return this;
@@ -157,7 +160,6 @@ public final class Expansion implements Comparable<Expansion> {
 		public Expansion build() {
 			return new Expansion(this);
 		}
-
 	}
 
 }

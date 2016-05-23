@@ -2,6 +2,7 @@ package magic.misc;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 
@@ -9,9 +10,10 @@ import org.joda.time.LocalDate;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableList.Builder;
-import com.google.common.collect.ImmutableListMultimap;
-import com.google.common.collect.ListMultimap;
+import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
+import com.google.common.collect.SortedSetMultimap;
+import com.google.common.collect.TreeMultimap;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 
@@ -32,7 +34,6 @@ public class JsonExpansionConverter {
 	private static final String RELEASE_DATE = "releaseDate";
 	private static final String TYPE = "type";
 	private static final String BORDER_COLOR = "borderColor";
-	private static final String BOOSTER = "booster";
 	private static final String SIZE = "size";
 
 	private static final String EXPANSION = "expansion";
@@ -62,30 +63,30 @@ public class JsonExpansionConverter {
 		out.name(RELEASE_DATE).value(expansion.releaseDate().toString());
 		out.name(TYPE).value(expansion.type().name());
 		out.name(BORDER_COLOR).value(expansion.borderColor().name());
-		if (expansion.hasBooster()) {
-			out.name(BOOSTER).value(true);
-		}
 		if (expansion.size() != null) {
 			out.name(SIZE).value(expansion.size());
 		}
 		out.endObject();
 	}
 
-	public static void writePrintings(JsonWriter out,
-			ListMultimap<WholeCard, WholePrinting> printings) throws IOException {
+	public static void writePrintings(JsonWriter out, Multimap<WholeCard, WholePrinting> printings)
+			throws IOException {
 		out.beginObject();
-		for (Map.Entry<WholeCard, List<WholePrinting>> entry : Multimaps.asMap(printings)
+		for (Map.Entry<WholeCard, Collection<WholePrinting>> entry : Multimaps.asMap(printings)
 				.entrySet()) {
 			out.name(entry.getKey().name());
+			out.beginArray();
 			for (WholePrinting printing : entry.getValue()) {
 				writePrinting(out, printing);
 			}
+			out.endArray();
 		}
 		out.endObject();
 	}
 
 	private static void writePrinting(JsonWriter out, WholePrinting printing) throws IOException {
 		out.beginObject();
+		out.name(EXPANSION).value(printing.expansion().code());
 		out.name(RARITY).value(printing.rarity().name());
 		if (printing.isTimeshifted()) {
 			out.name(TIMESHIFTED).value(true);
@@ -151,9 +152,6 @@ public class JsonExpansionConverter {
 				case BORDER_COLOR:
 					builder.setBorderColor(BorderColor.valueOf(in.nextString()));
 					break;
-				case BOOSTER:
-					builder.setHasBooster(in.nextBoolean());
-					break;
 				case SIZE:
 					builder.setSize(in.nextInt());
 					break;
@@ -165,54 +163,62 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	public static ImmutableListMultimap<WholeCard, WholePrinting> readPrintings(JsonReader in,
-			Map<String, WholeCard> cards, Map<String, Expansion> expansions) throws IOException {
-		ImmutableListMultimap.Builder<WholeCard, WholePrinting> mapBuilder =
-				ImmutableListMultimap.builder();
-		in.beginObject();
+	public static SortedSetMultimap<WholeCard, WholePrinting> readPrintings(
+			JsonReader in,
+			Map<String, WholeCard> cards, 
+			Map<String, Expansion> expansions) throws IOException {
+		SortedSetMultimap<WholeCard, WholePrinting> mapBuilder = TreeMultimap.create();
 		while (in.hasNext()) {
 			WholeCard card = cards.get(Diacritics.remove(in.nextName()));
 			List<WholePrinting> printings = new ArrayList<>();
 			in.beginArray();
 			int index = 0;
 			while (in.hasNext()) {
-				WholePrinting.Builder builder = WholePrinting.builder();
-				builder.setCard(card);
-				builder.setVariation(index++);
-				in.beginObject();
-				while (in.hasNext()) {
-					String key = in.nextName();
-					switch (key) {
-						case EXPANSION:
-							builder.setExpansion(expansions.get(in.nextString()));
-							break;
-						case RARITY:
-							builder.setRarity(Rarity.valueOf(in.nextString()));
-							break;
-						case TIMESHIFTED:
-							builder.setTimeshifted(in.nextBoolean());
-							break;
-						case ONLY:
-							builder.setOnly(readPartial(in));
-							break;
-						case PAIR:
-							in.beginArray();
-							builder.setPair(PrintingPair.builder()
-									.setFirst(readPartial(in))
-									.setSecond(readPartial(in)));
-							in.endArray();
-							break;
-						default:
-							throw new IllegalArgumentException(key);
-					}
-				}
-				printings.add(builder.build());
-				in.endObject();
+				printings.add(readPrinting(in, expansions, card, index++));
 			}
 			in.endArray();
 		}
 		in.endObject();
-		return mapBuilder.build();
+		return Multimaps.unmodifiableSortedSetMultimap(mapBuilder);
+	}
+
+	private static WholePrinting readPrinting(
+			JsonReader in, 
+			Map<String, Expansion> expansions,
+			WholeCard card, 
+			int index) throws IOException {
+		WholePrinting.Builder builder = WholePrinting.builder();
+		builder.setCard(card);
+		builder.setVariation(index);
+		in.beginObject();
+		while (in.hasNext()) {
+			String key = in.nextName();
+			switch (key) {
+				case EXPANSION:
+					builder.setExpansion(expansions.get(in.nextString()));
+					break;
+				case RARITY:
+					builder.setRarity(Rarity.valueOf(in.nextString()));
+					break;
+				case TIMESHIFTED:
+					builder.setTimeshifted(in.nextBoolean());
+					break;
+				case ONLY:
+					builder.setOnly(readPartial(in));
+					break;
+				case PAIR:
+					in.beginArray();
+					builder.setPair(PrintingPair.builder()
+							.setFirst(readPartial(in))
+							.setSecond(readPartial(in)));
+					in.endArray();
+					break;
+				default:
+					throw new IllegalArgumentException(key);
+			}
+		}
+		in.endObject();
+		return builder.build();
 	}
 
 	private static Printing.Builder readPartial(JsonReader in) throws IOException {

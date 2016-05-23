@@ -7,7 +7,7 @@ import java.util.Objects;
 
 import com.google.common.collect.Iterators;
 
-public abstract class WholePrinting implements Iterable<Printing> {
+public abstract class WholePrinting implements Comparable<WholePrinting>, Iterable<Printing> {
 
 	private final WholeCard card;
 	private final Expansion expansion;
@@ -51,6 +51,11 @@ public abstract class WholePrinting implements Iterable<Printing> {
 
 	@Override public String toString() {
 		return card().name() + " (" + expansion().code() + ":" + rarity().code() + ")";
+	}
+
+	@Override public int compareTo(WholePrinting o) {
+		int expansionCmp = expansion.compareTo(o.expansion);
+		return expansionCmp == 0 ? Integer.compare(variation, o.variation) : expansionCmp;
 	}
 
 	public final void print() {

@@ -28,7 +28,6 @@ public final class Card implements Comparable<Card> {
 	private Card(Builder builder) {
 		this.whole = builder.getWhole();
 		this.link = builder.buildLink(this);
-
 		this.name = Objects.requireNonNull(builder.name);
 		this.manaCost = builder.manaCost;
 		this.colorIndicator = builder.colorIndicator;

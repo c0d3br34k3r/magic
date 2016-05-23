@@ -22,6 +22,16 @@ public class Diacritics {
 					.put('‘', "'")
 					.put('•', "*")
 					.put('−', "-")
+
+//					.put('ê', "e")
+//					.put('ü', "u")
+//					.put('Ä', "a")
+//					.put('è', "e")
+//					.put('æ', "ae")
+//					.put('–', "ae")
+//					.put('°', "deg")
+//					.put('²', "^2")
+
 					.build();
 
 	private static final CharMatcher NON_ASCII = CharMatcher.ASCII.negate();
@@ -35,7 +45,11 @@ public class Diacritics {
 		StringBuilder result = new StringBuilder();
 		do {
 			result.append(input.substring(begin, end));
-			result.append(REPLACEMENTS.get(input.charAt(end)));
+			String replacement = REPLACEMENTS.get(input.charAt(end));
+			if (replacement == null) {
+				throw new IllegalArgumentException(input.charAt(end) + " in " + input);
+			}
+			result.append(replacement);
 			begin = end + 1;
 			end = NON_ASCII.indexIn(input, begin);
 		} while (end != -1);
