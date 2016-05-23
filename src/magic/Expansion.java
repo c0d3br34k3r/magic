@@ -1,13 +1,10 @@
 package magic;
 
-import java.util.List;
 import java.util.Objects;
 
-import org.joda.time.LocalDate;
+import javax.annotation.Nullable;
 
-import com.google.common.base.Function;
-import com.google.common.collect.ImmutableListMultimap;
-import com.google.common.collect.Lists;
+import org.joda.time.LocalDate;
 
 /**
  * TODO
@@ -19,10 +16,8 @@ public final class Expansion implements Comparable<Expansion> {
 	private final LocalDate releaseDate;
 	private final ReleaseType type;
 	private final BorderColor borderColor;
-	private final boolean hasCollectorNumbers;
-	private final boolean onlineOnly;
 	private final boolean hasBooster;
-	private final ImmutableListMultimap<WholeCard, WholePrinting> printings;
+	private final @Nullable Integer size;
 
 	private Expansion(Builder builder) {
 		this.name = Objects.requireNonNull(builder.name);
@@ -30,60 +25,12 @@ public final class Expansion implements Comparable<Expansion> {
 		this.releaseDate = Objects.requireNonNull(builder.releaseDate);
 		this.type = Objects.requireNonNull(builder.type);
 		this.borderColor = Objects.requireNonNull(builder.borderColor);
-		this.hasCollectorNumbers = builder.hasCollectorNumbers;
-		this.onlineOnly = builder.onlineOnly;
 		this.hasBooster = builder.hasBooster;
-
-		ImmutableListMultimap.Builder<WholeCard, WholePrinting> printingsBuilder =
-				ImmutableListMultimap.builder();
-		for (WholePrinting.Builder printing : builder.printings) {
-			printing.setExpansion(this);
-			WholePrinting wholePrinting = printing.build();
-			printingsBuilder.put(wholePrinting.card(), wholePrinting);
-		}
-		this.printings = printingsBuilder.build();
+		this.size = builder.size;
 	}
 
 	public String name() {
 		return name;
-	}
-
-	public ImmutableListMultimap<WholeCard, WholePrinting> printings() {
-		return printings;
-	}
-
-	public List<Printing> printingsOf(Card card) {
-		return Lists.transform(printings.get(card.whole()), transform(card));
-	}
-
-	private static Function<? super WholePrinting, ? extends Printing> transform(
-			Card card) {
-		if (card.link() == null) {
-			return TRANSFORM_ONLY;
-		}
-		if (card.link().isFirst()) {
-			return TRANSFORM_FIRST;
-		}
-		return TRANSFORM_SECOND;
-	}
-
-	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_ONLY =
-			new Function<WholePrinting, Printing>() {
-				@Override public Printing apply(WholePrinting input) {
-					return input.only();
-				}
-			};
-
-	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_FIRST = transformPart(0);
-
-	private static final Function<? super WholePrinting, ? extends Printing> TRANSFORM_SECOND = transformPart(1);
-
-	private static final Function<? super WholePrinting, ? extends Printing> transformPart(final int index) {
-		return new Function<WholePrinting, Printing>() {
-			@Override public Printing apply(WholePrinting input) {
-				return input.pair().get(index);
-			}
-		};
 	}
 
 	public String code() {
@@ -102,16 +49,12 @@ public final class Expansion implements Comparable<Expansion> {
 		return borderColor;
 	}
 
-	public boolean hasCollectorNumbers() {
-		return hasCollectorNumbers;
-	}
-
-	public boolean onlineOnly() {
-		return onlineOnly;
-	}
-
 	public boolean hasBooster() {
 		return hasBooster;
+	}
+
+	public @Nullable Integer size() {
+		return size;
 	}
 
 	/**
@@ -145,40 +88,39 @@ public final class Expansion implements Comparable<Expansion> {
 	public enum ReleaseType {
 		CORE_SET,
 		EXPANSION,
-		PROMOTIONAL,
-		DUEL_DECKS,
-		PORTAL,
+		WELCOME_DECK,
 		STARTER,
-		MASTERS,
+		PROMOTIONAL,
+		
+		ONLINE,
+		
+		DUEL_DECKS,
 		FROM_THE_VAULT,
-		PREMIUM_DECK_SERIES,
-		COMMANDER,
 		PLANECHASE,
+		PREMIUM_DECK,
+		ARCHENEMY,
+		COMMANDER,
+		MODERN_MASTERS,
+		MODERN_EVENT_DECK,
 		CONSPIRACY,
-		OTHER;
+		
+		OTHER_BOX;
 	}
 
 	public static class Builder {
 
 		private String name;
-		private Iterable<WholePrinting.Builder> printings;
 		private String code;
 		private LocalDate releaseDate;
 		private ReleaseType type;
 		private BorderColor borderColor;
-		private boolean hasCollectorNumbers = false;
-		private boolean onlineOnly = false;
-		private boolean hasBooster = false;
+		public boolean hasBooster;
+		public Integer size;
 
 		private Builder() {}
 
 		public Builder setName(String name) {
 			this.name = name;
-			return this;
-		}
-
-		public Builder setPrintings(Iterable<WholePrinting.Builder> list) {
-			this.printings = Objects.requireNonNull(list);
 			return this;
 		}
 
@@ -202,18 +144,13 @@ public final class Expansion implements Comparable<Expansion> {
 			return this;
 		}
 
-		public Builder setHasCollectorNumbers(boolean hasCollectorNumbers) {
-			this.hasCollectorNumbers = hasCollectorNumbers;
-			return this;
-		}
-
-		public Builder setOnlineOnly(boolean onlineOnly) {
-			this.onlineOnly = onlineOnly;
-			return this;
-		}
-
 		public Builder setHasBooster(boolean hasBooster) {
 			this.hasBooster = hasBooster;
+			return this;
+		}
+
+		public Builder setSize(@Nullable Integer size) {
+			this.size = size;
 			return this;
 		}
 

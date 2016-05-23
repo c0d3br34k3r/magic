@@ -162,6 +162,11 @@ public abstract class WholePrinting implements Iterable<Printing> {
 			return this;
 		}
 
+		public Builder setExpansion(Expansion expansion) {
+			this.expansion = Objects.requireNonNull(expansion);
+			return this;
+		}
+
 		public Builder setRarity(Rarity rarity) {
 			this.rarity = Objects.requireNonNull(rarity);
 			return this;
@@ -177,11 +182,7 @@ public abstract class WholePrinting implements Iterable<Printing> {
 			return this;
 		}
 
-		void setExpansion(Expansion expansion) {
-			this.expansion = expansion;
-		}
-
-		WholePrinting build() {
+		public WholePrinting build() {
 			if (!(only == null ^ pair == null)) {
 				throw new IllegalArgumentException();
 			}

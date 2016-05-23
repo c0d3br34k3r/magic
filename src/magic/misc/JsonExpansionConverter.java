@@ -2,10 +2,18 @@ package magic.misc;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
+
+import org.joda.time.LocalDate;
+
+import com.google.common.collect.ImmutableList;
+import com.google.common.collect.ImmutableList.Builder;
+import com.google.common.collect.ImmutableListMultimap;
+import com.google.common.collect.ListMultimap;
+import com.google.common.collect.Multimaps;
+import com.google.gson.stream.JsonReader;
+import com.google.gson.stream.JsonWriter;
 
 import magic.CollectorNumber;
 import magic.Expansion;
@@ -17,11 +25,6 @@ import magic.Rarity;
 import magic.WholeCard;
 import magic.WholePrinting;
 
-import org.joda.time.LocalDate;
-
-import com.google.gson.stream.JsonReader;
-import com.google.gson.stream.JsonWriter;
-
 public class JsonExpansionConverter {
 
 	private static final String NAME = "name";
@@ -29,11 +32,10 @@ public class JsonExpansionConverter {
 	private static final String RELEASE_DATE = "releaseDate";
 	private static final String TYPE = "type";
 	private static final String BORDER_COLOR = "borderColor";
-	private static final String COLLECTOR_NUMBERS = "collectorNumbers";
-	private static final String ONLINE_ONLY = "onlineOnly";
 	private static final String BOOSTER = "booster";
-	private static final String PRINTINGS = "printings";
+	private static final String SIZE = "size";
 
+	private static final String EXPANSION = "expansion";
 	private static final String RARITY = "rarity";
 	private static final String TIMESHIFTED = "timeshifted";
 	private static final String ONLY = "only";
@@ -44,7 +46,8 @@ public class JsonExpansionConverter {
 	private static final String COLLECTOR_NUMBER = "collectorNumber";
 	private static final String WATERMARK = "watermark";
 
-	public static void writeExpansions(JsonWriter out, Iterable<Expansion> expansions) throws IOException {
+	public static void writeExpansions(JsonWriter out, Iterable<Expansion> expansions)
+			throws IOException {
 		out.beginArray();
 		for (Expansion expansion : expansions) {
 			writeExpansion(out, expansion);
@@ -59,25 +62,25 @@ public class JsonExpansionConverter {
 		out.name(RELEASE_DATE).value(expansion.releaseDate().toString());
 		out.name(TYPE).value(expansion.type().name());
 		out.name(BORDER_COLOR).value(expansion.borderColor().name());
-		if (expansion.hasCollectorNumbers()) {
-			out.name(COLLECTOR_NUMBERS).value(true);
-		}
-		if (expansion.onlineOnly()) {
-			out.name(ONLINE_ONLY).value(true);
-		}
 		if (expansion.hasBooster()) {
 			out.name(BOOSTER).value(true);
 		}
-		out.name(PRINTINGS).beginObject();
-		for (Entry<WholeCard, Collection<WholePrinting>> entry : expansion.printings().asMap()
+		if (expansion.size() != null) {
+			out.name(SIZE).value(expansion.size());
+		}
+		out.endObject();
+	}
+
+	public static void writePrintings(JsonWriter out,
+			ListMultimap<WholeCard, WholePrinting> printings) throws IOException {
+		out.beginObject();
+		for (Map.Entry<WholeCard, List<WholePrinting>> entry : Multimaps.asMap(printings)
 				.entrySet()) {
-			out.name(entry.getKey().name()).beginArray();
+			out.name(entry.getKey().name());
 			for (WholePrinting printing : entry.getValue()) {
 				writePrinting(out, printing);
 			}
-			out.endArray();
 		}
-		out.endObject();
 		out.endObject();
 	}
 
@@ -115,15 +118,15 @@ public class JsonExpansionConverter {
 		out.endObject();
 	}
 
-	public static Collection<Expansion> readExpansions(JsonReader in, Map<String, WholeCard> cards)
-			throws IOException {
-		List<Expansion> expansions = new ArrayList<>();
+	public static ImmutableList<Expansion> readExpansions(JsonReader in,
+			Map<String, WholeCard> cards) throws IOException {
+		Builder<Expansion> builder = ImmutableList.builder();
 		in.beginArray();
 		while (in.hasNext()) {
-			expansions.add(readExpansion(in, cards));
+			builder.add(readExpansion(in, cards));
 		}
 		in.endArray();
-		return expansions;
+		return builder.build();
 	}
 
 	public static Expansion readExpansion(JsonReader in, Map<String, WholeCard> cards)
@@ -148,17 +151,11 @@ public class JsonExpansionConverter {
 				case BORDER_COLOR:
 					builder.setBorderColor(BorderColor.valueOf(in.nextString()));
 					break;
-				case COLLECTOR_NUMBERS:
-					builder.setHasCollectorNumbers(in.nextBoolean());
-					break;
-				case ONLINE_ONLY:
-					builder.setOnlineOnly(in.nextBoolean());
-					break;
 				case BOOSTER:
 					builder.setHasBooster(in.nextBoolean());
 					break;
-				case PRINTINGS:
-					builder.setPrintings(readPrintings(in, cards));
+				case SIZE:
+					builder.setSize(in.nextInt());
 					break;
 				default:
 					throw new IllegalArgumentException(key);
@@ -168,12 +165,14 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	private static Iterable<WholePrinting.Builder> readPrintings(JsonReader in,
-			Map<String, WholeCard> cards) throws IOException {
-		List<WholePrinting.Builder> printings = new ArrayList<>();
+	public static ImmutableListMultimap<WholeCard, WholePrinting> readPrintings(JsonReader in,
+			Map<String, WholeCard> cards, Map<String, Expansion> expansions) throws IOException {
+		ImmutableListMultimap.Builder<WholeCard, WholePrinting> mapBuilder =
+				ImmutableListMultimap.builder();
 		in.beginObject();
 		while (in.hasNext()) {
 			WholeCard card = cards.get(Diacritics.remove(in.nextName()));
+			List<WholePrinting> printings = new ArrayList<>();
 			in.beginArray();
 			int index = 0;
 			while (in.hasNext()) {
@@ -184,6 +183,9 @@ public class JsonExpansionConverter {
 				while (in.hasNext()) {
 					String key = in.nextName();
 					switch (key) {
+						case EXPANSION:
+							builder.setExpansion(expansions.get(in.nextString()));
+							break;
 						case RARITY:
 							builder.setRarity(Rarity.valueOf(in.nextString()));
 							break;
@@ -204,13 +206,13 @@ public class JsonExpansionConverter {
 							throw new IllegalArgumentException(key);
 					}
 				}
-				printings.add(builder);
+				printings.add(builder.build());
 				in.endObject();
 			}
 			in.endArray();
 		}
 		in.endObject();
-		return printings;
+		return mapBuilder.build();
 	}
 
 	private static Printing.Builder readPartial(JsonReader in) throws IOException {

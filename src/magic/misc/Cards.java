@@ -17,6 +17,7 @@ import com.google.common.collect.Sets;
 
 import magic.Card;
 import magic.Expansion;
+import magic.Expansion.ReleaseType;
 import magic.Layout;
 import magic.ManaSymbol;
 import magic.Printing;
@@ -42,7 +43,7 @@ public final class Cards {
 
 	private static final Predicate<Expansion> PHYSICAL = new Predicate<Expansion>() {
 		@Override public boolean apply(Expansion input) {
-			return !input.onlineOnly();
+			return input.type() != ReleaseType.ONLINE;
 		}
 	};
 
