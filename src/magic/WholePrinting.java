@@ -5,6 +5,7 @@ import java.io.PrintStream;
 import java.util.Iterator;
 import java.util.Objects;
 
+import com.google.common.collect.ComparisonChain;
 import com.google.common.collect.Iterators;
 
 public abstract class WholePrinting implements Comparable<WholePrinting>, Iterable<Printing> {
@@ -54,8 +55,11 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 	}
 
 	@Override public int compareTo(WholePrinting o) {
-		int expansionCmp = expansion.compareTo(o.expansion);
-		return expansionCmp == 0 ? Integer.compare(variation, o.variation) : expansionCmp;
+		return ComparisonChain.start()
+				.compare(card, o.card)
+				.compare(expansion, o.expansion)
+				.compare(variation, o.variation)
+				.result();
 	}
 
 	public final void print() {

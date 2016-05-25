@@ -6,8 +6,9 @@ import java.util.Objects;
 import javax.annotation.Nullable;
 
 import com.google.common.base.Joiner;
+import com.google.common.collect.ComparisonChain;
 
-public final class Printing {
+public final class Printing implements Comparable<Printing> {
 
 	private final Card card;
 	private final WholePrinting whole;
@@ -39,7 +40,7 @@ public final class Printing {
 		return flavorText;
 	}
 
-	public String artist() {
+	public String artist() {	
 		return artist;
 	}
 
@@ -53,6 +54,16 @@ public final class Printing {
 
 	public PrintingLink link() {
 		return link;
+	}
+
+	@Override public int compareTo(Printing o) {
+		ComparisonChain chain = ComparisonChain.start()
+				.compare(card, o.card)
+				.compare(whole.expansion(), o.whole.expansion());
+		if (o.collectorNumber != null) {
+			chain = chain.compare(collectorNumber, o.collectorNumber);
+		}
+		return chain.compare(whole.variation(), o.whole.variation()).result();
 	}
 
 	@Override public String toString() {
