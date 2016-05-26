@@ -1,19 +1,17 @@
 package magic.misc;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 import java.util.Map;
 
 import org.joda.time.LocalDate;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableList.Builder;
+import com.google.common.collect.ImmutableListMultimap;
+import com.google.common.collect.ImmutableSortedMap;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
-import com.google.common.collect.SortedSetMultimap;
-import com.google.common.collect.TreeMultimap;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 
@@ -163,29 +161,33 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	public static SortedSetMultimap<WholeCard, WholePrinting> readPrintings(
+	public static ImmutableSortedMap<WholeCard, ImmutableListMultimap<Expansion, WholePrinting>> readPrintings(
 			JsonReader in,
-			Map<String, WholeCard> cards, 
+			Map<String, WholeCard> cards,
 			Map<String, Expansion> expansions) throws IOException {
-		SortedSetMultimap<WholeCard, WholePrinting> mapBuilder = TreeMultimap.create();
+		ImmutableSortedMap.Builder<WholeCard, ImmutableListMultimap<Expansion, WholePrinting>> mapBuilder =
+				ImmutableSortedMap.naturalOrder();
+		in.beginObject();
 		while (in.hasNext()) {
 			WholeCard card = cards.get(Diacritics.remove(in.nextName()));
-			List<WholePrinting> printings = new ArrayList<>();
+			ImmutableListMultimap.Builder<Expansion, WholePrinting> printings = ImmutableListMultimap.builder();
 			in.beginArray();
 			int index = 0;
 			while (in.hasNext()) {
-				printings.add(readPrinting(in, expansions, card, index++));
+				WholePrinting printing = readPrinting(in, expansions, card, index++);
+				printings.put(printing.expansion(), printing);
 			}
 			in.endArray();
+			mapBuilder.put(card, printings.build());
 		}
 		in.endObject();
-		return Multimaps.unmodifiableSortedSetMultimap(mapBuilder);
+		return mapBuilder.build();
 	}
 
 	private static WholePrinting readPrinting(
-			JsonReader in, 
+			JsonReader in,
 			Map<String, Expansion> expansions,
-			WholeCard card, 
+			WholeCard card,
 			int index) throws IOException {
 		WholePrinting.Builder builder = WholePrinting.builder();
 		builder.setCard(card);
