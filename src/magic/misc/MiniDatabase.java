@@ -17,13 +17,11 @@ import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSortedMap;
 import com.google.common.collect.ImmutableSortedMap.Builder;
 import com.google.common.collect.Iterables;
-import com.google.common.collect.ListMultimap;
-import com.google.common.collect.UnmodifiableIterator;
 import com.google.gson.stream.JsonReader;
 
-import magic.FullCharacteristics;
-import magic.Expansion;
 import magic.Card;
+import magic.Characteristics;
+import magic.Expansion;
 import magic.WholePrinting;
 
 public class MiniDatabase {
@@ -65,7 +63,7 @@ public class MiniDatabase {
 		return cards.values();
 	}
 
-	public Iterable<FullCharacteristics> cards() {
+	public Iterable<Characteristics> cards() {
 		return Iterables.concat(cards.values());
 	}
 
