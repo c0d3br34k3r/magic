@@ -1,169 +1,211 @@
 package magic;
 
 import java.io.IOException;
+import java.io.PrintStream;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Objects;
 
-import javax.annotation.Nullable;
-
-import com.google.common.base.Joiner;
 import com.google.common.collect.ComparisonChain;
+import com.google.common.collect.Iterators;
 
-public final class Printing implements Comparable<Printing> {
+public abstract class Printing implements Comparable<Printing>, Iterable<PartialPrinting> {
 
-	private final Characteristics card;
-	private final WholePrinting whole;
-	private final @Nullable PrintingLink link;
-	private final String flavorText;
-	private final @Nullable CollectorNumber collectorNumber;
-	private final String artist;
-	private final @Nullable String watermark;
+	private final Card card;
+	private final Expansion expansion;
+	private final Rarity rarity;
+	private final int variation;
+	private final boolean isTimeshifted;
 
 	private Printing(Builder builder) {
-		this.card = builder.card;
-		this.link = builder.buildLink(this);
-		this.whole = builder.getWhole();
-		this.flavorText = builder.flavorText;
-		this.collectorNumber = builder.collectorNumber;
-		this.artist = builder.artist;
-		this.watermark = builder.watermark;
+		builder.first.setWhole(this);
+		this.card = Objects.requireNonNull(builder.card);
+		this.expansion = Objects.requireNonNull(builder.expansion);
+		this.rarity = Objects.requireNonNull(builder.rarity);
+		this.variation = builder.variation;
+		this.isTimeshifted = builder.isTimeshifted;
 	}
 
-	public Characteristics card() {
+	public abstract boolean hasOnePart();
+
+	public abstract PartialPrinting only();
+
+	public abstract Pair<PartialPrinting> pair();
+
+	public final Card card() {
 		return card;
 	}
 
-	public WholePrinting whole() {
-		return whole;
+	public final Expansion expansion() {
+		return expansion;
 	}
 
-	public String flavorText() {
-		return flavorText;
+	public final Rarity rarity() {
+		return rarity;
 	}
 
-	public String artist() {	
-		return artist;
+	public int variation() {
+		return variation;
 	}
 
-	public CollectorNumber collectorNumber() {
-		return collectorNumber;
-	}
-
-	public String watermark() {
-		return watermark;
-	}
-
-	public PrintingLink link() {
-		return link;
-	}
-
-	@Override public int compareTo(Printing o) {
-		ComparisonChain chain = ComparisonChain.start()
-				.compare(card, o.card)
-				.compare(whole.expansion(), o.whole.expansion());
-		if (o.collectorNumber != null) {
-			chain = chain.compare(collectorNumber, o.collectorNumber);
-		}
-		return chain.compare(whole.variation(), o.whole.variation()).result();
+	public final boolean isTimeshifted() {
+		return isTimeshifted;
 	}
 
 	@Override public String toString() {
-		return card.name() + " (" + whole.expansion().code() + ":" + whole.rarity().code() + ")";
+		return card().name() + " (" + expansion().code() + ":" + rarity().code() + ")";
 	}
 
-	private static final Joiner SPACE_JOINER = Joiner.on(' ');
-
-	public void writeTo(Appendable out) throws IOException {
-		String newline = System.lineSeparator();
-		out.append(card.name());
-		if (!card.manaCost().isEmpty()) {
-			out.append(' ').append(card.manaCost().toString());
-		}
-		out.append(newline);
-		if (card.colorIndicator() != null) {
-			out.append('(');
-			for (Color color : card.colorIndicator()) {
-				out.append(color.code());
-			}
-			out.append(") ");
-		}
-		if (!card.supertypes().isEmpty()) {
-			SPACE_JOINER.appendTo(out, card.supertypes()).append(' ');
-		}
-		SPACE_JOINER.appendTo(out, card.types());
-		if (!card.subtypes().isEmpty()) {
-			out.append(" - ");
-			SPACE_JOINER.appendTo(out, card.subtypes());
-		}
-		out.append(" (").append(whole.expansion().code()).append(':')
-				.append(whole.rarity().code()).append(')');
-		out.append(newline);
-		if (!card.text().isEmpty()) {
-			out.append(card.text()).append(newline);
-		}
-		if (!flavorText.isEmpty()) {
-			out.append(flavorText).append(newline);
-		}
-		if (card.power() != null) {
-			out.append(card.power().toString())
-					.append('/')
-					.append(card.toughness().toString())
-					.append(newline);
-		} else if (card.loyalty() != null) {
-			out.append(Integer.toString(card.loyalty())).append(newline);
-		}
-		if (collectorNumber != null) {
-			// TODO: fix this
-			out.append(collectorNumber.toString()).append('/')
-					.append(String.valueOf(whole.expansion().size())).append(' ');
-		}
-		out.append("Illus. ").append(artist);
-		out.append(newline);
+	@Override public int compareTo(Printing o) {
+		return ComparisonChain.start()
+				.compare(card, o.card)
+				.compare(expansion, o.expansion)
+				.compare(variation, o.variation)
+				.result();
 	}
+
+	public final void print() {
+		try {
+			writeTo(System.out);
+		} catch (IOException impossible) {
+			throw new AssertionError(impossible);
+		}
+	}
+
+	public abstract void writeTo(PrintStream out) throws IOException;
 
 	public static Builder builder() {
 		return new Builder();
 	}
 
-	public static class Builder extends PartialBuilder<Printing, WholePrinting, PrintingLink> {
+	private static final class StandalonePrinting extends Printing {
 
-		private Characteristics card;
-		private String flavorText = "";
-		private CollectorNumber collectorNumber = null;
-		private String artist;
-		private String watermark = null;
+		private final PartialPrinting printing;
+
+		private StandalonePrinting(Builder builder) {
+			super(builder);
+			builder.first.setCard(builder.card.only());
+			this.printing = builder.first.build();
+		}
+
+		@Override public boolean hasOnePart() {
+			return true;
+		}
+
+		@Override public PartialPrinting only() {
+			return printing;
+		}
+
+		@Override public Pair<PartialPrinting> pair() {
+			throw new IllegalStateException();
+		}
+
+		@Override public void writeTo(PrintStream out) throws IOException {
+			printing.writeTo(out);
+		}
+
+		@Override public Iterator<PartialPrinting> iterator() {
+			return Iterators.singletonIterator(printing);
+		}
+	}
+
+	private static final class CompositePrinting extends Printing {
+
+		private final Pair<PartialPrinting> printings;
+
+		private CompositePrinting(Builder builder) {
+			super(builder);
+			builder.second.setWhole(this);
+			builder.first.setCard(card().pair().first());
+			builder.second.setCard(card().pair().second());
+			builder.first.prepareLink(builder.second);
+			this.printings = new Pair<>(builder.first.build(), builder.first.getOther());
+		}
+
+		@Override public boolean hasOnePart() {
+			return false;
+		}
+
+		@Override public PartialPrinting only() {
+			throw new IllegalStateException();
+		}
+
+		@Override public Pair<PartialPrinting> pair() {
+			return printings;
+		}
+
+		@Override public void writeTo(PrintStream out) throws IOException {
+			printings.first().writeTo(out);
+			out.append("* ")
+					.append(card().layout().toString().toUpperCase())
+					.append(" *")
+					.append(System.lineSeparator());
+			printings.second().writeTo(out);
+		}
+
+		@Override public Iterator<PartialPrinting> iterator() {
+			return printings.iterator();
+		}
+	}
+
+	public static class Builder {
+
+		private Card card;
+		private Expansion expansion;
+		private Rarity rarity;
+		private int variation = 0;
+		private boolean isTimeshifted = false;
+		private PartialPrinting.Builder first;
+		private PartialPrinting.Builder second;
 
 		private Builder() {}
 
-		void setCard(Characteristics card) {
+		public void setCard(Card card) {
 			this.card = Objects.requireNonNull(card);
 		}
 
-		public Builder setFlavorText(String flavorText) {
-			this.flavorText = Objects.requireNonNull(flavorText);
+		public void setOnly(PartialPrinting.Builder only) {
+			this.first = Objects.requireNonNull(only);
+			this.second = null;
+		}
+
+		public void setPair(PartialPrinting.Builder first, PartialPrinting.Builder second) {
+			this.first = first;
+			this.second = second;
+		}
+
+		public void setPair(List<PartialPrinting.Builder> pair) {
+			this.first = pair.get(0);
+			this.second = pair.get(1);
+		}
+
+		public void setExpansion(Expansion expansion) {
+			this.expansion = Objects.requireNonNull(expansion);
+		}
+
+		public Builder setRarity(Rarity rarity) {
+			this.rarity = Objects.requireNonNull(rarity);
 			return this;
 		}
 
-		public Builder setCollectorNumber(CollectorNumber collectorNumber) {
-			this.collectorNumber = collectorNumber;
+		public Builder setVariation(int variation) {
+			this.variation = variation;
 			return this;
 		}
 
-		public Builder setArtist(String artist) {
-			this.artist = Objects.requireNonNull(artist);
+		public Builder setTimeshifted(boolean isTimeshifted) {
+			this.isTimeshifted = isTimeshifted;
 			return this;
 		}
 
-		public Builder setWatermark(String watermark) {
-			this.watermark = watermark;
-			return this;
-		}
-
-		@Override Printing build() {
-			return new Printing(this);
-		}
-
-		@Override PrintingLink newLink(Printing partial, int index) {
-			return new PrintingLink(partial, index);
+		public Printing build() {
+			if (first == null) {
+				throw new IllegalArgumentException();
+			}
+			if (second == null) {
+				return new StandalonePrinting(this);
+			}
+			return new CompositePrinting(this);
 		}
 	}
 

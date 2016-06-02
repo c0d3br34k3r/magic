@@ -1,10 +1,10 @@
 package magic;
 
 /**
- * All rarities at which a Magic card may be printed. Each {@link Printing}
+ * All rarities at which a Magic card may be printed. Each {@link PartialPrinting}
  * specifies one {@code Rarity}.
  * 
- * @see Printing
+ * @see PartialPrinting
  */
 public enum Rarity {
 

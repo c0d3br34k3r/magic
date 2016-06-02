@@ -127,34 +127,28 @@ public final class Expansion implements Comparable<Expansion> {
 
 		private Builder() {}
 
-		public Builder setName(String name) {
+		public void setName(String name) {
 			this.name = name;
-			return this;
 		}
 
-		public Builder setCode(String code) {
+		public void setCode(String code) {
 			this.code = Objects.requireNonNull(code);
-			return this;
 		}
 
-		public Builder setReleaseDate(LocalDate releaseDate) {
+		public void setReleaseDate(LocalDate releaseDate) {
 			this.releaseDate = Objects.requireNonNull(releaseDate);
-			return this;
 		}
 
-		public Builder setType(ReleaseType type) {
+		public void setType(ReleaseType type) {
 			this.type = Objects.requireNonNull(type);
-			return this;
 		}
 
-		public Builder setBorderColor(BorderColor borderColor) {
+		public void setBorderColor(BorderColor borderColor) {
 			this.borderColor = Objects.requireNonNull(borderColor);
-			return this;
 		}
 
-		public Builder setSize(@Nullable Integer size) {
+		public void setSize(@Nullable Integer size) {
 			this.size = size;
-			return this;
 		}
 
 		public Expansion build() {

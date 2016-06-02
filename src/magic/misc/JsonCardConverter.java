@@ -69,38 +69,38 @@ public class JsonCardConverter {
 		out.endObject();
 	}
 
-	private static void writeCharacteristics(JsonWriter out, Characteristics characs)
+	private static void writeCharacteristics(JsonWriter out, Characteristics charcs)
 			throws IOException {
 		out.beginObject();
-		out.name(NAME).value(characs.name());
-		System.out.println(characs.whole());
-		if (!characs.manaCost().isEmpty()
-				&& !(characs.whole().layout() == Layout.FLIP && !characs.link().isFirst())) {
-			out.name(MANA_COST).value(characs.manaCost().toString());
+		out.name(NAME).value(charcs.name());
+		System.out.println(charcs.whole());
+		if (!charcs.manaCost().isEmpty()
+				&& !(charcs.whole().layout() == Layout.FLIP && !charcs.link().isFirst())) {
+			out.name(MANA_COST).value(charcs.manaCost().toString());
 		}
-		if (characs.colorIndicator() != null) {
+		if (charcs.colorIndicator() != null) {
 			out.name(COLOR_INDICATOR);
-			writeEnums(out, characs.colorIndicator());
+			writeEnums(out, charcs.colorIndicator());
 		}
-		if (!characs.supertypes().isEmpty()) {
+		if (!charcs.supertypes().isEmpty()) {
 			out.name(SUPERTYPES);
-			writeEnums(out, characs.supertypes());
+			writeEnums(out, charcs.supertypes());
 		}
 		out.name(TYPES);
-		writeEnums(out, characs.types());
-		if (!characs.subtypes().isEmpty()) {
+		writeEnums(out, charcs.types());
+		if (!charcs.subtypes().isEmpty()) {
 			out.name(SUBTYPES);
-			writeStrings(out, characs.subtypes());
+			writeStrings(out, charcs.subtypes());
 		}
-		if (!characs.text().isEmpty()) {
-			out.name(TEXT).value(characs.text());
+		if (!charcs.text().isEmpty()) {
+			out.name(TEXT).value(charcs.text());
 		}
-		if (characs.loyalty() != null) {
-			out.name(LOYALTY).value(characs.loyalty());
+		if (charcs.loyalty() != null) {
+			out.name(LOYALTY).value(charcs.loyalty());
 		}
-		if (characs.power() != null) {
-			out.name(POWER).value(characs.power().toString());
-			out.name(TOUGHNESS).value(characs.toughness().toString());
+		if (charcs.power() != null) {
+			out.name(POWER).value(charcs.power().toString());
+			out.name(TOUGHNESS).value(charcs.toughness().toString());
 		}
 		out.endObject();
 	}

@@ -3,17 +3,21 @@ package magic;
 public enum Layout {
 
 	NORMAL("Normal"),
-	
+
 	LEVELER("Leveler"),
-	
+
 	SPLIT("Split") {
 
-		@Override public String format(Characteristics characs1, Characteristics characs2) {
-			return characs1.name() + " // " + characs2.name();
+		@Override public String format(Characteristics charcs1, Characteristics charcs2) {
+			return charcs1.name() + " // " + charcs2.name();
+		}
+
+		@Override public boolean hasMain() {
+			return true;
 		}
 	},
 	FLIP("Flip"),
-	
+
 	DOUBLE_FACED("Double-faced");
 
 	private final String name;
@@ -29,8 +33,12 @@ public enum Layout {
 		return name;
 	}
 
-	public String format(Characteristics characs1, Characteristics characs2) {
-		return characs1.name();
+	public String format(Characteristics charcs1, Characteristics charcs2) {
+		return charcs1.name();
+	}
+
+	public boolean hasMain() {
+		return true;
 	}
 
 }

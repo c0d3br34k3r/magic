@@ -1,8 +1,8 @@
 package magic;
 
-public class PrintingLink extends Link<Printing> {
+public class PrintingLink extends Link<PartialPrinting> {
 
-	public PrintingLink(Printing linked, int index) {
+	public PrintingLink(PartialPrinting linked, int index) {
 		super(linked, index);
 	}
 

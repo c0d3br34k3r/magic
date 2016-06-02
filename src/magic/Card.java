@@ -59,19 +59,19 @@ public abstract class Card implements Comparable<Card>, Iterable<Characteristics
 
 	private static class StandaloneCard extends Card {
 
-		private final Characteristics characs;
+		private final Characteristics charcs;
 
 		StandaloneCard(Builder builder) {
 			super(builder);
-			this.characs = builder.first.build();
+			this.charcs = builder.first.build();
 		}
 
 		@Override public String name() {
-			return characs.name();
+			return charcs.name();
 		}
 
 		@Override public Characteristics only() {
-			return characs;
+			return charcs;
 		}
 
 		@Override public Pair<Characteristics> pair() {
@@ -79,11 +79,11 @@ public abstract class Card implements Comparable<Card>, Iterable<Characteristics
 		}
 
 		@Override public Iterator<Characteristics> iterator() {
-			return Iterators.singletonIterator(characs);
+			return Iterators.singletonIterator(charcs);
 		}
 
 		@Override public void writeTo(Appendable out) throws IOException {
-			characs.writeTo(out);
+			charcs.writeTo(out);
 		}
 
 		@Override public boolean hasOnePart() {
@@ -123,12 +123,12 @@ public abstract class Card implements Comparable<Card>, Iterable<Characteristics
 		}
 
 		@Override public void writeTo(Appendable out) throws IOException {
-			pair.get(0).writeTo(out);
+			pair.first().writeTo(out);
 			out.append("* ")
 					.append(layout().toString().toUpperCase())
 					.append(" *")
-					.append(System.lineSeparator());
-			pair.get(1).writeTo(out);
+					.append('\n');
+			pair.second().writeTo(out);
 		}
 	}
 
@@ -141,32 +141,27 @@ public abstract class Card implements Comparable<Card>, Iterable<Characteristics
 
 		private Builder() {}
 
-		public Builder setColorIdentity(ImmutableSet<Color> colorIdentity) {
+		public void setColorIdentity(ImmutableSet<Color> colorIdentity) {
 			this.colorIdentity = Objects.requireNonNull(colorIdentity);
-			return this;
 		}
 
-		public Builder setLayout(Layout layout) {
+		public void setLayout(Layout layout) {
 			this.layout = Objects.requireNonNull(layout);
-			return this;
 		}
 
-		public Builder setOnly(Characteristics.Builder only) {
+		public void setOnly(Characteristics.Builder only) {
 			this.first = only;
 			this.second = null;
-			return this;
 		}
 
-		public Builder setPair(Characteristics.Builder first, Characteristics.Builder second) {
+		public void setPair(Characteristics.Builder first, Characteristics.Builder second) {
 			this.first = first;
 			this.second = second;
-			return this;
 		}
 
-		public Builder setPair(List<Characteristics.Builder> pair) {
+		public void setPair(List<Characteristics.Builder> pair) {
 			this.first = pair.get(0);
 			this.second = pair.get(1);
-			return this;
 		}
 
 		public Card build() {
@@ -178,7 +173,6 @@ public abstract class Card implements Comparable<Card>, Iterable<Characteristics
 			}
 			return new CompositeCard(this);			
 		}
-
 	}
 
 }

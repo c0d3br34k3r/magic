@@ -21,9 +21,9 @@ import magic.Expansion;
 import magic.Expansion.BorderColor;
 import magic.Expansion.ReleaseType;
 import magic.Pair;
-import magic.Printing;
+import magic.PartialPrinting;
 import magic.Rarity;
-import magic.WholePrinting;
+import magic.Printing;
 
 public class JsonExpansionConverter {
 
@@ -67,14 +67,14 @@ public class JsonExpansionConverter {
 		out.endObject();
 	}
 
-	public static void writePrintings(JsonWriter out, Multimap<Card, WholePrinting> printings)
+	public static void writePrintings(JsonWriter out, Multimap<Card, Printing> printings)
 			throws IOException {
 		out.beginObject();
-		for (Map.Entry<Card, Collection<WholePrinting>> entry : Multimaps.asMap(printings)
+		for (Map.Entry<Card, Collection<Printing>> entry : Multimaps.asMap(printings)
 				.entrySet()) {
 			out.name(entry.getKey().name());
 			out.beginArray();
-			for (WholePrinting printing : entry.getValue()) {
+			for (Printing printing : entry.getValue()) {
 				writePrinting(out, printing);
 			}
 			out.endArray();
@@ -82,7 +82,7 @@ public class JsonExpansionConverter {
 		out.endObject();
 	}
 
-	private static void writePrinting(JsonWriter out, WholePrinting printing) throws IOException {
+	private static void writePrinting(JsonWriter out, Printing printing) throws IOException {
 		out.beginObject();
 		out.name(EXPANSION).value(printing.expansion().code());
 		out.name(RARITY).value(printing.rarity().name());
@@ -93,7 +93,7 @@ public class JsonExpansionConverter {
 			out.name(ONLY);
 			writePartial(out, printing.only());
 		} else {
-			Pair<Printing> pair = printing.pair();
+			Pair<PartialPrinting> pair = printing.pair();
 			out.name(PAIR).beginArray();
 			writePartial(out, pair.first());
 			writePartial(out, pair.second());
@@ -102,7 +102,7 @@ public class JsonExpansionConverter {
 		out.endObject();
 	}
 
-	private static void writePartial(JsonWriter out, Printing partial) throws IOException {
+	private static void writePartial(JsonWriter out, PartialPrinting partial) throws IOException {
 		out.beginObject();
 		if (!partial.flavorText().isEmpty()) {
 			out.name(FLAVOR_TEXT).value(partial.flavorText());
@@ -161,20 +161,20 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	public static ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, WholePrinting>> readPrintings(
+	public static ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, Printing>> readPrintings(
 			JsonReader in,
 			Map<String, Card> cards,
 			Map<String, Expansion> expansions) throws IOException {
-		ImmutableSortedMap.Builder<Card, ImmutableListMultimap<Expansion, WholePrinting>> mapBuilder =
+		ImmutableSortedMap.Builder<Card, ImmutableListMultimap<Expansion, Printing>> mapBuilder =
 				ImmutableSortedMap.naturalOrder();
 		in.beginObject();
 		while (in.hasNext()) {
 			Card card = cards.get(Diacritics.remove(in.nextName()));
-			ImmutableListMultimap.Builder<Expansion, WholePrinting> printings = ImmutableListMultimap.builder();
+			ImmutableListMultimap.Builder<Expansion, Printing> printings = ImmutableListMultimap.builder();
 			in.beginArray();
 			int index = 0;
 			while (in.hasNext()) {
-				WholePrinting printing = readPrinting(in, expansions, card, index++);
+				Printing printing = readPrinting(in, expansions, card, index++);
 				printings.put(printing.expansion(), printing);
 			}
 			in.endArray();
@@ -184,12 +184,12 @@ public class JsonExpansionConverter {
 		return mapBuilder.build();
 	}
 
-	private static WholePrinting readPrinting(
+	private static Printing readPrinting(
 			JsonReader in,
 			Map<String, Expansion> expansions,
 			Card card,
 			int index) throws IOException {
-		WholePrinting.Builder builder = WholePrinting.builder();
+		Printing.Builder builder = Printing.builder();
 		builder.setCard(card);
 		builder.setVariation(index);
 		in.beginObject();
@@ -221,8 +221,8 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	private static Printing.Builder readPartial(JsonReader in) throws IOException {
-		Printing.Builder builder = Printing.builder();
+	private static PartialPrinting.Builder readPartial(JsonReader in) throws IOException {
+		PartialPrinting.Builder builder = PartialPrinting.builder();
 		in.beginObject();
 		while (in.hasNext()) {
 			String key = in.nextName();

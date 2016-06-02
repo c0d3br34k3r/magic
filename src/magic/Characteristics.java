@@ -136,7 +136,7 @@ public abstract class Characteristics implements Comparable<Characteristics> {
 		private final @Nullable ImmutableSet<Color> colorIndicator;
 		private final @Nullable Integer loyalty;
 
-		private FullCharacteristics(Characteristics.Builder builder) {
+		private FullCharacteristics(Builder builder) {
 			super(builder);
 			this.manaCost = builder.manaCost;
 			this.colorIndicator = builder.colorIndicator;
@@ -162,7 +162,7 @@ public abstract class Characteristics implements Comparable<Characteristics> {
 
 	private static class FlippedCharacteristics extends Characteristics {
 
-		public FlippedCharacteristics(Characteristics.Builder builder) {
+		public FlippedCharacteristics(Builder builder) {
 			super(builder);
 		}
 
