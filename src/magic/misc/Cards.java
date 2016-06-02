@@ -20,7 +20,7 @@ import magic.Expansion;
 import magic.Expansion.ReleaseType;
 import magic.Layout;
 import magic.ManaSymbol;
-import magic.Printing;
+import magic.PartialPrinting;
 import magic.Subtype;
 import magic.Type;
 
@@ -47,8 +47,8 @@ public final class Cards {
 		}
 	};
 
-	public static Multimap<Expansion, ? extends Printing> physicalPrintings(
-			Multimap<Expansion, ? extends Printing> printings) {
+	public static Multimap<Expansion, ? extends PartialPrinting> physicalPrintings(
+			Multimap<Expansion, ? extends PartialPrinting> printings) {
 		return Multimaps.filterKeys(printings, PHYSICAL);
 	}
 
@@ -139,16 +139,16 @@ public final class Cards {
 	};
 
 	public static String formatPrintings(
-			Multimap<Expansion, ? extends Printing> printings) {
+			Multimap<Expansion, ? extends PartialPrinting> printings) {
 		StringBuilder builder = new StringBuilder();
 
-		Iterator<? extends Entry<Expansion, ? extends Collection<? extends Printing>>> it =
+		Iterator<? extends Entry<Expansion, ? extends Collection<? extends PartialPrinting>>> it =
 				printings.asMap().entrySet().iterator();
 		for (;;) {
-			Entry<Expansion, ? extends Collection<? extends Printing>> entry =
+			Entry<Expansion, ? extends Collection<? extends PartialPrinting>> entry =
 					it.next();
 			builder.append(entry.getKey().code()).append(':')
-					.append(entry.getValue().iterator().next().whole().rarity()
+					.append(entry.getValue().iterator().next().printing().rarity()
 							.code());
 			if (entry.getValue().size() > 1) {
 				builder.append('(').append(entry.getValue().size()).append(')');

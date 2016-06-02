@@ -1,7 +1,9 @@
 package magic;
 
+import java.util.List;
 import java.util.Set;
 
+import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 
 /**
@@ -29,7 +31,15 @@ abstract class SymbolLogic {
 
 	abstract boolean payableWith(Set<Color> mana);
 
-	abstract void accept(ManaSymbol.Visitor visitor);
+	abstract ManaSymbol.Type type();
+
+	Color color() {
+		throw new IllegalStateException();
+	}
+
+	List<Color> colorPair() {
+		throw new IllegalStateException();
+	}
 
 	static final class Variable extends SymbolLogic {
 
@@ -41,8 +51,8 @@ abstract class SymbolLogic {
 			return true;
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.variable();
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.VARIABLE;
 		}
 	}
 
@@ -56,8 +66,8 @@ abstract class SymbolLogic {
 			return true;
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.generic();
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.GENERIC;
 		}
 	}
 
@@ -71,8 +81,8 @@ abstract class SymbolLogic {
 			return true;
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.colorless();
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.COLORLESS;
 		}
 	}
 
@@ -85,7 +95,7 @@ abstract class SymbolLogic {
 			this.color = only;
 		}
 
-		Color color() {
+		@Override Color color() {
 			return color;
 		}
 	}
@@ -100,8 +110,8 @@ abstract class SymbolLogic {
 			return mana.contains(color);
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.primary(color);
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.PRIMARY;
 		}
 	}
 
@@ -120,8 +130,12 @@ abstract class SymbolLogic {
 			return mana.contains(first) || mana.contains(second);
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.hybrid(first, second);
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.HYBRID;
+		}
+
+		@Override List<Color> colorPair() {
+			return ImmutableList.of(first, second);
 		}
 	}
 
@@ -146,8 +160,8 @@ abstract class SymbolLogic {
 			super(2, color);
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.monocoloredHybrid(color);
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.MONOCOLORED_HYBRID;
 		}
 	}
 
@@ -157,8 +171,8 @@ abstract class SymbolLogic {
 			super(1, color);
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.phyrexian(color);
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.PHYREXIAN;
 		}
 	}
 
@@ -172,8 +186,8 @@ abstract class SymbolLogic {
 			return true;
 		}
 
-		@Override void accept(ManaSymbol.Visitor visitor) {
-			visitor.snow();
+		@Override ManaSymbol.Type type() {
+			return ManaSymbol.Type.SNOW;
 		}
 	}
 

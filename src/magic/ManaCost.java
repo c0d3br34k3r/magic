@@ -3,6 +3,7 @@ package magic;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.EnumSet;
+import java.util.List;
 import java.util.Set;
 
 import com.google.common.base.CharMatcher;
@@ -175,6 +176,7 @@ public abstract class ManaCost {
 		throw new ManaCostFormatException("Bad mana symbol: {%s}", inner);
 	}
 
+	@SuppressWarnings("serial")
 	public static class ManaCostFormatException extends IllegalArgumentException {
 
 		public ManaCostFormatException(String format, Object... args) {
@@ -301,71 +303,59 @@ public abstract class ManaCost {
 		}
 
 		@Override public String toString() {
-			StringBuilder builder = new StringBuilder();
+			final StringBuilder builder = new StringBuilder();
 			for (Multiset.Entry<ManaSymbol> entry : symbols.entrySet()) {
-				entry.getElement().accept(new ManaCostToString(builder, entry.getCount()));
+				ManaSymbol symbol = entry.getElement();
+				int amount = entry.getCount();
+				switch (entry.getElement().type()) {
+					case GENERIC:
+						builder.append('{').append(amount).append('}');
+						break;
+					case VARIABLE:
+						appendCopies(builder, 'X', amount);
+						break;
+					case COLORLESS:
+						appendCopies(builder, 'C', amount);
+						break;
+					case HYBRID:
+						List<Color> colorPair = symbol.colorPair();
+						appendCopies(builder,
+								colorPair.get(0).code(),
+								colorPair.get(1).code(),
+								amount);
+						break;
+					case MONOCOLORED_HYBRID:
+						appendCopies(builder, '2', symbol.color().code(), amount);
+						break;
+					case PHYREXIAN:
+						appendCopies(builder, symbol.color().code(), 'P', amount);
+						break;
+					case PRIMARY:
+						appendCopies(builder, symbol.color().code(), amount);
+						break;
+					default:
+						throw new AssertionError(symbol.name());
+				}
 			}
 			return builder.toString();
 		}
 
-		private static class ManaCostToString extends ManaSymbol.Visitor {
-
-			StringBuilder builder;
-			int amount;
-
-			ManaCostToString(StringBuilder builder, int amount) {
-				this.builder = builder;
-				this.amount = amount;
+		private static void appendCopies(StringBuilder builder, char symbol, int amount) {
+			for (int i = 0; i < amount; i++) {
+				builder.append('{')
+						.append(symbol)
+						.append('}');
 			}
+		}
 
-			@Override protected void generic() {
-				builder.append('{').append(amount).append('}');
-			}
-
-			@Override protected void variable() {
-				appendCopies('X');
-			}
-
-			@Override protected void colorless() {
-				appendCopies('C');
-			}
-
-			@Override protected void snow() {
-				appendCopies('S');
-			}
-
-			@Override protected void primary(Color color) {
-				appendCopies(color.code());
-			}
-
-			@Override protected void hybrid(Color first, Color second) {
-				appendCopies(first.code(), second.code());
-			}
-
-			@Override protected void monocoloredHybrid(Color color) {
-				appendCopies('2', color.code());
-			}
-
-			@Override protected void phyrexian(Color color) {
-				appendCopies(color.code(), 'P');
-			}
-
-			void appendCopies(char symbol) {
-				for (int i = 0; i < amount; i++) {
-					builder.append('{')
-							.append(symbol)
-							.append('}');
-				}
-			}
-
-			void appendCopies(char first, char second) {
-				for (int i = 0; i < amount; i++) {
-					builder.append('{')
-							.append(first)
-							.append('/')
-							.append(second)
-							.append('}');
-				}
+		private static void appendCopies(StringBuilder builder, char first, char second,
+				int amount) {
+			for (int i = 0; i < amount; i++) {
+				builder.append('{')
+						.append(first)
+						.append('/')
+						.append(second)
+						.append('}');
 			}
 		}
 	}

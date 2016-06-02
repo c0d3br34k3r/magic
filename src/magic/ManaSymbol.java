@@ -3,6 +3,7 @@ package magic;
 import java.util.Collection;
 import java.util.EnumMap;
 import java.util.EnumSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
@@ -202,26 +203,34 @@ public enum ManaSymbol {
 		return true;
 	}
 
-	public void accept(Visitor visitor) {
-		internal.accept(visitor);
+	public Type type() {
+		return internal.type();
 	}
 
-//	/**
-//	 * A Range of all primary symbols.
-//	 */
-//	public static final Range<ManaSymbol> PRIMARY;
-//	/**
-//	 * A Range of all hybrid symbols.
-//	 */
-//	public static final Range<ManaSymbol> HYBRID;
-//	/**
-//	 * A Range of all monocolored hybrid symbols.
-//	 */
-//	public static final Range<ManaSymbol> MONOCOLORED_HYBRID;
-//	/**
-//	 * A Range of all phyrexian symbols.
-//	 */
-//	public static final Range<ManaSymbol> PHYREXIAN;
+	public Color color() {
+		return internal.color();
+	}
+
+	public List<Color> colorPair() {
+		return internal.colorPair();
+	}
+
+	// /**
+	// * A Range of all primary symbols.
+	// */
+	// public static final Range<ManaSymbol> PRIMARY;
+	// /**
+	// * A Range of all hybrid symbols.
+	// */
+	// public static final Range<ManaSymbol> HYBRID;
+	// /**
+	// * A Range of all monocolored hybrid symbols.
+	// */
+	// public static final Range<ManaSymbol> MONOCOLORED_HYBRID;
+	// /**
+	// * A Range of all phyrexian symbols.
+	// */
+	// public static final Range<ManaSymbol> PHYREXIAN;
 
 	private static final Map<Color, ManaSymbol> PRIMARY_LOOKUP;
 	private static final Map<Set<Color>, ManaSymbol> HYBRID_LOOKUP;
@@ -236,48 +245,46 @@ public enum ManaSymbol {
 		final Map<Color, ManaSymbol> monocoloredHybrid = new EnumMap<>(Color.class);
 		final Map<Color, ManaSymbol> phyrexian = new EnumMap<>(Color.class);
 		for (final ManaSymbol symbol : values()) {
-			symbol.accept(new Visitor() {
-
-				@Override protected void primary(Color color) {
-					primary.put(color, symbol);
-				}
-
-				@Override protected void hybrid(Color first, Color second) {
-					hybrid.put(Sets.immutableEnumSet(EnumSet.of(first, second)), symbol);
-				}
-
-				@Override protected void monocoloredHybrid(Color color) {
-					monocoloredHybrid.put(color, symbol);
-				}
-
-				@Override protected void phyrexian(Color color) {
-					phyrexian.put(color, symbol);
-				}
-			});
+			switch (symbol.type()) {
+				case PRIMARY:
+					primary.put(symbol.color(), symbol);
+					break;
+				case HYBRID:
+					hybrid.put(Sets.immutableEnumSet(symbol.colorPair()), symbol);
+					break;
+				case MONOCOLORED_HYBRID:
+					monocoloredHybrid.put(symbol.color(), symbol);
+					break;
+				case PHYREXIAN:
+					phyrexian.put(symbol.color(), symbol);
+					break;
+				default:
+			}
 		}
 
 		PRIMARY_LOOKUP = Maps.immutableEnumMap(primary);
 		HYBRID_LOOKUP = hybrid.build();
 		MONOCOLORED_HYBRID_LOOKUP = Maps.immutableEnumMap(monocoloredHybrid);
 		PHYREXIAN_LOOKUP = Maps.immutableEnumMap(phyrexian);
-//
-//		PRIMARY = getRange(PRIMARY_LOOKUP.values());
-//		HYBRID = getRange(HYBRID_LOOKUP.values());
-//		MONOCOLORED_HYBRID = getRange(MONOCOLORED_HYBRID_LOOKUP.values());
-//		PHYREXIAN = getRange(PHYREXIAN_LOOKUP.values());
+		//
+		// PRIMARY = getRange(PRIMARY_LOOKUP.values());
+		// HYBRID = getRange(HYBRID_LOOKUP.values());
+		// MONOCOLORED_HYBRID = getRange(MONOCOLORED_HYBRID_LOOKUP.values());
+		// PHYREXIAN = getRange(PHYREXIAN_LOOKUP.values());
 	}
 
-//	private static Range<ManaSymbol> getRange(Collection<ManaSymbol> symbols) {
-//		Iterator<ManaSymbol> iter = symbols.iterator();
-//		ManaSymbol first = iter.next();
-//		ManaSymbol last = first;
-//		while (iter.hasNext()) {
-//			ManaSymbol next = iter.next();
-//			last = Ordering.natural().max(last, next);
-//			first = Ordering.natural().min(first, next);
-//		}
-//		return Range.closed(first, last);
-//	}
+	// private static Range<ManaSymbol> getRange(Collection<ManaSymbol> symbols)
+	// {
+	// Iterator<ManaSymbol> iter = symbols.iterator();
+	// ManaSymbol first = iter.next();
+	// ManaSymbol last = first;
+	// while (iter.hasNext()) {
+	// ManaSymbol next = iter.next();
+	// last = Ordering.natural().max(last, next);
+	// first = Ordering.natural().min(first, next);
+	// }
+	// return Range.closed(first, last);
+	// }
 
 	public static ManaSymbol primary(Color color) {
 		return PRIMARY_LOOKUP.get(color);
@@ -299,23 +306,15 @@ public enum ManaSymbol {
 		return PHYREXIAN_LOOKUP.get(color);
 	}
 
-	public static abstract class Visitor {
-
-		protected void generic() {}
-
-		protected void variable() {}
-
-		protected void colorless() {}
-
-		protected void snow() {}
-
-		protected void primary(Color color) {}
-
-		protected void hybrid(Color first, Color second) {}
-
-		protected void monocoloredHybrid(Color color) {}
-
-		protected void phyrexian(Color color) {}
+	public static enum Type {
+		GENERIC, 
+		COLORLESS, 
+		HYBRID, 
+		PRIMARY, 
+		MONOCOLORED_HYBRID, 
+		PHYREXIAN, 
+		VARIABLE, 
+		SNOW;
 	}
 
 }

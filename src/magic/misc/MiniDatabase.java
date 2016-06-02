@@ -22,13 +22,13 @@ import com.google.gson.stream.JsonReader;
 import magic.Card;
 import magic.Characteristics;
 import magic.Expansion;
-import magic.WholePrinting;
+import magic.Printing;
 
 public class MiniDatabase {
 
 	private final ImmutableSortedMap<String, Card> cards;
 	private final ImmutableSortedMap<String, Expansion> expansions;
-	private final ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, WholePrinting>> printings;
+	private final ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, Printing>> printings;
 
 	public MiniDatabase(String filename) throws IOException {
 		this(Paths.get(filename));
@@ -75,17 +75,17 @@ public class MiniDatabase {
 		return expansions.values();
 	}
 
-	public Iterable<WholePrinting> printings() {
-		final Iterator<ImmutableListMultimap<Expansion, WholePrinting>> iter =
+	public Iterable<Printing> printings() {
+		final Iterator<ImmutableListMultimap<Expansion, Printing>> iter =
 				printings.values().iterator();
-		return new Iterable<WholePrinting>() {
+		return new Iterable<Printing>() {
 
-			@Override public Iterator<WholePrinting> iterator() {
-				return new AbstractIterator<WholePrinting>() {
+			@Override public Iterator<Printing> iterator() {
+				return new AbstractIterator<Printing>() {
 
-					Iterator<WholePrinting> current = ImmutableSet.<WholePrinting> of().iterator();
+					Iterator<Printing> current = ImmutableSet.<Printing> of().iterator();
 
-					@Override protected WholePrinting computeNext() {
+					@Override protected Printing computeNext() {
 						while (!current.hasNext()) {
 							if (!iter.hasNext()) {
 								return endOfData();
