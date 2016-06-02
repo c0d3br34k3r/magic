@@ -5,7 +5,7 @@ import com.google.common.collect.ImmutableBiMap;
 /**
  * A utility class for Subtypes, which are represented as {@code Strings}.
  * 
- * @see Card
+ * @see FullCharacteristics
  */
 public final class Subtype {
 

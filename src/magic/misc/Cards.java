@@ -15,7 +15,7 @@ import com.google.common.collect.Multimaps;
 import com.google.common.collect.Ordering;
 import com.google.common.collect.Sets;
 
-import magic.Card;
+import magic.Characteristics;
 import magic.Expansion;
 import magic.Expansion.ReleaseType;
 import magic.Layout;
@@ -32,7 +32,7 @@ public final class Cards {
 
 	private Cards() {}
 
-	public static boolean isPermanent(Card card) {
+	public static boolean isPermanent(Characteristics card) {
 		for (Type type : card.types()) {
 			if (type.isPermanent()) {
 				return true;
@@ -52,12 +52,12 @@ public final class Cards {
 		return Multimaps.filterKeys(printings, PHYSICAL);
 	}
 
-	public static Predicate<Card> textContainsNotReminder(final String text) {
+	public static Predicate<Characteristics> textContainsNotReminder(final String text) {
 		final Pattern pattern =
 				Pattern.compile("\\Q" + text + "\\E(?![^(]*\\))",
 						Pattern.CASE_INSENSITIVE);
-		return new Predicate<Card>() {
-			@Override public boolean apply(Card card) {
+		return new Predicate<Characteristics>() {
+			@Override public boolean apply(Characteristics card) {
 				return pattern.matcher(card.text()).find();
 			}
 		};
@@ -81,9 +81,9 @@ public final class Cards {
 	private static final Set<ManaSymbol> PRIMARY = Sets.immutableEnumSet(EnumSet
 			.range(ManaSymbol.WHITE, ManaSymbol.GREEN));
 
-	private static Section section(Card c) {
+	private static Section section(Characteristics c) {
 		if (c.link() != null
-				&& c.whole().pair().layout() == Layout.SPLIT
+				&& c.whole().layout() == Layout.SPLIT
 				&& !c.colors().equals(c.link().get().colors())) {
 			return Section.SPLIT;
 		}
@@ -114,8 +114,8 @@ public final class Cards {
 	private static final Ordering<String> BASIC_TYPES = Ordering
 			.explicit(Subtype.BASIC_LAND_TYPES.keySet().asList());
 
-	public static final Ordering<Card> REGULAR_ORDERING = new Ordering<Card>() {
-		@Override public int compare(Card c1, Card c2) {
+	public static final Ordering<Characteristics> REGULAR_ORDERING = new Ordering<Characteristics>() {
+		@Override public int compare(Characteristics c1, Characteristics c2) {
 			Section section = section(c1);
 			int sectionCmp = section.compareTo(section(c2));
 			if (sectionCmp != 0) {

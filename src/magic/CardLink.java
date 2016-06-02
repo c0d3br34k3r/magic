@@ -1,8 +1,8 @@
 package magic;
 
-public class CardLink extends Link<Card> {
+public class CardLink extends Link<Characteristics> {
 
-	CardLink(Card linked, int index) {
+	CardLink(Characteristics linked, int index) {
 		super(linked, index);
 	}
 

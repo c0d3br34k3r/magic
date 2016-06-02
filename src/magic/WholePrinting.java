@@ -3,6 +3,7 @@ package magic;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Objects;
 
 import com.google.common.collect.ComparisonChain;
@@ -10,13 +11,14 @@ import com.google.common.collect.Iterators;
 
 public abstract class WholePrinting implements Comparable<WholePrinting>, Iterable<Printing> {
 
-	private final WholeCard card;
+	private final Card card;
 	private final Expansion expansion;
 	private final Rarity rarity;
 	private final int variation;
 	private final boolean isTimeshifted;
 
 	private WholePrinting(Builder builder) {
+		builder.first.setWhole(this);
 		this.card = Objects.requireNonNull(builder.card);
 		this.expansion = Objects.requireNonNull(builder.expansion);
 		this.rarity = Objects.requireNonNull(builder.rarity);
@@ -28,9 +30,9 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 
 	public abstract Printing only();
 
-	public abstract PrintingPair pair();
+	public abstract Pair<Printing> pair();
 
-	public final WholeCard card() {
+	public final Card card() {
 		return card;
 	}
 
@@ -82,9 +84,8 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 
 		private StandalonePrinting(Builder builder) {
 			super(builder);
-			builder.only.setWhole(this);
-			builder.only.setCard(builder.card.only());
-			this.printing = builder.only.build();
+			builder.first.setCard(builder.card.only());
+			this.printing = builder.first.build();
 		}
 
 		@Override public boolean hasOnePart() {
@@ -95,7 +96,7 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 			return printing;
 		}
 
-		@Override public PrintingPair pair() {
+		@Override public Pair<Printing> pair() {
 			throw new IllegalStateException();
 		}
 
@@ -110,12 +111,15 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 
 	private static final class CompositePrinting extends WholePrinting {
 
-		private final PrintingPair printings;
+		private final Pair<Printing> printings;
 
 		private CompositePrinting(Builder builder) {
 			super(builder);
-			builder.pair.setCardPair(card().pair());
-			this.printings = builder.pair.build(this);
+			builder.second.setWhole(this);
+			builder.first.setCard(card().pair().first());
+			builder.second.setCard(card().pair().second());
+			builder.first.prepareLink(builder.second);
+			this.printings = new Pair<>(builder.first.build(), builder.first.getOther());
 		}
 
 		@Override public boolean hasOnePart() {
@@ -126,14 +130,14 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 			throw new IllegalStateException();
 		}
 
-		@Override public PrintingPair pair() {
+		@Override public Pair<Printing> pair() {
 			return printings;
 		}
 
 		@Override public void writeTo(PrintStream out) throws IOException {
 			printings.first().writeTo(out);
 			out.append("* ")
-					.append(printings.cards().layout().toString().toUpperCase())
+					.append(card().layout().toString().toUpperCase())
 					.append(" *")
 					.append(System.lineSeparator());
 			printings.second().writeTo(out);
@@ -146,34 +150,37 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 
 	public static class Builder {
 
-		private WholeCard card;
+		private Card card;
 		private Expansion expansion;
 		private Rarity rarity;
 		private int variation = 0;
 		private boolean isTimeshifted = false;
-		private Printing.Builder only;
-		private PrintingPair.Builder pair;
+		private Printing.Builder first;
+		private Printing.Builder second;
 
 		private Builder() {}
 
-		public Builder setCard(WholeCard card) {
+		public void setCard(Card card) {
 			this.card = Objects.requireNonNull(card);
-			return this;
 		}
 
-		public Builder setOnly(Printing.Builder only) {
-			this.only = Objects.requireNonNull(only);
-			return this;
+		public void setOnly(Printing.Builder only) {
+			this.first = Objects.requireNonNull(only);
+			this.second = null;
+		}
+		
+		public void setPair(Printing.Builder first, Printing.Builder second) {
+			this.first = first;
+			this.second = second;
 		}
 
-		public Builder setPair(PrintingPair.Builder pair) {
-			this.pair = Objects.requireNonNull(pair);
-			return this;
+		public void setPair(List<Printing.Builder> pair) {
+			this.first = pair.get(0);
+			this.second = pair.get(1);
 		}
 
-		public Builder setExpansion(Expansion expansion) {
+		public void setExpansion(Expansion expansion) {
 			this.expansion = Objects.requireNonNull(expansion);
-			return this;
 		}
 
 		public Builder setRarity(Rarity rarity) {
@@ -192,10 +199,10 @@ public abstract class WholePrinting implements Comparable<WholePrinting>, Iterab
 		}
 
 		public WholePrinting build() {
-			if (!(only == null ^ pair == null)) {
+			if (first == null) {
 				throw new IllegalArgumentException();
 			}
-			if (only != null) {
+			if (second == null) {
 				return new StandalonePrinting(this);
 			}
 			return new CompositePrinting(this);

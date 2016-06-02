@@ -21,30 +21,30 @@ import com.google.common.collect.ListMultimap;
 import com.google.common.collect.UnmodifiableIterator;
 import com.google.gson.stream.JsonReader;
 
-import magic.Card;
+import magic.FullCharacteristics;
 import magic.Expansion;
-import magic.WholeCard;
+import magic.Card;
 import magic.WholePrinting;
 
 public class MiniDatabase {
 
-	private final ImmutableSortedMap<String, WholeCard> cards;
+	private final ImmutableSortedMap<String, Card> cards;
 	private final ImmutableSortedMap<String, Expansion> expansions;
-	private final ImmutableSortedMap<WholeCard, ImmutableListMultimap<Expansion, WholePrinting>> printings;
+	private final ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, WholePrinting>> printings;
 
 	public MiniDatabase(String filename) throws IOException {
 		this(Paths.get(filename));
 	}
 
 	public MiniDatabase(Path path) throws IOException {
-		Builder<String, WholeCard> cardBuilder =
+		Builder<String, Card> cardBuilder =
 				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
 		Builder<String, Expansion> expansionBuilder =
 				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
 		try (JsonReader in =
 				new JsonReader(Files.newBufferedReader(path, StandardCharsets.UTF_8))) {
 			in.beginArray();
-			for (WholeCard card : JsonCardConverter.readCards(in)) {
+			for (Card card : JsonCardConverter.readCards(in)) {
 				cardBuilder.put(Diacritics.remove(card.name()), card);
 			}
 			cards = cardBuilder.build();
@@ -57,15 +57,15 @@ public class MiniDatabase {
 		}
 	}
 
-	public WholeCard card(String name) {
+	public Card card(String name) {
 		return cards.get(name);
 	}
 
-	public Collection<WholeCard> wholeCards() {
+	public Collection<Card> wholeCards() {
 		return cards.values();
 	}
 
-	public Iterable<Card> cards() {
+	public Iterable<FullCharacteristics> cards() {
 		return Iterables.concat(cards.values());
 	}
 
@@ -101,17 +101,17 @@ public class MiniDatabase {
 		};
 	}
 
-	public Collection<WholeCard> readCards(String filename) throws IOException {
+	public Collection<Card> readCards(String filename) throws IOException {
 		return readCards(Paths.get(filename));
 	}
 
-	public Collection<WholeCard> readCards(Path path) throws IOException {
-		List<WholeCard> cards = new ArrayList<>();
+	public Collection<Card> readCards(Path path) throws IOException {
+		List<Card> cards = new ArrayList<>();
 		List<String> notFound = new ArrayList<>();
 		for (String line : Files.readAllLines(path, StandardCharsets.UTF_8)) {
 			line = line.trim();
 			if (!(line.isEmpty() || line.startsWith("#"))) {
-				WholeCard card = card(line);
+				Card card = card(line);
 				if (card == null) {
 					notFound.add(line);
 				}
@@ -124,13 +124,13 @@ public class MiniDatabase {
 		throw new IllegalArgumentException("Cards not found: " + notFound);
 	}
 
-	public static void writeCards(String filename, Collection<WholeCard> cards) throws IOException {
+	public static void writeCards(String filename, Collection<Card> cards) throws IOException {
 		writeCards(Paths.get(filename), cards);
 	}
 
-	public static void writeCards(Path path, Collection<WholeCard> cards) throws IOException {
+	public static void writeCards(Path path, Collection<Card> cards) throws IOException {
 		try (BufferedWriter out = Files.newBufferedWriter(path, StandardCharsets.UTF_8)) {
-			for (WholeCard card : cards) {
+			for (Card card : cards) {
 				out.write(Diacritics.remove(card.name()));
 				out.newLine();
 			}

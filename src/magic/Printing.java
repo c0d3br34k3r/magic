@@ -10,7 +10,7 @@ import com.google.common.collect.ComparisonChain;
 
 public final class Printing implements Comparable<Printing> {
 
-	private final Card card;
+	private final Characteristics card;
 	private final WholePrinting whole;
 	private final @Nullable PrintingLink link;
 	private final String flavorText;
@@ -28,7 +28,7 @@ public final class Printing implements Comparable<Printing> {
 		this.watermark = builder.watermark;
 	}
 
-	public Card card() {
+	public Characteristics card() {
 		return card;
 	}
 
@@ -126,7 +126,7 @@ public final class Printing implements Comparable<Printing> {
 
 	public static class Builder extends PartialBuilder<Printing, WholePrinting, PrintingLink> {
 
-		private Card card;
+		private Characteristics card;
 		private String flavorText = "";
 		private CollectorNumber collectorNumber = null;
 		private String artist;
@@ -134,7 +134,7 @@ public final class Printing implements Comparable<Printing> {
 
 		private Builder() {}
 
-		void setCard(Card card) {
+		void setCard(Characteristics card) {
 			this.card = Objects.requireNonNull(card);
 		}
 

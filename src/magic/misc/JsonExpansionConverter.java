@@ -15,14 +15,14 @@ import com.google.common.collect.Multimaps;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 
+import magic.Card;
 import magic.CollectorNumber;
 import magic.Expansion;
 import magic.Expansion.BorderColor;
 import magic.Expansion.ReleaseType;
+import magic.Pair;
 import magic.Printing;
-import magic.PrintingPair;
 import magic.Rarity;
-import magic.WholeCard;
 import magic.WholePrinting;
 
 public class JsonExpansionConverter {
@@ -67,10 +67,10 @@ public class JsonExpansionConverter {
 		out.endObject();
 	}
 
-	public static void writePrintings(JsonWriter out, Multimap<WholeCard, WholePrinting> printings)
+	public static void writePrintings(JsonWriter out, Multimap<Card, WholePrinting> printings)
 			throws IOException {
 		out.beginObject();
-		for (Map.Entry<WholeCard, Collection<WholePrinting>> entry : Multimaps.asMap(printings)
+		for (Map.Entry<Card, Collection<WholePrinting>> entry : Multimaps.asMap(printings)
 				.entrySet()) {
 			out.name(entry.getKey().name());
 			out.beginArray();
@@ -93,7 +93,7 @@ public class JsonExpansionConverter {
 			out.name(ONLY);
 			writePartial(out, printing.only());
 		} else {
-			PrintingPair pair = printing.pair();
+			Pair<Printing> pair = printing.pair();
 			out.name(PAIR).beginArray();
 			writePartial(out, pair.first());
 			writePartial(out, pair.second());
@@ -118,7 +118,7 @@ public class JsonExpansionConverter {
 	}
 
 	public static ImmutableList<Expansion> readExpansions(JsonReader in,
-			Map<String, WholeCard> cards) throws IOException {
+			Map<String, Card> cards) throws IOException {
 		Builder<Expansion> builder = ImmutableList.builder();
 		in.beginArray();
 		while (in.hasNext()) {
@@ -128,7 +128,7 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	public static Expansion readExpansion(JsonReader in, Map<String, WholeCard> cards)
+	public static Expansion readExpansion(JsonReader in, Map<String, Card> cards)
 			throws IOException {
 		Expansion.Builder builder = Expansion.builder();
 		in.beginObject();
@@ -161,15 +161,15 @@ public class JsonExpansionConverter {
 		return builder.build();
 	}
 
-	public static ImmutableSortedMap<WholeCard, ImmutableListMultimap<Expansion, WholePrinting>> readPrintings(
+	public static ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, WholePrinting>> readPrintings(
 			JsonReader in,
-			Map<String, WholeCard> cards,
+			Map<String, Card> cards,
 			Map<String, Expansion> expansions) throws IOException {
-		ImmutableSortedMap.Builder<WholeCard, ImmutableListMultimap<Expansion, WholePrinting>> mapBuilder =
+		ImmutableSortedMap.Builder<Card, ImmutableListMultimap<Expansion, WholePrinting>> mapBuilder =
 				ImmutableSortedMap.naturalOrder();
 		in.beginObject();
 		while (in.hasNext()) {
-			WholeCard card = cards.get(Diacritics.remove(in.nextName()));
+			Card card = cards.get(Diacritics.remove(in.nextName()));
 			ImmutableListMultimap.Builder<Expansion, WholePrinting> printings = ImmutableListMultimap.builder();
 			in.beginArray();
 			int index = 0;
@@ -187,7 +187,7 @@ public class JsonExpansionConverter {
 	private static WholePrinting readPrinting(
 			JsonReader in,
 			Map<String, Expansion> expansions,
-			WholeCard card,
+			Card card,
 			int index) throws IOException {
 		WholePrinting.Builder builder = WholePrinting.builder();
 		builder.setCard(card);
@@ -210,9 +210,7 @@ public class JsonExpansionConverter {
 					break;
 				case PAIR:
 					in.beginArray();
-					builder.setPair(PrintingPair.builder()
-							.setFirst(readPartial(in))
-							.setSecond(readPartial(in)));
+					builder.setPair(readPartial(in), readPartial(in));
 					in.endArray();
 					break;
 				default:

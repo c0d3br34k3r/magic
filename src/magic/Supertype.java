@@ -3,14 +3,14 @@ package magic;
 import java.util.Set;
 
 /**
- * All supertypes that may appear on a Magic card. Each {@link Card} contains a
+ * All supertypes that may appear on a Magic card. Each {@link FullCharacteristics} contains a
  * {@link Set} of {@code Supertype}s.
  * <p>
  * The order of these values is such that, given any subset of them that appears
  * on an existing card, they will be in the order listed on that card. That
  * said, only one card in existence has multiple supertypes.
  * 
- * @see Card
+ * @see FullCharacteristics
  */
 public enum Supertype {
 

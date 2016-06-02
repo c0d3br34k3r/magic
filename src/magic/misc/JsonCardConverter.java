@@ -7,21 +7,21 @@ import java.util.EnumSet;
 import java.util.List;
 import java.util.Set;
 
-import magic.Card;
-import magic.CardPair;
-import magic.Color;
-import magic.Expression;
-import magic.Layout;
-import magic.ManaCost;
-import magic.Supertype;
-import magic.Type;
-import magic.WholeCard;
-import magic.WholeCard.Builder;
-
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
+
+import magic.Card;
+import magic.Card.Builder;
+import magic.Characteristics;
+import magic.Color;
+import magic.Expression;
+import magic.Layout;
+import magic.ManaCost;
+import magic.Pair;
+import magic.Supertype;
+import magic.Type;
 
 public class JsonCardConverter {
 
@@ -40,68 +40,67 @@ public class JsonCardConverter {
 	private static final String ONLY = "only";
 	private static final String PAIR = "pair";
 	private static final String LAYOUT = "layout";
-	private static final String PARTS = "parts";
 
-	public static void writeCards(JsonWriter out, Iterable<WholeCard> cards) throws IOException {
+	public static void writeCards(JsonWriter out, Iterable<Card> cards) throws IOException {
 		out.beginArray();
-		for (WholeCard card : cards) {
+		for (Card card : cards) {
 			writeCard(out, card);
 		}
 		out.endArray();
 	}
 
-	public static void writeCard(JsonWriter out, WholeCard wholeCard)
-			throws IOException {
+	public static void writeCard(JsonWriter out, Card card) throws IOException {
 		out.beginObject();
-		if (!wholeCard.colorIdentity().isEmpty()) {
+		out.name(LAYOUT).value(card.layout().name());
+		if (!card.colorIdentity().isEmpty()) {
 			out.name(COLOR_IDENTITY);
-			writeEnums(out, wholeCard.colorIdentity());
+			writeEnums(out, card.colorIdentity());
 		}
-		if (wholeCard.hasOnePart()) {
+		if (card.hasOnePart()) {
 			out.name(ONLY);
-			writePartial(out, wholeCard.only());
+			writeCharacteristics(out, card.only());
 		} else {
-			CardPair pair = wholeCard.pair();
-			out.name(PAIR).beginObject()
-					.name(LAYOUT).value(pair.layout().name())
-					.name(PARTS).beginArray();
-			writePartial(out, pair.first());
-			writePartial(out, pair.second());
-			out.endArray().endObject();
+			Pair<Characteristics> pair = card.pair();
+			out.name(PAIR).beginArray();
+			writeCharacteristics(out, pair.first());
+			writeCharacteristics(out, pair.second());
+			out.endArray();
 		}
 		out.endObject();
 	}
 
-	private static void writePartial(JsonWriter out, Card card)
+	private static void writeCharacteristics(JsonWriter out, Characteristics characs)
 			throws IOException {
 		out.beginObject();
-		out.name(NAME).value(card.name());
-		if (!card.manaCost().isEmpty()) {
-			out.name(MANA_COST).value(card.manaCost().toString());
+		out.name(NAME).value(characs.name());
+		System.out.println(characs.whole());
+		if (!characs.manaCost().isEmpty()
+				&& !(characs.whole().layout() == Layout.FLIP && !characs.link().isFirst())) {
+			out.name(MANA_COST).value(characs.manaCost().toString());
 		}
-		if (card.colorIndicator() != null) {
+		if (characs.colorIndicator() != null) {
 			out.name(COLOR_INDICATOR);
-			writeEnums(out, card.colorIndicator());
+			writeEnums(out, characs.colorIndicator());
 		}
-		if (!card.supertypes().isEmpty()) {
+		if (!characs.supertypes().isEmpty()) {
 			out.name(SUPERTYPES);
-			writeEnums(out, card.supertypes());
+			writeEnums(out, characs.supertypes());
 		}
 		out.name(TYPES);
-		writeEnums(out, card.types());
-		if (!card.subtypes().isEmpty()) {
+		writeEnums(out, characs.types());
+		if (!characs.subtypes().isEmpty()) {
 			out.name(SUBTYPES);
-			writeStrings(out, card.subtypes());
+			writeStrings(out, characs.subtypes());
 		}
-		if (!card.text().isEmpty()) {
-			out.name(TEXT).value(card.text());
+		if (!characs.text().isEmpty()) {
+			out.name(TEXT).value(characs.text());
 		}
-		if (card.loyalty() != null) {
-			out.name(LOYALTY).value(card.loyalty());
+		if (characs.loyalty() != null) {
+			out.name(LOYALTY).value(characs.loyalty());
 		}
-		if (card.power() != null) {
-			out.name(POWER).value(card.power().toString());
-			out.name(TOUGHNESS).value(card.toughness().toString());
+		if (characs.power() != null) {
+			out.name(POWER).value(characs.power().toString());
+			out.name(TOUGHNESS).value(characs.toughness().toString());
 		}
 		out.endObject();
 	}
@@ -123,8 +122,8 @@ public class JsonCardConverter {
 		out.endArray();
 	}
 
-	public static Collection<WholeCard> readCards(JsonReader in) throws IOException {
-		List<WholeCard> cards = new ArrayList<>();
+	public static Collection<Card> readCards(JsonReader in) throws IOException {
+		List<Card> cards = new ArrayList<>();
 		in.beginArray();
 		while (in.hasNext()) {
 			cards.add(readCard(in));
@@ -133,20 +132,25 @@ public class JsonCardConverter {
 		return cards;
 	}
 
-	public static WholeCard readCard(JsonReader in) throws IOException {
-		Builder builder = WholeCard.builder();
+	public static Card readCard(JsonReader in) throws IOException {
+		Builder builder = Card.builder();
 		in.beginObject();
 		while (in.hasNext()) {
 			String key = in.nextName();
 			switch (key) {
+				case LAYOUT:
+					builder.setLayout(Layout.valueOf(in.nextString()));
+					break;
 				case COLOR_IDENTITY:
 					builder.setColorIdentity(readEnums(in, Color.class));
 					break;
 				case ONLY:
-					builder.setOnly(readPartial(in));
+					builder.setOnly(readCharacteristics(in));
 					break;
 				case PAIR:
-					builder.setPair(readPair(in));
+					in.beginArray();
+					builder.setPair(readCharacteristics(in), readCharacteristics(in));
+					in.endArray();
 					break;
 				default:
 					throw new IllegalArgumentException(key);
@@ -156,9 +160,9 @@ public class JsonCardConverter {
 		return builder.build();
 	}
 
-	private static Card.Builder readPartial(JsonReader in)
+	private static Characteristics.Builder readCharacteristics(JsonReader in)
 			throws IOException {
-		Card.Builder builder = Card.builder();
+		Characteristics.Builder builder = Characteristics.builder();
 		in.beginObject();
 		while (in.hasNext()) {
 			String key = in.nextName();
@@ -192,29 +196,6 @@ public class JsonCardConverter {
 					break;
 				case TOUGHNESS:
 					builder.setToughness(Expression.of(in.nextString()));
-					break;
-				default:
-					throw new IllegalArgumentException(key);
-			}
-		}
-		in.endObject();
-		return builder;
-	}
-
-	private static CardPair.Builder readPair(JsonReader in) throws IOException {
-		CardPair.Builder builder = CardPair.builder();
-		in.beginObject();
-		while (in.hasNext()) {
-			String key = in.nextName();
-			switch (key) {
-				case LAYOUT:
-					builder.setLayout(Layout.valueOf(in.nextString()));
-					break;
-				case PARTS:
-					in.beginArray();
-					builder.setFirst(readPartial(in));
-					builder.setSecond(readPartial(in));
-					in.endArray();
 					break;
 				default:
 					throw new IllegalArgumentException(key);

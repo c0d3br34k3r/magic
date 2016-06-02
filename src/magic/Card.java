@@ -1,140 +1,49 @@
 package magic;
 
 import java.io.IOException;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Objects;
-import java.util.Set;
 
-import javax.annotation.Nullable;
-
-import com.google.common.base.Joiner;
-import com.google.common.base.MoreObjects;
 import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Iterators;
 
-public final class Card implements Comparable<Card> {
+public abstract class Card implements Comparable<Card>, Iterable<Characteristics> {
 
-	private final WholeCard whole;
-	private final @Nullable CardLink link;
-	private final String name;
-	private final ManaCost manaCost;
-	private final @Nullable ImmutableSet<Color> colorIndicator;
-	private final ImmutableSet<Supertype> supertypes;
-	private final ImmutableSet<Type> types;
-	private final ImmutableSet<String> subtypes;
-	private final String text;
-	private final @Nullable Expression power;
-	private final @Nullable Expression toughness;
-	private final @Nullable Integer loyalty;
+	private final ImmutableSet<Color> colorIdentity;
+	private final Layout layout;
 
 	private Card(Builder builder) {
-		this.whole = builder.getWhole();
-		this.link = builder.buildLink(this);
-		this.name = Objects.requireNonNull(builder.name);
-		this.manaCost = builder.manaCost;
-		this.colorIndicator = builder.colorIndicator;
-		this.supertypes = builder.supertypes;
-		this.types = Objects.requireNonNull(builder.types);
-		this.subtypes = builder.subtypes;
-		this.text = builder.text;
-		this.power = builder.power;
-		this.toughness = builder.toughness;
-		this.loyalty = builder.loyalty;
+		builder.first.setWhole(this);
+		this.colorIdentity = builder.colorIdentity;
+		this.layout = Objects.requireNonNull(builder.layout);
 	}
 
-	public String name() {
-		return name;
+	public ImmutableSet<Color> colorIdentity() {
+		return colorIdentity;
 	}
 
-	public ManaCost manaCost() {
-		return manaCost;
+	public Layout layout() {
+		return layout;
 	}
 
-	public @Nullable Set<Color> colorIndicator() {
-		return colorIndicator;
-	}
+	public abstract String name();
 
-	public ImmutableSet<Supertype> supertypes() {
-		return supertypes;
-	}
+	public abstract boolean hasOnePart();
 
-	public ImmutableSet<Type> types() {
-		return types;
-	}
+	public abstract Characteristics only();
 
-	public ImmutableSet<String> subtypes() {
-		return subtypes;
-	}
+	public abstract Pair<Characteristics> pair();
 
-	public String text() {
-		return text;
-	}
-
-	public @Nullable Expression power() {
-		return power;
-	}
-
-	public @Nullable Expression toughness() {
-		return toughness;
-	}
-
-	public @Nullable Integer loyalty() {
-		return loyalty;
-	}
-
-	public ImmutableSet<Color> colors() {
-		return MoreObjects.firstNonNull(colorIndicator, manaCost.colors());
-	}
-
-	public WholeCard whole() {
-		return whole;
-	}
-
-	public @Nullable CardLink link() {
-		return link;
+	@Override public String toString() {
+		return name();
 	}
 
 	@Override public int compareTo(Card other) {
-		return name.compareToIgnoreCase(other.name);
+		return name().compareToIgnoreCase(other.name());
 	}
 
-	@Override public String toString() {
-		return name;
-	}
-
-	private static final Joiner SPACE_JOINER = Joiner.on(' ');
-
-	public void writeTo(Appendable out) throws IOException {
-		String newline = System.lineSeparator();
-		out.append(name);
-		if (!manaCost.isEmpty()) {
-			out.append(' ').append(manaCost.toString());
-		}
-		out.append(newline);
-		if (colorIndicator != null && !colorIndicator.isEmpty()) {
-			out.append('(');
-			for (Color color : colorIndicator) {
-				out.append(color.code());
-			}
-			out.append(") ");
-		}
-		if (!supertypes.isEmpty()) {
-			SPACE_JOINER.appendTo(out, supertypes).append(' ');
-		}
-		SPACE_JOINER.appendTo(out, types);
-		if (!subtypes.isEmpty()) {
-			out.append(" — ");
-			SPACE_JOINER.appendTo(out, subtypes);
-		}
-		if (!text.isEmpty()) {
-			out.append(newline).append(text);
-		}
-		if (power != null) {
-			out.append(newline).append(power.toString()).append('/')
-					.append(toughness.toString());
-		} else if (loyalty != null) {
-			out.append(newline).append(Integer.toString(loyalty));
-		}
-		out.append(newline);
-	}
+	public abstract void writeTo(Appendable out) throws IOException;
 
 	public void print() {
 		try {
@@ -148,78 +57,128 @@ public final class Card implements Comparable<Card> {
 		return new Builder();
 	}
 
-	public static class Builder extends PartialBuilder<Card, WholeCard, CardLink> {
+	private static class StandaloneCard extends Card {
 
-		private String name;
-		private ManaCost manaCost = ManaCost.EMPTY;
-		private ImmutableSet<Color> colorIndicator = null;
-		private ImmutableSet<Supertype> supertypes = ImmutableSet.of();
-		private ImmutableSet<Type> types;
-		private ImmutableSet<String> subtypes = ImmutableSet.of();
-		private String text = "";
-		private @Nullable Expression power = null;
-		private @Nullable Expression toughness = null;
-		private @Nullable Integer loyalty = null;
+		private final Characteristics characs;
 
-		public Builder() {}
+		StandaloneCard(Builder builder) {
+			super(builder);
+			this.characs = builder.first.build();
+		}
 
-		public Builder setName(String name) {
-			this.name = Objects.requireNonNull(name);
+		@Override public String name() {
+			return characs.name();
+		}
+
+		@Override public Characteristics only() {
+			return characs;
+		}
+
+		@Override public Pair<Characteristics> pair() {
+			throw new IllegalStateException();
+		}
+
+		@Override public Iterator<Characteristics> iterator() {
+			return Iterators.singletonIterator(characs);
+		}
+
+		@Override public void writeTo(Appendable out) throws IOException {
+			characs.writeTo(out);
+		}
+
+		@Override public boolean hasOnePart() {
+			return true;
+		}
+	}
+
+	private static class CompositeCard extends Card {
+
+		private final Pair<Characteristics> pair;
+
+		CompositeCard(Builder builder) {
+			super(builder);
+			builder.second.setWhole(this);
+			builder.first.prepareLink(builder.second);
+			this.pair = new Pair<Characteristics>(builder.first.build(), builder.first.getOther());
+		}
+
+		@Override public String name() {
+			return layout().format(pair.get(0), pair.get(1));
+		}
+
+		@Override public Characteristics only() {
+			throw new IllegalStateException();
+		}
+
+		@Override public Pair<Characteristics> pair() {
+			return pair;
+		}
+
+		@Override public boolean hasOnePart() {
+			return false;
+		}
+
+		@Override public Iterator<Characteristics> iterator() {
+			return pair.iterator();
+		}
+
+		@Override public void writeTo(Appendable out) throws IOException {
+			pair.get(0).writeTo(out);
+			out.append("* ")
+					.append(layout().toString().toUpperCase())
+					.append(" *")
+					.append(System.lineSeparator());
+			pair.get(1).writeTo(out);
+		}
+	}
+
+	public static class Builder {
+
+		private Characteristics.Builder first;
+		private Characteristics.Builder second;
+		public Layout layout;
+		private ImmutableSet<Color> colorIdentity = ImmutableSet.of();
+
+		private Builder() {}
+
+		public Builder setColorIdentity(ImmutableSet<Color> colorIdentity) {
+			this.colorIdentity = Objects.requireNonNull(colorIdentity);
 			return this;
 		}
 
-		public Builder setManaCost(ManaCost manaCost) {
-			this.manaCost = Objects.requireNonNull(manaCost);
+		public Builder setLayout(Layout layout) {
+			this.layout = Objects.requireNonNull(layout);
 			return this;
 		}
 
-		public Builder setColorIndicator(@Nullable ImmutableSet<Color> colorIndicator) {
-			this.colorIndicator = colorIndicator;
+		public Builder setOnly(Characteristics.Builder only) {
+			this.first = only;
+			this.second = null;
 			return this;
 		}
 
-		public Builder setSupertypes(ImmutableSet<Supertype> supertypes) {
-			this.supertypes = Objects.requireNonNull(supertypes);
+		public Builder setPair(Characteristics.Builder first, Characteristics.Builder second) {
+			this.first = first;
+			this.second = second;
 			return this;
 		}
 
-		public Builder setTypes(ImmutableSet<Type> types) {
-			this.types = Objects.requireNonNull(types);
+		public Builder setPair(List<Characteristics.Builder> pair) {
+			this.first = pair.get(0);
+			this.second = pair.get(1);
 			return this;
 		}
 
-		public Builder setSubtypes(ImmutableSet<String> subtypes) {
-			this.subtypes = Objects.requireNonNull(subtypes);
-			return this;
+		public Card build() {
+			if (first == null) {
+				throw new IllegalArgumentException();
+			}
+			if (second == null) {
+				return new StandaloneCard(this);
+			}
+			return new CompositeCard(this);			
 		}
 
-		public Builder setText(String text) {
-			this.text = Objects.requireNonNull(text);
-			return this;
-		}
-
-		public Builder setPower(@Nullable Expression power) {
-			this.power = power;
-			return this;
-		}
-
-		public Builder setToughness(@Nullable Expression toughness) {
-			this.toughness = toughness;
-			return this;
-		}
-
-		public Builder setLoyalty(@Nullable Integer loyalty) {
-			this.loyalty = loyalty;
-			return this;
-		}
-
-		@Override Card build() {
-			return new Card(this);
-		}
-
-		@Override CardLink newLink(Card partial, int index) {
-			return new CardLink(partial, index);
-		}
 	}
 
 }
