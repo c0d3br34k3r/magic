@@ -27,12 +27,13 @@ import magic.Printing;
 
 public class JsonExpansionConverter {
 
-	private static final String NAME = "name";
+	private static final String IDENTIFIER = "identifier";
 	private static final String CODE = "code";
 	private static final String RELEASE_DATE = "releaseDate";
 	private static final String TYPE = "type";
 	private static final String BORDER_COLOR = "borderColor";
 	private static final String SIZE = "size";
+	private static final String LEVEL = "level";
 
 	private static final String EXPANSION = "expansion";
 	private static final String RARITY = "rarity";
@@ -56,13 +57,16 @@ public class JsonExpansionConverter {
 
 	public static void writeExpansion(JsonWriter out, Expansion expansion) throws IOException {
 		out.beginObject();
-		out.name(NAME).value(expansion.name());
+		out.name(IDENTIFIER).value(expansion.name());
 		out.name(CODE).value(expansion.code());
 		out.name(RELEASE_DATE).value(expansion.releaseDate().toString());
 		out.name(TYPE).value(expansion.type().name());
 		out.name(BORDER_COLOR).value(expansion.borderColor().name());
 		if (expansion.size() != null) {
 			out.name(SIZE).value(expansion.size());
+		}
+		if (expansion.level() != 0) {
+			out.name(LEVEL).value(expansion.level());
 		}
 		out.endObject();
 	}
@@ -135,8 +139,8 @@ public class JsonExpansionConverter {
 		while (in.hasNext()) {
 			String key = in.nextName();
 			switch (key) {
-				case NAME:
-					builder.setName(in.nextString());
+				case IDENTIFIER:
+					builder.setIdentifier(in.nextString());
 					break;
 				case CODE:
 					builder.setCode(in.nextString());
@@ -152,6 +156,9 @@ public class JsonExpansionConverter {
 					break;
 				case SIZE:
 					builder.setSize(in.nextInt());
+					break;
+				case LEVEL:
+					builder.setLevel(in.nextInt());
 					break;
 				default:
 					throw new IllegalArgumentException(key);

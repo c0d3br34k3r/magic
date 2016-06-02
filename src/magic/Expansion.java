@@ -11,24 +11,30 @@ import org.joda.time.LocalDate;
  */
 public final class Expansion implements Comparable<Expansion> {
 
-	private final String name;
+	private final String identifier;
 	private final String code;
 	private final LocalDate releaseDate;
 	private final ReleaseType type;
 	private final BorderColor borderColor;
 	private final @Nullable Integer size;
+	private final int level;
 
 	private Expansion(Builder builder) {
-		this.name = Objects.requireNonNull(builder.name);
+		this.identifier = builder.identifier;
 		this.code = Objects.requireNonNull(builder.code);
 		this.releaseDate = Objects.requireNonNull(builder.releaseDate);
 		this.type = Objects.requireNonNull(builder.type);
 		this.borderColor = Objects.requireNonNull(builder.borderColor);
 		this.size = builder.size;
+		this.level = builder.level;
 	}
 
-	public String name() {
-		return name;
+	public @Nullable String name() {
+		return type.format(this);
+	}
+
+	public @Nullable String identifier() {
+		return identifier;
 	}
 
 	public String code() {
@@ -49,6 +55,10 @@ public final class Expansion implements Comparable<Expansion> {
 
 	public @Nullable Integer size() {
 		return size;
+	}
+	
+	public int level() {
+		return level;
 	}
 
 	/**
@@ -80,45 +90,79 @@ public final class Expansion implements Comparable<Expansion> {
 	}
 
 	public enum ReleaseType {
-		CORE_SET(true),
-		EXPANSION(true),
-		WELCOME_DECK,
+		EDITION(true, true),
+		CORE_SET(true, true) {
+			
+			@Override String format(Expansion expansion) {
+				return "Magic " + (expansion.releaseDate.getYear() + 1);
+			}
+		},
+		EXPANSION(true, true),
+		WELCOME_DECK(true, false) {
 
-		STARTER(true),
-		PROMOTIONAL,
+			@Override String format(Expansion expansion) {
+				return "Welcome Deck " + expansion.releaseDate.getYear();
+			}
+		},
 
-		ONLINE(true),
+		STARTER(true, false),
+		PROMOTIONAL(false, false),
 
-		DUEL_DECKS,
-		FROM_THE_VAULT,
-		PLANECHASE,
-		PREMIUM_DECK,
-		ARCHENEMY,
-		COMMANDER,
-		MODERN_MASTERS(true),
-		MODERN_EVENT_DECK,
-		CONSPIRACY(true),
+		ONLINE(true, false),
 
-		OTHER_BOX;
+		DUEL_DECKS(false, false) {
+
+			@Override String format(Expansion expansion) {
+				return "Duel Decks: " + expansion.identifier;
+			}
+		},
+		FROM_THE_VAULT(false, false) {
+
+			@Override String format(Expansion expansion) {
+				return "From the Vault: " + expansion.identifier;
+			}
+		},
+		PLANECHASE(false, false),
+		PREMIUM_DECK(false, false) {
+
+			@Override String format(Expansion expansion) {
+				return "Premium Deck Series: " + expansion.identifier;
+			}
+		},
+		ARCHENEMY(false, false),
+		COMMANDER(false, false),
+		MODERN_MASTERS(true, false),
+		ETERNAL_MASTERS(true, false),
+		MODERN_EVENT_DECK(false, false),
+		CONSPIRACY(true, false),
+
+		OTHER_BOX(false, false);
 
 		private boolean hasBooster;
+		private boolean effectsStandard;
 
-		ReleaseType(boolean hasBooster) {
+		ReleaseType(boolean hasBooster, boolean effectsStandard) {
 			this.hasBooster = hasBooster;
+			this.effectsStandard = effectsStandard;
 		}
 
-		ReleaseType() {
-			this(false);
+		String format(Expansion expansion) {
+			return expansion.identifier;
 		}
 
-		public boolean hasBooster() {
+		public final boolean hasBooster() {
 			return hasBooster;
+		}
+
+		public final boolean effectsStandard() {
+			return effectsStandard;
 		}
 	}
 
 	public static class Builder {
 
-		private String name;
+		private int level = 0;
+		private String identifier;
 		private String code;
 		private LocalDate releaseDate;
 		private ReleaseType type;
@@ -127,8 +171,8 @@ public final class Expansion implements Comparable<Expansion> {
 
 		private Builder() {}
 
-		public void setName(String name) {
-			this.name = name;
+		public void setIdentifier(String identifier) {
+			this.identifier = identifier;
 		}
 
 		public void setCode(String code) {
@@ -149,6 +193,10 @@ public final class Expansion implements Comparable<Expansion> {
 
 		public void setSize(@Nullable Integer size) {
 			this.size = size;
+		}
+		
+		public void setLevel(int size) {
+			this.level = size;
 		}
 
 		public Expansion build() {

@@ -3,14 +3,12 @@ package magic;
 import java.util.Collection;
 import java.util.EnumMap;
 import java.util.EnumSet;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Maps;
-import com.google.common.collect.Sets;
 
 import magic.SymbolLogic.Colorless;
 import magic.SymbolLogic.Generic;
@@ -211,33 +209,14 @@ public enum ManaSymbol {
 		return internal.color();
 	}
 
-	public List<Color> colorPair() {
+	public Pair<Color> colorPair() {
 		return internal.colorPair();
 	}
-
-	// /**
-	// * A Range of all primary symbols.
-	// */
-	// public static final Range<ManaSymbol> PRIMARY;
-	// /**
-	// * A Range of all hybrid symbols.
-	// */
-	// public static final Range<ManaSymbol> HYBRID;
-	// /**
-	// * A Range of all monocolored hybrid symbols.
-	// */
-	// public static final Range<ManaSymbol> MONOCOLORED_HYBRID;
-	// /**
-	// * A Range of all phyrexian symbols.
-	// */
-	// public static final Range<ManaSymbol> PHYREXIAN;
 
 	private static final Map<Color, ManaSymbol> PRIMARY_LOOKUP;
 	private static final Map<Set<Color>, ManaSymbol> HYBRID_LOOKUP;
 	private static final Map<Color, ManaSymbol> MONOCOLORED_HYBRID_LOOKUP;
 	private static final Map<Color, ManaSymbol> PHYREXIAN_LOOKUP;
-
-	// private static final Range
 
 	static {
 		final Map<Color, ManaSymbol> primary = new EnumMap<>(Color.class);
@@ -250,7 +229,7 @@ public enum ManaSymbol {
 					primary.put(symbol.color(), symbol);
 					break;
 				case HYBRID:
-					hybrid.put(Sets.immutableEnumSet(symbol.colorPair()), symbol);
+					hybrid.put(symbol.colors(), symbol);
 					break;
 				case MONOCOLORED_HYBRID:
 					monocoloredHybrid.put(symbol.color(), symbol);
@@ -258,33 +237,20 @@ public enum ManaSymbol {
 				case PHYREXIAN:
 					phyrexian.put(symbol.color(), symbol);
 					break;
+				case VARIABLE:
+				case GENERIC:
+				case COLORLESS:
+				case SNOW:
+					break;
 				default:
+					throw new AssertionError();
 			}
 		}
-
 		PRIMARY_LOOKUP = Maps.immutableEnumMap(primary);
 		HYBRID_LOOKUP = hybrid.build();
 		MONOCOLORED_HYBRID_LOOKUP = Maps.immutableEnumMap(monocoloredHybrid);
 		PHYREXIAN_LOOKUP = Maps.immutableEnumMap(phyrexian);
-		//
-		// PRIMARY = getRange(PRIMARY_LOOKUP.values());
-		// HYBRID = getRange(HYBRID_LOOKUP.values());
-		// MONOCOLORED_HYBRID = getRange(MONOCOLORED_HYBRID_LOOKUP.values());
-		// PHYREXIAN = getRange(PHYREXIAN_LOOKUP.values());
 	}
-
-	// private static Range<ManaSymbol> getRange(Collection<ManaSymbol> symbols)
-	// {
-	// Iterator<ManaSymbol> iter = symbols.iterator();
-	// ManaSymbol first = iter.next();
-	// ManaSymbol last = first;
-	// while (iter.hasNext()) {
-	// ManaSymbol next = iter.next();
-	// last = Ordering.natural().max(last, next);
-	// first = Ordering.natural().min(first, next);
-	// }
-	// return Range.closed(first, last);
-	// }
 
 	public static ManaSymbol primary(Color color) {
 		return PRIMARY_LOOKUP.get(color);
@@ -307,13 +273,13 @@ public enum ManaSymbol {
 	}
 
 	public static enum Type {
-		GENERIC, 
-		COLORLESS, 
-		HYBRID, 
-		PRIMARY, 
-		MONOCOLORED_HYBRID, 
-		PHYREXIAN, 
-		VARIABLE, 
+		VARIABLE,
+		GENERIC,
+		COLORLESS,
+		HYBRID,
+		PRIMARY,
+		MONOCOLORED_HYBRID,
+		PHYREXIAN,
 		SNOW;
 	}
 

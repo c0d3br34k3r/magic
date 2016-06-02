@@ -3,7 +3,6 @@ package magic;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.EnumSet;
-import java.util.List;
 import java.util.Set;
 
 import com.google.common.base.CharMatcher;
@@ -318,10 +317,10 @@ public abstract class ManaCost {
 						appendCopies(builder, 'C', amount);
 						break;
 					case HYBRID:
-						List<Color> colorPair = symbol.colorPair();
+						Pair<Color> colorPair = symbol.colorPair();
 						appendCopies(builder,
-								colorPair.get(0).code(),
-								colorPair.get(1).code(),
+								colorPair.first().code(),
+								colorPair.second().code(),
 								amount);
 						break;
 					case MONOCOLORED_HYBRID:

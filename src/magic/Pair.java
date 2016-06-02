@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 import com.google.common.collect.ImmutableList;
 
-public class Pair<P> {
+public class Pair<P> implements Iterable<P> {
 
 	private ImmutableList<P> values;
 
@@ -28,7 +28,7 @@ public class Pair<P> {
 		return values.get(index);
 	}
 
-	Iterator<P> iterator() {
+	@Override public Iterator<P> iterator() {
 		return values.iterator();
 	}
 

@@ -13,9 +13,9 @@ import java.util.List;
 
 import com.google.common.collect.AbstractIterator;
 import com.google.common.collect.ImmutableListMultimap;
+import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.ImmutableSortedMap;
-import com.google.common.collect.ImmutableSortedMap.Builder;
 import com.google.common.collect.Iterables;
 import com.google.gson.stream.JsonReader;
 
@@ -27,7 +27,7 @@ import magic.Printing;
 public class MiniDatabase {
 
 	private final ImmutableSortedMap<String, Card> cards;
-	private final ImmutableSortedMap<String, Expansion> expansions;
+	private final ImmutableMap<String, Expansion> expansions;
 	private final ImmutableSortedMap<Card, ImmutableListMultimap<Expansion, Printing>> printings;
 
 	public MiniDatabase(String filename) throws IOException {
@@ -35,10 +35,10 @@ public class MiniDatabase {
 	}
 
 	public MiniDatabase(Path path) throws IOException {
-		Builder<String, Card> cardBuilder =
+		ImmutableSortedMap.Builder<String, Card> cardBuilder =
 				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
-		Builder<String, Expansion> expansionBuilder =
-				ImmutableSortedMap.orderedBy(String.CASE_INSENSITIVE_ORDER);
+		ImmutableMap.Builder<String, Expansion> expansionBuilder =
+				ImmutableMap.builder();
 		try (JsonReader in =
 				new JsonReader(Files.newBufferedReader(path, StandardCharsets.UTF_8))) {
 			in.beginArray();

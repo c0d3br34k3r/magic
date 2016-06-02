@@ -37,7 +37,7 @@ abstract class SymbolLogic {
 		throw new IllegalStateException();
 	}
 
-	List<Color> colorPair() {
+	Pair<Color> colorPair() {
 		throw new IllegalStateException();
 	}
 
@@ -134,8 +134,8 @@ abstract class SymbolLogic {
 			return ManaSymbol.Type.HYBRID;
 		}
 
-		@Override List<Color> colorPair() {
-			return ImmutableList.of(first, second);
+		@Override Pair<Color> colorPair() {
+			return new Pair<>(first, second);
 		}
 	}
 

@@ -94,9 +94,9 @@ public enum Color {
 	 */
 	public static String toString(Set<Color> colors) {
 		char[] buf = new char[colors.size()];
-		Iterator<Color> it = colors.iterator();
+		Iterator<Color> iter = colors.iterator();
 		for (int i = 0; i < buf.length; i++) {
-			buf[i] = it.next().code;
+			buf[i] = iter.next().code;
 		}
 		return new String(buf);
 	}
