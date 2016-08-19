@@ -32,15 +32,6 @@ public final class Cards {
 
 	private Cards() {}
 
-	public static boolean isPermanent(Characteristics card) {
-		for (Type type : card.types()) {
-			if (type.isPermanent()) {
-				return true;
-			}
-		}
-		return false;
-	}
-
 	private static final Predicate<Expansion> PHYSICAL = new Predicate<Expansion>() {
 		@Override public boolean apply(Expansion input) {
 			return input.type() != ReleaseType.ONLINE;

@@ -304,37 +304,8 @@ public abstract class ManaCost {
 		@Override public String toString() {
 			final StringBuilder builder = new StringBuilder();
 			for (Multiset.Entry<ManaSymbol> entry : symbols.entrySet()) {
-				ManaSymbol symbol = entry.getElement();
-				int amount = entry.getCount();
-				switch (entry.getElement().type()) {
-					case GENERIC:
-						builder.append('{').append(amount).append('}');
-						break;
-					case VARIABLE:
-						appendCopies(builder, 'X', amount);
-						break;
-					case COLORLESS:
-						appendCopies(builder, 'C', amount);
-						break;
-					case HYBRID:
-						Pair<Color> colorPair = symbol.colorPair();
-						appendCopies(builder,
-								colorPair.first().code(),
-								colorPair.second().code(),
-								amount);
-						break;
-					case MONOCOLORED_HYBRID:
-						appendCopies(builder, '2', symbol.color().code(), amount);
-						break;
-					case PHYREXIAN:
-						appendCopies(builder, symbol.color().code(), 'P', amount);
-						break;
-					case PRIMARY:
-						appendCopies(builder, symbol.color().code(), amount);
-						break;
-					default:
-						throw new AssertionError(symbol.name());
-				}
+				entry.getElement()
+				
 			}
 			return builder.toString();
 		}

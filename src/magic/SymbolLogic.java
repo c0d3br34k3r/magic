@@ -1,9 +1,7 @@
 package magic;
 
-import java.util.List;
 import java.util.Set;
 
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 
 /**
@@ -16,7 +14,6 @@ abstract class SymbolLogic {
 	private final int converted;
 
 	private SymbolLogic(int converted, Color... colors) {
-		// TODO: store converted?
 		this.converted = converted;
 		this.colors = ImmutableSet.copyOf(colors);
 	}
@@ -32,6 +29,14 @@ abstract class SymbolLogic {
 	abstract boolean payableWith(Set<Color> mana);
 
 	abstract ManaSymbol.Type type();
+
+	void format(StringBuilder builder, int amount) {
+		for (int i = 0; i < amount; i++) {
+			format(builder);
+		}
+	}
+
+	void format(StringBuilder builder) {}
 
 	Color color() {
 		throw new IllegalStateException();
@@ -54,6 +59,10 @@ abstract class SymbolLogic {
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.VARIABLE;
 		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append("{X}");
+		}
 	}
 
 	static class Generic extends SymbolLogic {
@@ -69,6 +78,10 @@ abstract class SymbolLogic {
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.GENERIC;
 		}
+
+		@Override void format(StringBuilder builder, int i) {
+			builder.append('{').append(i).append('}');
+		}
 	}
 
 	static class Colorless extends SymbolLogic {
@@ -83,6 +96,10 @@ abstract class SymbolLogic {
 
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.COLORLESS;
+		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append("{C}");
 		}
 	}
 
@@ -113,6 +130,10 @@ abstract class SymbolLogic {
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.PRIMARY;
 		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append('{').append(color.code()).append('}');
+		}
 	}
 
 	static final class Hybrid extends SymbolLogic {
@@ -136,6 +157,10 @@ abstract class SymbolLogic {
 
 		@Override Pair<Color> colorPair() {
 			return new Pair<>(first, second);
+		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append('{').append(first.code()).append('/').append(second.code()).append('}');
 		}
 	}
 
@@ -163,6 +188,10 @@ abstract class SymbolLogic {
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.MONOCOLORED_HYBRID;
 		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append("{2/").append(color.code()).append('}');
+		}
 	}
 
 	static final class Phyrexian extends ColorOptional {
@@ -173,6 +202,10 @@ abstract class SymbolLogic {
 
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.PHYREXIAN;
+		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append('{').append(color.code()).append("/P}");
 		}
 	}
 
@@ -188,6 +221,10 @@ abstract class SymbolLogic {
 
 		@Override ManaSymbol.Type type() {
 			return ManaSymbol.Type.SNOW;
+		}
+
+		@Override void format(StringBuilder builder) {
+			builder.append("{S}");
 		}
 	}
 

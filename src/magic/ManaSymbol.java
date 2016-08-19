@@ -1,14 +1,9 @@
 package magic;
 
 import java.util.Collection;
-import java.util.EnumMap;
-import java.util.EnumSet;
-import java.util.Map;
 import java.util.Set;
 
-import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Maps;
 
 import magic.SymbolLogic.Colorless;
 import magic.SymbolLogic.Generic;
@@ -201,75 +196,12 @@ public enum ManaSymbol {
 		return true;
 	}
 
+	/**
+	 * @deprecated I never asked for this.
+	 */
+	@Deprecated
 	public Type type() {
 		return internal.type();
-	}
-
-	public Color color() {
-		return internal.color();
-	}
-
-	public Pair<Color> colorPair() {
-		return internal.colorPair();
-	}
-
-	private static final Map<Color, ManaSymbol> PRIMARY_LOOKUP;
-	private static final Map<Set<Color>, ManaSymbol> HYBRID_LOOKUP;
-	private static final Map<Color, ManaSymbol> MONOCOLORED_HYBRID_LOOKUP;
-	private static final Map<Color, ManaSymbol> PHYREXIAN_LOOKUP;
-
-	static {
-		final Map<Color, ManaSymbol> primary = new EnumMap<>(Color.class);
-		final ImmutableMap.Builder<Set<Color>, ManaSymbol> hybrid = ImmutableMap.builder();
-		final Map<Color, ManaSymbol> monocoloredHybrid = new EnumMap<>(Color.class);
-		final Map<Color, ManaSymbol> phyrexian = new EnumMap<>(Color.class);
-		for (final ManaSymbol symbol : values()) {
-			switch (symbol.type()) {
-				case PRIMARY:
-					primary.put(symbol.color(), symbol);
-					break;
-				case HYBRID:
-					hybrid.put(symbol.colors(), symbol);
-					break;
-				case MONOCOLORED_HYBRID:
-					monocoloredHybrid.put(symbol.color(), symbol);
-					break;
-				case PHYREXIAN:
-					phyrexian.put(symbol.color(), symbol);
-					break;
-				case VARIABLE:
-				case GENERIC:
-				case COLORLESS:
-				case SNOW:
-					break;
-				default:
-					throw new AssertionError();
-			}
-		}
-		PRIMARY_LOOKUP = Maps.immutableEnumMap(primary);
-		HYBRID_LOOKUP = hybrid.build();
-		MONOCOLORED_HYBRID_LOOKUP = Maps.immutableEnumMap(monocoloredHybrid);
-		PHYREXIAN_LOOKUP = Maps.immutableEnumMap(phyrexian);
-	}
-
-	public static ManaSymbol primary(Color color) {
-		return PRIMARY_LOOKUP.get(color);
-	}
-
-	public static ManaSymbol hybrid(Color color1, Color color2) {
-		if (color1 == color2) {
-			throw new IllegalArgumentException(
-					"Hybrid symbols must have two different colors, but both were " + color1);
-		}
-		return HYBRID_LOOKUP.get(EnumSet.of(color1, color2));
-	}
-
-	public static ManaSymbol monocoloredHybrid(Color color) {
-		return MONOCOLORED_HYBRID_LOOKUP.get(color);
-	}
-
-	public static ManaSymbol phyrexian(Color color) {
-		return PHYREXIAN_LOOKUP.get(color);
 	}
 
 	public static enum Type {
